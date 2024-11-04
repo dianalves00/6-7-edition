@@ -27,4 +27,7 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - [Data Analysis Basics - Learning Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Data%20Wrangling%20-%20Pandas-Advanced/Data%20Analysis%20Basics/Learning%20Notebook.ipynb)
 - [Data Analysis Basics - Exercises Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Data%20Wrangling%20-%20Pandas-Advanced/Data%20Analysis%20Basics/Exercises%20Notebook.ipynb)
 
+- [Data Analysis Advanced - Learning Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Data%20Wrangling%20-%20Pandas-Advanced/Data%20Analysis%20Advanced/Learning%20Notebook.ipynb)
+- [Data Analysis Advanced - Exercises Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Data%20Wrangling%20-%20Pandas-Advanced/Data%20Analysis%20Advanced/Exercises%20Notebook.ipynb)
+
 
