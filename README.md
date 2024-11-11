@@ -32,4 +32,6 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 ### Time Series and Double Index
 - [Time Series - Learning Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Timeseries%20%26%20DoubleIndex/TimeSeries/Learning%20Notebook.ipynb)
 - [Time Series - Exercise Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Timeseries%20%26%20DoubleIndex/TimeSeries/Exercise%20notebook.ipynb)
+- [Double (Multi) Index - Learning Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Timeseries%20%26%20DoubleIndex/Double%20Index/Learning%20Notebook.ipynb)
+- [Double (Multi) Index - Exercises Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Timeseries%20%26%20DoubleIndex/Double%20Index/Exercise%20notebook.ipynb)
 
