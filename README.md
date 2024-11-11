@@ -29,5 +29,7 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 
 - [Data Analysis Advanced - Learning Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Data%20Wrangling%20-%20Pandas-Advanced/Data%20Analysis%20Advanced/Learning%20Notebook.ipynb)
 - [Data Analysis Advanced - Exercises Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Data%20Wrangling%20-%20Pandas-Advanced/Data%20Analysis%20Advanced/Exercises%20Notebook.ipynb)
-
+### Time Series and Double Index
+- [Time Series - Learning Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Timeseries%20%26%20DoubleIndex/TimeSeries/Learning%20Notebook.ipynb)
+- [Time Series - Exercise Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Timeseries%20%26%20DoubleIndex/TimeSeries/Exercise%20notebook.ipynb)
 
