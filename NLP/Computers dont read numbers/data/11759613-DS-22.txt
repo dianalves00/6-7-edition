@@ -1,0 +1,287 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zestril / Hydrochlorothiazide / Monopril / Vioxx / Celebrex / 
+Mobic / Motrin / Bactrim / Keflex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old female with history of DM, HTN, HLD, pAFib on 
+rivaroxaban, HFpEF, and CAD s/p multiple PCI and CABG in ___ 
+(LIMA to LAD, RIMA to RCA, RA to OM) and a recent cath which 
+showed patent grafts with severe native coronary disease 
+transferred from ___ with chest pain.
+
+Patient was recently admitted to ___. E___ with angina s/p cath on 
+___ that showed severe 3VD (proximal and mid LAD 80% diffuse 
+stenosis. OM1 80% ostial stenosis. Mid CX 70% stenosis. OM2 80% 
+in-stent restenosis. Distal CX severely diffusely diseased. OM3 
+totally occluded. Distal OM3 fills via a patent graft. RCA 
+diffusely diseased with ostial and 80% stenosis in distal 
+vessel) with stents patent. 
+Patent was offered PCI to OM2 and mid CX without guarantee that 
+it would palliate symptoms. She opted for medical management 
+with possible PCI if refractory. 
+
+Patient presented to OSH with worsening angina on ___ 
+unrelieved by rest or SL nitro. EKG was unchanged from prior per 
+report. She had persistent chest pain ___ and was started on a 
+nitro gtt and heparin gtt and transferred to ___ for further 
+eval.
+
+In the ED, initial vitals were: 96.7 68 125/69 16 96% RA  
+- Exam notable for: vss airway intact  
+- Labs notable for: H/H 9.9/31.3, PTT: 58.6 
+- Imaging: not obtained.
+
+- Patient was given: Nitro gtt and heparin gtt were continued 
+and patient was admitted to cardiology service for further 
+management.
+
+- Vitals prior to transfer: 98.9 67 138/69 18 98% RA  
+
+Upon arrival to the floor, patient reports that her chest pain 
+has resolved on the nitro gtt. She has no complaints.
+
+ 
+Past Medical History:
+- CAD s/p multiple PCI and CABG in ___ (LIMA to LAD, RIMA to 
+RCA, RA to OM); recent LHC ___ with patent grafts with severe 
+native coronary disease
+- Afib on rivaroxaban
+- HFpEF
+- DM
+- HTN
+- HLD
+- PVD
+- Obesity 
+ 
+Social History:
+___
+Family History:
+CAD (brother died VF arrest at ___, father had first MI at age 
+___, had 4V bypass mid ___, died in ___, mother had MI in ___, 
+died in ___, also had multiple sclerosis) DM2, HTN.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================
+Vital Signs: T 97.9, BP 116/66, HR 69, RR 18, O2Sat 98%RA
+General: Alert, oriented, no acute distress.
+HEENT: Sclerae anicteric.
+Neck: Supple. JVP not elevated.
+CV: Regular rate and rhythm. Soft systolic murmur (I-II/VI)
+Lungs: Clear to auscultation bilaterally, no wheezes, rales  
+Abdomen: Soft, non-tender, non-distended
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+General: pleasant woman, sitting comfortably on bed, alert and 
+awake, speaking in full sentences, in NAD.
+HEENT: Sclerae anicteric, EOMI, MMM, no OP lesions
+CV: RRR, nml s1/s2, unable to appreciate any murmurs/rubs/or 
+gallops. No thrills or lifts. 
+Lungs: CTAB, no wheezes, rales, or rhonchi. No increased work of 
+breathing or use of accessory muscles.   
+Abdomen: +BS, soft, NTND, no rebound or guarding
+Ext: WWP, 2+ R radial pulse, 2+ femoral pulses b/l. No 
+peripheral edema, clubbing, or cyanosis.  
+ 
+Pertinent Results:
+ADMISSION LABS: 
+================
+___ 03:40AM BLOOD WBC-7.7 RBC-3.29* Hgb-9.9* Hct-31.3* 
+MCV-95 MCH-30.1 MCHC-31.6* RDW-15.5 RDWSD-53.5* Plt ___
+___ 03:40AM BLOOD Neuts-54.4 ___ Monos-10.7 Eos-3.1 
+Baso-0.7 Im ___ AbsNeut-4.17 AbsLymp-2.38 AbsMono-0.82* 
+AbsEos-0.24 AbsBaso-0.05
+___ 03:40AM BLOOD ___ PTT-58.6* ___
+___ 03:40AM BLOOD Glucose-98 UreaN-19 Creat-0.7 Na-140 
+K-4.1 Cl-108 HCO3-20* AnGap-16
+___ 10:54AM BLOOD CK(CPK)-72
+___ 03:40AM BLOOD cTropnT-<0.01
+___ 03:40AM BLOOD Phos-4.1 Mg-1.6
+___ 11:02AM BLOOD Lactate-0.8
+
+IMAGING: 
+========
+___ Imaging CHEST (PA & LAT) 
+No acute cardiopulmonary abnormalities.
+
+___ Cardiac Perfusion 
+IMPRESSION:  Moderate anteroseptal perfusion defect with partial 
+reversibility.  
+Borderline enlarged left ventricle.  EF 52%. 
+
+MICRO:
+======
+___ URINE culture - no growth 
+
+___ Blood culture - negative to date (___)
+
+DISCHARGE LABS:
+================
+___ 05:38AM BLOOD WBC-7.8 RBC-3.39* Hgb-10.2* Hct-32.3* 
+MCV-95 MCH-30.1 MCHC-31.6* RDW-15.8* RDWSD-54.6* Plt ___
+___ 05:38AM BLOOD Plt ___
+___ 05:38AM BLOOD ___ PTT-30.7 ___
+___ 05:38AM BLOOD Glucose-83 UreaN-21* Creat-0.6 Na-143 
+K-5.0 Cl-107 HCO3-23 AnGap-18
+___ 05:38AM BLOOD Calcium-9.5 Phos-4.6* Mg-1.7
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with history of CAD (s/p PCI x16 
+and CABG in ___ recent cardiac angiography with 80% stenosis 
+OM1 and 70% stenosis LCx), HFpEF, pAfib (on eliquis), DM, HTN, 
+HLD, and strong family history of CAD who presented to ___ 
+___ with chest pain then transferred to ___ for further 
+eval of unstable angina.
+
+# Chest pain: 
+Patient with worsening chest pain with exertion without EKG 
+changes or trop, concerning for unstable angina. She was started 
+on heparin and nitro gtt's. Upon admission she was chest pain 
+free but developed CP with minimal exertion. Her home imdur was 
+increased to 120mg daily and amlodipine was increased to 5mg 
+daily. She underwent persantine MIBI which showed a partially 
+reversible anteroseptal perfusion defect. However, her cath 
+results from ___ (done at ___ 
+did not correlate with the location of this perfusion defect. 
+(Cath images were uploaded to ___ system and reviewed. There 
+is some revascularization possible in the ___ territory but high 
+risk and of questionable benefit. All grafts patent.) She was 
+asymptomatic after medication optimization so we opted to 
+proceed with that for now but if symtpoms recur rotablade and 
+PCI of the LCx/OM can be considered and her films will be in 
+Lifeimgae for our intevrentionalists to review. .
+
+___ Cor angio report (___:
+Severe 3VD, proximal and mid LAD have an 80% diffuse stenosis. 
+OM1 with 80% ostial stenosis. Mid CX with 70% stenosis. OM2 with 
+80% in-sttent restenosis. Distal CX is severely diffusely 
+diseased and OM3 is totally occluded. The distal OM3 fills via a 
+patent graft. RCA diffusely diseased with ostial and 80% 
+stenosis in distal vessel. 
+
+TRANSITIONAL ISSUES:
+[ ] Lisinopril was decreased from 5mg BID to 5mg daily as she 
+was normotensive after increasing her isosorbide mononitrate. 
+Please check BP at followup and adjust as appropriate.
+[ ] Amlodipine was increased from 2.5mg to 5mg daily
+[ ] Isosorbide mononitrate extended-release was increased to 
+120mg daily
+[ ] If symptoms persist, please consider outpatient PCI for LCx 
+disease
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rosuvastatin Calcium 40 mg PO QPM 
+2. Omeprazole 20 mg PO BID 
+3. Metoprolol Succinate XL 50 mg PO BID 
+4. MetFORMIN (Glucophage) 1000 mg PO BID 
+5. Lisinopril 5 mg PO BID 
+6. Isosorbide Mononitrate (Extended Release) 30 mg PO BID 
+7. Escitalopram Oxalate 20 mg PO DAILY 
+8. amLODIPine 2.5 mg PO DAILY 
+9. OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO BID:PRN Pain - 
+Moderate 
+10. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+11. Fexofenadine 180 mg PO DAILY 
+12. Aspirin 81 mg PO DAILY 
+13. Calcium Carbonate 500 mg PO DAILY 
+14. Vitamin D 1000 UNIT PO DAILY 
+15. Apixaban 5 mg PO BID 
+16. Magnesium Oxide 400 mg PO BID 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+RX *isosorbide mononitrate 120 mg 1 tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*0 
+3.  Lisinopril 5 mg PO DAILY  
+4.  Apixaban 5 mg PO BID  
+5.  Aspirin 81 mg PO DAILY  
+6.  Calcium Carbonate 500 mg PO DAILY  
+7.  Escitalopram Oxalate 20 mg PO DAILY  
+8.  Fexofenadine 180 mg PO DAILY  
+9.  Magnesium Oxide 400 mg PO BID  
+10.  MetFORMIN (Glucophage) 1000 mg PO BID  
+11.  Metoprolol Succinate XL 50 mg PO BID  
+12.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+13.  Omeprazole 20 mg PO BID  
+14.  OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO BID:PRN Pain 
+- Moderate  
+15.  Rosuvastatin Calcium 40 mg PO QPM  
+16.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Chest pain
+
+Secondary Diagnoses:
+Atrial fibrillation
+Stable coronary artery disease
+Diabetes mellitus type 2
+Hypertension
+Chronic back pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why was I admitted to the hospital?  
+-You were admitted because you had chest pain.  
+
+What happened while I was in the hospital?  
+-We optimized your blood pressure and other cardiac medications.
+-You went for a stress test, which was not concerning for 
+coronary blockages requiring urgent intervention.
+
+What should I do after leaving the hospital?  
+-Please take your medications as instructed in this packet.
+-Please follow up with your cardiologist to make sure you are 
+doing well on the new medication regimen, as well as to discuss 
+next steps based on the results of your catheterization from 
+___ done at ___.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Your ___ Healthcare Team
+ 
+Followup Instructions:
+___

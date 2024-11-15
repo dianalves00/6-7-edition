@@ -1,0 +1,211 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Nifedipine / latex / IV Dye, Iodine Containing Contrast Media
+ 
+Attending: ___.
+ 
+Chief Complaint:
+RUE swelling, unable to access RUE AVG for HD
+
+ 
+Major Surgical or Invasive Procedure:
+___ left avg resected
+___ left IJ tunneled line placement
+
+ 
+History of Present Illness:
+HPI:  ___ ESRD on HD, ___ s/p R nephrectomy, and CHF presenting
+with RUE swelling x2 days, inability to access RUE AVF at HD
+today.  Mr. ___ reports having used his RUE AVF, placed
+___, for approximately two weeks for ___ HD.  He noticed
+more swelling and discomfort in the entire R arm yesterday, 
+which
+has worsened today.  He presented for HD this afternoon, but 
+when
+the nurses were unable to hear a bruit, he was referred to the 
+ED
+for evaluation of the graft.  There was no attempt to access the
+graft today.  He was last dialyzed on ___ and feels mildly
+fluid overloaded, with mild dyspnea but reports this feels much
+like a ___ on ___ HD.
+
+Of note, Mr. ___ was previously dialyzing via tunneled R IJ
+HD catheter, which was removed earlier this week.  He denies
+fever, chills, nausea, vomiting, diarrhea, weakness, or chest
+pain.  He denies R hand pain or coolness, but does feel
+"tightness" when he makes a fist.
+
+ROS:
+(+) per HPI
+(-) Denies pain, fevers chills, night sweats, unexplained weight
+loss, fatigue/malaise/lethargy, changes in appetite, trouble 
+with
+sleep, pruritis, jaundice, rashes, bleeding, easy bruising,
+headache, dizziness, vertigo, syncope, weakness, paresthesias,
+nausea, vomiting, hematemesis, bloating, cramping, melena, 
+BRBPR,
+dysphagia, chest pain, cough, urinary frequency, urgency
+
+ 
+Past Medical History:
+- Renal cell carcinoma s/p right nephrectomy in ___  
+- CKD IV- felt secondary to HTN on the left kidney. Initiated HD 
+on ___ secondary to uremic symptoms. Tunneled catheter
+- CAD  
+- Gout  
+- OSA  
+- CHF  
+- Malignant hyperthermia  
+- Hypercholesterolemia  
+Past surgical history:  
+- Right nephrectomy ___  
+- Left brachiobasilic arteriovenous fistula ___  
+- Appendectomy 
+
+ 
+Social History:
+___
+Family History:
+His mother is alive at the age of ___ with history of 
+hypertension and hip replacement. His father is also alive and 
+had an aneurysm. The patient has six siblings who are doing 
+well. He has two adult daughters who are healthy.
+ 
+Physical Exam:
+VS: 98.4, 87, 126/74, 18, 99% RA
+Gen: AAOx3, NAD
+CV: RRR
+Pulm: CTAB
+Chest: left tunneled line in place w/o erythema/swelling
+Ext: RUE AVG site nonerythematous, nonedematous, w/o drainage
+
+ 
+Pertinent Results:
+___ 06:00PM BLOOD WBC-9.7 RBC-3.72* Hgb-11.1* Hct-35.0* 
+MCV-94 MCH-29.7 MCHC-31.6 RDW-17.0* Plt ___
+___ 06:30AM BLOOD WBC-3.3*# RBC-3.53* Hgb-10.5* Hct-33.4* 
+MCV-95 MCH-29.7 MCHC-31.4 RDW-16.7* Plt ___
+___ 06:30AM BLOOD ___ PTT-31.0 ___
+___ 06:30AM BLOOD Glucose-338* UreaN-106* Creat-12.1* 
+Na-138 K-5.1 Cl-99 HCO3-21* AnGap-23*
+___ 06:30AM BLOOD Calcium-8.5 Phos-4.3# Mg-2.3
+___ 06:30AM BLOOD Vanco-20.5*
+
+___ 8:21 am FOREIGN BODY      RIGHT AV GRAFT. 
+ **FINAL REPORT ___
+WOUND CULTURE (Final ___:    NO GROWTH.
+
+___ 12:54 am SWAB      Source: Rectal swab. 
+
+   R/O VANCOMYCIN RESISTANT ENTEROCOCCUS (Preliminary): 
+      ENTEROCOCCUS SP.. 
+
+ 
+Brief Hospital Course:
+___ y/o male admitted through the emergency room from his 
+dialysis unit with a thrombosed graft. Ultrsound on admission 
+shows an occlusive thrombosis along the entire length of the 
+right arteriovenous graft. The graft had been placed on ___ 
+and had been successfully used. 
+He was taken to the OR on ___ with Dr ___ initially 
+for a graft thrombectomy. However, once into the arm, it was 
+quickly noted that the graft was completely unincorporated and 
+therefore grossly infected, however there was no pus. The 
+incision was extended toward the venous anastomosis until 
+incorporated graft was found. Approximately 4 cm of graft was 
+excised. The limbs were oversewn, cultures were sent, the 
+patient tolerated the procedure without complication. 
+The AV graft specimen showed no growth on culture.
+The patient received IV Vancomycin per HD protocol.
+On ___ he underwent successful placement of tunneled access 
+catheter through the left internal jugular vein approach, with 
+the tip located in the right atrium and the catheter ready for 
+use. 
+Following line placement he was taken to hemodialysis, and 
+received a 4 hour treatment with 4.5 liters removed. However, 
+since he had not received dialysis in 4 days, the nephrology 
+team thought it beneficial to complete another HD run on 
+___, then discharge back to his regular dialysis unit 
+schedule of ___. He will continue antibiotics for 2 weeks, 
+followed by one week off antibiotics, and if he remains well and 
+afebrile, we will proceed with graft revision.
+The patient was scheduled for a jump graft placement on ___.
+ 
+Medications on Admission:
+nephrocaps', benazepril 40', carvedilol 25'',
+felodipine ER 10', glipizide 10'', hydralazine 150'', ___,
+avapro 150', crestor 20', sildenafil, ASA 81', Calcium carbonate
+200'''
+
+Allergies:  nifedipine, IV/iodine containing dyes, latex
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+2. Avapro *NF* (irbesartan) 150 mg Oral daily Reason for 
+Ordering: Wish to maintain preadmission medication while 
+hospitalized, as there is no acceptable substitute drug product 
+available on formulary.
+3. benazepril *NF* 40 mg Oral daily Reason for Ordering: Wish to 
+maintain preadmission medication while hospitalized, as there is 
+no acceptable substitute drug product available on formulary.
+4. Calcium Carbonate 500 mg PO TID 
+5. Carvedilol 25 mg PO BID 
+6. Felodipine 10 mg PO DAILY 
+7. GlipiZIDE 10 mg PO BID 
+8. HydrALAzine 150 mg PO BID 
+9. Nephrocaps 1 CAP PO DAILY 
+10. Rosuvastatin Calcium 20 mg PO DAILY 
+11. sevelamer CARBONATE 1600 mg PO TID W/MEALS 
+RX *sevelamer carbonate [Renvela] 800 mg 2 tablet(s) by mouth 
+four times a day Disp #*180 Tablet Refills:*3
+12. Vancomycin  IV Sliding Scale Duration: 2 Weeks  
+13. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0
+14. Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using HUM Insulin
+15. Aspirin 81 mg PO DAILY 
+16. PredniSONE 0 mg PO DAILY 
+Per gout flare therapy 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+infected av graft
+esrd
+h/o RCC
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You had your AVG removed and a left internal jugular tunneled 
+dialysis catheter placed on ___. 
+You may continue on hemodialysis using the tunneled catheter on 
+___ schedule
+-Please call Dr. ___ office ___ if you have 
+any of the following: temperature of 101 or greater, chills, 
+bleeding/swelling/redness from right arm incision or Left 
+tunneled line site. Please call immediately if catheter 
+malfunctions
+ 
+Followup Instructions:
+___

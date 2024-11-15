@@ -1,0 +1,255 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Ulcerative Colitis 
+ 
+Major Surgical or Invasive Procedure:
+Completion proctectomy, ileal pouch to the anal canal 
+anastomosis with temporary diverting loop ileostomy.
+
+ 
+History of Present Illness:
+___ year old female patient with PMH significant for Ulcerative 
+Colitis who presented in ___ to ___ for treatment of toxic 
+magacolon related to Ulcerative colitis. She had an open total 
+abdominal colectomy on ___, the first of a 3 step procedure. 
+The patient presented to ___ for elective proctectomy and 
+creation of a J Pouch and loops ileostomy. Prior to this 
+admission and after her original surgery, the patient was 
+admitted to ___ and treated for pancreatitis. 
+ 
+Past Medical History:
+PMH: (per OMR) Ulcerative colitis ___, 3 flares including  
+current presenation, maintenance asacol, stable  
+proctosigmoiditis, now pancolitis.  
+ 
+PSH: LEEP x2  
+
+ 
+Social History:
+___
+Family History:
+Maternal aunt with UC. Maternal GM with spastic colon. Father 
+with GERD. Various family members with IBS. 
+ 
+Physical Exam:
+GEN: Supine in bed, uncomfortable, non-toxic appearing 
+CV: RRR, no m/g/r
+Resp: CTAB
+Abd: Soft, non-distended, hypoactive BS, midline scar well
+healed, ileostomy WNL greenish toothpaste consistency output, 
+TTP
+epigastrium and LUQ, no peritoneal signs or rebound. No TTP in
+LLQ or around stoma site.
+Ext: warm, well-perfused
+
+ 
+Pertinent Results:
+___ 05:20PM BLOOD Hct-27.0*
+___ 05:30AM BLOOD WBC-11.2* RBC-3.07* Hgb-8.4* Hct-25.9* 
+MCV-84 MCH-27.3 MCHC-32.4 RDW-12.8 Plt ___
+___ 01:00AM BLOOD WBC-12.0* RBC-3.39* Hgb-9.5* Hct-28.8* 
+MCV-85 MCH-27.9 MCHC-32.9 RDW-12.9 Plt ___
+___ 01:40PM BLOOD WBC-15.1* RBC-3.71* Hgb-10.1* Hct-31.1* 
+MCV-84 MCH-27.1 MCHC-32.4 RDW-13.8 Plt ___
+___ 05:45AM BLOOD WBC-14.0*# RBC-4.07* Hgb-11.0* Hct-34.2* 
+MCV-84 MCH-26.9* MCHC-32.1 RDW-12.6 Plt ___
+___ 08:15PM BLOOD Hct-39.2
+___ 05:30AM BLOOD Plt ___
+___ 01:00AM BLOOD Plt ___
+___ 05:30AM BLOOD Glucose-79 UreaN-5* Creat-0.4 Na-138 
+K-3.8 Cl-102 HCO3-28 AnGap-12
+___ 01:00AM BLOOD Glucose-89 UreaN-6 Creat-0.4 Na-138 K-3.7 
+Cl-102 HCO3-27 AnGap-13
+___ 01:40PM BLOOD Glucose-90 UreaN-10 Creat-0.6 Na-138 
+K-4.2 Cl-104 HCO3-24 AnGap-14
+___ 05:45AM BLOOD Glucose-92 UreaN-11 Creat-0.5 Na-138 
+K-4.1 Cl-103 HCO3-27 AnGap-12
+___ 08:15PM BLOOD Na-141 K-3.9 Cl-105
+___ 05:30AM BLOOD Amylase-14
+___ 05:30AM BLOOD Calcium-8.0* Phos-2.9 Mg-2.1
+___ 01:00AM BLOOD Calcium-7.5* Phos-2.2*# Mg-1.7
+___ 05:45AM BLOOD Calcium-8.3* Phos-5.1* Mg-2.1
+___ 08:15PM BLOOD Mg-1.7
+ 
+Brief Hospital Course:
+The patient was admitted to the inpatient colorectal surgery 
+service after proctectomy, Jpouch creation, and loop ileostomy. 
+The patient was noted to have an oxygen saturation in the 70's 
+on room air. The patient was placed on continuous O2 saturation 
+monitoring, her saturation remained stable as her pain 
+medicaiton was decreased. The patient was monitored closely. On 
+post-operative day one the patient was noted to have increased 
+pain and abdominal distension. She was followed by the acute 
+pain service for possible epidural placment. She consented to 
+the epidrual placment, the patient was taken to the PACU and 
+when she was turned, she was noted to pass approximately ___ cup 
+of blood per rectum. Her heart rate climbed to 140. He was 
+evaluated, and her panin was improved Her hematocrit was 
+followed every 6 hours after this time and stabilized. With 
+fluid boluses for decreased urine output and tahcycardia, her 
+heart rate recovered to 104-110. On post-operative day two, the 
+patient was noted to have a fever >100. A UA/UC and BC were 
+sent. Urine culture was possitive for gram positive cocci. She 
+was monitored closely. Her diet was advanced very slowly 
+throughout her hospital stay, on hospital day ___ she began to 
+have output from the ileostomy. She continued to ambulated the 
+inpatient unit. On post-operative day four, she began to 
+experience nausea and emesis. Her diet  was backed to ice chips 
+for comfort. The epidural was removed this day as well as her 
+foley catheter. She voided without issue. The patient slowly 
+began to advance to a regular diet. Her oral intake waxed and 
+waned as she was intermittently nauseated. An abdominal film was 
+obtained on ___ to evaluate for ileus which was unremarkable. 
+The patient continued to pass stool and gas through the 
+ileostomy. On ___ the patient was able to tolerate a regular 
+diet and her pain was well controlled on oral medication. She 
+was educated in ostomy care, and deemed appropriate for 
+discharge.
+ 
+Medications on Admission:
+1.Acetaminophen 325 mg PO Q6H:PRN pain  
+2.HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain  
+___ 10 mg PO Q6H:PRN nausea  
+4.Ibuprofen 400 mg PO Q8H:PRN pain  
+5.Zolpidem Tartrate 5 mg PO HS insomnia  
+6.Ondansetron 4 mg PO Q8H:PRN nausea  
+7.Pantoprazole 40mg'  
+
+ 
+Discharge Medications:
+1. Pantoprazole 40 mg PO Q24H 
+2. Acetaminophen 650 mg PO Q6H:PRN pain 
+3. Metoclopramide 10 mg PO Q6H 
+RX *metoclopramide HCl 10 mg 1 Tablet by mouth Q6HRS Disp #*60 
+Tablet Refills:*0
+4. Ondansetron 4 mg PO Q6H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth Q6HRS Disp #*60 Tablet 
+Refills:*0
+5. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+hold  for sedation or Rr<12 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4HRS Disp #*80 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Ulcerative colitis status post total abdominal colectomy and 
+ileostomy.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___ were admitted to the hospital for an open proctectomy w/ 
+/J-pouch and temporary ileostomy. This is the second step in 
+your three step procedure for the treatment of your Ulcerative 
+Colitis. ___ will have a pouch-o-gram to inspect the pouch to be 
+sure it is healed prior to your second follow-up appointment 
+with Dr. ___. This will be arranged by the outpatient clinic. 
+___ will be readmitted after the pouch has healed for an 
+ileostomy takedown. ___ are tolerating a regular diet and your 
+pain is controlled by pain medications by mouth. ___ are ready 
+to be dischraged home. If ___ have any of the following symptoms 
+please call the office for advice or go to the emergency room if 
+severe: increasing abdominal distension, increasing abdominal 
+pain, nausea, vomiting, inability to tolerate food or liquids, 
+prolonged loose stool, or constipation. 
+
+___ have a new ileostomy. The most common complication from a 
+new ileostomy placement is dehydration. The output from the 
+stoma is stool from the small intestine and the water content is 
+very high. The stool is no longer passing through the large 
+intestine which is where the water from the stool is reabsorbed 
+into the body and the stool becomes formed. ___ must measure 
+your ileostomy output for the next few weeks. The output from 
+the stoma should not be more than 1200cc or less than 500cc. If 
+___ find that your output has become too much or too little, 
+please call the office for advice. The office nurse or nurse 
+practitioner can recommend medications to increase or slow the 
+ileostomy output. Keep yourself well hydrated, if ___ notice 
+your ileostomy output increasing, take in more electrolyte drink 
+such as Gatorade. Please monitor yourself for signs and symptoms 
+of dehydration including: dizziness (especially upon standing), 
+weakness, dry mouth, headache, or fatigue. If ___ notice these 
+symptoms please call the office or return to the emergency room 
+for evaluation if these symptoms are severe. ___ may eat a 
+regular diet with your new ileostomy. However it is a good idea 
+to avoid fatty or spicy foods and follow diet suggestions made 
+to ___ by the ostomy nurses.
+
+___ monitor the appearance of the ostomy and stoma and care 
+for it as instructed by the wound/ostomy nurses. ___ stoma 
+(intestine that protrudes outside of your abdomen) should be 
+beefy red or pink, it may ooze small amounts of blood at times 
+when touched and this should subside with time. The skin around 
+the ostomy site should be kept clean and intact. Monitor the 
+skin around the stoma for bulging or signs of infection listed 
+above. Please care for the ostomy as ___ have been instructed by 
+the wound/ostomy nurses. ___ will be able to make an appointment 
+with the ostomy nurse in the clinic 7 days after surgery. ___ 
+will have a visiting nurse at home for the next few weeks 
+helping to monitor your ostomy until ___ are comfortable caring 
+for it on your own. 
+
+Currently your ileostomy is allowing the surgery in your large 
+intestine to heal, which does take some time. ___ will come back 
+to the hospital for reversal of this ileostomy when decided by 
+Dr. ___ will follow-up in the clinic, and the 
+surgeon will decide when will be the best time for your second 
+surgery. Until this time there is healthy intestine that is 
+still functioning as it normally would and it will produce mucus 
+and some may leak or ___ may feel as though ___ need to have a 
+bowel movement and ___ may sit on the toilet and empty this 
+mucus, it is normal. 
+
+___ have a long vertical incision on your abdomen that is closed 
+with dermabond. This incision can be left open to air or covered 
+with a dry sterile gauze dressing if the incision becomes 
+irritated from clothing. Please monitor the incision for signs 
+and symptoms of infection including: increasing redness at the 
+incision, opening of the incision, increased pain at the 
+incision line, draining of white/green/yellow/foul smelling 
+drainage, or if ___ develop a fever. Please call the office if 
+___ develop these symptoms or go to the emergency room if the 
+symptoms are severe. ___ may shower, let the warm water run over 
+the incision line and pat the area dry with a towel, do not rub. 
+
+
+No heavy lifting for at least 6 weeks after surgery unless 
+instructed otherwise by Dr. ___ Dr. ___ may 
+gradually increase your activity as tolerated but clear heavy 
+exercise with Dr. ___ Dr. ___. 
+
+___ will be prescribed a small amount of the pain medication 
+Oxycodone. Please take this medication exactly as prescribed. 
+___ may take Tylenol as recommended for pain. Please do not take 
+more than 4000mg of Tylenol daily. Do not drink alcohol while 
+taking narcotic pain medication or Tylenol. Please do not drive 
+a car while taking narcotic pain medication. 
+
+Thank ___ for allowing us to participate in your care! Our hope 
+is that ___ will have a quick return to your life and usual 
+activities. Good luck!
+
+ 
+Followup Instructions:
+___

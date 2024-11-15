@@ -1,0 +1,463 @@
+ 
+Name:  ___.                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Optiray 350 / shellfish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Transfer for wide complex tachycardia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with HIV on HAART, Afib on
+coumadin, HTN, CKD, metastatic castration-resistant prostate
+cancer s/p prostatectomy and radiation, now on C3D1 docetaxel
+___ with bony metastases, who was admitted from ___ to inaptient ___ after presenting with shortness
+of breath (77% on RA) and lower extremity edema, found to have
+acute respiratory failure ___ multifocal pneumonia, who was 
+noted
+to have wide complex tachycardia started on amiodarone drip,
+transferred to ___ cardiology service for further evaluation. 
+
+Patient's hospitalization was notable for initial complaint of
+dyspnea on exertion, cough and low grade fevers/chills for a few
+weeks, with dizziness/lightheadedness when standing, poor
+appetite, which he thought was also chemotherapy related. In the
+ED, CT chest showed multilobar ground glass opacities with 
+repeat
+showing multifocal patchy opacities. Initially covered with 
+broad
+spectrum antibiotics with vancomycin, cefepime, azithromycin,
+Bactrim, transitioned to Levofloxacin and Bactrim per ID
+recommendations, switched back to cefepime, doxycycline and
+Bactrim due to concern for QTc prolongation. Was also started on
+voriconazole and caspofungin for positive sputum culture growing
+___ and slightly elevated galactomannan. Beta Glucan swab
+negative. Patient was treated for likely fungal infection (+/-
+bacterial) vs chemotherapy related pulmonary toxicity. He had a
+bronchoscopy ___ for further evaluation, cultures pending. 
+
+He was incidentally noted to have a stable wide complex
+tachycardia on ___. Cardiology was consulted who felt this was
+likely slow ventricular tachycardia. The episode resolved 
+without
+intervention. He was bolused 150 mg IV amiodarone and started on
+an amiodarone drip. He shortly reverted back to his baseline
+narrow complex atrial fibrillation. On ___ he became 
+tachycardic
+again to 100, remained asymptomatic and HDS. Cardiology was
+called and advised re-bolusing with 150 mg x1 and increasing his
+drip to 1 mg/min (had just been decreased per protocol).
+Recommended transfer for EP evaluation. Troponin was elevated to
+0.016 with nonischemic EKG.
+
+On the floor, patient is feeling alright. His shortness of 
+breath
+is better but he hasn't been out of bed much. He has
+tremulousness of his voice which he attributes to his tongue
+being dry. He denies chest pain, ___ swelling, palpitations,
+abdominal pain, headaches. 
+ 
+Past Medical History:
+1. HIV
+2. Hx of Prostate cancer in ___ sp radical prostatectomy at  
+___, PSA went from 6 in ___ to 12 in ___, restarting Casodex 
+ 
+3. HTN - on hyzaar and atenolol but only takes atenolol a few  
+days a week  
+4. Atrial fibrillation on Coumadin  
+5. Depression  
+6. GERD  
+7. Hyperlipidemia  
+ 
+PAST SURGICAL HISTORY:  
+1. Tonsillectomy  
+2. Pilonidal cyst removal  
+3. Anal sphincter fistula/abscess surgery  
+4. Radical prostatectomy w LN dissection (___)
+5. Removal of multiple sebaceous cysts from scalp  
+6. R index finger amputation  
+
+ 
+Social History:
+___
+Family History:
+Mother had CAD
+Father had metastatic colon cancer
+Brother has afib and prostatitis
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+VS: 98.7 PO 146 / 79 107 20 94 3L NC 
+GENERAL: Well nourished, NAD. Oriented x3. Mood, affect
+appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple.
+CARDIAC: Irregular rhythm, slightly fast rate. Normal S1, S2. No
+murmurs, rubs, or gallops. no thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+mildly labored with no accessory muscle use. Scattered ronchi 
+and
+wheezing.
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+plenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+eripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: T 97.4F, BP 149/82, HR 91, 94% on room air.
+GENERAL: lying up in bed, NAD. Word finding difficulties,
+somewhat garbled/stuttering speech.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. EOMI.
+CARDIAC: Irregular rhythm, regular rate. Normal S1, S2. No
+murmurs, rubs, or gallops.
+LUNGS: Respiration improved, CTAB, no wheezes rales or rhonchi.
+Minimal accessory muscle use noted with increased activity. 
+ABDOMEN: Soft, non-tender, non-distended.   
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema. Does have peeling of skin b/l legs due to 
+chemo.
+NEURO: Moving all extremities with intention. Intention tremor
+noted.   
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 05:56AM BLOOD WBC-7.1 RBC-2.48* Hgb-8.0* Hct-24.6* 
+MCV-99* MCH-32.3* MCHC-32.5 RDW-16.9* RDWSD-61.3* Plt ___
+___ 05:56AM BLOOD ___ PTT-29.7 ___
+___ 05:56AM BLOOD Glucose-90 UreaN-18 Creat-1.1 Na-138 
+K-4.0 Cl-98 HCO3-26 AnGap-14
+___ 05:56AM BLOOD Albumin-3.2* Calcium-8.5 Phos-2.5* Mg-2.0
+___ 05:56AM BLOOD ALT-19 AST-22 LD(LDH)-261* AlkPhos-78 
+TotBili-0.2
+___ 05:56AM BLOOD cTropnT-<0.01
+___ 06:22AM BLOOD ___ pO2-33* pCO2-42 pH-7.43 
+calTCO2-29 Base XS-2
+___ 06:22AM BLOOD Lactate-1.2
+
+PERTINENT LABS/MICRO/IMAGING:
+============================
+___ 05:56AM BLOOD  WBC-7.1 Lymph-17* Abs ___ CD3%-77 
+Abs CD3-935 CD4%-39 Abs CD4-468 CD8%-38 Abs CD8-459 CD4/CD8-1.02
+___ 06:50AM BLOOD HIV1 VL-NOT DETECT
+___ 06:20AM BLOOD calTIBC-174* VitB12-510 Folate-14 
+Hapto-250* Ferritn-545* TRF-134*
+
+___ 1:50 pm Rapid Respiratory Viral Screen & Culture
+      ADD-ON REQUESTED ___, 09:27AM ___. 
+
+                            **FINAL REPORT ___
+
+   Respiratory Viral Antigen Screen (Final ___: 
+      Less than 60 columnar epithelial cells;. 
+      Inadequate specimen for DFA detection of respiratory 
+viruses.. 
+      Interpret all negative DFA and/or culture results from 
+this specimen
+      with caution.. 
+      Negative results should not be used to discontinue 
+precautions.. 
+      Recommend new sample be submitted for confirmation.. 
+      Refer to respiratory viral culture and/or Influenza PCR 
+(results
+      listed under "OTHER" tab) for further information.. 
+      Reported to and read back by ___ AT 10:51 ON 
+___. 
+
+   Respiratory Viral Culture (Final ___: 
+      No respiratory viruses isolated. 
+      Culture screened for Adenovirus, Influenza A & B, 
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus.. 
+      Detection of viruses other than those listed above will 
+only be
+      performed on specific request. Please call Virology at 
+___
+      within 1 week if additional testing is needed. 
+
+CXR ___:
+In comparison with the study of ___, there again are 
+multiple areas of
+increased opacification bilaterally, consistent with the 
+diagnosis of
+multifocal pneumonia made on the CT study of ___.
+Continued low lung volumes with enlargement of the cardiac 
+silhouette and
+stable pulmonary vascular congestion.
+
+DISCHARGE LABS:
+===============
+___ 06:43AM BLOOD WBC-7.3 RBC-2.80* Hgb-9.3* Hct-27.9* 
+MCV-100* MCH-33.2* MCHC-33.3 RDW-16.2* RDWSD-59.3* Plt ___
+___ 06:43AM BLOOD ___ PTT-32.2 ___
+___ 06:43AM BLOOD Glucose-107* UreaN-26* Creat-0.9 Na-135 
+K-3.5 Cl-92* HCO3-29 AnGap-14
+___ 06:43AM BLOOD Calcium-9.1 Phos-2.8 Mg-2.0
+
+ 
+Brief Hospital Course:
+Patient was admitted from ___ to inpatient 
+___ after presenting with shortness of breath, hypoxia (77% on 
+RA), and lower extremity edema. Found to have acute respiratory 
+failure ___ multifocal pneumonia. Was noted to have wide complex 
+tachycardia started on amiodarone drip, transferred to ___ 
+cardiology and found to have atrial fibrillation with aberrancy, 
+transferred to medicine for further treatment of multifocal 
+pneumonia.  
+
+ACTIVE ISSUES:  
+===============  
+# Atrial fibrillation with aberrancy:
+S/p amiodarone at ___ d/t concern for VT. Amiodarone
+dc'd on admission after EP consult confirmed atrial fibrillation
+with aberrancy. Subtherapeutic on warfarin (INR 1.7) on 
+admission
+with history of difficult to control INR. From patient history,
+afib sounds very difficult to cardiovert (s/p multiple 
+electrical
+and chemical cardioversions) but concern for possible
+cardioversion on amiodarone, so started on heparin bridge to
+therapeutic INR. Following discussions with his outpatient 
+oncologist and PCP switched to ___ given h/o difficult to 
+control INR. Was switched from atenolol to metoprolol for rate 
+control given considerable drug interactions of atenolol with 
+antibiotics and antifungals. Uptitrated to metoprolol XL 50 mg 
+qd on discharge. 
+
+# Acute hypoxic respiratory failure:
+# Multifocal Pneumonia:
+Immunocompromised (HIV on HART, docetaxel for prostate cancer).
+Presented with shortness of breath, cough, hypoxia, multifocal
+patchy opacities, thought most likely atypical vs fungal vs
+chemotherapy-associated toxicity. Flu negative. Positive sputum
+culture growing ___ and slightly elevated galactomannan, 
+Beta
+Glucan swab negative. S/p Bronch ___ with cultures negative.
+Sputum viral panel negative. Transferred on cefepime,
+doxycycline, and Bactrim + voriconazole and caspofungin. Had
+trialed steroids but not helpful. ID and pulmonary were 
+consulted
+at ___ reconsulted at ___. Per ID recs, Bactrim
+d/ced w/ negative PCP and voriconazole + caspo d/ced as low
+suspicion for fungal origin given patient CD4+. Patient 
+completed regimen of doxycycline/Cefepime on ___. Patient was 
+weaned off O2 throughout stay and was recommended to be 
+discharged to rehab. Patient may still require O2 with 
+ambulation, as he can desaturation into ___ on room air. Expect 
+improvement with continued recovery from PNA, however if he does 
+not improve may need further imaging in a few weeks. Of note, 
+his baseline SpO2 outpatient was 96-99% resting on room air.
+
+# HTN:
+SBPs were on the higher side up to 150s-160s, possibly in part 
+due to the atenolol switch to metoprolol. BP was monitored and a 
+dose of amlodipine 2.5mg was administered. Further uptitration 
+as outpatient is recommended. 
+
+# Anemia:
+Patient noted to have notable drop from baseline Hct/Hbg since
+___, though is chronically anemic and on chemo. MCV was normal 
+to
+high, potentially expected with antiretroviral he is on. Though
+LDH is elevated, TBili is normal and so hemolytic causes were 
+deemed
+unlikely. Nutritional causes were considered in setting of poor 
+appetite. Was found to have low iron with elevated ferritin, low 
+TIBC and transferrin. Folate and B12 normal. Likely c/w anemia 
+of chronic disease.
+
+CHRONIC ISSUES 
+==============
+# HIV:
+VL not detected ___. CD4 - 468 on ___. His antivirals (Triumeq 
+1 tab daily, Rilpivirine 25 mg) were continued. It was also 
+determined there was no known interaction between rilpivirine 
+and the ___.
+
+# CKD:
+Stable. Baseline Cr around 1.5 per records, on OSH admission 1.2 
+and remained stable around 0.9 afterwards until discharge. 
+
+# Metastatic prostate cancer:
+# s/p prostatectomy and radiation therapy: 
+Stable. On Docetaxel Q3W, has finished Cycle 3, Dr. ___ 
+is
+outpatient Heme/onc. Continued home prednisone and Lupron depot 
+Q3M 
+
+# Hyperlipidemia:
+Stable. Continued home Lipitor.
+
+# Depression:
+Stable. Continued home Wellbutrin and imipramine. 
+
+Transitional issues 
+===================
+[] Started ___ 5mg BID as switch from warfarin. 
+[] Started metoprolol succinate 50 mg switched from atenolol. 
+F/u rate control.
+[] Needs an outpatient cardiologist to manage atrial 
+fibrillation with aberrancy.
+[] Completed 10-day course with doxycycline/Cefepime (last dose 
+= ___ for multifocal PNA.
+[] Started on amlodipine 2.5 qd given SBPs 150s-160s. Please 
+monitor BP and uptitrate accordingly. 
+[] Did not resume home potassium on discharge given stable 
+potassium levels around 4.0 during hospital stay. Please obtain 
+repeat BMP w/in 1 week to ensure stable potassium. 
+[] Based on ___ records, resting SpO2 96-99% on room air. 
+Here, resting SpO2 low ___ on room air with desaturation to 
+___ with activity. When on 2L NC low ___ with ambulation. 
+Please continue to provide oxygen to patient while ambulating 
+and wean as tolerated. 
+[] If SpO2 does not improve within a few weeks as 
+pneumonia/atelectasis resolve, please repeat imaging CXR vs. CT.
+[] Please provide patient with incentive spirometer to 
+prevent/improve atelectasis.
+
+Core issues
+===========
+# CODE STATUS:  Full 
+# CONTACT: ___ ___ significant other
+
+ 
+___ on ___:
+The Preadmission Medication list is accurate and complete.
+1. Triumeq (abacavir-dolutegravir-lamivud) 600-50-300 mg oral 
+DAILY 
+2. Atenolol 25 mg PO DAILY 
+3. Atorvastatin 10 mg PO QPM 
+4. BuPROPion 300 mg PO DAILY 
+5. Calcium 500 With D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. FoLIC Acid 1 mg PO DAILY 
+8. Glutamine 1 gm PO DAILY 
+9. Imipramine 25 mg PO QHS 
+10. LevoCARNitine 500 mg PO DAILY 
+11. Mesalamine (Rectal) ___AILY 
+12. Fish Oil (Omega 3) 1000 mg PO DAILY 
+13. PredniSONE 5 mg PO DAILY 
+14. rilpivirine 25 mg oral DAILY 
+15. Warfarin 2.5 mg PO 5X/WEEK (___) 
+16. Warfarin 5 mg PO 2X/WEEK (___) 
+17. Potassium Chloride 20 mEq PO BID 
+18. Leuprolide Acetate Dose is Unknown  IM EVERY 3 MONTHS 
+
+ 
+Discharge Medications:
+1.  amLODIPine 2.5 mg PO DAILY  
+2.  ___ 5 mg PO BID  
+3.  Metoprolol Succinate XL 50 mg PO DAILY  
+4.  Multivitamins W/minerals 1 TAB PO DAILY  
+5.  Sarna Lotion 1 Appl TP QID:PRN dryness/itching  
+6.  Atorvastatin 10 mg PO QPM  
+7.  BuPROPion 300 mg PO DAILY  
+8.  Calcium 500 With D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral DAILY  
+9.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+10.  FoLIC Acid 1 mg PO DAILY  
+11.  Glutamine 1 gm PO DAILY  
+12.  Imipramine 25 mg PO QHS  
+13.  LevoCARNitine 500 mg PO DAILY  
+14.  Mesalamine (Rectal) ___AILY  
+15.  PredniSONE 5 mg PO DAILY  
+16.  rilpivirine 25 mg oral DAILY  
+17.  Triumeq (abacavir-dolutegravir-lamivud) 600-50-300 mg oral 
+DAILY  
+18.  Vitamin D 1000 UNIT PO DAILY  
+19. HELD- Leuprolide Acetate Dose is Unknown  IM EVERY 3 MONTHS 
+Duration: 1 Dose  This medication was held. Do not restart 
+Leuprolide Acetate until you seen your oncologist. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Multifocal pneumonia
+
+SECONDARY DIAGNOSES
+===================
+Atrial fibrillation with aberrancy
+Hypertension
+Anemia
+HIV
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___
+
+It was a pleasure taking care of you at ___.
+
+Why you were in the hospital:
+- You had worsening fatigue, shortness of breath, and leg 
+swelling and found to have a lung infection.
+- You were noted to an abnormal heart rhythm and were 
+transferred to ___ cardiology and then the medicine service 
+for further evaluation. 
+
+What was done for you in the hospital:
+- You received antibiotics to treat the infection in your lungs. 
+You also received some nebulizer treatment to help your 
+breathing. Throughout your stay you received oxygen and were 
+weaned off as you recovered.
+- The heart rhythm was found to be atrial fibrillation, which 
+you have had chronically. 
+- You received an echocardiogram to look at your heart because 
+of your abnormal heart rhythm.
+- You were switched to a different heart rate control medication 
+(metoprolol) from your previous medication (atenolol).
+- You were switched to a different blood thinner (___) from 
+your previous medication (warfarin) to better prevent your risk 
+of strokes from your heart rhythm.
+
+What you should do after you leave the hospital:
+- Please take your medications as detailed in the discharge 
+papers. If you have questions about which medications to take, 
+please contact your regular doctor to discuss.
+- Please go to see your primary care doctor as detailed in 
+discharge papers. Please also visit a cardiologist for follow-up 
+of your arrhythmia, and your usual oncologist.
+- Please monitor for worsening symptoms. If you do not feel like 
+you are getting better or have any other concerns, please call 
+your doctor to discuss or return to the emergency room.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

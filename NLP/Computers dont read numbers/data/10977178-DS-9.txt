@@ -1,0 +1,441 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / clavulanic acid / amoxicillin 
+/ levofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hyperglycemia
+ 
+Major Surgical or Invasive Procedure:
+endotracheal intubation
+central line placement
+percutaneous nephrostomy tube placement
+ 
+History of Present Illness:
+Patient is a ___ female with a past medical history of 
+insulin-dependent diabetes, depression, hypertension, 
+hyperlipidemia who presents to the emergency department with 
+concerns for sepsis.
+
+Patient is currently living in a nursing home after multiple 
+hospitalizations and has been noncompliant with her medications. 
+Per nursing home reports, patient has been having multiple 
+episodes of emesis and has been refusing her medications 
+including insulin so she was sent for further evaluation. She 
+presented to ___ emergency department and there 
+was found to have hyperglycemia with sugars to 700s, VBG ph 
+7.4/36.4/41.8/22.3, acetone to 4.1, and  trace ketones in urine) 
+so was started on an insulin drip. Lactate went from 2.8 to 5.6, 
+WBC to 14.9, and she had a CT of her abdomen done which is 
+concerning for 2 obstructing left proximal ureteral calculi with 
+the largest being 1.1cm, hydronephrosis, and concomitant UTI 
+concerning for an infected stone. CT head negative for acute 
+process, CXR clear. She was given vancomycin and ceftazidime(and 
+___. Per review of records, she received 2 L of LR. Patient 
+also had a CT of her head done with no evidence of intracranial 
+hemorrhage. She was transferred here for further care given the 
+concern for sepsis and need for ICU level care.
+
+On arrival to the ED, history was obtained with help of husband 
+and sign language interpreter. She described 2 weeks of not 
+feeling well and having decreased p.o. intake. Her husband has 
+been concerned for her ability to care for herself and feels 
+that she has depression. She denied any chest pain or pressure, 
+dyspnea, dysuria, melena.
+
+ED Course notable for:
+Initial vitals: 
+99.0 97 158/100 16 95% RA 
+
+Labs:
+HCO3 of 21, BUN 52, Cr 2.6, glucose 311 
+Ca ___, Mg 1.6, P 1.9 ALT 46, AST 56, ALP 177
+WBC 29, hgb 14.1, plt 159
+INR 1.6, PTT ___ 17.6
+serum tox negative
+trop 0.05
+
+CK 305, MB 3
+
+Lactate 4.7 
+VBG ___
+
+A1c 9.7% 
+
+UA: lg leuks, negative nitrite, mod blood, 600 protein, 0 WBC, 
+few bacteria 
+
+She received 1L NS and 500cc LR. 
+
+Consults: 
+Urology: 
+Recommended left percutaneous nephrostomy tube for decompression 
+and continue IV abx
+
+Transfer vitals: 
+98.2 118 135/75 20 96% RA 
+ 
+On arrival to the MICU, the patient complained of back pain but 
+otherwise denied any complaints. Per the patient's husband, she 
+has been increasingly confused over the past few weeks. On one 
+occasion, she called the police on her husband and accused him 
+of abuse even though he had not been home all day.  He says she 
+has not been eating and not taking her pills and she vomits 
+after pill ingestion. 
+
+ 
+Past Medical History:
+Type 2 Diabetes Mellitus 
+Deafness
+Anxiety
+Hypertension
+Hypothyroidism
+Obesity 
+ 
+Social History:
+___
+Family History:
+n/a
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=================================
+VITALS: Reviewed in metavision  
+GENERAL: Awake, chronically ill appearing, looks older than 
+stated age, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: stage 2 ulcer on buttox
+NEURO:  Following commands 
+
+DISCHARGE PHYSICAL EXAM:
+==================================
+GENERAL: No acute distress  
+HEENT: AT/NC, anicteric sclera, dry mucous membranes
+NECK: supple
+CV: RRR, normal S1, S2, no murmurs, rubs or gallops
+PULM: No increased WOB, CTAB
+GI: Intertrigo in skin folds, soft, obese, nontender in all
+quadrants, no rebound/guarding. There are scattered ecchymoses 
+in
+the lower quadrant.
+THORAX: Perc nephrostomy had normal urine output
+SKIN: intertrigo in all skinfold areas
+EXTREMITIES: 1+ pitting edema in extremities
+NEURO: AOx3
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+=======================
+___ 11:00PM   WBC-20.0* RBC-5.20 HGB-14.1 HCT-43.3 MCV-83 
+MCH-27.1 MCHC-32.6 RDW-15.2 RDWSD-45.3
+___ 11:00PM   NEUTS-79.9* LYMPHS-9.6* MONOS-9.3 EOS-0.1* 
+BASOS-0.3 NUC RBCS-0.2* IM ___ AbsNeut-15.95* AbsLymp-1.93 
+AbsMono-1.87* AbsEos-0.03* AbsBaso-0.06
+___ 11:00PM   ___ PTT-21.5* ___
+___ 11:00PM   GLUCOSE-311* UREA N-52* CREAT-2.6* SODIUM-144 
+POTASSIUM-4.3 CHLORIDE-99 TOTAL CO2-21* ANION GAP-24*
+___ 11:00PM   ALT(SGPT)-46* AST(SGOT)-56* CK(CPK)-305* ALK 
+PHOS-177* TOT BILI-1.0
+___ 11:00PM   LIPASE-17
+___ 11:00PM   cTropnT-0.05*
+___ 11:00PM   CK-MB-3
+___ 11:00PM   %HbA1c-9.7* eAG-232*
+___ 11:00PM   VANCO-<4.0*
+___ 10:40PM URINE  BLOOD-MOD* NITRITE-NEG PROTEIN-600* 
+GLUCOSE-300* KETONE-NEG BILIRUBIN-SM* UROBILNGN-2* PH-6.0 
+LEUK-LG*
+___ 10:40PM URINE  RBC-8* WBC-0 BACTERIA-FEW* YEAST-NONE 
+EPI-28
+
+PERTINENT MICROBIOLOGY:
+===============================
+___ UCx: NO GROWTH
+___: URINE CX (KIDNEY FLUID): NO GROWTH
+___: BCx: NO GROWTH
+
+PERTINENT IMAGING:
+===============================
+___: Successful placement of 8 ___ nephrostomy on the 
+left.
+___ CXR:  
+ET tube appropriately positioned.  Right IJ central venous 
+catheter in place.  No pneumothorax. 
+
+___ VIDEO OROPHARYNGEAL SWALLOW STUDY: 
+No penetration or aspiration of thin liquids on limited video 
+oropharyngeal swallow study. 
+  
+Please note that a detailed description of dynamic swallowing as 
+well as a 
+summative assessment and recommendations are reported separately 
+in a 
+standalone note by the Speech-Language Pathologist (OMR, Notes, 
+Rehabilitation Services). 
+
+DISCHARGE LABS:
+============================
+___ 07:40AM BLOOD WBC-7.6 RBC-3.62* Hgb-10.3* Hct-34.0 
+MCV-94 MCH-28.5 MCHC-30.3* RDW-17.2* RDWSD-58.3* Plt ___
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with a past medical 
+history of deafness, type 2 diabetes on insulin, 
+depression/anxiety on diazepam, hypertension, hyperlipidemia who 
+initially presented with obstructing L ureteral calculi, now s/p 
+perc nephrostomy
+tube on ceftaz for a 10 day course for empiric treatment of UTI. 
+Hospital course notable for poor PO intake. 
+
+#Obstructing L ureteral calculi
+#Suspected UTI
+Presented to OSH with N/V found to have L obstructive ureteral 
+stone and severe hydronephrosis now status post nephrostomy 
+placement on ___ on IV ceftaz for ___s empiric 
+coverage given neg cultures which she completed on ___. Urology 
+to perform definitive stone management after discharge with Dr. 
+___. On the day of discharge, the nephrostomy was 
+in place and draining well. Urology will reach out to the 
+patient to schedule an appt for definitive stone management 
+which was confirmed on day of discharge. 
+
+#Nausea/vomiting
+#Subacute anorexia/malnutrition
+#Suspected GERD
+Per report patient has experience several weeks of poor Po 
+intake and nausea and vomiting at times. She was admitted twice 
+at ___ with UTIs. For this part of the admission, 
+she had presented to ___ with nausea and vomiting and 
+was found to have obstructing stone as per above. Now with 
+improving appetite and no vomiting in recent days raising 
+suspicion that symptoms were due to her nephrolithiasis. Also 
+treating GERD with PPI. At this point cleared for thin liquids 
+by speech and swallow as well as soft solids. No plan for 
+further GI workup unless symptoms recur or fails to meet 
+nutrition needs. Please continue taking omeprazole 40mg daily.
+
+#Suspected refeeding syndrome-resolved
+Likely refeeding syndrome in the setting of giving D5 NS after 
+prolonged oral aversion, with low K, mg and phos. This was 
+resolved on the day of discharge and patient was also started on 
+a Multivitamin with minerals.
+
+# Hypothyroidism: 
+Patient has a history of hypothyroidism. On ___, TSH 37 and FT4 
+0.6, likely due to medication non-adherence since pre-admission. 
+Recheck TSH and FT4 after 6 weeks. Please continue levothyroxine 
+125 mcg PO daily.
+
+#Subacute cough
+Patient reports cough is much better. Chest x-ray (___) 
+indicated no pneumonia. She has no white count and is afebrile. 
+The etiology of the cough is currently unclear, but
+likely due to secretion accumulation after long term swallowing 
+aversion and/or complicated by GERD. Please continue omeprazole 
+as above.
+
+#Encephalopathy
+Husband reports some cognitive and behavioral changes for a year 
+with worsening in recent weeks in the setting of her medical 
+illness. Suspect TME on admission secondary to obstructive renal 
+stone/infection. Also suspicion for underlying neurologic or
+psych process. Overall markedly improvement since admission. 
+Discharge summary from ___ regarding last 
+hospitalization in ___ showed that she had short-term memory
+loss, which improved after UTI treatment. Consider outpatient 
+psych and neuro follow up if patient's mental status shows 
+little improvement after her acute medical issues are addressed.
+
+#Hyperglycemia: 
+#Type 2 DM: 
+Had initially presented to ___ with glucose in the 800s 
+due to nonadherence. Patient with A1c of 9.7%. ___ consulted 
+recommending short/long acting insulin regime with daily 
+titrations.
+
+CHRONIC ISSUES: 
+=============== 
+# Hypertension: 
+Patient on lisinopril and furosemide for hypertension at home.
+Not volume overloaded on exam. Home lisinopril was held during 
+admission and Lasix 20 mg PO daily was restarted before 
+discharge. 
+
+TRANSITIONAL ISSUES
+===============================
+[] Please recheck TFTs 6 weeks after discharge. TSH was elevated 
+at 37 on admission due to medication non-adherence. Patient 
+received home levothyroxine 125 mcg PO daily during admission. 
+[] Please ensure Urology has scheduled follow-up appointment 
+with Dr. ___ definitive stone management. Per 
+Urology, they will contact her personally to schedule a 
+follow-up appointment. 
+[] Perform voiding trial at rehab. Foley was left in place given 
+sacrum had extensive rash in order to keep area dry.
+[] Wound care followed patient during this admission for the 
+following wounds. 
+1. Right Medial heel, 2 X 1 cm intact skin, deep red with 0.5
+dark purple area at 10 O'clock. defined edges, periwound intact
+2. Right Lateral heel, 2 X 2 cm intact skin, black tissue,
+soft and boggy to palpate, defined edges, periwound intact 
+3. Right Lateral foot, 4.5 X 1 cm, intact skin, black tissue,
+firm to palpation, defined edges, periwound intact.
+4. Plantar ___ metatarsal, 1 X 0.5 cm, intact skin deep maroon
+with black center. 
+[] Wound care recommendations were as follows. 
+Pressure relief per pressure injury guidelines
+ Support surface: SW Alternate Air
+ Turn and reposition every ___ hours and prn off affected area
+ Heels off bed surface at all times
+Waffle Boots ( x ) Multipodis Splints ( ) 
+ If OOB, limit sit time to one hour at a time and 
+ Sit on a pressure redistribution cushion-
+ Bariatric Air ( X )
+ ROHO ( ) Obtain from ___
+ OR ___ air full length chair cushion ( ) (Obtain from ___
+ Elevate ___ while sitting.
+ Moisturize B/L ___ and feet, intact skin only BID with Sooth
+And Cool Ointment. 
+
+Topical Therapy:
+ Commercial wound cleanser or normal saline to cleanse wounds.
+ Pat the tissue dry with dry gauze.
+
+ Right Lateral Venous Stasis Wound - apply Adaptic dressing,
+ cover with 4x4's and wrap with Kerlix. Secure with 2" 
+ Medipore tape.
+
+ Change dressing daily.
+
+ Fecal Incontinence - cleanse sacrum/perineal tissue with 
+ foam cleanser. Pat dry. Apply thin layer of Critic aid 
+ clear skin barrier ointment daily. ___ reapply after each
+ ___ cleansing. Place Xeroform dressing (antibacterial) over 
+ site. Change daily and or as needed.
+
+ Apply moisturize to intact BLE's daily.
+[] Patient presents with functional pharyngeal swallow and mild 
+oral phase deficits related to partially edentulous state, 
+limiting advancement of diet texture. No aspiration on video 
+swallow. Patient may be at increased risk for post prandial 
+aspiration. Recommending aspiration precautions and soft 
+solids/thin liquids diet. 
+[] If patient is hypertensive at rehab, consider restarting 
+lisinopril 2.5 mg PO daily which was held during admission. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 2.5 mg PO DAILY 
+2. Simvastatin 10 mg PO QPM 
+3. Levothyroxine Sodium 125 mcg PO DAILY 
+4. TraMADol 25 mg PO Q6H:PRN Pain - Moderate 
+5. Diazepam 2 mg PO QHS 
+6. Furosemide 20 mg PO DAILY 
+7. Gabapentin 300 mg PO TID 
+8. HumuLIN 70/30 U-100 Insulin (insulin NPH and regular human) 
+35 U subcutaneous Q12H 
+9. Vitamin D ___ UNIT PO DAILY 
+10. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Glargine 10 Units Breakfast
+Glargine 30 Units Bedtime
+Humalog 6 Units Breakfast
+Humalog 6 Units Lunch
+Humalog 6 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin 
+2.  Miconazole Powder 2% 1 Appl TP BID  
+3.  Multivitamins W/minerals 1 TAB PO DAILY  
+4.  Omeprazole 40 mg PO DAILY GERD symptomatic   
+5.  Aspirin 81 mg PO DAILY  
+6.  Diazepam 2 mg PO QHS  
+7.  Furosemide 20 mg PO DAILY  
+8.  Gabapentin 300 mg PO TID  
+9.  Levothyroxine Sodium 125 mcg PO DAILY  
+10.  Simvastatin 10 mg PO QPM  
+11.  TraMADol 25 mg PO Q6H:PRN Pain - Moderate  
+12.  Vitamin D ___ UNIT PO DAILY  
+13. HELD- Lisinopril 2.5 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until you are instructed to restart. 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+#UTI
+#L ureteral obstructing nephrolithiasis with hydronephrosis s/p 
+PCN
+#Acute/subacute on chronic encephalopathy
+
+#UTI
+#L ureteral obstructing nephrolithiasis with hydronephrosis s/p 
+PCN
+#Acute/subacute on chronic encephalopathy
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Bed bound.
+Mental Status: Clear and coherent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear Ms ___,  
+It was a pleasure caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted to the hospital because you had confusion 
+and were having nausea and vomiting. We then did some imaging of 
+your abdomen that showed that you had a kidney stone that was 
+preventing your urine from flowing normally.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- We placed a tube to help drain your urine since you had a 
+stone that was blocking the flow of your urine.
+- We gave you antibiotics to treat your urinary tract infection 
+for 10 days.
+- You had problems with nausea and vomiting and you were scared 
+to eat solid food. You passed a swallow test so we started you 
+on soft foods and transitioned you to a regular diet.
+ 
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+- Dr. ___ urology ___ contact you regarding 
+definitive stone management.
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

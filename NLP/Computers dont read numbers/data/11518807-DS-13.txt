@@ -1,0 +1,537 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+metformin / chlorhexidine
+ 
+Attending: ___
+ 
+Chief Complaint:
+abnormal blood counts in outpatient setting, need chemotherapy 
+for relapsed AML
+ 
+Major Surgical or Invasive Procedure:
+Bone marrow biopsy (___)
+Non-tunneled Central Venous Access placement (___)
+Palate Punch Biopsy (___)
+Tunneled Central Venous Access Placement (___)
+
+ 
+History of Present Illness:
+___ with relapsed AML (FLT3-/NPM1+, +trisomy 15 in ___ 
+presenting for chemotherapy
+
+Patient initially diagnosed with AML in ___ at ___ in 
+___.  Treated with 7+3 ___ 12mg/m2, D1 = ___, 
+followed by HiDAC x4 finishing in ___.  He relapsed in ___ 
+and was treated with 5+5
+(five days of mitoxantrone and five days of etoposide) however 
+day 30 marrow showed persistent disease. He then received 
+reinduction with FLA (fludarabine and ARA-C) went into remission 
+and by
+report, his repeat day 30 marrow showed no evidence of disease
+and normal hematopoiesis.   
+
+He was slated for allo transplant however ___ labs with blasts 
+now suspect relapsed disease and decision made to admit for 
+chemotherapy.
+
+Of note, last marrow was ___ was ___ with normal 
+cytogenetics.  TTE on ___ was normal with LVEF 55%.  Underwent 
+liver biopsy on ___ for unexplained LFT elevation. 
+ 
+Currently on the floor with minimal complaint. Reports was 
+started on z-pak for likely sinus infection on ___ 
+currently with mild hard palate pain, no accompanying 
+rhinorrhea, sinus congestion.
+
+ROS:
++ sinus congestion, hard palate "inflammation", occassional 
+global headache
+Denies fevers, chills, SOB, cough, CP, n/v/diarrhea.  
+VS on floor:  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY
+Hepatosteatosis
+Heterozygous hemochromatosis
+Inguinal hernia
+s/p concussion in ___
+s/p periodontal surgery
+
+PAST ONCOLOGIC HISTORY:
+- ___: admitted after presenting to ___ c/o
+malaise, fatigue, syncope, night sweats and weight loss and 
+found on labs to have WBC of 148K with blasts, Hct: 17. At ___ 
+
+admission, had 119K WBC and 48% blast, Hct 15.7, acute renal 
+failure with creat of 2.7 (secondary to lysozyme kidney injury).
+- ___: Peripheral Flow Cytometry: AML w/ monocytic
+differentiation
+- ___: BMBx: markedly hypercellular marrow with extensive 
+involvement with AML with monocytic differentiation (58% blasts 
+seen on aspirate).
+- ___: BMBx cytogenetics: trisomy 15 in 86/100 nuclei.
+- ___: received 7+3 induction chemotherapy - course
+complicated by neutropenic fever, mastoiditis, and mild 
+mucositis.
+- ___: NPM positive; FLT3 negative
+- ___: Day 14 BMBx: chemoablated marrow. Overall cellularity
+40%. Significant fibrosis seen and most likely present prior to
+chemo.
+- ___: BMBx cytogenetics: trisomy 15 in ___ nuclei.
+- ___: Day 20 BMBx: hypocellular bone marrow for age with 
+prominent dysmegakaryopoiesis and scant left-shifted 
+myelopoiesis. Concern for underlying myelodysplasia. AML blasts 
+are not seen.
+- ___: BMBx cytogenetics: Trisomy 15 in ___ nuclei.
+- ___: JAK2 mutation analysis: Negative
+- ___: Day 33 BMBx: Normocellular bone marrow for age with
+maturing trilineage hematopoiesis and megakaryocytic clustering.
+Diagnostic morphologic features of involvement by acute myeloid
+leukemia are not seen.
+- ___: BMBx cytogenetics: Trisomy 15 is not detected. NPM is
+negative.
+- ___: HIDAC cycle #1.
+- ___: Admission for neutropenic fever.
+- ___: HIDAC cycle #2.
+- ___: HIDAC cycle #3.
+- ___: HIDAC cycle #4.
+- ___: Relapsed.  Treated with 5+5 (five days of mitoxantrone 
+and five days of etoposide), but 30 day marrow showed persistent 
+disease
+- ___: Reinduction with FLA (Fludarabine and ARA-C), 30 day 
+marrow showed no evidence of disease and normal hematopoiesis
+- ___: Slated for allo transplant, but labs showed blasts 
+(relapsed) on ___ bone marrow biopsy.  Admitted for idarubicin, 
+cytarabine, vorinostat (FLT-3 positive), and hydroxyurea
+- ___: Bone marrow biopsy shows no evidence of leukemia, 
+move forward with allo-transplant
+- ___: Matched, unrelated allogeneic hematopoeitic stem 
+cell transplant
+ 
+Social History:
+___
+Family History:
+Breast cancer history on mother's side, including mother (dx 
+~___), aunt.  ___ cancer in patient's maternal aunt.  There 
+is history of throat cancer and brain cancer in the patient's 
+father, who was a smoker.  No family history of leukemia.  One 
+cousin had lymphoma.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS:" 99  120/78  114ST, 14 98%RA  
+GEN: AAOx3, NAD  
+HEENT: PERRLA, EOMI, MMM, no thrush, no OP erythema or lesions, 
+no obvious swelling of gums, no erythema, no lesions  
+NECK: supple, no LAD, no JVD  
+___: tachycardic, reg rhythm, no m/r/g  
+LUNGS: reg resp rate, breathing unlabored, no accessory muscle 
+use, lungs clear to auscultation bilaterally  
+ABD: soft, NT, ND, NABS  
+ext: 2+ pulses, no c/c/e  
+Skin: no rashes  
+neuro: CN ___ intact, strength ___ in UE and ___ bilat. 
+sensation intact, gait stable  
+
+DISCHARGE PHYSICAL EXAM
+GENERAL - Well-appearing obese gentleman resting in bed in NAD.
+HEENT -  No mucositis evident.
+CARDIAC - RRR, no m/r/g.
+LUNGS - CTAB.
+SKIN - Diffuse erythematous papular rash that was seen on chest, 
+abdomen, arms, neck is resolved..
+ABDOMEN - BS normoactive.  No pain to deep palpation.
+ACCESS: 6 ___ dual-lumen power injectable tunneled central 
+venous 
+catheter present in right neck.  Placed ___.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 10:00AM   WBC-11.5*# RBC-4.40* HGB-15.0 HCT-41.3 MCV-94 
+MCH-34.1* MCHC-36.3* RDW-17.4*
+___ 10:00AM   NEUTS-63 BANDS-1 LYMPHS-14* MONOS-4 EOS-1 
+BASOS-0 ___ MYELOS-1* BLASTS-16*
+___ 10:00AM   HYPOCHROM-NORMAL ANISOCYT-OCCASIONAL 
+POIKILOCY-NORMAL MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+___ 09:22PM   GLUCOSE-250* UREA N-16 CREAT-1.2 SODIUM-137 
+POTASSIUM-4.0 CHLORIDE-98 TOTAL CO2-29 ANION GAP-14
+___ 09:22PM   CALCIUM-8.8 PHOSPHATE-3.9 MAGNESIUM-1.6 URIC 
+ACID-5.5
+___ 06:48PM BONE MARROW  ___ CD33-DONE CD56-DONE 
+CD64-DONE CD45-DONE ___ CD7-DONE CD13-DONE
+___ 06:48PM BONE MARROW  CD34-DONE CD3-DONE CD4-DONE
+___ 06:48PM BONE MARROW  IPT-DONE
+___ 11:25AM   ___ PTT-30.8 ___
+___ 10:00AM   ALT(SGPT)-95* AST(SGOT)-57* LD(LDH)-357* ALK 
+PHOS-131* TOT BILI-0.3
+
+CBC TREND:
+==========
+___ 10:00AM BLOOD WBC-11.5*# RBC-4.40* Hgb-15.0 Hct-41.3 
+MCV-94 MCH-34.1* MCHC-36.3* RDW-17.4* Plt ___
+___ 01:30PM BLOOD WBC-12.5* RBC-4.25* Hgb-14.1 Hct-40.2 
+MCV-95 MCH-33.2* MCHC-35.1* RDW-17.5* Plt Ct-84*
+___ 03:45PM BLOOD WBC-8.1 RBC-4.37* Hgb-14.5 Hct-40.2 
+MCV-92 MCH-33.2* MCHC-36.1* RDW-17.0* Plt Ct-56*
+___ 11:00AM BLOOD WBC-4.6 RBC-4.22* Hgb-13.9* Hct-40.1 
+MCV-95 MCH-32.9* MCHC-34.6 RDW-17.1* Plt Ct-36*
+___ 12:00AM BLOOD WBC-2.4* RBC-3.93* Hgb-13.5* Hct-37.8* 
+MCV-96 MCH-34.3* MCHC-35.7* RDW-16.5* Plt Ct-30*
+___ 10:31PM BLOOD WBC-0.1* RBC-2.99* Hgb-10.3* Hct-27.8* 
+MCV-93 MCH-34.6* MCHC-37.1* RDW-14.7 Plt Ct-26*
+___ 12:07AM BLOOD WBC-0.1* RBC-2.98* Hgb-10.4* Hct-27.5* 
+MCV-92 MCH-34.9* MCHC-37.8* RDW-14.4 Plt Ct-18*
+___ 12:30AM BLOOD WBC-0.1* RBC-2.90* Hgb-9.6* Hct-26.2* 
+MCV-90 MCH-33.1* MCHC-36.7* RDW-13.9 Plt Ct-9*
+___ 12:00AM BLOOD WBC-0.1* RBC-2.37* Hgb-8.1* Hct-21.6* 
+MCV-91 MCH-34.2* MCHC-37.6* RDW-14.2 Plt Ct-15*
+___ 06:20AM BLOOD WBC-0.1* RBC-2.35* Hgb-7.8* Hct-21.6* 
+MCV-92 MCH-33.2* MCHC-36.2* RDW-13.8 Plt Ct-23*#
+___ 06:22AM BLOOD WBC-0.2*# RBC-2.67* Hgb-9.0* Hct-24.1* 
+MCV-90 MCH-33.8* MCHC-37.4* RDW-13.1 Plt Ct-13*
+___ 06:10AM BLOOD WBC-0.2* RBC-2.66* Hgb-8.9* Hct-24.2* 
+MCV-91 MCH-33.3* MCHC-36.7* RDW-13.0 Plt Ct-5*#
+___ 12:17AM BLOOD WBC-0.1* RBC-2.23* Hgb-7.5* Hct-19.8* 
+MCV-89 MCH-33.5* MCHC-37.7* RDW-13.3 Plt Ct-11*
+___ 02:10PM BLOOD WBC-<0.1* RBC-2.13* Hgb-6.7* Hct-18.2* 
+MCV-85 MCH-31.7 MCHC-37.2* RDW-13.5 Plt Ct-9*
+___ 12:00AM BLOOD WBC-<0.1* RBC-2.72* Hgb-8.5* Hct-22.8* 
+MCV-84 MCH-31.2 MCHC-37.2* RDW-12.4 Plt Ct-9*
+___ 12:00AM BLOOD WBC-0.1* RBC-2.68* Hgb-8.3* Hct-21.8* 
+MCV-82 MCH-31.0 MCHC-38.0* RDW-12.2 Plt Ct-11*
+___ 12:00AM BLOOD WBC-1.0*# RBC-2.86* Hgb-8.6* Hct-24.2* 
+MCV-85 MCH-30.2 MCHC-35.6* RDW-16.4* Plt Ct-64*
+___ 12:00AM BLOOD WBC-1.5* RBC-3.11* Hgb-9.5* Hct-27.3* 
+MCV-88 MCH-30.6 MCHC-34.8 RDW-19.3* Plt Ct-93*
+___ 12:05AM BLOOD WBC-1.6* RBC-2.94* Hgb-9.0* Hct-25.8* 
+MCV-88 MCH-30.7 MCHC-35.0 RDW-19.4* Plt ___
+___ 12:00AM BLOOD WBC-1.9* RBC-3.08* Hgb-9.4* Hct-27.3* 
+MCV-89 MCH-30.7 MCHC-34.7 RDW-19.3* Plt ___
+___ 12:00AM BLOOD WBC-2.9*# RBC-3.12* Hgb-9.6* Hct-27.8* 
+MCV-89 MCH-30.6 MCHC-34.4 RDW-18.9* Plt ___
+___ 12:00AM BLOOD WBC-5.2# RBC-3.40* Hgb-10.2* Hct-31.0* 
+MCV-91 MCH-30.0 MCHC-33.0 RDW-19.1* Plt ___
+
+LFT TREND
+=========
+___ 10:00AM BLOOD ALT-95* AST-57* LD(___)-357* AlkPhos-131* 
+TotBili-0.3
+___ 12:50PM BLOOD LD(___)-422*
+___ 12:00AM BLOOD ALT-37 AST-20 LD(___)-248 AlkPhos-109 
+TotBili-0.8
+___ 12:00AM BLOOD ALT-71* AST-43* LD(___)-184 AlkPhos-81 
+TotBili-0.5
+___ 10:31PM BLOOD Amylase-47
+___ 05:55AM BLOOD ALT-44* AST-35 AlkPhos-79 TotBili-0.4
+___ 12:05AM BLOOD ALT-89* AST-52* AlkPhos-152* TotBili-0.3
+___ 12:00AM BLOOD ALT-35 AST-22 LD(___)-252* AlkPhos-84 
+TotBili-0.7
+___ 12:19AM BLOOD ALT-95* AST-47* LD(___)-236 AlkPhos-102 
+TotBili-0.4
+___ 12:00AM BLOOD ALT-64* AST-56* LD(___)-314* AlkPhos-107 
+TotBili-0.4
+___ 12:05AM BLOOD ALT-84* AST-67* LD(___)-293* AlkPhos-104 
+TotBili-0.3
+___ 12:00AM BLOOD ALT-97* AST-76* LD(___)-295* AlkPhos-103 
+TotBili-0.4
+___ 12:00AM BLOOD ALT-96* AST-59* LD(LDH)-272* AlkPhos-106 
+TotBili-0.4
+___ 12:00AM BLOOD ALT-118* AST-73* LD(LDH)-278* AlkPhos-110 
+TotBili-0.4
+
+IMAGING
+=======
+___: Liver U/S:
+1.  Nonspecific mild echogenicity of the liver may represent 
+unerlying mild diffuse hepatic steatosis. No discrete liver 
+lesions identified. 
+2.  Collapsed gallbladder, without evidence of biliary ductal 
+dilatation.  Normal caliber common bile duct. 
+
+___: CT Chest- Mild ground-glass opacities have improved 
+since the prior study and remaining faint opacities in the right 
+upper lobe may be sequela of prior infection. Slight septal 
+prominence may be due to mild pulmonary edema or possibly early 
+manifestation of a viral infectious process. Prevascular node 
+measures 7 mm and is slightly enlarged from prior study. 
+Remainder of scattered mediastinal nodes are stable. Enlarged 
+main pulmonary artery consistent with pulmonary hypertension. 
+Findings compatible with anemia. 
+
+___: TTE-IMPRESSION: no vegetations seen  
+
+___: CT Abdomen/Pelvis: No evidence of infection or 
+inflammation in the abdomen and pelvis. Subcentimeter liver dome 
+lesion,stable, too small to fully characterize. 
+
+___: TTE-The left atrium is normal in size. Left ventricular 
+wall thickness, cavity size, and global systolic function are 
+normal (LVEF 60%). Due to suboptimal technical quality, a focal 
+wall motion abnormality cannot be fully excluded. Tissue Doppler 
+imaging suggests a normal left ventricular filling pressure 
+(PCWP<12mmHg). Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+no mitral valve prolapse. The pulmonary artery systolic pressure 
+could not be determined. There is no pericardial effusion. 
+
+___: CT sinus: Dental hardware, slightly limiting evaluation 
+of the oral cavity, without detected abscess. 
+
+___: RUQ U/S:=No focal liver lesions seen.  Mild 
+splenomegaly with one, and  possibly two, small echogenic 
+lesions consistent with hemangiomas. 
+
+PATHOLOGY:
+==========
+___: Bone marrow bx- Hypocellular marrow with no morphologic 
+evidence of acute leukemia.
+
+___: Hard Palate bx: The overall morphologic and 
+immunohistochemistry pattern is consistent with mucosal 
+involvement by acute myeloid leukemia. Please correlate with 
+clinical and radiographic findings. 
+
+___: Bone marrow bx- HYPERCELLULAR BONE MARROW EXTENSIVELY 
+INFILTRATED WITH RELAPSED ACUTE MYELOID LEUKEMIA
+
+___: Liver bx- Macrovesicular steatosis, Stage II-III 
+fibrosis.  Moderate to severe predominately macrovesicular 
+steatosis with frequent balloon degeneration and rare 
+intracytoplasmic hyalin. Mild to moderate portal and lobular, 
+mixed inflammation including lymphocytes, plasma cells and 
+neutrophils with scattered apoptotic hepatocytes. No viral 
+cytopathic changes are seen. Trichrome stain shows increased 
+portal/periportal and sinusoidal fibrosis with focal bridging 
+(Stage ___ fibrosis). Iron stains shows moderate to severe iron 
+deposition in predominately hepatocytes and less in Kupffer 
+cells.
+
+TRANSFUSION REACTIONS
+=====================
+Tansfusion history: 
+Previous non-reactive red cell transfusions: 41 
+Previous reactive red cell transfusions: 1 ___ allergic] 
+Previous non-reactive platelet transfusions: 25 
+Previous reactive platelet transfusions: 6 ___, 
+___, 
+___ all urticarial/allergic] 
+  
+DIAGNOSIS, ASSESSMENT AND RECOMMENDATIONS: Mr. ___ 
+experienced 
+hives and lip swelling after receiving 100 cc of PRBC on ___. 
+
+Mild allergic/urticarial reactions are thought to be mediated by 
+soluble 
+substances/antigens in the donor product that cause IgE mediated 
+
+histamine release. Urticarial reactions complicate 1-3% of 
+transfusions. 
+The presence of one mild allergic/urticarial reaction does not 
+predict 
+future reactions. We recommend no changes in standard 
+transfusion 
+practices at this time. 
+
+MICROBIOLOGY
+============
+___  CATHETER TIP-IV  {STAPHYLOCOCCUS, COAGULASE 
+NEGATIVE} 
+___  BLOOD CULTURE    {STAPHYLOCOCCUS EPIDERMIDIS}
+___  BLOOD CULTURE    {VIRIDANS STREPTOCOCCI, 
+STAPHYLOCOCCUS EPIDERMIDIS};
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+URINE CULTURE (Final ___:    NO GROWTH. 
+Stem Cell ___ Culture (Final ___:    NO GROWTH. 
+  C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative).
+
+ 
+Brief Hospital Course:
+PRIMARY REASON FOR HOSPITALIZATION
+==================================
+Pt is a ___ with relapsed AML (FLT3-/NPM1+, +trisomy 15 in 
+___ presenting for hematopoietic stem cell transplant
+
+#) AML, relapsed: Pt was admitted for relapsed AML and was 
+immediately started on hydroxyurea and vorinostat. After central 
+access was achieved, he was started on idarubicin from day 4 to 
+6, and cytarabine was given on days ___. Pt tolerated the 
+chemotherapy very well and had mild dyspepsia and loose stools. 
+He had bouts of thrombocytopenia which caused bloody bowel 
+movements but were corrected with platelet transfusions.  Bone 
+marrow biopsy on ___ showed hypocellular marrow with no 
+evidence of leukemia, so went forward with MUD transplant on 
+___.  Became febrile during the infusion of stem cells, so 
+antibiotics started, but all cultures came back negative, so 
+antibiotics were discontinued on ___.  WBC counts began 
+recovering D+11 and he experienced a robust engraftment which 
+did not require filgrastim.  WBC was 5,200 on discharge with no 
+blasts seen.
+
+#) LUKEMIA CUTIS: Upon admission, patient was finishing his 5 
+day course of azithromycin which was empirically treating a 
+sinusitis. Pt was complaining of L maxillary sinus tenderness 
+and L palate swelling. CT of maxillae/sinus/mandible showed no 
+signs of abscess or sinusitis but could not rule out superficial 
+leukemic infiltration. ENT biopsied palate which showed leukemia 
+cutis. The swelling improved while patient was receiving 
+chemotherapy infusion.
+
+#) HEPATOSTEATOSIS: Patient has a chronic history of 
+transaminitis and remained stable at baseline to slightly 
+elevated throughout hospital course. A liver biopsy was done a 
+week before admission as an outpatient and the results ruled out 
+leukemic involvement; showed presence of fatty infiltration, 
+fibrosis (stage II-III) and iron deposition in hepatocytes. 
+LFT's would increase with any hepatotoxic med, including 
+busulfan. At time of discharge LFTs were increasing with 
+instructions to follow-up closely as an outpatient with Dr. 
+___.
+
+#) HYPERGLYCEMIA: Patient was hyperglycemic throughout hospital 
+course and was especially hyperglycemic in the 300-400s while on 
+the four day course of dexamethasone. During this time he 
+required at least 65 U of insulin per day. ___ was consulted 
+and recommended a sliding scale to manage the blood glucose 
+after the four day course of dexamethasone. 
+
+#) FEBRILE NON-HEMOLYTIC TRANSFUSION REACTIONS- Fever, rigors, 
+and chills shortly after SCT. Associated with tachypnea and 
+tachycardia.  Differential was allergic reaction to blood 
+products versus infection.  CT chest negative for infectious 
+process.  Blood, urine cultures negative.  Nevertheless, was 
+treated with cefepime and vancomycin ___.
+
+#) GPC SEPSIS- S. epi and S. Viridans sepsis during conditioning 
+prior to transplant (cultures positive on ___, transplanted on 
+___  Central line pulled and positive for S. epi. TTE 
+performed, not indicitive of IE, but windows very poor given pt 
+body habitus. No positive cultures after initial infection.
+
+TRANSITIONAL ISSUES:
+====================
+- Follow-up with PCP regarding diabetes management (oral 
+hypoglycemics)
+- Follow-up with Dr. ___ as outpatient, and plan for 
+transplant
+- Follow-up with hepatologist or establish pt with one to 
+followup on hepatic fibrosis, severe iron deposition in 
+hepatocytes and NASH.
+ 
+Medications on Admission:
+Preadmissions medications listed are incomplete and require 
+futher investigation.  Information was obtained from webOMR.
+1. Acyclovir 400 mg PO Q8H 
+2. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. folic acid 1 mg tablet Sig: One (1) tablet PO DAILY (Daily).  
+
+2. tacrolimus 0.5 mg capsule Sig: Two (2) capsule PO Q12H (every 
+12 hours).
+Disp:*120 capsule(s)* Refills:*2*
+3. acyclovir 400 mg tablet Sig: One (1) tablet PO Q8H (every 8 
+hours).
+Disp:*90 tablet(s)* Refills:*2*
+4. famotidine 20 mg tablet Sig: One (1) tablet PO Q12H (every 12 
+hours).
+Disp:*60 tablet(s)* Refills:*2*
+5. sulfamethoxazole-trimethoprim 400-80 mg tablet Sig: One (1) 
+Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. fluconazole 200 mg tablet Sig: Two (2) tablet PO Q24H (every 
+24 hours).
+Disp:*60 tablet(s)* Refills:*2*
+7. insulin lispro 100 unit/mL Insulin Pen Sig: One (1)  
+Subcutaneous every six (6) hours: Dose as instructed by sliding 
+scale from finger stick readings.
+Disp:*1 Box* Refills:*2*
+8. insulin glargine 100 unit/mL (3 mL) Insulin Pen Sig: Forty 
+(40) Units Subcutaneous at bedtime.
+Disp:*1 Box* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute myelogenous leukemia, relapsed
+Hyperglycemia
+Neutropenic fever
+S.epi and S. viridans sepsis
+Transfusion reaction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was our pleasure taking care of you at the ___.
+You were admitted to the ___ 
+after you were found to have atypical immature cells in your 
+laboratory blood work. Because of this, your relapsed AML was 
+treated with hydroxyurea, vorinostat, and IV infusion of 
+idarubicin and cytarabine. You tolerated the chemotherapy very 
+well. Your blood sugars were very high especially while 
+receiving steroids, and required an endocrinologist/diabetes 
+specialist to help adjust your insulin scales.
+
+In the weeks prior to your stem cell transplant, you spiked a 
+fever and blood cultures showed bacteria growing in your blood. 
+You were given IV antibiotics for this, your fever stopped, and 
+no other culture grew out bacteria. One of these bacteria is 
+usually associated with an infection of the heart. 
+Unfortunately, we could not perform the right test to fully 
+exclude a heart infection. The name of the test is a 
+transesophageal echocardiogram or TEE. This should be considered 
+now that your blood counts have normalized. 
+
+You were bone marrow was transplanted with stem cells from a 
+matched unrelated donor. You were treated with chemotherapy 
+prior to transplant. This was complicated by a slight increase 
+in liver enzymes, however, they came down to normal before your 
+transplant. After transplant you had a very high temperature, 
+respiratory difficulties, and high heart rate for several days. 
+We believe this was a reaction to the cells, and not a true 
+infection.  
+
+In the following days your white blood cell (infection-fighting 
+cells) began to recover robustly, and did not require the use of 
+filgrastim (Neupogen.)  Your antibiotics were discontinued and 
+you showed no further signs of infection.
+
+We attempted to start you on metformin for high blood sugars, 
+but you developed a rash which we believe was an allergic 
+reaction to this drug.
+
+Please follow up in clinic daily for lab draws through the 
+weekend and see Dr. ___ on ___ as outlined below.
+ 
+Followup Instructions:
+___

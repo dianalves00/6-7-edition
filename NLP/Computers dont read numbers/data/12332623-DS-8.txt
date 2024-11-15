@@ -1,0 +1,246 @@
+ 
+Name:  ___          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+S/p apparent seizure and cardiac arrest
+ 
+Major Surgical or Invasive Procedure:
+Mechanical ventilation
+Therapeutic hypothermia
+ 
+History of Present Illness:
+___ y/o female with PMH significant for epilepsy on Lamictal who 
+presents after arrest.  Per report, the patient had 4 witnessed 
+seizures at home - when EMS arrived, she was  apneic and 
+pulseless, but then had ROSC without clear intervention/CPR.  
+She was taken to an OSH where she went into VT which then 
+devolved to PEA arrest.  She underwent 1 round of epinephrine 
+and CPR with subsequent ROSC, given dilantin 1gm, was paralyzed, 
+cooled, and transferred.
+
+In the ED, initial VS were: 96.6 127/92 101 18 94% intubated.  
+She had a CT Head which showed Severe cerebral edema with 
+hypodense basal ganglia, consistent with hypoxic encephalopathy. 
+2. Cerebellar tonsillar herniation, leftward subfalcine 
+herniation, and sulcal effacement, consistent with increased 
+intracranial pressure.  She was given vancomycin/zosyn for broad 
+coverage, started on levophed and dopamine for bp support, given 
+stress dose steroids, and given an amp of bicarb for low pH of 
+7.00.
+ 
+On arrival to the MICU, the patient is intubated, sedated, and 
+being cooled.  Family is in the waiting area for the patient.
+
+Review of systems:  Unable to be obtained
+ 
+Past Medical History:
+- epilepsy since her ___, GTC sz 2x/day at baseline, s/p VNS 
+implantation. 
+- s/p hysterectomy 
+- hypertension
+- hyperlipidemia
+- depression
+- s/p CCY 
+- s/p tubal ligation 
+- skin burns in the past  
+
+ 
+Social History:
+___
+Family History:
+Brother who developed seizures at age ___ and grew out of them, 
+mom with CAD, dad died of lung cancer 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T: BP: P: R: 18 O2:  
+General: sedated, intubated
+HEENT: Sclera anicteric, bloody secretions in mouth 
+Neck: supple, JVP difficult to assess given, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: coarse rhonchi bilaterally
+Abdomen: obese, soft, non-tender, non-distended, bowel sounds 
+present  
+GU: foley in place
+Ext: cool, difficulty dopplering pulses, no edema
+Neuro: pupils fixed and dilated, oculocephalic reflex positive, 
+not overbreathing vent, no withdrawal to pain
+
+DISCHARGE PHYSICAL EXAM:
+Patient was pulseless, without corneal, pupillary reflexes, was 
+apneic, and without heart sounds.  Time of death 1:03pm on 
+___.
+ 
+Pertinent Results:
+FINDINGS:
+CONTINUOUS EEG: The background shows generalized suppression, 
+and no definite
+cerebral activity is present at a sensitivity of 2uV/mm. At 
+various points
+throughout the record, there are frequent events characterized 
+by the
+appearance of periodic transients for several minutes at a time 
+(e.g.
+23:32:19; 00:33:41). The morphology and fixed periodicity within 
+each of
+these events suggests an artifactual etiology. There are no 
+epileptiform
+abnormalities or seizures recorded.
+SPIKE DETECTION PROGRAMS: Captures some artifacts.
+SEIZURE DETECTION PROGRAMS: None.
+PUSHBUTTON ACTIVATIONS: None.
+SLEEP: Structured sleep is not present.
+CARDIAC MONITOR: Shows a generally regular rhythm with an 
+average rate of
+110-120 bpm.
+IMPRESSION: Abnormal continuous EEG study because of generalized 
+suppression
+and an absence of definite cerebral activity. There are no 
+epileptiform
+abnormalities or seizures.
+
+INDICATION:  ___ female status post arrest with history 
+of epilepsy.
+ 
+COMPARISON:  None available.
+ 
+TECHNIQUE:  Axial CT images through the head were acquired 
+without intravenous
+contrast.  Coronal, sagittal, and thin slice bone reconstructed 
+images were
+created and reviewed.
+ 
+FINDINGS:  There is severe extensive cerebral edema with 
+cerebellar tonsillar
+herniation, mild leftward subfalcine herniation and sulcal 
+effacement,
+consistent with increased intracranial pressure.  There is 
+crowding around
+both unci without uncal herniation.  The basal ganglia are 
+hypodense
+bilaterally, consistent with hypoxic encephalopathy.  
+ 
+Interdigitation of the frontal sulci and left colpocephaly 
+suggests underlying
+hypoplasia or agenesis of the corpus callosum.  Asymmetry of 
+colpocephaly may
+be due to trapping of the left lateral ventricle or compression 
+of the right
+lateral ventricle.  
+ 
+Fluid with small aeroselized component layering in the right 
+sphenoid sinus
+may represent retained secretions secondary to intubated status. 
+ The
+visualized portions of the mastoid air cells appear well 
+aerated. Arterial
+calcifications are noted.  No acute bony abnormality is 
+detected.  There is
+persistence of the metopic suture with partial duplication of 
+the sagittal
+suture anteriorly. 
+ 
+IMPRESSION:
+1.  Severe cerebral edema with cerebellar tonsillar herniation 
+and mild
+leftward subfalcine herniation.
+2.  Hypodense basal ganglia, consistent with hypoxia 
+encephalopathy. 
+3.  Underlying congenital abnormality, likely hypoplasia or 
+agenesis of the
+corpus callosum.
+ 
+Brief Hospital Course:
+PRIMARY REASON FOR HOSPITALIZATION
+==================================
+
+#) STATUS POST CARDIORESPIRATORY ARREST - Patient with diffuse 
+and global cerebral edema indicative of severe anoxic brain 
+injury in setting of likely seizure.  From documentation so far, 
+seems that a seizure set off this event - may have become 
+hypoxic from seizure itself or from aspiration event during 
+seizure.  Was cooled with therapeutic hypothermia.  Neuro exam 
+concerning for brain death given lack of brainstem reflexed and 
+no spontaneous breathing, but patient was initially cool.  
+Initially treated with 150ml of hypertonic saline to help 
+decrease pressure.  Patient was initially hyperventilated to try 
+to increase pH. EEG showed absence of cerebral activity.
+
+Antibiotics (vancomycin/pipercillin-tazobactam) continued for 
+empiric treatment of possible sepsis.  Patient maintained on 
+vasopressors to maintain MAP > 65.  Ventilator set with goal of 
+PaCO2 of 35 mmHg to reduce risk of cerebral vasoconstriction.
+
+A family meeting was held and discussed the necessity of 
+re-warming the patient to formally diagnose her with brain 
+death.  However, given the patient's extremely poor prognosis, 
+they asked to simply withdraw care and let her pass peacefully.
+
+The patient was extubated on ___.  Dr. ___ was called 
+to the bedside for asystole on telemetry.  From his 
+documentation: "I went to the bedside to examine the patient and 
+found her to be apneic and unresponsive.  I examined the 
+patients pupils and found that they were fixed and dilated 
+without pupillary response to light.  She was without corneal 
+reflexes bilaterally.  I palpated for the patients peripheral 
+pulse and found that she was pulselesss.  I auscultated her 
+chest and found that she was without breath sounds and without 
+heart sounds.
+
+Time of death was 1:03pm on ___.
+
+Family, including health care proxy ___, was present 
+at bedside at the time of pronunciation.
+
+The patients primary care physician, ___ 
+notified.
+
+The MICU attending physician ___ was notified."
+ 
+Medications on Admission:
+Calcium Carbonate 600mg/Vit D 2 tablets PO daily; 
+
+Vitamin D3 1000 IU PO daily;  
+
+Premarin Vaginal cream 1 application to affected area;
+
+Fesoterodine 4mg tablet PO QHS;
+
+Fluoxetine 20mg PO daily; 
+
+Lamictal 200mg BID
+
+Simvastatin 40mg qHS
+
+lisinopril 10mg qHS
+ 
+Discharge Medications:
+Patient expired.
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Patient expired
+ 
+Discharge Condition:
+Patient expired
+ 
+Discharge Instructions:
+Patient expired
+ 
+Followup Instructions:
+___

@@ -1,0 +1,645 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+gabapentin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+positive AFB sputum sample
+ 
+Major Surgical or Invasive Procedure:
+Right Heart Catheterization ___
+Flexible bronchoscopy with tracheostomy exchange ___ 
+
+ 
+History of Present Illness:
+Mr ___ is a ___ with a PMH HFrEF (EF ___, HTN, HLD, 
+severe MR, pAF, prostate CA and osteomyelitis who presents from 
+rehab facility with concern for AFB positive sputum.
+
+Since recent discharge on ___ patient has overall been well. He 
+has been at ___ long term facility.
+
+Regarding positive AFB sputum: patient overall feels well. 
+Denies any new hemoptysis, fevers or worsening cough. He has no 
+known exposure to TB, no recent travel. He has never lived 
+outside the ___. 
+
+Of note patient was admitted to ___ MICU from ___ with 
+hypoxemic and hypercarbic respiratory failure in the setting of 
+likely pneumonia and hypervolemia. During past admission, 
+patient underwent multiple bronchoscopies with ___ for stenting 
+and granulation tissue removal. He was treated for 14 days for 
+post obstructive pneumonia and bronchial washings notable for E. 
+Coli, MSSA and Klebsiella with Zosyn. 
+
+In ED initial VS: T97.6 HR85 BP102/70  
+
+Labs significant for:  
+-Chemistry: BUN 53, Cr 1.1, HCO3 34
+-CBC WBC 7, Hgb 8.5 Hct 27 Plt 133
+-INR: 3.1, PTT 37.7
+-VBG: pCO2 48, pH 7.50
+
+Patient was given:  Nothing
+
+Imaging notable for: 
+CXR ___:
+Tracheostomy tube remains in place.  Left PICC tip projects over 
+the right atrium, similar to prior.  Elevation of left 
+hemidiaphragm is again seen.  Right basilar opacity has improved 
+in the interim, potentially atelectasis or resolving infection.  
+Pulmonary edema has also resolved.  Cardiac silhouette is 
+enlarged.  Median sternotomy wires are again seen. 
+
+Consults:  ID: No empiric treatment needed
+
+VS prior to transfer:  T97.5 HR 81, BP110/68 99% 6L NC
+
+On arrival to the MICU,  patient confirms the above history and 
+denies new cough, fevers, chills. 
+ 
+Past Medical History:
+Ascending Aortic Aneurysm 
+Chronic Back Pain 
+Congestive Heart Failure
+Degenerative Joint Disease
+Disc Herniation 
+Gastroesophageal Reflux Disease
+Hyperlipidemia
+Hypertension  
+Hyperlipidemia 
+Osteomyelitis L1-L1 after steroid injection 
+Prostate Cancer ___ prostatectomy and radiation 
+Sleep Apnea
+Staphylococcus epidermidis, ___ 6 weeks antibiotics 
+Transient Ischemic Attack 
+
+ 
+Social History:
+___
+Family History:
+Mother deceased at the age of ___, had a history of lung cancer. 
+Father deceased at the age of ___, had a history of prostate 
+cancer.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VITALS: Reviewed in metavision  
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation anteriorly, transmitted upper 
+airway sounds
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, multiple areas of scarring
+SKIN:  thin paper skin
+NEURO:  CN2-12 in tact
+
+DISCHARGE PHYSICAL EXAM
+98.2 96 /64 80 18 95 Tm 
+GENERAL: Well-appearing, in NAD
+HEENT: PERRLA, MMM, Tracheostomy in place with trach mask. Clear 
+secretions, no bloody or purulent secretions surrounding trach 
+or in trach mask.  
+CV: Irregular rhythm, III/VI mid-systolic murmur heard best at L 
+sternal border
+RESP: Faint R basilar crackles, good air movement ___
+GI: Abd soft, nontender/nondistended
+Ext: R dorsal forearm with about 3-4 cm soft nontender 
+non-fluctuant non-erythematous mass inferior to antecubital 
+fossa; no peripheral edema
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 03:10PM BLOOD WBC-7.0 RBC-2.64* Hgb-8.5* Hct-27.0* 
+MCV-102* MCH-32.2* MCHC-31.5* RDW-16.6* RDWSD-62.8* Plt ___
+___ 03:50PM BLOOD ___ PTT-37.7* ___
+___ 03:10PM BLOOD Glucose-109* UreaN-53* Creat-1.1 Na-143 
+K-3.7 Cl-95* HCO3-34* AnGap-14
+___ 03:10PM BLOOD ALT-12 AST-23 CK(CPK)-54 AlkPhos-91 
+TotBili-0.4
+___ 03:10PM BLOOD CK-MB-4 cTropnT-0.30* proBNP-73___*
+___ 03:01AM BLOOD Calcium-9.5 Phos-4.4 Mg-2.1
+___ 03:17PM BLOOD Type-CENTRAL VE pO2-67* pCO2-48* pH-7.50* 
+calTCO2-39* Base XS-11 Comment-GREEN TOP 
+___ 03:17PM BLOOD Lactate-0.8
+___ 03:17PM BLOOD O2 Sat-92
+
+INTERVAL LABS
+___ 06:00AM BLOOD CK-MB-3 cTropnT-0.31* proBNP-4535*
+___ 05:30AM BLOOD TSH-22*
+___ 05:07AM BLOOD TSH-20*
+___ 05:07AM BLOOD T4-3.5* T3-90 calcTBG-1.04 TUptake-0.96 
+T4Index-3.4* Free T4-0.5*
+
+DISCHARGE LABS
+___ 05:07AM BLOOD WBC-6.8 RBC-2.26* Hgb-7.3* Hct-23.1* 
+MCV-102* MCH-32.3* MCHC-31.6* RDW-15.9* RDWSD-58.9* Plt ___
+___ 05:07AM BLOOD ___ PTT-32.1 ___
+___ 05:07AM BLOOD Glucose-114* UreaN-29* Creat-0.9 Na-133* 
+K-4.5 Cl-90* HCO3-34* AnGap-9*
+___ 05:07AM BLOOD Calcium-9.2 Phos-3.5 Mg-2.1
+___ 12:54PM BLOOD UricAcd-4.7 Iron-43*
+___ 12:54PM BLOOD calTIBC-261 Ferritn-349 TRF-201
+
+MICROBIOLOGY
+BAL Cx ___: ACID FAST CULTURE (Preliminary): 
+      Reported to and read back by ___ AND ___ ON
+      ___, 14:47. 
+      MYCOBACTERIUM AVIUM.    Identified by ___ Laboratory
+___. 
+         INTERPRET RESULTS WITH CAUTION. 
+         POSITIVE CULTURE RESULTS LIKELY REPRESENT A LABORATORY
+         CONTAMINATION EVENT..  CLINICAL CORRELATION SUGGESTED. 
+         Reported to and read back by ___. 
+
+TB Smear- negative x3
+MTB NAAT- negative
+ 
+___ 3:25 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL OF TWO COLONIAL 
+MORPHOLOGIES. 
+         PRESUMPTIVE IDENTIFICATION. 
+         Piperacillin/tazobactam sensitivity testing available 
+on request. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------    16 R
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------     1 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----     8 R
+
+ 
+ 
+___ 10:02 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Cepheid nucleic 
+acid
+      amplification assay.. 
+           (Reference Range-Negative). 
+
+___ 3:20 pm BRONCHIAL WASHINGS      TRACHEOBRONCH. 
+
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+
+   RESPIRATORY CULTURE (Preliminary): 
+      >100,000 CFU/mL Commensal Respiratory Flora. 
+      GRAM NEGATIVE ROD(S).    10,000-100,000 CFU/mL. 
+      GRAM NEGATIVE ROD #2.    ~8000 CFU/mL. 
+         FURTHER WORKUP ON REQUEST ONLY. 
+         Isolates are considered potential pathogens in amounts 
+>=10,000
+         cfu/ml. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   FUNGAL CULTURE (Preliminary): 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+      PATIENT CREDITED. 
+      if pulmonary Histoplasmosis, Coccidioidomycosis, 
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected, 
+contact the
+      Microbiology Laboratory (___). 
+
+IMAGING/STUDIES
+
+R forearm U/S ___- 10.9 x 3.5 x 4.5 cm heterogeneous mass is 
+identified, likely intramuscular in location.  There is 
+equivocal internal vascularity and solid mass cannot be 
+excluded.  Further evaluation with MRI with contrast is 
+recommended. 
+
+CT RUE ___:
+IMPRESSION:
+1. Heterogeneous lesion measuring 10.1 x 3.2 x 3.7 cm centered 
+in the proximal flexor digitorum superficialis muscle.  On this 
+single phase post-contrast study, this is nonspecific in 
+appearance and could reflect a hematoma in the appropriate 
+clinical setting, although an abscess or neoplastic lesion 
+cannot be excluded as outlined above.  On the prior ultrasound 
+minimal if any internal vascularity was demonstrated making 
+neoplasm less likely.  Recommend clinical follow-up to evaluate 
+for growth/resolution and repeat ultrasound in 3 months to 
+exclude a neoplastic process.
+2. Multiple well-circumscribed lucencies throughout all carpal 
+bones are
+likely degenerative, although erosive changes cannot be 
+excluded.  A dedicated wrist radiograph is recommended for 
+further evaluation on a non-urgent basis.
+3. Probable chondrocalcinosis.
+4. Small elbow joint effusion.
+
+CT CHEST ___:
+IMPRESSION: 
+1. Interval improvement in the patchy consolidative opacities 
+bilaterally with residual dependent subsegmental atelectasis, 
+left greater than right.  Mild residual nodular opacities. 
+2. Trace left pleural effusion. 
+
+TTE ___:
+The left atrium is dilated. The right atrium is moderately 
+enlarged. There is mild symmetric left ventricular hypertrophy 
+with a normal cavity size. Global left ventricular systolic 
+function is severely depressed secondary to a markedly 
+dyssynchronous activation sequence (left bundle branch pattern).
+The visually estimated left ventricular ejection fraction is 
+20%. Mildly dilated right ventricular cavity with moderate 
+global free wall hypokinesis. The aortic sinus diameter is 
+normal with mildly dilated
+ascending aorta. The aortic arch diameter is normal. An aortic 
+valve bioprosthesis is present. The prosthesis is well seated 
+with normal gradient. There is no aortic regurgitation. There is 
+a bioprosthetic
+mitral valve. The prosthesis is well-seated and normal gradient. 
+There is mild [1+] mitral regurgitation.
+Due to acoustic shadowing, the severity of mitral regurgitation 
+could be UNDERestimated. The tricuspid valve leaflets appear 
+structurally normal. There is mild [1+] tricuspid regurgitation. 
+There is no
+pericardial effusion.
+IMPRESSION: Adequate image quality.
+
+Right Heart Catheterization ___: 
+Impressions:
+1. Normal biventricular filling pressures
+2. Normal PA pressures
+3. (Cardiac output and index calculations may be not accurate, 
+patient is on supplemental oxygen via
+trach)
+
+Video Oropharyngeal Swallow ___:
+Penetration with nectar consistency without aspiration.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with a complex medical history, 
+including ascending aortic aneurysm and endocarditis with severe 
+AI/MR ___ with bioprosthetic AVR/MVR ___ c/b 
+non-ischemic cardiomyopathy (EF ___, who was admitted 
+___ with hypoxic respiratory failure secondary to E. Coli, 
+MSSA, and Klebsiella pneumonia. Patient re-presented on ___ 
+from rehab after bronchial washing culture from ___ grew AFB, 
+speciated ___ with mycobaterium avium which was a contaminant. 
+His course has been complicated by hypotension, UTI, and 
+hemoptysis. Patient underwent right heart catheterization during 
+hospitalization given unclear volume status, was found to be 
+euvolemic with normal intra-cardiac and pulmonary pressures, was 
+transitioned to PO torsemide 5 mg daily at discharge. Also 
+underwent stent revision with interventional pulmonology prior 
+to discharge.
+
+#AFB Positive Sputum- M. avium CONTAMINANT
+Patient previously underwent bronchoscopy on ___ during previous 
+hospitalization, which grew E. Coli, MSSA and Klebsiella and was 
+subsequently treated with a course of zosyn. However, AFB 
+cultures were sent and returned positive on ___. He 
+subsequently underwent a negative TB workup, with AFB smears 
+negative X3, as were induced sputum and MTB nucleic acid test on 
+___ speciation demonstrated mycobacterium avium, and in 
+consultation with ID represented a contaminant and treatment was 
+deferred. 
+
+#HFrEF - With history of HFrEF (EF 25% ___, and non-ischemic 
+cardiomyopathy likely secondary to complications from 
+vegetation/endocarditis ___. During hospitalization was 
+continued on home dose 60mg torsemide PO and required 
+intermittent additional IV Lasix for SOB and volume overload, 
+though diuresis was limited by prerenal ___ ___ and ongoing 
+hypotension. Was thought to have had overdiuresis in the setting 
+of hypotension, diuretics were subsequently held. Patient had 
+persistent hypotension with SBP ___, also initially with concern 
+for cardiogenic shock given patient was cool on exam. He was 
+subsequently transferred to the CCU. Patient ultimately 
+underwent right heart catheterization which demonstrated normal 
+intracardiac pressures. Was not found to be in cardiogenic 
+shock, and was euvolemic. Given baseline SBP 80-90s and limited 
+by hypotension, patient was restarted on low-dose torsemide at 
+5mg PO QD prior to discharge. Discharge weight 82.7kg.
+
+#Chronic Hypoxic Hypercarbic Respiratory Failure - Patient is 
+___ trach ___ after cardiogenic shock in the setting of 
+vegetation/endocarditis with multiple valve failure. He was 
+admitted this past month with post-obstructive pneumonia and 
+multiple stents placed by ___. He underwent flex bronch and trach 
+down-size to Portex #8 during hospitalization, with debridement 
+of granulation tissue above the trach. He remained on 40% O2 by 
+trach mask with O2 sats in the ___. Per ___ defer all 
+therapeutic level anticoagulation for 3 days and ___ will arrange 
+for follow-up 6 weeks post discharge.
+
+#Hypotension - Patient persistently had baseline SBP 80-90s 
+during hospitalization. Per above, was transferred to the CCU in 
+the setting of hypotension and initially with concern for 
+cardiogenic shock, however patient did not require inotropes or 
+vasoactive support. RHC was normal per above. 
+
+#Afib - With history of atrial fibrillation, was continued on 
+rate control with metoprolol succinate 12.5mg XL QHS. Patient 
+underwent stent revision with interventional pulmonology on 
+___, warfarin was held prior to procedure, and per 
+interventional pulmonology, therapeutic anticoagulation to be 
+held for 3 days post procedure. Patient will be discharged on 
+DVT prophylactic dosing of Lovenox. Given patient will need to 
+be bridged with warfarin, recommend starting warfarin ___, 
+and if remains subtherapeutic with goal INR ___ on ___ to 
+start Lovenox therapeutic dosing SC BID. Dosing to be managed by 
+___. 
+
+#Hypothyroidism - With evidence of new hypothyroidism not having
+previously been treated TSH 22, with free T4 3.6 for which
+endocrine has been consulted. Patient was started on 
+levothyroxine 25 mcg DAILY. Will make transitional issue to 
+titrate synthroid dosing as indicated.
+
+#E coli urinary tract infection 
+#hematuria - Patient developed hematuria during hospitalization 
+with some small clots noted in his Foley bag. UA was consistent 
+with UTI and culture grew bactrim-resistant E. Coli. He was 
+treated with a 7 day total course with ceftriaxone. Will require 
+follow-up with urology given new hematuria. 
+
+#Bloody tracheal secretions - Developed bloody secretions with 
+trach suctioning ___ concerning for suction trauma. Of note 
+during prior admissions patient has had bloody secretions while 
+being anticoagulated, has been bronch'd in the past with no 
+signs of a fistula. Bloody secretions ultimately resolved, and 
+given patient's high risk of CVA (CHADS2VASC 5), anticoagulation 
+was restarted. Risk/benefits were discussed with patient and his 
+wife and they were in agreement with restarting. 
+
+___ #?CKD
+During hospitalization in ___ his baseline creatinine was 0.7. 
+His creatinine slowly up-trended to 1.1 at discharge. Up to 1.4 
+with additional diuresis therefore likely prerenal, now down to 
+1. Of note also has persistently elevated BUN, no signs of GI 
+bleed therefore most likely etiology is general cachectic state. 
+
+
+#Left pleural effusion
+Patient developed ___ pleural effusions with L chylothorax during 
+CHF admission ___ and was discharged with L pleurx catheter 
+that was being drained ___. During most 
+recent admission, L pleurx in place but unclear if they were 
+draining it. ___ attempted to drain pleurx but only drained 
+<10cc straw-colored fluid, and most recent CXRs with no residual 
+effusions. ___ was consulted and confirmed there was no effusion 
+by putting the tube to suction overnight, with no output. The 
+chest tube was pulled with no issues, and the patient did not 
+show signs of reaccumulation. 
+
+#Chronic Macrocytic Anemia
+Hemoglobin remained at to above baseline in mid-8s, with mildly 
+elevated MCV in low 100s. Normal B12 level in ___. He does 
+have a history of GI bleeding but had no signs/symptoms 
+suggestive of bleeding on this admission. Anemia is likely 
+multifactorial and related to chronic illness. Can consider 
+checking iron studies and repleting as needed. 
+
+#Sacral decubitus ulcer, unstageable 
+Patient has pressure ulcer (1.5 x 0.5 cm with minimal depth) 
+causing moderate pain. No signs of infection.
+- Appreciate wound care recs:
+- Cleanse wound with wound cleanser or saline, pat dry
+- Apply DuoDerm Gel into wound bed
+- Cover with Mepilex Sacral foam border dressing
+- Change every 3 days or as needed.
+
+CHRONIC/RESOLVED ISSUES
+=======================
+#R arm mass
+Patient complained of right forearm mass that had been there for 
+a month and was decreasing in size. Exam was notable for a deep 
+medial/dorsal forearm mass inferior to anterior cubital fossa 
+with no fluctuance, erythema, or tenderness. CT ___ with 
+heterogeneous lesion measuring 10.1 x 3.2 x 3.7 cm centered in 
+the proximal flexor digitorum superficialis muscle concerning 
+for hematoma vs abscess vs neoplastic lesion. US showed minimal 
+internal vascularity, making neoplasm less likely. Abscess 
+considered highly unlikely given no signs/sx of infection. 
+Radiology recommended clinical monitoring and repeat US in 3 
+months. Given chronicity of mass and fact that it was getting 
+smaller, with no signs of disseminated infection, deemed 
+reasonable to follow up as an outpatient. Patient will need 
+repeat US 3 months.
+
+#Anxiety
+Patient has history of anxiety and problems sleeping at night 
+while in hospital, which were managed with Ativan PO .5mg PRN.
+
+#Chronic Abdominal Pain
+He was continued on a standing bowel regimen and home PPI.
+
+TRANSITIONAL ISSUES
+====================
+[ ] Discharged with sub-therapeutic INR given warfarin held 
+prior to ___ procedure. Continue lovenox 40 SC daily, start 
+warfarin dosing 5mg ___ and if remains sub-therapeutic ___, 
+bridge with lovenox 1mg/kg BID. Goal INR ___
+[ ] Discharge diuretic torsemide 5mg daily
+[ ] Discharge weight 82.7kg
+[ ] Consider outpatient titration of levothyroxine as indicated
+[ ] Patient will require urology follow-up to be coordinated by 
+PCP given new hematuria
+[ ] Pt needs repeat RUE US for RUE mass (inferior to antecubital 
+fossa) in 3 months. 
+[ ] Incidental Findings: CT ___: Multiple well-circumscribed 
+lucencies throughout all carpal bones are likely degenerative, 
+although erosive changes cannot be excluded. A dedicated wrist 
+radiograph is recommended for further evaluation on a non-urgent 
+basis.
+[ ] Macrocytic anemia: anemia is at baseline, can consider 
+outpatient workup.
+
+#CODE: Full
+#CONTACT: Wife/HCP ___ (___)
+ 
+___ on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q3H:PRN wheezing 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 
+5. Cyanocobalamin 1000 mcg PO DAILY 
+6. Fluticasone Propionate 110mcg 4 PUFF IH BID 
+7. GuaiFENesin 10 mL PO Q6H thin secretions 
+8. Lactulose 15 mL PO Q12H:PRN constipation 
+9. Lidocaine 1% 2.5 mL IH TID:PRN trach collar trials if needed 
+for coughing  
+10. Lidocaine 5% Patch 1 PTCH TD QPM to lower back 
+11. Mouth Care Oral Rinse ___ mL ORAL BID 
+12. Multivitamins W/minerals 1 TAB PO DAILY 
+13. Polyethylene Glycol 17 g PO DAILY 
+14. Senna 17.2 mg PO BID:PRN Constipation 
+15. Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush 
+16. Thiamine 100 mg PO DAILY 
+17. Acetylcysteine 20% ___ mL NEB Q12H 
+18. Albuterol Inhaler 8 PUFF IH Q4H:PRN SOB 
+19. Amiodarone 200 mg PO DAILY 
+20. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+21. Ramelteon 8 mg PO QHS 
+22. Simethicone 40-80 mg PO QID:PRN gas pain 
+23. Torsemide 60 mg PO DAILY 
+24. RisperiDONE Oral Solution 0.5 mg PO BID:PRN agitation 
+25. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+26. Warfarin 5 mg PO DAILY16 
+27. rOPINIRole 0.25 mg PO DAILY 
+28. Pantoprazole 40 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 40 mg SC DAILY  
+2.  Levothyroxine Sodium 25 mcg PO DAILY  
+3.  Metoprolol Succinate XL 12.5 mg PO QHS  
+4.  Torsemide 5 mg PO DAILY  
+5.  ___  MD to order daily dose PO DAILY16  
+6.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+7.  Acetylcysteine 20% ___ mL NEB Q12H  
+8.  Albuterol 0.083% Neb Soln 1 NEB IH Q3H:PRN wheezing  
+9.  Albuterol Inhaler 8 PUFF IH Q4H:PRN SOB  
+10.  Amiodarone 200 mg PO DAILY  
+11.  Aspirin 81 mg PO DAILY  
+12.  Atorvastatin 40 mg PO QPM  
+13.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation  
+14.  Cyanocobalamin 1000 mcg PO DAILY  
+15.  Fluticasone Propionate 110mcg 4 PUFF IH BID  
+16.  GuaiFENesin 10 mL PO Q6H thin secretions  
+17.  Lactulose 15 mL PO Q12H:PRN constipation  
+18.  Lidocaine 1% 2.5 mL IH TID:PRN trach collar trials if 
+needed for coughing   
+19.  Lidocaine 5% Patch 1 PTCH TD QPM to lower back  
+20.  Mouth Care Oral Rinse ___ mL ORAL BID  
+21.  Multivitamins W/minerals 1 TAB PO DAILY  
+22.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+23.  Pantoprazole 40 mg PO Q24H  
+24.  Polyethylene Glycol 17 g PO DAILY  
+25.  Ramelteon 8 mg PO QHS 
+Should be given 30 minutes before bedtime  
+26.  RisperiDONE Oral Solution 0.5 mg PO BID:PRN agitation  
+27.  rOPINIRole 0.25 mg PO DAILY  
+28.  Senna 17.2 mg PO BID:PRN Constipation  
+29.  Simethicone 40-80 mg PO QID:PRN gas pain  
+30.  Sodium Chloride 0.9%  Flush ___ mL IV DAILY and PRN, line 
+flush  
+31.  Thiamine 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+- Chronic hypoxic respiratory failure
+- HFrEF
+- UTI
+- Hypothyroidism
+- Mycobacterium avium bronchoalveolar lavage contaminant
+- Right arm mass
+- Gross hematuria 
+
+SECONDARY DIAGNOSIS
+- Hyponatremia
+- Atrial fibrillation
+- Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure taking care of you at ___ 
+___.  
+
+WHY WERE YOU HERE?  
+- You were admitted to the hospital because a type of bacteria 
+called mycobacteria grew from your lungs, BUT it was found to be 
+a contaminant, meaning it got in the test tube by mistake. 
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL?  
+- While you were in the hospital, we did tests to make sure you 
+do not have Tuberculosis, which you do not. 
+- We helped take extra fluid out of your lungs to help you 
+breathe better.
+- We did imaging of your right arm mass, and this did not seem 
+to be an abscess. You should have follow up of this in three 
+months. 
+- We found your urine has some blood in it. This is not normal, 
+and we recommend you follow up with your primary care doctor for 
+further evaluation of this.
+- We also had the wound care nurses see you about the wound on 
+your sacrum. We have given your facility instructions on how to 
+care for this wound. 
+-You underwent a procedure called a right heart catheterization 
+which showed normal pressures in your heart
+-You also underwent a stent revision by the interventional 
+pulmonologist
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE?  
+-Continue to take all your medications as prescribed
+-Follow-up with her primary care physician ___ 1 week
+-Please keep all of your other scheduled healthcare appointments 
+listed below
+
+Sincerely,
+
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

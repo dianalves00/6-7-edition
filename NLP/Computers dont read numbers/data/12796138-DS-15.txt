@@ -1,0 +1,216 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+decreased fetal movement, abnormal uterine artery dopplers
+ 
+Major Surgical or Invasive Procedure:
+cesarean section
+PICC placement
+ 
+History of Present Illness:
+___ yo G1 at ___ IVF pregnancy notable for AMA, complete
+placenta previa, marginal cord insertion, chronic HTN not on 
+meds,
+hypothyroidism sent to labor and delivery from the office after
+she was found to have a BPP of ___ (-2 breathing, -2 gross fetal
+movement) done for decreased FM. Ultrasound also notable for
+intermittent absent and reversed EDF. Normal fluid. Well grown
+fetus. Pt reports nl fetal movement now. Denies any LOF or VB.
+Denies any PIH symptoms.  
+
+ 
+Past Medical History:
+OBHx:
+- G1: current
+ 
+GynHx:
+- denies abnormal Pap, fibroids, STIs
+- endometriosis
+- infertility 
+ 
+PMH: cHTN, no meds 
+ 
+PSH: lsc excision of endometriosis
+ 
+Social History:
+___
+Family History:
+not contributory
+ 
+Physical Exam:
+Physical exam at admission
+VS: ___ 13:31BP: 124/79 (88)
+___ 13:31Temp.: 98.0°F
+___ 13:31Resp.: 20 / min
+___ ___: 95
+___ ___: 98
+Gen: A&O, comfortable
+CV: RRR
+PULM: CTAB
+Abd: soft, gravid, nontender
+Ext: no calf tenderness
+ 
+Toco: irritable
+FHT 150/moderate varability/+accels/+ occasional variables 
+decels
+
+PHYSICAL EXAM AT DISCHARGE
+T
+98.1
+PO 151 / 86 84 16 98 
+      `BP   `HR `RR`O2
+
+PE:
+General: NAD, A&Ox3
+Lungs: No respiratory distress, normal work of breathing
+Abd: soft, nontender, fundus firm at cm below umbilicus. No pain
+with palpation of RUQ.
+Incision: dressing clean/dry/intact, nontender, no surrounding
+erythema or drainage, staples, vertical midline
+Dressing: undressed
+Lochia: minimal
+Extremities: no calf tenderness
+
+ 
+Pertinent Results:
+___ 04:39PM   PLT COUNT-267
+___ 04:39PM   WBC-9.0 RBC-4.16 HGB-12.4 HCT-35.6 MCV-86 
+MCH-29.8 MCHC-34.8 RDW-13.7 RDWSD-42.0
+___ 04:39PM   URIC ACID-3.4
+___ 04:39PM   ALT(SGPT)-87* AST(SGOT)-45*
+___ 04:39PM   estGFR-Using this
+___ 04:39PM   CREAT-0.5
+___ 04:51PM URINE  GR HOLD-HOLD
+___ 04:51PM URINE  UHOLD-HOLD
+___ 04:51PM URINE  HOURS-RANDOM
+___ 04:51PM URINE  HOURS-RANDOM
+___ 04:51PM URINE  HOURS-RANDOM CREAT-90 TOT PROT-17 
+PROT/CREA-0.2
+___ 06:42PM   PLT COUNT-272
+___ 06:42PM   WBC-12.0* RBC-4.02 HGB-12.2 HCT-34.5 MCV-86 
+MCH-30.3 MCHC-35.4 RDW-13.5 RDWSD-41.6
+___ 06:42PM   URIC ACID-3.7
+___ 06:42PM   ALT(SGPT)-84* AST(SGOT)-32
+___ 06:42PM   CREAT-0.4
+
+ Blood Culture, Routine (Preliminary): 
+      LISTERIA MONOCYTOGENES.    FINAL SENSITIVITIES. 
+         test result performed by Sensititre. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             LISTERIA MONOCYTOGENES
+                             |   
+AMPICILLIN------------   0.5 S
+PENICILLIN G----------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the hospital on ___ at 31w6d 
+gestation for prolonged monitoring on Labor and Delivery for 
+decreased fetal movement and abnormal dopplers. She was seen by 
+the Neonatalogy team to discuss delivery at this early 
+gestational age. On Labor and Delivery where she was noted to 
+have normal range blood pressures, a tracing that was 
+intermittently reactive with variable decelerations.  A repeat 
+biophysical profile at the hospital was ___.  She was admitted 
+with a diagnosis of hypertension of pregnancy, and she was also 
+a known previa.  During her admission she received steroids for 
+fetal lung maturation and continuous fetal monitoring. 
+Evaluation revealed an increased ALT, so the diagnosis of 
+preeclampsia was made and she was started on a 24 hour urine.  
+The hope was that 48 hours could be obtained for fetal lung 
+maturation.  Approximately 12 hours after admission, the patient 
+began having repetitive decelerations and had a category 2 
+tracing with non-
+reassuring features.  A consult had been obtained with Maternal 
+Fetal Medicine and jointly the decision was made that the 
+patient needs to be delivered.  The patient had a known anterior 
+placenta previa.  A scan immediately before being taken to the 
+operating room showed the placenta took up most of the anterior 
+abdominal wall, and therefore the decision was made to do a 
+classical C-section, to try to enter above the edge of the 
+placenta.  The patient was taken to the operating room and given 
+rapid spinal anesthesia. 
+
+She underwent an uncomplicated classical cesarean section. 
+Please see operative report in OMR for full details.
+
+On post-partum day 1, in the early morning she was noted to have 
+a fever without localizing signs or symptoms. She spontaneously 
+defervesced. That same morning she again had a fever  with mild 
+fundal tenderness and was given the diagnosis of endometritis. 
+Blood cultures were drawn and she was started on 
+ampicillin/gentamicin and clindamycin. It was discovered the 
+following day that her infant had blood cultures drawn growing 
+listeria. Gent and clinda were discontinued and she was 
+continued on IV ampicillin. She was seen by the infectious 
+disease team for a consult. Her blood cultures resulted showing 
+she was bacteremic with listeria, pan sensitive. A PICC line was 
+placed so that she could continue IV ampicillin at home. She 
+remained afebrile and stable. 
+
+By postpartum day 5, she was tolerating a regular diet, 
+ambulating independently, and pain was controlled with oral 
+medications. She was afebrile with stable vital signs. She was 
+then discharged home in stable condition with postpartum 
+outpatient follow-up scheduled. 
+ 
+Medications on Admission:
+Levothyroxine Sodium 50 mcg PO DAILY 
+Prenatal vitamins 
+ 
+Discharge Medications:
+1.  Ampicillin 2 g IV Q4H bacteremia 
+RX *ampicillin sodium 2 gram 2 grams IV every 4 hours Disp #*72 
+Vial Refills:*0 
+2.  Heparin Flush (10 units/ml) 2 mL IV ONCE MR1  For PICC 
+insertion  Duration: 1 Dose  
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*40 Tablet Refills:*0 
+4.  Levothyroxine Sodium 50 mcg PO DAILY 
+RX *levothyroxine [Levo-T] 50 mcg 1 tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*2 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+RX *oxycodone [Oxaydo] 5 mg ___ tablet(s) by mouth every four 
+(4) hours Disp #*30 Tablet Refills:*0 
+6.  Sodium Chloride 0.9%  Flush 20 mL IV X1 PRN For PICC 
+insertion   
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+s/p primary c/section for previa
+Listeria + blood cultures
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+See discharge instructions.  Pelvic rest for 6 weeks.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,285 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ with metastatic, ___ 5+5, cT3N1M1 Stage IV prostate cancer
+involving the spine and retroperitoneal and pelvic lymph nodes,
+status post radiation therapy in ___, and concurrent
+androgen deprivation therapy, enrolled on ___ ___ Phase 
+I/II ___ of Ketoconazole, Hydrocortisone, Dutasteride, and 
+Lapatanib (KHAD-L) in Castration-Resistant Prostate Cancer with 
+Pre- and Post-Therapy Tumor Biopsies; Day 1 was ___. Now 
+cycle 5 day 6 on
+lapatinib 500 mg daily presents to the ER with syncope.  
+.
+He reports about ___ days of feeling unwell with URI symptoms.  
+He has some malaise, fatigue, and clear rinorrhea and 
+non-productive cough without fever, sick contacts, shakes.  He 
+slept all day yesterday and most of the day today. Was not able 
+to eat/drink much most of the day today but at dinner, he had 
+some soup and a draft beer (does not know how big).  After 
+dinner, was zig-zagging walking to the car, felt a little woosy, 
+leaned against his wife and slumped down with LOC, but no head 
+trauma. Vomited ___ times afterwards, with non-bloody, 
+non-bilious vomit. No shaking or convulsions, no incontinance; 
+when he awoke he was slightly woosy but remembers about to fall 
+down.  He states that he had Alcohol in the distant past when he 
+was taking these medications and similar symptoms occurred but 
+without the syncope. In the ER, vitals  98 115/78 74 14 100%RA.  
+He received ASA 324mg PO, 2L IVF and felt better overall when he 
+arrived to the floor.  
+.
+Review of Systems:  
+(+) Per HPI  
+(-) Denies fever, night sweats, recent weight loss or gain. 
+Denies blurry vision, diplopia, loss of vision, photophobia. 
+Denies headache, sinus tenderness. Denies chest pain or 
+tightness, palpitations, lower extremity edema. Denies shortness 
+of breath, or wheezes. Denies diarrhea, constipation, abdominal 
+pain, melena, hematemesis, hematochezia. Denies dysuria, stool 
+or urine incontinence. Denies rashes or skin breakdown. No 
+numbness/tingling in extremities. All other systems negative.
+
+ 
+Past Medical History:
+ONCOLOGICAL HISTORY: Mr ___ is a ___ year old male who
+presented with painless hematuria in ___. He was advise to
+undergo cystoscopy at that time, but declined. He had another
+episode of hematuria in ___ with passage of clots.
+Digital rectal exam revealed a firm left lobe of the prostate.
+PSA was 5.19. The prostate was biopsied in ___, (PSA
+11.76) showing the following: right lobe ___ 3+3 in ___
+cores, 5% of tissue; left lobe ___ 5+5 involving 7 out of 7
+cores, ~20% of tissue, lymphovascular invasion noted. This was
+performed at ___ with Dr ___.
+Further staging studies done at that time showed evidence of
+metastatic disease. CT scan of the abdomen and pelvis showed L4
+vertebral disease as well as extensive retroperitoneal and 
+pelvic
+lymphadenopathy. He was then started on Casodex and Zoladex 1
+month injection around ___. He had PSA good response 
+when
+reassessed in ___ with evidence of PSA drop to 0.48 in
+___. Casodex was stopped around that time. He continued 
+to
+do rather well until a few months later when he complained of
+hematuria and constant lower back pain and abdominal pain. PSA 
+in
+___ was found to be elevated at 10.15. He then underwent
+radiation therapy to the back and pelvis while on androgen
+deprivation therapy at ___ with Dr ___. Per
+review of Dr ___, the L3-sacral area was treated using
+area was treated using a 3-field approach with CT planning and
+computerized dosimetry and received 3600 cGy in 12 fractions 
+from
+___ through ___. The prostate was treated using IMRT
+with CT planning and
+computerized dosimetry and received 6000 cGy in 30 fractions 
+from
+___ through ___, again with CT planning and
+computerized dosimetry. Cone beam CT was used for daily
+positioning. He had rapid resolution of his pain, which had
+resolved after his second week of treatment to that area. By the
+third week of radiation to the prostate, he had resolution of 
+the
+bleeding. He attained good PSA response with PSA lowered to 0.78
+in ___. He was instructed to restart Casodex and started
+finasteride at that time. 
+.
+His first visit at the ___ Prostate Cancer clinic was on
+___. Initial thought was for him to be on the MDV3100
+androgen receptor antagonist ___ involving its use in
+chemo-naive patients (PREVAIL: A Multinational Phase 3,
+Randomized, Double-Blind, Placebo-Controlled Efficacy and Safety
+Study of Oral MDV3100 in Chemotherapy-NaÃ¯ve Patients with
+Progressive Metastatic Prostate Cancer Who Have Failed Androgen
+Deprivation Therapy). However, he did not meet eligibility
+requirements due to his history of radiation therapy to his
+vertebrae prior to enrollment. For notation, his last dose of
+bicalutamide and finasteride taken by the patient was on 
+___. 
+.
+The patient was offered and agreed to participate in the
+following ___: ___ Phase I/II ___ of Ketoconazole,
+Hydrocortisone, Dutasteride, and Lapatanib (KHAD-L) in
+Castration-Resistant Prostate Cancer with Pre- and Post-Therapy
+Tumor Biopsies. 
+___ - Start date; C1 D1
+.
+TREATMENT HISTORY:
+First Line Regimen - ADT, started ___
+Radiation therapy - ___ - ___
+Second Line Regimen - KHAD-L study; started ___ - visit; bone biopsy performed today, started lapatinib
+___ - visit; ___ bone biopsy performed today, C2 lapatinib
+___ - visit; C3 lapatinib
+___  - visit; C4 lapatinib
+___ - visit; C5 lapatinib
+.
+
+PAST MEDICAL HISTORY:
+1. Repaired uretheral stricture in ___
+2. Prostate Cancer
+3. Rectal polyp, removed ___
+
+.
+ 
+Social History:
+___
+Family History:
+Mother - breast cancer, died age ___
+No other known history of maligancy
+Has two grown sons. 
+
+ 
+Physical Exam:
+VS: T 98  HR 72  bp 120/70  RR  16  SaO2 98RA
+GEN: NAD, awake, alert  
+HEENT: EOMI, sclera anicteric, conjunctivae clear, OP moist and 
+without lesion
+NECK: Supple, no JVD  
+CV: Reg rate, normal S1, S2. No m/r/g.   
+CHEST: Resp unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABD: Soft, NT, ND, no HSM, bowel sounds present
+MSK: normal muscle tone and bulk
+EXT: No c/c/e, 2+ ___ bilaterally
+SKIN: No rash, warm skin
+NEURO: oriented x 3, normal attention, CN II-XII grossly intact, 
+no focal deficits
+PSYCH: appropriate
+ 
+Discharge Exam
+VSS  neg orthostatics
+GEN:  Patient lying comfortably in bed nad a+ox3
+HEENT:  MMM oropharynx clear
+NECK:  supple no thyromegaly
+CV:  rrr no m/r/g
+RESP: ctab no w/r/r
+ABD:  soft nt nd bs+ 
+EXTR: no ___ edema good pedal pulses bilaterally 
+DERM:  no rashes, ulcers or petechiae
+neuro:  cn ___ grossly intact non-focal
+PSYCH: normal affect and mood
+
+ 
+Pertinent Results:
+___ 09:31PM   LACTATE-1.0
+___ 08:00PM   GLUCOSE-114* UREA N-22* CREAT-1.5* SODIUM-139 
+POTASSIUM-3.6 CHLORIDE-99 TOTAL CO2-26 ANION GAP-18
+___ 08:00PM   cTropnT-<0.01
+___ 08:00PM   CALCIUM-9.5 PHOSPHATE-4.1 MAGNESIUM-2.2
+___ 08:00PM   NEUTS-84.2* LYMPHS-10.7* MONOS-4.1 EOS-0.5 
+BASOS-0.6
+___ 08:00PM   NEUTS-84.2* LYMPHS-10.7* MONOS-4.1 EOS-0.5 
+BASOS-0.6
+___ 08:00PM   PLT COUNT-414
+.
+EKG: NSR with no ST depressions or elevations, no T wave 
+inversions, normal axis and intervals
+.
+CXR: no acute cardiopulmonary process
+
+.
+Discharge labs
+___ 09:00AM BLOOD WBC-5.6 RBC-3.70* Hgb-10.2* Hct-32.2* 
+MCV-87 MCH-27.7 MCHC-31.9 RDW-14.3 Plt ___
+___ 09:00AM BLOOD Glucose-92 UreaN-16 Creat-1.0 Na-138 
+K-3.8 Cl-103 HCO3-28 AnGap-11
+___ 09:00AM BLOOD cTropnT-<0.01
+___ 08:00PM BLOOD cTropnT-<0.01
+ 
+Brief Hospital Course:
+#Syncope - Patient symptoms resolved with IV hydration.  trop 
+neg and ecg stable.  He was encouraged to take po fluids and 
+will follow up with his pcp, ___ on ___
+.
+Acute renal failure: ___ prerenal azotemia/dehyrdation.  
+Improved to baseline with iv hydration.  Pt encouraged to take 
+plenty of fluids
+.
+#Metastatic, ___ 5+5, cT3N1M1 Stage IV prostate cancer: continued 
+on home medication and will have zoladex injection next week.  
+Discussed with Dr. ___
+.
+#HTN - told to restart hctz after discharge
+
+ 
+Medications on Admission:
+DUTASTERIDE -  (Prescribed by Other Provider) - Dosage uncertain
+GOSERELIN [ZOLADEX] -  (Prescribed by Other Provider) - Dosage
+uncertain SC q3 months (Due ___
+HYDROCHLOROTHIAZIDE - 25 mg Tablet - 1 Tablet(s) by mouth once a
+day
+HYDROCORTISONE - 10 mg Tablet - 3 Tablet(s) by mouth in the am
+and one table in the afternoon with meals
+KETOCONAZOLE - 200 mg Tablet - 2 Tablet(s) by mouth three times 
+a
+day on empty stomach
+LAPATINIB [TYKERB] -  (Prescribed by Other Provider: ___ - 
+250
+mg Tablet - 2 Tablet(s) by mouth daily
+ 
+Medications - OTC
+ACETAMINOPHEN [TYLENOL] -  (OTC) - 325 mg Tablet - 2 Tablet(s) 
+by
+mouth three times a day as needed for pain
+CALCIUM CARBONATE [TUMS] -  (OTC) - Dosage uncertain
+--------------- --------------- --------------- ---------------
+ 
+Discharge Medications:
+1. dutasteride 0.5 mg Capsule Sig: One (1) Capsule PO daily ().  
+
+2. hydrocortisone 20 mg Tablet Sig: 1.5 Tablets PO QAM (once a 
+day (in the morning)).  
+3. hydrocortisone 20 mg Tablet Sig: 0.5 Tablet PO DAILY AT LUNCH 
+TIME ().  
+4. hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily): Please restart on ___.  
+5. ketoconazole 200 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day).  
+6. lapatinib 250 mg Tablet Sig: Two (2) Tablet PO once a day.  
+7. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable 
+Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed 
+for heartburn.  
+8. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain.  
+9. Zoladex  Subcutaneous
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Syncope
+Acute kidney injury
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted after a syncopal episode(blacking out).  This 
+was likely due to decreased oral intake and dehydration.  Your 
+symptoms improved with iv fluid.  Please increase your daily 
+fluid intake, at least 8 glasses of water a day.  
+ 
+Followup Instructions:
+___

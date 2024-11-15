@@ -1,0 +1,249 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Patient is an ___ yo female with a hx of HTN, hyperlipidemia and 
+depression who presents w/ gradually onset, constant, 
+progressively severe lower abdominal pain which at the time of 
+presentation had become severe.  Descibes pain as a severe 
+heaviness and soreness. Associated with lower back pain that is 
+predominantly in the middle of her lower back.  Denies radiation 
+of the pain from the abdomen to the back. Advil didn't help.  
+Not changed with standing or walking.  Definitively worse with 
+laying on the affected areas (lower back, left hip).  Has never 
+had a similar pain in the past.  Pain was keeping her up at 
+night.  Pain improved significantly with the morphine given in 
+the ED.
+
+Sent to ED by her PCP for abd pain, unable to sleep ___ pain 
+last 2 nights w/ borderline leukocytosis at office of 11K 
+(baseline 4K). 
+
+ROS:
+Endorses chronic nonproductive smoker's cough as well as some 
+left-sided groin pain and sciatica pain with radiation down the 
+left leg which has been noted since she slipped on ice and fell 
+back in ___.
+Denies any recent fever, chills, nausea, emesis, diarrhea, 
+changes in bowel movements, changes in BM color, weight gain or 
+weight loss, changes in appetite, BRBPR, vaginal bleeding, skin 
+changes, jaundice, edema, CP, SOB, DOE, sore throat, vision 
+changes, or headache.
+
+ROS: per HPI above
+
+PCP: ___, MD (___)
+ 
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Depression
+ 
+Social History:
+___
+Family History:
+Brother: DM
+Father: ___ cancer in age ___. Passed away aged ___.
+Mother: COPD. Passed away age ___.
+ 
+Physical Exam:
+VS: T 99.1, HR 70, BP 152/68, RR 16, O2 sat 94% on RA
+
+Lines/tubes: PIV
+Gen: NAD, awake
+HEENT: EOMI, sclera anicteric, PERRL
+Neck: supple, no JVD
+Chest: breathing comfortably, CTAB
+Cardiovasc: RR, nl S1S1, no m/r/g, distal pulses 2+ b/l
+Abd: no abdominal pain to light or deep palpation, soft, BS+, 
+possible hepatomegaly, no splenomegaly appreciated, ___ 
+sign absent
+GU: trace left groin pain to deep palpation, no inguinal LAD 
+appreciated
+Extr: no swelling, clubbing, or cyanosis
+Skin: no rashes or lesions
+Neuro: CN II-XII intact (IX and X not specifically tested), 
+strength 4+/5 throughout, reflexes grossly intact in b/l arms 
+and legs
+Psych: alert, calm
+ 
+Pertinent Results:
+___ 02:35PM BLOOD WBC-9.6 RBC-4.37 Hgb-12.9 Hct-39.5 MCV-90 
+MCH-29.5 MCHC-32.7 RDW-12.9 RDWSD-42.6 Plt ___
+___ 02:35PM BLOOD Neuts-70.5 Lymphs-17.6* Monos-9.3 Eos-1.7 
+Baso-0.5 Im ___ AbsNeut-6.73* AbsLymp-1.68 AbsMono-0.89* 
+AbsEos-0.16 AbsBaso-0.05
+___ 02:35PM BLOOD Glucose-151* UreaN-13 Creat-0.9 Na-137 
+K-3.8 Cl-98 HCO3-22 AnGap-21*
+___ 02:35PM BLOOD ALT-12 AST-18 AlkPhos-83 TotBili-0.4
+___ 02:35PM BLOOD Lipase-17
+___ 02:35PM BLOOD Albumin-4.8 Calcium-10.2 Phos-3.8 Mg-2.0
+___ 02:39PM BLOOD Lactate-2.0
+
+Labs reviewed: mild hyperglycemia
+
+Imaging: CT abdomen/pelvis (___) - IMPRESSION:  
+1.  Extensive colonic diverticulosis without evidence for acute 
+diverticulitis.  Normal appendix. 
+2.  8 mm pancreatic head hypodensity with apparent connection to 
+the pancreatic duct, suggestive of an IPMN.  No pancreatic 
+ductal dilation. MRCP could be performed for further evaluation, 
+if clinically indicated. 
+3.  1.7 cm segment VI hepatic lesion, likely reflecting a 
+hemangioma but incompletely characterized on this single phase 
+examination. 
+4.  Multiple left lower lobe pulmonary nodules, measuring up to 
+0.8 cm. Recommend follow-up chest CT in 3 months to document 
+stability. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT
+___ y/o F w/ HTN, XOL, hypothyroidism and depression who p/w 3 
+days of gradual onset, progressive, severe, constant lower 
+abdominal and central lumbar back pain which was not relieved 
+with NSAIDs, but was relieved with IV morphine and was not 
+associated with any other signs, symptoms, or laboratory studies 
+of note. 
+
+After admission, she became pain free.
+We performed an x-ray of her lumbar spine and her hip given 
+location of the pain.  She had severe degenerative disease of 
+the lumbar spine and some degenerative changes in her hips, but 
+no fractures were identified.   Her pain is likely secondary to 
+degenerative disc disease, and she may need steroid injections 
+and/or pain control +/- referral to a spine physician for 
+further assessment.
+
+A CT abdomen/pelvis was also performed which revealed an IPMN as 
+follows:
+1.  Extensive colonic diverticulosis without evidence for acute 
+diverticulitis.  Normal appendix. 
+2.  8 mm pancreatic head hypodensity with apparent connection to 
+the 
+pancreatic duct, suggestive of an IPMN.  No pancreatic ductal 
+dilation.  MRCP 
+could be performed for further evaluation, if clinically 
+indicated. 
+3.  1.7 cm segment VI hepatic lesion, likely reflecting a 
+hemangioma but 
+incompletely characterized on this single phase examination. 
+4.  Multiple left lower lobe pulmonary nodules, measuring up to 
+0.8 cm.  
+Recommend follow-up chest CT in 3 months to document stability. 
+
+Given IPMN, she may benefit from evaluation by GI with either 
+MRCP or EUS.   There were no concerning features re: her IPMN 
+while hospitalized.
+
+At time of discharge, she was pain-free.   She was found, 
+however, to have sinus tachycardia to 110 bpm with no associated 
+chest pain, shortness of breath, dizziness, or lightheadedness, 
+and she was able to ambulate without difficulty.   She will have 
+PCP follow up following discharge; appointment pending.  
+
+For osteoporosis, she was told to increase her vitamin D to 1000 
+U daily in addition to her prescribed bisphosphanate.  
+
+Other issues:
+# HTN - poorly controlled on admission
+- likely multifactorial (pain, missed dose of lisinopril)
+- hypertension improved modestly with administration of 20 mg PO 
+lisinopril (twice the patient's home dose)
+
+# Liver mass
+- 1.7 cm segment VI hepatic lesion, likely reflecting a 
+hemangioma but incompletely characterized on this single phase 
+examination. PCP ___ recommended.
+
+# Lung masses
+- patient will need ___ CT scan in 3 months
+
+# Hypothyroidism
+- continued home levothyroxine
+
+# Depression/anxiety
+- ontinued home citalopram
+.
+___ ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 10 mg PO QPM 
+2. Lisinopril 10 mg PO DAILY 
+3. Citalopram 20 mg PO DAILY 
+4. Alendronate Sodium 70 mg PO QMON 
+5. Levothyroxine Sodium 50 mcg PO DAILY 
+6. Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB 
+7. Fish Oil (Omega 3) 1000 mg PO DAILY 
+8. Vitamin E 400 UNIT PO DAILY 
+9. Ascorbic Acid ___ mg PO DAILY 
+10. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral DAILY 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB 
+2. Citalopram 20 mg PO DAILY 
+3. Levothyroxine Sodium 50 mcg PO DAILY 
+4. Lisinopril 10 mg PO DAILY 
+5. Simvastatin 10 mg PO QPM 
+6. Alendronate Sodium 70 mg PO QMON 
+7. Ascorbic Acid ___ mg PO DAILY 
+8. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -400 unit oral DAILY 
+9. Fish Oil (Omega 3) 1000 mg PO DAILY 
+10. Vitamin E 400 UNIT PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+(1) Osteoporosis
+(2) Degenerative lumbar spine disease
+(3) Sinus tachycardia
+(4) Intraductal papillary mucinous  neoplasm 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+You were admitted with back and abdominal pain.   Your lab work 
+was normal.  However, on x-ray we did see that you have 
+significant degenerative disease of your lumbar spine which may 
+require pain control and/or steroid injections / interventions 
+in the future.  You should discuss this with your primary care 
+physician.
+
+We also noted that you had an abnormality in the pancreas called 
+intraductal papillary mucinous neoplasm (IPMN) which requires 
+further imaging.   Sometimes, these areas can go on to become 
+cancerous in the future, so evaluating these areas is important. 
+ Your primary care will help direct the next step.   
+
+ 
+Followup Instructions:
+___

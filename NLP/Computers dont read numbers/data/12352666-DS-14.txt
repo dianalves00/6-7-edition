@@ -1,0 +1,161 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+needs colonoscopy
+ 
+Major Surgical or Invasive Procedure:
+colonoscopy
+
+ 
+History of Present Illness:
+HISTORY OBTAINED LARGELY FROM MEDICAL RECORDS. 
+___ yo man with mild mental retardation and paranoid 
+schizophrenia who lives in a group home who requires a screening 
+colonoscopy.  He has a failed colonoscopy in the past due to a 
+poor prep.  He has limited bathroom facilities at home.  He also 
+apparently has a history of orthostatic hypotension and 
+therefore requires careful monitoring during the prep.
+
+Currently he feels well and is without complaint.  ROS negative 
+in full. 
+
+ 
+Past Medical History:
+back pain
+hyperlipidemia
+spinal stenosis
+mild mental retardation
+paranoid schizophrenia
+ataxia
+
+ 
+Social History:
+___
+Family History:
+Sister deceased of myocardial infarction at age ~___
+
+ 
+Physical Exam:
+ADMISSION EXAM
+Middle aged man, NAD. 
+AVSS.
+Alert, pleasant, cooperative, NAD.  
+HEENT: MMM
+CV: RRR
+PULM: CTAB
+ABD: flat, soft, NT/ND
+EXT: warm, no CCE
+NEuro: fluent speech
+Psych: appropriate affect. speech is slightly pressured. 
+
+DISCHARGE EXAM
+NAD. 
+98  140/95  86  18  99%ra
+PAIN: 0
+Alert, pleasant, cooperative, NAD.  
+HEENT: MMM
+CV: RRR
+PULM: CTAB
+ABD: soft, NT/ND
+EXT: warm, no CCE
+
+ 
+Pertinent Results:
+___ 06:00AM BLOOD WBC-7.5 RBC-4.36* Hgb-12.2* Hct-35.7* 
+MCV-82 MCH-27.9 MCHC-34.1 RDW-13.3 Plt ___
+___ 06:00AM BLOOD Glucose-101* UreaN-10 Creat-0.8 Na-140 
+K-4.2 Cl-105 HCO3-27 AnGap-12
+___ 06:00AM BLOOD Calcium-8.4 Phos-3.0 Mg-2.1
+
+Colonscopy Impression:
+Diverticulosis of the sigmoid colon and descending colon
+Polyp in the colon (polypectomy)
+Polyps in the transverse colon (polypectomy)
+Otherwise normal colonoscopy to cecum
+ 
+Brief Hospital Course:
+___ with MR presents for screening colonoscopy.
+
+First colonoscopy aborted due to incomplete prep. Re-prepped and 
+second colonoscopy sucessful. Diverticulosis and polyps found. 
+Polypectomy x3. 
+
+Mild MR / paranoid schizophrenia: continued home meds 
+BPH: cont Flomax
+Back pain: continued tylenol PRN. Held motrin, resumed on 
+discharge
+HL/HTN: continue statin. Held ASA, resumed on discharge. 
+Propranolol 10 mg PO BID 
+GERD: Ranitidine 150 mg PO BID 
+contact: program contact: ___ ___, cell ___. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tamsulosin 0.4 mg PO HS 
+2. Aspirin 325 mg PO DAILY 
+3. Calcium 600 with Vitamin D3 (calcium carbonate-vitamin D3) 
+600 mg(1,500mg) -400 unit Oral daily 
+4. Simvastatin 40 mg PO DAILY 
+5. Ranitidine 150 mg PO BID 
+6. Ibuprofen 600 mg PO TID:PRN pain 
+7. Acetaminophen 650 mg PO Q4H:PRN pain 
+8. Divalproex (EXTended Release) 500 mg PO DAILY 
+9. Mirtazapine 15 mg PO HS 
+10. Propranolol 10 mg PO BID 
+11. Desipramine 100 mg PO QPM 
+12. OLANZapine 30 mg PO HS 
+13. Benztropine Mesylate 0.5 mg PO BID 
+14. ClonazePAM 1 mg PO BID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q4H:PRN pain 
+2. Benztropine Mesylate 0.5 mg PO BID 
+3. ClonazePAM 1 mg PO BID 
+4. Desipramine 100 mg PO QPM 
+5. Divalproex (EXTended Release) 500 mg PO DAILY 
+6. Mirtazapine 15 mg PO HS 
+7. OLANZapine 30 mg PO HS 
+8. Propranolol 10 mg PO BID 
+9. Ranitidine 150 mg PO BID 
+10. Simvastatin 40 mg PO DAILY 
+11. Tamsulosin 0.4 mg PO HS 
+12. Aspirin 325 mg PO DAILY 
+13. Calcium 600 with Vitamin D3 (calcium carbonate-vitamin D3) 
+600 mg(1,500mg) -400 unit Oral daily 
+14. Ibuprofen 600 mg PO TID:PRN pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+colonic polyps
+diverticulosis
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for a colonoscopy. Several polyps were found 
+and were removed. They were sent for pathology which remains 
+pending at the time of discharge.
+ 
+Followup Instructions:
+___

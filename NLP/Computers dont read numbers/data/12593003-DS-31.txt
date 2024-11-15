@@ -1,0 +1,169 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+oxaliplatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Oxaliplatin Desensitization
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ PMH of rectal adenocarcinoma (metastatic to the liver and
+lungs), admitted for scheduled q2week cycle
+of oxaliplatin desensitization (w/ ___ the day 
+after).
+
+Her C4D1 oxaliplatin infusion was aborted on ___ due to
+hives one hour after infusion, and she had confirmed positive
+allergy skin testing to oxaliplatin on ___. Her last cycle was
+on ___, which she tolerated well. 
+
+On arrival to the floor, patient is without acute complaint. She
+noted that she was without pain, discomfort, fever, chills.  She
+noted that she is eating a normal diet and is voiding/stooling
+without any difficulty.  Denied any allergic symptoms such as
+rash, abnormal throat sensation, hives, shortness of breath.
+
+Son ___ was at bedside and provided ___ translation as per
+patient's request. 
+
+ 
+Past Medical History:
+Ms. ___ first started noticing some unintentional weight loss
+over the past 3 months. She recently noticed some blood in her
+stool and presented to her PCP at ___ (Dr. ___ on ___. She underwent colonoscopy by Dr.
+___ on ___ which yielded a large lesion in the rectum. Biopsy
+was taken and is positive for low grade adenocarcinoma. She was
+then referred to ___ for further workup. A CT torso on ___ was
+performed and showed multiple large liver mets and a 2 cm lung
+nodule concerning for metastasis. An MRI pelvis on ___ was
+unable to be completed due to the presence of an IUD.
+
+- ___ C1D1 FOLFOX
+- ___ C2D1 FOLFOX + Neulasta (no ___ due to neutropenia)
+- ___ CT torso shows decrease in pulmonary nodules and
+primary rectal mass, stable liver mets
+- ___ C3D1 FOLFOX7 + Avastin
+- ___ C4D1 FOLFOX7 + Avastin, D1 oxaliplatin aborted due to
+allergic reaction, D15 delayed due to need for desensitization.
+- ___ CT torso shows decrease in primary tumor and liver
+mets
+- ___ C5D1 FOLFOX7 + Avastin with 3 bag oxaliplatin
+desensitization
+- ___ C6D1 FOLFOX7 + Avastin with 3 bag oxaliplatin
+desensitization
+- ___ CT torso show stable disease
+- ___ C7D1 FOLFOX7 + Avastin with 3 bag oxaliplatin
+desensitization
+- ___ C8D1 FOLFOX7 + Avastin with 3 bag oxaliplatin
+desensitization
+- ___ C9D1 FOLFOX7 + Avastin with 3 bag oxaliplatin
+desensitization
+- ___ C10D1 FOLFOX7 + Avastin with 3 bag oxaliplatin
+desensitization
+- ___ C11D1 FOLFOX7 + Avastin with 3 bag oxaliplatin
+desensitization
+- ___ CT torso shows minimal increase of RLL nodule, stable
+metastatic disease otherwise
+- ___ C12D1 FOLFOX7 + Avasitin with 3 bag oxaliplatin
+desensitization
+ 
+PAST MEDICAL HISTORY: 
+- Metastatic rectal cancer, as above
+- PPD Positive
+- Left Breast Fibroadenoma
+- Vitamin D Deficiency
+
+ 
+Social History:
+___
+Family History:
+Denies any history of GI or other malignancies
+ 
+Physical Exam:
+ADMISSION/DISCHARGE PHYSICAL EXAM:  
+GENERAL: Pleasant, lying in bed comfortably, son ___ at bedside
+EYES: Anicteric sclerea, PERLLA
+HEENT: OP clear, MMM, poor dentition
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops
+RESPIRATORY: Appears in no respiratory distress, clear to
+auscultation bilaterally, no crackles, wheezes, or rhonchi
+GASTROINTESTINAL: Normal bowel sounds; nondistended; soft,
+nontender without rebound or guarding
+MUSKULOSKELATAL: Warm, well perfused extremities without lower
+extremity edema; Normal bulk 
+NEURO: Alert, oriented x3, motor and sensory function grossly
+intact
+SKIN: No significant rashes
+PSYCH: normal mood/judgement/insight
+ 
+Pertinent Results:
+No Labs/Micro/Imaging
+ 
+Brief Hospital Course:
+___ PMH of rectal adenocarcinoma (metastatic to the liver and
+lungs), admitted for scheduled q2week cycle
+of oxaliplatin desensitization (w/ ___ the day 
+after), was on 3 bag oxaliplatin intermediate desensitization 
+protocol previously, now down to 2 bag protocol which she 
+tolerated well without incident. 
+
+Transitional Issues: 
+1. Follow up in clinic as scheduled on ___ for chemotherapy
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cetirizine 10 mg PO AS DIRECTED 
+2. Docusate Sodium 100 mg PO BID 
+3. Ondansetron 8 mg PO Q8H:PRN nausea/vomiting 
+4. Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting 
+
+ 
+Discharge Medications:
+1.  Cetirizine 10 mg PO AS DIRECTED  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Ondansetron 8 mg PO Q8H:PRN nausea/vomiting  
+4.  Prochlorperazine 10 mg PO Q6H:PRN nausea/vomiting  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#oxaliplatin allergy requiring desensitization
+#metastatic rectal adenocarcinoma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___. You were admitted for you scheduled 
+desensitization dose of the oxaliplatin chemotherapy. You 
+tolerated the treatment well, and will need to follow up in 
+clinic tomorrow for the remainder of your treatment. 
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

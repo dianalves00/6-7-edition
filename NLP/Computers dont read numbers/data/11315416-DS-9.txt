@@ -1,0 +1,255 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+PCN, bees
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ year old woman with history of dementia, 
+recurrent falls and chronic lower extremity edema who presents 
+with weakness and fatigue.  
+ Patient lives in an assisted living facility outside ___ 
+___, recently flew up to ___ to spend holidays with her 
+daughter and family. During the visit her daughter has noted 
+that she is weak, fatigued, and "not herself". She usually walks 
+without assistive device and walks long distances without issue, 
+over past 2 days has had to stop frequently while walking due to 
+weakness. Yesterday they were out for a walk and had to stop to 
+rest on several benches, ultimately having to stop on a 
+neighbors steps and call ___ to take her back to her house. 
+She has not had chest pain, palpitations, shortness of breath, 
+orthopnea, PND. She was recently diagnosed with lower extremity 
+edema this ___ and started on increasing doses of Lasix up to 
+40mg with metolazone. Patient's daughter noted that her mom's 
+legs were very skinny so held both diuretics with concern that 
+her mother was dehydrated. Patient and daughter corroborate that 
+patient has not had fevers, chills, headache, abdominal pain, 
+nausea, vomiting, diarrhea, constipation, dysuria.  
+ 
+ In the ED, initial vitals were:  
+ 97.0 76 139/74 18 100% RA  
+ 
+ Exam notable for NTND abd. RRR. CTAB. No c/c/e.  
+ Labs showed normal CBC, Cr 1.9, trop <0.01, lactate 1.8, UA 
+negative  
+ ECG sinus with PVCs, left axis deviation, LBBB, enlarged p 
+waves, no ischemia  
+ CT Head showed: No acute intracranial process. Specifically no 
+intracranial hemorrhage.  
+ CXR showed: no acute intrathoracic process  
+ Patient received 500cc NS  
+ 
+ Transfer VS were  
+ 98.0 75 127/74 18 99% RA  
+ 
+ Decision was made to admit to medicine for further workup of 
+dyspnea, acute kidney injury  
+ 
+ On arrival to the floor, patient reports that she had been 
+feeling weak, denies paresthesias. No other complaints.  
+ 
+
+ 
+Past Medical History:
+ Demenita  
+ osteoporosis  
+ neuropathy  
+ 
+Social History:
+___
+Family History:
+ multiple family members with dementia, father died of heart 
+attack
+ 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+ Vital Signs: 98.0 PO 158 / 75 R Sitting 67 18 98 ra  
+ General: Alert, oriented x2 (to place and day/month, not to 
+year or person), comfortable appearing, no acute distress  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Lungs: chest wall caves inward, clear to auscultation 
+bilaterally, no wheezes, rales, rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley , no CVA tenderness  
+ Ext: chronic venous stasis changes bilaterally, warm, well 
+perfused, 2+ pulses, no clubbing, cyanosis or edema  
+ Neuro: CNII-XII intact ?left sided smile asymmetry, ___ 
+strength upper/lower extremities, grossly normal sensation,gait 
+deferred.  
+ 
+DISCHARGE  PHYSICAL EXAM:  
+Vitals:  97.7 PO 125 / 68 95 20 95 RA 
+General: alert, oriented x 1, no acute distress  
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Overlying venous stasis changes   
+Neuro: CNs2-12 intact, motor function grossly normal  
+  
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+___ 04:45PM BLOOD WBC-6.5 RBC-3.90 Hgb-11.8 Hct-36.0 MCV-92 
+MCH-30.3 MCHC-32.8 RDW-13.2 RDWSD-45.1 Plt ___
+___ 04:45PM BLOOD Neuts-74.1* Lymphs-16.4* Monos-7.9 
+Eos-0.5* Baso-0.6 Im ___ AbsNeut-4.78 AbsLymp-1.06* 
+AbsMono-0.51 AbsEos-0.03* AbsBaso-0.04
+___ 04:45PM BLOOD Glucose-95 UreaN-39* Creat-1.9* Na-136 
+K-3.5 Cl-95* HCO3-27 AnGap-18
+___ 04:45PM BLOOD Albumin-4.2 Calcium-9.1 Phos-3.7 Mg-2.4
+
+==============
+PERTINENT LABS
+==============
+___ 04:45PM BLOOD TSH-0.93
+
+=======
+IMAGING
+=======
+___ CXR: No acute findings.
+___ CT Head: 
+1. No acute intracranial process.  Specifically no intracranial 
+hemorrhage. 
+2. Chronic changes as described above. 
+
+==============
+DISCHARGE LABS
+==============
+___ 06:46AM BLOOD WBC-4.1 RBC-3.99 Hgb-12.1 Hct-36.5 MCV-92 
+MCH-30.3 MCHC-33.2 RDW-13.2 RDWSD-44.3 Plt ___
+___ 06:46AM BLOOD Glucose-86 UreaN-31* Creat-1.4* Na-141 
+K-2.8* Cl-99 HCO3-28 AnGap-17
+___ 03:06PM BLOOD K-3.___RIEF HOSPITAL COURSE
+___ year old woman with history of dementia, osteoporosis, lower 
+extremity edema who presents with fatigue and acute kidney 
+injury.  
+
+#Acute Kidney Injury: Likely pre renal azotemia secondary to 
+decreased PO intake and over diuresis, s/p 500cc in ED with 
+improvement in Cr. On admission with Cr of 1.9, improved to 1.4 
+with fluids. No prior laboratory data to determine baseline Cr. 
+Diuretics and meloxicam were held during admission, plan to hold 
+on discharge. 
+
+#Fatigue: Likely secondary to poor PO intake and dehydration. 
+TSH wnl. No evidence of infection with normal CBC, UA, and CXR. 
+No anemia. No symptoms of CP, dyspnea on exertion, or ECG 
+changes to suggest cardiac etiology. ___ evaluated patient with 
+recommendation for home ___ services  
+
+#Lower extremity edema: Patient with evidence of chronic venous 
+stasis on exam. No known history of heart failure but was on 
+moderate doses of Lasix and metolozone for lower extremity 
+edema. Diuretics held during admission and discharge. Unable to 
+reach PCP (office closed) to determine prior workup of lower 
+extremity edema  
+
+ CHRONIC MEDICAL ISSUES:  
+ #Dementia: Home Namenda xr as short acting 5mg BID  
+ #Osteoporosis: Vitamin D1000 IU daily, hold NSAIDs with ___, 
+acetaminophen as needed for pain  
+ #Cardiovascular: Unclear why patient is on full dose aspirin.  
+
+TRANSITIONAL ISSUES:
+[ ] Consider reduction of ASA 325 to 81 mg if indicated
+[ ] Hold diuretics on discharge. Would recommend low salt diet, 
+compression stockings. If recurrent edema, consider resuming 
+furosemide at 40-60 mg PO without metolazone.  
+[ ] Repeat chem 7 to monitor continued improvement of creatinine
+[ ] Should have TTE to evaluate for diastolic heart failure as 
+etiology of lower extremity edema unless recently completed 
+[ ] Meloxicam discontinued on discharge
+[ ] Discharged with home ___ services
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 40 mg PO DAILY 
+2. Metolazone 5 mg PO DAILY 
+3. Potassium Chloride 20 mEq PO DAILY 
+4. Namenda XR (MEMAntine) 7 mg oral DAILY 
+5. Vitamin D 1000 UNIT PO DAILY 
+6. meloxicam 7.5 mg oral BID 
+7. Aspirin 325 mg PO DAILY 
+8. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+9. Milk of Magnesia 30 mL PO Q12H:PRN constipation 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  Aspirin 325 mg PO DAILY  
+3.  Milk of Magnesia 30 mL PO Q12H:PRN constipation  
+4.  Namenda XR (MEMAntine) 7 mg oral DAILY  
+5.  Potassium Chloride 20 mEq PO DAILY  
+6.  Vitamin D 1000 UNIT PO DAILY  
+7. HELD- Furosemide 40 mg PO DAILY  This medication was held. Do 
+not restart Furosemide until speaking with your primary care 
+physician
+
+ 
+___:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+- Acute kidney injury
+- Fatigue
+SECONDARY 
+- Dementia
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___. You were admitted for 
+weakness and found to have mild kidney injury. This is likely 
+because your diuretics are working too well. Your medications 
+were adjusted and your lab tests improved.
+
+Please follow up with your primary care physician and continue 
+your medications as below. 
+
+Wishing you well,
+
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

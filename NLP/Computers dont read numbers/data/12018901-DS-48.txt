@@ -1,0 +1,286 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ranitidine / Aldactone
+ 
+Attending: ___
+ 
+Chief Complaint:
+CC: ___
+ 
+Major ___ or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ F with heart failure with preserved ejection fraction (last 
+EF ___ measured at 75%) here with dyspnea.
+
+Left ___ ___ against medical advice. Reports that she didn't 
+have any dietary indiscretions at home, but is known to be 
+non-compliant.  Went home, where she reports she felt 
+increasingly SOB.  When she went to lie down flat in bed to 
+sleep she says that she couldn't breathe and had to sit up to 
+breath better.  In addition, when she lay down she got a sharp 
+pain in her L chest that was a/w sweatiness and palpitations but 
+no N/V, and the pain did not radiate.  The pain lasted until she 
+got to the ED, where they gave her "some medication" that made 
+the pain go away while she was siting still.  She reports that 
+when she moves postions, the chest pain returns.   
+
+Vitals on arrival to ___: T 98.0, P 74, BP 125/49 83 on RA; 
+improved to 99% 3LNC. She received lasix 60mg IV and 40 mEq of 
+potassium.
+ 
+Past Medical History:
+1. Nonobstructive hypertrophic cardiomyopathy with diastolic
+congestive heart failure:
+- Echo (___) with EF >= 65%,
+- Uses 3L O2 at home continuosly
+- Cath with no CAD (___)
+2. Hypertension
+3. Hyperlipidemia
+4. Paroxysmal atrial fibrillation on coumadin- was ?atypical
+left hemisensory sx when diagnosed in ___
+5. Diabetes mellitus, type II
+6. Asthma
+7. Multifactorial sleep disordered breathing with
+hypoventilation and obstructive componenet: on BIPAP with O2
+8. Depression
+9. Chronic pain (neck, headache, joints)
+10. History of GI bleed secondary to antral ulcer in ___
+negative for h.pylori
+11. History of positive PPD -- no INH per patient
+12. History of pericarditis complicated by tamponade (___)
+13. History of thalamic stroke (___)
+14. s/p TAH
+15. Chronic kidney disease: baseline creatinine ~2.8
+16. Gout 
+ 
+Social History:
+___
+Family History:
+Family history of type II diabetes mellitus 
+ 
+Physical Exam:
+Admission Physical 
+vitals: 98.4, 124/67, 68 (68-59), 24 (___), 100% 3L (100% on 
+___
+PE: General: Alert, oriented, resting in bed comfortably. 
+HEENT: Sclera anicteric, MMM, oropharynx clear. 
+Neck: JVP difficult to visuazlie ___ habitus.
+Lungs: Rare end-expiratory wheezes. No crackles or rhonchi. 
+ronchi.
+CV: irreg irreg, normal S1 + S2, II/VI systolic murmur. No rubs 
+or gallops. TTP over the left breast. 
+Abdomen: obese soft, non-tender, non-distended, bowel sounds 
+present, no rebound tenderness or guarding. Organomegaly could 
+not be assessed ___ habitus. 
+Ext: warm, well perfused, 2+ pulses, no clubbing or cyanosis. 
+___ lower-extremity pitting edema to mid-shins. 
+
+Discharge Physical Exam
+ 
+Pertinent Results:
+Chemistries:
+ - ___ 02:45AM   GLUCOSE-208* UREA N-101* CREAT-3.5* 
+SODIUM-132* POTASSIUM-6.8* CHLORIDE-88* TOTAL CO2-35* ANION 
+GAP-16 cTropnT-0.12* proBNP-6415*
+ - ___ 02:49AM   GLUCOSE-194* LACTATE-1.9 NA+-138 K+-4.5 
+CL--87* TCO2-36*
+ - ___ 03:30AM   GLUCOSE-211* UREA N-101* CREAT-3.5* 
+SODIUM-135 POTASSIUM-3.2* CHLORIDE-89* TOTAL CO2-36* ANION 
+GAP-13
+
+Hematology:
+ - ___ 02:49AM   HGB-7.9* calcHCT-24
+ - ___ 03:30AM   WBC-12.8* (NEUTS-84.1* LYMPHS-8.4* 
+MONOS-6.7 EOS-0.5 BASOS-0.3) RBC-2.99* HGB-7.3* HCT-24.0* 
+MCV-80* MCH-24.5* MCHC-30.6* RDW-18.0* PLT COUNT-370
+
+Coagulation Studies:
+ - ___ 02:45AM   ___ PTT-37.7* ___
+
+Urine Studies:
+ - ___ 03:50AM URINE  COLOR-Yellow APPEAR-Clear SP 
+___ BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG 
+KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG
+
+CXR: Enlarged cardiac silhouette, bilateral pleural effusions. 
+Final read pending.
+ 
+Brief Hospital Course:
+___ y/o chronically ill woman with MMP including CHF 
+(nonobstructive CMP with EF>65% and diastolic HF), HTN, HL, DM2, 
+CRF (baseline Cre ~ 2.8), gout who was admitted with mild left 
+MSK chest pain, and SOB likely related to CHF.
+.
+P: # Acute on chronic renal failure (CKD, Stage 4)
+Creatinine of 3.5 on admission (previous baseline 2.8), c/w 
+acute on chronic renal failure. Her renal failure was felt to be 
+most likely cardiac in etiology secondary to poor forward flow 
+resulting in prerenal ARF. She was seen by renal who recommended 
+lasix gtt and metolazone, and acetazolamide which could help 
+with diuresis and hypercarbia. They also recommended starting 
+her on iron supp.  Pt was transitioned to a PO regimen of lasix 
+120mg BID, metolazone 10mg QD and acetazolamide 250mg TID the 
+day before dispo.
+.
+# Acute on Chronic CHF (diastolic): Patient is on 3L NC at home 
+at baseline, and has now improved to 100% on 2L here. Pt became 
+volume neg on lasix gtt at 20, acetazolamide and 10mg 
+metolazone.  Pt may need hemodialysis in the future, but was 
+able to avod it on this admission with maximal doses of lasix 
+gtt.  
+.
+# DM: Patient had been on 40 units glargine QHS at home and 
+Insulin regimen was adjusted while in-house. She is now on 
+30units glargine QHS with an insulin SS and 4 units humalog with 
+meals.  Sugars are well-controlled on this regimen.
+.
+# AFib:  Previously, patient was on Coumadin 3 mg MWF, 2 mg 
+___. As she was supratherapeutic on this dose she was 
+changed to 1mg QD, with INR stable around 2.5 - 2.6.  
+.
+# Gout: Stable.  Continued allopurinol at renally dosed amount 
+(100mg QD)at home dose. 
+.
+# Chest pain: Present on last admission, felt at that time to be 
+most likely musculoskeletal in origin; improved with 
+conservative management. Troponins were at baseline x 3 at last 
+admission and again baseline x1 this admission, and pt had no 
+EKG changes suggestive of ischemic cardiac event on both the 
+last admission and this admission.
+.
+# Discharge/AMA: On last admission, patient was seen by ___ who 
+recommended that she be discharged to a rehab facility due to 
+poor physical capacity. However, patient refused rehab and left 
+AMA to go home.  This dispo they recommended home with ___ 
+services.
+
+ 
+Medications on Admission:
+1. Gabapentin 300 mg PO Q48H 
+2. Allopurinol 50 mg PO DAILY 
+3. Carvedilol 6.25 mg PO BID 
+4. AcetaZOLamide 250 mg PO Q24H Start: In am 
+5. Docusate Sodium 100 mg PO BID 
+6. Amiodarone 200 mg PO DAILY 
+7. Warfarin 2.5 mg PO DAILY16 
+8. Amlodipine 10 mg PO DAILY 
+9. Simvastatin 10 mg PO DAILY 
+10. Torsemide 20 mg PO BID 
+11. TraMADOL (Ultram) 50 mg PO Q12H:PRN joint pain 
+12. Metoclopramide 5 mg PO QIDACHS 
+13. Pantoprazole 40 mg PO Q24H 
+14. Potassium Chloride 20 mEq PO DAILY Duration: 24 Hours 
+Hold for K > 4.5 
+15. Calcitriol 0.25 mcg PO MON AND WEDS 
+16. PredniSONE 10 mg PO DAILY 
+17. Acetaminophen 650 mg PO Q6H:PRN pain 
+
+ 
+Discharge Medications:
+1. Metolazone 10 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+2. Acetazolamide 250 mg Tablet Sig: One (1) Tablet PO three 
+times a day.
+Disp:*90 Tablet(s)* Refills:*2*
+3. Allopurinol ___ mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).  
+4. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+6. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q48H (every 
+48 hours).  
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+8. Metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+9. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Tramadol 50 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for pain.  
+11. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed for pain.  
+12. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+13. Carvedilol 12.5 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).  
+14. Warfarin 1 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___.  
+15. Metolazone 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+16. Acetazolamide 250 mg Tablet Sig: One (1) Tablet PO Q8H 
+(every 8 hours).  
+17. Insulin Glargine 100 unit/mL Solution Sig: Thirty (30) units 
+Subcutaneous at bedtime.  
+18. Insulin Lispro 100 unit/mL Solution Sig: One (1)  
+Subcutaneous four times a day: Per your home sliding scale.  
+19. Furosemide 40 mg Tablet Sig: Three (3) Tablet PO twice a 
+day.
+Disp:*180 Tablet(s)* Refills:*2*
+20. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+21. Potassium Chloride 20 mEq Tab Sust.Rel. Particle/Crystal 
+Sig: Two (2) Tab Sust.Rel. Particle/Crystal PO once a day.
+Disp:*60 Tab Sust.Rel. Particle/Crystal(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY: Acute on chronic diastolic heart failure
+         Acute on chronic renal failure
+
+SECONDARY: diabetes mellitus type two
+           hypertension
+           hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were seen in the hospital for shortness of breath.  We 
+determined that you had too much fluid in your lungs, and we 
+gave you diuretics to help reduce that fluid.  Your shortness of 
+breath decreased as we diuresed you, and we sent you home 
+feeling better with minimal fluid around your lungs.
+
+Medication Changes: 
+-STARTED lasix 120 mg by mouth twice daily
+- STARTED iron 325 mg po twice daily
+- STARTED metolazone 10 mg by mouth daily
+-Decreased warfarin from 2 mg to 1 mg by mouth daily
+-Decreased glargine (lantus) to 30 units per day
+-Increased carvedilol to 25 mg po twice a day
+-Increased acetazolamide 250 mg by mouth three times a day
+-Increased potassium supplement to 40 mEq per day
+
+Please keep all of your follow-up appointment and take your 
+medication exactly as directed.
+
+If you experience any of the below listed warning signs, please 
+call your doctor or go to the nearest emergency room.
+
+It was a pleasure taking care of you on this hospitalization.  
+ 
+Followup Instructions:
+___

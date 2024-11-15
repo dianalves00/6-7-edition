@@ -1,0 +1,327 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain, shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+Dialysis on ___ and ___
+ 
+History of Present Illness:
+___ yo M with h/o DM II c/b ESRD on HD, atrial fibrillation not 
+on coumadin, recently admitted for chest pain and hypoxia, 
+presenting with chest pain and shortness of breath.  Patient 
+reports that since discharge, he has seen his PCP, ___, 
+___ was feeling relatively well.  He notes that the night prior 
+to admission, he had the acute onset of shortness of breath, 
+with heart palpitations and chest pain ___ on left, radiating 
+down his left arm.  He had had frequent episodes since discharge 
+but none as intense.  He reports that coughing makes the pain 
+worse, nothing makes it better.  It is constant.  
+
+He believes the coughing is a representation of having too much 
+fluid.  Patient reports that prior to onset of shortness of 
+breath and chest pain, he had been at dialysis where 5L fluid 
+were removed (more than usual).  After dialysis, he could barely 
+walk because of extreme right calf pain, which he describes as a 
+stretching/swelling sensation.  
+
+Patient reports that he has not used cocaine in "several weeks." 
+ He believes the last time was prior to his last admission, at 
+least 1.5 weeks ago.  His partner, ___, believes this to be 
+true as well, though she can not be entirely sure. 
+
+In the ED, initial vital signs were ___ 18 94% RA. 
+Patient triggered for atrial fibrillation with RVR to the 150s. 
+Patient was given 30mg oral diltiazem with rats down to ___. He 
+also received morphine for chest pain and aspirin 325mg.  Given 
+complaints of RLE pain, ___ was performed.  Preliminary read 
+was negative for DVT.  
+
+On admission, initial vital signs were 97.8 145/79 90 28 100% 3L 
+NC.
+
+Review of sytems:  
+(+) As above.
+
+(-) Denies fever, chills.  Denies hemoptysis.  Does not make any 
+urine.  Denies diarrhea, constipation, abdominal pain, melena or 
+hematochezia.  All else negative on 10 point review of systems
+ 
+Past Medical History:
+1. ESRD on HD ___ at ___ Dialysis, ___, 
+___  
+2. Type 2 diabetes mellitus c/b peripheral neuropathy  
+3. Chronic systolic CHF with EF 30% ___ TTE)  
+4. Atrial fibrillation/AFlutter  
+- s/p ablation ___ s/p ablation x 2 in ___  
+- not on coumadin due to history of GIBs.  
+5. Hypertension  
+6. Dyslipidemia  
+7. History of GI bleeds: Duodenal, jejunal, and gastric AVMs s/p 
+
+thermal therapy; diverticulosis throughout colon  
+8. Chronic pancreatitis  
+9. ? HCV: HCV Ab + ___, but neg ___  
+10. GERD  
+11. Gout: s/p arthroscopy with medial meniscectomy ___  
+12. Depression with multiple hospitalizations due to SI  
+13. Polysubstance abuse: crack cocaine, EtOH, tobacco  
+14. recurrent chest pain following crack/cocaine use  
+- no evidence CAD on cath ___  
+15. Erectile dysfunction s/p inflatable penile prosthesis ___ 
+
+16. H/o C diff in ___ 
+17.thyrotoxicosis
+ 
+Social History:
+___
+Family History:
+Mother died of MI; per OMR multiple sibs with T2DM
+ 
+Physical Exam:
+Admission Physical Exam:  
+Vitals- 97.8 145/79 90 28 100% 3L NC
+Weight 70.5 kg (dry weight 67kg)
+General- Elderly gentleman, in NAD, intermittently agitated and 
+yelling at partner  
+___ anicteric, PERRL, EMOI, MMM, oropharynx clear  
+Neck- supple, JVP to 7 cm, no LAD  
+Lungs- good air movement bilaterally, course crackles in 
+bilateral bases, left>right
+CV- irregularly irregular rhythm, normal rate, normal S1/S2, no 
+m/r/g 
+Abdomen- +BS, nontender, nondistended, no HSM
+Ext- warm, well perfused, 2+ ___ pulses, no clubbing, 
+cyanosis. 1+ pedal edema bilaterally.  Tenderness to palpation 
+of right calf. 
+Neuro- A+O x 3, CN intact, strength ___ bilaterally
+
+Discharge Physical Exam:
+Vitals- 97.3-98.9, 99-117/47-89, 90-130s, 100% 2L and RA 
+Weight 63.2 <- 66.8 (dry weight 67kg)
+General-  ___  
+___- Sclera anicteric, PERRL, EMOI, MMM, oropharynx clear  
+Neck- supple, JVP to 7 cm, no LAD  
+Lungs- good air movement bilaterally. No W/C/R
+CV- irregularly irregular rhythm, normal rate, normal S1/S2, no 
+m/r/g 
+Abdomen- +BS, nontender, nondistended, no HSM
+Ext- warm, well perfused, 2+ ___ pulses, no clubbing, 
+cyanosis. 1+ pedal edema bilaterally.  Tenderness to palpation 
+of right calf. 
+Neuro- A+O x 3, CN intact, strength ___ bilaterally
+ 
+Pertinent Results:
+Admission Labs:  
+WBC 6.7 Hgb 10.9  Hct 35.4 Plts 174  
+ N:74.3 L:16.0 M:6.5 E:1.9 Bas:1.3 
+.
+141  95  31  
+-------------< 167 
+5.6  28  6.7  
+.
+Ca: 10.0 Mg: 2.4 P: 5.1 ___
+.
+___: 39145
+.
+Lactate:1.9
+CK: 121  MB: 7  Trop-T: 0.58 
+
+Discharge:
+___ 04:45AM BLOOD WBC-7.2 RBC-4.05* Hgb-11.9* Hct-37.5* 
+MCV-93 MCH-29.4 MCHC-31.7 RDW-17.3* Plt ___
+___ 04:45AM BLOOD Glucose-169* UreaN-25* Creat-5.3*# Na-133 
+K-5.1 Cl-92* HCO3-25 AnGap-21*
+
+___ 04:45AM BLOOD Calcium-9.1 Phos-5.1*# Mg-2.4
+___ 09:40AM BLOOD Digoxin-0.7*
+
+Microbiology:  
+Blood culture ___- pending x 2
+  
+Imaging:  
+CXR ___- pending read; however appears to be worsening 
+pulmonary edema compared to prior. 
+
+Right ___ ___- Blunted Vaslsalva response on both the left and 
+right common femoral venous waveforms is also seen on the ___ examination. A more central thrombus cannot be assessed 
+wtih this technique. There is no DVT within the right lower 
+extremity.  
+
+EKG: atrial fibrillation at rate of 141, nonspecific T wave 
+flattening in I/avL, V5-V6 unchanged from prior (when patient 
+was also in rapid afib)
+
+CHEST (PA & LAT)Study Date of ___ 4:44 ___
+FINDINGS: In comparison with study of ___, there is continued 
+enlargement of the cardiac silhouette, though the diffuse 
+bilateral pulmonary opacifications have essentially cleared. 
+Mild blunting of the right costophrenic angle is again seen on 
+the frontal view.
+ 
+Brief Hospital Course:
+___ yo M with a h/o cocaine abuse, ESRD on HD, afib with RVR, 
+with frequent admissions for SOB/chest pain presenting with 
+SOB/chest pain.
+
+# Chest pain- Persistent through hospital course, with 
+improvement in standing tylenol and PRN oxycodone.  Likely due 
+to persistent cough: pleuritic vs musculoskeletal 
+(costochondritis) from straining muscles to cough.  Initially, 
+possibly related to demand ischemia in setting of atrial 
+fibrillation with rapid ventricular response. Trigger for rapid 
+response appears to be volume overload, as CXR shows worsening 
+pulmonary edema. Also may be that atrial fibrillation has caused 
+flash pulmonary edema to occur.  Troponins elevated, but likely 
+related to ESRD, not higher than his baseline, and CKMB flat, so 
+low suspicious for acute coronary syndrome.  Patient has not 
+used cocaine recently per his report (2 weeks ago), but given 
+history, may be intermittent vasospasm.  Last catheterization 
+was in ___ and did not show any coronary artery disease.  Low 
+suspicion for pulmonary embolism and preliminary ___ read 
+negative for DVT.  We avoided NSAIDs given history of GI bleed.  
+We provided nitroglycerin SL prn chest pain.  
+
+# Pulmonary edema by exam (elevated JVP, basilar crackles), and 
+CXR with worsening edema.  Dry weight 67kg, now 70.5kg, at 
+discharge was 63.2kg.  Patient was weaned off the nasal canula 
+and fluid restricted to 1200cc
+
+# Atrial fibrillation with RVR- CHADS 2 of 3.  Not 
+anticoagulated due to previous GI bleeds.  On ER diltiazem 420mg 
+po daily and digoxin with dialysis. Patient has had digoxin 
+dosing altered as was high during previous admission.  Atrial 
+fibrillation may have been triggered by volume status (or caused 
+worsening pulmonary edema), or may be due to changing dose of 
+digoxin and patient is now subtherapeutic: 0.7.  Patient was 
+given PO diltiazem 90mg QID for titration.  On the final full 
+day in house following dialysis, patient had HRs in the 150s 
+(had missed 2 doses of diltiazem while in dialysis) and was 
+given an extra 10mg IV diltiazem and was increased to 105mg QID. 
+ Patient also had 1 9 beat run of NSVT which was asymptomatic 
+but seen on telemetry.  Beta blockers were not used for 
+hypothetical reaction with cocaine use.
+
+# ESRD- On HD ___.  5L removed during ___ dialysis.  
+4L on ___ and an unclear amount on ___, although 
+patient's CXR improved and he was down below his previous dry 
+weight at 63.2kg at discharge.  We continued sevelamer, 
+nephrocaps, and cinacalcet
+
+# DMII- We continued home lantus with humalog sliding scale and 
+diabetic diet.  QACHS ___ were in the mid ___ range, occasionally 
+in the 200s and corresponding to patient eating snacks.  We 
+encouraged patient not to snack during night.
+
+# Diabetic neuropathy-  We continue gabapentin 100mg po TID
+  
+# Rash on chest: From previous notes: "Likely acneiform cysts.  
+One option would be doxycycline that he can take twice daily.  I 
+would like to start him on 100 mg twice daily.  He can continue 
+using his selenium sulfide wash, and if this does not work there 
+is also the option of starting Accutane."  Patient was itching 
+on back, although there was no evidence of nodular eruptions on 
+the back.  Bilirubin was normal.  Unclear what was the 
+precipitant.  We monitored and patient was given Sarna lotion at 
+d/c.
+
+# Transitional issues-
+- Dialysis per renal team: ___
+- Patient discharged with standing tylenol for chest pain which 
+is most likely costochondritis.  
+ 
+Medications on Admission:
+# aspirin 325 mg po daily  
+# diltiazem HCl 420 mg ER po daily
+# digoxin 125 mcg po every other day, with dialysis
+# insulin glargine 100 unit/mL Solution 14 units qHS
+# humalog 100 unit/mL Solution QACHS per sliding scale
+# albuterol sulfate 90 mcg INH q6h prn SOB/wheezing
+# sevelamer carbonate 800 mg 4 tabs po TID w/meals
+# cinacalcet 30 mg 3 tabs po daily 
+# B complex-vitamin C-folic acid 1 mg po daily
+# gabapentin 100 mg po TID
+# hydroxyzine HCl 25 mg po q6h prn pruritus
+# zolpidem 5 mg po qHS prn insomnia
+# docusate sodium 100 mg po BID
+# oxycodone-acetaminophen ___ mg po BID prn pain
+ 
+Discharge Medications:
+1. aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation every six (6) hours as needed for SOB.  
+3. cinacalcet 30 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+4. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+5. hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed for pruritus.  
+6. sevelamer carbonate 800 mg Tablet Sig: Four (4) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+7. zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+8. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+9. gabapentin 100 mg Capsule Sig: One (1) Capsule PO three times 
+a day.  
+10. digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER 
+DAY (Every Other Day).  
+11. insulin glargine 100 unit/mL Solution Sig: Fourteen (14)  
+Subcutaneous at bedtime.  
+12. Humalog 100 unit/mL Solution Sig: Per sliding scale  
+Subcutaneous qachs.  
+13. diltiazem HCl 420 mg Capsule, Extended Release Sig: One (1) 
+Capsule, Extended Release PO once a day.  
+14. oxycodone-acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO twice a day as needed for pain.  
+15. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H 
+(Every 8 Hours) for 4 weeks.
+Disp:*45 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+ESRD
+Costochondritis
+Secondary:
+Atrial fibrillation
+Hypertension
+Substance abuse.
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your recent 
+admission.
+
+You were admitted because of shortness of breath and chest pain. 
+ This was likely because  you had too much fluid in your body, 
+including in your lungs.  Tests showed that there was no acute 
+injury to your heart.  
+
+The following changes were made to your medication regimen:
+Please START Tylenol ___ three times daily to control your 
+pain.
+Do not exceed 4000mg of tylenol a day.  Do not take more than 
+your prescribed amount of oxycodone/ acetaminophen.
+ 
+Followup Instructions:
+___

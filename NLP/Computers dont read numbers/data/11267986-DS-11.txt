@@ -1,0 +1,297 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / 
+Lipitor / flu virus vaccine / Banana / egg / rice / chocolate
+ 
+Attending: ___.
+ 
+Chief Complaint:
+OSH transfer for epidural abscess, osteomyelitis, MSSA 
+bacteremia.  
+
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+___ woman with DMII, HTN, DJD spine with chronic back pain, OA, 
+depression, probable dementia (details unclear, no family 
+available). Presented with knee pain s/p fall on ___. Knee and 
+hip XR no fractures. Admitted to ___ from ___ to 
+___. Has been bacteremic over 1 week with MRSA, blood cx still 
+positive. Allergic to PCN so used vancomycin x6d then dapto x2 
+days, then on linezolid. She has chronic back pain , and MRI L & 
+T spine with contrast showed osteomyelitis of vertebral bodies 
+around T2 and discitis with several small epidural abscesses. 
+TTE showed possible vegetation on ___, TEE no vegetation. 
+Neurology consulted at ___, felt there was no 
+spinal cord impingement or compression. 
+During stay there, patient also transfused 2 units for a hct of 
+21, GI saw patient and reported no bleed, and recommended 
+outpatient work up. Patient also had acute on chronic renal 
+fialure during the admission (baseline creatinine of 1.2-1.6).  
+Patient was transferred on ___ to ___ for further 
+management.
+ 
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied cough, shortness of breath. Denied chest pain 
+or tightness, palpitations. Denied nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denied arthralgias or myalgias.
+ 
+Past Medical History:
+OA  
+HTN  
+HL  
+dysthymic disoder  
+fibromyalgia  
+choronic low back pain  
+degenerative spinal dichanges  
+
+ 
+Social History:
+___
+Family History:
+Non-contributory  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+Vitals: T:98.5, BP:155/74 P:80 R:18 O2: 93% RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Back: tenderness to palpation along spine throughout.  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Knees with marked valgus deformity, pain with ranging  
+Neuro: AAOx3, patient able to walk with assistance to comode, 
+sensation intact, strength ___ UE/ ___, CNII-XII intact bl, 
+normal finger/ nose/ finger  
+
+DISCHARGE PHYSICAL EXAM: 
+Vitals: Tm 99.3, Tc 98.3, BP 148/74, HR 90, RR 18, O2 97% RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: Supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema, knees with marked valgus deformity, pain with ranging  
+Neuro: AAOx3, patient able to walk with assistance to comode, 
+sensation intact, strength ___ ___
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 05:00AM BLOOD WBC-10.6 RBC-3.30* Hgb-10.0* Hct-30.7* 
+MCV-93 MCH-30.3 MCHC-32.6 RDW-13.5 Plt ___
+___ 01:15AM BLOOD WBC-9.1 RBC-3.32* Hgb-9.8* Hct-31.0* 
+MCV-93 MCH-29.4 MCHC-31.6 RDW-13.6 Plt ___
+___ 05:00AM BLOOD Plt ___
+___ 01:15AM BLOOD Plt ___
+___ 01:15AM BLOOD ___ PTT-31.5 ___
+___ 05:00AM BLOOD Glucose-104* UreaN-13 Creat-1.4* Na-134 
+K-5.0 Cl-105 HCO3-21* AnGap-13
+___ 01:15AM BLOOD Glucose-121* UreaN-14 Creat-1.4* Na-134 
+K-5.1 Cl-104 HCO3-21* AnGap-14
+___ 05:00AM BLOOD Calcium-9.0 Phos-4.2 Mg-1.9
+___ 01:15AM BLOOD Calcium-8.7 Phos-4.1 Mg-1.9
+
+DISCHARGE LABS: 
+___ 05:35AM BLOOD WBC-10.2 RBC-3.20* Hgb-9.5* Hct-29.8* 
+MCV-93 MCH-29.6 MCHC-31.7 RDW-14.1 Plt ___
+___ 05:35AM BLOOD Plt ___
+___ 05:35AM BLOOD Glucose-120* UreaN-17 Creat-1.6* Na-137 
+K-3.7 Cl-106 HCO3-21* AnGap-14
+___ 05:35AM BLOOD Calcium-8.9 Phos-4.0 Mg-1.5*
+
+MICROBIOLOGY: 
+Blood cultures x 5 - pending. We will follow at ___.
+
+C. difficile DNA amplification assay (Final ___: Negative 
+for toxigenic C. difficile by the Illumigene DNA amplification 
+assay. 
+
+IMAGING:
+CHEST PORT. LINE PLACEMENT Study Date of ___  
+IMPRESSION: 
+1.  New right PICC line with tip terminating in the mid SVC. 
+2.  Resolution of left retrocardiac opacification, however 
+blunting of the left costophrenic sulcus still remains. 
+
+RENAL U.S. Study Date of ___ 
+IMPRESSION:  Small bilateral renal cysts.  Otherwise, 
+unremarkable renal 
+study. 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year-old woman with a h/o DMII, HTN, and OA 
+who was transferred from ___ for 
+management of MSSA bacteremia, osteomyelitis, and epidural 
+abscess.
+
+ACTIVE ISSUES: 
+# MSSA bacteremia, osteomyelitis, and epidural abscess: The 
+patient was transferred from ___ on ___ 
+for spine eval of epidural abscess. Patient was being managed 
+with linezolid on transfer. Seen by the spine team here who 
+recommended conservative management of the epidural abscess. 
+Seen by ID who recommended nafcillin due to need for prolonged 
+course and adverse effects of linezolid.  Due to penicillin 
+allergy, pt underwent desensitization in the MICU until 
+nafcillin levels therapeutic. In ICU pt was noted to have 
+multiple neurotic excoriations on scalp, possible source of 
+MSSA. Pt underwent nafcillin desensitization protocol. She 
+tolerated desensitization well, and was continued on nafcillin 
+2g IV Q4. She was transitioned back to medicine floor for 
+further management. Patient received PICC by ID. Pt did not have 
+any symptoms of cord compression throughout hospitalization. Had 
+few loose stolls prior to d/c but C. Diff negative. She will 
+need repeat MRI in follow-up.  
+
+# ___: Pt has chronic renal insufficency, baseline Cr 1.4. She 
+had a bump in Cr from 1.5 to 1.7 the day after starting 
+nafcillin. Given concern for AIN, renal was consulted. Cr 
+remained between 1.6 and 1.8 over the next two days. Pt did not 
+have any rash or peripheral eosinophilia. UA did not show 
+elevated WBC. Few WBC casts, but renal team recommended we 
+continue nafcillin given that this is unlikely to be AIN (AIN 
+typically starts about 48 hrs after starting offending agent, 
+usually see rash or peripheral eosinophilia, etc.). Patient will 
+need repeat creatinine measured this coming ___.
+
+# Fall: Unclear why pt has fall, but most likely mechanical 
+given pt's history of OA. Syncopal workup at OSH showed no acute 
+abnormality on CT head, EKG was within normal limits, and 
+troponins were negative x 3. Fall may be related to infectious 
+etiology, given patient's known bacteremia and epidural abscess. 
+The patient underwent OT consult for cognitive evaluation as 
+well as rehab evaluation.  
+
+#. Anxiety - Patient with severe anxiety disorder. Required 
+intermittent ativan while in house. Anxiety improves with 
+re-assurance. 
+
+# Thrombocytosis from OSH: Likely reactive. Plt downtrended, 546 
+on discharge. 
+
+CHRONIC ISSUES: 
+
+# DM: Patient was kept on ISS in hospital.   
+  
+# Depression: Home paroxetine was initially held as risk of 
+serotonin syndrome on linezolid, but this was resumed after 
+patient started nafcillin. 
+
+# HLD: Home ezetimibe was held.   
+
+# HTN: Patient was kept on home lisinopril. 
+
+TRANSITIONAL ISSUES: 
+
+# Cousin ___ - ___, or ___ 
+
+# Follow-up MRI as outpatient to evaluate for resolution of 
+osteomyelitis and epidural abscess. This will be scheduled by 
+ID. 
+
+# Will need chem-7 drawn this ___ hours after 
+discharge. If Cr is 1.7-1.9 then check again in 48 hours. If 
+greater than 2.0, please call ___ clinic to determine whether 
+will need change to antibiotic regimen. 
+
+# blood cultures are pending at time of discharge
+ 
+Medications on Admission:
+Preadmission medications listed are correct and complete.  
+Information was obtained from  ___ DC summary.
+1. MetFORMIN (Glucophage) 500 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Calcium Carbonate 600 mg PO BID 
+4. Vitamin D 400 UNIT PO BID 
+5. Loratadine *NF* 10 mg Oral daily 
+6. Paroxetine 40 mg PO DAILY 
+7. traZODONE 150 mg PO HS:PRN insomnia 
+8. Multivitamins 1 TAB PO DAILY 
+9. Lisinopril 5 mg PO DAILY 
+10. Ezetimibe 10 mg PO QOD 
+11. Fish Oil (Omega 3) 1200 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Calcium Carbonate 600 mg PO BID 
+3. Lisinopril 5 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Paroxetine 40 mg PO DAILY 
+6. Vitamin D 400 UNIT PO BID 
+7. Nafcillin 2 g IV Q4H 
+8. Ezetimibe 10 mg PO QOD 
+9. Fish Oil (Omega 3) 1200 mg PO DAILY 
+10. Loratadine *NF* 10 mg Oral daily 
+11. MetFORMIN (Glucophage) 500 mg PO DAILY 
+12. traZODONE 150 mg PO HS:PRN insomnia 
+13. Hydrocodone-Acetaminophen (5mg-500mg) 1 TAB PO Q4H:PRN Pain 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+MSSA bacteremia
+Osteomyelitis
+Epidural abscess
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at the ___! 
+
+You were admitted from ___ due to an 
+infection of your blood and around your spinal bones. You were 
+treated with intravenous antibiotics during in the hospital. We 
+were concerned about an allergic reaction to one antibiotic, so 
+you spent one night in the Intensive Care Unit so you could be 
+safely transitioned to this an antibiotic. You will be going to 
+a rehabilitation facility  to continue the antibiotic and work 
+with phyiscal therapy.
+
+Please start the following medication: 
+Nafcillin
+Vicodin
+Senna PRN constipation
+
+Thank you for allowing us to participate in your care.
+ 
+Followup Instructions:
+___

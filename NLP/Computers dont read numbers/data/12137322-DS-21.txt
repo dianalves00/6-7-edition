@@ -1,0 +1,401 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Vancomycin / Lidoderm / mycophenolate mofetil
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Direct admit for HD inititiation
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ year old ___ woman with 
+known PMH ESRD ___
+lupus nephritis, autoimmune hepatitis (Followed by Dr. ___,
+HTN, osteoporosis, colon cancer s/p colectomy ___ years ago
+with ostomy, who presented as a direct admission for initiation
+of dialysis.  Of note, patient was initially on home hospice but
+had a change of heart and wish for trial of hemodialysis to
+improve her symptoms.  She had tunneled HD line placed at AV 
+care
+___ and then had three runs of trial HD, followed by one run 
+of full HD on ___.
+ 
+Past Medical History:
+- remote HepB (positive anticore, positive anti-surface) and no 
+overt viral replication (negative surface ag, negative VL)
+- remote ___ infection
+- distal rectal cancer s/p resection
+- recurrent adenocarcinoma of transverse colon s/p complete 
+colectomy and end ileostomy ___ c/b SBO and ischemic stoma 
+requiring repeat surgery
+- autoimmune hepatitis
+- advanced osteoporosis 
+- multiple compression fractures s/p vertebro- and kyphoplasty
+- remove history of active pulmonary TB ___ yrs ago
+- history of CMV infection, EBV infection (After steroids 
+started) and equivocal toxo titers in past
+- MCTD: various SLE/Sjogren's manifestations
+- GERD
+- Blurred vision, secondary to cataracts.
+
+PSHx:
+1.  Liver biopsy ___. Mild portal and lobular mononuclear 
+inflammation with rare plasma cells (grade 1).  The features are 
+those of a chronic mildly-active hepatitis such as due to a 
+viral, autoimmune, or drug-induced injury.
+2.  Liver biopsy ___. Minimal portal and lobular mononuclear 
+inflammation (Grade 1 inflammation).
+3.  Bone marrow biopsy ___: Mature erythroid dominant 
+cellular marrow with mild dyspoiesis. There is no evidence of 
+lymphoma air infection. Flow cytometry negative for lymphoma.
+4. Lymph node biopsy right axillary ___. Atypical 
+lymphadenopathy with interfollicular immunoblastic reaction. No 
+evidence of lymphoma.
+5. Transverse colon ___. Adenocarcinoma.
+6. S.P Colon resection.
+7. S/P L3 and T10 vertebroplasty.
+ 
+Social History:
+___
+Family History:
+No family history of colon cancer or liver disease. No family hx 
+of cardiac death.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS:98.8, 193/73, 82, 18, 99% Ra
+GENERAL: Alert and oriented, no acute distress, chronically
+ill-appearing, cachectic
+HEENT: PERRL, EOMI, anicteric, pure dentition, MMM
+NECK: No appreciable JVD
+CARDIAC: RRR, + S1/2 present, no M/R/G, tunneled line /C/D/I
+LUNGS: CTAB, no W/R/R
+ABDOMEN: Ostomy bag with stool and gas, nontender, nondistended
+EXTREMITIES: No lower extremity edema
+SKIN: No obvious rashes
+NEUROLOGIC: CN2-12 intact. Moving all 4 limbs spontaneously. ___
+strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VSS, mild hypertension to 170s systolic
+GENERAL: NAD
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi
+ABD: ostomy bag in place , 3mm poly within stoma,  no tenderness 
+to
+palpation, bowel sounds present in all 4 quadrants
+EXT: Warm, well perfused, no lower extremity edema   
+NEURO: Alert, oriented, 
+SKIN: No significant rashes 
+ 
+ 
+Pertinent Results:
+INITIAL LABS:
+============
+___ 02:30PM   PLT COUNT-262
+___ 02:30PM   WBC-6.9 RBC-3.09* HGB-9.2* HCT-28.4* MCV-92 
+MCH-29.8 MCHC-32.4 RDW-16.4* RDWSD-54.5*
+___ 02:30PM   HCV Ab-NEG
+___ 02:30PM   HBsAg-NEG HBs Ab-Borderline HBc Ab-POS* IgM 
+HBc-NEG
+___ 02:30PM   CALCIUM-7.3* PHOSPHATE-10.0* MAGNESIUM-1.5*
+___ 02:30PM   estGFR-Using this
+___ 02:30PM   GLUCOSE-101* UREA N-70* CREAT-7.7* 
+SODIUM-134* POTASSIUM-5.5* CHLORIDE-109* TOTAL CO2-8* ANION 
+GAP-17
+___ 08:15PM   CALCIUM-7.6* PHOSPHATE-4.5 MAGNESIUM-1.5*
+___ 08:15PM   GLUCOSE-124* UREA N-36* CREAT-4.7*# 
+SODIUM-134* POTASSIUM-3.8 CHLORIDE-104 TOTAL CO2-19* ANION 
+GAP-11
+___ 10:14PM URINE  MUCOUS-RARE*
+___ 10:14PM URINE  HYALINE-9*
+___ 10:14PM URINE  RBC-4* WBC-13* BACTERIA-FEW* YEAST-NONE 
+EPI-<1 TRANS EPI-<1
+___ 10:14PM URINE  BLOOD-SM* NITRITE-NEG PROTEIN-600* 
+GLUCOSE-150* KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 10:14PM URINE  COLOR-Straw APPEAR-Clear SP ___
+
+PERTINENT LABS:
+===============
+___ 08:00AM BLOOD ___ PTT-150* ___
+___ 02:30PM BLOOD HBsAg-NEG HBsAb-Borderline HBcAb-POS* IgM 
+HBc-NEG
+___ 02:30PM BLOOD HCV Ab-NEG
+
+MICRO:
+======
+___ 10:14 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      KLEBSIELLA PNEUMONIAE.    10,000-100,000 CFU/mL. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    64 I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+IMAGING:
+========
+PORTABLE ABDOMEN ___
+IMPRESSION:  
+No radiographic evidence of bowel obstruction. 
+
+CHEST (PA & LAT) ___
+IMPRESSION:  
+Right-sided ___ catheter projects to the cavoatrial 
+junction. Moderate 
+cardiomegaly, the cardiac silhouette has enlarged since the 
+prior study.  
+There is increased kyphosis of the thoracolumbar spine.  There 
+is also 
+evidence of remodeling of the sternum with a fracture involving 
+the sternum, age indeterminate.  There are no pleural effusions. 
+ No consolidations. Calcification in the right upper lobe are 
+unchanged.  No pneumothorax. 
+
+DISCHARGE LABS:
+===============
+
+___ 07:00AM BLOOD WBC-8.8 RBC-2.88* Hgb-8.5* Hct-27.0* 
+MCV-94 MCH-29.5 MCHC-31.5* RDW-14.6 RDWSD-50.0* Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-87 UreaN-53* Creat-6.1*# Na-133* 
+K-5.3 Cl-100 HCO3-22 AnGap-11
+___ 07:00AM BLOOD Calcium-8.0* Phos-4.0 Mg-1.5*
+ 
+Brief Hospital Course:
+BRIEF SUMMARY:
+==============
+___ is a ___ year old ___ woman with 
+known ___ ESRD ___ lupus nephritis, autoimmune hepatitis 
+(Followed by Dr. ___, HTN, osteoporosis, colon cancer s/p 
+colectomy ___ years ago with ostomy, who presented as a 
+direct admission for initiation
+of dialysis.  Of note, patient was initially on home hospice 
+but
+had a change of heart and wished for trial of hemodialysis to
+improve her symptoms.  She had a tunneled HD line placed at ___ 
+___
+___ and then presented for first session of HD that she
+tolerated well. No fluid was taken off during this process. 
+Patient had trial runs of HD ___, then a full run on ___ 
+(___). She tolerated HD without any difficulty. Had elevated 
+blood pressure throughout course relieved by HD runs. 
+Antihypertensive medications were started and uptitrated during 
+hospitalization for improved control. Also described subacute 
+abdominal pain w/ n/v without change in her ostomy output. 
+
+TRANSITIONAL ISSUES:
+==================
+[] GI follow-up for ostomy management, evaluation of possible 
+polyp on stoma
+[] Could benefit from nutrition consult for concern for 
+malnutrition
+[] Amlodipine added to home blood pressure regimen. She would 
+benefit from further titration as outpatient
+
+ACUTE ISSUES:
+============
+#ESRD now on HD
+#MCTD, SLE
+#PRGN ___ lupus nephritis
+#Metabolic disarray
+#HTN
+Patient was initially on home hospice and against initiation of 
+HD, then had a changed mind and had tunneled ___ placed at 
+AV care on ___ had trial runs of HD, which 
+were tolerated well, then on ___ had full run which was 
+also well tolerated. She remained inpt for monitoring through 
+___ with planned initiation of HD as an outpt on ___. A PPD 
+was read during her stay as was a CXR for assessment of TB, 
+both were negative. She was given calcium acetate daily. Home 
+immunosuppression was continued with hydroxychloroquine, 
+prednisone, mycophenelate mofetil. She was also continued on 
+home labetalol 600mg BID and torsemide 40mg for hypertension 
+however she had intermittent hypertension with systolic blood 
+pressure as high as 200s for which amlodipine was added on ___. 
+
+#Abdominal pain
+#Nausea/vomiting
+#Colon cancer s/p colectomy
+Patient described some irritation at ostomy site, predominantly 
+itching and concern that there was a "tumor" in her ostomy. She 
+had several areas of irritation and erythema with some tissue 
+friability at her stoma site likely related to her stoma coming 
+in and out however cannot rule out small polyp. She was 
+reassured and can continue to discuss with her PCP regarding 
+need for further GI evaluation. 
+
+#Chronic low back pain: has been ongoing for months without red 
+flag symptoms (no fevers, weakness, numbness). Given Tylenol 
+for pain. 
+
+CHRONIC ISSUES:
+===============
+#HFpEF
+Euvolemic on examination, continued home torsemide and started 
+HD
+
+#Chronic normocytic anemia
+___ CKD, EPO with HD as managed by nephrology
+
+#GERD
+Continued home PPI
+
+#Autoimmune hepatitis
+Followed outpatient by hepatology, monitored
+
+[x]Patient seen and examined on day of discharge. >30 minutes 
+spent on discharge planning and care coordination on day of 
+discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+2. PredniSONE 5 mg PO DAILY 
+3. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+4. Sodium Bicarbonate 1300 mg PO BID 
+5. ketotifen fumarate 0.025 % (0.035 %) ophthalmic (eye) BID 
+6. Simethicone 80 mg PO TID:PRN abdominal bloating, gas pain 
+7. Hydroxychloroquine Sulfate 200 mg PO DAILY 
+8. Labetalol 600 mg PO BID 
+9. Cyclobenzaprine 5 mg PO TID:PRN pain 
+10. Cyclosporine 0.05% Ophth Emulsion 0.05 % ophthalmic (eye) 
+BID 
+11. darbepoetin alfa in polysorbat 60 mcg/0.3 mL injection 
+MONTHLY 
+12. Mycophenolate Mofetil 500 mg PO BID 
+13. Torsemide 40 mg PO DAILY 
+14. Entecavir 0.5 mg PO 1X/WEEK (MO) 
+15. OxyCODONE (Immediate Release) 10 mg PO Q6H 
+16. OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+17. Calcium Acetate 667 mg PO TID W/MEALS 
+18. Omeprazole 20 mg PO DAILY 
+19. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  amLODIPine 5 mg PO DAILY  
+3.  Calcium Acetate 667 mg PO TID W/MEALS  
+4.  Cyclobenzaprine 5 mg PO TID:PRN pain  
+5.  Cyclosporine 0.05% Ophth Emulsion 0.05 % ophthalmic (eye) 
+BID  
+6.  darbepoetin alfa in polysorbat 60 mcg/0.3 mL injection 
+MONTHLY  
+7.  Entecavir 0.5 mg PO 1X/WEEK (MO)  
+8.  Hydroxychloroquine Sulfate 200 mg PO DAILY  
+9.  ketotifen fumarate 0.025 % (0.035 %) ophthalmic (eye) BID  
+10.  Labetalol 600 mg PO BID  
+11.  Mycophenolate Mofetil 500 mg PO BID  
+12.  Omeprazole 20 mg PO DAILY  
+13.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line  
+14.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate  
+15.  OxyCODONE (Immediate Release) 10 mg PO Q6H  
+16.  PredniSONE 5 mg PO DAILY  
+17.  Simethicone 80 mg PO TID:PRN abdominal bloating, gas pain  
+18.  Torsemide 40 mg PO DAILY  
+19.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+ESRD w/ initiation of HD
+Hypertension
+Abdominal pain
+Nausea/vomiting
+Colon cancer s/p ostomy
+
+SECONDARY DIAGNOSIS:
+MCTD
+SLE
+PRGN ___ lupus nephritis
+Metabolic disarray
+HFpEF
+Normocytic anemia
+GERD
+Autoimmune hepatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===================================
+- You needed a catheter placed so that you can get dialysis.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+- You had a catheter placed so that you can get dialysis
+- You had four runs of dialysis
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+- Please continue to take all your medications and follow up 
+with your doctors at your ___ appointments. You will have 
+dialysis on ___ and ___ from now on. Please 
+contact your primary care provider, ___, at ___ 
+to schedule an appointment within 1 week of your hospital stay. 
+Your primary care provider can also help you get an appointment 
+with a GI doctor for help with your ostomy.
+
+It was a pleasure taking care of you, and we wish you all the 
+best!
+
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

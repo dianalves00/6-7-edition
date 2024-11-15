@@ -1,0 +1,325 @@
+ 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pancreatic neuroendocrine tumor.
+
+ 
+Major Surgical or Invasive Procedure:
+___: Laparoscopic enucleation of pancreatic mass.
+
+ 
+History of Present Illness:
+The patient is a ___ gentleman with significant past 
+medical history including a longstanding history of 
+gastroesophageal reflux disease, persistent dyspepsia, and 
+___ esophagus. Abdominal CT angiogram demonstrates small 
+lesion in the body and tail of the pancreas which enhances as 
+might be a neuroendocrine. The patient has had an endoscopic 
+ultrasound with fine-needle aspirate by Dr. ___ 
+suggested cytology for potential atypical cells. The  patient 
+also has an elevated chromogranin A of 90 and a gastrin level 
+originally at around 300, which nearly doubled to 548 after he 
+had been off his proton pump inhibitors for two weeks.  This is 
+all highly suggestive of a functioning gastrinoma. The patient 
+was evaluated by Dr. ___ was scheduled for elective 
+laparoscopic vs. open resection on ___. 
+
+ 
+ 
+Past Medical History:
+- Colon polyps. Colonoscopy ___ adenoma. Colon ___ adenomas, 
+diverticulosis.
+-Extensive diverticulosis
+- CVA in ___
+- GERD-diagnosed in ___.
+- ___ ___
+- Duodenal ulcer remote - HP treatment
+- Barretts
+- Pancreatic Cysts-Pancreatic tail lesion on ___ on CAT scan. 
+MRCP-1 cm dense cyst with a dense wall ___ - EUS.
+- ___ Tear  
+- Mitral valve fibroelastoma  
+- HTN  
+- HL  
+- lumbar radiculopathy  
+- migraines  
+- h/o diarrheal illness - C. diff, ___ stain negative.  Small 
+bowel x-ray negative.  Colonoscopy no evidence for microscopic 
+colitis, TI normal ___.  
+- allergies  
+- left inguinal hernia 
+- hepatitis A       
+ 
+Social History:
+___
+Family History:
+Father - died of colon cancer, no other GI cancers in the family 
+or any chronic intestinal diseases 
+
+ 
+Physical Exam:
+On Discharge:
+VS: 99.6, 60, 139/57, 16, 94% RA
+GEN: NAD, Somewhat anxious
+CV: RRR, no m/r/g
+Lungs: CTAB
+Abd: Laparoscopic incisions (5) open to air with steri strips, 
+RLQ JP drain to bulb, site c/d/i
+extr: Warm, no c/c/e
+ 
+Pertinent Results:
+___ 07:45AM BLOOD WBC-10.0 RBC-4.28* Hgb-12.6* Hct-37.2* 
+MCV-87 MCH-29.5 MCHC-34.0 RDW-14.3 Plt ___
+___ 07:45AM BLOOD Glucose-135* UreaN-6 Creat-0.8 Na-135 
+K-4.2 Cl-102 HCO3-22 AnGap-15
+
+___ 06:25AM BLOOD WBC-10.6 RBC-4.33* Hgb-12.6* Hct-36.9* 
+MCV-85 MCH-29.0 MCHC-34.1 RDW-14.2 Plt ___
+___ 10:10AM BLOOD Glucose-128* UreaN-10 Creat-0.8 Na-138 
+K-4.5 Cl-99 HCO3-28 AnGap-16
+___ 02:55AM BLOOD CK(CPK)-222
+___ 06:25AM BLOOD Calcium-8.1* Phos-3.2 Mg-1.8
+___ 08:54AM ASCITES ___
+
+                          Pathology Examination 
+
+SPECIMEN SUBMITTED: Pancreatic Body Mass.
+
+Procedure date     Tissue received     Report Date    Diagnosed 
+by 
+___ ___. ___ 
+Previous biopsies:    ___  GI BX (3 JARS) 
+  ___  GI BX'S (3 JARS) 
+  ___  GI BX ( 5 JARS) 
+  ___  right nose 
+(and more) 
+
+DIAGNOSIS: 
+Pancreatic body mass, enucleation:
+
+Pancreatic endocrine tumor, well differentiated, 0.9 cm in 
+greatest dimension; see note and synoptic report.
+
+Note:  Demonstrated is a well-circumscribed nodular tumor 
+excision without adjacent pancreatic parenchyma.  The tumor 
+cells are arranged in cords and nests with focal densely 
+sclerotic fibrosis and have relatively monomorphic nuclei with 
+evenly dispersed chromatin and tiny nucleoli.  No necrosis is 
+seen. Mitoses are inconspicuous, however, prominent 
+cautery/crush artifact precludes evaluation of many areas. A 
+thin rim of fibrous tissue (measuring on average 1-2 mm) is 
+present around a majority of the lesion, however, it is focally 
+disrupted, and cauterized/crushed tumor is present at ink in 
+these areas 
+
+Immunohistochemical stains of the tumor are positive for 
+cytokeratin cocktail, chromogranin and synaptophysin, with 
+satisfactory controls, supporting the morphologic diagnosis. No 
+definitive staining for gastrin is identified (clinical history 
+of elevated gastrin level is noted). 
+
+Pancreas (Endocrine): Resection Synopsis
+Staging according to ___ Joint Committee on Cancer Staging 
+Manual -- ___ Edition, ___
+
+MACROSCOPIC
+ 
+Specimen Type:  Excisional biopsy (enucleation).
+ 
+Other organs/Tissues Received:  None.
+ 
+Tumor Site:  Pancreatic tail.
+ 
+Tumor focality:  Unifocal.
+ 
+Tumor Size
+    Greatest dimension:  0.9 cm.
+ 
+MICROSCOPIC
+ 
+Functionality type:  Pancreatic endocrine tumor, functional 
+(correlation with clinical syndrome and/or elevated serum levels 
+of hormone product):  Gastrin.
+ 
+WHO Classification:  Well-differentiated endocrine tumor, benign 
+behavior (Confined to pancreas, <2 cm, no angioinvasion or 
+perineural invasion,  <2 mitoses per 10 HPF).
+ 
+Mitotic activity:  Less than 2 mitoses/10 High Power Fields.
+ 
+Tumor necrosis:  Not identified.
+ 
+MICROSCOPIC TUMOR OF EXTENSION
+ 
+Margins:  Cannot be determined (enucleation with focally 
+disrupted per-tumoral fibrous tissue).
+ 
+Primary Tumor:  Tumor confined to pancreas (radiographically).
+ 
+Primary Tumor (pT):  pT1: Tumor limited to pancreas, 2 cm or 
+less in greatest dimension.
+ 
+Regional Lymph Nodes (pN):  pNX:  Cannot be assessed.
+ 
+Lymph Nodes:  None submitted.
+ 
+Distant metastasis (pM):  pMX:  Cannot be assessed.
+ 
+Lymphatic/vascular Invasion:  Absent.
+ 
+Perineural invasion:  Absent. 
+
+Clinical:  Pancreatic mass. 
+
+___ CXR:
+IMPRESSION: Bibasilar atelectasis and effusions with mild 
+perihilar 
+interstitial edema. Fluid overload would be a consideration. 
+
+ 
+Brief Hospital Course:
+The patient with possible pancreatic neuroendocrine tumor was 
+admitted to the HPB Surgery Service for elective resection. On 
+___, the patient underwent laparoscopic enucleation of 
+pancreatic mass, which went well without complication (reader 
+referred to the Operative Note for details). After a brief, 
+uneventful stay in the PACU, the patient arrived on the floor 
+tolerating clears, on IV fluids, with a foley catheter and a JP 
+drain in place, and PO Dilaudid for pain control. The patient 
+was hemodynamically stable.
+Neuro: The patient received PO Dilaudid with good effect and 
+adequate pain control.  CV: The patient had one episode of rate 
+control atrial fibrillation post op. The patient was restarted 
+on his home cardiac medications, follow up ECG was normal. The 
+patient remained stable from a cardiovascular standpoint; vital 
+signs were routinely monitored.
+Pulmonary: The patient has a long history of smoking and quit 
+right before the operation. Post op he was required to have 2L 
+of supplemental O2 to maintain O2 saturation above 90%. The 
+oxygen was weaned off on POD # 4, the patient remained stable 
+from a pulmonary standpoint.
+GI/GU/FEN: Post-operatively, the patient was made NPO with IV 
+fluids. Diet was advanced when appropriate, which was well 
+tolerated. The patient reporter low appetite post op. JP amylase 
+was checked on POD # 3 and was high (___), the patient was 
+discharged home with JP drain to bulb. The amylase level will be 
+checked again as outpatient on ___. Patient's intake and 
+output were closely monitored, and IV fluid was adjusted when 
+necessary.  Electrolytes were routinely followed, and repleted 
+when necessary.
+Endocrine: The patient's blood sugar was monitored throughout 
+his stay; insulin dosing was adjusted accordingly.
+Hematology: The patient's complete blood count was examined 
+routinely; no transfusions were required.
+Prophylaxis: The patient received subcutaneous heparin and 
+venodyne boots were used during this stay; was encouraged to get 
+up and ambulate as early as possible.
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+
+ 
+Medications on Admission:
+lipitor 20, colestipol 2, folic acid 1, lisinopril 10, 
+mirtazapine 15, prilosec 40, sertraline 100, verapamil 240, asa 
+325 
+ 
+Discharge Medications:
+1. lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+5. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+6. sertraline 100 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. verapamil 240 mg Cap,Ext Release Pellets 24 hr Sig: One (1) 
+Cap,Ext Release Pellets 24 hr PO once a day.  
+8. Colestid 1 gram Tablet Sig: Two (2) Tablet PO once a day.  
+9. aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day: 
+please start 5 days after the operation.  
+10. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.
+Disp:*60 Capsule(s)* Refills:*2*
+11. nicotine 21 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr 
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24 hr(s)* Refills:*2*
+12. hydromorphone 2 mg Tablet Sig: ___ Tablets PO every four (4) 
+hours as needed for pain.
+Disp:*60 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pancreatic neuroendocrine tumor.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication.  Also, please take 
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+JP Drain Care:
+*Please look at the site every day for signs of infection 
+(increased redness or pain, swelling, odor, yellow or bloody 
+discharge, warm to touch, fever).
+*Maintain suction of the bulb.
+*Note color, consistency, and amount of fluid in the drain.  
+Call the doctor, ___, or ___ nurse if the amount 
+increases significantly or changes in character.
+*Be sure to empty the drain frequently.  Record the output, if 
+instructed to do so.
+*You may shower; wash the area gently with warm, soapy water.
+*Keep the insertion site clean and dry otherwise.
+*Avoid swimming, baths, hot tubs; do not submerge yourself in 
+water.
+*Make sure to keep the drain attached securely to your body to 
+prevent pulling or dislocation.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,562 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+T6 cord compression, NSTEMI
+
+ 
+Major Surgical or Invasive Procedure:
+T4-T7 Laminectomy
+ 
+History of Present Illness:
+___ year old man with severe COPD on 3L home O2, HTN, HL, 
+osteoporosis status post compression fractures and 
+vertebrolplasty T11-L1 presented. To ___ earlier 
+today complaining of abdominal, back, chest pain starting this 
+morning, very excruciating that he could not talk. CTA chest and 
+CT of his abdomen was done which was negative for any aortic 
+dissection, or any intra-abdominal pathology, and patient began 
+complaining of severe leg weakness and numbness. Apparently this 
+leg weakness began at 10 AM. He also complains of urinary 
+retention and had no rectal tone.  At this point, troponin 
+returned at .3 ___epressions.  Emergent MRI without 
+contrast done at ___ showed acute T6 fracture with likely 
+retropulsion versus epidural hematoma compressing the cord at 
+that level. 
+
+ED Course (labs, imaging, interventions, consults): 
+- Initial Vitals/Trigger: 97.7 68 150/81 18 96% 4L  
+EKG: His ECGs revealed RBBB and inferior Q waves (old per prior 
+reports no images available) and 2mm ST depressions V4-V6 
+(unclear if old or new). Given the ST changes and positive 
+troponin, cards was consulted, recommended aspirin if cannot get 
+heparin in the setting of epidural hematoma. 
+Neurosurg: Looks like he may have mass compressing the spinal 
+cord.  Needs contrast MRI, patient is likely permanently 
+paraplegic, they will review the stat images, but have explained 
+to patient that his likelihood of benefiting from emergent 
+surgery is minimal. Does NOT recommend heparin due to 
+possibility of epidural hematoma.
+.
+Admission Vitals: 75 120/50 14 98% 2L NC, patient chest pain 
+free at the time of admission.  He is being admitted to the MICU 
+for neuro checks and relative instability.
+.  
+On arrival to the MICU, patient complaining of severe ___ back 
+pain which diminished with 1 mg IV dilaudid.  
+
+ 
+Past Medical History:
+Severe COPD with llongstanding steroid use & on home O2 3L NC  
+asthma  
+osteoporosis with compression Fx's & vertebroplasty (T11-L1)  
+CAD with multivessel disease (last cath ___ with 
+non-intervenable three vessel disease and deemed not a surgical 
+candidate ___ COPD)  
+HTN  
+hyperlipidemia  
+eczema  
+stroke with no residual deficit  
+renal cyst  
+OA  
+R sided musculoskeletal back pain  
+hyponatremia possibly d/t SIADH (chronic in nature)  
+PAST SURGICAL HISTORY  
+T11-L1 vertebroplasty,  
+hernia repair x2  
+
+ 
+Social History:
+___
+Family History:
+NC 
+
+ 
+Physical Exam:
+ADMISSION EXAM
+75 120/50 14 98% 2L NC
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred, finger-to-nose intact 
+.
+DISCHARGE EXAM
+General: Awake, alert, NAD, breathing more comfortably
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: supple, JVP not elevated, no LAD  
+CV: Regular rate/rhythm, S1/S2 are difficult to hear well, no 
+obvious murmur 
+Lungs: Wheezes and coarse breath sounds throughout, but improved 
+air movement
+Abdomen: soft, distended (likely body habitus), mildly 
+tympanitic non-tender, movement with marked accessory muscle 
+use, easily reducible umbilical hernia
+GU: + foley  
+Ext: Warm, well perfused, 2+ DP pulses, mild peripheral edema of 
+legs bilaterally (pneumoboots leaving indentations but limited 
+further pitting), back incision well approximated, 
+non-erythematous
+Neuro: Moves all extremities, A+Ox3
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:50PM URINE  MUCOUS-RARE
+___ 07:50PM URINE  RBC-0 WBC-6* BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 07:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-TR
+___ 07:50PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 07:50PM   ___ PTT-25.1 ___
+___ 07:50PM   PLT COUNT-303
+___ 07:50PM   NEUTS-85.6* LYMPHS-5.9* MONOS-7.3 EOS-0.3 
+BASOS-0.8
+___ 07:50PM   WBC-10.4 RBC-3.31* HGB-11.1* HCT-33.2* 
+MCV-100* MCH-33.6* MCHC-33.5 RDW-13.8
+___ 07:50PM   CK-MB-5
+___ 07:50PM   CK(CPK)-81
+___ 07:50PM   estGFR-Using this
+___ 07:50PM   GLUCOSE-73 UREA N-26* CREAT-0.9 SODIUM-136 
+POTASSIUM-4.5 CHLORIDE-96 TOTAL CO2-32 ANION GAP-13
+.
+_________________CKMB|Troponin 
+___ 08:36       | 0.21*
+___ 16:15    4| 0.25*1 
+___ 02:52    3| 0.20*1 
+___ 16:29    4| 0.19*1 
+___ 09:49    5| 0.19*1 
+___ 02:35    5| 0.19*1 
+___ 19:45    6| 0.21*1 
+___ 14:30    5| 0.20*1 
+___ 05:10    5| 0.14*1 
+___ 17:58    6| 0.14*1 
+___ 03:40    4| 0.20*1 
+___ 20:36      0.21*2 
+.
+DISCHARGE LABS
+___ 03:00AM BLOOD WBC-7.5 RBC-3.03* Hgb-9.3* Hct-28.8* 
+MCV-95 MCH-30.6 MCHC-32.2 RDW-14.1 Plt ___
+___ 03:00AM BLOOD Glucose-97 UreaN-26* Creat-1.1 Na-133 
+K-3.9 Cl-93* HCO3-34* AnGap-10
+.
+MRI Spine Non contrast: 
+1. New T6  compression deformity with marrow edema probably 
+extending into the pedicles  although image quality is 
+suboptimal due to patient motion. Apparent space  occupying 
+structure, possibly hemorrhage tracking from the T6 vertebral 
+level  to the T4 vertebral level and exerting posterior mass 
+effect on the cord but preserved in some of the posterior 
+epidural fat. Preliminary findings discussed  
+with Dr. ___.
+2. Acute to subacute mild compression deformities of the L2 and  
+
+L3 vertebrae without central canal or neural foraminal 
+compromise. New L4  compression deformity since ___ but 
+without evidence of marrow edema  suggesting that this fracture 
+is older.  
+.
+MR ___ &W/O CONTRAST Study Date of ___ 9:53 AM 
+1. Compression fracture identified at T6 vertebral body with low 
+signal 
+intensity, no frank evidence of retropulsion is identified. This 
+fracture is associated with an epidural collection, likely 
+consistent with an epidural hematoma extending from T5 through 
+T7 level, and impinging the spinal cord as described above.  
+2. Multiple chronic compression fractures are noted at T7, T9, 
+T11, T12, and L1 levels as described above. Associated 
+multilevel degenerative changes. 
+.
+EKGs
+___
+EKG:  NSR with RBBB, LAFB, interatrial conduction disease and 
+2mm STD V4-V6. QW III, AVF. No prior in our system for 
+comparison but reports from prior at ___ (images not 
+available) have RBBB and inferior Q waves.
+.
+___
+Sinus rhythm with premature atrial contractions. First degree 
+A-V block. 
+Right bundle-branch block. Inferior myocardial infarction of 
+indeterminate 
+age and lateral-apical ST segment depressions are suggestive of 
+myocardial 
+ischemia. Compared to the previous tracing of ___ premature 
+atrial 
+contractions are new and the lateral ST segment changes are new. 
+
+.
+___
+Sinus rhythm. Prior inferolateral myocardial infarction. Right 
+bundle-branch block. Ongoing ST segment elevation inferiorly 
+with more prominent ST segment depression in leads I and aVL. 
+There is variation in precordial lead placement in the lateral 
+leads. The ST-T wave changes are consistent with ongoing 
+ischemic process. Rule out myocardial infarction. Followup and 
+clinical correlation are suggested. 
+.
+___
+Sinus rhythm with slowing of the rate as compared with previous 
+tracing 
+of ___. There is continued evidence of active inferolateral 
+ischemic 
+process and continuing right bundle-branch block. Rule out 
+myocardial 
+infarction. Followup and clinical correlation are suggested. 
+.
+___
+Sinus rhythm. Right bundle-branch block. Probable old inferior 
+myocardial 
+infarction. No change compared to earlier tracings of ___ and 
+___. 
+.
+ECHO ___
+The left atrium is elongated. The right atrium is moderately 
+dilated. There is mild symmetric left ventricular hypertrophy. 
+The left ventricular cavity size is normal. There is mild 
+regional left ventricular systolic dysfunction with 55%. Right 
+ventricular chamber size and free wall motion are normal. The 
+number of aortic valve leaflets cannot be determined. There is 
+no aortic valve stenosis. No aortic regurgitation is seen. The 
+mitral valve leaflets are moderately thickened. No mitral 
+regurgitation is seen. There is an anterior space which most 
+likely represents a prominent fat pad. 
+.
+IMPRESSION: Suboptimal image quality. Preserved biventricular 
+function. Regional wall motion abnormalities consistent with CAD 
+(inferior ischemia). No significant valvular abnormality. 
+.
+CXR ___
+In comparison with the study of ___, there are continued low 
+lung 
+volumes. Areas of opacification at the bases are consistent with 
+atelectasis and effusion. There may be minimal asymmetric 
+elevation of pulmonary venous pressure, more prominent on the 
+right. No pneumothorax is identified. 
+.
+CXR ___
+In comparison with the study of ___, there are continued low 
+lung 
+volumes that may account for much of the prominence of the 
+transverse diameter of the heart. There is increasing 
+opacification at both bases with silhouetting of the 
+hemidiaphragms. This is consistent with pleural effusions and 
+compressive atelectasis. However, in the appropriate clinical 
+setting, supervening pneumonia could not be excluded. 
+.
+CXR ___
+FINDINGS: Since prior radiograph acquired over the last 24 
+hours, there has not been no significant changes in the lung. 
+Bibasal mild atelectasis is similar. Upper lungs are clear, and 
+there are no lung opacities concerning for pneumonia or 
+aspiration or new areas of atelectasis. Heart size, mediastinal 
+and hilar contours are normal. There is no pleural effusion. 
+
+ 
+Brief Hospital Course:
+___ year old man with severe COPD on 3L home O2, HTN, HL, 
+osteoporosis status post compression fractures and 
+vertebrolplasty T11-L1 now with new T4-T6 compression fracture 
+causing impingment and loss of motor and sensation below that 
+level now s/p laminectomy.
+.
+#T6 Vertebral fracture with spinal cord compression: Presented 
+to an outside hospital with paralysis and back pain. An MRI 
+showed concern for epidural hematoma versus T6 fracture with 
+retropulsion vs tumor/mass in the Non-con MRI and he was 
+transferred here. MRI with contrast here showed compression 
+fracture identified at T6 vertebral body with low signal 
+intensity though to be blood clot versus tumor compressing the 
+spinal cord. He was started on steroids and neurosurgery then 
+took the patient to the OR and performed a T4-T6 laminectomy. 
+Post operatively he regained strength and sensastion in both 
+lower extremities. Final pathology ruled out malignacy. His 
+steroids were weaned down to his home dose.
+.
+#DEMAND CARDIAC ISCHEMIA: Patient has a history of CAD with 
+multivessel disease (last cath ___ with non-intervenable three 
+vessel disease and deemed not a surgical candidate ___ COPD). He 
+developed new ST depressions V4-V6 and elevated troponins. 
+Cardiology was consulted who believed that his EKG changes and 
+tropnonins were related to demand ischemia ___. 
+Given concern for epidural hematoma he was not started on plavix 
+or heparin iniitally. We continued his home regimen of beta 
+blocker and ace inhibitor. His atorvasattin was increased to 
+80mg daily. His aspirin was increased to 325 mg. Plavix was 
+started on post operative day 10 (___) per neurosurgery and 
+cardiology recommendations.
+.
+#COPD/PNA/Obstructive sleep apnea: Patient has severe COPD on 3L 
+NC at baseline. We continued his advair, Fluticasone, 
+montelukast, albuterol, spiriva, and IV steroids were given for 
+cord compression He was intubated for the surgery and was noted 
+to be difficult to extubate. After extubation he repeatedly had 
+episodes of of acute SOB and hypoxia requiring Bi-PAP. He was 
+treated with nebulizers, diuresis, steroids, as well as 
+vanc/zosyn/azithromycin for hospital aqcuired PNA (last day 
+___. He is also highly likely to have obstructive sleep 
+apnea so his BiPAP/CPAP was used at nights. He will need a sleep 
+study and CPAP as an outpatient.
+.
+#HYPERTENSION: We continued home lisinopril, metoprolol and 
+Imdur. He was diuresed for his respiratory distress and his home 
+furosemide 20 mg PO daily was restarted on discharge. His 
+diltiazem was held for low blood pressures. 
+.
+Transitional Issues:
+Needs Sleep study formally
+Needs CPAP at night for sleep apnea
+Needs follow up with his pulmonologist and cardiologist
+ 
+Medications on Admission:
+lisinopril (Prinivil) - 20mg - PO (By mouth) - DAILY,  
+Fosamax - 70mg - PO (By mouth) - once a week,  
+Calcitonin nasal spray - 200 units (1 spray each nostril) - NAS 
+DAILY,  
+Advair inhaler 500 - 1 puff - INH (Inhalation) - BID,  
+Flonase - INH (Inhalation) - QHS,  
+Flovent inhaler 110 mcg - 2 puffs - INH (Inhalation) - BID,  
+Albuterol neb 2.5 mg - INH (Inhalation) - QID,  
+Pro air inhaler 90 mcg - INH (Inhalation) - PRN,  
+Singulair - 10mg - PO (By mouth) - DAILY,  
+Spiriva inhaler 18 mcg - 1 capsule - INH (Inhalation) - DAILY,  
+Diltiazem XR - 180mg - PO (By mouth) - DAILY,  
+Metoprolol succinate ER - 150mg - PO (By mouth) - DAILY,  
+Isosorbide mononitrate (Imdur) - 20mg - PO (By mouth) - DAILY,  
+Plavix - 75mg - PO (By mouth) - DAILY,  
+Ecotrin (ASA) - 81mg - PO (By mouth) - DAILY,  
+gabapentin (Neurontin) - 100mg - PO (By mouth) - PRN,  
+Hydromorphone - 4mg - PO (By mouth) - Q4H,  
+ibuprofen (Advil) - 400mg - PO (By mouth) - Q4H (in between 
+Hydromorphone),  
+hydroxyzine (Atarax) - 50 mg - PO (By mouth) - PRN,  
+Zyrtec - 10mg - PO (By mouth) - DAILY,  
+Nasonex - 2 puffs - NAS (Nasal) - QHS,  
+Atorvastatin (Lipitor) - 40mg - PO (By mouth) - QPM,  
+Protopic ointment FUJ 0.1 - TOP (Topical) - BIDP,  
+Econazole topical 1 - to feet - TOP (Topical) - DAILY,  
+Mupirocin topical 2 - TOP (Topical) - BID,  
+Triamcinolone 0.1 - TOP (Topical),  
+Clobetasol proprionate (Olux) foam 0.05 - TOP (Topical),  
+Olux - to scalp - TOP (Topical),  
+Colace - 100-200 mg - PO (By mouth) - DAILY,  
+senna (Ex-lax) - ___ tabs - PO (By mouth) - DAILY,  
+Calcium - 750mg/ 2tabs - PO (By mouth) - BID  
+Multivitamin - 1tab - PO (By mouth) - DAILY,  
+Fish oil - 1000mg/2 tabs - PO (By mouth) - BID,  
+Glucosamine/chondroitin - 1500mg/2 tabs - PO (By mouth) - BID,  
+Tylenol - 650mg - PO (By mouth) - PRN,  
+Vitamin D - 400mg - PO (By mouth) - DAILY,  
+Zantac - PO (By mouth)  
+Prednisone taper - taper, until reaches 20 mg.  
+Miralax - 17 gms - PO (By mouth) - DAILY,  
+Oxygen - 2L during the day, 3L at night  
+
+ 
+Discharge Medications:
+1. heparin, porcine (PF) 10 unit/mL Syringe Sig: Two (2) ML 
+Intravenous PRN (as needed) as needed for line flush.  
+2. calcitonin (salmon) 200 unit/actuation Spray, Non-Aerosol 
+Sig: One (1) inhalation Nasal DAILY (Daily).  
+3. fluticasone 50 mcg/actuation Spray, Suspension Sig: One (1) 
+Spray Nasal HS (at bedtime).  
+4. fluticasone 110 mcg/actuation Aerosol Sig: Two (2) Puff 
+Inhalation BID (2 times a day).  
+5. Advair Diskus 500-50 mcg/dose Disk with Device Sig: One (1) 
+inhalation Inhalation twice a day.  
+6. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+7. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+8. albuterol sulfate 90 mcg/actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q4H (every 4 hours) as needed for wheezing. 
+ 
+9. montelukast 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. cetirizine 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+11. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day): Hold for loose stools. .  
+12. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation: Hold for loose stools. .  
+13. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable 
+Sig: Three (3) Tablet, Chewable PO BID (2 times a day): Total 
+dose 1500 mg twice a day. .  
+14. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+15. Ecotrin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+16. omega-3 fatty acids     Capsule Sig: Two (2) Capsule PO BID 
+(2 times a day): Dose = ___ mg twice a day. .  
+17. multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+18. prednisone 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+19. Spiriva with HandiHaler 18 mcg Capsule, w/Inhalation Device 
+Sig: One (1) inhalation Inhalation once a day.  
+20. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+21. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+22. clopidogrel 75 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+23. gabapentin 100 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+24. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1) nebulization Inhalation Q4H (every 4 
+hours).  
+25. atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+26. polyethylene glycol 3350 17 gram Powder in Packet Sig: One 
+(1) Powder in Packet PO DAILY (Daily).  
+27. mupirocin calcium 2 % Cream Sig: One (1) Appl Topical twice 
+a day as needed for rash.  
+28. triamcinolone acetonide 0.1 % Ointment Sig: One (1) Appl 
+Topical BID (2 times a day) as needed for rash.  
+29. hydroxyzine HCl 25 mg Tablet Sig: Two (2) Tablet PO Q6H 
+(every 6 hours) as needed for anxiety.  
+30. econazole 1 % Cream Sig: One (1) application Topical once a 
+day as needed for to feet.  
+31. Protopic 0.1 % Ointment Sig: One (1) application Topical 
+twice a day.  
+32. Sodium Chloride 0.9%  Flush 3 mL IV Q8H:PRN line flush 
+Peripheral line: Flush with 3 mL Normal Saline every 8 hours and 
+PRN. 
+33. Zantac 150 mg Tablet Sig: One (1) Tablet PO twice a day.  
+34. clobetasol 0.05 % Foam Sig: One (1) application Topical once 
+a day: As directed by your prescribing physician.  
+35. ipratropium bromide 0.02 % Solution Sig: One (1) 
+nebulization Inhalation every four (4) hours as needed for 
+shortness of breath or wheezing.  
+36. Xolair 150 mg Recon Soln Sig: One (1) injection Subcutaneous 
+every two weeks: As directed by your prescribing physician. .  
+37. furosemide 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+38. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO 3X/WEEK (___).  
+39. glucosamine-chondroitin  Oral
+40. acetaminophen 650 mg Tablet Sig: One (1) Tablet PO every six 
+(6) hours as needed for pain: Do not take with other 
+Acetaminophen-containing products. Do not drink alcohol while on 
+this medication. .  
+41. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q3H (every 3 
+hours) as needed for back pain.  
+42. olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day) as needed for Anxiety.  
+43. Nasonex ___ mcg/actuation Spray, Non-Aerosol Sig: Two (2)  
+Nasal at bedtime.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+T6 vertebral body compression fracture
+T4-7 Laminectomy
+Demand Cardiac Ischemia
+Severe COPD
+Pneumonia
+.
+Secondary Diagnoses:
+COPD
+Coronoary artery disease
+Hypertension
+Osteoprosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair (working with ___ following surgery).
+
+ 
+Discharge Instructions:
+Mr. ___: 
+. 
+You were admitted to ___ for 
+concerns of spinal cord compression. We performed an MRI which 
+showed you had a fracture in your thoracic vertebra and our 
+neurosurgeons performed a laminectomy to correct the fracture. 
+The pathology did not show any evidence of cancer. Following 
+your surgery, you developed respiratory distress and were 
+admitted to the medical intensive care unit. It was felt that 
+your respiratory distress was due to problems with your lungs 
+and your heart. Multiple medication changes were made to your 
+lung and cardiac medications. It was also felt that you have a 
+condition called sleep apnea and were started on CPAP/BiPAP at 
+night to support your breathing. Although you were started on 
+CPAP/BiPAP during this hospitalization, you will need to have a 
+formal sleep study to begin this therapy at home. 
+. 
+**Your Plavix (Clopidogrel) was stopped around the time of your 
+surgery. You resumed taking Plavix on ___. Resume taking 75 
+mg by mouth daily on ___. Please see below for additional 
+medication changes. **
+. 
+The following changes were made to your medications: 
+
+1. The frequency of your Albuterol nebulizations was increased 
+from every 6 hours (four times a day) to every 4 hours. 
+
+2. Your Aspirin dose was increased from 81 mg by mouth daily to 
+325 mg by mouth daily. 
+
+3. Your Metoprolol succinate 150 mg daily was changed to a short 
+acting formulation called Metoprolol tartrate as we were 
+attempting to optimize the dose of this medication. You are 
+being discharged on Metoprolol tartrate 50 mg by mouth three 
+times a day. Please follow up with your cardiologist regarding 
+further management of this medication. 
+
+4. STOP taking Diltiazem XR 180 mg by mouth daily. Your blood 
+pressure was slightly low throughout this hospitalization so 
+Diltiazem was stopped. 
+
+5. Your Isosorbide mononitrate was increased from 20 mg by mouth 
+daily to 30 mg by mouth daily. 
+
+6. Your Atorvastatin was increased from 40 mg by mouth daily to 
+80 mg by mouth daily. 
+
+7. Start using Ipratropium bromide 0.02% solultion for 
+nebulization every four hours as needed for shortness of breath. 
+
+
+8. Start taking Sulfamethoxazole-Trimethoprim 800-160mg by mouth 
+every ___ and ___. This medication is to 
+prevent a particular lung infection while you are on Prednisone. 
+
+
+9. Please follow instructions from your rehab facility at 
+discharge regarding pain medications (at the time of discharge 
+from ___, your home hydromorphone and ibuprofen were held and 
+you were receiving ___ mg oxycodone every 3 hours as needed).
+
+10. Please follow instructions from your rehab facility at 
+discharge regarding supplemental oxygen use at home.
+ 
+Followup Instructions:
+___

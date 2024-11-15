@@ -1,0 +1,394 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Toradol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Tongue hematoma, broken shoulder - question seizure.
+
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture - 2 WBC, normal protein and glucose. Cultures 
+negative
+
+ 
+History of Present Illness:
+HPI: Mr. ___ is a ___ year old man with a history of 
+concussion
+x2 and melanoma in ___ who, after being awake for 36 hours and
+taking 6 (50mg) tramadol tabs, woke from sleep with a tongue
+hematoma, broken left shoulder, and post-ictal behavior, likely
+representative of seizure.
+
+Mr. ___ only recent medical events involved 3 weeks of left
+shoulder pain radiating down to his left thumb and index finger.
+He had an MRI (not here) for question of cervical radiculopathy
+which was apparently positive though exact details are unknown
+and he was started on gabapentin 300mg TID 1 week ago.
+
+Mr. ___ has been having a significant amount of pain due to
+rectal fissues from ___ and took six 50mg tabs of tramadol
+within the day prior to evaluation. He denies any other 
+substance
+use, including alcohol (though opiates and methadone returned
+positive in our ED). He had also been staying up progressively
+later at night, so in an attempt to reset his circadian rhythm,
+he stayed awake for about 32 hours straight prior to taking a 1
+hour nap on the afternoon of ___. He was otherwise in his usual
+state of health (no HA, phonophotobia, meningism, head trauma,
+drug use). 
+
+He took an hour long nap in his bed the early afternoon and when
+he woke, he noticed that his tongue was swollen and painful. His
+left shoulder was painful as well. He went downstairs in his
+underwear (his mother lives with him and he never is in his
+underwear around her) when she noted that he had urinated. There
+was no obvious loss of stool (but that is a chronic problem 
+given
+his multiple surgeries for perirectal abscesses in the setting 
+of
+___. 
+
+His tongue was not bleeding, but it became progressively more
+swollen prompting him to present to ___ where they
+gave Benadryl and steroids, which did not help. WBC was 22 and
+lactate was 2.17. Prolactin was not drawn. His tongue was
+becoming more swollen so they intubated him. His left shoulder
+was found fractured and dislocated at OSH.
+
+He was transferred here and extubated without incident. He has
+been feeling well aside from his left shoulder pain and tongue
+swelling. The ED thought he might have some hematoma under the
+right side of his tongue. His neurologic exam was normal. His
+lactate increased to 3. His WBC returned similarly elevated at
+23.5. Tox screen was positive for opiates and methadone (the ED
+is not aware that any were given at the OSH). He had a NCHCT
+which was normal and a tongue CT which was normal. 
+
+Of note, he has never had a seizure and there is no family
+history of seizure. There is no history of CNS infection or
+unusual amounts of stress. At time of interview, he denies
+headache, neck stiffness, phonophotophobia, back pain, 
+difficulty
+with continence, difficulty understanding or producing speech,
+difficulty with vision, diplopia, weakness, numbness, 
+clumsiness,
+fevers, chills, sweats, chest pain, dyspnea, cough, abdominal
+pain, N/V, diarrhea, myalgias, rash, dysuria. 
+
+His review of systems was positive only for shoulder pain and
+tongue pain.
+
+ 
+Past Medical History:
+- Grade III Concussions: Lost consciousness in ___ and ___
+after physical assault
+- Melanoma: ___, has had many moles removed. Has not had a
+whole-body skin check since ___
+- ___: On Remicade. Rectal abscess in ___ with 
+residual
+pain for which he is taking Tramadol. He takes large doses (6
+tabs) in a day with sometimes days between doses. 
+- Transient atrial fibrillation
+- Hypothyroidism: h/o hyperthyroid s/p resection
+- Left leg fracture
+- Left hand infection ___
+- Childhood headaches (? migraine): none for years
+- Major depressive disorder
+
+ 
+Social History:
+___
+Family History:
+No family history of seizure
+- Mother with microscopic colitis
+- Father deceased ___ MI while at hemodialysis
+- Twin sister healthy
+- No children
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+
+PHYSICAL EXAMINATION
+97.9  110  132/90  99% NC
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, swollen tongue with
+large right sided hematoma.
+Neck: Supple. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: Left shoulder broken, no obvious deformation.
+Palpation deferred. No C/C/E bilaterally.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented x 3 (save the date, which he
+listed as the ___. Able to relate history well (recalling
+progressively more of the events). Attentive, able to name ___
+backward without difficulty. Language is fluent with intact
+repetition and comprehension. Normal prosody. There were no
+paraphasic errors. Pt was able to name both high and low
+frequency objects.  Able to read without difficulty. Speech was
+not dysarthric. Able to follow both midline and appendicular
+commands. Pt was able to register 3 objects and recall ___ at 5
+minutes spontaneously ___ prompted). He knows the name of the
+president.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 4 to 3mm and brisk. VFF to confrontation. Fundoscopy
+difficult due to glare. ___ ___ ___.
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Facial sensation intact to light touch and pin.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate appears to elevate symmetrically but it is not
+possible to see the uvula given his swollen tongue.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift on the
+right (deferred on the left).
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  x    x   x   ___  ___    5  5     5     5   5
+R  5    ___   ___  5   5    5  5     5     5   5
+x = deferred due to broken shoulder
+
+-Sensory: No deficits to light touch, pinprick, cold sensation,
+vibratory sense, proprioception throughout. No extinction to 
+DSS.
+No agraphesthesia. Romberg deferred. 
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  x    2    2   2
+R  2  2    2    2   2
+Left triceps deferred given arm positioning
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or toe-to-finger.
+
+-Gait: Deferred - alone with patient, his arm broken. 
+
+DISCHARGE EXAM:
+Minimal ___ headache that is intermittent and non-positional.  
+Pain-limited weakness of the left deltoid, biceps and triceps 
+due to fracture.  Tongue hematoma with right greater than left 
+swelling. No active bleeding and no fluctuant mass.
+
+Remainder of neurological exam is normal
+ 
+Pertinent Results:
+___ 10:50AM CEREBROSPINAL FLUID (CSF)  PROTEIN-31 
+GLUCOSE-102
+___ 10:50AM CEREBROSPINAL FLUID (CSF)  WBC-0 RBC-1* POLYS-0 
+___ ___ 10:50AM CEREBROSPINAL FLUID (CSF)  WBC-1 RBC-71* 
+POLYS-35 ___ ___ 06:30AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS 
+cocaine-NEG amphetmn-NEG mthdone-POS
+___ 06:30AM URINE  COLOR-Yellow APPEAR-Cloudy SP ___
+___ 06:30AM URINE  RBC-3* WBC-2 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 06:30AM URINE  MUCOUS-OCC
+___ 06:16AM   WBC-23.5*# RBC-4.97 HGB-15.8 HCT-47.1 MCV-95 
+MCH-31.9 MCHC-33.6 RDW-12.3
+___ 06:16AM   NEUTS-94.1* LYMPHS-3.8* MONOS-1.8* EOS-0.1 
+BASOS-0.3
+___ 06:16AM   PLT COUNT-242
+___ 05:27AM   GLUCOSE-152* UREA N-12 CREAT-0.8 SODIUM-139 
+POTASSIUM-4.9 CHLORIDE-105 TOTAL CO2-20* ANION GAP-19
+___ 05:27AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+
+MRI BRAIN
+IMPRESSION: 
+  
+No evidence of acute intracranial process, malformation of 
+cortical 
+development/structural abnormality, mass effect or abnormal 
+enhancement. 
+
+CSF CYTOLOGY negative for malignancy
+
+EEG- no seizures
+
+CT SHOULDER
+
+IMPRESSION: 
+1.  Comminuted fracture of the greater tuberosity with impaction 
+of the 
+largest fragment with a displaced fracture of the 
+___ glenoid 
+consistent with a bony bankart lesion.  The appearances are 
+consistent with a prior anterior dislocation of the shoulder, 
+the shoulder is now congruent. 
+2.  Moderate-sized hemarthrosis. 
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted after an episode of convulsions 
+concerning for  frsit-time generalized seizure.  During the 
+seizure he sustained a tongue hematoma due to severe tongue 
+bite, as well as a left shoulder fracture/dislocation.  At the 
+outside hospital the shoulder was repositioned he was 
+transferred to ___ for further evaluation oe seizures.
+
+We did a comprehensive laboratory and diagnostic workup 
+including lumbar puncture, MRI, and EEG that showed no clear 
+provoking factor.   Factors that may have lowered his seizure 
+threshhold include poor sleep (being awake for 36 hours), use of 
+ultram (he had taken >6 50mg tabs at once) and history of Grade 
+III concussions with loss of consciousness.  We advised that he 
+refrain from alcohol or other illicit drugs and informed him to 
+stop driving for a period of at least 6 months.  Because it is a 
+first-time event we did not feel that AED initiation was needed 
+at this time
+
+His hospital course was complicated by a headache that developed 
+within 24 hours after lumbar puncture.  This headache was 
+positional an got worse within a few seconds when he sat up and 
+went away when he laid flat. Initially we were concerned that 
+this could be a complication of the lumbar puncture and we asked 
+our Pain Consult team to evaluate for possible epidural blood 
+patch.  Fortunately he improved with conservative management of 
+IV fluids, caffiene and pain medications, and no further 
+intervention was needed.  
+
+With respect to his other injuries, we had orthopedics evaluate 
+the left shoulder and the team felt no surgical intervention was 
+necessary so he was placed in a simple arm sling.  We obtained 
+repeat shoulder imaging on ___ that was stable.  For his tongue 
+swelling, ENT recommended IV dexamethasone 10mg x 2 doses.  No 
+intervention could be done.  We asked Speech & Swallow 
+therapists to verify that swallow function was not compromised 
+and our Nutritionists reviewed a puree/shake diet that may be 
+necessary while he is at home recovering.
+
+For pain we have added OXYCODONE 10mg every 4 hours by mouth.  
+Please follow up with Dr. ___ in Neurology ___ as planned. 
+Also we spoke with your Primary Care physician, ___, 
+___ will help to manage your pain medications as an outpatient. 
+Please also follow up with him as scheduled below.
+
+Thank you for allowing us to participate in your care.
+
+ 
+Medications on Admission:
+- Remicade dose unknown
+- Prozac 20mg daily (for past ___ months)
+- Levoxyl 150mcg qd(no dose changes recently, last TSH 
+reportedly
+done recently by PCP and normal, though record unavailable 
+here).
+- Gabapentin 300mg TID
+- lorazepam 0.5mg daily PRN:anxiety (takes this every day)
+- tramadol 50mg BID PRN:pain (has NOT been taking this as
+prescribed - will take up to 6 tabs in a day)
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+2. Fluoxetine 20 mg PO DAILY 
+3. Gabapentin 300 mg PO TID 
+4. Levothyroxine Sodium 150 mcg PO DAILY 
+5. OxycoDONE (Immediate Release)  10 mg PO Q4H:PRN Pain 
+RX *oxycodone 10 mg 1 tablet(s) by mouth every 4 hours Disp #*50 
+Tablet Refills:*0
+6. Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth twice daily Disp 
+#*60 Capsule Refills:*3
+7. Docusate Sodium 100 mg PO BID:PRN Constipation 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+daily Disp #*60 Capsule Refills:*3
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+generalized seizure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+EXAM:  General- Large right>L tongue hematoma with some 
+mechanical dysarthria from tongue swelling
+Neuro- Normal mental status, cranial nerves, sensation, 
+coordination, gait.  He has Pain limited weakness of the left 
+deltoid, biceps, triceps due to the shoulder fracture, but 
+distal hand muscles are ___
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to take care of you during your 
+hospitalization at ___.  You were 
+admitted after you had an episode of convulsions while you were 
+sleeping, which was concerning for seizure.  During that episode 
+you bit your tongue severely and dislocated and fractured your 
+left shoulder.  At the outside hospital your shoulder was 
+repositioned and you were transferred to ___ for further 
+evaluation of your seizure.
+
+We did a comprehensive laboratory and diagnostic workup 
+including lumbar puncture, MRI, and EEG that showed no clear 
+explanation for your seizure.  We believe that poor sleep (being 
+awake for 36 hours), use of ultram (which is a medicine that can 
+make seizures more likely) and your history of concussions may 
+have contributed to this seizure.  Because this is your first 
+seizure you do not need to be on medications.   We advised you 
+to refrain from alcohol or other illicit drugs and informed you 
+that you should stop driving for a period of at least 6 months.
+
+Your hospital course was complicated by a headache that 
+developed within 24 hours after your lumbar puncture.  This 
+headache got worse when you sat up and went away when you laid 
+flat. Initially we were concerned that this could be a 
+complication of the lumbar puncture and we asked our Pain 
+Consult team to evaluate you in case there was an intervention 
+that was needed.  Fortunately you improved with IV fluids and 
+pain medications, and no further intervention was needed.  If 
+you redevelop any headache that worsens when you sit or stand 
+but goes away when you lay down, you will need to return to the 
+ED for treatment. 
+
+With respect to your other injuries, we had orthopedic surgery 
+examine your shoulder and the team felt that it would heal on 
+its own with a simple arm sling.  We obtained repeat shoulder 
+imaging on ___ that was stable comminuted fracture with 
+associated swelling.  For your tongue swelling, we gave you 2 
+doses of IV steroids and asked the ENT consult team to evaluate 
+you.  They determined that no intervention could be done and 
+that your injury would improve with time.  We asked Speech & 
+Swallow therapists to verify that your swallow function was not 
+compromised and our Nutritionists spoke with you on a 
+puree/shake diet that may be necessary while you are at home 
+recovering.
+
+For pain we have added OXYCODONE 10mg every 4 hours by mouth.  
+We will give you enough medication to get you to your ___ appointment with Dr. ___.  Please follow up with Dr. 
+___ in Neurology ___ as planned. We spoke Dr. ___, 
+___ will help to manage your pain medications as an outpatient. 
+
+Thank you for allowing us to participate in your care.
+
+ 
+Followup Instructions:
+___

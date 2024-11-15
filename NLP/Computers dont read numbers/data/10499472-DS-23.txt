@@ -1,0 +1,241 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfonamides / Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest discomfort
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with placement of two drug-eluting 
+stents to left circumflex artery
+ 
+History of Present Illness:
+Mr. ___ is a pleasant ___ yo man with CAD s/p multiple 
+PCIs ___ ___ OM1; ___ BMS to RCA; ___ PES to LCx, LAD; ___ 
+SES to OM1), type II diabetes mellitus, hypertension and 
+hypercholesterolemia who presents with chest discomfort.
+
+He began to develop chest discomfort about 3 days PTA.  He says 
+shortly after eating dinner, he started belching.  He was 
+sitting down at the time, decided to take Pepto-Bismol and had 
+minimal relief.  He described the sensation as "discomfort" 
+localized to his substernal area, ___ on a pain scale.  He does 
+not describe it as pain or pressure. It did not radiate and was 
+not associated with diaphoresis, nausea, shortness of breath or 
+palpitations.
+
+On the morning following this ___ episode of chest discomfort, 
+he went walking with his wife (they usually walk ___ miles every 
+morning) but had to stop less than one mile due to persistent 
+chest discomfort.  He "did not feel right."  He returned home, 
+took one Percocet and had intermittent discomfort throughout the 
+day.  One day prior to admission, he had the same pain and again 
+had to cut short his morning walk.  Patient is concerned and has 
+come to the hospital because the sensation he is experiencing is 
+similar to his previous MIs.  He said he has never had classic 
+anginal symptoms in the past.
+
+In the ED, he was having the same ___ substernal discomfort; he 
+was noted to be mildly hypertensive.  Vitals were T 97.8, HR 60, 
+BP 144/79, RR 12, O2 sat 99% on RA.  He received aspirin 325 mg 
+and was admitted.
+
+His ROS is otherwise negative. He denies headache, 
+lightheadedness, dizziness, changes in bowel habits, bleeding or 
+swelling in the legs.
+ 
+Past Medical History:
+CAD s/p multiple interventions (see below)
+Diabetes mellitus, type II x ___ years on glipizide
+Hypertension
+Hypercholesterolemia
+
+CAD RISK FACTORS: + Diabetes, + Dyslipidemia, + Hypertension
+
+CARDIAC PROCEDURAL HISTORY:
+___ ___ ___ BMS to RCA
+___ PES to LCx, LAD
+___ DES to OM1
+ 
+Social History:
+___
+Family History:
+Father with MI in ___.
+Mother with MI in ___.
+Multiple second degree relatives with CAD.
+ 
+Physical Exam:
+GENERAL: Middle-aged South Asian man in NAD. Oriented x3. 
+Pleasant. Mood, affect appropriate.
+VS: T 97.6, BP 123/82, HR 56, RR 14, O2 sat 97% on RA.
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink. MMM
+NECK: Supple with JVP of 6 cm.
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. bradycardic, Soft S1, S2. No murmurs, rubs or gallops.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. 
+Respirations were unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominal bruits.
+EXTREMITIES: No clubbing, cyanosis or edema.
+ 
+Pertinent Results:
+___ 07:00PM   WBC-5.7 RBC-4.47* HGB-14.7 HCT-40.7 MCV-91 
+MCH-32.9* MCHC-36.2* RDW-13.2
+___ 07:00PM   NEUTS-47.5* ___ MONOS-5.1 EOS-7.4* 
+BASOS-1.0
+___ 07:00PM   PLT COUNT-253
+___ 07:00PM   ___ PTT-28.5 ___
+
+___ 09:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+
+___ 07:00PM   GLUCOSE-141* UREA N-13 CREAT-0.8 SODIUM-139 
+POTASSIUM-4.5 CHLORIDE-105 TOTAL CO2-28 ANION GAP-11
+___ 07:00PM   ALT(SGPT)-23 AST(SGOT)-37 CK(CPK)-156 ALK 
+PHOS-60 TOT BILI-0.4
+___ 07:00PM   CALCIUM-9.5
+
+___ 07:00PM BLOOD CK(CPK)-156  CK-MB-4  cTropnT-<0.01
+___ 07:15AM BLOOD CK(CPK)-109  CK-MB-4  cTropnT-<0.01
+___ 10:05PM BLOOD CK(CPK)-93
+___ 06:00AM BLOOD CK(CPK)-98
+
+EKG at admission:  Sinus bradycardia. Left axis deviation. Left 
+anterior fascicular block. Left ventricular hypertrophy. 
+Non-specific T wave abnormalities. Compared to the previous 
+tracing of ___ there is no significant difference.
+
+CXR at admission:  The cardiomediastinal silhouette is stable 
+and unremarkable. There are multiple coronary artery stents 
+present. There is stable mild elevation of the right 
+hemidiaphragm. The lungs otherwise are clear.
+
+Cardiac catheterization ___:
+1. Selective coronary angiography of this right dominant system 
+revealed one vessel coronary artery disease. LMCA and LAD had no 
+angiographically apparent stenosis. The Lcx had a proximal 40% 
+stenosis, and a 80% distal stenosis. The RCA had no 
+angiographically apparent stenosis.
+2. Limited resting hemodynamics revealed mild systemic 
+hypertension with a central aortic pressure of 140/75 mmHg.
+3. Successful stenting of the LCX with a 2.5x8mm and a 3.0x8mm 
+Xience stents with the distal stent that was postdilated to 
+2.75mm. The final angiography revealed no residual stenosis, no 
+angiographically apparent dissection, and TIMI 3 flow.
+ 
+Brief Hospital Course:
+___ yo man with CAD, type II diabetes mellitus, hypertension, 
+hypercholesterolemia presents with chest discomfort similar to 
+his usual anginal symptoms and decreased exercise tolerance, 
+concerning for crescendo unstable angina.
+
+# CHEST PAIN / CAD:  Patient has never had classic angina in the 
+past, and he reports that this was his anginal equivalent 
+symptoms prior to his previous PCIs. There were no significant 
+EKG changes, and his cardiac biomarkers were normal twice.  He 
+is having new onset (beginning 3 days PTA) chest discomfort that 
+is limiting his lifestyle and usual physical activities, and in 
+this setting, it is concerning for crescendo unstable angina.  
+He was continued on his outpatient aspirin, Plavix, ___ 
+and statin.  He underwent coronary angiography (rather than 
+stress testing) on HD 1 and two everolimus-eluting stents were 
+placed in his left circumflex artery proximal and distal to his 
+previous stent.  After the procedure and overnight, he reported 
+no chest discomfort.  He is being discharged on his home 
+cardiovascular regimen, with the exception that his trandolapril 
+has been increased from 0.5 mg to 1.0 mg once daily. The 
+importance of uninterrupted dual anti-platelet therapy to 
+prevent stent thrombosis was reviewed with the patient.
+
+# SYSTOLIC HEART FAILURE:  His most recent echo from ___ 
+showed an ejection fraction of 45-50%.  His ACE-I dose was 
+increased given his hypertension at cardiac catheterization. He 
+will have follow-up with his cardiologist, Dr. ___, in two 
+weeks.  He will continue on ___, statin, and 
+Plavix as well.
+
+# DIABETES MELLITUS:  His glipizide was held at admission and 
+patient recieved HISS.  He is being discharged on his outpatient 
+glipizide regimen.
+
+# HYPERCHOLESTEROLEMIA:  Continued simvastatin at outpatient 
+dose, as his CAD was thought to be due more to edge restenosis 
+than progression of atherosclerosis.
+
+# HYPERTENSION:  Mildly hypertensive on admission, although 
+blood pressure when he arrived to floor was better controlled 
+with SBP 120-130.  Current BP regimen includes BB and ACE-I. 
+Changes were made to his ACE-I as above.
+ 
+Medications on Admission:
+Atenolol 25 mg daily
+Clopidogrel 75 mg daily
+Fluticasone nasal 50 mcg ___ sprays daily
+Glipizide 2.5 mg daily
+Simvastatin 40 mg daily
+Trandolapril 0.5 mg daily
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+3. Trandolapril 1 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily). Disp:*30 Tablet(s)* Refills:*2*
+4. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, 
+Sublingual Sublingual PRN (as needed).
+5. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.
+6. Glipizide 5 mg Tablet Sig: 0.5 Tablet PO once a day.
+7. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime). Disp:*30 Tablet(s)* Refills:*2*
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+Marker negative crescendo unstable angina
+Coronary artery disease treated with deployment of 2 
+drug-eluting stents in his left circumflex artery
+
+SECONDARY
+Diabetes mellitus
+Hypertension
+Hypercholesterolemia
+ 
+Discharge Condition:
+Vital signs stable.  No chest pain.
+ 
+Discharge Instructions:
+You were hospitalized for chest discomfort.  You underwent 
+coronary angiography and two stents were placed to one of the 
+blood vessels surrounding your heart, your left circumflex 
+artery.  We believe that your chest pain was due to narrowing of 
+this blood vessel.
+
+We have made a change to one of your medicines.  We have 
+increased your trandolapril to 1 mg once daily from 0.5 mg once 
+daily.  We have made no other changes to your medications.
+
+Please follow-up with your cardiologist in ___, 
+M.D. ___ ___ 12:30.
+
+Please follow-up with your primary care physician in ___. 
+___, MD ___ ___ 10:45
+
+Please return to the emergency room if you have any worsening of 
+your chest discomfort, any light-headedness or dizziness.
+ 
+Followup Instructions:
+___

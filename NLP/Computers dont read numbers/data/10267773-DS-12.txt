@@ -1,0 +1,218 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain, nausea and vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ M with a medical history notable for type 1 
+diabetes and gastroparesis with multiple recent admissions for 
+gastroparesis flares. He presented to the ___ ED who a typical 
+gastroparesis flare. He noted recurrent emesis, several with a 
+few strings of blood. He was last admitted with similar symptoms 
+1 month ago for 5 days. 
+
+In ER: (Triage Vitals: 96.8, 173, 118, 20, 100% on RA) 
+Meds Given: Zofran and Dilaudid. He also received IV fluids and 
+an IV insulin drip until his anion gap closed.
+ 
+Past Medical History:
+1. Diabetes, type I  - A1c: 7.7 ___
+2. Gastroparesis: diagnosis confirmed on gastric emptying study 
+at ___. 
+3. Hypertension  
+4. Concern for depressed mood on prior admissions - seen by  
+psych on prior admission.
+ 
+Social History:
+___
+Family History:
+Denies family history of CAD, DM.
+ 
+Physical Exam:
+VS:  T 98.7 P = 111 BP = 162/111 RR = 20 O2Sat = 100% on RA BS = 
+350
+
+GENERAL: Thin male laying in bed. He is shaking. I witness him 
+after   
+Nourishment: OK
+Grooming:OK  
+Mentation: Alert, he looks uncomfortable.   
+Eyes:NC/AT, PERRL,  No scleral icterus noted  
+Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP  
+Neck: supple, no JVD or carotid bruits appreciated  
+Respiratory: Lungs CTA bilaterally without R/R/W  
+Cardiovascular: RRR, nl. S1S2, no M/R/G noted  
+Gastrointestinal: soft, NT/ND, normoactive bowel sounds, no 
+masses or organomegaly noted.  
+Genitourinary:  deferred
+Skin: + tatoo
+Extremities: No C/C/E bilaterally, 2+ radial, DP and ___ pulses 
+b/l.  
+Lymphatics/Heme/Immun: No cervical lymphadenopathy noted.  
+Neurologic:  
+-mental status: Alert, orientation could not be assessed. Able 
+to shake head yes or no to questions
+-cranial nerves: II-XII grossly intact  
+-motor: normal bulk, strength and tone throughout. No abnormal 
+movements noted.  
+ 
+Pertinent Results:
+Presentation Labs:
+ ___ 07:30PM BLOOD Glucose-351* UreaN-13 Creat-1.1 Na-130* 
+K-4.1 Cl-94* HCO3-18* AnGap-22* ALT-21 AST-18 AlkPhos-125 
+TotBili-0.9
+___ 05:30AM BLOOD Calcium-8.5 Phos-3.8 Mg-1.8
+___ 11:45PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 07:30PM BLOOD Lipase-33
+___ 07:30PM BLOOD WBC-12.6* RBC-4.78 Hgb-13.2* Hct-39.7* 
+MCV-83 MCH-27.7 MCHC-33.3 RDW-14.8 Plt ___
+
+Discharge Labs:
+___ 04:10PM BLOOD Glucose-195* UreaN-10 Creat-0.9 Na-132* 
+K-3.7 Cl-95* HCO3-26 AnGap-15
+___ 04:10PM BLOOD WBC-17.0* RBC-4.49* Hgb-12.1* Hct-36.8* 
+MCV-82 MCH-27.0 MCHC-32.9 RDW-14.6 Plt ___
+
+Urine Studies:
+___ 02:45AM URINE Type-RANDOM Color-Straw Appear-Clear Sp 
+___
+___ 02:45AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-1000 Ketone-80 Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 02:45AM URINE RBC-1 WBC-<1 Bacteri-FEW Yeast-NONE 
+___
+
+___ Blood culture: no growth
+
+___ KUB: FINDINGS: No dilated loops of bowel or air-fluid 
+levels are seen. Air is seen within a non-distended descending 
+and sigmoid colon. No evidence of freeair is seen. Osseous 
+structures are grossly unremarkable. IMPRESSION: Non-obstructive 
+bowel gas pattern.
+.
+Note labs returned after discharge as below:
+___ 10:22AM BLOOD Glucose-260* UreaN-8 Creat-0.8 Na-126* 
+K-3.4 Cl-93* HCO3-25 AnGap-11
+Sodium corrects to 128 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ M with uncontrolled type I diabetes with 
+gastroparesis who presented with his typical abdominal symptoms 
+of intermittent LLQ pain, nausea, and vomiting. On presentation 
+he was in mild DKA and required an insulin drip. There was no 
+obvious precipitant for his DKA despite a thorough evaluation 
+but does report missing his Lantus approximately twice per week. 
+On the floor his blood glucose levels were controlled with home 
+lantus and humalog sliding scale insulin.  Pt was  treated with 
+bowel rest, anti-emetics, and pain medications. He slowly 
+improved and on the morning of ___, he was feeling well and 
+denying any complaints.  He was advanced a regular diet without 
+complications. There were no changes were made to his medical 
+regimen on discharge.
+.
+Hyponatremia: Pt had labs drawn advertantly prior to leaving the 
+floor based on outdated orders.  These revealed that he had a 
+corrected sodium of 128 and I was unable to contact him at home. 
+ I spoke with his health care proxy Ms ___ and she was on her 
+way to spend the day with him. She agreed to monitor him for any 
+mental status changes, confusion or lightheadedness and agreed 
+that she should bring him in for urgent evaluation if any of 
+these occurred.  His primary care Physician's office was 
+notified and Ms ___ agreed to bring the patient in to his 
+PCP's office on the morning of ___ for follow up labs to be 
+drawn.
+ 
+Medications on Admission:
+Taken from discharge summary as the patient is unable to tell me 
+his medications as he is vomiting. 
+1. lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+
+ 
+2. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+
+3. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+
+times a day).  
+4. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+5. metoclopramide 10 mg Tablet Sig: One (1) Tablet PO three 
+times a day: pre meals.
+Disp:*90 Tablet(s)* Refills:*2*
+6. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. hydromorphone 2 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+
+hours) as needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+8. ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO Q8H (every 8 hours) as needed for nausea.
+Disp:*20 Tablet, Rapid Dissolve(s)* Refills:*0*
+9. insulin glargine 100 unit/mL (3 mL) Insulin Pen Sig: Thirty 
+(30) units Subcutaneous at bedtime.  
+10. insulin lispro 100 unit/mL Insulin Pen Sig: ASDR  
+Subcutaneous three times a day.  
+
+ 
+Discharge Medications:
+1. lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+2. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+3. metoclopramide 10 mg Tablet Sig: One (1) Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+4. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day.  
+5. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+6. ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: ___ Tablet, Rapid 
+Dissolves PO every eight (8) hours as needed for nausea.  
+7. insulin glargine 100 unit/mL Solution Sig: ___ (36) 
+units Subcutaneous at bedtime.  
+8. insulin lispro 100 unit/mL Solution Sig: ___ units 
+Subcutaneous three times a day as needed for sliding scale.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Uncontrolled type I diabetes with complications 
+Gastroparesis
+Hyponatremia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted with abdominal pain and nausea. This improved 
+with bowel rest, anti-nausea medicines, and pain medicines. We 
+restarted all of your home medications and have made no changes 
+to your regimen. It is important that you take your insulin 
+every day and keep the follow up appointment with your PCP.  
+
+You need to get follow up labs drawn tomorrow morning at Dr. 
+___ and they will give you additional details 
+regarding your follow up appointment.
+ 
+Followup Instructions:
+___

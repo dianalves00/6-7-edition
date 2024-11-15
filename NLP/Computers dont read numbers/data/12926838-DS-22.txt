@@ -1,0 +1,377 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+In brief, Ms. ___ is a ___ w/ a PMH significant for dCHF 
+(severe LAE, EF 55%, pHTN), Atrial fibrillatin (on coumadin) 
+with sick sinus syndrome s/p dual chamber PPM who presents with 
+altered mental status from Acute Rehab facility. 
+
+Per report, the patient was at baseline one day prior to 
+admission. On the morning of admission, was alert to only 
+person, very repetitive with speech, and not appropriately 
+answering questions. Fingerstick was 133.  Nightfloat spoke with 
+her daughter who said that Ms. ___ was recently discharged 2 
+weeks prior from ___ for acute appendicitis then was doing 
+well at ___ rehab facility. Patient previously 
+lived at home and was fully functional w/ ADLs. Two days prior 
+to admission, patient called daughter and said she was feeling 
+cold w/ chills. Of note, she has been constipated x3 days but 
+was given a bowel reg, then had BM. Daughter thinks mental 
+status is "way off" especially since couldn't say her name, 
+address, or date of birth. Patient perseverating saying "I want 
+to go home." Daughter has not noticed waxing/waning mental 
+status. Patient does not have history of confusion per daughter. 
+No fevers, pain, falls or new meds. INR 1.3 on ___ at Rehab, 
+coumadin increased from 3mg to 5mg on ___.
+  
+In the ED, initial vitals were 98.0 HR 70 145/60 22 sat 99% RA. 
+Her exam was significant for A&Ox1 requiring frequent 
+redirection with non-focal neuro exam. WBC 4, HCT 34, Cr 0.9, UA 
+neg, CXR with small bilateral pleural effusions, vascular 
+congestion. CT Abd/Pelvis without evidenc of abscess, but 
+notable for bilateral effusions, hyperdense renal pole lesion 
+concerning for malignant process. NCHCT without signs of acute 
+bleed.
+
+On arrival to floor, patient denied any pain, but could not 
+contribute to history. 
+
+ROS: Full 10 pt review of systems negative except for above. 
+ 
+Past Medical History:
+- CHF w/ preserved EF (severe diastolic dysfunction)
+- Atrial Fibrillation on warfarin  
+- ___ pacemaker, Sensia SEDR01 in ___ and 
+change
+in ___ for SSS
+- Pulmonary Hypertension
+- Moderate (2+) MR.
+- Moderate (2+) TR.
+- Hypertension  
+- Hyperlipidemia  
+- CKD
+- Osteoporosis  
+- Hx Adrenal Enlargement  
+- Hx Thyroid nodule  
+- s/p ruptured appendicitis
+- s/p Pacemaker  
+- s/p Cholecystectomy  
+- s/p TAH  
+- s/p C-section  
+ 
+Social History:
+___
+Family History:
+Unable to assess
+ 
+Physical Exam:
+=================================
+Admission Physical Exam:
+=================================
+VS: 97.9 75 152/74 20 99% RA
+Gen: NAD, A&Ox1 (name, not oriented to place or year, says its 
+___
+Wt: 84kg
+HEENT: clear OP
+NECK: JVP ___  
+CV: RRR, nl s1/s2, no m/r/g
+Pulm: decreased breath sounds at the bases bilaterally with 
+overlaying inspiratory crackles. non-labored
+Abd: soft, NT, ND  
+GU: no foley  
+Ext: 1+ edema to shins bilaterally  
+Skin: no lesions noted  
+Neuro: CNs intact, follows commands, appears to have difficulty 
+remembering information about herself. ___ for immediate recall. 
+___ strength in upper & lower ext. Downgoing toes. Romberg 
+negative. No pronator drift. No disdiadochokinesis. Minimal 
+past-pointing with FTN.
+Psych: somewhat agitated w/ questioning, perseverating, poor 
+insight
+
+=================================
+Discharge Physical Exam:
+=================================
+VS: 98.3 69 126/51 18 98%
+Wt: 85.6
+NAD, A&Ox1(knows name)  
+HEENT: clear OP
+NECK: JVP ___  
+CV: RRR, nl s1/s2, no m/r/g
+Pulm: decreased breath sounds at the bases bilaterally with mild 
+inspiratory crackles. non-labored
+Abd: soft, NT, ND  
+GU: no foley  
+Ext: 1+ edema to shins bilaterally  
+Neuro: CNs intact, follows commands, appears to have difficulty 
+remembering information about herself. ___ for immediate recall. 
+___ strength in upper & lower ext. Downgoing toes. Romberg 
+negative. No pronator drift. No disdiadochokinesis. Minimal 
+past-pointing with FTN.
+Psych: somewhat agitated w/ questioning, perseverating, poor 
+insight
+ 
+Pertinent Results:
+===================
+Admission Labs
+===================
+___ 01:30PM BLOOD WBC-4.0 RBC-3.63* Hgb-11.5* Hct-34.7* 
+MCV-96 MCH-31.8 MCHC-33.2 RDW-12.7 Plt ___
+___ 01:30PM BLOOD Neuts-65.4 ___ Monos-10.2 Eos-0.5 
+Baso-1.0
+___ 01:30PM BLOOD Plt ___
+___ 07:05AM BLOOD ___ PTT-29.8 ___
+___ 01:30PM BLOOD Glucose-111* UreaN-10 Creat-0.9 Na-135 
+K-3.7 Cl-99 HCO3-25 AnGap-15
+___ 01:30PM BLOOD ALT-28 AST-65* CK(CPK)-74 AlkPhos-93 
+TotBili-0.7
+___ 01:30PM BLOOD Albumin-3.6
+
+Cardiac Labs
+==================
+___ 01:30PM BLOOD CK-MB-2 cTropnT-<0.01
+
+Endo Labs
+==================
+___ 07:05AM BLOOD TSH-0.53
+
+Urine
+==================
+___ 02:00PM URINE Color-Straw Appear-Clear Sp ___
+___ 02:00PM URINE Blood-SM  Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+___ 02:00PM URINE RBC-<1 WBC-1 Bacteri-FEW Yeast-NONE Epi-1
+___ 02:00PM URINE Mucous-RARE
+
+Discharge Labs
+==================
+___ 09:45AM BLOOD WBC-3.1* RBC-3.46* Hgb-10.5* Hct-32.7* 
+MCV-95 MCH-30.5 MCHC-32.2 RDW-13.3 Plt ___
+___ 10:20AM BLOOD ___ PTT-35.5 ___
+___ 09:45AM BLOOD Glucose-204* UreaN-14 Creat-1.0 Na-130* 
+K-4.2 Cl-99 HCO3-25 AnGap-10
+
+EKG
+=============
+EKG ___: AV paced, ventricular rate of 72
+
+PRIOR IMAGING:
+==================
+# TTE ___: 
+IMPRESSION: EF 55+% Normal global and regional biventricular 
+systolic function. Severe left ventricular diastolic 
+dysfunction. Moderate mitral regurgitation. Severe pulmonary 
+artery systolic hypertension with evidence of RV volume/pressure 
+overload.  
+
+NEW IMAGING:  
+===================
+# CXR PA/Lat ___: 
+IMPRESSION: Small bilateral pleural effusions and enlarged 
+cardiac silhouette. Pulmonary vascular congestion.  
+
+# CT abd/pelv w/ contrast ___: 
+IMPRESSION: 
+1.  No acute intra-abdominal process, specifically, no acute 
+appendicitis.   
+2.  New bilateral small pleural effusions with overlying 
+atelectasis and a small pericardial effusion.   
+3.  Unchanged hyperdense right lower pole renal lesion which is 
+again 
+concerning for malignancy.  A multiphasic CT or MRI is again 
+recommended.   
+4.  Unchanged large right adnexal cyst. 
+
+# CT Head w/o contrast ___: 
+FINDINGS:  There is no evidence of acute intracranial 
+hemorrhage, midline 
+shift, mass effect, or acute large vascular territorial infarct. 
+ Gray-white matter differentiation is preserved.  There is 
+prominence of the ventricles and sulci consistent with 
+age-related global parenchymal loss.  Periventricular and 
+subcortical white matter hypodensities bilaterally are most 
+consistent with sequela of chronic small vessel disease, and may 
+be minimally increased as compared to the prior study.  Minimal 
+mucosal thickening is seen in the ethmoid air cells and in the 
+left frontal sinus.  The remainder of the visualized paranasal 
+sinuses and the mastoid air cells are clear.  No acute fracture 
+is seen. 
+
+IMPRESSION:  No acute intracranial process.  Chronic changes, as 
+above.
+ 
+Brief Hospital Course:
+___ w/ a PMH significant for ___ (severe LAE, EF 55%, pHTN), 
+Atrial fibrillatin (on coumadin) with sick sinus syndrome s/p 
+dual chamber PPM who presents with altered mental status from 
+metabolic encephalopathy from Acute Rehab facility. Her hospital 
+course was significant for a negative infectious work-up and 
+mild CHF exacerbation. 
+
+# Metabolic Encephalopathy: 
+Last seen normal on ___. Unclear what triggered AMS 
+etiology. NCHCT without signs of acute bleed. CT Abd/Pelvis 
+without signs of abcess as patient is recently s/p ruptured 
+appendicitis. CXR with small bilateral pleural effusions. 
+Infectious work-up for AMS was negative. She was persistently 
+A&Ox1-2 (does not know location or date), but her attention was 
+good, able to count days and months backward. She was discharged 
+at what appears to be her baseline, which may be early dementia. 
+
+
+# Atrial Fibrillation on warfarin: 
+CHADS2 score of 3 (CHF, HTN, Age). On coumadin as outpatient. 
+Subtherapeutic INR for at least 10 days prior to admission. INR 
+1.3 on ___ at Rehab.  Warfarin was increased to 6. She was 
+continued on her home dose of Metoprolol. 
+
+# HFPEF: 
+Mr. ___ appeared slightly volume overloaded on exam and had 
+imaging significant for bilateral pleural effusions with a small 
+pericardial effusion on CT. Last echo on ___ showed EF 55+%. 
+Her admission wt is 84kg. She received Lasix 40mg IV x2 with 
+good diuresis. She appeared more euvolemic on the day of 
+discharge although her weight was 85.6 kg (unclear if accurate). 
+She was discharged on her home dose of metoprolol and torsemide. 
+
+
+# RUE superficial thrombophlebitis
+Arrived from ___ with slight warm, erythematous, tender indurated 
+RUE IV site. Site was dramatically improved in 24 hours with 
+warm compress. 
+ 
+# Hypertension  
+Continued on home Metoprolol and Lisinopril
+ 
+# Hyperlipidemia  
+Continued on home Atorvastatin
+
+# Sick sinus syndrome with pacemaker
+AV paced on admission w/ baseline EKG.  
+
+# Leukopenia
+WBC 3.1 on day of discharge. Patient without signs or symptoms 
+of infection. Would monitor as an outpatient. 
+
+# Normocytic Anemia
+Hg ___. At baseline. 
+
+# Hyponatremia
+Na stable during admission, but 130 on day of discharge. Likely 
+due to diuresis. Would follow-up as outpatient. 
+
+# AST elevation
+Seems chronic. Would monitor as an outpatient. 
+
+Transitional Issues
+===============================
+# Needs f/u with surgery for evaluation s/p ruptured appy
+# Needs f/u with Cardiology for CHF: FYI, patient had small 
+pericardial effusion on CT
+# Needs follow up with PCP: ___ monitor weight, WBC, anemia, 
+AST elevation, and right lower pole renal lesion (found on CT. 
+would recommend multiphasic CT or MRI). 
+# Needs blood draw on ___ for CBC, INR. Please titrate 
+Coumadin to INR ___. Please continue to monitor WBC count as 
+patient was discharged with WBC 3.1. 
+# CONTACT: ___ (daughter) ___  
+# CODE: Full- confirmed  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Atorvastatin 10 mg PO DAILY 
+3. TraMADOL (Ultram) 25 mg PO Q6H:PRN pain 
+4. Amiodarone 200 mg PO DAILY 
+5. Docusate Sodium 100 mg PO BID 
+6. Senna 1 TAB PO BID 
+7. Omeprazole 20 mg PO BID 
+8. Metoprolol Tartrate 25 mg PO QAM 
+9. Metoprolol Tartrate 50 mg PO QPM 
+10. Torsemide 10 mg PO DAILY 
+11. Lidocaine 5% Patch 1 PTCH TD DAILY 
+12. Lidocaine 5% Patch 1 PTCH TD DAILY 
+13. Calcium Carbonate 1000 mg PO BID 
+14. Polyethylene Glycol 17 g PO DAILY 
+15. Lisinopril 20 mg PO DAILY 
+16. Warfarin 4 mg PO DAILY16 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Amiodarone 200 mg PO DAILY 
+3. Atorvastatin 10 mg PO DAILY 
+4. Calcium Carbonate 1000 mg PO BID 
+5. Docusate Sodium 100 mg PO BID 
+6. Lidocaine 5% Patch 1 PTCH TD DAILY 
+7. Lidocaine 5% Patch 1 PTCH TD DAILY 
+8. Lisinopril 20 mg PO DAILY 
+9. Metoprolol Tartrate 25 mg PO QAM 
+10. Metoprolol Tartrate 50 mg PO QPM 
+11. Omeprazole 20 mg PO BID 
+12. Polyethylene Glycol 17 g PO DAILY 
+13. Senna 1 TAB PO BID 
+14. Torsemide 10 mg PO DAILY 
+15. Warfarin 6 mg PO DAILY16 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+- Altered Mental Status
+- ___
+- Atrial Fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Ms. ___, 
+
+It was a pleasure taking care of you at ___. You were admitted 
+for confusion. You had a cat scan of your head and your abdomen, 
+which did not show any signs of infection or stroke. Overall, we 
+did not find any reason for your confusion.
+
+You had a chest x-ray that showed a small amount of fluid in 
+your lungs. You were treated with a stronger dose of diuretic 
+(intravenous lasix), and you were discharged on your home dose 
+of torsemide. 
+
+For your of Afib, You were treated with Coumadin and were 
+discharged on a dose of 6mg. 
+
+Please weigh yourself every morning, call MD if weight goes up 
+more than 3 lbs.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,180 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+None
+attach
+ 
+Pertinent Results:
+Admission/Discharge Labs:
+
+___ 07:39AM BLOOD WBC-5.3 RBC-5.00 Hgb-13.9 Hct-42.3 MCV-85 
+MCH-27.8 MCHC-32.9 RDW-12.1 RDWSD-37.1 Plt ___
+___ 07:39AM BLOOD Neuts-59.4 ___ Monos-6.6 Eos-1.5 
+Baso-0.4 AbsNeut-3.14 AbsLymp-1.70 AbsMono-0.35 AbsEos-0.08 
+AbsBaso-0.02
+___ 07:39AM BLOOD Glucose-207* UreaN-13 Creat-0.7 Na-136 
+K-3.7 Cl-99 HCO3-25 AnGap-12
+___ 07:39AM BLOOD ALT-54* AST-29 AlkPhos-97 TotBili-0.4
+___ 07:39AM BLOOD Calcium-9.3 Phos-4.3 Mg-2.0
+___ 02:05AM BLOOD Lactate-1.2
+
+Studies:
+ 
+1. No acute findings in the abdomen or pelvis.  Normal appendix. 
+ Mild sigmoid
+diverticulosis, without findings of acute diverticulitis.
+2. 4 mm perifissural pulmonary nodule in the right lower lobe, 
+unchanged
+compared to CT of the abdomen/pelvis from ___.
+ 
+RECOMMENDATION(S):  For incidentally detected single solid 
+pulmonary nodule
+smaller than 6 mm, no CT follow-up is recommended in a low-risk 
+patient, andan optional CT in 12 months is recommended in a 
+high-risk patient.
+ 
+Brief Hospital Course:
+___ year old man with history of T2DM, HLD, prior stroke,
+depression, and anxiety, who presented to the ___ ED with 
+acute
+worsening of his chronic abdominal pain of unclear etiology. He 
+had a CT Abd/Pelvis without any acute abnormalities. He was 
+started on pantoprazole given history of gastritis on previous 
+EGD. He will be discharged with plan for outpatient follow up 
+for his chronic abdominal pain. 
+
+TRANSITIONAL ISSUES:
+===================
+[ ] F/u with gastroenterologist given chronic abdominal pain of 
+unclear etiology (Dr ___ as above)
+[ ] Started on pantoprazole for gastritis as possible 
+contributor to his abdominal pain
+[ ] held metformin given that he reports it causes nausea and GI 
+upset
+[ ] F/u indication for full 325 mg dose aspirin daily
+
+ACUTE ISSUES  
+=======================  
+#Acute on chronic abdominal pain
+#Nausea, Anorexia
+Unclear etiology for his pain. Has had 2 upper and lower
+endoscopies as an outpatient, which were unrevealing. Was 
+treated
+for H. pylori without improvement in his sx (___). CT this
+admission showed no acute findings. Mildly elevated lipase, but
+otherwise does not meet criteria for pancreatitis. He was 
+managed with Maalox, Acetaminophen for pain control. Given 
+gastritis on previous endoscopies, he was started on 
+pantoprazole. He requires GI follow up as an outpatient for 
+further evaluation of his abdominal pain. 
+
+#HTN
+Continue home lisinopril, hctz, and metoprolol
+
+#T2DM, poorly controlled
+Will continue home insulin regimen and Trulicity. He notes that 
+he has not been taking metformin given it causes GI upset, which 
+should be followed up as an outpatient. 
+
+# Incidental Pulm Nodule
+4 mm perifissural pulmonary nodule in the right lower lobe, 
+unchanged
+compared to CT of the abdomen/pelvis from ___.
+ 
+RECOMMENDATION(S):  For incidentally detected single solid 
+pulmonary nodule
+smaller than 6 mm, no CT follow-up is recommended in a low-risk 
+patient, andan optional CT in 12 months is recommended in a 
+high-risk patient.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Atorvastatin 80 mg PO QPM 
+2. Metoprolol Succinate XL 100 mg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Hydrochlorothiazide 25 mg PO DAILY 
+5. Trulicity (dulaglutide) 1.5 mg/0.5 mL subcutaneous 1X/WEEK 
+6. Glargine 80 Units Bedtime
+Humalog 20 Units Breakfast
+Humalog 20 Units Lunch
+Humalog 20 Units Dinner
+7. MetFORMIN (Glucophage) 1000 mg PO BID 
+8. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+2.  Glargine 80 Units Bedtime
+Humalog 20 Units Breakfast
+Humalog 20 Units Lunch
+Humalog 20 Units Dinner 
+3.  Aspirin 325 mg PO DAILY  
+4.  Atorvastatin 80 mg PO QPM  
+5.  Hydrochlorothiazide 25 mg PO DAILY  
+6.  Lisinopril 40 mg PO DAILY  
+7.  Metoprolol Succinate XL 100 mg PO DAILY  
+8.  Trulicity (dulaglutide) 1.5 mg/0.5 mL subcutaneous 1X/WEEK  
+9. HELD- MetFORMIN (Glucophage) 1000 mg PO BID  This medication 
+was held. Do not restart MetFORMIN (Glucophage) until you 
+discuss with your PCP
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+Primary
+Abdominal pain
+Secondary
+Diabetes mellitus type 2
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+  
+It was a pleasure caring of you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+-You were admitted to the hospital for abdominal pain
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+-You had a CAT scan that did not show any major abnormalities 
+within your abdomen that could be causing your abdominal pain
+- Started a new medication for management of your abdominal pain
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  Please make sure to follow-up with a new 
+gastroenterologist at ___
+
+We wish you the best!  
+
+Sincerely,  
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,466 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Duodenal mass 
+ 
+Major Surgical or Invasive Procedure:
+___:
+1. Diagnostic laparoscopy.
+2. Exploration of the duodenum with mobilization of duodenal 
+tumor.
+3. Standard pancreaticoduodenectomy with antecolic 
+gastrojejunostomy.
+4. Placement of gold fiducials for possible CyberKnife.
+5. Mobilization of falciform ligament and omental flaps for
+protection of pancreatic anastomosis.
+
+ 
+History of Present Illness:
+The patient is a ___ year-old female with history of duodenal 
+ulcers in the D3 segment. She underwent recent surveillance EGD 
+with ulcer biopsy results positive for duodenal carcinoma. 
+Patient was evaluated by Dr. ___ possible resection. She 
+now present with elective Whipple procedure. 
+ 
+Past Medical History:
+IDDM, HTN, duodenal ulcers,
+hypercholesterolemia, duodenal cancer
+
+ 
+Social History:
+___
+Family History:
+First cousin- kidney cancer, aunt- breast cancer. 
+
+ 
+Physical Exam:
+Prior To Discharge:
+VS: 98.2, 72, 169/59, 18, 98% RA
+GEN: Pleasant with NAD
+CV: RRR, no m/r/g
+PULM: CTAB
+ABD: Midline incision with steri strips, distal part open and 
+packed with dry gauze. RLQ JP drain to bulb suction with small 
+amount of murky fluid. 
+EXTR: LLE with 1+ pitted edema. + peripheral pulses 
+ 
+Pertinent Results:
+RECENT LABS:
+___ 06:06AM BLOOD WBC-10.4* RBC-2.73* Hgb-7.2* Hct-24.0* 
+MCV-88 MCH-26.4 MCHC-30.0* RDW-15.4 RDWSD-49.5* Plt ___
+___ 06:06AM BLOOD Glucose-236* UreaN-17 Creat-0.6 Na-131* 
+K-3.8 Cl-98 HCO3-25 AnGap-12
+___ 02:00AM BLOOD ALT-36 AST-19 AlkPhos-73 TotBili-0.3
+___ 06:06AM BLOOD Calcium-8.6 Phos-2.5* Mg-2.0
+___ 12:50AM BLOOD calTIBC-221* Ferritn-323* TRF-170*
+___ 10:22PM ASCITES ___ TotBili-1.7
+
+MICROBIOLOGY:
+___ 11:15 pm BLOOD CULTURE      Source: Venipuncture. 
+                  **FINAL REPORT ___
+Blood Culture, Routine (Final ___: 
+      ___. 
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus, yeast or other 
+fungi. 
+         FINAL SENSITIVITIES.  Yeast Susceptibility:. 
+         Fluconazole MIC OF 8 MCG/ML = 
+SUSCEPTIBLE-DOSE-DEPENDENT. 
+         Caspofungin MIC OF 0.03 MCG/ML = SUSCEPTIBLE. 
+         Antifungal agents reported without interpretation lack 
+established
+         CLSI guidelines.  Results were read after 24 hours of 
+incubation. 
+         Sensitivity testing performed by Sensititre. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      YEAST(S). 
+      Reported to and read back by ___ @ ___ ON ___. 
+
+
+___ 1:42 pm URINE      Source: ___. 
+                    **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      KLEBSIELLA PNEUMONIAE.    10,000-100,000 CFU/mL. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+___ 10:07 am PERITONEAL FLUID
+                 **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      4+   (>10 per 1000X FIELD):   BUDDING YEAST. 
+      3+  ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+
+   FLUID CULTURE (Final ___: 
+      ENTEROBACTER CLOACAE COMPLEX.    MODERATE GROWTH. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+         Piperacillin/Tazobactam sensitivity testing performed 
+by ___
+         ___. 
+      YEAST.    SPARSE GROWTH. 
+      MIXED BACTERIAL FLORA. 
+         This culture contains mixed bacterial types (>=3) so an
+         abbreviated workup is performed. Any growth of 
+P.aeruginosa,
+         S.aureus and beta hemolytic streptococci will be 
+reported. IF
+         THESE BACTERIA ARE NOT REPORTED, THEY ARE NOT PRESENT 
+in this
+         culture. 
+         Work-up of organism(s) listed discontinued (excepted 
+screened
+         organisms) due to the presence of mixed bacterial flora 
+detected
+         after further incubation. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROBACTER CLOACAE COMPLEX
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       I
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+RADIOLOGY:
+___ CT ABD:
+IMPRESSION: 
+1. Status post Whipple procedure, with heterogeneous hypodense 
+areas 
+throughout the left lobe of the liver and in segment 5 
+concerning for 
+necrosis. 
+2. Small pockets of fluid posterior to the gastrojejunostomy and 
+
+hepaticojejunostomy, however no organized collection is noted. 
+3. Mildly enlarged upper abdominal lymph nodes are mildly more 
+prominent 
+compared to prior. 
+4. Limited evaluation of the lung bases shows small left pleural 
+effusion.
+
+___ RUE DOPPLER:
+IMPRESSION:  
+1.  Occlusive thrombus of the right axillary vein. 
+2.  Nonocclusive thrombi in the right subclavian and basilic 
+veins. 
+3.  No organized fluid collection in the area of concern by the 
+patient in the right ventral forearm where there is bruising. 
+ 
+___ ECHO:
+Conclusions   
+The left atrium is mildly dilated. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. No masses or 
+vegetations are seen on the aortic valve, but cannot be fully 
+excluded due to suboptimal image quality. Trace aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. No mass or vegetation is seen on the mitral valve. 
+Trivial mitral regurgitation is seen. The pulmonary artery 
+systolic pressure could not be determined. There is no 
+pericardial effusion. 
+IMPRESSION: No valvular vegetations or clinically-significant 
+valvular disease seen. Normal global and regional biventricular 
+systolic function. 
+
+___ CT ABD:
+IMPRESSION: 
+1. Status post Whipple's procedure.  The position of the 
+pancreatic duct stent has moved with the proximal tip noted just 
+outside the main pancreatic duct.  Surrounding this, there are 
+pockets of air without significant fluid collection. 
+2. Fluid collection posterior to the hepaticojejunostomy appears 
+more 
+loculated with mild rim enhancement but does not demonstrate 
+internal pockets of air.  This may represent a seroma or 
+developing abscess. 
+3. Rim enhancing fluid collection in the right hemiabdomen, 
+intimately 
+associated with the terminal ileum, demonstrates internal 
+pockets of air and is suggestive of an abscess. 
+4. Free fluid noted in the left hemiabdomen does not demonstrate 
+loculation, rim enhancement or pockets of air to suggest 
+abscess. 
+5. Multiple enlarged periportal and retroperitoneal lymph nodes 
+are unchanged. 
+6. Heterogeneous enhancement of the left lobe of the liver is 
+again noted and consistent with hepatic necrosis. 
+7. Enlarging left pleural effusion.  New small right pleural 
+effusion.
+
+___ BILATERAL ___ DOPPLER:
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+
+ 
+
+ 
+Brief Hospital Course:
+The patient with duodenal mass was admitted to the Surgical 
+Oncology Service for elective ___ procedure. On ___, the 
+patient underwent standard pancreaticoduodenectomy with 
+antecolic gastrojejunostomy, which went well (please see the 
+Operative Note for details). Post operative lactate was 8, 
+patient was transferred in ICU intubated on Neo gtt. Post op 
+labs were noticeable for high LFTs and decreased HCT. On POD 2, 
+patient was febrile to 102, LFTs continued to climb, patient was 
+extubated. On POD 3, patient remained febrile, fever work up, 
+LFTs started to downward. Patient's epidural was discontinued 
+secondary to fever, patient was started on dilaudid PCA, Foley 
+was discontinued. On POD 4, Foley was replaced secondary to 
+acute urinary retention. Patient's diet was advanced to sips of 
+clears. On POD 5, patient's diet was advanced to clears, she was 
+transferred to the floor. On POD 6, patient's diet was advanced 
+to regular, Foley was discontinued and patient voided. 
+On POD 7, patient was noticed to have elevated WBC, tachicardic 
+with maximum temperature 102.8. Patient was pan cultures. She 
+underwent CT abdomen, which demonstrated hepatic necrosis, 
+hepaticojejunostomy and gastrojejunostomy fluid collections. 
+Patient was started on Zosyn, drain amylase was 6. 
+On POD 8, patient developed acute onset of abdominal pain with 
+tachycardia. Patient was transferred in ICU, started on 
+Meropenem, Fluconazole. Ucx came back positive for Klebsiella 
+and yeast. Drain output increased, JP amylase ___ concerning 
+for pancreatic fistula. Fluconazole was changed to Micofungin 
+per ID. Patient was transfused with 1 unit of pRBC for HCT 21.7. 
+ 
+On POD 9, blood cultures from ___ positive for yeast. Patient 
+was started on Octreotide secondary to increased drain output. 
+Diet was advanced to sips, PICC line was placed and patient was 
+started on TPN. Patient was transferred to the floor. 
+On POD 10, Peritoneal fluid was positive for Enterobacter 
+cloacae, antibiotics changed to Cefepime, Flagyl and Fluconazole 
+per ID.  
+On POD 11, patient was found swollen RUE. US revealed DVT. 
+Patient PICC was removed, Heparin gtt was started, PPN was 
+started. 
+On POD 12, patient's diet was advanced to regular diabetic, 
+staples were removed.
+On POD 13, patient was noticed purulent leak from incision, 
+bottom part of the wound was opened and packed with dry gauze 
+dressing. Patient underwent abdominal CT, which demonstrated 
+right hemiabdomen rim enhancing fluid collection, loculated 
+hepatojejunostomy fluid, and left liver lobe necrosis (please 
+see radiology report for details). Right arm PICC line was 
+placed, TPN was restarted. 
+On POD 14, ___ was consulted for possible drainage of 
+intraabdominal fluid collection, which was feasible. Drainage 
+was postponed as patient was clinically stable. Heparin gtt was 
+discontinued, and therapeutic Lovenox was started. Wound opening 
+was extended for better drainage. Cardioechogram and 
+ophthalmology exam were negative for valvular vegetations or 
+fungal endophthalmitis.
+On POD 15, patient's diet was advanced to regular.
+On POD 16, patient tolerated regular diabetic diet, remained 
+afebrile with WBC slightly elevated. Patient was screened for 
+rehabilitation. 
+On POD 17, continued to do well, insulin was adjusted for better 
+glycemic control.
+On POD 18, patient's TPN was weaned off. 
+On POD 19, wound VAC was placed instead of packing. 
+On POD 20, wound VAC was malfunctioned secondary to thick 
+output, VAC was changed back to dry dressing. Cefepime was 
+changed to Cipro PO, PICC line was discontinued. Patient was 
+discharged in rehabilitation in stable condition.     
+By the systems:
+Neuro: Required minimal pain medications
+CV: Tachycardia improved, patient in NSR
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirrometry were 
+encouraged throughout hospitalization. CXR revealed left 
+pulmonary effusion, home HCTZ restarted. 
+GI: Patient tolerates regular diet, she continued on TPN. TPN 
+can be weaned off if patient tolerates adequate PO intake. 
+Continued on SC Octreotide. 
+ID: On Cipro, Flagyl and Fluconazole for ___ fungemia, 
+intraabdominal Enterobacter infection. Anticipated stop day 
+___, ID will follow. 
+Endocrine: Patient was followed by ___ and insulin 
+dose was adjusted as needed. 
+Hematology: Received one unit of RBC for anemia of chronic 
+disease. HCT remained stablelow, no further transfusions were 
+required. On Lovenox x ___VT.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Glargine 22 Units Bedtime
+3. MetFORMIN (Glucophage) 500 mg PO QID 
+4. Omeprazole 40 mg PO BID 
+5. Simvastatin 20 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q8H 
+do not exceed more then 3000 mg/day  
+2.  CefePIME 2 g IV Q12H 
+Infectious Diseases will determine duration of this medication   
+ 
+3.  Ciprofloxacin HCl 500 mg PO Q12H 
+anticipated last day of this medication ___  
+4.  Enoxaparin Sodium 100 mg SC Q12H 
+duration 3 months  
+5.  Fluconazole 600 mg PO Q24H 
+anticipated end day ___  
+6.  Glucose Gel 15 g PO PRN hypoglycemia protocol  
+7.  Metoclopramide 10 mg PO QIDACHS  
+8.  MetroNIDAZOLE 500 mg PO Q8H 
+anticipated end day ___  
+9.  Octreotide Acetate 100 mcg SC Q8H  
+10.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
+ 
+11.  TraZODone 50 mg PO QHS insomnia   
+12.  Glargine 20 Units Bedtime
+Humalog 5 Units Breakfast
+Humalog 5 Units Lunch
+Humalog 5 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin 
+13.  Hydrochlorothiazide 50 mg PO DAILY  
+14.  Omeprazole 40 mg PO BID  
+15.  Simvastatin 20 mg PO QPM  
+16. HELD- MetFORMIN (Glucophage) 500 mg PO QID  This medication 
+was held. Do not restart MetFORMIN (Glucophage) until follow up 
+with PCP
+
+ 
+___:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Duodenal adenocarcinoma
+2. Fungemia
+3. Inraabdominal abscess 
+4. Right upper extremity DVT 
+5. Pancreatic fistula 
+6. Poor controlled diabetes
+7. Urinary tract infection
+8. Post operative liver injury 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the surgery service at ___ for surgical 
+resection of your duodenal mass. You underwent Whipple 
+procedure, which was complicated by liver injury required 
+admission in ICU. Your recovery was complicated by pancreatic 
+fistula, fungemia, wound infection and intraabdominal abscess. 
+You were started on TPN for nutrition, and long term 
+antibiotics. You are now safe to be discharged in rehabilitation 
+to complete your recovery with the following instructions:
+.
+Please call Dr. ___ office at ___ if you have any 
+questions or concerns. 
+.
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication.  Also, please take 
+any new medications as prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+.
+Incision Care:
+*Please change dressing three time a day.
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+.
+JP Drain Care:
+*Please look at the site every day for signs of infection 
+(increased redness or pain, swelling, odor, yellow or bloody 
+discharge, warm to touch, fever).
+*Maintain suction of the bulb.
+*Note color, consistency, and amount of fluid in the drain.  
+Call the doctor, ___, or ___ nurse if the amount 
+increases significantly or changes in character.
+*Be sure to empty the drain frequently.  Record the output, if 
+instructed to do so.
+*You may shower; wash the area gently with warm, soapy water.
+*Keep the insertion site clean and dry otherwise.
+*Avoid swimming, baths, hot tubs; do not submerge yourself in 
+water.
+*Make sure to keep the drain attached securely to your body to 
+prevent pulling or dislocation.
+
+ 
+ 
+ 
+ 
+ 
+Followup Instructions:
+___

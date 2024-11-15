@@ -1,0 +1,365 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins / Levaquin / Doxycycline / Reglan / amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Achalasia & hiatal hernia
+ 
+Major Surgical or Invasive Procedure:
+laparoscopic ___ myotomy and hernia repair and revision 
+hiatal hernia repair
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a history of reflux-type
+symptoms who has been having intermittent episodes of dysphagia
+as well as pain in her chest who was seen by Dr. ___ ___
+years ago when we did think she indeed had esophageal 
+dysmotility
+proven with a upper GI swallow study, but did not think it was a
+true achalasia at the time. It was also uncertain whether her
+symptoms were from her moderate-sized hiatal hernia and thus was
+treated nonoperatively. However, she reports that her symptoms
+have become more severe since ___ in which she no longer
+could keep fluids down and having coughing episodes especially 
+at
+nighttime when she is in recumbent position. On ___, her
+repeat motility study had shown that there now was poor
+esophageal peristaltic reserve in the esophageal body with 
+normal
+___ pressure and failure of ___ (Type II
+achalasia). She comes to us in clinic today with a slight
+different complaint of not being able to keep down pills for
+months at night. She was recently hospitalized for pneumonia at
+___ and ___ bronchiectasis and still resolving R lobe
+pneumonia on CT on ___. Pulmonologist thinks this is
+aspiration, and she has complained for months of nocturnal
+vomiting, not keeping down pills for months before these other
+episodes. She has received a GI botox injection on ___ 
+and
+more recently on ___ and reports that her symptoms improve
+for a few months and return to baseline. She complains of
+epigastric pain and discomfort after she eats and frequently
+coughs up or throws up her food after consumption. She is 
+seeking
+a surgical option for her discomforts now. Otherwise, she is
+feeling well and has no other complaints. Now that
+her symptoms have exacerbated and indeed has achalasia, it seems
+that it is time for her to get surgery. Due to the fact that she
+not only has achalasia, but a hiatal hernia, we believed that it
+would be more ideal for her to get ___ myotomy with 
+possibly
+Toupet and hiatal hernia repair at the same time as opposed to a
+balloon dilatation alone. She agreed and wished to proceed with 
+surgery.
+
+ 
+Past Medical History:
+Depression  
+___ esophagus  
+Achalasia
+GERD
+Restless leg syndrome
+History of abnormal LFTs  
+Axillary granula parakeratosis  
+Hx eosinophilia  
+Back pain  
+Seasonal allergies  
+Insomnia  
+HLD  
+Asthma
+
+ 
+Social History:
+___
+Family History:
+- Mother and aunt with DM, HTN
+- Mother and maternal grandmother with gastric cancer
+ 
+Physical Exam:
+ VS: Temp 98.2 HR 88 BP 110/64 RR 22 SpO2 96%RA
+ Gen: well appearing female, NAD  
+ HEENT: no lymphadenopathy, moist mucous membranes  
+ Lungs: CTAB  
+ Heart: rrr  
+ Abd: soft, nt, nd  
+ Incisions: cdi  
+ Extremities: wwp  
+ 
+Pertinent Results:
+___ 05:15AM BLOOD WBC-8.0 RBC-3.74* Hgb-10.1* Hct-33.8* 
+MCV-90 MCH-27.0 MCHC-29.9* RDW-14.5 RDWSD-46.7* Plt ___
+___ 05:45AM BLOOD WBC-12.8* RBC-3.76* Hgb-10.2* Hct-32.4* 
+MCV-86 MCH-27.1 MCHC-31.5* RDW-14.0 RDWSD-43.3 Plt ___
+___ 12:46PM BLOOD WBC-10.2*# RBC-3.71* Hgb-10.1* Hct-32.1* 
+MCV-87 MCH-27.2 MCHC-31.5* RDW-13.7 RDWSD-42.5 Plt ___
+___ 05:32AM BLOOD WBC-5.6 RBC-3.55* Hgb-9.7* Hct-30.6* 
+MCV-86 MCH-27.3 MCHC-31.7* RDW-13.6 RDWSD-42.3 Plt ___
+___ 09:08AM BLOOD WBC-9.4 RBC-3.49* Hgb-9.6* Hct-30.4* 
+MCV-87 MCH-27.5 MCHC-31.6* RDW-13.7 RDWSD-43.1 Plt ___
+___ 05:32AM BLOOD ___ PTT-29.5 ___
+___ 05:15AM BLOOD Glucose-119* UreaN-7 Creat-0.7 Na-136 
+K-5.2* Cl-99 HCO3-23 AnGap-19
+___ 05:45AM BLOOD Glucose-122* UreaN-10 Creat-0.8 Na-133 
+K-4.3 Cl-96 HCO3-24 AnGap-17
+___ 12:46PM BLOOD Glucose-112* UreaN-9 Creat-0.8 Na-139 
+K-4.1 Cl-103 HCO3-25 AnGap-15
+___ 05:32AM BLOOD Glucose-97 UreaN-8 Creat-0.6 Na-138 K-4.3 
+Cl-101 HCO3-24 AnGap-17
+___ 09:08AM BLOOD Glucose-92 UreaN-13 Creat-0.8 Na-139 
+K-3.8 Cl-101 HCO3-27 AnGap-15
+___ 05:15AM BLOOD Calcium-8.3* Phos-2.8 Mg-2.6
+___ 05:45AM BLOOD Calcium-8.2* Phos-4.6* Mg-1.8
+___ 12:46PM BLOOD Calcium-8.4 Phos-4.6* Mg-1.9
+___ 05:32AM BLOOD Calcium-8.4 Phos-4.5 Mg-2.0
+___ 09:08AM BLOOD Calcium-8.4 Phos-3.1 Mg-2.0
+ 
+Brief Hospital Course:
+___ presented to pre-op holding at ___ on ___ a 
+___ myotomy and hiatal hernia repair. She tolerated the 
+procedure well without complications (Please see operative note 
+for further details). After a brief and uneventful stay in the 
+PACU, the patient was transferred to the floor for further 
+post-operative management. On POD3, the patient continued to 
+have some dysphagia, which was confirmed with a upper GI 
+fluoroscopy study that showed no narrowing but slow passage of 
+contrast. The decision was made to take her back to the OR for a 
+revision of the hiatal hernia. (Please read operative note for 
+further details).  A portion of fundus had reherniated above the 
+diaphragm, which was reduced and the crura closed more tightly. 
+ Neuro: Pain was well controlled on a dilaudid PCA which was 
+subsequently switched to po pain meds that included ibuprofen 
+suspension, oxycodone, and Tylenol.
+ CV: Vital signs were routinely monitored during the patient's 
+length of stay. 
+ Pulm: The patient was encouraged to ambulate, sit and get out 
+of bed, use the incentive spirometer, and had oxygen saturation 
+levels monitored as indicated.  
+ GI: The patient was initially kept NPO after the procedure. The 
+patient was later advanced to a regular diet on POD2, but she 
+continued to have difficulty swallowing and so was taken back to 
+the OR for a revision of her hiatal hernia. POD1 from the second 
+procedure, she was advanced to clears and regular diet and 
+tolerated a regular diet at time of discharge. She was to not 
+consume chips or bread during the hospital stay and at least 
+until her next follow-up appointment.
+ GU: Patient had a Foley catheter that was removed on POD1 for 
+both of her procedures. For her first procedure, she failed to 
+void after she was straight cathed onced and had a foley in. 
+This foley was kept in until her next procedure and was pulled 
+on POD1. She failed again to void but was ultimately able to 
+void spontaneously after one straight cath. Urine output was 
+monitored as indicated.
+ ID: The patient's vital signs were monitored for signs of 
+infection and fever. There were none.
+ Heme: The patient had blood levels checked post operatively 
+during the hospital course to monitor for signs of bleeding. The 
+patient had vital signs, including heart rate and blood 
+pressure, monitored throughout the hospital stay.  
+ On ___, the patient was discharged to home/rehab/etc. At 
+discharge, he/she was tolerating a regular diet, passing flatus, 
+stooling, voiding, and ambulating independently.  He/She will 
+follow-up in the clinic in ___ weeks. This information was 
+communicated to the patient directly prior to discharge.  
+ Include in Brief Hospital Course for Every Patient and check of 
+boxes that apply:  
+ Post-Surgical Complications During Inpatient Admission:  
+ [ ] Post-Operative Ileus resolving w/o NGT  
+ [ ] Post-Operative Ileus requiring management with NGT  
+ [ ] UTI  
+ [ ] Wound Infection  
+ [ ] Anastomotic Leak  
+ [ ] Staple Line Bleed  
+ [ ] Congestive Heart failure  
+ [ ] ARF  
+ [ ] Acute Urinary retention, failure to void after Foley D/C'd  
+
+ [ ] Acute Urinary Retention requiring discharge with Foley 
+Catheter  
+ [ ] DVT  
+ [ ] Pneumonia  
+ [ ] Abscess 
+ [x] Dysphagia 
+ [ ] None  
+ Social Issues Causing a Delay in Discharge:  
+ [ ] Delay in organization of ___ services  
+ [ ] Difficulty finding appropriate rehab hospital disposition.  
+
+ [ ] Lack of insurance coverage for ___ services  
+ [ ] Lack of insurance coverage for prescribed medications.  
+ [ ] Family not agreeable to discharge plan.  
+ [ ] Patient knowledge deficit related to ileostomy delaying 
+dispo  
+ [x] No social factors contributing in delay of discharge.  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN coughing/wheezing 
+2. Diazepam 5 mg PO DAILY:PRN anxiety 
+3. DULoxetine 30 mg PO BID 
+4. eszopiclone 3 mg oral QHS 
+5. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+6. Mirtazapine 30 mg PO QHS 
+7. Montelukast 10 mg PO DAILY 
+8. Omeprazole 20 mg PO BID 
+9. Endocet (oxyCODONE-acetaminophen) ___ mg oral QID:PRN 
+10. PredniSONE 10 mg PO DAILY 
+11. Tiotropium Bromide 1 CAP IH DAILY 
+12. TraMADol 50-100 mg PO Q6H:PRN restless leg syndrome 
+13. OxyCODONE--Acetaminophen (5mg-325mg) 2 TAB PO Q6H:PRN Pain - 
+Moderate 
+14. Multivitamins 1 TAB PO DAILY 
+15. Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Ibuprofen Suspension 200-400 mg PO Q8H:PRN Pain - Moderate  
+4.  OxyCODONE (Immediate Release) ___ mg PO Q3H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q3H Disp #*40 Tablet 
+Refills:*0 
+5.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+6.  Senna 8.6 mg PO BID:PRN constipation  
+7.  Albuterol Inhaler ___ PUFF IH Q4H:PRN coughing/wheezing  
+8.  Diazepam 5 mg PO DAILY:PRN anxiety  
+9.  DULoxetine 30 mg PO BID  
+10.  eszopiclone 3 mg oral QHS  
+11.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+12.  Mirtazapine 30 mg PO QHS  
+13.  Montelukast 10 mg PO DAILY  
+14.  Multivitamins 1 TAB PO DAILY  
+15.  Omeprazole 20 mg PO BID  
+16.  PredniSONE 10 mg PO DAILY  
+17.  Tiotropium Bromide 1 CAP IH DAILY  
+18.  TraMADol 50-100 mg PO Q6H:PRN restless leg syndrome  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Achalasia & hiatal hernia
+Postoperative reherniation of stomach
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+It was a pleasure taking care of you here at ___ 
+___. You were admitted to our hospital for 
+surgery . You had a laparoscopic ___ myotomy and hernia 
+repair and then a revision hiatal hernia repair without 
+complications. You tolerated the procedure well and are 
+ambulating, stooling, tolerating a regular diet, and your pain 
+is controlled by pain medications by mouth. You are now ready to 
+be discharged to home. Please follow the recommendations below 
+to ensure a speedy and uneventful recovery. 
+
+ACTIVITY:
+- Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+- You may climb stairs. You should continue to walk several 
+times a day. 
+- You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit. 
+- You may start some light exercise when you feel comfortable. 
+Slowly increase your activity back to your baseline as 
+tolerated.
+- Heavy exercise may be started after 6 weeks, but use common 
+sense and go slowly at first. 
+- No heavy lifting (10 pounds or more) until cleared by your 
+surgeon, usually about 6 weeks. 
+
+HOW YOU MAY FEEL: 
+- You may feel weak or "washed out" for 6 weeks. You might want 
+to nap often. Simple tasks may exhaust you.
+- You may have a sore throat because of a tube that was in your 
+throat during the surgery.
+
+YOUR BOWELS:
+- Constipation is a common side effect of narcotic pain medicine 
+such as oxycodone. If needed, you may take a stool softener 
+(such as Colace, one capsule) or gentle laxative (such as milk 
+of magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+- If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon.
+- After some operations, diarrhea can occur. If you get 
+diarrhea, don't take anti-diarrhea medicines. Drink plenty of 
+fluids and see if it goes away. If it does not go away, or is 
+severe and you feel ill, please call your surgeon.
+
+PAIN MANAGEMENT:
+- You are being discharged with a prescription for **oxycodone 
+for pain control. You may take Tylenol as directed, not to 
+exceed 3000mg in 24 hours. Take regularly for a few days after 
+surgery but you may skip a dose or increase time between doses 
+if you are not having pain until you no longer need it. You may 
+take the oxycodone for moderate and severe pain not controlled 
+by the Tylenol. You may take a stool softener while on narcotics 
+to help prevent the constipation that they may cause. Slowly 
+wean off these medications as tolerated. 
+- Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+
+If you experience any of the following, please contact your 
+surgeon.
+- sharp pain or any severe pain that lasts several hours
+- chest pain, pressure, squeezing, or tightness
+- cough, shortness of breath, wheezing
+- pain that is getting worse over time or pain with fever
+- shaking chills, fever of more than 101
+- a drastic change in nature or quality of your pain
+- nausea and vomiting, inability to tolerate fluids, food, or 
+your medications
+- if you are getting dehydrated (dry mouth, rapid heart beat, 
+feeling dizzy or faint especially while standing)
+-any change in your symptoms or any symptoms that concern you
+
+MEDICATIONS:
+- Take all the medicines you were on before the operation just 
+as you did before, unless you have been told differently.
+- If you have any questions about what medicine to take or not 
+to take, please call your surgeon. 
+
+WOUND CARE: 
+- dressing removal:
+-You may shower with any bandage strips that may be covering 
+your wound. Do not scrub and do not soak or swim, and pat the 
+incision dry. If you have steri strips, they will fall off by 
+themselves in ___ weeks. If any are still on in two weeks and 
+the edges are curling up, you may carefully peel them off. 
+ Do not take baths, soak, or swim for 6 weeks after surgery 
+unless told otherwise by your surgical team. 
+-Notify your surgeon is you notice abnormal (foul smelling, 
+bloody, pus, etc) or increased drainage from your incision site, 
+opening of your incision, or increased pain or bruising. Watch 
+for signs of infection such as redness, streaking of your skin, 
+swelling, increased pain, or increased drainage. 
+
+Please call with any questions or concerns. Thank you for 
+allowing us to participate in your care. We hope you have a 
+quick return to your usual life and activities. 
+
+-- Your ___ Care Team
+
+ 
+Followup Instructions:
+___

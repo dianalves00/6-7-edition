@@ -1,0 +1,230 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ Elective admit for TACE
+ 
+Major Surgical or Invasive Procedure:
+s/p elective chemoembolization of hepatic mass ___
+
+ 
+History of Present Illness:
+___ with a history of HBV cirrhosis complicated by development 
+of ___ who was electively admitted for TACE today. His R femoral 
+artery was punctured but unfortunately his hepatic artery was 
+not able to be accessed. His arterial sheath was pulled at 3pm 
+and he was sent to the floor for further management. 
+.
+On the floor he was seen with his wife. He denies any pain, 
+tingling in his leg, ___ edema or numbness or any other 
+complaints. The interview was limited by a significant language 
+barrier. 
+.  
+Review of Systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies chest pain or tightness, palpitations. Denies 
+cough, shortness of breath, or wheezes. Denies nausea, vomiting, 
+diarrhea, constipation or abdominal pain. No recent change in 
+bowel or bladder habits. No dysuria. Denies arthralgias or 
+myalgias. Denies rashes or skin breakdown. No numbness/tingling 
+in extremities. No feelings of depression or anxiety. All other 
+review of systems negative. 
+ 
+Past Medical History:
+Past Oncologic History:
+- HCC: History of hepatitis B and was found to have a right 
+hepatic lobe tumor in ___, when he presented to his 
+primary care physician while living in ___ at that time for a 
+routine check up.  He was found to have abnormal liver function 
+tests, which prompted a liver ultrasound, revealing the tumor. 
+On ___, when he was seen in your clinic, he did have a CT 
+scan of the torso, which confirmed the presence of a large 
+ill-defined heterogeneous enhancing mass within the entire 
+posterior segment of the right hepatic lobe with portal vein 
+thrombosis with probable tumor thrombus within the portal vein.  
+There was complete occlusion of the right portal vein, but the 
+left portal vein was patent.  There was no evidence of any
+metastatic disease at the time of that imaging study.  He 
+therefore went for surgery on ___ and he had a right 
+hepatic lobectomy with cholecystectomy and intraoperative 
+ultrasound.  The  intraoperative ultrasound revealed no lesions 
+in the left lobe of the liver. The pathology from that tumor 
+resection revealed hepatocellular carcinoma within the mass of 
+the right lobe of the liver.  The tumor was 11 cm in greatest 
+dimension.  There were numerous smaller nodules besides the 
+dominant mass.  The primary tumor was deemed to be a T3 lesion.  
+There were two lymph nodes examined and they were uninvolved by 
+tumor.  The margins were uninvolved by invasive carcinoma.  
+There was, however, extensive large
+vessel invasion present.
+.
+Treatment history:
+- Unsuccessful TACE due to inbility to access the hepatic artery
+.
+Other Past Medical History:  
+- HTN
+- HBV cirrhosis
+ 
+Social History:
+___
+Family History:
+Father died at age ___ of natural causes, mother died in her ___ 
+of HBV, sister died at age ___ of cancer, unknown. Younger 
+brother has hepatitis
+ 
+Physical Exam:
+Physical Exam:  
+GEN:  NAD
+VS:  96.7  116/80  47  18  97% on RA
+HEENT:  Dry MM, no OP lesions, no cervical, supraclavicular, or 
+axillary LAD
+CV:  RR, bradycardic, NL S1S2 no S3S4 MRG
+PULM:  CTAB anteriorly
+ABD:  BS+, soft, NTND, no masses or HSM
+LIMBS:  Pulses 2+ bilaterally at the radial, femoral, and DP 
+arteries, no bruits of the R femoral puncture site, no hematoma
+SKIN:  No rashes or skin breakdown
+NEURO:  Grossly nonfocal
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 07:35AM BLOOD WBC-6.2 RBC-4.85 Hgb-14.9 Hct-43.6 MCV-90 
+MCH-30.7 MCHC-34.1 RDW-13.9 Plt ___
+___ 07:35AM BLOOD ___ PTT-30.8 ___
+___ 07:35AM BLOOD UreaN-12 Creat-0.9 K-4.0
+___ 07:35AM BLOOD AST-44* AlkPhos-88 TotBili-0.6
+___ 07:35AM BLOOD Albumin-4.2 Calcium-9.1
+___ 07:35AM BLOOD AFP-2.5
+
+DISCHARGE LABS:
+
+___ 05:45AM BLOOD WBC-5.5 RBC-4.15* Hgb-12.6* Hct-36.6* 
+MCV-88 MCH-30.3 MCHC-34.4 RDW-13.3 Plt ___
+___ 05:45AM BLOOD Plt ___
+___ 05:45AM BLOOD Glucose-100 UreaN-11 Creat-0.8 Na-141 
+K-3.3 Cl-103 HCO3-32 AnGap-9
+___ 05:45AM BLOOD ALT-124* AST-92* LD(LDH)-262* AlkPhos-84 
+TotBili-0.7
+___ 05:45AM BLOOD Albumin-3.4* Calcium-8.6 Phos-3.7 Mg-2.1
+
+RADIOLOGY PROCEDURE REPORT on ___:
+FINDINGS:
+1. SMA arteriography demonstrates a patent portal vein.
+2. Aside from expected findings after right hepatic lobectomy, 
+there is
+conventional arterial anatomy, with the common and left hepatic 
+artery arising
+from the celiac axis.
+3. Celiac angiography demonstrates six to seven focal 
+hyper-enhancing nodules
+within segments II/III. There is a smaller arterial enhancing 
+nodule within
+segment ___.
+4. Markedly tortuous anatomy of the target branch feeding 
+segments II/III,
+which encompasses the majority of the arterial enhancing nodules 
+seen.
+ 
+IMPRESSION: Unsuccessful subselective chemoembolization of the 
+dominant
+tertiary left hepatic artery branch supplying ___ arterial 
+enhancing tumor
+nodules within Segments II/III due to difficult arterial 
+anatomy. The patient
+will return in 1 week for a repeat procedure. 
+
+CXRAY ON ___:
+FINDINGS: As compared to the previous radiograph, there is a 
+substantial
+improvement with complete resolution of the pre-existing right 
+pleural
+effusion. The transparency of the lung parenchyma is 
+unremarkable, no
+evidence of focal parenchymal opacities suggesting pneumonia, no 
+pulmonary
+nodules. Normal size of the cardiac silhouette, mild tortuosity 
+of the
+thoracic aorta. 
+ 
+Brief Hospital Course:
+___ with a history of HBV cirrhosis complicated by ___ admitted 
+for elective TACE which was unfortunately technically limited. 
+He is otherwise well. 
+.
+# ___: S/p attempt at TACE, but the hepatic artery was not 
+accessible. Procedure had no complications. Post catheter check 
+was WNL. He is moving without difficulty and the site has small 
+drsg that C/D/I, no femeral bruit, +2 pulses of bil ___. Post 
+cath hydration with 150 mEq Sodium Bicarbonate/ 1000 mL D5W, 
+continuous at 150 ml/hr for 1000 ml. Electrolytes and creatine 
+WNL this AM
+- Continue home Tenofovir Disoproxil (Viread) 300 mg PO DAILY  
+.
+# HTN: Well controlled.
+- Conitnue home Triamterene-Hydrochlorothiazide 1 CAP PO DAILY  
+.
+# FEN: Regular diet tolerating well, replete electrolytes PRN
+# PPx: Pain control with tylenol, bowel regimen, DVT PPx with 
+heparin SQ  
+# Comm: With patient  and wife
+ 
+___ on ___:
+TENOFOVIR DISOPROXIL FUMARATE [VIREAD] - 300 mg Tablet - 1
+Tablet(s) by mouth daily
+TRIAMTERENE-HYDROCHLOROTHIAZID -  (Prescribed by Other Provider)
+- 37.5 mg-25 mg Tablet - 1 Tablet(s) by mouth once a day
+ 
+Discharge Medications:
+1. Tenofovir Disoproxil Fumarate 300 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+2. Triamterene-Hydrochlorothiazid 37.5-25 mg Capsule Sig: One 
+(1) Cap PO DAILY (Daily).  
+3. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+s/p unsuccessful elective chemoembolization of hepatic mass 
+
+ 
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+ 
+Discharge Instructions:
+You were admitted to the ___ for chemoembolization of your 
+liver mass. Unfortunately, the your liver artery was not able to 
+be access. You tolerated the procedure well and had no 
+complications.
+
+It is okay to remove your right groin dressing tomorrow. You 
+should not lift more than 10lbs for 1 next week.
+
+We have made no changes to your medications. You should take 
+stool softners,  such as colace and senna 1 tablet twice daily 
+if needed for constipation. You will need to follow-up with your 
+oncologist as listed below. 
+ 
+Followup Instructions:
+___

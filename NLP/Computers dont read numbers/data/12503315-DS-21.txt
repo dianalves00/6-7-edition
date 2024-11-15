@@ -1,0 +1,484 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hypoxia  
+
+ 
+Major Surgical or Invasive Procedure:
+Chest Tube Placement x 2
+
+ 
+History of Present Illness:
+___ with PMH significant for metastatic adenocarcinoma with 
+unknown primary who presents with hypoxia. The patient had a 
+___ on ___ with 1.5L drained, analysis then showed exuddative 
+effusion with maligiant cells. 
+-admitted to ___ on ___ following  pleural biopsy, chest tube 
+placement, and pleurX. Biopsy grew metastatic adenocarcinoma of 
+unknown primary.
+-Over the following week had less drainage and pleurex was 
+removed on ___. 
+-The patient presents with 2 weeks of worsening shortness of 
+breath and productive cough. She denies fevers and chills.  
+
+In the ED, initial vitals: ___ RR38 79% NC. The patient 
+appeared anxious and was unable to speak in full sentences. 
+-placed on facemask but due to tachypnea and discomfort--> 
+BIPAP.  
+-Labs were unremarkable. 
+-CXR showed near white out of the Rt lung field and new LLL 
+opacity.
+-ultrasound showed minimal pleural effusion, no pericardial 
+effusion. 
+-CTA chest showed a loculated nonhemorrhagic right pleural 
+effusion and small left pleural effusion. There was occlusion of 
+the bronchus intermedius with collapse of the right middle and 
+lower lobes. 
+-IP was consulted and 2 chest tubes were placed (right and 
+left). The patient was transferred to the MICU for further 
+management. On transfer, vitals were: 99.0 96  24 97% BIPAP.   
+
+On arrival to the MICU, the patient reported feeling comfortable 
+but throughout the course of the night her SOB worsened. IP 
+infused DNAase in left chest tube and clamped at 0300. By 0500 
+she was very dyspnic with frothy pink secretion and was no 
+longer able to tolerate BIPAP. Placed on NR. Opened Left pigtail 
+and gave 2 IV morphine.  
+
+ 
+Past Medical History:
+1. Metastatic adenocarcinoma, unknown primary:
+- Presented with dyspnea. Thoracentesis in ___ showed 
+exudative process. 
+- S/p medical thoracoscopy with pleural biopsy and pleurex 
+catheter placement on ___. Talc pleurodesis unable due to 
+trapped lung.
+- Pleural biopsy: metastatic adenocarcinoma: The tumor has an 
+epithelioid morphology with an infiltrative solid and cribriform 
+growth pattern,and benign-appearing mesothelial cells are lining 
+the overlying pleural surface. The tumor cell morphology and 
+immunohistochemical staining profile is somewhat non-specific as 
+to primary site. The differential diagnosis would include upper 
+GI or pancreaticobiliary
+2. Mitral valve prolapse  
+3. Psoriasis  
+4. Hypertension  
+5. Dyslipidemia  
+
+ 
+Social History:
+___
+Family History:
+Father: heart disease, prostate cancer, diabetes  
+Mother: breast cancer
+ 
+Physical Exam:
+Admission physical exam:
+Vitals: T: BP: P: R: 18 O2:  
+GENERAL: Alert, oriented, appears fatigued.
+HEENT: Sclera anicteric, unable to assess 
+NECK: supple, JVP not elevated.
+LUNGS: Course, rhonchorous breath sounds bilaterally; decreased 
+on the right lower and middle lobes. 
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: +BS, soft, nondistended, nontender to palpation.
+EXT: Warm, well perfused, 2+ pulses, no edema.  
+NEURO: Appears fatigued but awakens to voice. A+Ox3.
+
+Discharge physical exam:
+T 97.9  ___   18   96 on 5L. 
+General: Patient laying in bed, no acute distress. Soft spoken, 
+flat affect. 
+HEENT: JVP not elevated, no cervical LAD
+Lungs: 2 chest tubes in place in back bilaterally, clamped. 
+Crackles heard at the lower left lung field. 
+CV: RRR, S1, S2. No extra sounds heard. 
+Abdomen: Soft, NT/ND. BS+.
+Extremities: well perfused, no ___ edema bilaterally. 
+
+ 
+Pertinent Results:
+Admission labs:
+===================
+___ 04:20PM BLOOD WBC-9.6 RBC-4.01* Hgb-12.5 Hct-36.2 
+MCV-90 MCH-31.3 MCHC-34.7 RDW-13.0 Plt ___
+___ 04:20PM BLOOD ___ PTT-31.7 ___
+___ 04:20PM BLOOD Glucose-99 UreaN-14 Creat-0.6 Na-137 
+K-4.2 Cl-102 HCO3-25 AnGap-14
+___ 04:20PM BLOOD ALT-40 AST-42* AlkPhos-78 TotBili-0.2
+___ 04:15AM BLOOD Calcium-8.4 Phos-5.7* Mg-2.2
+___ 12:40AM BLOOD Type-ART pO2-101 pCO2-49* pH-7.35 
+calTCO2-28 Base XS-0
+___ 12:40AM BLOOD O2 Sat-96
+
+Discharge labs:
+===================
+___ 05:00AM BLOOD WBC-11.3* RBC-3.68* Hgb-11.5* Hct-33.3* 
+MCV-91 MCH-31.4 MCHC-34.6 RDW-13.3 Plt ___
+___ 05:00AM BLOOD Glucose-94 UreaN-24* Creat-0.9 Na-137 
+K-4.2 Cl-96 HCO3-29 AnGap-16
+
+Imaging:
+===================
+___: As compared to the previous radiograph, no relevant 
+change is seen.  The bilateral chest tubes are in unchanged 
+position.  Unchanged extent of the large right loculated fluid 
+collection.  On the left, the lung basis is better ventilated 
+than on the previous image.  No evidence of pneumothorax.  Air 
+collection in the right cervical soft tissues. 
+.
+___ CTA: 
+The aorta and its major branch vessels are patent, with no 
+evidence of 
+stenosis, occlusion, dissection, or aneurysmal formation. There 
+is no evidence of penetrating atherosclerotic ulcer or aortic 
+arch atheroma present. 
+  
+Evaluation of the pulmonary arteries is limited by respiratory 
+motion 
+artifact.  No filling defect in the main and lobar pulmonary 
+arteries. 
+No axillary or prevascular lymphadenopathy.  Enhancing soft 
+tissue in the 
+subcarinal region (02:49) is concerning for lymphadenopathy.  
+Additionally, in the right hilus, increased soft tissue fluid 
+represent lymphadenopathy. There is a large multi-loculated 
+right pleural effusion, and a small left pleural effusion. Left 
+mainstem, left upper and lower lobe bronchi are patent.  The 
+right upper lobe bronchus is patent, however after the takeoff 
+of the right upper lobe bronchus, there is occlusion of the 
+bronchus intermedius, with collapse of the right middle and 
+lower lobes. In the aerated portion of the right upper lobe, 
+there is peribronchovascular consolidation and ground-glass 
+opacity which could represent pneumonia.  Given the history of 
+malignant cells in the pleural effusion, this raises the concern 
+for lymphangitic spread of tumor.  Hypoattenuating right middle 
+and lower lobe consolidation is concerning for tumor or 
+infection.  Additionally, hypoattenuating left lung base raises 
+the concern for tumoral involvement and/or infection. This exam 
+is not tailored for evaluation of the subdiaphragmatic regions, 
+which are minimally included. No concerning osseous lesions. 
+
+IMPRESSION:  
+1.  No definite evidence of pulmonary embolism allowing for 
+respiratory motion artifact. 
+2.  Multiloculated nonhemorrhagic right pleural effusion and 
+small left 
+pleural effusion. 
+3.  Occlusion of the bronchus intermedius with collapse of the 
+right middle and lower lobes. 
+4.  Bibasilar pulmonary consolidation which is hypoattenuating, 
+concerning for infection/tumoral involvement. 
+.
+___ Imaging ABDOMEN US (COMPLETE ST: 
+Final Report 
+EXAMINATION:  ABDOMEN US (COMPLETE STUDY) 
+  
+INDICATION:  ___ year old woman with metastatic adenocarcinoma 
+diagnosed by 
+pleural biopsy. Path suggestive of GI primary.  // eval for mass 
+
+  
+TECHNIQUE:  Grey scale and color Doppler ultrasound images of 
+the abdomen were 
+obtained. 
+  
+COMPARISON:  CTA of the chest dated ___. 
+  
+FINDINGS:  
+  
+LIVER: The hepatic parenchyma appears within normal limits. The 
+contour of the liver is smooth. There is a 1.8 x 1 x 2 cm 
+hyperechoic irregular area adjacent to the common bile duct. The 
+main portal vein is patent with hepatopetal flow. There is a 
+small amount of ascites. 
+BILE DUCTS: There is no intrahepatic biliary dilation. The CBD 
+measures 4 mm. 
+GALLBLADDER: There is no evidence of stones or gallbladder wall 
+thickening.   
+PANCREAS: Imaged portion of the pancreas appears within normal 
+limits, without masses or pancreatic ductal dilation, with 
+portions of the pancreatic tail obscured by overlying bowel gas. 
+
+  
+SPLEEN: Normal echogenicity, measuring 8 cm. 
+  
+KIDNEYS: The right kidney measures 10.8 cm.  Normal cortical 
+echogenicity and corticomedullary differentiation is seen in the 
+right kidney. There is no evidence of masses, stones, or 
+hydronephrosis in the right kidney.  Assessment of the left 
+kidney is limited. 
+  
+RETROPERITONEUM: Visualized portions of aorta and IVC are within 
+normal 
+limits.   
+Note is made of a right pleural effusion which is better 
+assessed on CTA of the chest dated ___. 
+  
+IMPRESSION:   
+1.  A 2 cm irregular area of increased echogenicity adjacent to 
+the common bile duct may represent focal fat, however metastatic 
+disease cannot be excluded.   
+2.  Small amount of ascites. 
+3.  Known right pleural effusion is better assessed on CTA of 
+the chest dated ___. 
+.
+>> PRIOR PATHOLOGY: 
+- METASTATIC ADENOCARCINOMA, infiltrating dense fibrous tissue, 
+see Note.
+- Immunohistochemical stains show the following profile in 
+lesional cells:
+Positive - ___, CK7, EMA, Calretinin, CK5/6 (patchy), mCEA 
+(focal), CDX-2 (rare cells)
+Negative - TTF-1, Napsin-A, WT-1, D2-40, CK20, p63, PAX-8, ER, 
+PR, GCDFP-15, Mammaglobin,
+S100, Melan-A
+- A mucicarmine stain is positive in rare tumor cells.
+2. Pleural biopsy, right, #2:
+___
+Department of Pathology Patient: ___ 2 of 3
+- METASTATIC ADENOCARCINOMA, infiltrating dense fibrous tissue, 
+see Note.
+Note: The tumor has an epithelioid morphology with an 
+infiltrative solid and cribriform growth pattern,
+and benign-appearing mesothelial cells are lining the overlying 
+pleural surface. The tumor cell
+morphology and immunohistochemical staining profile is somewhat 
+non-specific as to primary site.
+The differential diagnosis would include upper GI or 
+pancreaticobiliary, and somewhat less likely
+lung (given the negative TTF-1 and Napsin-A), breast (given the 
+negative ER, PR, Mammaglobin,
+and GCDFP-15), or ovarian/endometrial (given the negative PAX-8, 
+ER, and PR), among others.
+Clinical and radiologic correlation is advised.
+
+Report History Micro:
+===================
+__________________________________________________________
+___ 4:32 pm MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+__________________________________________________________
+___ 8:53 pm FLUID RECEIVED IN BLOOD CULTURE BOTTLES
+      LEFT PLEURAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   Fluid Culture in Bottles (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 8:53 pm PLEURAL FLUID      LEFT PLEURAL FLUID. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+__________________________________________________________
+___ 4:25 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 4:10 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+ 
+Brief Hospital Course:
+This is a ___ year old female with past medical history of 
+metastatic adenocarcinoma of unknown primary, known pulmonary 
+metastases with malignant pleural effusion, admitted ___ 
+with acute hypoxic respiratory failure secondary to large 
+malignant pleural effusions and concern for acute bacterial 
+pnuemonia, requiring admission to the ICU for bipap, 
+subsequently found to have significant progression of cancer, 
+with malignant effusions drained with bilateral chest tubes, 
+which were subsequently removed, with persistent symptoms 
+thought due to severe disease burden, not a candidate for 
+additional chemo/XRT, discharged to inpatient hospice.
+.
+>> ACTIVE ISSUES: 
+# Acute and Chronic Hypoxic Respiratory Failure / Lung Cancer / 
+Malignant Pleural Effusion: Upon admission, patient underwent a 
+CTA chest revealed loculated nonhemorrhagic right pleural 
+effusion and small left pleural effusion. Patient with known 
+metastatic effusion diagnosed during prior hospitalization, with 
+recent removal of pleurex on ___. Patient was found to require 
+face tent for oxygenation, and therefore was initially admitted 
+to the ICU for respiratory monitoring. Left chest tube to water 
+seal and Right chest tube to suction were placed by IP on 
+___ with substantial output initially. Patient's course 
+was challenging in the setting of treating the underlying cause 
+which was suspected malignance. Patient has undergone workup 
+revealing a metastatic adenocarcinoma, however was unable to 
+isolate a primary source, although pathology concerning for a GI 
+malignancy. Patient was treated with vancomycin/zosyn to cover 
+for possible obstructive type infection, and this was 
+down-titrated to levofloxacin to finish a course. Patient 
+started to have improvement in oxygenation, requiring 
+supplemental ___, however becomes acutely dyspneic upon 
+movement, and unable to lay flat without feeling acutely 
+dyspneic. Patient seeking second opinion (see below), regarding 
+treatment. Heme/onc recommended staging tests to search for a 
+primary malignancy, however, the patient was unable to lie flat 
+for these tests due to her poor respiratory status. As such, 
+these tests were deferred as heme/onc felt that the patient 
+would almost certainly be unable to undergo chemotherapy 
+regardless of the results given functional status. Radiation 
+oncology was also consulted and felt treatment may not be 
+helpful due to likely lymphangitic spread, and the fact that RT 
+would be unlikely to sufficiently decrease her tumor burden to 
+the point that her respiratory status would improve. The patient 
+was gradually weaned from facemask onto a nasal cannula before 
+she was called out to the floor. Patient's chest tubes were 
+clamped upon arrival to the medical floor, and ultrasound done 
+by IP at beside revealed no free fluid in the bases, and 
+effusion in the apex not amenable to chest tube placement. 
+. 
+# Metastatic Adenocarcinoma of unknown primary: Diagnosed by 
+pleural biopsy in ___. Per pathology, DDx includes upper GI 
+or pancreaticobiliary. Patient had not yet established care with 
+oncology as progression had been very quick. The patient was 
+scheduled for CT head and PET scan. This could not be done 
+inpatient given inability to lie flat and given extent of 
+disease, it wouldn't change management from an oncology point of 
+view. As above Radiation oncology was consulted who felt 
+treatment may not be of great utility, and risks may outweight 
+benefit given functional status. Patient had requested second 
+opinion at ___, and results/imaging were faxed to ___ GI 
+Malignancy Department, and reportedly reviewed by Dr. ___. 
+___ aware that patient is unable to undergo CT Torso as 
+requested given acute dyspnea, and planning to set patient with 
+outpatient follow up. Patient was given contact information 
+prior to discharge. 
+. 
+# Palliative Care/Goals of Care: Patient was initially admitted 
+to the ICU as full code, however given grave prognosis and 
+aggressive complications of underlying malignancy, social work 
+and palliative care continued to work with patient and her 
+family regarding optimizing her goals of care. Patient was 
+transitioned to DNR/DNI per request, but with desire for 
+re-hospitalization and re-transfer to the ICU if needed. Patient 
+was considered for inpatient hospice given chest tubes, oxygen 
+requirements, pain relievers, and acute significant decline in 
+functional status, and this was arranged prior to her discharge. 
+Patient was also started on mirtazapine as a sleep aid with good 
+effect, and was continued on pain regimen which was controlled 
+prior to discharge. 
+. 
+>> TRANSITIONAL ISSUES: 
+# Metastatic Adenocarcinoma: Seeking ___ opinion at ___, 
+patient's ___ records were sent to ___, however she was 
+unable to complete a CT Torso given inability to lay flat 
+safely. ___ made aware.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 25 mg PO DAILY 
+2. Lovastatin 40 mg oral DAILY 
+3. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+4. Ibuprofen 800 mg PO Q8H 
+5. Ondansetron 4 mg PO Q8H:PRN nausea 
+
+ 
+Discharge Medications:
+1. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+2. HYDROmorphone (Dilaudid) 0.25-0.5 mg IV Q2H:PRN breakthrough 
+pain/breathing/insomnia 
+RX *hydromorphone 1 mg/mL 0.25-0.5 mg INJ every 2 hours Disp 
+#*30 Syringe Refills:*0
+3. Ipratropium-Albuterol Neb 1 NEB NEB Q4H:PRN sob 
+RX *ipratropium-albuterol 0.5 mg-3 mg (2.5 mg base)/3 mL 1 NEB 
+IH every 4 hours Disp #*15 Ampule Refills:*0
+4. Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine 5 % (700 mg/patch) Please apply 1 patch every 
+morning Disp #*30 Patch Refills:*0
+5. Lorazepam 0.5 mg IV Q6H:PRN anxiety 
+RX *lorazepam 2 mg/mL 0.25 mL INJ every 6 hours Disp #*5 Vial 
+Refills:*0
+6. Ibuprofen 800 mg PO Q8H 
+7. Sertraline 25 mg PO DAILY 
+8. Ondansetron 4 mg PO Q8H:PRN nausea 
+9. Mirtazapine 7.5 mg PO QHS 
+RX *mirtazapine 7.5 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*0
+10. Sodium Chloride 0.9%  Flush 3 mL IV Q8H and PRN, line flush 
+11. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+Please hold for sedation. Please try PO formulation and if 
+unable to tolerate, then use IV.  
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every 4 hours 
+Disp #*30 Tablet Refills:*0
+12. Lorazepam 0.5 mg PO Q6H:PRN anxiety 
+Please hold for sedation. Please try PO formulation and if 
+unable to tolerate, then use IV.  
+RX *lorazepam 0.5 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 1. Malignant effusion   2. Metastatic 
+Adenocarcinoma from an unknown primary
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure taking care of you during your hospital stay 
+at ___. You were admitted to the 
+hospital after feeling short of breath at home, and found to 
+have re-accumulation of fluid in your lungs. Therefore, you were 
+transferred to our intensive care unit, and seen by our 
+interventional pulmonary specialists who placed a chest tube to 
+help drain this fluid. You started to have improvement in your 
+symptoms, and were then discharged to the medical floor at which 
+point it was decided to remove the chest tubes.
+
+We have discussed that this fluid is the result of an underlying 
+cancer, and you were seen by our radiation oncologists and 
+medical oncologists. We have arranged for you to be discharged 
+with services, and we have also started the process of a second 
+opinion at ___. 
+
+Take Care,
+Your ___ Team. 
+ 
+Followup Instructions:
+___

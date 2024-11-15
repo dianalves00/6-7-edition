@@ -1,0 +1,307 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+E-Mycin / Prilosec
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue
+
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ with a compensated past medical history including a MVC with 
+polytrauma, s/p trach, PEG and splenctomy, HTN, CVA, CAD s/p 2 
+stents, A. Fib (CHADS2 4) on coumadin presenting from 
+rehabilitation with weakness and hematuria. 
+
+History obtained primarily from ___, ED notes. 
+
+For the past week the patient is reportedly feeling much more 
+fatigued and weak unable to cooperate with therapy which is a 
+distinct change from his baseline. He was recently started on 
+Coumadin and has had blood ___ his urine since that time. Family 
+says patient denies any chest pain. Cough maybe mildly increased 
+with mild increase ___ sputum. Patient has chronic foley. Has 
+been able to tolerate POs. 
+
+___ the ED, initial vitals noted to be 98.8 87 137/70 28 99%. 
+Labs notable for WBC of 18.1 without bands, INR 3.3. BUN/Cr of 
+36 and 0.7 and UA with >182 WBC and Moderate Leuks. CXR without 
+significant change of bilateral pleural effusion but difficult 
+to assess for infectious etiology. CT head without acute 
+changes. Ceftriaxone was started ___ the ED.  
+
+___ the unit, the patient is awake and responsive. He knows his 
+name and that he is at ___. He says he feels better. No 
+dyspnea. Currently no pain. 
+
+ 
+Past Medical History:
+-MVA ___ - "open book pelvic fracture", RP hematoma, splenic
+laceration s/p splenectomy, and ?L-kidney lac vs. ruptured
+cyst
+-CVA bleed ___ right putamen intraparenchymal hemorrhage
+-Osteoarthritis
+-Gout
+-Prostate Ca s/p XRT and Lupron
+-CAD s/p PTCA and 2 stents
+-Glaucoma
+-Mild hearing impairment
+-Non-toxic goiter
+-Hypertension
+-Hypercholesterolemia
+-Hiatal hernia 
+-GERD
+-Mild irritable bowel syndrome
+-History of intestinal polyps (benign)
+-Hemorrhoids
+
+ 
+Social History:
+___
+Family History:
+Sister with breast CA. No known family history of strokes, 
+hemorrhages, or other neurologic problems.
+
+ 
+Physical Exam:
+On Admission:
+Vitals - 98, 117, 159/76, 35, 100% on 35% trachmask
+General: A&Ox2 to name and place. CN II-XII intact.   
+HEENT: Sclera anicteric, MM dry
+Lungs: ronchi throughout
+CV: irregularly irregular, tachycardic
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly. J tube side 
+c/d/i
+CVA: mild tenderness with palpation  
+GU: + foley  
+Ext: 2+ edema up to thighs
+.
+On Discharge:
+139/80  HR 99
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 03:00PM BLOOD WBC-18.1*# RBC-3.59*# Hgb-12.3*# 
+Hct-37.0*# MCV-103* MCH-34.3* MCHC-33.3# RDW-15.1 Plt ___
+___ 03:00PM BLOOD Neuts-54.0 ___ Monos-5.4 Eos-6.2* 
+Baso-0.4
+___ 03:43PM BLOOD ___ PTT-43.7* ___
+___ 03:00PM BLOOD Glucose-112* UreaN-36* Creat-0.7# Na-141 
+K-4.2 Cl-104 HCO3-27 AnGap-14
+___ 03:00PM BLOOD ALT-38 AST-24 AlkPhos-182* TotBili-0.3
+___ 03:00PM BLOOD Albumin-3.0* Calcium-9.1 Phos-4.1 Mg-2.1
+___ 03:09PM BLOOD Lactate-1.7
+.
+DISCHARGE LABS:
+___ 01:01AM BLOOD WBC-17.7* RBC-3.42* Hgb-11.2* Hct-33.7* 
+MCV-99* MCH-32.7* MCHC-33.2 RDW-14.1 Plt ___
+___ 01:01AM BLOOD ___ PTT-106.7* ___
+___ 01:01AM BLOOD Glucose-152* UreaN-30* Creat-0.5 Na-138 
+K-3.8 Cl-105 HCO3-24 AnGap-13
+. 
+MICRO LAB:
+___ 3:45 URINE   **FINAL REPORT ___
+- URINE CULTURE (Final ___:  STAPHYLOCOCCUS, COAGULASE 
+NEGATIVE.    >100,000 ORGANISMS/ML.. **** SENSITIVITIES ORDERED 
+& PENDING ****
+.
+___ 6:53 pm SPUTUM      Source: Endotracheal. 
+  GRAM STAIN (Final ___: 
+      ___ PMNs and <10 epithelial cells/100X field. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI. 
+
+   RESPIRATORY CULTURE (Preliminary): 
+      SPARSE GROWTH Commensal Respiratory Flora. 
+      GRAM NEGATIVE ROD(S).    SPARSE GROWTH. 
+.
+IMAGING:
+- CT Head noncontrast ___ IMPRESSION:  No evidence of 
+intracranial hemorrhage. 
+.
+- CXR ___  IMPRESSION:  
+No significant interval change of bilateral pleural effusions. 
+These limit evaluation for underlying parenchymal 
+opacity/possibility of infection. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with history of HTN, CAD s/p 2 
+stents, hemorrhagic CVA ___ ___, A. Fib (CHADS2 4), trach and 
+chronic vent requirement at night presents with altered mental 
+status and UTI. 
+
+Patient presented with sepsis likely from urinary source. Urine 
+grossly positive growing >100,000 coag negative staph. Exchanged 
+Foley. CXR with bilateral effusions that appear stable and there 
+does not appear to have been recent increased O2 demand or vent 
+changes or increased productive cough to suggest PNA. 
+
+Started Ceftriaxone for UTI on ___ and added Vancomycin on 
+___ once urine grew coag negative staph until sensitivities
+.
+# Encephalopathy, acute toxic metabolic. Due to UTI. Mental 
+status improved while ___ ICU. Patient ___ ICU only because 
+requires the vent.
+.
+# A. Fib with RVR with history of DVT. CHADS2 4 for age, HTN, 
+stroke. INR 2.9 at time of discharge, ___. Decreased 
+warfarin to 2.5mg daily. Continued metoprolol 25 TID and Digoxin 
+0.125mcg MWF. 
+.
+# Ventilatory requirement. Patient is vented QHS. Vent settings: 
+AC Vt 450, RR 10, PEEP 2, FiO2 30 at night. Trach mask with 35% 
+O2 during the day. GIven Albuterol INH to 6 PUFFS q4H PRN and 
+continued ipratropium  6 PUFFS Q8H w/ acetylcysteine 100 mg/mL 
+(10 %) via trach BID. (Respiratory therapy reports vent alarming 
+for cuff leak. Pt with reported 8.0 bovina. Notes reviewed, 
+trached ___ ___ OR, open, with initial placement of an 8.0 
+shiley. ___ require trach change.)
+.
+# CAD. Patient is status post 2 stents, uncertain when they were 
+placed and what location. Though he does not appear to have been 
+on Plavix during the last hospitalization. Patient was on ASA 
+162mg daily at OSH, uncertain why that dose. Continued metprolol 
+25mg TID and ASA 162mg daily
+.
+# HTN: Continued metoprolol 25mg TID and Furosemide 20mg daily
+.
+# HLD: Continued Ezetimibe 10mg DAILY 
+.
+# Gout: Continued Allopurinol ___ mg daily Colchicine 0.6mg MWF
+.
+# Hematuria: Likely due to UTI.
+- consider repeat U/A once clears infection; if hematuria 
+persistent on subsequent repeat 6 weeks later, would need 
+work-up of hematuria which traditionally includes CT urogram and 
+cystoscopy
+.
+# Communication: ___ (wife, HCP) ___, 
+___ 
+# Code: FULL confirmed
+.
+### TRANSITIONAL ISSUES:
+- if he declares more of a PNA picture would start meropenem and 
+vancomycin as his last pseduomona was resistant to cefepime and 
+zosyn. Micro data is attached. 
+- f/u urine culture sensitivities of coag neg Staph (requested 
+___
+- consider repeat U/A once clears infection; if hematuria 
+persistent on subsequent repeat 6 weeks later, would need 
+work-up of hematuria which traditionally includes CT urogram and 
+cystoscopy
+- INR 2.9 at time of discharge, ___. Needs INR rechecked 
+___ and coumadin adjusted as needed with close follow up 
+while on antibiotics.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 6 PUFF IH Q8H wheezing/poor oxygation 
+2. Artificial Tears ___ DROP BOTH EYES PRN Dry eyes 
+3. Aspirin 162 mg PO DAILY 
+4. Ipratropium Bromide MDI 6 PUFF IH Q8H wheezing/poor 
+oxygenation 
+5. QUEtiapine Fumarate 12.5 mg PO QHS 
+6. Warfarin 5 mg PO DAILY 
+7. Ezetimibe 10 mg PO DAILY 
+8. acetylcysteine 100 mg/mL (10 %) via trach BID 
+9. Lidocaine 5% Patch 1 PTCH TD QAM 
+10. ClonazePAM 0.5 mg PO Q6H:PRN anxiety 
+11. Colchicine 0.6 mg PO 3X/WEEK (___) 
+12. Furosemide 20 mg PO DAILY 
+13. Digoxin 0.125 mg PO 3X/WEEK (___) 
+14. melatonin 3 mg oral qHS 
+15. Allopurinol ___ mg PO DAILY 
+16. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+17. Dilaudid (HYDROmorphone) 0.5 mg oral TID pain 
+18. HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN pain 
+19. Metoprolol Tartrate 25 mg PO TID 
+20. Bisacodyl ___AILY:PRN constipation 
+21. Acetaminophen 650 mg PO Q6H:PRN pain 
+22. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+23. Hydrocerin 1 Appl TP BID:PRN dry skin 
+24. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Albuterol Inhaler 6 PUFF IH Q8H wheezing/poor oxygation 
+3. Allopurinol ___ mg PO DAILY 
+4. Artificial Tears ___ DROP BOTH EYES PRN Dry eyes 
+5. Aspirin 162 mg PO DAILY 
+6. Bisacodyl ___AILY:PRN constipation 
+7. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+8. Colchicine 0.6 mg PO 3X/WEEK (___) 
+9. Digoxin 0.125 mg PO 3X/WEEK (___) 
+10. Ezetimibe 10 mg PO DAILY 
+11. Furosemide 20 mg PO DAILY 
+12. HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg 1 tablet(s) by mouth every 
+four (4) hours Disp #*10 Tablet Refills:*0
+13. Ipratropium Bromide MDI 6 PUFF IH Q8H wheezing/poor 
+oxygenation 
+14. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+15. Lidocaine 5% Patch 1 PTCH TD QAM 
+16. Metoprolol Tartrate 25 mg PO TID 
+17. Multivitamins 1 TAB PO DAILY 
+18. QUEtiapine Fumarate 12.5 mg PO QHS 
+19. Warfarin 2.5 mg PO DAILY16 
+20. CeftriaXONE 1 gm IV Q24H UTI 
+21. Vancomycin 1000 mg IV Q 12H 
+22. acetylcysteine 100 mg/mL (10 %) via trach BID 
+23. ClonazePAM 0.5 mg PO Q6H:PRN anxiety 
+RX *clonazepam 0.5 mg 0.5 (One half) tablet(s) by mouth every 
+six (6) hours Disp #*5 Tablet Refills:*0
+24. HYDROmorphone (Dilaudid) (HYDROmorphone) 0.5 mg ORAL TID 
+pain 
+hold for sedation 
+RX *hydromorphone [Dilaudid] 2 mg 0.5 (One half) mg by mouth 
+three times a day Disp #*5 Tablet Refills:*0
+25. melatonin 3 mg oral qHS 
+26. Hydrocerin 1 Appl TP BID:PRN dry skin 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Urinary Tract Infection
+Encephalopathy, acute toxic metabolic
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+You were hospitalized at ___ for urinary tract 
+infection that caused you to be sleepy and confused. You were ___ 
+the intensive care unit because you use the ventilator at night. 
+You were given antibiotics which will be continued at ___ 
+___.
+ 
+Followup Instructions:
+___

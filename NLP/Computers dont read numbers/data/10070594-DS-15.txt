@@ -1,0 +1,268 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+pancytopenia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with hx of neuroendocrine tumor of unknown origin C1D11 of 
+___ and recent admission for syncope who presents from 
+clinic with pancytopenia. 
+
+The patient was recently admitted for syncope. He was also 
+started on ___ ___ while inpatient. He also 
+received neupogen ___. He presented to outpatient clinic today 
+for routine labs and was noted to be newly pancytopenic and 
+neutropenic. He also reported significant fatigue. He denied any 
+fevers or infectious symptoms at home, however he does report 
+decreased appetite and poor PO intake.
+
+On arrival to the floor, patient had no acute complaints other 
+than ongoing fatigue that has worsened over the past several 
+weeks. He denies HA, dizziness, blurry vision, chest pain, 
+SOB/Cough, abdominal pain, constipation, dysuria or increased 
+urinary frequency. He has his chronic baseline diarrhea which 
+has not changed. 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+First developed abdominal bloating mid ___. He was
+then following up with one of our hepatologist, Dr. ___ he was found to have on ___, a 15.9-cm right lobe
+mass with multiple satellite lesions consistent with HCC and
+enlarged porta hepatis and retroperitoneal lymphadenopathy
+consistent with metastases.  His case was discussed at
+___ Conference and while the lymph nodes 
+were
+concerning and rereviewed by Interventional Radiology, they were
+found to be not diagnostic for metastases.  
+
+He underwent endoscopy with EUS on ___ which did not
+identify any primary lesions including in the pancreas.  A 
+biopsy
+of 1 of the lymph nodes returned as consistent with grade 2
+neuroendocrine tumor with a Ki-67 percentage of about 20%. 
+ 
+PAST MEDICAL HISTORY: 
+1.  ___-induced cirrhosis complicated by portal hypertension.
+2.  Ascites and HCC.
+3.  Atrial fibrillation.
+4.  Hypertension.
+5.  Obesity.
+6.  BPH.
+7.  Gout.
+8.  Prediabetes mellitus.
+9.  Apparent CKD, which he is not aware of.
+10.  Baseline Bell's palsy left side.
+                             
+
+ 
+Social History:
+___
+Family History:
+His mother was diagnosed with intestinal cancer in her late ___
+and died at age ___.  Brother diagnosed in his ___ and living 
+with
+bladder cancer.  Sister living and has lymphoma. Sister living,
+diagnosed with breast cancer in her late ___.
+
+ 
+Physical Exam:
+===ADMISSION PHYSICAL EXAM===
+VS: 98.3; 104 / 60; 104; 16 99 RA 
+GENERAL: Pleasant, lying in bed comfortably
+HEENT: NCAT. PERRL. EOMI. L sided facial droop - chronic. No 
+oral lesions.
+CARDIAC: tachycardic, irregular. no MRG
+LUNG: CTAB
+ABD: Normal bowel sounds. RUQ mass palpated - fibrotic liver 
+edge vs mass. Non-tender, non-distended. 
+EXT: Warm, well perfused, 1+ pitting edema bilaterally
+NEURO: Alert, oriented, motor and sensory function grossly 
+intact
+SKIN: No significant rashes other then resolving echymoses on 
+bilateral upper arms
+
+===DISCHARGE PHYSICAL EXAM===
+Physical Exam:  
+VS: 97.6PO 104 / 60 83 20 99% RA 
+GENERAL: Pleasant, lying in bed comfortably
+HEENT: NCAT.  L sided facial droop - chronic. No oral lesions.
+CARDIAC: irregularly irregular
+LUNG: CTAB
+ABD: Normal bowel sounds. RUQ mass palpated - fibrotic liver 
+edge vs mass. Non-tender, non-distended. 
+EXT: Warm, well perfused, 1+ pitting edema bilaterally
+NEURO: Alert, oriented, motor and sensory function grossly 
+intact
+SKIN: No significant rashes other then resolving echymoses on 
+bilateral upper arms
+ 
+Pertinent Results:
+===ADMISSION LABS===
+___ 11:45AM BLOOD WBC-0.3*# RBC-2.99* Hgb-8.5* Hct-26.8* 
+MCV-90 MCH-28.4 MCHC-31.7* RDW-17.8* RDWSD-58.4* Plt Ct-73*#
+___ 07:00PM BLOOD Neuts-0 Bands-0 Lymphs-89* Monos-8 Eos-3 
+Baso-0 ___ Myelos-0 AbsNeut-0.00* AbsLymp-0.36* 
+AbsMono-0.03* AbsEos-0.01* AbsBaso-0.00*
+___ 07:00PM BLOOD ___ PTT-31.5 ___
+___ 11:45AM BLOOD UreaN-26* Creat-1.0 Na-147* K-4.6 Cl-112* 
+HCO3-22 AnGap-18
+___ 11:45AM BLOOD ALT-32 AST-30 LD(LDH)-299* AlkPhos-300* 
+TotBili-0.7
+___ 11:45AM BLOOD Albumin-2.9* Calcium-8.8 Phos-2.4* Mg-2.1 
+UricAcd-7.7*
+___ 11:45AM BLOOD Hapto-203*
+
+===DISCHARGE LABS===
+___ 07:16AM BLOOD WBC-3.7*# RBC-2.95* Hgb-8.2* Hct-25.7* 
+MCV-87 MCH-27.8 MCHC-31.9* RDW-18.2* RDWSD-57.7* Plt Ct-24*
+___ 07:16AM BLOOD Neuts-46 Bands-17* ___ Monos-6 
+Eos-2 Baso-0 ___ Metas-3* Myelos-0 NRBC-1* AbsNeut-2.33 
+AbsLymp-0.96* AbsMono-0.22 AbsEos-0.07 AbsBaso-0.00*
+___ 07:16AM BLOOD ___ PTT-31.2 ___
+___ 07:16AM BLOOD Glucose-75 UreaN-20 Creat-1.0 Na-144 
+K-3.5 Cl-113* HCO3-21* AnGap-14
+___ 07:16AM BLOOD Calcium-7.8* Phos-1.9* Mg-1.9 
+UricAcd-7.2*
+
+===MICRO===
+None
+
+===STUDIES===
+None
+
+ 
+Brief Hospital Course:
+___ with hx of neuroendocrine tumor of unknown origin C1D11 of 
+___ who presents from clinic with pancytopenia. 
+Pancytopenia was attributed to his recent chemo administration. 
+No localizing signs or symptoms of infection or fever, however 
+given the patient's neutropenia on admission, patient was 
+started on cipro prophylaxis and was maintained on neutropenic 
+precautions. Due to fatigue and a hemoglobin of 7.2, patient was 
+transfused with 1u prbc on ___, with symptomatic improvement. 
+Hgb responded appropriately, and remained stable 
+post-transfusion. WBC count improved during admission, as well, 
+and patient was discharged with ANC of 2300 (was 0 on 
+admission). Thromboycytopenia was 60 on admission, and initially 
+declined during admission to nadir of 20, but was rising at the 
+time of discharge (24). Patient was on apixaban for 
+anticoagulation in the setting of a recent PICC-associated DVT 
+as well as atrial fibrillation, which was transitioned to 
+lovenox upon admission (though was discontinued when platelets 
+fell below 50). Patient's labs should be closely monitored, and 
+anticoagulation should be resumed when platelets rise. 
+
+TRANSITIONAL ISSUES:
+====================
+- Please draw CBC with diff on ___
+- Patient's anticoagulation was held at the time of discharge 
+given thrombocytopenia. When platelets >50, consider resuming 
+lovenox vs apixaban (depending on if DVT attributed to 
+malignancy or PICC, as well as patient preference).
+- Cipro prophylaxis was discontinued at the time of discharge, 
+as the patient is no longer neutropenic. 
+- Allopurinol was changed to 200mg daily given renal function
+- Lasix held during admission, as he was clinically dry, and his 
+weight has been declining. Was not resumed at the time of 
+discharge. Consider resuming, as clinically indicated. 
+
+CODE: DNR/DNI (confirmed in clinic with Dr. ___
+COMMUNICATION: Patient, ___ (daughter) ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Pegfilgrastim Onpro (On Body Injector)  6 mg SC ONCE 
+2. Neulasta (pegfilgrastim) 6 mg/0.6mL subcutaneous ONCE 
+3. Doxazosin 4 mg PO HS 
+4. Finasteride 5 mg PO DAILY 
+5. Furosemide 20 mg PO DAILY 
+6. Allopurinol ___ mg PO DAILY 
+7. Metoprolol Succinate XL 200 mg PO DAILY 
+8. Senna 8.6 mg PO BID:PRN constipation 
+9. Colchicine 0.6 mg PO DAILY:PRN Gout 
+10. Apixaban 5 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0 
+2.  Allopurinol ___ mg PO DAILY 
+RX *allopurinol ___ mg 2 tablet(s) by mouth once a day Disp #*60 
+Tablet Refills:*0 
+3.  Colchicine 0.6 mg PO DAILY:PRN Gout  
+4.  Doxazosin 4 mg PO HS  
+5.  Finasteride 5 mg PO DAILY  
+6.  Metoprolol Succinate XL 200 mg PO DAILY  
+7.  Senna 8.6 mg PO BID:PRN constipation  
+8. HELD- Apixaban 5 mg PO BID  This medication was held. Do not 
+restart Apixaban until you have your repeat bloodwork drawn
+9.Outpatient Lab Work
+ICD-9 284.1
+CBC with differential
+Dr. ___ phone: ___ 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary Diagnosis: 
+pancytopenia
+
+secondary diagnoses:
+symptomatic anemia
+thrombocytopenia
+neutropenia
+PICC associated DVT
+neuroendocrine tumor
+atrial fibrillation
+___ cirrhosis
+BPH
+gout 
+Pre-diabetes
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ 
+because you were found to have low blood counts in your ___ 
+clinic. We think the cause of your low blood counts was your 
+recent chemotherapy administration. While you were here, you 
+received a blood transfusion, which made you feel better. Your 
+other blood counts improved, as well. 
+
+It was a pleasure caring for you!
+Your ___ Care Team
+ 
+Followup Instructions:
+___

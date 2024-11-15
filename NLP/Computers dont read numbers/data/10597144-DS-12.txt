@@ -1,0 +1,500 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Insulin,Pork / Bactrim DS / Percocet / Simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with a history of 
+celiac disease, ___ hammer esophagus, hypothyroidism, ADD who 
+presents with bright red blood per rectum.
+
+The patient states that she was in her usual state of health 
+when she started having abdominal pain, increased gas, and 
+nausea in the early morning on ___. She had four episodes of 
+vomiting with small amounts of blood but she does not completely 
+remember. Denies the vomiting to be bilious. She had 3 loose BMs 
+that was all fresh blood with blood mixed in the stools and 
+blood on the toilet paper. Denies melena. Denies fevers, chills, 
+trying new diet, eating gluten. 
+
+Of note patient follows with Dr. ___ in GI for management of 
+her celiac disease. Last colonoscopy ___ which found 1 
+polyp in the rectum and grade 1 internal hemorrhoids. Biopsies 
+of the terminal ileum and random colon biopsies were negative 
+for microscopic colitis.
+
+In the ED, initial vitals:  T97.6 HR 129 BP 140/92 RR16 100% RA
+- Exam notable for:  hyperactive bowel sounds, non tender to 
+superficial or deep palpation in all four quadrants.
+- Labs notable for:  
+Chemistry: Na 136, K 4.4 Chloride 94, HCO3 26 BUN 19 Sr Cr 0.9
+LFTs: ALT 34, AST 23 AP 95
+CBC: WBC 15.3 Hgb 16.1 Plt 252
+- Imaging notable for:  
+CT AP ___:
+1. No evidence of acute abdominopelvic process which would 
+correlate with patient's reported symptoms.
+2. Enlarged, heterogeneous fibroid uterus.
+3. Tiny 4 mm hypodensity within the mid body of the pancreas, 
+likely
+compatible with small side-branch IPMN.
+- Pt given: 
+1L NS
+20mg Lisinopril 
+Metoprolol Succinate XL 50mg
+Donnatal 10mL
+- Vitals prior to transfer:  
+
+Upon arrival to the floor, the patient reports that she has had 
+at least ___ bowel movements that are largely bloody. She 
+reports nausea, but no vomiting. Also notes some abdominal 
+discomfort. Does not report fevers, chills, chest pain, and 
+shortness of breath. 
+ 
+Past Medical History:
+ADD                                                             
+ANXIETY                                                         
+BLDG                                                            
+DIABETES MELLITUS                                               
+ECZEMA                                                          
+HEALTH MAINTENANCE                                              
+ORTHOSTATIC HYPOTENSION                                         
+SINUSITIS                                                       
+TACHYCARDIA                                                     
+TOBACCO ABUSE                                                   
+HYPOTHYROIDISM                                                  
+CARPAL TUNNEL SYNDROME                                          
+FATIGUE                                                         
+MYALGIA                                                         
+BACK PAIN                                                       
+MYALGIAS                                                        
+CELIAC DISEASE                                                  
+BILIARY TRACT DISEASE                                           
+DISABILITY                                            
+VITAMIN D DEFICIENCY
+ 
+Social History:
+___
+Family History:
+Mother: ___ Disease, Skin lesions, Lung cancer
+Father: MI
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: T 98.8 PO, BP 164 / 72, HR 126, RR 18, O2 sat 98% on RA 
+General: Alert, oriented, no acute distress, mildly 
+uncomfortable 
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, neck 
+supple, JVP not elevated, no LAD  
+CV: Tachycardic, normal S1 + S2, no murmurs, rubs, gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, diffuse mild tenderness to palpation, 
+non-distended, bowel sounds present, no organomegaly, no rebound 
+or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: A&Ox3, moving all 4 extremities with purpose 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 753)
+Temp: 97.8 (Tm 98.1), BP: 135/85 (110-147/71-86), HR: 91 
+(91-105),
+RR: 18 (___), O2 sat: 97% (96-100), O2 delivery: Ra  
+
+GEN:    lying in bed in NAD, more alert today
+CV:     tachycardic, regular, nl s1/s2, no murmurs
+PULM:   CTABL no increased WOB
+ABD:    soft, non-distended, mild tenderness to deep palpation
+        in epigastrium, no rebound or guarding, +BS
+EXTR:   WWP. no edema over BLE
+SKIN:   no rashes noted
+NEUR:   A&Ox3
+ 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 01:00AM BLOOD WBC-15.3* RBC-5.10 Hgb-16.1* Hct-46.2* 
+MCV-91 MCH-31.6 MCHC-34.8 RDW-11.9 RDWSD-39.0 Plt ___
+___ 01:00AM BLOOD Neuts-93.1* Lymphs-4.0* Monos-2.2* 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-14.25* AbsLymp-0.61* 
+AbsMono-0.34 AbsEos-0.00* AbsBaso-0.04
+___ 01:00AM BLOOD ___ PTT-29.5 ___
+___ 01:00AM BLOOD Glucose-323* UreaN-19 Creat-0.9 Na-136 
+K-4.4 Cl-94* HCO3-26 AnGap-16
+___ 01:00AM BLOOD ALT-34 AST-23 AlkPhos-95 TotBili-0.9
+___ 01:00AM BLOOD cTropnT-<0.01
+___ 01:00AM BLOOD Lipase-8
+___ 01:00AM BLOOD Albumin-4.9 Calcium-9.9 Phos-3.5 Mg-1.7
+___ 01:17AM BLOOD ___ pO2-31* pCO2-46* pH-7.38 calTCO2-28 
+Base XS-0
+___ 01:17AM BLOOD Lactate-1.9
+
+PERTINENT LABS:
+===============
+___ 08:50AM BLOOD TSH-1.2
+___ 07:55AM BLOOD CRP-3.4
+___ 01:02PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 03:53PM BLOOD ART pO2-104 pCO2-33* pH-7.38 calTCO2-20* 
+Base XS--4
+___ 01:21PM BLOOD Lactate-1.6
+___ 01:07AM BLOOD ___ pO2-184* pCO2-41 pH-7.42 calTCO2-28 
+Base XS-2
+
+___ 04:43PM URINE bnzodzp-NEG barbitr-POS* opiates-NEG 
+cocaine-NEG amphetm-POS* oxycodn-NEG mthdone-NEG
+___ 01:29AM URINE Osmolal-602
+
+___ 04:43PM URINE Blood-TR* Nitrite-NEG Protein-TR* 
+Glucose-1000* Ketone-150* Bilirub-NEG Urobiln-NEG pH-5.5 
+Leuks-NEG
+___ 04:25PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-300* Ketone-10* Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 07:38AM URINE Blood-SM* Nitrite-NEG Protein-NEG 
+Glucose-150* Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+
+IMAGING:
+===============
+___ CT A/P with IV Contrast
+FINDINGS:
+- LOWER CHEST: Visualized lung fields are within normal limits.  
+There is no evidence of pleural or pericardial effusion. 
+- ABDOMEN: 
+-- HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  There is no evidence of focal lesions. There is no 
+evidence of intrahepatic or extrahepatic biliary dilatation.  
+The gallbladder is within normal limits. 
+-- PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence pancreatic ductal dilatation.  There is a 4 mm 
+hypodensity within the mid body of the pancreas (02:18), likely 
+compatible with small side-branch IPMN.  There is no 
+peripancreatic stranding. 
+-- SPLEEN: The spleen shows normal size and attenuation 
+throughout, without evidence of focal lesions. 
+-- ADRENALS: The right and left adrenal glands are normal in 
+size and shape. 
+-- URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  There is a 1.1 cm hypodensity within the 
+left upper renal pole (02:18), compatible with simple renal 
+cyst.  Additional subcentimeter hypodensities in the bilateral 
+kidneys are too small to characterize, though likely compatible 
+with simple renal cysts.  There is no evidence of 
+hydronephrosis.  There is no perinephric abnormality. 
+-- GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate normal caliber, wall thickness, and 
+enhancement throughout. Distal transverse colon, splenic 
+flexure, and descending colon are decompressed.  Mild concentric 
+wall thickening involving these segments could represent mild 
+colitis, or possibly secondary to bowel decompression.  The 
+appendix is not visualized, however no secondary signs of 
+inflammation in the right lower quadrant. 
+- PELVIS: The urinary bladder and distal ureters are 
+unremarkable.  There is no free fluid in the pelvis. 
+- REPRODUCTIVE ORGANS: There is an enlarged, fibroid uterus. No 
+adnexal 
+abnormality is seen.  There is an intrauterine device in place, 
+low lying in position likely secondary to fibroids. 
+- LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There is no pelvic or inguinal 
+lymphadenopathy. 
+- VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease is noted. 
+- BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture. 
+- SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits. 
+IMPRESSION: 
+1. Distal transverse colon, splenic flexure, and descending 
+colon are decompressed.  Mild concentric wall thickening 
+involving these segments associated with surrounding soft tissue 
+stranding and prominent pericolonic vessels could represent mild 
+colitis. 
+2. Enlarged, heterogeneous fibroid uterus.  Low-lying position 
+of IUD in the lower uterine segment and endocervical canal. 
+3. Tiny 4 mm hypodensity within the mid body of the pancreas, 
+likely compatible with small side-branch IPMN-MRCP may be 
+performed for better evaluation. 
+
+MICROBIOLOGY:
+===============
+___ 3:35 pm BLOOD CULTURE
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+___ 1:02 pm BLOOD CULTURE
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 6:04 pm STOOL     
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      No E. coli O157:H7 found. 
+   C. DIFFICILE PCR (Final ___: NEGATIVE. 
+
+DISCHARGE LABS:
+===============
+___ 06:04PM STOOL NoroGI-NEGATIVE NoroGII-NEGATIVE
+___ 07:20AM BLOOD WBC-7.7 RBC-4.26 Hgb-13.5 Hct-38.1 MCV-89 
+MCH-31.7 MCHC-35.4 RDW-11.8 RDWSD-38.0 Plt ___
+___ 07:20AM BLOOD Glucose-122* UreaN-8 Creat-0.7 Na-138 
+K-3.4* Cl-97 HCO___ AnGap-10
+___ 07:20AM BLOOD Calcium-8.9 Phos-3.8 Mg-1.8
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with T1DM on insulin pump, 
+celiac disease, jackhammer esophagus, hypothyroidism, ADD who 
+presented with BRBPR iso abd pain, nausea, vomiting, diarrhea x 
+days.
+
+ACUTE/ACTIVE PROBLEMS: 
+=======================
+#?INFECTIOUS GASTROENTERITIS vs COLITIS
+#SEPSIS
+#HEMATOCHEZIA
+Ms. ___ presented with fevers, leukocytosis, worsened 
+tachycardia in the setting of abd pain, nausea/vomiting, 
+diarrhea, BRBPR, which together met sepsis criteria. CT imaging 
+was re-read as possible colitis of descending/distal transverse 
+colon. Most likely infectious colitis or gastroenteritis. BRBPR 
+could also be infectious process worsening known internal 
+hemorrhoids. Upper GI sx could also be related to underlying 
+celiac disease, uncontrolled T1DM. Ddx included inflammatory 
+colitis given pt report of similar episode in past, but last 
+colonoscopy/bx in ___ without evidence of this. She was started 
+on ciprofloxacin/flagyl with improvement in her symptoms (last 
+dose ___. Infectious workup was ultimately negative for noro, 
+Cdiff, salmonella, shigella, campylobacter, and E.coli O157:H7. 
+Blood cultures were no growth to date. She was hemodynamically 
+stable throughout, with Hb also stable. GI felt that there was 
+no role for inpatient colonoscopy. On discharge, pt was 
+clinically feeling at her baseline. She was managed 
+symptomatically with reglan iso possible gastroparesis. As an 
+outpatient, can consider gastric emptying study if symptoms 
+persist.
+
+#TOXIC-METABOLIC ENCEPHALOPATHY, resolved
+#METABOLIC ACIDOSIS
+#CONCERN FOR DIABETIC KETOACIDOSIS
+#TYPE 1 DIABETES MELLITUS, UNCONTROLLED
+The patient was noted to have continued somnolence and new noted 
+anion-gap metabolic acidosis on ___ labs. A broad workup was 
+sent. Despite sugars only in 200-300s, UA showed new ketonuria, 
+ABG showing normal pH likely ___ metabolic acidosis with 
+appropriate respiratory compensation. With fluid administration 
+and uptitrated basal insulin rate via pump, gap closed. Serum 
+tox did not show ASA, ethanol, appreciable tylenol to explain 
+other causes of AGMA. Urine tox results as below. Lactate wnl, 
+so was less concerned for worsening of sepsis as above. Blood 
+cultures remained no growth to date. ___ continued to follow 
+and advise through hospitalization. BS improved to 100's at time 
+of discharge.
+
+#HYPONATREMIA, resolving
+#APPROPRIATE ADH RESPONSE iso VOMITING
+Ms. ___ was noted to have hyponatremia. It was felt that iso 
+vomiting, this was appropriate response in ADH. Roughly 
+normalized with increased PO intake.
+
+#URINE TOXICOLOGY (+)BARBITURATES
+During workup for potential altered mental status, found to have 
+barbiturates in utox. Unclear where barbiturates would be coming 
+from, as review of medications being given in hospital would not 
+produce either true or false positive. Pt does not recall any 
+medications she took that could produce this. Rare case reports 
+of barbiturate(+) with NSAID administration in literature, which 
+pt is not getting here. Discussed with pt that if pt was taking 
+barbiturates as outpt, would be concerned given other sedating 
+medications on PAML (eg. methocarbamol). Discussed concern that 
+pt has been somnolent while in hospital, though this likely is 
+multifactorial in etiology.
+
+CHRONIC/STABLE PROBLEMS: 
+=========================
+#TACHYCARDIA
+#AUTONOMIC NEUROPATHY
+Has documented tachycardia as outpatient, for which she follows 
+with Dr. ___. ECG here showing sinus tachycardia. TSH during 
+admission was 1.2. Continued home metoprolol given stability.
+
+#CELIAC DISEASE
+Well documented history of abdominal pain and distension in the 
+setting of her underlying celiac disease, though worsened as 
+above. Continued home regimen.
+
+#ADD
+Per conversation with outpatient providers, ___ 
+reflects both Adderall and Vyvanse due to insurance issues and 
+patient should only be receiving one or the other. However, per 
+patient report, she is taking both together. Adderall was 
+continued while inpatient. As transitional issue, should clarify 
+dosing.
+
+#HTN
+Continued Lisinopril 20mg daily given clinical stability.
+
+#HYPOTHYROIDISM
+Continued home levothyroxine 125mcg daily. TSH 1.2 as above, 
+though would be hesitant to interpret in setting of acute 
+illness.
+
+TRANSITIONAL ISSUES
+===================
+MEDICATIONS
+*NEW*
+- ciprofloxacin 500mg q12h until ___ ___
+- metronidazole 500mg q8h until ___ ___
+- reglan 10mg with meals, short course
+*CHANGED*
+- insulin pump
+*STOPPED*
+- none
+
+[ ] Consider outpatient gastric emptying study for possible 
+gastroparesis if nausea/vomiting do not resolve
+[ ] Defer to GI Dr. ___ timing of outpatient colonoscopy, 
+if needed
+[ ] Recheck chem-10 as Ca, Phos was noted to be low (repleted 
+before discharge)
+[ ] Re-emphasize not mixing sedating medications.
+
+#CODE: FULL CODE (presumed)
+#CONTACT: Name of health care proxy: ___ 
+Relationship: Husband 
+Phone number: ___ 
+
+>30 min spent on discharge planning including face to face time
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Albuterol Inhaler 2 PUFF IH Q4-6H wheezing 
+2. Amphetamine-Dextroamphetamine 20 mg PO TID 
+3. ValACYclovir 1000 mg PO Q24H 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Methocarbamol ___ mg PO QHS:PRN neck pain 
+6. Lisinopril 20 mg PO DAILY 
+7. Vyvanse (lisdexamfetamine) 70 mg oral DAILY 
+8. Levothyroxine Sodium 125 mcg PO DAILY 
+9. Zenpep (lipase-protease-amylase) 10,000-32,000 -42,000 unit 
+oral TID W/MEALS 
+10. HydrOXYzine 10 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 5 Doses 
+last dose ___ ___ 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*4 Tablet Refills:*0 
+2.  Insulin  Pump SC (Self Administering Medication)Insulin 
+Lispro (Humalog)
+
+Basal Rates:
+  Midnight - 5a:  .65 Units/Hr
+  5a - 7a:  1 Units/Hr
+  7a - 11a:  .83 Units/Hr
+  11a - 5p:  .68 Units/Hr
+  5p - 8p:  .73 Units/Hr
+  8 - 12a:  .5 Units/Hr
+Meal Bolus Rates:
+  Breakfast = 1:10
+  Lunch = 1:10
+  Dinner = 1:10
+High Bolus:
+  Correction Factor = 1:80
+  Correct To ___ mg/dL
+
+Use of ___ medical equipment: Insulin pump
+Reason for use: medically necessary and justified as ___ 
+cannot provide this type of equipment or suitable alternative 
+not appropriate.
+Provider acknowledges patient competent
+ 
+3.  Metoclopramide 10 mg PO QIDACHS 
+RX *metoclopramide HCl 10 mg 1 tablet by mouth With Meals Disp 
+#*21 Tablet Refills:*0 
+4.  MetroNIDAZOLE 500 mg PO Q8H Duration: 8 Doses 
+last dose ___ ___ 
+RX *metronidazole 500 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*6 Tablet Refills:*0 
+5.  Albuterol Inhaler 2 PUFF IH Q4-6H wheezing  
+6.  Amphetamine-Dextroamphetamine 20 mg PO TID  
+7.  HydrOXYzine 10 mg PO QHS:PRN insomnia  
+8.  Levothyroxine Sodium 125 mcg PO DAILY  
+9.  Lisinopril 20 mg PO DAILY  
+10.  Methocarbamol ___ mg PO QHS:PRN neck pain  
+11.  Metoprolol Succinate XL 50 mg PO DAILY  
+12.  ValACYclovir 1000 mg PO Q24H  
+13.  Vyvanse (lisdexamfetamine) 70 mg oral DAILY  
+14.  Zenpep (lipase-protease-amylase) 10,000-32,000 -42,000 unit 
+oral TID W/MEALS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+#Infectious Colitis
+#Gastroenteritis
+
+SECONDARY DIAGNOSIS
+#Type 1 Diabetes Mellitus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege taking care of you at ___!
+
+WHY WAS I IN THE HOSPITAL?
+- You were having blood with bowel movements
+
+WHAT HAPPENED IN THE HOSPITAL?
+- Imaging showed you had inflammation of your large intestine
+- You developed nausea and vomiting as well
+- Our Gastroenterology team evaluated you
+- It was felt you might have a gastroenteritis ("stomach bug")
+- You were started on antibiotics and given IV fluids
+- ___ Diabetes service also followed you during 
+hospitalization
+- You nearly went into diabetic ketoacidosis ("DKA") but 
+reassuringly this did not happen
+
+WHAT SHOULD I DO AFTER THE HOSPITAL?
+- Please take your medications as directed
+- Please follow up at your appointments as below
+
+WE WISH YOU THE BEST!
+Your ___ Care Team
+ 
+Followup Instructions:
+___

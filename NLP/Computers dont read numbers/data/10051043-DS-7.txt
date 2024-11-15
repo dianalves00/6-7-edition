@@ -1,0 +1,596 @@
+ 
+Name:  ___              ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left sided weakness
+ 
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old woman with a pertinent past medical
+history of microscopia polyangiitis (pANCA/MPO+; presented as
+diffuse alveolar hemorrhages and glomerulonephritis in ___ and
+hx TIA and CVA (last symptomatic stroke ___ who presented on
+___ with left sided weakness to ___ and was
+transferred today to ___ for further management.
+ 
+Ms. ___ was in her normal state of health (she lives alone
+with her dog and is an unemployed ___) until 7:40 AM 
+on
+___, when she awoke from bed and noted that she was 
+weak
+on her left side. She found it difficult to get out of bed. When
+she managed to stand, she felt that her left leg was "wobbly" 
+and
+she could not walk to get to the bathroom. She says that at 2:40
+AM that morning she woke up and used the bathroom before
+returning back to bed, and she did not perceive any symptoms at
+that time. She decided to call an ambulance who transported her
+to ___.
+
+___ discharge summary, patient was noted to be
+tachycardic (103 bpm),  tachypneic (RR23), and hypertensive
+153-160/92-103, saturating well on room air.  Head CT was done
+which demonstrated no acute pathology; chest film was done which
+showed no infiltrate.  Code stroke was not called because she 
+was
+out of the window, but neurology was contacted.  NIHSS was 2 for
+mild ataxia weakness of left arm and subjective numbness of the
+left arm.  She was given 325 mg of oral aspirin.
+
+Per patient, she was able to walk yesterday with a walker
+(patient does not use one at baseline) but she still felt
+"wobbly" though less so than the day before. Today, she feels
+like she is regaining her strength back but she is not ___ at
+her baseline.
+
+Her prior stroke was in ___. She presented to ___ with L 
+NLFF
+and L UE weakness. Of note, had brief episode of diplopia 2
+months before. MRI at ___ showed acute infarction in the right
+putamen, corona radiata and in the left inferior caudate head. 
+She had been started on aspirin during her prior ___ stroke but
+it had been discontinued after diffuse alveolar hemorrhage in
+___.
+
+She notes a cough which has been present for ___ "months". She
+does not currently have health insurance secondary to her
+unemployment and therefore has not had a health maintenace visit
+in > ___ year and takes no medications. 
+
+She has a rheumatologist here at the ___. She attests to last
+having been seen by rheumatology in early ___ after her last
+vasculitis flare in ___, which was treated with 3 days of
+pulse methylprednisolone and several weeks of rituximab. Per
+patient, the course was stopped due to concern for ___ infection
+due to immunosuppression.
+
+On ROS, the pt endorses worsening SOB. She does not note
+palpitations, but says that her HR has been faster than usual.
+She denies headache, loss of vision, blurred vision, diplopia,
+dysarthria, dysphagia, or vertigo. Denies difficulties producing
+or comprehending speech.  Denies numbness, parasthesias. No 
+bowel
+or bladder incontinence or retention.
+ 
+Past Medical History:
+- MPA (pANCA/MPO) vasculitis with diffuse alveolar hemorrhage 
+and
+glomerulonephritis. Diagnosed in ___ - initially treated
+with steroids, plasmapheresis and 6 months of cyslophosphamide.
+Patient refused to start AZA that rheumatology had recommended
+after Cytoxan. Last flare in ___
+- CVA on ___. Presented to ___ with L NLFF and L UE weakness.
+Of note, had brief episode of diplopia 2 months before. MRI at
+___ showed acute infarction in the right putamen, corona
+radiata and in the left inferior caudate head. 
+- Lyme disease (possible). Per notes, diagnosed in ___.
+Symptomatic episodes including arthralgias, Raynaud's, extremity
+pain and weakness. Treated with multiple courses of
+erythromycin/tetracycline in the past over the course of ___ 
+years
+with a "Lyme specialist." However, it is possible that most of
+these symptoms were manifestations of her yet undiagnosed
+vasculitis.
+
+ 
+Social History:
+___
+Family History:
+Mother with unknown cancer.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vitals: T:  P:  R:  BP:  SaO2:
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Pulmonary: Expiratory wheezes noted bilaterally. Patient has
+productive cough.
+Cardiac: Tachycardic, NSR on telemetry, warm, well-perfused
+Extremities: No ___ edema.
+Skin: "microvascular" rash notes on ___, baseline from vasculitis
+per patient
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects. Speech
+was not dysarthric. Able to follow both midline and appendicular
+commands. Pt was able to register 3 objects and recall ___ at 5
+minutes. There was no evidence of apraxia or neglect.
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Could not hear finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE  FE  IP Quad Ham  TA ___  ___  
+L  4+  5-  5-  ___   5   4     4     5     5 
+R  ___   ___   5   5     5     5     5 
+
+-Sensory: No deficits to light touch, cold sensation, vibratory
+sense, proprioception throughout. Patchy difference on pinprick
+on lower extremities bilaterally. Romberg absent. 
+
+-DTRs:
+  ___ Tri ___ Pat Ach
+L  2  2    2    2   2
+R  2  2    2    1   1
+Plantar response was flexor on right and extensor on left.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF, but dysmetria noted on Left
+HKS. No rebound ataxia.
+
+-Gait: Some hesitation. Narrow-based. Spastic.
+
+DISCHARGE PHYSICAL EXAM:
+VS: 97.9 PO 139 / 82 78 18 91 Ra 
+GEN: pleasant, NAD, sitting up in bed, conversant  
+HEENT: sclerae anicteric, MMM, no lesions or thrush, tongue
+deviated slightly towards the R  
+NECK: supple 
+CV: RRR, normal S1 S2, no murmurs  
+PULM: Prominent crackles throughout b/l heard both posteriorly
+and anteriorily, decreased breath bilaterally, occasionally
+coughing during interview
+ABDM: ND, +bowel sounds, soft, nontender
+MSK: no joint swelling or erythema  
+EXTR: wwp, no edema  
+SKIN: no rash on lower extremities
+NEURO: AOx3, CN ___ intact, strength ___ and symmetric in upper
+and lower extremities, minimal ataxia on L with heel-to-shin
+
+ 
+Pertinent Results:
+LABORATORY DATA:
+
+ADMISSION LABS: 
+___:
+___: 12.3 PTT: 27.1 ___: 1.___ 
+Glucose: 89 UreaN: 19 Creat: 1.4* Na: 137 K: 4.8 Cl: 100 HCO3: 
+25
+AnGap: 12 
+ALT: 8 AST: 11 LD(LDH): 182 CK(CPK): 13* AlkPhos: 96 TotBili: 
+0.3
+
+TotProt: 7.1 Albumin: 3.2* Globuln: 3.9 Calcium: 8.8 Phos: 3.9
+Cholest: 132 
+%HbA1c: 5.4 
+Triglyc: 133
+HDL: 38
+LDL: 67 
+TSH: 3.6
+CRP: 43
+
+___:
+___: 12.0 PTT: 25.8 ___: 1.___ 
+Glucose: 92 UreaN: 16 Creat: 1.2* Na: 140 K: 4.2 Cl: 104 HCO3: 
+26
+AnGap: 10 
+CRP: 22
+ESR: 130
+HBsAg: Neg
+HBsAb: Neg
+HBcAb: Neg
+HCV: Neg
+HIV: Neg
+B2 GLYCOPROTEIN I (IGG)AB     <9 (reference <=20 SMU)
+B2 GLYCOPROTEIN I (IGM)AB     <9 (reference <=20 SMU)
+B2 GLYCOPROTEIN I (IGA)AB     <9 (reference <=20 SMU)
+         
+Cardiolipin Ab: PND
+Quant-TB Gold: Negative
+
+DISCHARGE LABS:
+___ 07:35AM BLOOD WBC-7.7 RBC-3.17* Hgb-9.2* Hct-29.0* 
+MCV-92 MCH-29.0 MCHC-31.7* RDW-13.6 RDWSD-46.1 Plt ___
+___ 07:35AM BLOOD Glucose-94 UreaN-18 Creat-1.5* Na-136 
+K-4.5 Cl-98 HCO3-27 AnGap-11
+___ 07:35AM BLOOD Calcium-8.5 Phos-3.9 Mg-2.0
+
+IMAGING STUDIES:
+
+Non-Contrast CT of Head (___):
+No acute intracranial process. No infarct or hemorrhage.
+
+MRI w/o contrast (___):
+- Restricted diffusion of posterior limb of R internal capsule
+with T2/Flair hyperintensity compatible with a late acute to
+early subacute infarction.
+- Probable late acute infarct of posterior R frontal lobe.
+- ?Punctate lobar foci microbleeds
+- Probable chronic hemorrhagic infarcts in L external capsule 
+and
+non hemorrhagic chronic infarcts in basal ganglia.
+
+Echocardiogram (___):
+Normal. LVEF > 55%. No wall motion abnormalities. Trivial
+(physiologic) mitral regurgitation.
+
+Chest (PA & LAT) ___:
+There is essentially no change compared to the examination from 
+2 days prior.  Heart size is top normal with unfolding of the 
+thoracic aorta and subtle knob calcifications.  There is mild to 
+moderate right greater than left pleuroparenchymal scarring.  
+Increased pulmonary interstitial markings appear similar to the 
+prior examination, suggesting a background interstitial lung 
+disease.  Otherwise no new consolidation is seen.  There is no 
+effusion pneumothorax.  There is no acute osseous abnormality. 
+
+CTA Chest ___:
+1. No evidence of pulmonary embolism or acute aortic 
+abnormality. 
+2. Nonspecific diffuse multifocal ___, nodular, and 
+ground glass 
+opacities favor an infectious or inflammatory process.  The 
+ground-glass 
+component is nonspecific, though could be partially explained by 
+mild diffuse 
+alveolar hemorrhage, given the patient's history. 
+3. Diffuse cylindrical bronchiectasis and bronchial wall 
+thickening has 
+progressed since ___. 
+4. Small pericardial effusion. 
+5. Pulmonary nodules, measuring up to 11 mm in mean diameter. 
+ For incidentally detected multiple solid pulmonary nodules 
+bigger than 8mm, a CT follow-up in 3 to 6 months is recommended 
+in a low-risk patient, with an optional CT follow-up in 18 to 24 
+months. In a high-risk patient, both a CT follow-up in 3 to 6 
+months and in 18 to 24 months is recommended. 
+
+MICROBIOLOGY:
+
+___ 8:15 pm SPUTUM      Source: Expectorated. 
+
+   GRAM STAIN (Final ___: 
+      <10 PMNs and <10 epithelial cells/100X field. 
+      4+   (>10 per 1000X FIELD):   MULTIPLE ORGANISMS 
+CONSISTENT WITH     
+                                    OROPHARYNGEAL FLORA. 
+      QUALITY OF SPECIMEN CANNOT BE ASSESSED. 
+
+   RESPIRATORY CULTURE (Preliminary): 
+      MODERATE GROWTH Commensal Respiratory Flora. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+___ 9:10 am SPUTUM     Site: EXPECTORATED
+      Source: Expectorated. 
+
+   GRAM STAIN (Final ___: 
+      ___ PMNs and <10 epithelial cells/100X field. 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      2+   ___ per 1000X FIELD):   MULTIPLE ORGANISMS 
+CONSISTENT WITH     
+                                    OROPHARYNGEAL FLORA. 
+
+   RESPIRATORY CULTURE (Preliminary): 
+      MODERATE GROWTH Commensal Respiratory Flora. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+___ 8:34 am BRONCHOALVEOLAR LAVAGE      RIGHT LOWER LOBE. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   RESPIRATORY CULTURE (Preliminary):    RESULTS PENDING. 
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+      PATIENT CREDITED. 
+      This is a low yield procedure based on our in-house 
+studies. 
+      if pulmonary Histoplasmosis, Coccidioidomycosis, 
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected, 
+contact the
+      Microbiology Laboratory (___). 
+
+   Immunofluorescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___: 
+      SPECIMEN COMBINED WITH SAMPLE # ___ ___. 
+      NEGATIVE for Pneumocystis jirovecii (carinii). 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   NOCARDIA CULTURE (Preliminary):    NO NOCARDIA ISOLATED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+___ 8:34 am BRONCHOALVEOLAR LAVAGE      RIGHT LOWER LOBE. 
+
+   VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Preliminary): 
+      SPECIMEN COMBINED WITH SAMPLE # ___ ___. 
+      No Cytomegalovirus (CMV) isolated. 
+
+   CYTOMEGALOVIRUS EARLY ANTIGEN TEST (SHELL VIAL METHOD) 
+(Preliminary): 
+
+___ 8:34 am Rapid Respiratory Viral Screen & Culture
+      RIGHT LOWER LOBE. 
+
+   Respiratory Viral Culture (Preliminary): 
+      SPECIMEN COMBINED WITH SAMPLE # ___ ___. 
+
+   Respiratory Viral Antigen Screen (Final ___: 
+      Negative for Respiratory Viral Antigen. 
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3, 
+Influenza A, B,
+      and RSV by immunofluorescence. 
+      Refer to respiratory viral culture and/or Influenza PCR 
+(results
+      listed under "OTHER" tab) for further information.. 
+      SPECIMEN COMBINED WITH SAMPLE # ___ ___. 
+
+BRONCHOSCOPY: ___
+Airways were mildly erythematous diffusely. There were purulent 
+secretions in the right middle and lower lobes, and left upper 
+lobe. The right upper, middle, and lower lobe subsegments were 
+inspected, without evidence of mass, mucosal lesions, or other 
+abnormality. The left upper and lower lobe subsegments were 
+inspected without evidence of mass, mucosal lesions, or other 
+abnormality. Serial bronchoalveolar lavage was performed in the 
+right upper lobe apicoposterior segment with return to clear 
+fluid on the first lavage, and slightly pink fluid on the 
+second, findings which are not suggestive of alveolar hemorrhage 
+though do not definitively exclude it. Bronchoalveolar lavage 
+was performed in the right lower lobe with return of pink fluid. 
+No areas of dried blood or previous stigmata of bleeding or 
+alveolar hemorrhage were noted. 
+ 
+Brief Hospital Course:
+___ with a history of microscopic polyangiitis vasculitis 
+(pANCA/MPO), CVA (___) and several TIAs, who presented to ___ 
+___ on ___ with L-sided weakness, found to have a subacute 
+stroke, transferred to ___ to neurology service, found 
+to have pAfib with RVR as well as bronchiectasis and multifocal 
+opacities on CT Chest, transferred to medicine for further 
+management. 
+
+#Subacute stroke, posterior limb of L internal capsule  
+Patient initially presented tp ___ with left sided 
+weakness, transferred to ___ for further stroke work-up and 
+Rheumatology co-management. Patient has a history of multifocal 
+small vessel strokes back in ___. ASA had been started in ___ 
+after her stroke but discontinued in the setting of Diffuse 
+Alveolar Hemorrhage presentation in ___. On presentation here, 
+she had mild weakness on the Left UE and ___ and ___ extensor 
+plantar response on left. No facial weakness or CN involvement. 
+On MRI done at ___, she found to have restricted 
+diffusion of the posterior limb of left internal capsule 
+consistent with new acute stroke, and L parietal subacute 
+stroke. Review of imaging showed the locations of prior chronic 
+infarcts, no additional microhemorrhages were noted on gradient 
+echo. Regarding the etiology of her stroke, the patient as found 
+to have occasional episodes of Afib with RVR (new diagnosis for 
+her), suggesting a cardioembolic source. OSH ECHO was neg for 
+structural abnormalities. Although patient has history of 
+microscopic polyangitis, less likely due to CNS vasculitis 
+because per rheumatology, would only be a concern if patient had 
+extremely active rheumatologic process, which is not her 
+presentation as her renal function is close to her baseline. 
+Furthermore, there was no clear beading / vascular change on CTA 
+to suggest vasculitis. Stroke workup was otherwise negative, CTA 
+did not show significant atherosclerosis or large or medium 
+vessel disease. Patient does not have notable metabolic risk 
+factors. Regarding her course, L-sided weakness and ataxia with 
+significant improvement here. Patient worked with physical 
+therapy and discharged to home with outpatient ___. Started on 
+apixaban for AF after multiple discussions of risks and 
+benefits. Patient was accidentally discharged on ongoing ASA as 
+well; this was an error, as patient has no indication for ASA if 
+she is on apixaban. Multiple attempts made to contact patient by 
+phone without response. Will continue attempting contact. I 
+anticipate that the patient is probably not taking either of 
+these medications due to her reluctance. Also attempted to start 
+patient on atorvastatin on discharge but patient was not 
+amenable to statin treatment. Hypercoagulability workup/APLS 
+testing pending at the time of discharge (b2 glycoprotein, 
+anticardiolipin, lupus anticoagulant).
+
+#Paroxysmal Afib with RVR  
+Patient had two episodes of acute tachycardia and felt 
+palpitations. Tele demonstrated irregular rhythm with no 
+distinguishable p waves and HR to 160s c/f Afib with RVR. Went 
+back into sinus rhythm. Per patient, no prior history of Afib. 
+ECHO negative for valvular disease. CHA2DS2VASc (stroke, gender, 
+HTN) of 4, putting her at 4.8%risk per yr. ___ 
+(renal,stroke, bleed) of 3. 4.8% stroke risk per year. Patient 
+initially very hesitant to start anticoagulation but eventually 
+was amenable to starting apixaban. Also started on metoprolol. 
+ASA should be stopped - have attempted to reach patient by phone 
+without success.
+
+#Chronic cough and shortness of breath
+Patient has had a cough productive of white sputum for ___ 
+months, which she states has been improving. She has also had 
+SOB for the past ___ weeks. ___ negative. Patient has not been 
+on immunosupression since last flare in ___ when she 
+presented with hemoptysis, treated with pulse methylpred and 
+Rituximab, stopped when bronch sputum cx grew ___ and 
+___ Psuedomonas and patient refused triple abx therapy 
+at the time. Patient very hesitant to use abx use after accruing 
+SEs from chronic use of erythromycin/tetracyclines for putative 
+Lyme. ID was consulted to evaluate infx status especially given 
+untreated ___ and Pseudomonas. Found to have extensive 
+bronchiectasis and multifocal opacities on CT Chest as well as 
+ESR 130. Given concern for DAH iso ?active MPA vasculitis flair, 
+bronchoscopy was performed on ___ which demonstrated purulent 
+secretions in the right middle and lower lobes but no strong 
+evidence of alveolar hemorrhage. Thus, etiology of cough/sputum 
+likely thought to be secondary to infection with either ___ 
+and/or pseudomonas. Less likely due to vasculititis because per 
+rheumatology, her pulmonary presentation is not consistent with 
+sequelae of microscopic polyangitis. Prelim cultures (BAL+sputum 
+x2) with oral flora and GNRs, still pending at time of 
+discharge. Respiratory viral screen negative, quantiferon gold 
+negative. HIV/HepB/HepC negative. Given stable respiratory 
+function, patient discharged with plan for f/u with rheum and ID 
+regarding need for abx vs. immunosuppression (e.g. rituximab). 
+Per pulm recs, patient was recommended treatment for preseumed 
+CAP but declined antibiotics at this time. Patient determined to 
+have capacity for this and other decisions, indicating clear 
+understanding of the risks and benefits in the setting of 
+rational thought processes.
+
+#renal impairment
+#ANCA vasculitis  
+Admitted with Cr of 1.4 (baseline 1.3 in ___. History of MPA 
+presenting with glomerulonephritis in ___. Has not had renal 
+biopsy in the past and wast lost to f/u with rheum and nephron 
+clinics after second flare. Kidney function has been stable over 
+the years with Cr and proteinuria at baseline. Sediment showing 
+acanthocytes and dysmorphic red cells. Could be c/f active 
+vasculitis but finding can be seen in chronic ANCA patient w/o 
+flare. Renal biopsy would not be clinically beneficial at this 
+time. Plan for f/u with outpatient nephrologist, Dr. ___. 
+ANCA titer to assess disease activity pending at time of 
+discharge.
+
+CORE MEASURES:  
+#Nutrition: Regular
+#VTE prophylaxis: apixaban
+#Code status: FC confirmed w patient  
+#Health care proxy/emergency contact: ___ (son) 
+___  
+#Consulting Services: Renal, ID, Pulm, Neuro, Rheum 
+
+Transitional Issues:
+[] Pt will have follow-up with ID regarding treatment of active 
+pulmonary infections, specifically NTMB, and will require 
+treatment prior to initiation of immunosuppression
+[] Pt started on apixaban for ongoing anticoagulation given her 
+history of atrial fibrillation and stroke
+[] Pt will need to establish a new primary care doctor in the 
+next week when her insurance coverage is more stable, and we 
+discussed the importance of this with her prior to discharge. 
+[] Continue to attempt contact with patient to instruct her not 
+to take ASA while taking apixaban
+ 
+Medications on Admission:
+No medications.
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice daily 
+Disp #*60 Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+5.Outpatient Physical Therapy
+Evaluate and Treatment
+___ weeks, 3x/wk
+ICD-10 J47.9
+Bronchiectasis, uncomplicated
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Subacute stroke, posterior limb of L internal capsule
+Paroxysmal Afib with RVR
+Microscopic polyangiitis vasculitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+WHY YOU CAME TO THE HOSPITAL
+- You were having weakness in your left leg
+- You had also been having a cough for the past few months
+- You originally went to ___, and you were transferred 
+to ___ for further care
+
+WHAT WE DID IN THE HOSPITAL
+- You had an MRI of your brain, which showed that you had a 
+stroke on the right side of your brain
+- You had a CT scan of your lungs, which showed a significant 
+amount of inflammation in your lungs
+- You had a bronchoscopy, which did not show any bleeding in 
+your lungs but did show inflammation. We took samples of the 
+fluid in your lungs to check for an infection
+
+WHAT YOU NEED TO DO WHEN YOU GET HOME
+-Please take the Eliquis, metoprolol, and atorvastatin as 
+prescribed
+-Please schedule an appointment to work with a physical 
+therapist. We have given you a prescription you can bring to any 
+physical therapist.
+-Please follow up with Dr. ___ (Infectious 
+Disease), Dr. ___ (Kidney), and Dr. ___ 
+___ (Rheumatology). You will need to call to make a new 
+primary care appointment
+ 
+Followup Instructions:
+___

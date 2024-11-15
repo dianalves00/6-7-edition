@@ -1,0 +1,283 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea on exertion
+ 
+Major Surgical or Invasive Procedure:
+___ Cardiac Cath
+___ Aortic valve replacement with a 21 mm Bicor Epic St. 
+___ valve
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year old woman with a history of aortic 
+stenosis which has been followed by serial echocardiograms. Most 
+recent echocardiogram in ___ revealed severe aortic stenosis 
+with peak and mean gradients of 52 and 31mmHg, respectively. The 
+aortic valve area was 0.8cm2. Since ___, she noted 
+progressively worsening fatigue, dyspnea on exertion and 
+decreased exercise tolerance. She stated that while on a 
+vacation with friends, she noted that she became short of breath 
+while walking for about 5 minutes on a flat surface and that she 
+had difficulty keeping up with her friends. She also stated that 
+at times when she had dyspnea on exertion, she also experience 
+chest pressure. The chest pressure would resolve after about a 
+minute of rest. In addition, she complained of postural 
+dizziness, palpitations and nocturia. Given the progression of 
+her symptoms, she was referred to Dr. ___ surgical 
+evaluation.
+ 
+Past Medical History:
+Aortic Stenosis
+Anxiety
+Arthritis
+Bulging Disc L4-L5
+Chronic Obstructive Pulmonary Disease
+Endometriosis
+Fatty Liver
+Hiatal Hernia s/p repair
+Hypertension
+Hyperlipidemia
+Hypothyroid
+Motor Vehicle Accident
+Obesity
+Protruding Disc L5-S1
+Spinal Stenosis
+Total abdominal hysterectomy
+Tonsillectomy
+Appendectomy
+Lap Band ___ band deflated preop
+ 
+Social History:
+___
+Family History:
+Father - died at age ___ from complications of CABG at ___
+Mother - died at age ___ history of abdominal surgery for 
+cancer, history of Alzheimer's disease
+Sister - PFO
+Sister - ___, peritonitis
+Brother - history of throat and colon cancer, deceased
+ 
+Physical Exam:
+HR: 85  BP: 147/93  RR: 22  O2 Sat: 93% RA 
+Height: 64"    Weight: 212     BSA:
+
+General: Mildly anxious woman, NAD
+Skin: Warm, dry and intact
+HEENT: NCAT, PERRLA, EOMI
+Neck: Supple, full ROM
+Chest: Lungs clear bilaterally 
+Heart: Regular rate and rhythm, III/VI systolic ejection murmur
+Abdomen: Normal bowel sounds, protruberant, non-tender, 
+non-distended
+Extremities: Warm, well-perfused, trace edema 
+Varicosities: Superficial varicosities
+Neuro: Grossly intact 
+Carotid Bruit  -  transmitted murmur
+ 
+Pertinent Results:
+___ Cath: right dominant LMCA: absent; LAD arises from left 
+cusp; LCX arises from proximal RCA LAD:  normal LCX:  arises 
+anomalously from proximal RCA; normal RCA:  normal
+.
+___ Carotid U/S: Findings as stated above which indicate no 
+significant ICA stenosis bilaterally (graded as less than 40% 
+bilaterally).
+.
+___ Echo: PRE-BYPASS: Limited exam due to pt's history of 
+gastric banding. Upper and mid-esophageal views only. No 
+spontaneous echo contrast is seen in the body of the left 
+atrium. Regional left ventricular wall motion is normal. Overall 
+left ventricular systolic function is normal (LVEF>55%). The 
+ascending, transverse and descending thoracic aorta are normal 
+in diameter and free of atherosclerotic plaque. The aortic valve 
+leaflets are moderately thickened. There is critical aortic 
+valve stenosis (valve area 0.7cm2 by planimetry)). The mitral 
+valve leaflets are mildly thickened. Trivial mitral 
+regurgitation is seen. Post-Bypass: Pt is being AV-paced and is 
+on a phenylephrine infusion. Global LV and RV function remains 
+unchanged. There is a well seated 21mm ___ bioprosthetic 
+valve in place. There is no perivalvular leak. Residual 
+gradients unable to be obtained. Other valvular structures 
+remain unchanged from prior. Remainder of the exam is unchanged.
+.
+
+___ 04:33AM BLOOD WBC-7.5 RBC-2.80* Hgb-8.6* Hct-25.1* 
+MCV-90 MCH-30.9 MCHC-34.3 RDW-12.5 Plt ___
+___ 02:01AM BLOOD WBC-11.2* RBC-3.27* Hgb-10.1* Hct-29.7* 
+MCV-91 MCH-31.0 MCHC-34.1 RDW-12.6 Plt ___
+___ 02:01AM BLOOD ___ PTT-29.5 ___
+___ 04:33AM BLOOD Na-132* K-3.4 Cl-92*
+___ 02:01AM BLOOD Glucose-137* UreaN-9 Creat-0.5 Na-134 
+K-4.0 Cl-104 HCO3-25 AnGap-9
+___ 04:51AM BLOOD Glucose-108* UreaN-10 Creat-0.6 Na-127* 
+K-4.1 Cl-92* HCO3-28 AnGap-11
+ 
+Brief Hospital Course:
+Mrs. ___ was admitted following her cardiac cath on ___. She 
+underwent usual pre-operative testing and was brought to the 
+operating room on ___ where she underwent an aortic valve 
+replacement. Please see operative note for surgical details. 
+Following surgery she was transferred to the CVICU for invasive 
+monitoring in stable condition.  
+POD 1 found the patient extubated, alert and oriented and 
+breathing comfortably.  The patient was neurologically intact 
+and hemodynamically stable, weaned from inotropic and 
+vasopressor support.  Beta blocker was initiated and the patient 
+was gently diuresed toward the preoperative weight.  The patient 
+was transferred to the telemetry floor for further recovery.  
+Chest tubes and pacing wires were discontinued without 
+complication.  She developed hyponatremia which improved with 
+fluid restriction.  The patient was evaluated by the physical 
+therapy service for assistance with strength and mobility.  By 
+the time of discharge on POD 4 the patient was ambulating 
+freely, the wound was healing and pain was controlled with oral 
+analgesics.  The patient was discharged home with ___ in good 
+condition with appropriate follow up instructions.
+ 
+Medications on Admission:
+ALPRAZOLAM - alprazolam 0.5 mg tablet. 1 tablet(s) by mouth 
+three
+times a day as needed for prn -  (Prescribed by Other Provider)
+ATORVASTATIN - atorvastatin 20 mg tablet. 1 tablet(s) by mouth
+once a day -  (Prescribed by Other Provider)
+BUPROPION HCL [WELLBUTRIN SR] - Wellbutrin SR 100 mg
+tablet,sustained-release. 1 tablet extended release(s) by mouth
+once a day -  (Prescribed by Other Provider)
+DILTIAZEM HCL - diltiazem CD 240 mg capsule,extended release 24
+hr. 1 capsule,extended release 24hr(s) by mouth once a day - 
+(Prescribed by Other Provider)
+FLUTICASONE-SALMETEROL [ADVAIR DISKUS] - Advair Diskus 250 
+mcg-50
+mcg/dose powder for inhalation. 1 puffs inh twice a day - 
+(Prescribed by Other Provider)
+FUROSEMIDE - furosemide 20 mg tablet. 1 tablet(s) by mouth once 
+a
+day -  (Prescribed by Other Provider)
+LEVOTHYROXINE - levothyroxine 100 mcg tablet. 1 tablet(s) by
+mouth once a day -  (Prescribed by Other Provider)
+LIDOCAINE [LIDODERM] - Lidoderm 5 % (700 mg/patch) Adhesive
+Patch. apply daily during the day (wear 12 hours) -  (Prescribed
+by Other Provider)
+TRAMADOL - tramadol 50 mg tablet. ___ tablet(s) by mouth three
+times a day as needed for prn -  (Prescribed by Other Provider)
+TRIAMTERENE-HYDROCHLOROTHIAZID - triamterene 37.5
+mg-hydrochlorothiazide 25 mg capsule. 1 capsule(s) by mouth once
+a day -  (Prescribed by Other Provider)
+ 
+Medications - OTC
+CALCIUM PHOSPHATE-VITAMIN D3 [CITRACAL + D] - Citracal + D 250 
+mg
+calcium-250 unit chewable tablet. 1 tablet, chewable(s) by mouth
+once a day -  (Prescribed by Other Provider)
+CHOLECALCIFEROL (VITAMIN D3) - cholecalciferol (vitamin D3) 
+1,000
+unit capsule. 1 capsule(s) by mouth once a day -  (Prescribed by
+Other Provider)
+IBUPROFEN [ADVIL] - Advil 200 mg tablet. 3 tablet(s) by mouth
+q6hrs as needed for prn -  (Prescribed by Other Provider)
+LACTOPEROXI-GLUC OXID-POT THIO [BIOTENE ORALBALANCE] - Dosage
+uncertain -  (Prescribed by Other Provider)
+MULTIVITAMIN-MINERALS-LUTEIN [CENTRUM SILVER] - Centrum Silver
+tablet. 1 tablet(s) by mouth once a day -  (Prescribed by Other
+Provider)
+ 
+Discharge Medications:
+1. ALPRAZolam 0.5 mg PO TID:PRN anxiety 
+RX *alprazolam 0.5 mg 1 tablet(s) by mouth three times a day 
+Disp #*30 Tablet Refills:*0
+2. Atorvastatin 20 mg PO DAILY 
+3. BuPROPion (Sustained Release) 100 mg PO QAM 
+4. Fluticasone-Salmeterol Diskus (250/50)  2 INH IH DAILY 
+5. Levothyroxine Sodium 100 mcg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*40 Tablet Refills:*0
+8. Aspirin EC 81 mg PO DAILY 
+RX *aspirin [Aspirin Low Dose] 81 mg 1 tablet,delayed release 
+(___) by mouth daily Disp #*30 Tablet Refills:*0
+9. Metoprolol Tartrate 25 mg PO BID 
+RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+10. Citracal + D (calcium phosphate-vitamin D3) 250 mg calcium- 
+250 unit Oral daily 
+11. flaxseed oil-omega 3,6,9 1,300 mg-845 mg -117 mg-117 mg Oral 
+daily 
+12. Furosemide 20 mg PO DAILY 
+13. Nephrocaps 1 CAP PO DAILY 
+14. Triamterene-Hydrochlorothiazide 1 CAP PO DAILY 
+15. Lidocaine 5% Patch 1 PTCH TD DAILY 
+RX *lidocaine [Lidoderm] 5 % (700 mg/patch) 1 patch daily Disp 
+#*30 Each Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Aortic Stenosis s/p Aortic valve replacement
+Past medical history:
+Anxiety
+Arthritis
+Bulging Disc L4-L5
+Chronic Obstructive Pulmonary Disease
+Endometriosis
+Fatty Liver
+Hiatal Hernia s/p repair
+Hypertension
+Hyperlipidemia
+Hypothyroid
+Motor Vehicle Accident
+Obesity
+Protruding Disc L5-S1
+Spinal Stenosis
+Total abdominal hysterectomy
+Tonsillectomy
+Appendectomy
+Lap Band ___ band deflated preop
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with Ultram
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Edema trace
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

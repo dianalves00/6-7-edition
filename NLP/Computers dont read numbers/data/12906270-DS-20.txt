@@ -1,0 +1,377 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Morphine / Atovaquone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Depression with suicidal ideation and attempt
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with HIV/AIDS (last CD4 count 124 in 
+___, likely medication non-compliance, CNS toxoplasmosis with 
+right-sided thalamic pain syndrome, depression with previous 
+suicide attempts. He was transferred from the ___ 
+___ (___) emergency department for continuity of 
+care at ___ after reported suicidal ideation with attempted 
+suicide by walking into traffic on the morning of presentation. 
+Notably, the patient refuses to speak to the medical team in 
+___ and ___, have vital signs taken, and to take 
+medications. This note thus largely reflects the written record.
+.
+The patient was taken to the ___ ___ by ambulance after a 
+bystander called ___ after hearing the patient crying and saying 
+"I can't live like this." In the ___ ___, ___ paperwork 
+was filed, and the patient was given levetiracetam 1000 mg IV 
+bolus for R arm tremor, which is chronic per ___ records. He 
+was transferred to the ___ ___ for continuity of care. Initial 
+___ vitals were: T 97.8F, HR 53, BP 99/53, RR 18, O2 95% RA. He 
+was A&Ox2 (not date). He is documented to report worsening 
+depression, suicidal ideation, an attempt to walk into traffic, 
+and wanting help to prevent self harm. The cranial CT scan 
+shwoed no new lesions, stable thalamic calcifications decreased 
+in size compared to ___ CT. However, a ___ MRI showed 
+___ enhancement, with DDx of immune reconstitution vs. 
+worsening toxoplasmosis.
+
+ 
+Past Medical History:
+#HIV/AIDS: Diagnosed in ___. Last labs ___: CD4 125, viral 
+load undetectable.
+#CNS toxoplasmosis: Diagnosed ___ on CT in left 
+thalamocapsular region. Treated in ___. Residetual 
+right-sided weakness and sensory loss.
+#Major Depression: s/p multiple suicide attempts, thought to be 
+linked to pain.
+#HIV Dementia: Neuropsych testing in ___ revealed broad 
+cognitive impairment in executive function, memory, and 
+language.
+#Seizure disorder: Witnessed complex partial seizure in 
+neurology clinic in ___. No frank epileptiform activity on 
+multiple EEGs. Prophylaxis started in ___ during toxoplasmosis 
+treatment, with Rx of levetiracetam 1000 mg po qday.
+#Chronic pain: s/p MVA at age ___
+#History of neprholithiasis: Lithotripsy and L ureteral stent 
+placement in ___. Lithotripsy and stent placement ___.
+#Chronic otitis media (> ___ yrs)
+#Pruitis Nodularis: Resolved s/p HIV treatment
+ 
+Social History:
+___
+Family History:
+Per OMR: Left ___ at age ___. Unknown family history. Father may 
+have died from cancer.
+ 
+Physical Exam:
+Vitals refused. Non tachypenic.
+Gen/Behavior: Well-appearing man resting with eyes closed, 
+sometimes with television on a religious channel. Refuses to 
+talk to the team, have vitals taken, or take any medications. 
+When asked questions, modal response is "I don't know" or "No 
+se." Shows selective volitional action, such as sitting up and 
+saying, "No don't take that" after oxycodone and $2800 in cash 
+were discovered in his clothing or manipulating the TV remote.
+Pulm: Breathing comfortably.
+Neuro: Alert. Unable to test orientation. Able to open eyes, 
+mouth (CNVII).
+
+ 
+Pertinent Results:
+___ 06:21AM   PLT COUNT-196
+___ 06:21AM   NEUTS-48.7* ___ MONOS-7.9 EOS-1.9 
+BASOS-1.1
+___ 06:21AM   WBC-3.4* RBC-4.19* HGB-13.3* HCT-39.0* MCV-93 
+MCH-31.6 MCHC-34.0 RDW-13.9
+___ 06:21AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 06:21AM   TSH-0.85
+___ 06:21AM   CALCIUM-8.1* PHOSPHATE-3.0 MAGNESIUM-2.1
+___ 06:21AM   ALT(SGPT)-18 AST(SGOT)-28 ALK PHOS-85 TOT 
+BILI-0.9
+___ 06:21AM   GLUCOSE-112* UREA N-9 CREAT-0.7 SODIUM-138 
+POTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-27 ANION GAP-10
+___ 06:38AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-4* PH-8.0 
+LEUK-NEG
+___ 06:38AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 06:38AM URINE  COLOR-Yellow APPEAR-Clear SP 
+___
+.
+CT Head: Slight interval decrease of the calcified lesions at 
+the left thalamus/ cerebral peduncle compared to ___. 
+No new suspicious lesions. 
+EKG: Reported as (not in chart): NSR HR 58 Normal axis and 
+intervals. Diffuse J point elevation. No acute changes.
+ 
+Brief Hospital Course:
+___ man with history of HIV/AIDS (last CD4 124 in ___, CNS 
+toxoplasmosis with right-sided thalamic pain syndrome, 
+depression, and multiple previous suicide attempts transferred 
+from ___ ___ after suicidial ideation and suicide attempt, 
+admitted for medical evaluation.
+.
+# Organic Dementia, AIDS Dementia Complex, CNS Toxoplasmosis:
+The patient was admitted to the medicine service from the ___ on 
+a ___ due to suicidal ideation with reported attempt to 
+walk into traffic. However, evaluation by psychiatry and the 
+patient's outpatient cognitive neurologist for years (Dr. 
+___ resulted in the assessment that dementia, likely due to 
+HIV infection and CNS toxoplasmosis, was the dominant process. 
+Medical evaluation for other causes of mental status change was 
+negative. Repeat head CT on admission showed no new lesions, 
+with thalamic calcifications smaller compared to ___ study. 
+Laboratory testing showed no metabolic derangements, normal TSH, 
+normal AST and ALT, and negative RPR. Notably, the patient 
+failed to take his HIV medications consistently despite multiple 
+trials of his medications so they were stopped. He also refused 
+prophylactic medications for toxoplasma. The patient had 
+previously taken levetiracetam for seizure prophylaxis (please 
+see Seizure Disorder below).  He was set up with ID and 
+Neurology for follow-up to reconsider initiation of HAART after 
+transition to a stable unit. 
+. 
+# Depression/Suicidal Ideation:
+The patient has chronic depression with multiple past suicide 
+attempts. He has prescriptions for several psychoactive 
+medications (citalopram, duloxetine, quetiapine, olanzapine) but 
+presented with likely medication non-compliance, confirmed with 
+the patient's ex-partner and her son. On ___ presentation, the 
+patient reported suicidal ideation, an attempt to walk into 
+traffic, and fear of self harm in the context acute homelessness 
+for ___ days after eviction by his ex-partner. Since 
+presentation, the patient has denied having suicidal ideation at 
+presentation and denied telling any care providers that he had 
+active or passive suicidality. The patient was initially 
+admitted on ___, but ___ was deemed inappropriate 
+given likely organic dementia secondary to AIDS and CNS 
+toxoplasmosis. he was assessed by psychiatry, with conclusion 
+that he had no capacity to make the decision to leave the 
+hospital against medical advice given recent confusion, 
+inability to remember recent events, and inability to seek 
+health care without assistance. Given the patient's history of 
+mood lability, prior suicide attempts, and inability to care for 
+himself, the patient was placed on 1-on-1 monitoring and 
+encouraged to resume home medications.  After admission, the 
+patient has consistently denied ever having suicidal ideation 
+immediately before admission or reporting suicidal ideation to 
+any care providers. The patient was assessed by his outpatient 
+cognitive neurologist and psychiatry, with conclusion that the 
+patient had no active suicidal ideation and that disinhibition 
+could be attributed to organic dementia. He was discontinued on 
+1:1 monitoring. However, due to noted deficits in cognition, the 
+patient was again deemed to be without capacity to leave the 
+hospital against medical advice (see Dementia above).  
+Outpatient psych medications were definitively stopped and he 
+was started on seroquel, olanzapine, and continued on lorazepam 
+as needed for agitation. 
+.
+# HIV Infection:
+The patient's last HIV labs are from ___, with CD4 of 125 and 
+undetectable viral load. However, the patient's ex-partner 
+reported chronic medication non-compliance. During 
+hospitalization, the patient refused to take HIV ARVs and 
+prophylactic medications. Consultation by the patient's 
+outpatient HIV doctor, ID Fellow Dr. ___, resulted in 
+the recommendation for interim discontinuation of HIV ARVs due 
+to inconsistent use while continuing prophylactic medications 
+for toxoplasmosis(clindamycin, pyrimethamine, leucovorin) and 
+PCP ___ (dapsone).  Set up with ID follow up.  
+.
+# Social Situation:
+The patient was evicted from his ex-partner's home after her 
+family deemed him to be too great a social and emotional burden 
+on the family, especially given the ex-partner's own health 
+problems. The patient has no known family in the area, as his 
+relatives are thought to be in ___ and ___. Further, the 
+patient's pharmacy reports suspension of prescription coverage.
+.
+# CNS Toxoplasmosis:
+Please see the HIV section above. The patient refused all HIV 
+medications during admission. Although an admission head CT 
+showed decreased size of thalamic calcifications, worsening 
+toxoplasmosis could not be excluded on imaging alone.
+.  
+# Seizures:
+The written record contains a witnessed partial complex seizure 
+(see Dr. ___, ___ during a neurology clinic visit. 
+However, frank no frank epileptiform activity has been seen on 
+multiple EEGs. Levetiracetam was initiated in ___ by infectious 
+disease on initiation of treatment for toxoplasmosis. On 
+admission, the patient had been given 1000 mg levetiracetam in 
+the ___ ___. However, he refused seizure medications after 
+admission. Evaluation of the patient's mental status was 
+persistently difficult due to non-cooperation. However, he 
+showed no clinical signs of seizures while on 1-to-1 monitoring. 
+Psychiatry recommendations included consideration of stopping 
+levetiracetam due to potential impacts on mood lability. The 
+medication was stopped after discussion with neurology and his 
+mood improved. he continues to have chronic intermittent right 
+arm tremors that are stable.
+.
+# Chronic Pain, Post-traumatic and Thalamic
+The patient has documented chronic pain, both due to thalamic 
+toxoplasmosis and post-traumatic pain after a remote motor 
+vehicle accident. During hospitalization, he frequently refused 
+most medications for neurogenic pain, only occasionally 
+requesting oxycodone and lyrica and Ativan.
+.
+# GERD/Duodenitis
+Per record, the patient has a history of GERD with question of 
+duodenitis. He refused ranitidine during hospitalization.
+.  
+# Lung Disease, Tobacco Abuse
+The patient was offered nicotine lozenges, which he refused. He 
+asked to be allowed to go outside to smoke, which was denied 
+based on safety concerns. He further refused his home 
+fluticasone and salmeterol (Advair).  This was stopped.  
+
+# Acute on chronic otitis media: pt has a hx of ear infections. 
+He complained of ear pain on ___, and exam showed concern for 
+developing infection in left ear. He was started on azithro, but 
+pt refused to take the medicaitons. Sx were monitored and abx 
+reoffered daily.
+
+# Guardianship: After a multidicipliary meeting of psych, ID, 
+and the primary team, with added recommendations from cognitive 
+neurologist and the patient's PCP it was decided the pt lacked 
+judgement abilities to care for himself and make medical 
+decisions. Court date for attaining guardianship is ___. After 
+he receives guardianship, he can be discharged to a SNF.  He was 
+appointed a guardian by the court and discharged to a SNF with 
+plan for transition to longer-care institution thereafter (i.e 
+HIV patient housing).  
+ 
+Medications on Admission:
+The patient's medication compliance is uncertain on admission. 
+The following medications were confirmed by his pharmacy on 
+reconciliation:
+
+ALBUTEROL SULFATE 90 mcg HFA Aerosol Inhaler - 2 puffs ih qid 
+prn  
+ATAZANAVIR - 300 mg Capsule - 1 Capsule(s) by mouth once a day  
+CITALOPRAM [CELEXA] 40 mg Tablet 1 Tablet(s) PO daily  
+CLINDAMYCIN HCL 300 mg Capsule 2 Capsule(s) PO TID  
+DAPSONE: 100 mg PO daily for PCP prophylaxis 
+___ [TRUVADA] 200 mg-300 mg Tablet PO daily  
+
+FAMOTIDINE 20 mg Tablet PO q12 hours  
+FLUTICASONE-SALMETEROL 500 mcg-50 mcg/Dose Disk with Device 1 
+puff(s) IH twice a day  
+LEUCOVORIN CALCIUM - 25 mg Tablet PO daily  
+LEVETIRACETAM [KEPPRA] 1,000 mg Tablet PO BID  
+LOPINAVIR-RITONAVIR [KALETRA] 50 mg-200 mg Tablet 2 Tablet(s) PO 
+BID  
+LORAZEPAM - 1 mg Tablet - 1 Tablet(s) by mouth at bedtime  
+MIRTAZAPINE - 45 mg Tablet - 1 Tablet(s) by mouth at bedtime  
+OLANZAPINE [ZYPREXA] - 20 mg Tablet - 1 Tablet(s) by mouth at  
+bedtime  
+OXYCODONE - 30 mg Tablet - 2 Tablet(s) by mouth every 3 hours as 
+ 
+needed for right-sided body pain. Fill ___  
+PREGABALIN [LYRICA] - 300 mg Capsule - 1 Capsule(s) by mouth  
+twice a day  
+PYRIMETHAMINE - 25 mg Tablet - 3 Tablet(s) by mouth once a day  
+QUETIAPINE [SEROQUEL] - 300 mg Tablet - 1 Tablet(s) by mouth at  
+
+bedtime  
+QUETIAPINE [SEROQUEL] - 100 mg Tablet - 1 Tablet(s) by mouth q6  
+
+hours prn agitation  
+ZOLPIDEM [AMBIEN] - 10 mg Tablet - 1 Tablet(s) by mouth at  
+bedtime  
+ 
+Discharge Medications:
+1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q6H (every 6 hours) as needed for shortness 
+of breath or wheezing.  
+2. clindamycin HCl 150 mg Capsule Sig: Four (4) Capsule PO Q8H 
+(every 8 hours).  
+3. dapsone 100 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 
+hours).  
+5. leucovorin calcium 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for agitation.  
+7. Zyprexa 20 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+8. oxycodone 60 mg Tablet Extended Release 12 hr Sig: One (1) 
+Tablet Extended Release 12 hr PO every four (4) hours as needed 
+for pain.  
+9. pregabalin 75 mg Capsule Sig: Four (4) Capsule PO BID (2 
+times a day).  
+10. pyrimethamine 25 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+11. quetiapine 100 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day) as needed for agitation.  
+12. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+13. prochlorperazine maleate 10 mg Tablet Sig: One (1) Tablet PO 
+Q6H (every 6 hours) as needed for nausea.  
+14. zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+15. nicotine (polacrilex) 2 mg Lozenge Sig: One (1) Lozenge 
+Buccal Q2H (every 2 hours) as needed for nicotine craving.  
+16. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO TID 
+(3 times a day).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Depressive disorder with suicidal ideation, attempt
+
+Scondary:
+Human Immunodeficiency Virus
+Human Immunodeficiency Virus dementia
+Central Nervous System Toxoplasmosis
+Seizure disorder
+Thalamic pain syndrome
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because of worsening 
+depression. While you were in the hospital, we had psychiatrists 
+evaluate you.  We also gave you medicines to treat some of the 
+infections associated with HIV.  After reviewing your case with 
+psychiatry, we felt it was best that you go to an extended care 
+facility after you leave the hospital.
+.
+We made the following medication changes:
+(1) Please stop atazanavir
+(2) Please stop truvada
+(3) Please stop kaletra
+(4) Please stop celexa
+(5) Please stop advair 
+(6) Please stop keppra (you don't need this anti-seizure 
+medication).
+(7) Please stop ambien
+(8) Start oxycodone 60 mg every 4 hours as needed for pain. 
+(9) Start compazine and omeprazole as needed for nausea 
+(10) Start nicotine lozenges as needed for nicotine cravings
+(11) Start colace to help with bowel movements 
+ 
+Followup Instructions:
+___

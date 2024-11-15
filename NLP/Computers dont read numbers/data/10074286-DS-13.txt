@@ -1,0 +1,283 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute Renal Failure
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ year old Male with who presents with acute renal failure on 
+stage II CKD. Patient has baseline createnine of 1.5 and 
+presents with a createnine of 2.5. The patient's PCP is in ___ 
+___, while he recieves his oncologic care for his lymphoma 
+in remission here with Dr. ___. Dr. ___ 
+oncologist called his PCP about the ARF, and his doctor was not 
+available. She sent him to the ED for further evaluation. 
+
+The patient's wife notes that they are down in ___ on 
+vacation, as they are moving in 2 weeks to ___, and that 
+the patient packed his own pill box, and is blind, and she 
+suspects he may have taken an extra dose of some medications.
+
+Of note he did have acute renal failure in ___, from his 
+cytoxan/RCHOP and tumor lysis.
+
+According to the patient there has been no change in his urinary 
+habits recently. He reports chronically increased frequency, 
+urgency, but these have been progressing over the past few 
+years. He denies hesitancy, weak stream, dysura, incomplete 
+bladder emptying, or suprapubic discomfort.
+ 
+In ED, triage VS were: 97.6 56 154/96 16 99% RA. Renal 
+ultrasound was unremarkable. patient was sent to the floor for 
+further evaluation.
+ 
+Past Medical History:
+1. Aplastic Lymphoma in Remission
+2. diabetes mellitus type 2 
+3. juvenile macular degeneration - legally blind x ___ years  
+4. CAD s/p stents ___ years ago at ___ no known MI  
+5. Cataracts
+6. Polymyalgia Rheumatica
+ 
+Social History:
+___
+Family History:
+Unable to obtain as he was adopted  
+ 
+Physical Exam:
+ROS:
+GEN: - fevers, - Chills, - Weight Loss
+EYES: - Photophobia, - Visual Changes
+HEENT: - Oral/Gum bleeding
+CARDIAC: - Chest Pain, - Palpitations, - Edema
+GI: - Nausea, - Vomitting, - Diarhea, - Abdominal Pain, - 
+Constipation, - Hematochezia
+PULM: - Dyspnea, - Cough, - Hemoptysis
+HEME: - Bleeding, - Lymphadenopathy
+GU: - Dysuria, - hematuria, - Incontinence, + Frequency
+SKIN: - Rash
+ENDO: - Heat/Cold Intolerance
+MSK: - Myalgia, - Arthralgia, - Back Pain
+NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+ 
+PHYSICAL EXAM:
+VSS: 99.6, 132/68, 58, 18, 97%RA
+GEN: NAD
+Pain: ___
+HEENT: Blind, MMM, - OP Lesions
+PUL: CTA B/L
+COR: RRR, S1/S2, - MRG
+ABD: NT/ND, +BS, - CVAT
+EXT: - CCE
+NEURO: CAOx3, Non-Focal
+ 
+Pertinent Results:
+___ 01:05PM BLOOD WBC-6.8 RBC-3.31* Hgb-10.6* Hct-32.1* 
+MCV-97 MCH-32.1* MCHC-33.2 RDW-15.2 Plt ___
+___ 09:30AM BLOOD WBC-9.0 RBC-3.45* Hgb-11.0* Hct-33.9* 
+MCV-98 MCH-32.0 MCHC-32.6 RDW-14.8 Plt ___
+___ 01:05PM BLOOD Neuts-67.6 ___ Monos-5.6 Eos-6.2* 
+Baso-0.8
+___ 09:30AM BLOOD Neuts-69.3 ___ Monos-6.5 Eos-5.1* 
+Baso-0.7
+___ 05:30AM BLOOD Glucose-110* UreaN-46* Creat-1.6* Na-138 
+K-5.0 Cl-108 HCO3-23 AnGap-12
+___ 01:05PM BLOOD Glucose-88 UreaN-57* Creat-2.2* Na-140 
+K-5.1 Cl-108 HCO3-22 AnGap-15
+___ 09:30AM BLOOD UreaN-57* Creat-2.5* Na-140 K-5.6* Cl-107 
+HCO3-21* AnGap-18
+___ 09:30AM BLOOD ALT-35 AST-27 LD(LDH)-115 AlkPhos-97 
+TotBili-0.3
+___ 09:30AM BLOOD Albumin-4.4 Calcium-9.2
+___ 09:30AM BLOOD TSH-2.6
+___ 09:30AM BLOOD VITAMIN D 25 HYDROXY-PND
+___ 03:10PM URINE Color-Straw Appear-Clear Sp ___
+___ 03:10PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+___ 03:10PM URINE RBC-0 WBC-0 Bacteri-NONE Yeast-NONE Epi-0
+___ 03:10PM URINE Eos-NEGATIVE  
+___ 05:00PM URINE Hours-RANDOM Creat-69 Na-101 K-43 Cl-101
+
+___ 3:10 pm URINE     Site: NOT SPECIFIED
+      CHM S# ___ UCU ADDED ___. 
+
+   URINE CULTURE (Pending):
+
+RENAL U.S. Study Date of ___ 3:47 ___ 
+Preliminary Report !! WET READ !!  
+no hydronephrosis, stones or masses. right renal cyst unchanged 
+from recent CT 
+ 
+Brief Hospital Course:
+1. Acute Renal Failure, Stage II Chronic Kidney Disease
+- Possible etiologies are medications: lisinopril and 
+allopurinol. We stopped these medications with dramatic 
+improvement back to his baseline.
+- The unusual time course is somewhat puzzling given that he 
+went up extremely quickly and returned equally quickly, 
+particularly with little intervention other than holding his 
+medications and possible IV hydration in the ED. Given the 
+concern of the wife that he may have accidentally taken an extra 
+dose of his ACEI. 
+- Change dose of allopurinol to renally dosed
+- Hold ACEI until his PCP can ___. Given that he will be 
+getting a ___ PCP in ___, ___ asked the wife to get a ___ PCP on 
+___ out in ___, then we can fax the ___ PCP the discharge 
+summary.
+- FENa of 2.3% makes ATN most likely etiology, but this should 
+not resolve this quickly 
+
+2. Pedal Edema
+- This again self resolved, which either is acute fluid overload 
+due to hydration in the ED, or some acute diastolic failure that 
+was un-noticed
+- Note patient is on nifedipine
+
+3. Type 2 Diabetes Controled without complications
+- Held oral antiglycemics
+- ___ restart, although at borderline createnine for glyburide
+- ISS coverage
+
+4. Eosinophilia
+- There is no reason for this patient to be esosinophilic, 
+although his absolute count is at borderline. I have asked the 
+clinical pathology resident to review the slide as several other 
+patients are also unexpectedly eosinophilic
+
+5. CAD Native Vessle
+- ACE held
+- Metoprolol, Lipitor, Nifedipine
+- Aspirin
+
+6. Anaplastic Lymphoma
+- Seen by Dr. ___ day of admission
+- ___ in remission
+
+7. Blindness
+- Falls Precautions
+
+Full Code
+
+Patient will be obtaining a ___ PCP on ___ in ___, and we can 
+send this to the ___ PCP once the ___ PCP's contact information 
+has been obtained
+ 
+Medications on Admission:
+ALLOPURINOL - (Prescribed by Other Provider) - 300 mg Tablet - 1 
+ 
+(One) Tablet(s) by mouth once a day  
+ATORVASTATIN [LIPITOR] - (Prescribed by Other Provider) - 40 mg  
+
+Tablet - 1 (One) Tablet(s) by mouth once a day  
+COLCHICINE - (Prescribed by Other Provider) - 0.6 mg Tablet - 1  
+
+(One) Tablet(s) by mouth once a day as needed  
+CYANOCOBALAMIN (VITAMIN B-12) [VITAMIN B-12] - (Prescribed by  
+Other Provider) - 1,000 mcg/mL Solution - Sub Q Once per month  
+FOLIC ACID - 1 mg Tablet - 2 (One) Tablet(s) by mouth once a day 
+ 
+LISINOPRIL - (Prescribed by Other Provider) - 20 mg Tablet - 1  
+(One) Tablet(s) by mouth twice a day  
+METOPROLOL SUCCINATE - (Prescribed by Other Provider) - 100 mg  
+Tablet Sustained Release 24 hr - 1.5 (One and a half) Tablet(s)  
+
+by mouth Q AM and 1 tablets Q ___  
+NIFEDIPINE [NIFEDICAL XL] - (Prescribed by Other Provider) - 30  
+
+mg Tablet Extended Rel 24 hr - 1 (One) Tab(s) by mouth once a 
+day  
+PIOGLITAZONE [ACTOS] - (Takes daily) - Dosage uncertain  
+ASPIRIN [ENTERIC COATED ASPIRIN] - (Prescribed by Other  
+Provider) - 81 mg Tablet, Delayed Release (E.C.) - 1 (One)  
+Tablet(s) by mouth once a day  
+ERGOCALCIFEROL (VITAMIN D2) [VITAMIN D] - (OTC) - 1,000 unit  
+Tablet - 1 (One) Tablet(s) by mouth once a day  
+LANCETS - Misc - Use as needed
+ 
+Discharge Medications:
+1. allopurinol ___ mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*90 Tablet(s)* Refills:*2*
+2. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. colchicine 0.6 mg Tablet Sig: One (1) Tablet PO once a day as 
+needed for gout flare.  
+4. Vitamin B-12 1,000 mcg/mL Solution Sig: One (1)  Injection 
+once a month.  
+5. folic acid 1 mg Tablet Sig: Two (2) Tablet PO once a day.  
+6. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: 1.5 Tablet Extended Release 24 hrs PO QAM (once a day (in 
+the morning)).  
+7. metoprolol succinate 100 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO QPM (once a day 
+(in the evening)).  
+8. nifedipine 30 mg Tablet Extended Release Sig: One (1) Tablet 
+Extended Release PO DAILY (Daily).  
+9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+10. Vitamin D 1,000 unit Tablet Sig: One (1) Tablet PO once a 
+day.  
+11. glyburide 5 mg Tablet Sig: One (1) Tablet PO twice a day.  
+12. Calcium 500 500 mg calcium (1,250 mg) Tablet Sig: One (1) 
+Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Acute Kidney Injury
+.
+Secondary Diagnosis:
+Coronary artery disease.
+anaplastic lymphoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to ___.  It 
+was a pleasure taking care of you.  You were admitted for an 
+acute worsening of your kidney function.  Your lisinopril, known 
+to sometimes cause kidney problems, was held. Your allopurinol, 
+also known to sometimes cause kidney problems, was also held. 
+Your kidney function improved overnight with fluids and holding 
+your medications.  Our laboratory work up did not reveal any 
+clear explanation of why your kidney function was worsening and 
+it could have been a combination of medication as well as 
+dehydration.  We will ask you to stop your lisinopril for now 
+until you can see your PCP and also to take your allopurinol 
+every other day.  Please also try to drink 2L of fluid daily.
+.
+The following medications were STOPPED:
+lisinopril 20mg by mouth Daily
+.
+The following medication was CHANGED:
+Allopurinol ___ PO Daily
+.
+Please take your other medication as prescribed.
+
+Please schedule a follow up appointment with your primary care 
+physician.
+ 
+Followup Instructions:
+___

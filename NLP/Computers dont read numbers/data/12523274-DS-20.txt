@@ -1,0 +1,275 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ h/o DM2 (uncontrolled), poorly differentiated Gastric CA 
+T2N0Mx s/p subtotal gastrectomy ___ admitted with fever, 
+weakness.  At baseline, reports that his sugar has been labile 
+with BS intermittently going high to 300s.  Nearly ___ days ago, 
+developed cough, sore-throat, fevers, associated with worsened 
+hyperglycemia 400's.  Also notes having concurrent dysuria.  
+Reports 3d ago developing temp to 103 and then 2d PTA temp 102.  
+He went to PCP yesterday and noted to be hypotensive to the 
+___, unwell.  As a result, was sent to the ED.
+   In the ED, reportedly he was no longer hypotensive.  WBC 
+11.1, CXR neg, U/A with ___ large, Nit neg, WBC 15.  He was given 
+total of 3.5 L IVF over span of ED stay and given vanc/zosyn for 
+empiric coverge (presumed urosepsis).   He was admitted for 
+further mgmt.
+  
+
+ROS: per HPI, denies night sweats, headache, vision changes, 
+rhinorrhea, congestion, shortness of breath, chest pain, 
+abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, 
+melena, hematochezia, hematuria.  A 10 pt review of sxs was 
+otherwise negative.
+
+ 
+Past Medical History:
+# Hyperchol
+# DM2 - uncontrolled, mild retinopathy
+# poorly differentiated Gastric CA with signet ring features 
+T2N0Mx
+ - s/p 6 cycles of ECF completed ___
+ - s/p robotic-assisted subtotal gastrectomy with RNY 
+reconstruction, radical lymphadenectomy ___
+# Asthma
+# Spinal stenosis
+# BPH s/p prostate surgery x2
+# Anxiety/depression
+# Compression fx L1 Lumbar vertebra
+ 
+Social History:
+___
+Family History:
+Family History: sister - eye cancer, father - prostate cancer
+Mother- T2 diabetes, MI in ___
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Vital Signs: 98.0  154/75  96 20 98% RA 
+GEN: NAD, well-appearing, lying in bed, interactive, pleasant
+EYES: PERRL, EOMI, conjunctiva clear, anicteric
+ENT: moist mucous membranes, no exudates 
+NECK: supple 
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w 
+GI: normal BS, NT/ND, no HSM, no CVAT  
+EXT: warm, no c/c/e
+SKIN: no rashes 
+NEURO: alert, oriented x 3, answers ? appropriately, follows 
+commands, non focal
+PSYCH: appropriate
+ACCESS: PIV
+FOLEY: absent
+
+DISCHARGE PHYSICAL EXAM
+VS: 97.9 165/80 81 18 95 RA 
+GEN: NAD, well-appearing, lying in bed, interactive, pleasant
+EYES: anicteric, non-injected
+ENT: MMM, grossly nl OP. No tonsilar euxudates, no significant 
+erythema or coblestoning. 
+NECK: supple, non meningismus, no LAD
+BACK: no spinous process tenderness, no CVAT
+CV: RRR nl S1/S2 no g/r/m 2+ rad/DP pulses
+CHEST: CTAB no w/r/r
+ABD: soft, NT/ND, NABS, no HSM. CGM in LLQ, no erythema
+GU: no suprapubic fullness/tenderness. 
+EXT: warm, no c/c/e, no joint effusions. 
+SKIN: no rashes 
+NEURO: alert, oriented x 3. moves all extremities spontaneously 
+and with purpose. Facial movements symmetrical, speech fluent, 
+eyes conjugate, sensation to light touch preserved grossly. 
+PSYCH: pleasant and appropriate
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 04:05PM BLOOD WBC-11.1* RBC-4.48* Hgb-12.2* Hct-38.6* 
+MCV-86 MCH-27.2 MCHC-31.6* RDW-14.4 RDWSD-45.7 Plt ___
+___ 04:05PM BLOOD Neuts-65.3 Lymphs-18.3* Monos-15.5* 
+Eos-0.4* Baso-0.3 Im ___ AbsNeut-7.26* AbsLymp-2.04 
+AbsMono-1.72* AbsEos-0.05 AbsBaso-0.03
+___ 04:05PM BLOOD ___ PTT-34.3 ___
+___ 04:05PM BLOOD Plt ___
+___ 04:05PM BLOOD Glucose-129* UreaN-29* Creat-1.1 Na-141 
+K-3.9 Cl-102 HCO3-27 AnGap-12
+___ 04:05PM BLOOD ALT-29 AST-26 AlkPhos-66 TotBili-0.4
+___ 04:05PM BLOOD Albumin-4.1
+___ 04:18PM BLOOD ___ pO2-28* pCO2-57* pH-7.34* 
+calTCO2-32* Base XS-1
+___ 04:18PM BLOOD Lactate-2.5*
+___ 04:18PM BLOOD O2 Sat-43
+
+IMAGING
+# CXR (___): Lungs are clear bilaterally.   There is a right 
+chest wall Port-A-Cath with tip extending to the level of the  
+mid SVC. There is no focal consolidation, effusion, or 
+pneumothorax. The  cardiomediastinal silhouette is normal. 
+Imaged osseous structures are intact.   No free air below the 
+right hemidiaphragm is seen. Clips are noted in the  left upper 
+abdomen.  IMPRESSION:   No acute intrathoracic process. 
+Port-A-Cath positioned appropriately 
+
+MICRO:
+- UCx: URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+- BCx: No growth to date
+
+DISCHARGE LABS:
+___ 05:00AM BLOOD WBC-4.6 RBC-3.84* Hgb-10.5* Hct-33.1* 
+MCV-86 MCH-27.3 MCHC-31.7* RDW-14.2 RDWSD-45.3 Plt ___
+___ 05:00AM BLOOD Glucose-225* UreaN-12 Creat-0.8 Na-144 
+K-4.4 Cl-107 HCO3-28 AnGap-9*
+___ 05:00AM BLOOD Plt ___
+___ 05:00AM BLOOD Calcium-8.5 Phos-3.2 Mg-1.9
+ 
+Brief Hospital Course:
+Mr ___ is a ___ year old man with a history of IDDM2 
+(uncontrolled), poorly differentiated gastric CA T2N0Mx s/p 
+subtotal gastrectomy (___) admitted with fever and weakness.
+
+# Fever / Sepsis
+# Weakness
+# Hypotension (transiently): Admitted with high fevers (103 at 
+home), hypotension, WBC 11.1. His only localizing symptoms on 
+admission were a sore throat (with normal exam) and dysuria 
+(+pyuria, but UCx NGTD). CXR was normal. He was started on 
+ceftriaxone for a presumed UTI but urine culture returned with 
+no growth. He was maintained on antibiotics until blood cultures 
+were without growth for 3 days. CBC differential was notable for 
+monocytosis on admission, suggesting a viral process. AT time of 
+discharge, patient had been afebrile for 72 hours, blood 
+cultures were still without growth, patient was feeling 
+subjectively much improved: tolerating regular diet, having more 
+engery and walking independently and steadily in the hallways. 
+Antibiotics were stopped and he was discharged to home with 
+intent to follow-up with his PCP. 
+
+# IDDM2
+# Hyperglycemia: Blood sugars were elevated during admission, 
+ranging from 200-350. FSBS correlated well with patient's 
+continuous glucose monitor. He was maintained on home glargine 
+dosing, a diabetic diet and was kept on a sliding scale in favor 
+of his home correctional scale short acting. 
+
+# Depression/Anxiety: Continued home citalopram and clonazepam
+# Asthma/COPD: Continue home advair.
+# HTN: Decreased home metoprolol to 12.5.
+
+TRANSITIONAL ISSUES
+- Medication changes: metoprolol decreased to 12.5mg daily
+
+Time spent coordinating discharge > 30 minutes
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Bethanechol 50 mg PO TID 
+3. calcium carbonate-vitamin D3 500 mg calcium- 400 unit/5 mL 
+oral DAILY 
+4. Vitamin D 1000 UNIT PO DAILY 
+5. Citalopram 20 mg PO QHS 
+6. ClonazePAM 1 mg PO QAM 
+7. ClonazePAM 2 mg PO QHS 
+8. colestipol 1 gram oral BID 
+9. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+10. Gabapentin 600 mg PO TID 
+11. Glargine 11 Units Breakfast
+Glargine 4 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+12. Loratadine 10 mg PO QAM 
+13. Metoprolol Succinate XL 25 mg PO DAILY 
+14. Omeprazole 20 mg PO DAILY 
+15. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line 
+16. Rosuvastatin Calcium 40 mg PO QPM 
+17. Tamsulosin 0.4 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+DAILY Disp #*14 Tablet Refills:*0 
+2.  Glargine 11 Units Breakfast
+Glargine 4 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+3.  Aspirin 81 mg PO DAILY  
+4.  Bethanechol 50 mg PO TID  
+5.  calcium carbonate-vitamin D3 500 mg calcium- 400 unit/5 mL 
+oral DAILY  
+6.  Citalopram 20 mg PO QHS  
+7.  ClonazePAM 1 mg PO QAM  
+8.  ClonazePAM 2 mg PO QHS  
+9.  colestipol 1 gram oral BID  
+10.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+11.  Gabapentin 600 mg PO TID  
+12.  Loratadine 10 mg PO QAM  
+13.  Omeprazole 20 mg PO DAILY  
+14.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+15.  Rosuvastatin Calcium 40 mg PO QPM  
+16.  Tamsulosin 0.4 mg PO QHS  
+17.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Fever
+Viral Infection
+Weakness
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+You were admitted to the hospital because you had a fever and 
+felt weak. Ther was concern that you had a bacterial infection 
+and you were treated with antibiotics. Your blood and urine work 
+indicated that you did not clearly have an infection and your 
+antibiotics were stopped. You did not have any further fevers 
+and with time, your weakness and energy improved. We believe 
+your symptoms were likely due to a viral infection.
+
+Please note that your metoprolol has been decreased to 12.5mg 
+daily (from 25mg daily)
+
+You will need to follow-up with your primary care doctor after 
+you leave the hospital. 
+
+Please take all medications as prescribed and keep all scheduled 
+doctor's appointments. Seek medical attention if you develop a 
+worsening or recurrence of the same symptoms that originally 
+brought you to the hospital, experience any of the warning signs 
+listed below, or have any other symptoms that concern you.
+
+It was a pleasure taking care of you!
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

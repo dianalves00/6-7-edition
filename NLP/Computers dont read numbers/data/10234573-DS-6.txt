@@ -1,0 +1,212 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+biliary obstruction
+ 
+Major Surgical or Invasive Procedure:
+Removal of ERCP stent and placement of bilateral RHPD and LHD 
+metals stents
+
+ 
+History of Present Illness:
+___ yr old female with hx of recently diagnosed stage IV
+cholangiocarcinoma s/p plastic stent to R biliary system,
+followed by bilateral PTBD for L sided drainage, admitted for
+monitoring after removal of ERCP stent and placement of 
+bilateral
+RHPD and LHD stents by ___.
+
+Briefly, pt initially presented in early ___ with painless
+jaundice and pruritis, and was found on MRI to have 7.4 cm mass
+suspicious for cholangiocarcinoma. On ___ she underwent
+elective ERCP with sphincterotomy and placement of plastic stent
+to R side, unable to drain L side ___ high grade hilar 
+stricture;
+bilateral PTBD was placed for L side drainage. Brushings and
+liver biopsy subsequently returned as adenocarcinoma. Metallic
+stenting was deferred as pt wanted second opinion regarding
+possibility of resection. Since that time, pt was seen by
+oncology (Dr. ___, and decision was made to proceed with
+chemotherapy and metallic stenting. 
+
+On ___, she underwent procedure as described above, which
+was complicated by postprocedural pain.
+
+On arrival to the floor, pt endorses ___ post procedural pain
+with associated nausea. She feels that hunger is contributing to
+her nausea, and is requesting a snack with ginger ale. Denies
+chest pain, SOB.
+ 
+Past Medical History:
+Stage IV cholangiocarcinoma
+ 
+Social History:
+___
+Family History:
+Family History: Father had multiple strokes, mother with a valve 
+replacement, multiple sisters with autoimmune diseases, lupus, 
+Sjogren's, vitiligo. No history of cancer in her family 
+
+ 
+Physical Exam:
+Admission Physical Exam:
+========================
+VS: ___ ___ Temp: 98.4 PO BP: 151/86 HR: 79 RR: 16 O2 sat:
+95% O2 delivery: RA Dyspnea: 0 RASS: -1 Pain Score: ___ 
+GEN: alert and interactive, fatigued appearing, pain ___
+HEENT: PERRL, anicteric, conjunctiva pink, oropharynx without
+lesion or exudate, moist mucus membranes, ears without lesions 
+or
+apparent trauma
+LYMPH: no anterior/posterior cervical, supraclavicular 
+adenopathy
+CARDIOVASCULAR: Regular rate and rhythm without murmurs, rubs, 
+or
+gallops
+LUNGS: clear to auscultation bilaterally without rhonchi,
+wheezes, or crackles; shallow breaths ___ pain
+GI: soft, exquisitely TTP at RUQ>LUQ, nondistended, hypoactive
+(but present) bowel sounds. Two drains in place at RUQ and LUQ,
+dressing C/D/I. Unable to assess for hepatomegaly ___ pain
+EXTREMITIES: no clubbing, cyanosis, or edema
+GU: no foley
+SKIN: no rashes, petechia, lesions, or echymoses; warm to
+palpation
+NEURO: alert and interactive, cranial nerves II-XII grossly
+intact, strength and sensation grossly intact
+PSYCH: normal mood and affect
+
+Discharge Physical Exam:
+========================
+Vital Signs reviewed in electronic medical record
+General: no acute distress
+HEENT: atraumatic, anicteric, eomi,oropharynx clear
+Neck: supple
+Heart: s1 s2
+Lungs: ctab
+Abdomen: soft nt nd no masses; no cva tenderness
+Ext: no c/c/
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 01:26AM BLOOD WBC-25.1* RBC-4.13 Hgb-12.7 Hct-39.5 
+MCV-96 MCH-30.8 MCHC-32.2 RDW-13.7 RDWSD-48.2* Plt ___
+___ 01:26AM BLOOD ___ PTT-29.3 ___
+___ 01:26AM BLOOD Glucose-139* UreaN-12 Creat-0.7 Na-140 
+K-4.6 Cl-99 HCO3-25 AnGap-16
+___ 01:26AM BLOOD ALT-70* AST-67* LD(LDH)-242 AlkPhos-288* 
+TotBili-2.4*
+___ 01:26AM BLOOD Albumin-3.9 Calcium-9.7 Phos-4.4 Mg-1.9
+
+Discharge Labs:
+===============
+
+___ 07:00AM BLOOD WBC-12.2* RBC-4.20 Hgb-13.1 Hct-40.2 
+MCV-96 MCH-31.2 MCHC-32.6 RDW-13.6 RDWSD-48.1* Plt ___
+___ 07:00AM BLOOD Glucose-93 UreaN-7 Creat-0.6 Na-138 K-4.1 
+Cl-96 HCO3-28 AnGap-14
+___ 07:00AM BLOOD Albumin-3.9 Calcium-9.5 Phos-3.9 Mg-2.___ with hx of recently diagnosed stage IV cholangiocarcinoma 
+s/p plastic stent to R biliary system, followed by bilateral 
+PTBD for L sided drainage, admitted for
+monitoring after removal of ERCP stent and placement of 
+bilateral RHPD and LHD metal stents by ___.
+
+# Biliary obstruction:
+# Post procedural pain: 
+# Stage IV cholangiocarcinoma: 
+# Leukocytosis: underwent removal of ERCP stent and placement of 
+bilateral RHD and LHD drains. With respect to her 
+cholangiocarcinoma, she has been seen by Dr. ___ as an 
+outpatient (___) and has been consented for chemotherapy, 
+which has not yet started.
+She was in significant pain immediately after procedure which 
+was managed with dilaudid and oxycodone. She also had pain after 
+plastic stent placement though not quite as severe.
+She was found to have a leukocytosis to 25. Recently as an 
+outpatient her WBC count has been elevated to the ___ range in 
+the setting of malignancy. Given her pain and leukocytosis she 
+was initially started on IV antibiotics. Antibiotics were 
+discontinued after she remained afebrile with downtrending WBC 
+count and wbc ct on discharge is 12.2k and blood cultures are 
+negative to date. UA is negative. 
+Pain controlled without narcotics. 
+Plan on discharge is for patient to follow up to have PORT 
+placed and pt is follow up with Interventional Radiology for 
+removal of drain/stents later this week (pt has contact 
+information and phone number for ___. Pt is also to follow  up 
+with her Oncologist for initiation of treatment.
+
+Transitional Issues:
+====================
+-Blood cultures negative to date at time of discharge
+-Pt is to follow up with Oncology Dr. ___ discharge for 
+Port placement and additional therapy
+-Pt is to follow up with Interventional Radiology for removal of 
+drain/stents
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Estrogens Conjugated 1 gm VG QPM:PRN vaginal dryness  
+2. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+3. Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+4. Simethicone 40-80 mg PO QID:PRN gas pain  
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q4H:PRN Pain  
+2.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild  
+3.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line  
+4.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+5.  Simethicone 40-80 mg PO QID:PRN gas pain   
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Biliary obstruction
+Metastatic cholangiocarcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came in to have a procedure to place stents in your bile 
+ducts. You were observed in the hospital since you were having 
+pain after your procedure.
+
+You should follow up with Interventional Radiology and  Dr. 
+___ as previously scheduled.
+
+It was a pleasure taking care of you, and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

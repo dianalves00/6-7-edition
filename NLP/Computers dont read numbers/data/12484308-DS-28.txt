@@ -1,0 +1,383 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lactose / morphine / onions
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain/SOB
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ male with history of alcoholic cirrhosis, alcohol 
+abuse 
+complicated by withdrawal seizures, asthma with multiple 
+intubations in the 
+past presenting with abdominal pain and SOB.
+
+Pt states his symptoms began ___ days ago with abdominal pain 
+and SOB.  Abdominal pain radiates to his back and bilateral, 
+associated with nausea and "dry heaves".  Also with subjective 
+fevers and chills.  No hematemesis, melena, or hematochezia.  
+Unclear if pain worsened with food but pt has only been taking 
+in liquids recently.  Uncertain if this feels like prior 
+episodes of pancreatitis.  Pt states he also began drinking 
+again several days ago.  
+
+Pt additionally reports SOB over this time as well with 
+associated dry cough and wheezing.  Has not missed any doses of 
+meds but does report not getting methadone for last few days d/t 
+DOE.
+
+In the ED,
+VS: Temp: 99.5 HR: 110 BP: 131/92 Resp: 20 O(2)Sat: ___id not appear to be actively w/d'ing on initial exam.  Pulm 
+exam notable for wheezing
+Labs: AST: 136, ALT: 37, Alk Phos: 982, Tbili: 2.3 (mildly 
+hemolyzed specimen)
+CXR negative, CT a/p negative for pancreatitis, did show know 
+cirrhosis with splenomegaly and esophageal varices.
+___ given several duonebs, methylpred, 1L NS, Zofran, 
+hydromorphone and admitted for management of abdominal pain, 
+EtOH w/d, and asthma exacerbaton
+
+ROS:
+GEN: positive for fevers, chills, negative for weight loss
+HEENT: denies vision changes, headache
+CV: denies chest pain, palpitations
+RESP: see above HPI
+GI: see above HPI
+EXT: denies edema
+NEURO: reports tremors, denies numbness/weakness
+Rest of 10 point review of systems otherwise negative.
+
+ 
+Past Medical History:
+-Immunodeficiency/CMV gastritis
+-Esophageal candidiasis
+-Asthma with h/o intubation and difficult extubation  
+-Substance abuse: etoh with h/o withdrawal and DTs
+-ETOH cirrhosis 
+-Pancreatitis
+-Adjustment Disorder with Depressed Mood  
+-Gastritis without bleeding due to alcohol and CMV (CMV seen on 
+path report from gastric biopsy ___
+-Atopic Dermatitis  
+-Allergic Rhinitis 
+ 
+Social History:
+___
+Family History:
+Uncle died of EtOH cirrhosis. Multiple family members with 
+asthma including mother and sister. No other known ailments on 
+maternal side, does not know about father's side. 
+ 
+Physical Exam:
+GEN: laying in bed, appears to be in discomfort
+HEENT: no scleral icterus, no tongue fasciculations
+CV: RRR, no m/r/g, no JVD
+RESP: Diffuse wheezing throughout with decreased air movement, 
+no respiratory distress
+GI: Soft, TTP in RUQ and LUQ, no rebound, mildly distended
+EXT: no edema, WWP
+SKIN: No rashes, no jaundice
+NEURO: AAOx3, conversing normally, mild bilateral hand tremor, 
+no asterixis
+PSYCH: Normal mood and affect, no e/o visual or auditory 
+hallucinations
+
+ 
+Pertinent Results:
+___ 01:40AM BLOOD WBC-8.3 RBC-4.33* Hgb-12.2* Hct-39.1* 
+MCV-90# MCH-28.2 MCHC-31.2* RDW-16.0* RDWSD-52.0* Plt ___
+___ 01:40AM BLOOD Neuts-66.8 Lymphs-18.0* Monos-11.3 
+Eos-2.9 Baso-0.5 Im ___ AbsNeut-5.55# AbsLymp-1.49 
+AbsMono-0.94* AbsEos-0.24 AbsBaso-0.04
+___ 02:12AM BLOOD ___ PTT-35.3 ___
+___ 01:40AM BLOOD Glucose-86 UreaN-7 Creat-0.4* Na-137 
+K-4.1 Cl-102 HCO3-23 AnGap-16
+___ 01:40AM BLOOD ALT-37 AST-136* AlkPhos-982* TotBili-2.3*
+___ 01:40AM BLOOD Lipase-86*
+___ 01:40AM BLOOD Albumin-4.0 Calcium-8.7 Phos-2.8 Mg-1.7
+
+EXAMINATION:  Chest radiograph. (___)
+  
+INDICATION:  ___ w/wheeze and cough and tactile fevers, please 
+eval for PNA  
+// ___ w/wheeze and cough and tactile fevers, please eval for 
+PNA 
+  
+TECHNIQUE:  Single AP view. 
+  
+COMPARISON:  CTA chest ___. 
+  
+FINDINGS:  
+  
+Lung volumes are low.  Bibasal areas of atelectasis are 
+extensive, in 
+particular in the right lung base Heart size is within normal 
+limits.  Lung 
+fields are clear.  There is no pneumothorax. 
+  
+IMPRESSION:  
+  
+No acute cardiopulmonary abnormality. 
+
+EXAMINATION:  CT abdomen pelvis. (___)
+  
+INDICATION:  NO_PO contrast; ___ w/cirrhosis, abdominal pain, 
+immunosuppressed 
+with fevers, please eval for intraabdominal abscessNO_PO 
+contrast  // ___ 
+w/cirrhosis, abdominal pain, immunosuppressed with fevers, 
+please eval for 
+intraabdominal abscess 
+  
+TECHNIQUE:  Single phase split bolus contrast: MDCT axial images 
+were acquired 
+through the abdomen and pelvis following intravenous contrast 
+administration 
+with split bolus technique. 
+Oral contrast was not administered. 
+Coronal and sagittal reformations were performed and reviewed on 
+PACS. 
+  
+DOSE:  Acquisition sequence: 
+   1) Stationary Acquisition 6.5 s, 0.5 cm; CTDIvol = 31.3 mGy 
+(Body) DLP = 
+15.6 mGy-cm. 
+   2) Spiral Acquisition 5.0 s, 54.5 cm; CTDIvol = 16.8 mGy 
+(Body) DLP = 914.7 
+mGy-cm. 
+ Total DLP (Body) = 930 mGy-cm. 
+  
+COMPARISON:  CT ___ and MRCP ___ 
+  
+FINDINGS:  
+  
+LOWER CHEST: Visualized lung fields are within normal limits. 
+There is no 
+evidence of pleural or pericardial effusion. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver has a cirrhotic morphology.  There is 
+no evidence of 
+focal lesions.  There is no evidence of intrahepatic or 
+extrahepatic biliary 
+dilatation.  The gallbladder is within normal limits. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of 
+focal lesions or pancreatic ductal dilatation.  There is no 
+peripancreatic 
+stranding. 
+  
+SPLEEN: Mild splenomegaly is unchanged.  The attenuation of the 
+spleen is 
+within normal limits. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  
+There is no evidence of focal renal lesions or hydronephrosis.  
+There is no 
+perinephric abnormality. 
+  
+GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate 
+normal caliber, wall thickness, and enhancement throughout.  The 
+colon and 
+rectum are within normal limits.  The appendix is normal. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no 
+free fluid in the pelvis. 
+  
+REPRODUCTIVE ORGANS: The prostate is unremarkable. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There 
+is no pelvic or inguinal lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease 
+is noted.  Esophageal, splenic and periportal varices are 
+unchanged. 
+  
+BONES: Mild to moderate compression deformities of the T7 and T9 
+vertebral 
+bodies are unchanged.  No evidence of osseous malignancy or 
+infection. 
+  
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits. 
+  
+IMPRESSION: 
+  
+  
+1. No acute intra-abdominal abnormality. 
+2. Cirrhotic liver morphology with re-demonstrated mild 
+splenomegaly and 
+varices.  No focal hepatic lesions seen. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT/PLAN:
+___ male with PMHx alcoholic cirrhosis, alcohol abuse 
+complicated by withdrawal seizures, asthma with multiple 
+intubations in the past, and chronic pain on methadone 
+presenting with abdominal pain and SOB.
+
+# Abdominal pain-- Pt reports mid-epigastric pain on 
+presentation radiating to back and flanks.  CT a/p performed in 
+ED negative for any acute processes or signs of acute 
+pancreatitis.  Very mild elevation in lipase.  This was felt to 
+be more likely alcoholic gastritis rather than acute on chronic 
+pancreatitis.  It was managed conservatively with bowel rest and 
+initially IV dilaudid which was transitioned to PO after pt 
+tolerating diet.  PO dilaudid was also subsequently tapered and 
+pt was discharged with a 2 day supply for any ongoing 
+breakthrough pain.
+
+# EtOH w/d-- ___ was monitored on CIWA and initially required 
+several doses of 4mg PO ativan which was tapered to 2 mg, 1 mg 
+and subsequently off as pt was no longer showing signs of 
+withdrawal.
+
+# SOB/Asthma exacerbation--  Pt presents with SOB and is very 
+wheezy on exam with poor air movement.  Unclear trigger for 
+asthma exacerbation but suspect possible ?aspiration event in 
+s/o recent ETOH intake.  ___ reports medication compliance but 
+this may have also been a precipitating factor.  He was started 
+on a prednisone burst, azithromycin, and given duonebs with 
+improvement.
+
+# Opiate dependence-- Per reports, pt with long history of 
+hydromorphone use/abuse with issues in the past with getting 
+discharged from methadone clinics.  Currently, he is at Habit 
+OPCO and was continued on 80mg methadone.  Pt expressed 
+significant discontent with his pain medication regimen while 
+inpatient.  However, it was felt to be unsafe to escalate 
+regimen more than 0.5mg IV dilaudid q4H initially as he was also 
+getting his outpatient methadone in addition to Ativan.  Staff 
+also found him to be frequently somnolent despite reports that 
+his pain was poorly controlled.
+
+# Elevated Transaminases--  Mildly elevated AST, Alk phos in 
+900's.  Alk phos has been significantly elevated in 800's in the 
+past.  MRCP was done last admission in ___ and this did not 
+show an intra- or exta-hepatic biliary duct dilatation or 
+masses.  Alk phos remained elevated throughout his stay but his 
+AST/ALT downtrended.
+
+# Cirrhosis-- home lasix and spironolactone were held initially 
+as pt had poor PO intake.  He remained euvolemic despite holding 
+these medications and they will be resumed upon discharge.
+
+Transitional Issues:
+[ ] ___ with chronic cirrhosis with e/o varices and splenomegaly 
+on recent imaging.  Consider EGD for evaluation of degree of 
+varices after discharge and to evaluate for chronic gastritis as 
+cause for recurrent episodes of epigastric abdominal pain.  Also 
+need to consider nadalol and PPI for prophylaxis pending results 
+of EGD
+
+Billing: Greater than 30 minutes were spent on discharge 
+coordination and counseling.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Acamprosate 666 mg PO TID 
+2. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea 
+3. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+4. FoLIC Acid 1 mg PO DAILY 
+5. Furosemide 40 mg PO DAILY 
+6. Montelukast 10 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. Pantoprazole 40 mg PO Q24H 
+9. Sertraline 100 mg PO DAILY 
+10. Spironolactone 50 mg PO DAILY 
+11. Thiamine 100 mg PO DAILY 
+12. Tiotropium Bromide 1 CAP IH DAILY 
+13. Vitamin D 1000 UNIT PO DAILY 
+14. Erythromycin 0.5% Ophth Oint 0.5 in BOTH EYES QID 
+15. melatonin 3 mg oral QHS 
+16. Symbicort (budesonide-formoterol) ___ inhalation  INHALATION 
+BID 
+
+ 
+Discharge Medications:
+1.  Azithromycin 500 mg PO Q24H 
+RX *azithromycin 500 mg 1 tablet(s) by mouth daily Disp #*1 
+Tablet Refills:*0 
+2.  HYDROmorphone (Dilaudid) 2 mg PO Q6H:PRN Pain - Severe 
+Duration: 2 Days 
+RX *hydromorphone [Dilaudid] 2 mg 1 tablet(s) by mouth every 6 
+hours as needed for pain Disp #*8 Tablet Refills:*0 
+3.  PredniSONE 50 mg PO DAILY Duration: 1 Day 
+RX *prednisone 50 mg 1 tablet(s) by mouth daily Disp #*1 Tablet 
+Refills:*0 
+4.  Acamprosate 666 mg PO TID  
+5.  Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea  
+6.  Erythromycin 0.5% Ophth Oint 0.5 in BOTH EYES QID  
+7.  Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Furosemide 40 mg PO DAILY  
+10.  melatonin 3 mg oral QHS  
+11.  Methadone 80 mg PO DAILY  
+12.  Montelukast 10 mg PO DAILY  
+13.  Multivitamins 1 TAB PO DAILY  
+14.  Pantoprazole 40 mg PO Q24H  
+15.  Sertraline 100 mg PO DAILY  
+16.  Spironolactone 50 mg PO DAILY  
+17.  Thiamine 100 mg PO DAILY  
+18.  Tiotropium Bromide 1 CAP IH DAILY  
+19.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal pain
+Alcohol withdrawal
+Asthma exacerbation
+Opiate dependence
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came in with abdominal pain.  We think that this pain is 
+either from irritation of your stomach or a very mild 
+pancreatitis.  We treated you with pain medications which you 
+did not think helped very much and bowel rest for a day.  We 
+also did a CT scan of your abdomen which did not show anything 
+concerning.
+
+We also treated you for alcohol withdrawal while you were here 
+and continued you on your methadone.  We also treated you for an 
+asthma exacerbation and your breathing was much improved by the 
+time you left.
+ 
+Followup Instructions:
+___

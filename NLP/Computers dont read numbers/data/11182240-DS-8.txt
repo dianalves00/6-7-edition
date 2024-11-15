@@ -1,0 +1,175 @@
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ female patientwith a history of bilateral PEs ___ 
+on Coumadin, choledocholithiasis s/p ERCP with sphincterotomy 
+and stenting ___. She was recently admitted for BRBPR, found to 
+have INR of 4 and colitis, thought to be infectious. She 
+completed a course of Cipro/Flagyl and her abdominal pain 
+improved. In the interim she also had an ERCP to take out stent 
+(___). She reports that for the last day she has had 
+intermittent mucousy, watery diarrhea, and she was afraid she 
+might have seen a tinge of blood. She has abdominal cramping 
+associated with these episodes but denies nausea, vomiting, 
+fever, chills, dysuria. Patient denies diarrheal episodes in the 
+past prior to previous admission, but does note a monoartritis 
+of her knee that developed at the same time as her PEs.  
+
+In the ED,t:98.9 83 121/60 16 99% on RA. CT Abdomen shows 
+similar pattern of colitis as prior plus new cecal involvement. 
+Abdominal exam benign with some mild suprapubic tenderness. 
+Mostly pain free. Patient was guaiac negative. She was started 
+on Levo/Flagyl and given her her regular coumadin (8mg). ED 
+resident talked to GI who said they would see her on the floor 
+if needed.  
+
+On review of systems, notable for absence of chest pain, dyspnea 
+on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle 
+edema, palpitations, syncope or presyncope, myalgias, joint 
+pains, cough, hemoptysis, black stools. He denies recent fevers, 
+chills or rigors. All of the other review of systems were 
+negative
+ 
+Past Medical History:
+Bilateral PEs in ___, on coumadin
+Choledocholithiasis s/p ERCP sphincterotomy and biliary stenting 
+in ___ stent removed ___
+s/p ovarian cyst removal in ___
+s/p appendectomy
+ 
+Social History:
+___
+Family History:
+Father with colon cancer in ___.  Mother with CVA.  Brother 
+with ___ macroglobulinemia and CNS lymphoma.
+ 
+Physical Exam:
+VS 97.6 132/74 74 18 96% on RA  
+Gen: NAD, comfortable  
+HEENT: PERRL, EOMI, MMM, no oral lesions  
+Neck: Supple  
+CV: RRR, normal s1 and s2.  
+Chest: CTAB  
+Abd: Soft, nontender, non-distended, bowel sounds present  
+Ext: No edema in legs  
+Skin: No rash  
+Neuro:CN ___ intact, strength ___ BUE/BLE, sensory normal  
+Psych: Calm, appropriate  
+
+Guaiac negative in emergency department
+ 
+Pertinent Results:
+CT abdomen/pelvis with contrast (___):
+1. Sigmoid colitis, which may represent recurrent or residual 
+colitis since the prior study of ___.
+2. Apparently new focal cecal wall thickening, which may be 
+infectious, other considerations are inflammatory or less likely 
+ischemic. Recommend colonoscopy after acute symptoms resolve, to 
+exclude an underlying mass.
+3. Indeterminate right adrenal lesion incompletely 
+characterized; MRI is recommended on non-urgent basis for 
+further evaluation.
+4. Left adnexal lesion inseparable from left ovary; see previous 
+pelvic MRI.
+5. Burst fracture of L1 vertebral body with stable retropulsion, 
+but possible slight increase in degree of anterior vertebral 
+body height loss.
+
+___
+WBC-13.1*# Hgb-14.9 Hct-46.1 MCV-94 Plt ___ PTT-29.2 ___
+ALT-22 AST-18 AlkPhos-104 TotBili-0.4
+
+___
+WBC-6.4# Hgb-12.7 Hct-39.6 MCV-94 Plt ___ PTT-35.9* ___
+Glucose-86 UreaN-7 Creat-0.6 Na-141 K-3.8 Cl-108 HCO3-___ year-old female with recent bilateral PE on coumadin, 
+choledocholithiasis s/p biliary stent placement and removal in 
+ERCP, and recent admission for BRBPR in context of 
+supratherapeutic INR and colitis admitted with diarrhea. 
+Hospital course was as follows.
+
+1. C. difficile colitis:  Toxin positive. Patchy colitis on CT 
+abdomen/pelvis. Abdomen soft, mildly tender; tolerating POs 
+without problem. Leukocytosis initially elevated, resolved on 
+discharge. Treated with metronidazole PO, and discharged for 
+total 2 week course. Probiotics also started at recommendation 
+of GI consultants. Given patchy colitis and prior BRBPR, patient 
+should keep previously scheduled colonoscopy in ___.
+
+2. History of PE (bilateral):  Continued coumadin per home 
+regimen. Given that metronidazole may affect coumadin 
+metabolism, patient to get repeat INR on ___ and 
+coumadin dosing changed accordingly. Regarding work-up for PE, 
+Pap smear normal ___. Mammogram and colonoscopy scheduled in 
+___.
+
+3. Adrenal lesion:  10mm adrenal lesion on CT abdomen/pelvis. 
+Discussed with patient. She will need an outpatient MRI for 
+further evaluation.
+ 
+Medications on Admission:
+Multivitamin 
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain/fever.  
+2. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H (every 
+8 hours) for 13 days.
+Disp:*39 Tablet(s)* Refills:*0*
+3. Warfarin
+8mg on ___ 7mg on 
+___
+4. Outpatient Lab Work
+INR check on ___
+5. Probiotic Formula 10 billion cell (2 billion ea) Capsule Sig: 
+One (1) Capsule PO once a day.
+Disp:*30 Capsule(s)* Refills:*2*
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+- Clotridium difficile colitis
+
+Secondary:
+- Recent bilateral pulmonary emboli, on coumadin
+ 
+Discharge Condition:
+Mental Status:  Clear and coherent
+Level of Consciousness:  Alert and interactive
+Activity Status:  Ambulatory - Independent
+ 
+Discharge Instructions:
+You were admitted to ___ on 
+___ for diarrhea. You were found to have an infection with 
+C. difficile, a type of bacteria. For treatment, you will need 
+to take Flagyl (also called metronidazole) for 2 weeks. We also 
+recommend that you take a probiotic.
+
+Please note, Flagyl can increase your INR, so your INR will need 
+to be closely monitored and your coumadin dose may need to be 
+changed.
+
+Other than the above medication changes, you may continue taking 
+your home medications as you were prior to this hospitalization.
+ 
+Followup Instructions:
+___

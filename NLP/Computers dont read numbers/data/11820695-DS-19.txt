@@ -1,0 +1,232 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / Percodan / Darvocet-N 100
+ 
+Attending: ___.
+ 
+Chief Complaint:
+"Nausea/Vomiting/Diarrhea."
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mrs. ___ is a pleasant ___ y/o woman with T1DM (diagnosed at 
+age ___ c/b peripheral neuropathy and difficulty with glycemic 
+control,  
+recent cholecystectomy on ___, hx of ICA aneurysm and CVA 
+with residual hearing loss in R ear presenting with nausea 
+vomiting and diarrhea. She developed diffuse abdominal soreness 
+about one week ago, with onset of watery, nonbloody diarrhea 
+three days ago with about ___ episodes daily. Yesterday, she 
+developed severe nausea and vomiting at about 5 episodes daily, 
+which was nonbilious and nonbloody. These symptoms are similar 
+to her typical gastroparetic episodes, except that she also has 
+RUQ stabbing pain at ___ as well. She is status post CCY in 
+___. It is nonradiating and worsened with vomiting. Of 
+note, she down-titrated her reglan from 10mg QID to once daily 
+one month ago- she denies any change in her symptoms since that 
+time.  
+.  
+In the ED, initial VS: T98.5 ___ BP107/60 RR16 Sat100%. She was 
+found to have hyperglycemia >500 without anion gap, glycosuria, 
+and ketouria. She was treated with 8 units regular insulin, 
+2LNS, morphine, and zofran prior to admission to the floor. Last 
+FSG prior to transfer was 404, which is essentially at baseline. 
+ 
+.  
+Upon arrival to the medicine floor, her initial vitals were: T98 
+BP120/78 P70 RR-16 ___ 100 RA. Initial FSG 150. She notes some 
+abdominal pain but is eager to try some crackers. She denies any 
+sick contacts or recent travel. Of note, her FSG have been 
+increasingly brittle recently, often exceeding 600 before 
+plummetting to 35 with modest insulin doses (___). She does 
+not get typical symptoms of hypoglycemia, which has complicated 
+her control at home. She has ___ appt in a few weeks.  
+ 
+Past Medical History:
+-DM, type I - dx age ___, poorly controlled, complicated by 
+peripheral neuropathy, necrobiosis lipodoica, A1c 9.1 on ___ 
+ 
+-GI bleed - ___.  
+-Aneurysm/CVA ___ - 1mm aneurysm in L cavernous segment of ICA, 
+residual right hearing loss  
+-Raynaud's syndrome  
+-Migraines  
+-Hx pre-eclampsia with birth of twins in ___  
+-D&C (x2?) for abnormal uterine bleeding  
+-s/p appendectomy ___  
+-s/p tubal Ligations ___  
+-s/p cholecystectomy ___  
+
+ 
+Social History:
+___
+Family History:
+mother with lung cancer. father alive and well. paternal gm  
+breast cancer  
+ 
+Physical Exam:
+Admission Exam
+VS - T98 BP120/78 P70 RR16 ___ 100RA. Initial FSG 150  
+GENERAL - well-appearing in NAD  
+HEENT - PERRLA, EOMI, sclerae anicteric, MM dry  
+NECK - supple, no thyromegaly  
+LUNGS - clear to auscultation bilaterally  
+HEART - RRR, no MRG, nl S1-S2  
+ABDOMEN - +BS. Diffusely sore to palpation with mild tenderness 
+to palp in the RUQ, equivocal ___.  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout
+.
+Discharge Exam
+Tm 99.3 Tc 97.2 HR 73 BP 90/60 recheck 116/82 RR 18 SaO2 97 on 
+RA  
+BG 210-74  
+GENERAL: AAOX3, NAD  
+HEENT: CN ___ grossly intact, MMM  
+NECK: no lad, no obvious thryomegaly  
+___: RRR, no RMG  
+LUNGS: CTAB, no WRR  
+ABDOMEN: flat, diffuse mild TTP, greatest in RUQ, no rebound, no 
+HSM  
+SKIN: no obvious rashes  
+Extremities: decreased sensation in RLQ, decreased strength in 
+ble ___, pulses 2+ and equal, otherwise strength and sensation 
+is wnl  
+NEURO: CN's intact, strength and sensation per above  
+Psych: flat affect  
+
+ 
+Pertinent Results:
+On Admission:
+
+___ 05:00PM BLOOD WBC-8.5 RBC-4.15* Hgb-10.4* Hct-32.0* 
+MCV-77* MCH-25.1* MCHC-32.5 RDW-14.9 Plt ___
+___ 05:00PM BLOOD Neuts-70.0 ___ Monos-3.7 Eos-1.7 
+Baso-0.4
+___ 05:00PM BLOOD Glucose-527* UreaN-11 Creat-0.6 Na-132* 
+K-3.8 Cl-98 HCO3-21* AnGap-17
+___ 05:00PM BLOOD ALT-16 AST-13 AlkPhos-53 TotBili-0.2
+___ 05:00PM BLOOD Lipase-64*
+___ 05:00PM BLOOD Albumin-4.2
+___ 06:15AM BLOOD Calcium-7.8* Phos-3.8 Mg-1.7
+
+On Discharge:
+
+___ 07:10AM BLOOD WBC-5.3 RBC-4.05* Hgb-9.9* Hct-31.4* 
+MCV-78* MCH-24.4* MCHC-31.4 RDW-14.9 Plt ___
+___ 07:10AM BLOOD Plt ___
+___ 07:10AM BLOOD Glucose-220* UreaN-11 Creat-0.5 Na-138 
+K-3.8 Cl-104 HCO3-26 AnGap-12
+___ 07:10AM BLOOD Calcium-8.0* Phos-4.1 Mg-1.9
+___ 07:10AM BLOOD Lipase-19
+
+Portable Abdomen on ___
+IMPRESSION: An upright and a left decubitus view of the abdomen 
+show no
+pneumoperitoneum. Small bowel is relatively gasless, and could 
+be fluid
+filled, but the colon is normal caliber throughout, not findings 
+to suggest
+small bowel obstruction. Extensive phleboliths project over the 
+pelvis, not
+to be confused with renal stones, although a tiny renal stone 
+could hide among the multiple, smaller venous calcifications.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ with type 1 DM, known gastroparesis with 
+frequent flares, and h/o ICA anyeurism/CVA presenting with 
+nausea, vomiting and abdominal pain, likely due to viral 
+gastroenteritis and/or exacerbation of her gastroparesis.
+
+#. nausea/vomiting/abdominal pain.   The patient developed 
+vomiting/abdominal pain and diarrhea which more consistent with 
+a viral gastroenteritis although we could not rule out an 
+exacerbation of her gastroparesis.  She was started on 
+anti-emetics, bowel rest and usual pain control.  She was 
+started on a regular diet, but could only tolerate clears on 
+HD#2, due to abdominal pain.  Lipase, LFT's were neg.  She was 
+able to tolerate clears with minimal pain and was discharge on 
+metoclopramide QID.  She should have close follow up with her 
+PCP and ___ for med rec, evaluation of her gastroparesis and 
+DM management.
+
+#. DIABETES/HYPERGLYCEMIA: She has typically brittle glycemic 
+control at home. The acute stress of N/V likely led to 
+counterregulatory surge and worsening glycemia.  Her sugars 
+ranged from 74 to the ___ was consulted and adjusted 
+her her insulin regimen.  She was discharge on a HISS and lantus 
+25mg QHS.
+.
+#. DEPRESSION: Duloxetine was continued throughout her hospital 
+course.
+.
+#Transitional Issues:
+-Close follow up with PCP and ___ in ___ weeks
+-Patient requested consult with surgeon for possible port 
+placement-this idea was brought up by PCP
+ 
+___ on ___:
+1. metoclopramide 10 mg Tablet QD  
+2. insulin lispro 100 unit/mL Solution Sig: See attached sliding 
+ 
+scale Subcutaneous ASDIR: see attached sheet for sliding scale  
+information.  
+3. Lantus 25 units qAM  
+4. duloxetine 60 mg daily 
+ 
+Discharge Medications:
+1. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+2. metoclopramide 10 mg Tablet Sig: One (1) Tablet PO four times 
+a day.  
+3. insulin sliding scale
+Please take the insulin per attached sliding scale
+4. ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every four (4) hours as needed for nausea.
+Disp:*10 Tablet, Rapid Dissolve(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+gastroenteritis
+gastroparesis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to ___ for 
+nausea, vomiting, and diarrhea.  You were treated with 
+anti-emetics and are now doing better.  You were also found to 
+be hyperglycemic and were treated with extra doses of insulin.  
+Please follow up with with your primary care provider ___ 1 
+week of discharge.  Please also follow up with ___ on 
+___.
+
+Medication Changes:
+-Take Zofran 4 mg as needed for nausea
+-Please see changes to your insulin sliding scale per ___ 
+consult recommendations. 
+-continue all other medications as prescribed
+ 
+Followup Instructions:
+___

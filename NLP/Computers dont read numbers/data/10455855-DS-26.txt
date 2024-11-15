@@ -1,0 +1,262 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Valsartan / doxazosin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypoglycemia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo female with history of DM2 (A1C 6.9), CKD, presented to 
+the ED for unresponsiveness with FSBS of 40.  
+Pt stated that recently her appetite has not been as strong as 
+before, and she had been experiencing more episodes of 
+hypoglycemia. She typically self treats with orange juice. The 
+day prior to admission, pt had insulin at 11pm, went to bed, and 
+woke up at 2:30 feeling fatigue and jittery, concerning for 
+hypoglycemia. She ran out of orange juice and called her 
+daughter. When her daughter checked on her, pt was found 
+nonresponsive. EMS was called, and pt was found to have FSBS of 
+40. Pt was given 1 amp of dextrose with some improvement. 
+Typically, pt takes glipizide 5 mg in AM and NPH 12 units at bed 
+time. She otherwise denies F/C, chest pain, SOB, N/V/D, dysuria. 
+She does have constipation and hemorrhoids issues.  
+In the ED, initial VS were: 97.1 67 168/77 15 94% on RA. Labs 
+were notable for fs of 40 and a creatinine of 2.9, up from a 
+baseline of 2.1. CXR noted new interstitial opacities most 
+consistent with edema. UA was concerning for infection so she 
+was given ceftriaxone. Gave 500cc of NS, then started on D5NS @ 
+75ml/hr. Admission was requested given unwell appearance and 
+diabetic regimen. Most recent vitals prior to admission were 
+98.4 60 167/70 18 98% on RA.  
+
+ 
+Past Medical History:
+- PERCUTANEOUS CORONARY INTERVENTIONS:  ___ in ___ RCA 
+stent placed
+- PACING/ICD:  ___ in ___  DDDR pacer placed for 
+bradycardia, last check ___:  DDDR mode with a base rate of 
+65, a rest rate of 60, a maximum track rate of 110 and an upper 
+sensor rate of 105 beats per minute.  The mode switch function 
+is ON for atrial rates greater than 180 beats per minute.
+- T2DM
+- arthritis
+- cholelithiasis
+- chronic abdominal pain
+- diverticulitis
+- hypertension
+- hyperlipidemia
+- osteomalacia
+- peripheral edema
+- peripheral neuropathy
+- peripheral vascular disease
+- PPD positive ___
+- acute kidney injury  
+- spinal stenosis   
+- dysphagia 
+- chronic kidney disease (baseline Cr 1.6-1.8)
+- Recurrent UTIs
+- Chronic oral pain ___ poor-fitting dentures
+ 
+Social History:
+___
+Family History:
+Mother died of stroke; father died of MI at ___ yo.  One brother 
+died from lung cancer.  Her daugther has colon cancer.  
+ 
+Physical Exam:
+ADMISSION:
+
+VS - 98.0 65 182/80 18 96% on RA  
+GENERAL - elderly female in NAD, comfortable, appropriate  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no thyromegaly, JVD ~ 8 cm, no carotid bruits  
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use  
+HEART - PMI non-displaced, RRR, nl S1-S2, ___ systolic ejection 
+murmur @ LUSB, +S2, radiating to carotids  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEURO - awake, A&Ox3  
+
+DISCHARGE:
+
+VS: 98.4 160/71  18  97%RA
+GENERAL - elderly female in NAD, comfortable, appropriate  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, no thyromegaly, JVD ~ 8 cm, no carotid bruits  
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use  
+HEART - PMI non-displaced, RRR, nl S1-S2, ___ systolic ejection 
+murmur @ LUSB, +S2, radiating to carotids  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) 
+ 
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEURO - awake, A&Ox3  
+
+ 
+Pertinent Results:
+LABS:
+
+___ 06:05AM BLOOD WBC-5.5 RBC-3.16* Hgb-9.7* Hct-29.7* 
+MCV-94 MCH-30.6 MCHC-32.6 RDW-14.2 Plt ___
+___ 03:15PM BLOOD Glucose-141* UreaN-37* Creat-2.6* Na-138 
+K-5.0 Cl-106 HCO3-25 AnGap-12
+___ 04:25PM BLOOD Glucose-80 UreaN-41* Creat-2.9* Na-140 
+K-5.0 Cl-107 HCO3-23 AnGap-15
+___ 04:25PM BLOOD cTropnT-0.02*
+___ 03:15PM BLOOD Calcium-8.4 Phos-3.3 Mg-2.6
+___ 04:25PM BLOOD Lactate-1.3
+
+==========================================================
+IMAGING/OTHER STUDIES:
+
+CXR ___: FINDINGS:  There is cardiomegaly as well as a 
+pacemaker with leads terminating in appropriate position.  There 
+are new interstitial opacities consistent with edema.  No focal 
+opacities concerning for infection.  No pleural effusion or 
+pneumothorax. 
+
+ 
+Brief Hospital Course:
+___ yo female with history of DM2 (A1C 6.9), CKD, HTN, HL and 
+multiple prior UTI's who presented to the emergency department 
+after an episode of unresponsiveness at home, found to have 
+hypoglycemia and acute on chronic renal failure.  
+
+# Hypoglycemia: Likely secondary to poor oral intake and insulin 
+combined with a sulfonylurea. Given patient's recurrent episodes 
+of hypoglycemia, her glyburide was stopped during this 
+admission. She was continued on her previous regimen of 12u 
+glargine qHS. She will have close followup with the ___ 
+___. 
+ 
+# Acute on chronic renal failure: This was almost certainly 
+prerenal azotemia in the setting of decreased PO intake. Cr 
+returned to baseline with IV fluids.  
+  
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+TRANSITIONAL ISSUES:
+
+#Hypoglycemia: Glyburide was discontinued during this admission. 
+Given recurrent episodes of symptomatic hypoglycemia, patient 
+may benefit from slightly looser glucose control goals. She was 
+discharged on home dose of 12u glargine qHS which may need to be 
+adjusted.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 5 mg PO BID 
+2. Aspirin 325 mg PO DAILY 
+3. Atenolol 50 mg PO DAILY 
+4. Atorvastatin 40 mg PO HS 
+5. Docusate Sodium 100 mg PO BID 
+hold for loose stools 
+6. Duloxetine 30 mg PO BID 
+7. Fluocinonide 0.05% Cream 1 Appl TP BID 
+8. Fluticasone Propionate NASAL 1 SPRY NU BID 
+9. Hydrochlorothiazide 12.5 mg PO DAILY 
+10. Hydrocortisone (Rectal) 2.5% Cream ___ID 
+11. Hydrocortisone Acetate Suppository ___ID 
+12. Glargine 12 Units Bedtime
+13. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+14. Omeprazole 20 mg PO DAILY 
+15. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO QD PRN pain 
+16. Vitamin D 1000 UNIT PO DAILY 
+17. GlipiZIDE 5 mg PO DAILY 
+18. Maalox/Diphenhydramine/Lidocaine 5 mL PO Q2H:PRN mouth pain 
+swish and spit 
+19. Nitroglycerin SL 0.3 mg SL PRN chest pain 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO BID 
+2. Aspirin 325 mg PO DAILY 
+3. Atenolol 50 mg PO DAILY 
+4. Atorvastatin 40 mg PO HS 
+5. Docusate Sodium 100 mg PO BID 
+6. Duloxetine 30 mg PO BID 
+7. Fluocinonide 0.05% Cream 1 Appl TP BID 
+8. Fluticasone Propionate NASAL 1 SPRY NU BID 
+9. Hydrocortisone (Rectal) 2.5% Cream ___ID 
+10. Hydrocortisone Acetate Suppository ___ID 
+11. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+12. Omeprazole 20 mg PO DAILY 
+13. Vitamin D 1000 UNIT PO DAILY 
+14. Hydrochlorothiazide 12.5 mg PO DAILY 
+15. Maalox/Diphenhydramine/Lidocaine 5 mL PO Q2H:PRN mouth pain 
+16. Nitroglycerin SL 0.3 mg SL PRN chest pain 
+17. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO QD PRN pain 
+18. Glargine 12 Units Bedtime
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Hypoglycemia
+Acute on chronic renal failure
+
+Secondary:
+Type 2 Diabetes Mellitus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ for low blood sugars (hypoglycemia) 
+and worsening kidney function. You were given sugar through the 
+IV and you began eating and your sugars came back to normal. We 
+will stop your diabetes medication, glipizide, to help prevent 
+episodes of hypoglycemia in the future. It is important that you 
+have juice or other sugar containing snacks around in case you 
+begin to feel that your sugar is dropping.
+Your worsening kidney function was likely caused by dehydration 
+and improved back to your baseline with IV fluids. You should be 
+sure to keep well hydrated at home to help protect your kidneys.
+
+It was a pleasure taking part in your care and we wish you a 
+speedy recovery!
+ 
+Followup Instructions:
+___

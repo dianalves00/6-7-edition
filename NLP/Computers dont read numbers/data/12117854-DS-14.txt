@@ -1,0 +1,226 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+pitted fruits
+ 
+Attending: ___.
+ 
+Chief Complaint:
+elevated BPs, LFTs, HA 
+ 
+Major Surgical or Invasive Procedure:
+SVD
+ 
+History of Present Illness:
+___ G1 at 33w0d w/ gHTN who presents w/ HA, elevated BPs and 
+transaminitis noted yesterday (ALT 82, AST 47). Pt states that 
+she took some Tylenol which brought her HA down from ___ to 
+___. She denies any visual changes. She had some RUQ pain 
+yesterday, none today. She denies any ctx, VB, LOF. +AFM.
+ 
+Past Medical History:
+PNC: 
+ - ___ ___ by ___ trimester US   
+ - Labs Rh pos/Abs neg/Rub I/VZV I/RPR NR/HBsAg neg/HIV neg /GBS
+POSITIVE
+ - Screening low risk ERA 
+ - FFS normal anterior placenta 
+ - GLT 75
+ - U/S ___ 1934g 46th%, BPP ___ 
+Issues:
+*) gHTN -  s/p admission from ___ to ___ w/ normal PIH
+labs, neg 24 hour urine protein (154) 
+*) Intermittent HA 
+*) h/o bipolar disorder - on abilify but self discontinued on
+___
+*) chronic hepatitis C - ___ VL undetectable, normal baseline
+LFTs
+*) BMI 39
+*) h/o tobacco use, ongoing cessation since beginning of
+pregnancy 
+*) declined Tdap
+
+OBHx: G1 
+
+GynHx:
+- denies abnormal Pap or cervical procedures, last Pap ___
+NILM 
+- denies fibroids/endometriosis/cysts
+- denies STIs, including HSV
+
+PMH: 
+- Seasonal allergies
+- Chronic Hepatitis C
+- Bipolar Disorder
+- PCOS
+- Asthma
+
+PSH: ___ CCY @ ___
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On admission:
+___ ___: 93
+___ 16:38BP: 130/69 (81)
+___ 16:19BP: 145/87 (99)
+___ 14:17BP: 142/82 (96)
+Gen: A&O, comfortable
+Abd: soft, gravid, nontender, no fundal TTP
+Ext: non-tender, no edema
+Toco flat 
+FHT 135/moderate variability/+accels/-decels
+TAUS: vertex
+------------------
+On discharge:
+Vitals: 
+24 HR Data (last updated ___ @ 530) Temp: 98.6 (Tm 98.6), 
+BP: 127/77 (118-128/77-86), HR: 94 (89-108), RR: 18 (___), O2 
+sat: 98% (94-98), O2 delivery: ra
+General: NAD
+CV: RRR
+Lungs: Nonlabored breathing, CTAB
+Abd: soft, fundus firm at umbilicus, appropriate fundal 
+tenderness
+Lochia: minimal
+Extremities: no calf tenderness, no edema
+Neuro: reflexes symmetric b/l, no clonus 
+ 
+Pertinent Results:
+___ 12:19PM BLOOD WBC-8.4 RBC-3.69* Hgb-11.1* Hct-35.5 
+MCV-96 MCH-30.1 MCHC-31.3* RDW-13.2 RDWSD-46.7* Plt ___
+___ 07:30PM BLOOD WBC-9.0 RBC-3.56* Hgb-10.9* Hct-33.4* 
+MCV-94 MCH-30.6 MCHC-32.6 RDW-12.8 RDWSD-44.0 Plt ___
+___ 03:00PM BLOOD WBC-12.3* RBC-3.65* Hgb-11.1* Hct-34.9 
+MCV-96 MCH-30.4 MCHC-31.8* RDW-12.7 RDWSD-44.0 Plt ___
+___ 02:35AM BLOOD WBC-11.9* RBC-3.60* Hgb-11.0* Hct-33.5* 
+MCV-93 MCH-30.6 MCHC-32.8 RDW-12.7 RDWSD-43.7 Plt ___
+___ 03:16PM BLOOD WBC-13.5* RBC-3.69* Hgb-11.3 Hct-34.5 
+MCV-94 MCH-30.6 MCHC-32.8 RDW-12.7 RDWSD-43.6 Plt ___
+___ 09:41AM BLOOD WBC-13.3* RBC-3.73* Hgb-11.3 Hct-35.2 
+MCV-94 MCH-30.3 MCHC-32.1 RDW-12.9 RDWSD-44.6 Plt ___
+___ 10:18PM BLOOD WBC-14.3* RBC-3.57* Hgb-11.0* Hct-33.3* 
+MCV-93 MCH-30.8 MCHC-33.0 RDW-13.1 RDWSD-44.7 Plt ___
+___ 09:35AM BLOOD WBC-16.8* RBC-3.61* Hgb-11.0* Hct-33.7* 
+MCV-93 MCH-30.5 MCHC-32.6 RDW-13.2 RDWSD-44.5 Plt ___
+___ 07:40AM BLOOD Hct-26.1
+
+___ 12:19PM BLOOD Creat-0.7 ALT-82* AST-47*
+___ 01:57PM BLOOD Creat-0.6 ALT-72* AST-40
+___ 07:30PM BLOOD Creat-0.7 ALT-72* AST-40 TotBili-0.2
+___ 09:45AM BLOOD Creat-0.6 ALT-73* AST-42*
+___ 03:00PM BLOOD Creat-0.6 ALT-77* AST-48*
+___ 08:43PM BLOOD Creat-0.5 ALT-80* AST-46*
+___ 02:35AM BLOOD Creat-0.5 ALT-95* AST-58*
+___ 09:41AM BLOOD Creat-0.5 ALT-124* AST-81*
+___ 03:16PM BLOOD Creat-0.5 ALT-155* AST-101*
+___ 10:18PM BLOOD Creat-0.6 ALT-172* AST-117*
+___ 03:12AM BLOOD Creat-0.5 ALT-176* AST-114*
+___ 09:35AM BLOOD Creat-0.6 ALT-177* AST-103*
+___ 07:50PM BLOOD Creat-0.6 ALT-148* AST-71*
+
+___ 07:30PM BLOOD HBsAg-NEG HAV Ab-POS*
+___ 09:45AM BLOOD IgM HAV-NEG
+___ 07:30PM BLOOD HCV VL-NOT DETECT
+
+___ 01:57PM URINE Blood-NEG Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-10* Bilirub-NEG Urobiln-2* pH-6.0 Leuks-LG*
+___ 01:57PM URINE RBC-1 WBC-1 Bacteri-NONE Yeast-NONE 
+Epi-10 TransE-<1
+___ 12:19PM URINE Hours-RANDOM Creat-306 TotProt-34 
+Prot/Cr-0.1
+___ 01:57PM URINE Hours-RANDOM Creat-252 TotProt-25 
+Prot/Cr-0.1
+___ 05:27PM URINE pH-5 Hours-24 Volume-2700 Creat-64 
+TotProt-11 Prot/Cr-0.2
+___ 05:27PM URINE 24Creat-1728 24Prot-___ G1 at 33w0d withg gHTN, headache, and a new transaminitis; 
+concerning for pre-eclampsia with severe features. On admission, 
+she had mild range blood pressures and improved LFTs. In 
+addition, her headache resolved. Fetal testing was reassuring. 
+She received a course of betamethasone. 
+
+On HD#2, she was transferred back to labor and delivery for 
+closer monitoring and magnesium given the concern for evolving 
+severe preeclampsia. Her transaminitis increased and she 
+developed severe range blood pressures requiring IV 
+antihypertensives. She underwent induction of labor and had an 
+uncomplicated SVD on ___ (at 33w3d). Her delivery was notable 
+for uterine atony and an estimated blood loss of 700 cc which 
+was controlled with uterotonics. 
+.
+Ms ___ was continued on Magnesium for 24 hours postpartum. 
+Her blood pressures were controlled on po Labetalol 200mg TID. 
+She was discharged to home on PPD#2. She was discharged to home 
+and will have close outpatient follow up with a blood pressure 
+check.
+ 
+Medications on Admission:
+PNV
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever 
+Do not exceed 4000 mg per day.  
+RX *acetaminophen 500 mg 1 tablet(s) by mouth every six (6) 
+hours Disp #*50 Tablet Refills:*1 
+2.  Docusate Sodium 100 mg PO BID 
+Do not take if you are experiencing diarrhea.  
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*50 Capsule Refills:*0 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild/Fever 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not exceed 2400 mg per day. Take with food.  
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*50 Tablet Refills:*0 
+4.  Labetalol 200 mg PO TID 
+Please continue to take this medication as prescribed until 
+instructed otherwise.  
+RX *labetalol 200 mg 1 tablet(s) by mouth three times a day Disp 
+#*90 Tablet Refills:*1
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+vaginal delivery
+preeclampsia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+___ on the birth of your baby! During your 
+pregnancy, you had elevated blood pressures and were diagnosed 
+with pre-eclampsia. You were started on blood pressure 
+medications Please continue to take this medications until 
+instructed otherwise. You have recovered well and the team now 
+feels that you are ready to go home.
+
+Please refer to your discharge packet and the instructions 
+below:
+- Nothing in the vagina for 6 weeks (No sex, douching, tampons)
+- Do not take more than 4000mg acetaminophen (Tylenol) in 24 hrs
+- Do not take more than 2400mg ibuprofen (Motrin) in 24 hrs
+
+Please call the on-call doctor at ___ if you develop 
+headache, vision changes, shortness of breath, dizziness, 
+palpitations, fever of 100.4 or above, abdominal pain, heavy 
+vaginal bleeding, nausea/vomiting, depression, or any other 
+concerns.
+ 
+Followup Instructions:
+___

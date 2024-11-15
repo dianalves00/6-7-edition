@@ -1,0 +1,481 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+anesthesia
+ 
+Attending: ___.
+ 
+Chief Complaint:
+LBP, osteomyelitis
+ 
+Major Surgical or Invasive Procedure:
+Drainage of superficial fluid collection ___
+
+ 
+History of Present Illness:
+___ yo F, hx of opioid use disorder w/IVDU now on suboxone, RA on
+daily prednisone, chronic pain syndrome, COPD, hx malignant
+hyperthermia, recurrent spinal infections, now transferred from
+OSH with abnormal MRI and bilateral lower extremity neurologic
+symptoms. Leukocytosis to 14.5, but currently afebrile,
+hemodynamically stable, lactate WNL.
+
+Patient initially diagnosed at ___) in ___ with MRSA bacteremia and L2
+epidural abscess. Completed course of IV vancomycin followed by
+PO Bactrim. Antibiotics completed ___, but patient had
+persistent LBP and re-presented. Found to have L2-L3
+osteomyelitis/discitis, and paravertebral abscesses, transferred
+to ___ on ___. Underwent open reduction/I&D of L2 and L3
+fractures, L3 laminectomy, T11-L5 arthrodesis, and L5-S1 
+metallic
+disc prosthesis. Cx grew MRSA. During this admission, TTE was
+initially c/f possible tricuspid vegetation, but TEE was
+negative. Per ID rec, discharge with ___ (placed ___ on
+vancomycin, following with OPAT. 
+
+Vancomycin completed on ___, patient reports continuing Bactrim
+DS after this. Patient subsequently developed worsening LBP,
+bilateral paresthesias in posterior lower extremities, and 
+marked
+weakness. Denies bladder/bowel incontinence, numbness, fevers,
+chills, light-headedness, dizziness, or other new symptoms.
+Presented to ___, found on MRI to have L2-L3 discitis along with
+a lumbar fusion from T12-L5. Patient was transferred to ___ 
+for
+further management.
+
+In the ED, patient remained afebrile, hemodynamically stable.
+Labs notable for WBC 14.5, creatinine 0.9 (baseline 0.5-0.6),
+lactate 1.8. Started on IV vancomycin per ID rec. Evaluated by
+___, does not need surgical intervention at this time. Admitted
+to medicine for IV antibiotics.
+
+On arrival to the floor, patient reports improvement of her LBP
+in past day since getting IV vancomycin and pain medications.
+Pain is localized to base of spine and bilateral paraspinal
+areas. Radiates down bilateral lower extremities, although
+currently only having L-sided symptoms. Denies fevers, chills,
+light-headedness, dizziness, SOB, cough, CP, abdominal pain,
+n/v/d. Patient reports not taking bowel regimen at home but has
+continued to have regular BM.
+
+ 
+Past Medical History:
+ID History:
+- Admission to ___ ___ for MRSA 
+bacteremia and L2 epidural abscess s/p vancomycin treatment 
+followed by TMP-SM, ending ___
+- Re-admission to ___ ___ for persistent 
+back pain, imaging with worsening paravertebral abscesses and 
+L2/L3 osteo/dicitis -> transfer to ___. She is s/p open 
+reduction/I&D of L2 and L3 fractures, L3 laminectomy, T11-L5 
+arthrodesis, and L5-S1 metallic disc prosthesis on ___. No 
+vegetation on TEE. Maintained on vancomycin monotherapy until 
+___ and then switched to oral TMP-SMX. Rifampin was not started 
+due to transaminitis, possible cirrhosis. 
+- Re-presentation to ___ ___, found to have 
+L2-L3 discitis and transferred to ___
+
+Other Past Medical History:
+COPD, malignant hyperthermia, RA, chronic pain syndrome, anxiety
+history of IVDU
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=========================
+___ 1846 Temp: 98.4 PO BP: 107/76 HR: 91 RR: 18 O2 sat: 96%
+O2 delivery: ra 
+GENERAL: WDWN adult woman sitting in bed in NAD
+HEENT: NCAT, sclerae anicteric, normal conjunctivae, PERRL, 
+EOMI,
+oropharynx clear, MMM
+CARDIAC: RRR, normal S1/S2, no m/r/g
+LUNGS: CTAB, no increased work of breathing
+BACK: Mid-line surgical incision appearing clean, dry. Mild
+tenderness in lumbar spine and bilateral paraspinal areas. No
+rash.
+ABDOMEN: Soft, non-tender, non-distended, normoactive BS
+EXTREMITIES: Warm, DP pulses 2+ bilaterally, no edema
+NEUROLOGIC: AOx3. CN2-12 intact. Strength ___ in upper and lower
+extremities bilaterally, sensation intact throughout. 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 0731)
+    Temp: 97.7 BP: 166/94 (129-166/77-94), HR: 70 (69-108), RR:
+18, O2 sat: 98% (94-99), O2 delivery: RA  
+General: Well-appearing woman, lying in bed comfortably,
+in NAD
+HEENT: NC/AT, EOMI, anicteric sclera, MMM
+Resp: Clear to auscultation bilaterally, no wheezes, rales,
+ronchi  
+CV: Regular rate and rhythm, normal S1/S2, no murmurs, rubs,
+gallops  
+GI: Soft, non-tender, non-distended, bowel sounds present
+Back: Surgical incision on back appears largely well healed, but
+does have approx. 2cm area in distal half of incision that has
+opened, no longer expressing purulent discharge, covered with
+gauze and tape. No significant erythema, warmth, or tenderness. 
+Ext: No cyanosis, clubbing, or edema    
+Neuro: Alert, oriented x3, moving all extremities with purpose
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+===================
+___ 08:10AM URINE  COLOR-Yellow APPEAR-Hazy* SP ___
+___ 08:10AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-SM*
+___ 08:10AM URINE  RBC-4* WBC-33* BACTERIA-NONE YEAST-NONE 
+EPI-2
+___ 08:10AM URINE  MUCOUS-RARE*
+___ 06:08AM   ___ COMMENTS-GREEN TOP
+___ 06:08AM   LACTATE-1.8
+___ 05:00AM   GLUCOSE-70 UREA N-17 CREAT-0.9 SODIUM-139 
+POTASSIUM-4.6 CHLORIDE-100 TOTAL CO2-23 ANION GAP-16
+___ 05:00AM   estGFR-Using this
+___ 05:00AM   ALT(SGPT)-100* AST(SGOT)-108* LD(LDH)-334* 
+ALK PHOS-107* TOT BILI-0.4
+___ 05:00AM   ALBUMIN-3.4*
+___ 05:00AM   CRP-132.1*
+___ 05:00AM   WBC-14.5* RBC-4.89 HGB-13.6 HCT-43.8 MCV-90 
+MCH-27.8 MCHC-31.1* RDW-15.2 RDWSD-49.2*
+___ 05:00AM   NEUTS-79.0* LYMPHS-15.8* MONOS-2.7* EOS-0.5* 
+BASOS-0.5 IM ___ AbsNeut-11.48* AbsLymp-2.29 AbsMono-0.39 
+AbsEos-0.07 AbsBaso-0.07
+___ 05:00AM   PLT COUNT-199
+___ 05:00AM   ___ PTT-21.6* ___
+
+INTERIM LABS:
+=============
+___ 06:47AM BLOOD WBC-8.6 RBC-4.30 Hgb-12.0 Hct-38.6 MCV-90 
+MCH-27.9 MCHC-31.1* RDW-15.4 RDWSD-49.2* Plt ___
+___ 06:31AM BLOOD WBC-8.2 RBC-4.22 Hgb-11.7 Hct-38.6 MCV-92 
+MCH-27.7 MCHC-30.3* RDW-15.2 RDWSD-50.2* Plt ___
+___ 06:39AM BLOOD WBC-10.7* RBC-4.30 Hgb-11.8 Hct-39.1 
+MCV-91 MCH-27.4 MCHC-30.2* RDW-15.3 RDWSD-50.6* Plt ___
+___ 06:47AM BLOOD ALT-124* AST-136* LD(LDH)-235 
+AlkPhos-111* TotBili-0.2
+___ 06:31AM BLOOD ALT-151* AST-158* AlkPhos-111* 
+TotBili-<0.2
+___ 06:39AM BLOOD ALT-136* AST-106* AlkPhos-110* 
+TotBili-0.2
+
+DISCHARGE LABS:
+================
+___ 06:20AM BLOOD WBC-11.2* RBC-4.07 Hgb-11.4 Hct-37.1 
+MCV-91 MCH-28.0 MCHC-30.7* RDW-15.5 RDWSD-51.2* Plt ___
+___ 06:20AM BLOOD ___ PTT-22.3* ___
+___ 06:20AM BLOOD Glucose-88 UreaN-32* Creat-0.7 Na-144 
+K-4.2 Cl-110* HCO3-25 AnGap-9*
+___ 06:20AM BLOOD ALT-85* AST-42* LD(LDH)-180 AlkPhos-106* 
+TotBili-0.2
+___ 06:20AM BLOOD Albumin-3.3* Calcium-9.0 Phos-3.2 Mg-1.7
+
+IMAGING:
+========
+LUMBO-SACRAL SPINE (AP & LAT) ___
+IMPRESSION: 
+1. Similar destructive changes of the L2 and L3 vertebral bodies 
+with  worsening collapse when compared to the prior CT from 
+___ but unchanged from the recent MRI, compatible with 
+known osteomyelitis/discitis. 
+2. Status post L3 laminectomy, T11-L5 posterior fusion and L5-S1 
+fusion with interbody spacer device without hardware 
+complications or alignment change. 
+
+CT L-SPINE W/O CONTRAST ___
+IMPRESSION: 
+1. Worsening collapse of the L2-L3 vertebral bodies consistent 
+with known 
+extensive discitis/osteomyelitis.  Foci of gas within vertebral 
+bodies has 
+decreased from prior exam. 
+2. Bilateral psoas calcified collections have decreased in size 
+from prior 
+exam. 
+3. Stable post L3 laminectomy, T11 through L5 posterior spinal 
+fusion, and 
+L5-S1 fusion with interbody spacer device with no hardware 
+complications. 
+
+US LOWER BACK, SOFT TISSUE LEF ___
+IMPRESSION:  
+Large 10.9 x 1.5 x 3.7 cm complex fluid collection, difficult to 
+ascertain 
+relationship with the L3 laminectomy site, could represent 
+normal postoperative changes, liquified hematoma or seroma, 
+overall unchanged.  
+Although there are no sonographic findings of superimposed 
+infection, this 
+should be clinically excluded.  If a CSF leak is of high 
+clinical suspicion, Findings may be better assessed by MRI. 
+
+US LOWER BACK, ___ GUIDED ASPIRATION/DRAINAGE ___
+TECHNIQUE:  The risks, benefits, and alternatives of the 
+procedure were 
+explained to the patient.  After a detailed discussion, informed 
+written 
+consent was obtained.  A pre-procedure timeout using three 
+patient identifiers was performed per ___ protocol. 
+  
+The patient was placed in a right lateral decubitus position on 
+the US scan table. Limited preprocedure ultrasound was performed 
+to localize the 
+collection.  Based on the ultrasound findings an appropriate 
+skin entry site for the aspiration was chosen.  The site was 
+marked.  Local anesthesia was administered with 1% Lidocaine 
+solution. 
+  
+Using continuous sonographic guidance, an 18 gauge spinal needle 
+was inserted into the collection. 3 cc of serous fluid was 
+aspirated.  Due to the loculated nature of the collection, no 
+more fluid could be aspirated. 
+  
+Approximately 3 cc of serous fluid was aspirated with a sample 
+sent for 
+microbiology evaluation.  Sterile dressing was applied. 
+  
+The procedure was tolerated well, and there were no immediate 
+post-procedural complications. 
+  
+SEDATION:  Moderate sedation was not provided 
+  
+FINDINGS:  
+Approximately 3 cc of serous fluid was aspirated. 
+  
+IMPRESSION:  
+Successful aspiration of the superficial paraspinal lower back 
+collection.  Sample was sent for microbiology evaluation. 
+
+MICRO:
+=====
+___ ABSCESS GRAM STAIN-FINAL; FLUID 
+CULTURE-PRELIMINARY; ANAEROBIC CULTURE-PRELIMINARY; FUNGAL 
+CULTURE-PRELIMINARY - NO GROWTH
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+NO GROWTH
+___ URINE URINE CULTURE-FINAL NO GROWTH
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+NO GROWTH
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+NO GROWTH
+
+ 
+Brief Hospital Course:
+___ with history of rheumatoid arthritis (on daily prednisone) 
+and history of IV drug use (previously on suboxone), with recent 
+admission in ___ for L2 epidural abscess, osteomyelitis, and 
+discitis, s/p robotic laminectomy, washout, and fusion, who 
+initially presented to an outside hospital with fevers and lower 
+extremity weakness, subsequently transferred to ___, found to 
+have L2-L3 discitis with concern for persistent spinal 
+infection, ultimately discharged home against medical advice on 
+___.
+
+ACTIVE ISSUES:
+==============
+# L2-L3 Discitis with likely persistent spinal infection 
+Initially presented to outside hospital with fevers and lower 
+extremity pain/weakness. Underwent MRI that showed L2-L3 
+discitis and several small areas of calcification vs. fluid 
+collections in the psoas muscle, but with no drainable sites. 
+After extensive review of imaging and discussion with both ID 
+and orthopedic spine team, the decision made to keep existing 
+hardware in place and defer surgical management. An ultrasound 
+of her prior incision was obtained which showed liquefied 
+hematoma vs. seroma.  ID recommended drainage for which ___ was 
+consulted and performed drainage on ___ NSGY did not feel she 
+required open surgical drainage. ID recommended treatment with 
+prolonged course of vancomycin ___ weeks total) followed by 
+suppressive treatment with TMP-SMX DS 1 tab BID indefinitely. 
+The team recommended discharge to rehab to ensure patient 
+received the appropriate treatment given concern that during her 
+prior course of vancomycin, surveillance labs were not reliable 
+obtained; however, patient declined.  Ms. ___ left against 
+medical advice on ___ and expressed her plan to leave ___ 
+___ and represent to ___ to receive remainder of her 
+care.  A PICC was pulled before discharge on ___. She was 
+provided with a prescription for TMP-SMX 1 DS tab BID.  Her 
+outpatient ID doctor was notified of her leaving ___ and 
+discharge summary faxed to office.  She should follow up with 
+NSGY upon discharge.  She should follow up with ID upon 
+discharge.  Cultures from her US guided aspiration from ___ 
+were pending at time of leaving hospital. 
+
+# ___, resolved
+Mild pre-renal ___, with peak Cr of 0.9 (from baseline of 
+0.5-0.6). Improved with hydration. 
+
+# Opioid use disorder
+Previously on suboxone but self-discontinued due to cost. Would 
+be interested in re-starting this if it became more affordable. 
+Social work was consulted during admission. Was not discharged 
+from ___ on narcotics. 
+
+# Transaminitis
+Mild. Felt secondary to known Hepatitis C infection, for which 
+the patient has not yet received treatment. Needs evaluation for 
+treatment. 
+
+CHRONIC ISSUES
+===============
+# Rheumatoid arthritis
+Maintained on chronic prednisone 60mg daily. Has not yet 
+established care with rheumatology. Continued prednisone, 
+pantoprazole 40mg daily, Vit D 800 IU daily, calcium carbonate 
+1000mg qd and Bactrim daily for PJP prophylaxis. 
+
+# Anxiety: Continued home clonazepam 1MG BID. Was not prescribed 
+with BDZ upon discharge from ___. 
+
+# COPD: Treated with Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN 
+SOB. 
+
+# Tobacco abuse: Treated with nicotine Patch 21 mg/day TD DAILY.
+
+# GERD: Continued pantoprazole 40mg daily.
+
+# ADD: Continued home MethylPHENIDATE (Ritalin) 10 mg PO/NG BID.
+
+# HTN: Continued home AmLODIPine 10mg daily and labetaolol 100mg 
+BID.
+
+TRANSITIONAL ISSUES:
+======================
+[] Discharged against medical advice
+[] Ensure outpatient follow-up with outpatient hepatologist in 
+___ for untreated Hepatitis C 
+[] Ensure outpatient follow-up with rheumatology for severe 
+rheumatoid arthritis requiring high dose of chronic prednisone 
+[] Ensure NSGY follow up
+[] Ensure ID follow up Dr. ___ 
+___ and Travel Medicine)
+[] Discharge antibiotic regimen: Given left AMA, given 1 DS 
+tablet bactrim BID for bridge treatment; Optimal treatment is: 
+IV vancomycin 750 mg q12h x 6 weeks followed by indefinite oral 
+abx suppression with SMX/TMP 1 DS TWICE DAILY (pt was prescribed 
+this the last time, but she reports taking once daily) or 
+levofloxacin 750 mg daily for suppression, and Bactrim 1 DS 
+daily for pcp ___.
+[] Discharged with walker
+
+# CODE: DNR/DNI
+# CONTACT: ___ (mother) ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Baclofen 10 mg PO TID 
+3. ClonazePAM 1 mg PO BID 
+4. Gabapentin 200 mg PO TID 
+5. Labetalol 100 mg PO BID 
+6. MethylPHENIDATE (Ritalin) 10 mg PO BID 
+7. Nortriptyline 10 mg PO DAILY 
+8. PredniSONE 60 mg PO DAILY 
+9. Calcium Carbonate 1000 mg PO DAILY osteoporosis ppx in 
+setting of prednisone 
+10. Lidocaine 5% Patch 1 PTCH TD QAM back pain  
+11. OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN Pain - 
+Moderate 
+12. Vitamin D 800 UNIT PO DAILY 
+13. albuterol sulfate 90 mcg/actuation inhalation PRN sob 
+14. Sulfameth/Trimethoprim DS 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tab-cap by 
+mouth twice a day Disp #*60 Tablet Refills:*0 
+2.  albuterol sulfate 90 mcg/actuation inhalation PRN sob  
+3.  amLODIPine 10 mg PO DAILY  
+4.  Baclofen 10 mg PO TID  
+5.  Calcium Carbonate 1000 mg PO DAILY osteoporosis ppx in 
+setting of prednisone  
+6.  ClonazePAM 1 mg PO BID  
+7.  Gabapentin 200 mg PO TID  
+8.  Labetalol 100 mg PO BID  
+9.  Lidocaine 5% Patch 1 PTCH TD QAM back pain   
+10.  MethylPHENIDATE (Ritalin) 10 mg PO BID  
+11.  Nortriptyline 10 mg PO DAILY  
+12.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN Pain - 
+Moderate  
+13.  PredniSONE 60 mg PO DAILY  
+14.  Vitamin D 800 UNIT PO DAILY  
+15.DME
+Rolling walker 
+Dx: L2-L3 Discitis 
+Prognosis: Good
+___: 13 months
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+L2-L3 Discitis 
+Large 10.9 x 1.5 x 3.7 cm complex fluid collection, difficult to 
+ascertain relationship with the L3 laminectomy site 
+
+SECONDARY DIAGNOSIS:
+=====================
+Rheumatoid arthritis 
+Chronic pain
+Hypertension
+Opioid use disorder 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to the hospital due to concern for an 
+infection in your spine. 
+
+In the hospital, you received IV antibiotics to treat your 
+infection. Your MRI was reviewed with the radiologist, 
+infectious disease doctors, and spine doctors, who all felt that 
+you did not need a surgical procedure to treat your infection. 
+You had an ultrasound of your incision which indicated that 
+there was not a superimposed infection. 
+
+You left the hospital against medical advice.  You had the 
+capacity to make this decision.  You understood the risks of 
+leaving the hospital including worsening spinal infection which 
+could compromise your spinal cord, leading to paralysis or death 
+or inability to walk.  You also may have a leak of your spinal 
+fluid. 
+
+Please take 1 tablet of Bactrim twice daily until you follow up 
+with your doctors.
+
+When you leave the hospital, you should continue taking all your 
+medications, as prescribed. Please also attend all your 
+follow-up appointments. 
+
+Sincerely,
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

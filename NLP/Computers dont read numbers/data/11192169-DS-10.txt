@@ -1,0 +1,513 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+failure to thrive, malaise
+
+ 
+Major Surgical or Invasive Procedure:
+Paracentesis x2 of ascites
+
+ 
+History of Present Illness:
+___ with CLL on Ibrutinib, HFpEF on Lasix, and Crohns p/w 
+malaise, weakness and ongoing abdominal pain. He is transferred 
+to the ICU due to one episode of hypotension (88/55 in the ED) 
+and their ongoing concern for early sepsis.
+
+Yesterday he had a colonoscopy at ___ that showed colon CA (___ 
+records: fungating partially obstructing circumfrential large 
+mass in ascending colon on colonoscopy yesterday). In the last 
+few days he has noted increased weakness, and poor PO intake 
+with poor appetite. Today he was unable to ambulate ___ 
+weakness. No falls. No chest pain. Does endorse mild dyspnea 
+which is chronic and very poor appetite in the last 7 days, 
+almost no PO intake in last 2 per wife. 
+
+In the ED, initial vitals:  Afebrile, HR 102, 102/56, 96%RA
+- Exam notable for  AAOx2, Tender abdomen
+- Labs were notable for:  BNP 4701, WBC 13, INR 1.8, Lactate 
+2.1, UA that is equivocal
+- Imaging:  CXR with plueral effusion and pulm edema
+- Patient was given:  Vanc / Cef / 1LNS 
+ 
+On arrival to the FICU, is comfortable  on room air able recount 
+the history. Understands his oncology history relatively well 
+though did ask me to explain some details. Hungry and thirsty.
+ 
+Review of systems:  
+(+) Per HPI  + constipation, no diarrhea, no recent URI sx or 
+cough ++anorexia with very poor appetite 
+
+ 
+Past Medical History:
+-  Edema/diastolic congestive heart failure ___ EF 65%) on 
+Lasix
+-  Hypertension.
+-  Dyslipidemia.
+-  Valvular heart disease (1+ MR, 1+ TR, and mild-to-moderate 
+pulmonary artery systolic hypertension (34-39 mmHg).
+-  Mildly dilated aortic root (3.8 cm) and ascending aorta 
+(3.7cm).
+-  Atrial flutter/atrial fibrillation (avoid anticoagulation 
+other than asprin due to his CLL therapy-Ibrutinib)
+- polymyalgia rheumatic
+- status post TURP
+- CLL 
+- Crohns
+- vitamin D deficiency, 
+- secondary hyperparathyroidism,
+- decreased testosterone, 
+- osteoporosis, 
+- nephrolithiasis status post TURP, 
+- gout, 
+- erectile dysfunction, 
+- vertigo, 
+- migraine headache
+ 
+Social History:
+___
+Family History:
+- His father died at age ___ of leukemia.  
+- His mother died at age ___ of motor vehicle accident.  
+- He has no siblings, one son and two daughters.  
+- One of his daughters has hypertension
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals:  afebrile, 100s/60s, HR ___, 95% RA
+GENERAL: Alert, oriented, no acute distress, Cachectic appearing 
+ 
+HEENT: very dry mucosa, slight yellow hue to sclera, +white 
+plaques on tongue
+NECK: thin, no JVP, no LAD 
+LUNGS: crackles at bases b/l posteriourly 
+CV: irregular with rates in the ___, +RUSB SEM ___  
+ABD: distended but soft and +tender on deep palpation  
+EXT: Mild ___ edema with chronic venous stasis changes 
+SKIN:  Periumbilical pink - clear papules 
+NEURO: good historian, clear speech, moves all ext 
+spontaneously, lifts legs off b/l, facial exam is symmetric, 
+midline tongue
+ACCESS:  2 PIVs
+
+Discharge Physical Exam:  
+VS: 97.4 87-118/40-56 ___ 20 99% 3L
+GENERAL: Alert, oriented, no acute distress, Cachectic appearing 
+
+HEENT: MMM, EOMI
+NECK: thin, no JVD, no LAD  
+LUNGS: crackles at bases b/l posteriorly  
+CV: Irregularly irregular, +RUSB SEM ___  
+ABD: distended, slightly firm and +tender on deep palpation  
+EXT: Mild ___ edema with chronic venous stasis changes  
+SKIN: No concerning lesions
+NEURO: good historian, clear speech, moves all ext 
+spontaneously,
+lifts legs off b/l, facial exam is symmetric, midline tongue  
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:25PM URINE  HOURS-RANDOM UREA N-968 CREAT-280 
+SODIUM-<20
+___ 06:25PM URINE  OSMOLAL-581
+___ 06:25PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM  UROBILNGN-2* PH-6.0 
+LEUK-NEG
+___ 06:25PM URINE  RBC-3* WBC-3 BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 04:55PM   LACTATE-2.1* K+-5.3*
+___ 04:46PM   GLUCOSE-107* UREA N-38* CREAT-1.7* SODIUM-135 
+POTASSIUM-6.2* CHLORIDE-99 TOTAL CO2-22 ANION GAP-20
+___ 04:46PM   ALT(SGPT)-12 AST(SGOT)-41* ALK PHOS-87 TOT 
+BILI-1.4
+___ 04:46PM   LIPASE-12
+___ 04:46PM   cTropnT-0.05*
+___ 04:46PM   proBNP-4701*
+___ 04:46PM   ALBUMIN-2.8* CALCIUM-8.5 PHOSPHATE-4.9* 
+MAGNESIUM-2.2
+___ 04:46PM   WBC-13.7*# RBC-4.07* HGB-11.0* HCT-35.0* 
+MCV-86 MCH-27.0 MCHC-31.4* RDW-17.2* RDWSD-53.7*
+___ 04:46PM   NEUTS-92.4* LYMPHS-3.4* MONOS-3.2* EOS-0.0* 
+BASOS-0.1 IM ___ AbsNeut-12.69*# AbsLymp-0.46* AbsMono-0.44 
+AbsEos-0.00* AbsBaso-0.01
+___ 04:46PM   PLT COUNT-238
+___ 04:46PM   ___ PTT-28.6 ___
+
+PERTINENT LABS
+___ 04:46PM BLOOD cTropnT-0.05*
+___ 06:30PM BLOOD CK-MB-2 cTropnT-0.02*
+___ 12:30AM BLOOD CK-MB-4 cTropnT-0.18*
+___ 11:45AM BLOOD CK-MB-3 cTropnT-0.09*
+___ 05:20AM BLOOD CK-MB-2 cTropnT-0.05*
+
+DISCHARGE LABS
+___ 07:50AM BLOOD WBC-7.0 RBC-3.84* Hgb-10.2* Hct-34.4* 
+MCV-90 MCH-26.6 MCHC-29.7* RDW-17.4* RDWSD-56.8* Plt ___
+___ 07:50AM BLOOD Plt ___
+___ 07:50AM BLOOD Glucose-94 UreaN-31* Creat-1.3* Na-137 
+K-3.8 Cl-103 HCO3-25 AnGap-13
+___ 12:30AM BLOOD ALT-9 AST-10 CK(CPK)-19* AlkPhos-101 
+TotBili-0.7
+___ 07:50AM BLOOD Calcium-8.5 Phos-3.2 Mg-2.1
+
+PATH
+Skin, periumbilical:
+- Mucin-producing adenocarcinoma consistent with metastatic 
+colonic carcinoma; present at the
+tissue edges (See comment).
+Comment. Lesional cells are immunoreactive for keratin 
+(AE1/AE3), cytokeratin-20 and CDX-2, and
+are non-reactive for cytokeratin-7, supporting the above 
+diagnosis. Preliminary findings
+communicated to Dr. ___ by Dr. ___ at 11:40 hours on 
+___.
+
+colonoscopy path available at ___; no record of it at ___
+___ 12:30 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 6:30 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 3:35 pm PERITONEAL FLUID      PERITONEAL FLUID. 
+
+   GRAM STAIN (Final ___: 
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___: 
+      Reported to and read back by ___ ___ ___ 
+11:30AM. 
+      ___ ALBICANS, PRESUMPTIVE IDENTIFICATION.    RARE 
+GROWTH. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED. 
+
+__________________________________________________________
+___ 6:05 am MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+__________________________________________________________
+___ 1:00 am BLOOD CULTURE      Source: Venipuncture. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 12:52 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+STUDIES:
+
+CT ABD & PELVIS W/O CONTRAST ___  
+1. Study is limited in the absence of IV/po contrast. 
+2. Ascending colonic thickening at site of presumed mass, 
+without evidence of perforation. 
+3. Findings concerning for peritoneal carcinomatosis, recommend 
+correlation with prior imaging. 
+4. 11.3 x 6.3 cm left hepatic lesion corresponds to a previously 
+characterized hemangioma.  However, this noncontrast study is 
+not tailored for evaluation of hepatic metastases. 
+5. Splenomegaly and moderate volume non-hemorrhagic ascites. 
+6. Cholelithiasis. 
+7. Innumerable pulmonary nodules in the partially imaged lung 
+bases, 
+compatible with metastases. 
+8. Bilateral nonhemorrhagic pleural effusions, small on the 
+right, and at 
+least moderate on the left. 
+
+CXR ___
+  
+LEFT PLEURAL EFFUSION AND MULTIPLE PULMONARY NODULES AS WELL AS 
+INTERSTITIAL THICKENING A CONCERNING FOR EXTENSIVE LYMPHANGITIC 
+AND HAMMER TO GENU SPREAD OF THE TUMOR DUE TO EXTENSIVE 
+METASTATIC DISEASE.  HEART SIZE AND MEDIASTINUM ARE OVERALL 
+UNCHANGED.  THERE IS NO PNEUMOTHORAX. 
+
+ 
+Brief Hospital Course:
+___ year-old male with CLL, HFpEF and recent diagnosis of colon 
+mass (followed at ___) who presented with malaise, weakness, 
+abdominal pain, found to have leukocytosis, hypotension, 
+elevated lactate and ascites secondary to colon cancer with 
+metastases discharged home with hospice services.
+
+#GOC: Patient confirms that he does not want intubation or 
+resuscitation. Continue goals of care discussion with patient 
+and oncology teams, DNR / DNI at this time. COntinued discussion 
+with family and patient, who are in agreement that home with 
+hospice services would provide the quality of life and care that 
+they would like in the setting of Mr. ___ health status. 
+They have selected a hospice
+service. Dc'd foley catheter for comfort. Underwent therapeutic 
+paracentesis for distension ___ malignant ascites on ___ 
+prior to discharge.
+- continue care oriented towards comfort with PRN meds for pain, 
+nausea, anxiety, agitation
+- before discharge, restarted PPX with Bactrim (DS TIW), as well 
+as other home medications with recommendations that they are 
+okay to miss, take Lasix and allopurinol PRN for edema and gout 
+pain, pt does not need to take medications unless he wishes to 
+do so for comfort
+
+# Sepsis: leukocytosis, hypotension, elevated lactate in an 
+immunocompromised host (CLL). Suspected sources of infection 
+included abdominal vs infected pleural effusion vs. new 
+pneumonia. Urinalysis without evidence of infection, no 
+diarrhea, and no skin findings or neurologic findings. Fluid 
+resuscitated in ED but with no pressor requirement. Started on 
+vancomycin/meropenem on arrival but narrowed to 
+ciprofloxacin/Flagyl for abdominal source. Ascites sampled and 
+corrected PMNs for RBCs count >250 and he was intermittently 
+encephalopathic so he was continued for 5 day course (day 1- 
+___ for spontaneous bacterial peritonitis (although malignant 
+ascites very rarely becomes infected; favored treatment given 
+his tenuous clinical status).
+- Treated for likely abdominal infection in the setting of 
+carcinoma with mets. No culture evidence of infection, but 
+treated with ___ days of antibiotics and remained afebrile, 
+aseptic after course of antibiotics. 
+
+#NSTEMI ___ demand - patient had NSTEMI on ___ in the setting 
+of tachycardia and hypotension, trops elevated 0.02 ->0.18 at 
+peak, downtrended after. Patient was asymptomatic throughout. 
+NTD.
+
+#Pulmonary Edema - flash pulmonary edema ___, ddx reaction to 
+IVIG vs NSTEMI. Stable at time of discharge, new O2 requirement. 
+
+- sating well on ___ NC; he will go home with hospice services 
+including O2 NC
+
+#Bradycardia - intermittent bradycardia to 40's, typically 
+overnight. asymptomatic. NTD.
+
+# Chronic lymphocytic leukemia
+# Failure to thrive
+# Constipation
+# Adenocarcinoma of the colon: 
+# Ascites: recent colonoscopy with biopsy of mass (results 
+available at ___). No signs of obstruction or free air on 
+admission CT A/P. Placed on aggressive bowel regimen. Nutrition 
+consulted. Pain controlled with APAP and low dose oxycodone, 
+changed to morphine at discharge with hospice services. 
+Pathology returned adenocarcinoma. 3.3L of turbid/red ascites 
+drained on ___ and sent for cytology; low SAAG consistent with 
+exudate. Transferred to ___ on ___ for further care. Palliative 
+Care and social work consulted, patient discharged home with 
+hospice services. 
+
+# Chronic pleural effusions:  seen on CT Chest ___ and again 
+on admission CXR. Likely related to metastatic pulmonary disease 
+though some component is ___ given elevated BNP. No 
+intervention indicated at this time. 
+
+# Acute kidney injury: Cr 1.7 admission (baseline 1.2 two months 
+ago). Occurred in the setting of poor oral intake. Improved with 
+IV fluid resuscitation suggesting prerenal/hypovolemia.
+- Cr 1.3 at time of discharge. No further labs indicated given 
+comfort oriented care. 
+ 
+# Urinary retention: in the setting of acute illness, narcotics 
+and ascites. Started tamsulosin with some improvement. Patient 
+may continue to take this medication at hone as needed
+
+# Thrush: noted white nonadherent plaques noted on exam, started 
+on clotrimazole troches TID. Patient may continue to take this 
+medication at hone as needed
+
+# Atrial fibrillation: on aspirin only which was continued 
+during admission.
+
+# Hypertension: held lisinopril in the setting of hypotension. 
+Patient does not need to continue this medication at home while 
+we prioritize comfort care.
+
+# Coronary artery disease: discontinued home simvastatin while 
+we prioritize comfort care.
+
+# Chronic congestive heart failure with preserved ejection 
+fracture: held home Lasix 
+and lisinopril given hypotension. Restarted Lasix on ___ once 
+pressures recovered.
+
+# History of gout: held home allopurinol. may resume as needed 
+for gout pain at home
+
+# History of Crohn's Disease: continued home mesalamine 1000 mg 
+PO TID  
+
+# Previously Presumed Zoster: cutaneous findings consistent 
+Sister ___ metastatic disease. VZV therapy stopped. 
+Cutaneous biopsy performed on ___ to evaluate for metastasis 
+which showed colon adenocarcinoma. 
+
+TRANSITIONAL ISSUES:
+#discharged home with hospice services
+#patient discharged home on many of his prior home medications; 
+may take all of them as needed if the pill burden is too high, 
+including allopurinol, Lasix, omeprazole, tamsulosin 
+#underwent paracentesis for comfort during admission; may 
+consider repeat palliative paracentesis if abd distension and 
+discomfort worsens
+#valacyclovir was stopped, since skin papules biopsy confirmed 
+to be cutaneous metastatic adenocarcinoma
+#no formal follow up appointment is currently necessary with Dr. 
+___ if patient would like to schedule an appointment about 
+his colon cancer, may contact Dr. ___ office at ___
+-Patient discharged on home o2 (d/c o2 was 99 % on 3 L); please 
+wean as tolerated
+
+# Contact: ___ (Wife ___ 
+# Code: DNR / DNI, confirmed with patient 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 5 mg PO DAILY 
+2. Mesalamine 1000 mg PO TID 
+3. Allopurinol ___ mg PO DAILY 
+4. Docusate Sodium 100 mg PO BID 
+5. Simvastatin 20 mg PO QPM 
+6. Ferrous Sulfate 325 mg PO DAILY 
+7. Furosemide 20 mg PO DAILY 
+8. Multivitamins 1 TAB PO DAILY 
+9. ValACYclovir 1000 mg PO Q8H 
+10. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN pain 
+11. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+12. Omeprazole 20 mg PO DAILY 
+13. Calcium Carbonate 500 mg PO QID:PRN gi 
+14. Aspirin 81 mg PO DAILY 
+15. Sulfameth/Trimethoprim DS 1 TAB PO 3X/WEEK (___) 
+16. Cyanocobalamin 100 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1. Mesalamine 1000 mg PO TID 
+2. Omeprazole 20 mg PO DAILY 
+3. Baclofen 2.5 mg PO TID 
+RX *baclofen 10 mg 0.25 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0
+4. Bisacodyl 10 mg PO DAILY:PRN Constipation 
+RX *bisacodyl [Correctol] 5 mg 2 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+5. OLANZapine 2.5 mg PO DAILY 
+RX *olanzapine 2.5 mg 1 tablet(s) by mouth every night Disp #*60 
+Tablet Refills:*0
+6. OLANZapine 2.5 mg PO BID:PRN agitation 
+RX *olanzapine 5 mg 0.5 (One half) tablet(s) by mouth twice a 
+day Disp #*30 Tablet Refills:*0
+7. Ondansetron ___ mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg ___ tablet(s) by mouth every 8 hrs Disp 
+#*30 Tablet Refills:*0
+8. Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 17 g by mouth 
+daily Disp #*10 Packet Refills:*0
+9. Senna 8.6 mg PO BID:PRN Constipation 
+10. Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0
+11. Allopurinol ___ mg PO DAILY 
+12. Sulfameth/Trimethoprim DS 1 TAB PO 3X/WEEK (___) 
+13. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+14. Clotrimazole 1 TROC PO QID 
+RX *clotrimazole [Antifungal (clotrimazole)] 1 % four times a 
+day apply to rash four times a day Refills:*0
+15. Acetaminophen 650 mg PO Q6H 
+16. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB 
+RX *albuterol sulfate [Ventolin HFA] 90 mcg 1 puff every ___ hrs 
+Disp #*2 Inhaler Refills:*0
+17. Docusate Sodium 100 mg PO BID 
+18. LORazepam Intensol (LORazepam) 0.25-2 mg ORAL Q4H:PRN 
+anxiety, nausea, restlessness 
+19. haloperidol lactate 0.25-2 mg ORAL Q6H:PRN anxiety, nausea 
+20. Bisacodyl 10 mg PR QHS:PRN constipation 
+21. Atropine Sulfate 1% ___ DROP SL ASDIR 
+22. Acetaminophen 650 mg PR Q6H:PRN pain 
+to take if cant take po  
+23. Aspirin 81 mg PO DAILY 
+24. OxyCODONE (Immediate Release) ___ mg PO Q3H:PRN pain 
+RX *oxycodone 5 mg ___ capsule(s) by mouth every 3 hrs Disp #*30 
+Capsule Refills:*0
+25. Furosemide 40 mg PO DAILY:PRN sob 
+only take on days with significant leg, abdominal swelling and 
+shortness of breath 
+RX *furosemide 40 mg 1 tablet(s) by mouth sob Disp #*30 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+CLL 
+stage IV colon adenocarcinoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital with weakness and abdominal 
+pain in the setting of recent colonoscopy concerning for colon 
+cancer. You were admitted to the ICU for low blood pressures and 
+concern for infection. Once you stabilized and there was no 
+further concern for an infection, your antibiotics were stopped 
+and you were transferred to the oncology service for further 
+care. On the floor, you met with the oncology team and social 
+work to help arrange hospice services. 
+
+You are written to continue home medications such as allopurinol 
+and Lasix, as well as written for new medications including 
+tamsulosin. You do not need to take any medications that you do 
+not wish to take. You may also take medications just as needed, 
+such as Lasix for swelling, allopurinol as needed for gout pain, 
+and tamsulosin as needed for inability to urinate.
+
+You are now safe for discharge from the hospital with services. 
+It was a pleasure caring for you - we wish you all the best!
+
+Sincerely,
+Your ___ Oncology Team
+ 
+Followup Instructions:
+___

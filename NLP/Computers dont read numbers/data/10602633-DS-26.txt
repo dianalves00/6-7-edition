@@ -1,0 +1,392 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+tramadol
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea and myalgias
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with H/O CAD s/p DES to RCA (___), HFpEF (LVEF 55-60%), 
+hypertension, type 2 diabetes mellitus, COPD (not on home O2), 
+and obesity brought in by ambulance for myalgias, difficulty 
+ambulating and dyspnea.
+
+Patient states that she has had four days of progressively 
+worsening dyspnea at rest, exacerbated with exertion. Patient 
+has also had a non-productive cough for the past 2 days, but 
+denies fevers. She endorsed rhinorrhea (at night), sore throat 
+and chills. 2 days ago, she had episode of short-lived 
+palpitations and some left sided muscle strain/deep ache in 
+setting of washing dishes. She reported orthopnea and paroxysmal 
+nocturnal dyspnea. Patient stated that she typically sleeps in 
+recliner, however the evening before admission decided to sleep 
+in her bed and had worsening shortness of breath. Patient does 
+endorse progressively worsening bilateral lower extremity edema 
+in the last month. She reports her dry weight as 312 pounds, 
+however has not been weighing herself recently.
+
+She called ___ earlier on the day of admission for diffuse 
+arthralgias and myalgias which prevented her from arising from 
+bed. She has had arthralgias for several months and despite 
+taking gabapentin has had no improvement in her symptoms. She 
+stated that she'll intermittently drop items like pans while 
+taking them out of the oven. 
+
+She denied GI symptoms. Patient also reported urinary urgency 
+with mild incontinence upon standing for about one year. Patient 
+is able to sense when she has to urinate, however upon standing 
+will intermittently lose control of her bladder. She reported 
+darker urine from baseline ("brown" in the last few days) and 
+intentional decreased PO intake. She reported no changes to her 
+medication regimen recently. 
+ 
+In the ED, initial VS: T 97.8 HR 98 BP 198/89 RR 16 SpO2 98% on 
+RA. On exam, she was a well-appearing middle-aged woman speaking 
+in complete sentences. No cervical lymphadenopathy. Chest: 
+Decreased aeration at the bases, otherwise clear to 
+auscultation. Benign cardiac and abdominal exam. Bilateral lower 
+extremity edema. EKG showed sinus rhythm vent rate 81, normal 
+axis, no acute ischemic changes. Labs notable for  Normal CBC, 
+coags, CMP, LFTs, first Trop-T <0.01, ProBNP 1857, UA with few 
+bacteria and <1 WBC. CXR showed "Moderate enlargement of the 
+cardiac silhouette. No pleural effusion. Possible minimal 
+pulmonary vascular congestion, but no overt pulmonary edema." 
+Patient was given gabapentin 300 mg and furosemide 40 mg IV.
+ 
+REVIEW OF SYSTEMS: As above
+ 
+Past Medical History:
+1. CAD RISK FACTORS 
+ - Diabetes mellitus
+ - Hypertension 
+ - Dyslipidemia 
+2. CARDIAC HISTORY 
+ - Coronaries: s/p DES to RCA (___) 
+ - Pump: LVEF 55-60% 
+ - Rhythm: NSR 
+3. OTHER PAST MEDICAL HISTORY 
+ - Diabetic neuropathy
+ - Sleep apnea (previously on CPAP)
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death.
+ 
+Physical Exam:
+GENERAL: Obese white woman in NAD. Oriented x3. Mood, affect 
+appropriate.
+24 HR Data (last updated ___ @ 2319) Temp: 97.9 (Tm 97.9), 
+BP: 191/80 (191-196/80-88), HR: 80 (80-89), RR: 18, O2 sat: 97% 
+(97-98), O2 delivery: RA, Wt: 315.04 lb/142.9 kg
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.
+NECK: Unable to appreciate JVP.
+CARDIAC: Difficult to hear. Regular rate and rhythm. Normal S1, 
+S2. No murmurs, rubs, or gallops. no thrills or lifts.
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. Difficult to hear, but 
+sound clear besides some mild inspiratory crackles at bases. No 
+wheezes.
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing or cyanosis. Trace 
+pitting edema bilateral legs. Calf pain improves with massage.
+SKIN: Scratching of ankles.
+ 
+Pertinent Results:
+___ 11:30AM BLOOD WBC-10.8* RBC-4.71 Hgb-13.2 Hct-42.0 
+MCV-89 MCH-28.0 MCHC-31.4* RDW-13.9 RDWSD-45.5 Plt ___
+___ 11:30AM BLOOD Neuts-70.7 Lymphs-18.3* Monos-6.7 Eos-3.2 
+Baso-0.5 Im ___ AbsNeut-7.61* AbsLymp-1.97 AbsMono-0.72 
+AbsEos-0.34 AbsBaso-0.05
+
+___ 11:30AM BLOOD Glucose-122* UreaN-16 Creat-1.0 Na-139 
+K-4.2 Cl-103 HCO3-24 AnGap-12
+___ 11:30AM BLOOD ALT-12 AST-14 CK(CPK)-46 AlkPhos-150* 
+TotBili-0.6
+___ 11:30AM BLOOD Albumin-4.0 Calcium-9.3 Phos-3.2 Mg-2.0
+
+___ 11:30AM BLOOD cTropnT-<0.01 proBNP-1857*
+___ 07:00PM BLOOD cTropnT-<0.01
+
+___ 06:00PM URINE Color-Straw Appear-CLEAR Sp ___
+___ 06:00PM URINE Blood-NEG Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NORMAL pH-6.0 
+Leuks-NEG
+___ 06:00PM URINE RBC-0 WBC-<1 Bacteri-FEW* Yeast-NONE 
+Epi-1
+___ 06:00PM URINE Myoglobin-PRESUMPTIVELY NEGATIVE
+___ 6:00 pm URINE CULTURE (Final ___: 
+MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT WITH SKIN 
+AND/OR GENITAL CONTAMINATION.
+
+___ 07:00PM BLOOD TSH-1.2
+___ 03:41AM BLOOD calTIBC-280 Ferritn-54 TRF-215
+___ 05:59AM BLOOD VitB12-203*
+___ 07:00PM BLOOD 25VitD-11*
+___ 02:33AM BLOOD PTH-101*
+___ 03:41AM BLOOD Calcium-9.1 Phos-4.9* Mg-1.9 Iron-42 
+Cholest-205*
+___ 03:41AM BLOOD Triglyc-192* HDL-43 CHOL/HD-4.8 
+LDLcalc-124
+
+ECG ___  10:53:39
+Sinus rhythm with premature ventricular or aberrantly conducted 
+complexes. Probable left atrial enlargement. Incomplete right 
+bundle branch block. Left ventricular hypertrophy. Poor R wave 
+progression, cannot exclude anterolateral infarct. When compared 
+with ECG of ___ 18:08, changes in initial forces across 
+precordium are new
+
+CXR ___
+The lung bases are relatively underpenetrated due to overlying 
+soft tissue, but no definite focal consolidation is seen on the 
+lateral view. No pleural effusion or pneumothorax is seen. 
+Possible minimal pulmonary vascular congestion, but no overt 
+pulmonary edema. Cardiac silhouette is moderately enlarged. 
+Mediastinal contours are unremarkable.
+IMPRESSION: Moderate enlargement of the cardiac silhouette. No 
+pleural effusion. Possible minimal pulmonary vascular 
+congestion, but no overt pulmonary edema. 
+
+DISCHARGE LABS:
+___ 10:00AM BLOOD WBC-7.6 RBC-4.27 Hgb-11.9 Hct-38.9 MCV-91 
+MCH-27.9 MCHC-30.6* RDW-14.1 RDWSD-47.6* Plt ___
+___ 10:00AM BLOOD Glucose-140* UreaN-30* Creat-1.2* Na-140 
+K-4.8 Cl-100 HCO3-28 AnGap-12
+___ 10:00AM BLOOD Calcium-9.3 Phos-3.8 Mg-2.___ with H/O CAD s/p DES to RCA (___), HFpEF (LVEF 55-60%), 
+hypertension, type 2 diabete mellitus, COPD, and obesity 
+presented with myalgias, difficulty ambulating and dyspnea. Her 
+dyspnea was thought to be consistent with HFpEF exacerbation, as 
+her pro-BNP was elevated at 1857 with radiographic possible 
+minimal pulmonary vascular congestion. She was 315lbs on 
+admission (dry weight thought to be 312 lbs). She was diuresed 
+with furosemide 40 and 80 mg IV boluses. Unfortunately, she 
+developed ___ (Cr rising from 1.1 to 1.4) and 
+lightheadedness, requiring treatment with 1 L NS on ___ and 
+meclizine 12.5 mg. Her diuretics were resumed at a reduced dose 
+and her kidney function remained stable with Cr 1.1. She was 
+continued on her home isosorbide mononitrate, losartan, and 
+carvedilol. Orthostatic VS negative prior to discharge. She was 
+discharged on torsemide 20 mg every other day with close 
+cardiology and primary care physician follow up.
+
+OTHER ACTIVE ISSUES:  
+# Neuropathy, Difficulty Ambulating: Patient reported pain and 
+weakness in distal arms and legs that has been present for one 
+year, most suggestive of diabetic neuropathy. TSH was normal. 
+Her B12 level was low at 203 despite being prescribed 
+cyanocobalamin 1000 mcg daily, suggesting that she may be 
+missing doses. She was evaluated by OT prior to discharge home. 
+Difficulty ambulating is also likely due to weight and 
+deconditioning.
+
+# Myalgias: Patient reported 'whole body aches.' Influenza A/B 
+swabs were negative. Statin myopathy was less likely, as CK was 
+normal at 46. Mylagias were thought most likely due viral 
+syndrome, as patient reported URI symptoms on admission. 
+
+# Vitamin D Deficiency, Vitamin B12 Deficiency: Patient was 
+found to be vitamin D and B12 deficient, with 25-OH Vit D of 11 
+and Vit B12 of 203, likely due to medication non-compliance as 
+patient had been prescribed vit D and vit B12 supplementation. 
+We continued home prescription of cyanocobalamin 1000 mcg daily, 
+vit D ___ U daily, and  multivitamin. 
+
+CHRONIC ISSUES:  
+# Urinary Incontinence/ urgency: Patient reported ___ year of 
+urinary incontinence and urgency. No UTI on U/A and culture.
+
+# CAD s/p DES to RCA (___), hyperlipidemia: Continued home 
+aspirin 81 mg daily and atorvastatin 80 mg QPM. Lipid profile 
+showed HDL 43 and calculated LDL 124, raising the concern for 
+non-compliance vs. need to escalate therapy with ezetimibe or 
+PCS9-inhibitor given known CAD. We discontinued her clopidogrel 
+after touching base with patient's interventional cardiologist, 
+as she had been on it for over 30 months since placement of her 
+DES. She was continued on carvedilol, isosorbide mononitrate, 
+amlodipine and losartan.
+
+# Type 2 diabetes mellitus: Patient placed on insulin sliding 
+scale in place of home glyburide 1.25 mg and metformin 1000 mg 
+BID while hospitalized.
+
+# OSA: Patient declined CPAP  
+
+# Hypertension: Continued home amlodipine 10 mg daily, 
+carvedilol 25 mg BID, and losartan 100 mg daily.
+ 
+# COPD: Continued home albuterol q6h:prn
+
+# Depression/Anxiety: Continued home duloxetine ___ 60mg daily, 
+lorazepam 0.5mg PRN
+
+TRANSITIONAL ISSUES:
+# HFpEF:
+DISCHARGE WEIGHT: 143.5 kg, 316.36 pounds
+DISCHARGE Cr: 1.2 (baseline 1.0)
+DISCHARGE DIURETIC: 20 mg torsemide every other day
+
+TO DO:
+[] Patient discharged on torsemide 20 mg every other day. Please 
+check BMP on ___ to evaluate renal function on torsemide 
+dose and evaluate symptoms on this regimen.  
+
+# Neuropathy, Myalgias 
+[] Consider increasing gabapentin up to 300-1200mg TID 
+[] Consider referral to neurology for further workup of 
+neuropathy 
+[] Consider massage therapy for leg pain
+
+# Vitamin D Deficiency
+[] Patient's 25-OH Vit D level was low 11 despite being 
+prescribed Vit D 2,000 units daily. Consider repleting with 
+50,000 units once weekly for ___ weeks. 
+
+# Urinary Incontinence/Urgency
+[] Patient reported ___ year of urinary incontinence and urgency. 
+Consider referral to uro-gynecology. 
+
+# Hyperlipidemia
+[] LDL was 124 despite being prescribed atorvastatin 80 mg QPM. 
+Consider medication non-adherence vs need for ezetimibe as 
+second agent. 
+
+# CAD
+[] Patient's home clopidogrel was discontinued after discussion 
+with Dr. ___, as she had been on it for 4+ years s/p 
+uncomplicated placement of one DES. 
+
+# CODE: Full (confirmed) 
+# CONTACT: Sister , ___  ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. CARVedilol 25 mg PO BID 
+5. Clopidogrel 75 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN angina 
+8. Torsemide 40 mg PO DAILY 
+9. Triamcinolone Acetonide 0.025% Cream 1 Appl TP DAILY:PRN 
+affected areas 
+10. Vitamin D ___ UNIT PO DAILY 
+11. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+12. Losartan Potassium 100 mg PO DAILY 
+13. GlyBURIDE 1.25 mg PO DAILY 
+14. MetFORMIN (Glucophage) 1000 mg PO BID 
+15. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN cough 
+16. Cyanocobalamin 1000 mcg IM/SC QMONTH 
+17. DULoxetine ___ 60 mg PO DAILY 
+18. Gabapentin 300 mg PO QHS 
+19. LORazepam 0.5 mg PO DAILY:PRN anxiety 
+20. Cyanocobalamin 1000 mcg PO DAILY
+ 
+Discharge Medications:
+1.  Aspirin 162 mg PO DAILY  
+2.  Torsemide 20 mg PO EVERY OTHER DAY  
+3.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN cough  
+4.  amLODIPine 10 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  CARVedilol 25 mg PO BID  
+7.  Cyanocobalamin 1000 mcg PO DAILY  
+8.  Cyanocobalamin 1000 mcg IM/SC QMONTH  
+9.  DULoxetine ___ 60 mg PO DAILY  
+10.  Gabapentin 300 mg PO QHS  
+11.  GlyBURIDE 1.25 mg PO DAILY  
+12.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+13.  LORazepam 0.5 mg PO DAILY:PRN anxiety  
+14.  Losartan Potassium 100 mg PO DAILY  
+15.  MetFORMIN (Glucophage) 1000 mg PO BID  
+16.  Multivitamins 1 TAB PO DAILY  
+17.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN angina  
+18.  Triamcinolone Acetonide 0.025% Cream 1 Appl TP DAILY:PRN 
+affected areas  
+19.  Vitamin D ___ UNIT PO DAILY
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+-Acute on chronic diastolic heart failure exacerbation
+-Coronary artery disease with prior stenting
+-Hyperlipidemia
+-Hypertension
+-Type 2 Diabetes Mellitus with
+-Neuropathy
+-Stage 3 chronic kidney disease
+-Acute kidney injury
+-Lightheadedness
+-Myalgias
+-Likely viral syndrome
+-Vitamin D Deficiency
+-Vitamin B12 Deficiency
+-Urinary incontinence, chronic 
+-Obesity, morbid (body mass index ___ kilogram per meter 
+squared)
+-Obstructive sleep apnea
+-Chronic obstructive pulmonary disease
+-Depression
+-Anxiety
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because of shortness of breath  
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+-  You were admitted to the hospital because you had difficulty 
+walking and you had been feeling short of breath and you were 
+found to have fluid on your lungs. This was felt to be due to a 
+condition called heart failure, where your heart does not pump 
+hard enough and fluid backs up into your lungs. You were given a 
+diuretic medication through the IV to help get the fluid out. 
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments listed below. 
+- Your weight at discharge is 316 pounds. Please weigh yourself 
+today at home and use this as your new baseline  
+- Please weigh yourself every day in the morning. Call your 
+doctor if your weight goes up by more than 3 lbs.  
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the ___!  
+Your ___ Healthcare Team
+ 
+Followup Instructions:
+___

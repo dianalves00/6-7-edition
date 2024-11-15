@@ -1,0 +1,337 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril / amlodipine / Hibiclens
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dialysis Initiation
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ man with past medical history of CAD,
+diabetes, hypertension, hyperlipidemia, chronic renal failure
+with antecedent creation of a dialysis fistula (___) that is 
+now
+mature, who presents for dialysis initiation. He has felt
+progressively worse over the last few days, with nausea, 
+fatigue,
+and global weakness. He therefore discussed with his 
+nephrologist
+referred him for admission to inpatient medicine for dialysis
+initiation. He has otherwise been in his usual health and denies
+antecedent illness.
+
+He has a L radiocephalic AV fistula created in ___ that was
+determined to be mature and ready to use by transplant surgery
+last month. 
+
+In the ED:
+
+Initial vital signs were notable for:
+T97.4, HR66, 145/68, 18, 99% RA
+
+Exam notable for:
+
+Musc/Extr/Back: Fistula in left wrist nontender to palpation. No
+clubbing, cyanosis, or edema. ___.
+
+Labs were notable for: 
+H/H 10.2/31.5
+INR 1.1
+Na 135 --> 136
+K 6.2 --> 5.2
+BUN 103/Cr 7.9
+
+Studies performed include:
+EKG: Sinus rhythm 61. First-degree AV block with PR 209. Right
+bundle branch block with QRS duration 150. Normal QT. Compared 
+to
+prior EKG, the PR interval is now prolonged; appearance of the
+right bundle branch block is similar.
+
+Patient was given:
+N/A
+
+Consults: Renal- Dialysis
+
+Vitals on transfer: T97.6, 171/72, 63, 18, 98% RA
+
+Upon arrival to the floor, pt endorsed a slight headache that 
+has
+improved with Tylenol. He endorses having general weakness,
+fatigue and decreased appetite. He denies F/C/N/V/abd
+pain/cough/SOB. 
+
+ 
+Past Medical History:
+Per OMR:
+1. CKD stage 5, with eGFR < 10  
+2. Diabetes mellitus type 2  
+3. Coronary artery disease status post cardiac catheterization  
+ in ___, no history of myocardial infarction or cardiac 
+surgery.
+
+ He had no stents placed.  
+4. Hypertension diagnosed approximately ___ years ago.  
+5. Hyperlipidemia.  
+6. History of gout, no recent flares.  
+7. History of osteopenia, overall stable per verbal report.  
+8. History of prostate cancer status post total radical  
+ prostatectomy in ___. No history of radiotherapy or  
+ chemotherapy.  
+9. History of colon cancer, status post left hemicolectomy in  
+ ___ with no need for chemoradiotherapy.  
+10. Status post excision of left thigh lipoma in ___.  
+11. Status post pantaloon right inguinal hernia repair in ___.  
+
+12. Findings of adenoma on colonoscopy in ___.  
+13. Findings of adenomatous polyp of the stomach - completely  
+ removed in ___.  
+14. Status post total knee replacement on the left in ___  
+15. Barrett's esophagitis.  
+16. Right thumb surgery in ___. 
+ 
+Social History:
+___
+Family History:
+ Per Renal Consult:  
+ Mother- deceased in ___. ___ cancer  
+ Father- deceased in his ___. Heart dx, diabetes, dialysis.  
+ Brother- healthy  
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:
+VITALS: T97.6, 171/72, 63, 18, 98% RA  
+ GENERAL: Alert and interactive. In no acute distress.  
+ HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection. MMM.  
+ NECK: No gross abnormalities.  
+ CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops.  
+ LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi 
+or rales. No increased work of breathing.  
+ ABDOMEN: Soft, non distended, non-tender to deep palpation in 
+all four quadrants.  
+ EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+ bilaterally.  
+ SKIN: Warm. Cap refill <2s. No rash.  
+ NEUROLOGIC: Normal sensation. Gait is normal. AOx3.  
+ ACCESS: Left UE AVF, good thrill/bruit  
+
+DISCHARGE PHYSICAL EXAM:
+___ ___ Temp: 98.4 PO BP: 136/72 L Lying HR: 68 RR: 18 O2
+sat: 92% O2 delivery: Ra 
+GENERAL: Elderly Caucasian male,lying in bed in dialysis unit in
+no acute pain or distress 
+HEENT: Sclerae anicteric, mucous membranes moist.
+HEART: RRR, normal S1/S2, no murmurs, gallops, or rubs  
+LUNGS: Lungs clear to auscultation bilaterally.
+ABDOMEN: Abdomen is soft, nontender, nondistended.  No rebound
+tenderness or guarding.
+EXTREMITIES: no cyanosis, clubbing or edema.
+NEURO: Moves all 4 extremities with purpose.
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:50PM   GLUCOSE-100 NA+-136 K+-5.2* CL--102 TCO2-20*
+___ 01:50PM   HGB-10.5* calcHCT-32
+___ 01:37PM   GLUCOSE-104* UREA N-103* CREAT-7.9*# 
+SODIUM-135 POTASSIUM-6.2* CHLORIDE-100 TOTAL CO2-19* ANION 
+GAP-16
+___ 01:37PM   estGFR-Using this
+___ 01:37PM   CALCIUM-9.2 PHOSPHATE-3.3 MAGNESIUM-1.8
+___ 01:37PM   WBC-5.7 RBC-3.15* HGB-10.2* HCT-31.5* 
+MCV-100* MCH-32.4* MCHC-32.4 RDW-15.9* RDWSD-57.4*
+___ 01:37PM   NEUTS-65.8 ___ MONOS-12.0 EOS-2.1 
+BASOS-0.4 IM ___ AbsNeut-3.73 AbsLymp-1.08* AbsMono-0.68 
+AbsEos-0.12 AbsBaso-0.02
+___ 01:37PM   PLT COUNT-151
+___ 01:37PM   ___ PTT-27.8 ___
+
+DISCHARGE LABS:
+___ 06:11AM BLOOD WBC-5.5 RBC-3.09* Hgb-10.0* Hct-30.7* 
+MCV-99* MCH-32.4* MCHC-32.6 RDW-16.6* RDWSD-59.5* Plt ___
+___ 06:11AM BLOOD Glucose-119* UreaN-49* Creat-5.8*# Na-141 
+K-4.5 Cl-103 HCO3-23 AnGap-15
+___ 06:11AM BLOOD Calcium-9.4 Phos-3.7 Mg-1.6
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with past medical history of HTN, 
+T2DM, CAD, CKD stage 5 (diabetic nephropathy) with general 
+fatigue/weakness who was sent here by Dr. ___ 
+initiation of HDx3 days. 
+
+============= 
+ACTIVE ISSUES: 
+============= 
+# Weakness/Fatigue 
+# ESRD/HD: 
+Pt with persistent weakness and fatigue, for which he was 
+encouraged to present to ___ for dialysis initiation. He 
+tolerated his introductory sessions well. A PPD was placed on 
+___, and read as negative on ___. He was discharted with a 
+dialysis chair at ___. He will be a ___ HD patient and his 
+information with will be sent from our HD unit to his new HD 
+unit. 
+
+# PPD 
+-Read PPD on ___ (48hrs post-placement)
+
+=============== 
+CHRONIC ISSUES: 
+=============== 
+# History of HTN: 
+- continued home antihypertensive medications
+- his antihypertensive medications were held on the day of 
+dialysis 
+
+# Anemia: Hgb near goal. Receives erythropoietin as outpatient. 
+Monitored in-house and continued on Epo.
+
+# DM II: On home Januvia.
+
+# Bone/Mineral 
+calcium and phos normal. Not on phos binders at present. 
+
+# Seasonal allergies: continued home loratadine but dosed QOD 
+per renal clearance
+
+TRANSITIONAL ISSUES:
+#CODE: Full Code (confirmed) 
+#CONTACT: ___ (wife) ___ 
+
+[ ] MEDICATION CHANGES:
+-Added: Nephrocaps
+-Changed: loratadine (daily --> QOD), discontinued lasix 40mg 
+daily that was on his PAML, since he did not require it while 
+inpatient and he is now on HD. 
+-Held: Antihypertensives (on dialysis days only)
+
+[ ] NUTRITION CONSULT:
+Patient with many questions about renal diet. Please facilitate 
+outpatient 
+follow-up with nutrition for further counseling about the renal 
+diet.
+
+[ ] INITIATION OF DIALYSIS:
+- Pt will be a ___ dialysis patient 
+
+[ ] DISCHARGE LABS:
+-Discharge Hb:  10
+
+>30 minutes spent on discharge 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Doxazosin 2 mg PO HS 
+2. Furosemide 40 mg PO DAILY 
+3. HydrALAZINE 25 mg PO Q8H 
+4. Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H:PRN 
+wheezing, dyspnea 
+5. Isosorbide Dinitrate ER 30 mg PO DAILY 
+6. Magnesium Oxide 500 mg PO BID 
+7. Multivitamins W/minerals 1 TAB PO DAILY 
+8. Nitroglycerin SL 0.4 mg SL PRN angina 
+9. Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+10. Pantoprazole 40 mg PO Q12H 
+11. Senna 8.6 mg PO DAILY:PRN Constipation - First Line 
+12. Vitamin E 400 UNIT PO DAILY 
+13. Fluticasone Propionate NASAL 1 SPRY NU Frequency is Unknown 
+14. SITagliptin 25 mg oral DAILY 
+15. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+16. Epoetin ___ ___ U SC ONCE WEEKLY 
+17. Pyridoxine 100 mg PO DAILY 
+18. Allopurinol ___ mg PO DAILY 
+19. Ascorbic Acid ___ mg PO DAILY 
+20. Aspirin 81 mg PO DAILY 
+21. Atorvastatin 80 mg PO QPM 
+22. Calcitriol 0.5 mcg PO TWICE A WEEK 
+23. Carvedilol 25 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Loratadine 10 mg PO EVERY OTHER DAY 
+RX *loratadine 10 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+2.  Nephrocaps 1 CAP PO DAILY 
+RX *B complex with C#20-folic acid [Nephrocaps] 1 mg 1 
+capsule(s) by mouth daily Disp #*30 Capsule Refills:*0 
+3.  Ondansetron ODT ___ mg PO Q8H:PRN Nausea/Vomiting - First 
+Line  
+4.  Allopurinol ___ mg PO DAILY  
+5.  Ascorbic Acid ___ mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 80 mg PO QPM  
+8.  Calcitriol 0.5 mcg PO TWICE A WEEK  
+9.  Carvedilol 25 mg PO BID  
+10.  Doxazosin 2 mg PO HS  
+11.  Epoetin ___ ___ U SC ONCE WEEKLY  
+12.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+13.  HydrALAZINE 25 mg PO Q8H  
+14.  Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H:PRN 
+wheezing, dyspnea  
+15.  Isosorbide Dinitrate ER 30 mg PO DAILY  
+16.  Multivitamins W/minerals 1 TAB PO DAILY  
+17.  Nitroglycerin SL 0.4 mg SL PRN angina  
+18.  Pantoprazole 40 mg PO Q12H  
+19.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+20.  Pyridoxine 100 mg PO DAILY  
+21.  Senna 8.6 mg PO DAILY:PRN Constipation - First Line  
+22.  SITagliptin 25 mg oral DAILY  
+23.  Vitamin E 400 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+End-stage renal disease on hemodialysis
+
+Secondary diagnoses:
+History of type 2 diabetes
+History of hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at the ___ 
+___.
+
+WHY WAS I SEEN IN THE HOSPITAL?
+-You were seen because you needed to start dialysis.
+
+WHAT HAPPENED WHEN I WAS IN THE HOSPITAL?
+-You started dialysis and did not have problems with it.
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+-Please take your medicines as prescribed.
+-Please follow up with your doctors as listed below
+
+___ wish you the best,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

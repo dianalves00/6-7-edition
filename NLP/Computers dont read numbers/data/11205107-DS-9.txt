@@ -1,0 +1,338 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Osteomyelitis
+ 
+Major Surgical or Invasive Procedure:
+Right foot resection of ___ metatarsal head, resection ___ toe 
+base, excision and closure plantar ulcer 
+
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:
+Ms. ___ is a ___ female with history of
+type II diabetes complicated by stage V CKD and osteomyelitis to
+___ metatarsal head with planned outpatient procedure for ___
+metatarsal head resection who presents with anemia.
+
+Patient presented to outpatient surgery on day of admission for
+planned ___ metatarsal head resection for osteomyelitis, but was
+found to be severely anemic. Hgb on whole blood specimen was 
+4.4.
+The surgery was cancelled and she was referred to the ED for
+blood transfusion.
+
+On arrival to the ED, 
+- initial vitals were 96.7 69 130/73 16 99% RA. 
+- Exam was notable for guaiac negative brown stool. 
+- Repeat labs were notable for H/H 6.3/20.5 and Cr 5.6. 
+Hemolysis
+labs were negative with normal LDH and haptolgobin. She was
+transfused 1 unit PRBCs. Post-transfusion H/H was 6.6/21.0. She
+received a 2nd unit PRBCs. Podiatry was consulted and 
+recommended
+admission to medicine. 
+- Prior to transfer vitals were 97.6 74 135/69 16 99% RA.
+
+On arrival to the floor, patient reports she's feeling well and
+confirms the story above. She states she has been fatigued for
+the past week.
+
+Patient denies fevers/chills, night sweats, headache, vision
+changes, dizziness/lightheadedness, weakness/numbness, shortness
+of breath, cough, hemoptysis, chest pain, palpitations, 
+abdominal
+pain, nausea/vomiting, diarrhea, hematemesis,
+hematochezia/melena, dysuria, hematuria, and new rashes.
+
+ 
+Past Medical History:
+- Type II Diabetes
+- Stage V Chronic Kidney Disease ___ Diabetic Nephropathy
+- Hypertension
+- Bell's Palsy
+- s/p LUE AV fistula in ___
+- s/p cholecystectomy at age ___
+
+ 
+Social History:
+___
+Family History:
+No family history of kidney disease or cancer.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: Temp
+GENERAL: Pleasant woman, in no distress, lying in bed
+comfortably.
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender, non-distended, normal bowel sounds, no
+hepatomegaly, no splenomegaly.
+EXT: Warm, well perfused, trace lower extremity edema, erythema
+or tenderness. LUE fistula in place and working
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Strength full throughout. Sensation to light touch
+intact.
+SKIN: Right foot with lateral deep 1cm ulcer.
+
+DISCHARGE PHYSICAL EXAM:
+Vitals:  
+24 HR Data (last updated ___ @ 810)
+    Temp: 97.6 (Tm 97.9), BP: 150/68 (131-162/67-77), HR: 75
+(69-82), RR: 18 (___), O2 sat: 97% (95-99), O2 delivery: Ra  
+
+GENERAL: NAD
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: rrr, normal s1/s2, no m/r/g.
+LUNG: CTAB, no wheeze, no crackles
+EXT: Warm, well perfused, trace lower extremity edema, erythema
+or tenderness. LUE fistula in place and working.  Right foot
+dressed c/d/i. 
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Strength full throughout. Sensation to light touch
+intact.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+====================
+___ 05:28AM BLOOD WBC-5.8 RBC-2.34* Hgb-6.9* Hct-22.0* 
+MCV-94 MCH-29.5 MCHC-31.4* RDW-14.9 RDWSD-51.0* Plt ___
+___ 05:28AM BLOOD Glucose-100 UreaN-74* Creat-6.3* Na-145 
+K-4.1 Cl-107 HCO3-24 AnGap-14
+___ 05:28AM BLOOD Calcium-8.9 Phos-5.8* Mg-2.0
+
+MICROBIOLOGY
+====================
+___ 11:00 am TISSUE      RIGHT ___ METATARSAL HEAD. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    RARE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+      ENTEROCOCCUS SP.. 
+         Isolated from broth media only, INDICATING VERY LOW 
+NUMBERS OF
+         ORGANISMS. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |          ENTEROCOCCUS SP.
+                             |          |   
+AMPICILLIN------------             =>32 R
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+LINEZOLID-------------                2 S
+OXACILLIN-------------   0.5 S
+PENICILLIN G----------             =>64 R
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------             =>32 R
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+RELEVANT STUDIES
+========================
+___ FOOT AP,LAT & OBL RIGHT:
+No previous images.  There is extensive destruction about the 
+fifth MCP joint involving the bony structures on both sides.  
+Soft tissue prominence is seen and there is suggestion of gas 
+within soft tissues on the plantar surface on the lateral view.  
+All of these findings a findings are strongly suggestive of 
+osteomyelitis. The remainder of the study is within normal 
+limits with minimal inferior calcaneal spur. 
+
+___ TUNNELED CENTRAL LINE PLACEMENT:
+Successful placement of a single-lumen Hickman tunneled line via 
+the right 
+internal jugular venous approach. The tip of the catheter 
+terminates in the right atrium. The catheter is ready for use. 
+
+DISCHARGE LABS
+========================
+___ 05:28AM BLOOD WBC-5.8 RBC-2.34* Hgb-6.9* Hct-22.0* 
+MCV-94 MCH-29.5 MCHC-31.4* RDW-14.9 RDWSD-51.0* Plt ___
+___ 05:28AM BLOOD Glucose-100 UreaN-74* Creat-6.3* Na-145 
+K-4.1 Cl-107 HCO3-24 AnGap-14
+___ 05:28AM BLOOD Calcium-8.9 Phos-5.8* Mg-2.___DMISSION
+Ms. ___ is a ___ female with history of 
+type II diabetes complicated by stage V CKD and osteomyelitis to 
+___ metatarsal head with planned outpatient procedure for ___ 
+metatarsal head resection who presents with anemia.
+
+ACUTE ISSUES
+# ___ Metatarsal Head Osteomyelitis:
+# Skin and soft tissue infection 
+Patient is s/p right foot resection of ___ metatarsal head, 
+resection ___ toe base, excision and closure plantar ulcer by 
+podiatry on ___. Pathology showed no acute inflammation 
+at the right ___ metatarasal base or margin. She was started 
+empirically on cefazolin and briefly on Vancomycin due to 
+concern for wound cutulres that grew MSSA and enterococcus. It 
+was felt that her enterococcus was likely contaminant and the 
+Vancomycin was stopped. She had a tunneled central line placed 
+for a 2-week course of IV cefazolin. She will require dressing 
+changes every other day with betadine to foot and will follow 
+with podiatry.
+
+# Anemia
+Patient had a Hb of 4.4 fingerstick which was felt to be likely 
+a false reading. She was transfused with 2U leukoreduced RBCs. 
+Repeat Hb in ED was 6.3 prior to transfusion, with a baseline 
+between ___. It appears likely that her anemia is secondary to 
+her CKD, anemia of chronic disease and chronic foot ulcer. Her 
+guaiac was negative, hemolysis labs have been negative, RBC 
+morphology grossly normal. Her hemoglobin was stable and 6.9 on 
+discharge. After discussion with her outpatient nephrologist, it 
+was felt that her low Hb was in the setting of recent surgery 
+and that the risks of transfusion (including increased rejection 
+of eventual transplanted kidney) outweighed the benefit. She 
+will start Epogen and Iron as an outpatient after starting 
+dialysis. 
+
+CHRONIC ISSUES
+# Stage V CKD
+# Hyperphosphatemia
+Her Torsemide was held prior to surgery and restarted after. 
+
+# DMII: Not currently on any medications.
+- Patient states that she previously had diabetes that was well 
+controlled with diet. She has been consistently within normal 
+range for the past 24 hours. She takes no home antihyperglycemic 
+meds, takes no home insulin. She did not require insulin during 
+hospitalization. 
+
+# Hypertension
+She was non-adherent to her home meds which included HCTZ and 
+amlodipine. She was uptitrated to 10mg amlodipine daily.
+
+TRANSITIONAL ISSUES
+[] Aspirin 81 was stopped for primary prevention. Please have 
+PCP discussion regarding whether it is appropriate to restart. 
+[] She was not taking hydralazine or Metoprolol. These were d/c 
+as her blood pressure was controlled on amlodipine and should be 
+restarted as clinically indicated. 
+[] She was not taking Veltassa. This was d/c as she was not 
+hyperkalemic and should be restarted as clinically indicated. 
+[] Continue cefazolin 2g IV Q24H until ___ for treatment of 
+osteomyelitis
+[] Recheck CBC, BMP at next PCP visit
+
+NEW MEDICATIONS:
+CeFAZolin 2 g IV Q24H 
+
+HELD/STOPPED MEDICATIONS:
+Veltassa (patiromer calcium sorbitex) 8.4 gram oral DAILY
+Metoprolol Tartrate 50 mg PO BID 
+HydrALAZINE 25 mg PO TID 
+Aspirin 81 mg PO DAILY 
+
+CODE: Full 
+EMERGENCY CONTACT HCP: ___ (sister) ___
+
+___ is clinically stable for discharge today.  On 
+the day of discharge, greater than 30 minutes were spent on the 
+planning, coordination and communication of discharge.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sodium Bicarbonate 650 mg PO BID 
+2. Metoprolol Tartrate 50 mg PO BID 
+3. amLODIPine 10 mg PO DAILY 
+4. HydrALAZINE 25 mg PO TID 
+5. Torsemide 40 mg PO BID 
+6. Aspirin 81 mg PO DAILY 
+7. Calcitriol 0.25 mcg PO DAILY 
+8. Veltassa (patiromer calcium sorbitex) 8.4 gram oral DAILY 
+9. Clindamycin 300 mg PO Q8H 
+
+ 
+Discharge Medications:
+1.  CeFAZolin 2 g IV Q24H  
+2.  Heparin Flush (10 units/ml) 2 mL IV DAILY and PRN, line 
+flush  
+3.  amLODIPine 10 mg PO DAILY  
+4.  Calcitriol 0.25 mcg PO DAILY  
+5.  Sodium Bicarbonate 650 mg PO BID  
+6.  Torsemide 40 mg PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Osteomyelitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane) - non weight bearing of right foot. 
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at ___. 
+
+Why was in the hospital?
+- You were admitted to the hospital because you had a foot 
+infection.
+
+What was done in the hospital?
+- You had a blood transfusion because your hemoglobin was low.
+- You had an operation to remove the infected bone and soft 
+tissue.
+- You had a special IV line placed for antibiotics. 
+- You were started on antibiotics to treat the infection in your 
+foot.
+
+What should I do when I leave the hospital?
+- You should follow up with your primary care doctor. 
+- You should follow up with your nephrologist. 
+- You should take all your medications as prescribed. 
+
+We wish you the best. 
+
+Sincerely, 
+
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

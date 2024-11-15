@@ -1,0 +1,840 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Seizure
+ 
+Major Surgical or Invasive Procedure:
+Tracheostomy and PEG placement (___)
+ 
+History of Present Illness:
+___ is a ___ left-handed man, with PMH significant for
+growth hormone-secreting pituitary macroadenoma (s/p 
+craniotomies
+x2) and childhood stroke, who presented with 3 events concerning
+for seizure. 
+
+The patient was in his USOH until this morning. Per report the
+patient told his family that he was seeing his dead grandmother.
+He went to lay down in his room. about 30 min later his family
+heard him call out his grandmothers name. When they came into 
+the
+room he was "unresponsive" in bed. They lowered him to the 
+ground
+and called ___. He was still unresponsive when EMS arrived and 
+an
+IO was placed. He was taken to OSH where he slowly returned to
+baseline. In the OSH ED he had another event where he suddenly
+stopped talking mid sentence followed by "rhythmically pulling
+arms up towards his chest". He would look towards his name if
+called but would not interact further. He received 1mg of Ativan
+and again returned to his baseline (within a few min) stating he
+wanted to go home. He went for NCHCT which did not show any 
+acute
+pathology. He then had a ___ event which did not improve with
+Ativan. He was intubated for transport, given 1500mg of keppra
+and med-flighted to ___. 
+
+The patient was followed here by Dr. ___ ___ to ___ and
+___ from ___ to ___. He underwent subfrontal craniotomy in
+___ for debulking followed by left subfrontal craniotomy in 
+___
+for further resection. He now follows with endocrine for
+acromegaly and panhypopituitarism. 
+
+Baseline exam per chart review includes normal language testing,
+hemifacial atrophy on the right side. contracture of RUE with 
+RUE
+weakness.  
+ 
+Past Medical History:
+- Acromegaly 
+- Panhypopituitarism
+- Growth hormone-secreting pituitary macroadenoma s/p debulking
+in ___ and resection in ___ s/p external beam irradiation 
+- DM
+- HTN
+- HLD
+- sleep apnea 
+- childhood stroke with resulting right sided weakness. 
+ 
+Social History:
+___
+Family History:
+His mother died at age ___ from an unspecified cause and she had
+hearing problems.  His father has hypertension. He has 3 sisters
+and 3 brothers; they are all healthy.  He does not have 
+children.
+ 
+Physical Exam:
+=======================
+ADMISSON PHYSICAL EXAM
+=======================
+97.6 87 148/92 18 100% Intubated  
+(episode of bradycardia into high ___ followed by hypotesion
+which improved with atropine) 
+
+GENERAL MEDICAL EXAMINATION:
+General appearance: intubated and sedated
+HEENT: Intubated. Sclera are non-injected. Mucous membranes are
+moist. 
+CV: Heart rate is regular
+Lungs: Vented 
+Abdomen: soft, non-tender 
+Extremities: RUE contractures  
+Skin: No visible rashes. Warm and well perfused.
+
+NEUROLOGICAL EXAMINATION: 20 min off sedation. 2+hr since
+paralytics 
+Mental Status: eyes closed. done not wake to voice or noxious.
+does not follow any commands. 
+
+Cranial Nerves:
+Pupils equally round and sluggishly reactive to light. No BTT.
+VOR suppressed. no corneal bl. Face appears symmetric around 
+ETT.
++ cough and gag. 
+
+Motor/sensory: Increased tone in RUE. Antigravity movement to
+noxious in ___ (seems brisker on the right). minimal movement
+in UE in the plane of the bed only - to deep noxious only.
+
+Reflexes: Brisk in RUE, 2 in left ___. trace in pat 
+bl.
+absent at ankles. 
+Toes are up on the right and down on the left.
+
+Coordination: unable to test
+Gait: unable to test 
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+Opens eyes to voice. Non-verbal. Follows simple commands 
+involving eye movements consistently such as look to the 
+window/door. Tracks in all directions. No blink to threat. 
+Contracture of R hand. Slightly moves R UE and ___ to pain. No 
+movement in L ___. CTA. RRR. + BS. 
+
+ 
+Pertinent Results:
+=======
+LABS
+=======
+___ 08:10AM BLOOD Lipase-37
+___ 04:00AM BLOOD CK-MB-7 cTropnT-<0.01
+___ 04:00AM BLOOD %HbA1c-6.3* eAG-134*
+___ 04:00AM BLOOD Triglyc-120 HDL-37 CHOL/HD-5.3 
+LDLcalc-135*
+___ 04:00AM BLOOD TSH-0.64
+___ 12:16AM BLOOD T4-3.9* Free T4-0.5*
+___ 08:10AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 12:21AM BLOOD Lupus-NEG
+___ 12:21AM BLOOD ProtCFn-140 ProtSFn-103
+___ 12:21AM BLOOD AT-147*
+___ 12:21AM BLOOD b2micro-1.5
+___ 12:21AM BLOOD HIV Ab-Negative
+___ 02:49AM BLOOD WBC-9.3# RBC-4.70 Hgb-11.1* Hct-34.7* 
+MCV-74* MCH-23.6* MCHC-32.0 RDW-14.0 RDWSD-36.5 Plt ___
+___ 02:02AM BLOOD WBC-9.3 RBC-5.06 Hgb-11.9* Hct-37.3* 
+MCV-74* MCH-23.5* MCHC-31.9* RDW-14.7 RDWSD-36.4 Plt ___
+___ 12:48AM BLOOD WBC-15.0*# RBC-5.16 Hgb-12.3* Hct-38.2* 
+MCV-74* MCH-23.8* MCHC-32.2 RDW-16.0* RDWSD-37.2 Plt ___
+___ 02:06AM BLOOD WBC-12.6* RBC-4.47* Hgb-10.6* Hct-34.1* 
+MCV-76* MCH-23.7* MCHC-31.1* RDW-15.8* RDWSD-39.8 Plt ___
+___ 01:28AM BLOOD WBC-10.8* RBC-4.26* Hgb-10.1* Hct-33.1* 
+MCV-78* MCH-23.7* MCHC-30.5* RDW-15.9* RDWSD-41.4 Plt ___
+___ 01:04AM BLOOD WBC-10.3* RBC-4.13* Hgb-9.9* Hct-31.6* 
+MCV-77* MCH-24.0* MCHC-31.3* RDW-15.6* RDWSD-40.3 Plt ___
+___ 03:43AM BLOOD WBC-6.2 RBC-4.02* Hgb-9.6* Hct-30.7* 
+MCV-76* MCH-23.9* MCHC-31.3* RDW-15.3 RDWSD-39.4 Plt ___
+___ 02:55AM BLOOD WBC-8.9 RBC-4.16* Hgb-10.0* Hct-32.2* 
+MCV-77* MCH-24.0* MCHC-31.1* RDW-15.3 RDWSD-40.8 Plt ___
+___ 04:50AM BLOOD WBC-8.7 RBC-4.03* Hgb-9.6* Hct-30.8* 
+MCV-76* MCH-23.8* MCHC-31.2* RDW-15.4 RDWSD-39.8 Plt ___
+___ 04:43AM BLOOD WBC-8.7 RBC-4.07* Hgb-9.9* Hct-31.1* 
+MCV-76* MCH-24.3* MCHC-31.8* RDW-15.9* RDWSD-41.1 Plt ___
+___ 10:30AM BLOOD WBC-8.7 RBC-3.94* Hgb-9.6* Hct-30.5* 
+MCV-77* MCH-24.4* MCHC-31.5* RDW-16.1* RDWSD-42.0 Plt ___
+___ 05:22AM BLOOD WBC-10.0 RBC-4.56* Hgb-11.0* Hct-35.3* 
+MCV-77* MCH-24.1* MCHC-31.2* RDW-16.3* RDWSD-42.1 Plt ___
+___ 03:27AM BLOOD WBC-9.6 RBC-3.75* Hgb-9.1* Hct-29.6* 
+MCV-79* MCH-24.3* MCHC-30.7* RDW-16.6* RDWSD-46.0 Plt ___
+___ 04:41AM BLOOD WBC-7.9 RBC-3.61* Hgb-8.8* Hct-28.4* 
+MCV-79* MCH-24.4* MCHC-31.0* RDW-16.0* RDWSD-44.2 Plt ___
+___ 02:49AM BLOOD ___ PTT-29.1 ___
+___ 02:49AM BLOOD Plt ___
+___ 02:02AM BLOOD Plt ___
+___ 12:48AM BLOOD Plt ___
+___ 02:06AM BLOOD Plt ___
+___ 01:28AM BLOOD ___ PTT-25.7 ___
+___ 01:28AM BLOOD Plt ___
+___ 01:04AM BLOOD Plt ___
+___ 03:43AM BLOOD Plt ___
+___ 02:55AM BLOOD ___ PTT-25.5 ___
+___ 02:55AM BLOOD Plt ___
+___ 04:50AM BLOOD ___ PTT-29.1 ___
+___ 04:50AM BLOOD Plt ___
+___ 04:43AM BLOOD Plt ___
+___ 10:30AM BLOOD ___ PTT-28.5 ___
+___ 10:30AM BLOOD Plt ___
+___ 05:22AM BLOOD ___ PTT-28.9 ___
+___ 05:22AM BLOOD Plt ___
+___ 04:45AM BLOOD Plt ___
+___ 03:27AM BLOOD Plt ___
+___ 04:41AM BLOOD Plt ___
+___ 04:29PM BLOOD Glucose-91 UreaN-15 Creat-0.7 Na-140 
+K-3.5 Cl-102 HCO3-26 AnGap-16
+___ 02:02AM BLOOD Glucose-161* UreaN-24* Creat-0.8 Na-141 
+K-3.4 Cl-102 HCO3-24 AnGap-18
+___ 08:00AM BLOOD Glucose-134* UreaN-25* Creat-0.7 Na-142 
+K-4.0 Cl-104 HCO3-25 AnGap-17
+___ 12:48AM BLOOD Glucose-183* UreaN-26* Creat-0.7 Na-142 
+K-3.6 Cl-105 HCO3-25 AnGap-16
+___ 02:06AM BLOOD Glucose-185* UreaN-25* Creat-0.8 Na-148* 
+K-3.5 Cl-110* HCO3-25 AnGap-17
+___ 01:28AM BLOOD Glucose-196* UreaN-25* Creat-0.9 Na-150* 
+K-3.3 Cl-112* HCO3-28 AnGap-13
+___ 01:04AM BLOOD Glucose-183* UreaN-28* Creat-0.7 Na-145 
+K-3.0* Cl-108 HCO3-27 AnGap-13
+___ 03:43AM BLOOD Glucose-220* UreaN-31* Creat-0.5 Na-145 
+K-3.6 Cl-108 HCO3-29 AnGap-12
+___ 02:55AM BLOOD Glucose-178* UreaN-25* Creat-0.6 Na-144 
+K-3.5 Cl-108 HCO3-25 AnGap-15
+___ 04:50AM BLOOD Glucose-149* UreaN-21* Creat-0.7 Na-145 
+K-3.0* Cl-109* HCO3-26 AnGap-13
+___ 04:43AM BLOOD Glucose-146* UreaN-20 Creat-0.6 Na-143 
+K-3.2* Cl-106 HCO3-26 AnGap-14
+___ 10:30AM BLOOD Glucose-151* UreaN-20 Creat-0.6 Na-141 
+K-3.3 Cl-106 HCO3-23 AnGap-15
+___ 05:22AM BLOOD Glucose-136* UreaN-19 Creat-0.7 Na-144 
+K-3.6 Cl-104 HCO3-23 AnGap-21*
+___ 04:45AM BLOOD Glucose-151* UreaN-22* Creat-0.6 Na-147* 
+K-3.8 Cl-110* HCO3-27 AnGap-14
+___ 03:27AM BLOOD Glucose-192* UreaN-20 Creat-0.7 Na-144 
+K-3.8 Cl-108 HCO3-25 AnGap-15
+___ 04:41AM BLOOD Glucose-168* UreaN-18 Creat-0.5 Na-144 
+K-3.8 Cl-108 HCO3-28 AnGap-12
+___ 01:04AM BLOOD ALT-16 AST-17 LD(LDH)-267* CK(CPK)-272 
+AlkPhos-72 TotBili-0.2
+___ 02:49AM BLOOD Calcium-9.0 Phos-3.9 Mg-1.8
+___ 02:02AM BLOOD Calcium-10.1 Phos-4.1 Mg-1.9
+___ 12:48AM BLOOD Calcium-9.6 Phos-3.5 Mg-1.9
+___ 02:06AM BLOOD Calcium-9.2 Phos-3.5 Mg-1.7
+___ 01:28AM BLOOD Calcium-9.0 Phos-3.6 Mg-2.0
+___ 01:04AM BLOOD Calcium-9.2 Phos-3.1 Mg-1.9
+___ 03:43AM BLOOD Calcium-8.9 Phos-3.5 Mg-1.9
+___ 02:55AM BLOOD Calcium-8.9 Phos-4.9* Mg-2.0
+___ 04:50AM BLOOD Calcium-8.9 Phos-4.6* Mg-1.9 Iron-44*
+___ 04:43AM BLOOD Calcium-9.2 Phos-4.2 Mg-1.8
+___ 10:30AM BLOOD Calcium-9.2 Phos-4.9* Mg-1.9
+___ 05:22AM BLOOD Calcium-9.5 Phos-4.0 Mg-2.0
+___ 04:45AM BLOOD Calcium-9.4 Phos-4.9* Mg-2.2
+___ 03:27AM BLOOD Calcium-8.9 Phos-4.7* Mg-2.2
+___ 04:41AM BLOOD Calcium-8.9 Phos-4.2 Mg-2.1
+___ 04:50AM BLOOD calTIBC-287 Ferritn-81 TRF-221
+___ 08:00AM BLOOD Osmolal-303
+___ 12:48AM BLOOD Osmolal-309
+___ 01:28AM BLOOD Osmolal-317*
+___ 02:02AM BLOOD TSH-0.54
+___ 02:02AM BLOOD T4-7.0 T3-41*
+___ 12:21AM BLOOD CRP-2.5
+___ 12:21AM BLOOD ___
+___ 12:21AM BLOOD HIV Ab-Negative
+___ 06:30AM BLOOD Vanco-16.5
+___ 02:48PM BLOOD Vanco-14.4
+___ 04:10PM BLOOD Vanco-22.1*
+___ 04:43AM BLOOD Vanco-20.9*
+___ 07:55PM BLOOD Vanco-16.9
+___ 03:27AM BLOOD Vanco-20.4*
+
+URINE CULTURE (Final ___:    NO GROWTH.
+
+___ 11:00AM URINE Color-AMBER Appear-Cloudy Sp ___
+___ 11:00AM URINE Blood-LG Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-2* pH-6.0 Leuks-NEG
+___ 11:00AM URINE RBC->182* WBC-10* Bacteri-MANY Yeast-NONE 
+Epi-0
+
+RAPID PLASMA REAGIN TEST (Final ___: NONREACTIVE.
+
+Test                          Result              Reference 
+Range/Units
+CARDIOLIPIN AB (IGG)          <14                 GPL
+CARDIOLIPIN AB (IGM)          <12                 MPL
+
+ESR 14
+CRP 2.5
+
+============
+CSF STUDIES
+============
+
+CSF GRAM STAIN (Final ___: NO POLYMORPHONUCLEAR LEUKOCYTES 
+SEEN. NO MICROORGANISMS SEEN. 
+
+___ FLUID CULTURE (Final ___: NO GROWTH.
+
+Test Name                   Flag     Results        Unit    
+Reference Value
+---------                   ----     -------        ----    
+---------------
+Herpes Simplex Virus PCR
+   Specimen Source                   CSF
+   HSV 1, PCR                        Negative               
+Negative
+   HSV 2, PCR                        Negative               
+Negative
+
+___ 11:25AM CEREBROSPINAL FLUID (CSF) WBC-11 RBC-389* 
+Polys-2 ___ ___ 11:24AM CEREBROSPINAL FLUID (CSF) WBC-11 RBC-4111* 
+Polys-20 ___ Monos-18 Eos-1
+___ 11:24AM CEREBROSPINAL FLUID (CSF) TotProt-103* 
+Glucose-83
+___ 01:43PM CEREBROSPINAL FLUID (CSF) WBC-3 RBC-1* Polys-0 
+___ ___ 01:43PM CEREBROSPINAL FLUID (CSF) TotProt-26 Glucose-94
+
+============
+IMAGING
+============
+CTA HEAD AND NECK (___):
+1. Study is limited secondary to streak artifact from overlying 
+hardware. 
+2. Evolving acute infarct in the right middle cerebral artery 
+distribution 
+right frontal periventricular white matter, right basal ganglia 
+and right 
+temporal lobe without definite evidence of hemorrhagic 
+conversion, as 
+described above. 
+3. Absent opacification of left M2 inferior division and distal 
+branches 
+compatible with patient's known left MCA distribution 
+encephalomalacia. 
+4. Focal nonocclusive stenosis of right and M2 upper branch. 
+5. No evidence of acute intracranial hemorrhage. 
+6. No evidence ofaneurysm greater than 3 mm or dissection. 
+7. Periodontal disease and multiple dental caries. 
+
+TTE (___):
+The left atrium is normal in size. No thrombus/mass is seen in 
+the body of the left atrium. No atrial septal defect is seen by 
+2D or color Doppler. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size and regional/global systolic 
+function (LVEF>55%). No masses or thrombi are seen in the left 
+ventricle. There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. No masses or vegetations are seen on the aortic 
+valve. The mitral valve appears structurally normal with trivial 
+mitral regurgitation. No mass or vegetation is seen on the 
+mitral valve. The estimated pulmonary artery systolic pressure 
+is normal. No vegetation/mass is seen on the pulmonic valve. 
+There is no pericardial effusion. 
+
+Compared with the prior study (images reviewed) of ___, no 
+clear change.
+
+MRI WITH AND WITHOUT CONTRAST (___): 
+1. Acute infarct in the right middle cerebral artery 
+distribution involving the right temporal lobes, posterior limb 
+of right internal capsule, tail of caudate nucleus, external 
+capsule and claustrum without hemorrhagic conversion as 
+described above. 
+2. Stable postsurgical changes with encephalomalacia involving 
+the left 
+cerebral hemisphere. 
+3. Stable 8 mm focus of enhancement in the inferior left frontal 
+lobe adjacent to the anterior cerebral artery. 
+
+NCHCT (___):
+1. Evolving ischemic infarct involving the right frontal 
+periventricular white matter, right basal ganglia, and right 
+temporal lobe is unchanged in size and extent. 
+2. No intracranial hemorrhage or loss of gray-white matter 
+differentiation. 
+3. Status post left frontotemporal craniotomy with stable 
+encephalomalacia 
+involving the left frontal, parietal, and temporal lobes. 
+
+TEE (___):
+No spontaneous echo contrast or thrombus is seen in the body of 
+the ___ or the body of the RA/RAA. Presence of a PFO with 
+left-to-right shunt. No evidence of right-to-left shunt by 
+agitated saline injection with maneuvers. Normal biventricular 
+systolic function.  
+
+LOWER EXTREMITY ULTRASOUND (___):
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins although visualization of the leg veins is very limited as 
+described 
+above. 
+
+MRI HEAD WITH AND WITHOUT CONTRAST (___):
+1. Expected evolution of the recent infarction in the right 
+basal ganglia and corona radiata, which is now subacute, with 
+interim development of peripheral contrast enhancement.  No 
+evidence for hemorrhagic transformation. 
+2. Unchanged extensive encephalomalacia in the left cerebral 
+hemisphere. 
+3. New 4 mm enhancing focus in the left occipital region, either 
+cortical 
+leptomeningeal, with associated T2 hyperintensity and high 
+signal on the 
+diffusion tracer sequence.  This may represent a subacute 
+infarct, and less likely an inflammatory process. 
+4. 9 x 4 x 5 mm enhancing lesion at the left hypothalamus just 
+adjacent the left anterior cerebral artery, similar to the 
+recent MRI from ___ but less bulky in appearance than 
+on the earlier MRI dated ___.  This may represent 
+residual pituitary macroadenoma versus posttreatment changes. 
+5. Inspissated secretions within the right frontal sinus, new 
+compared to ___. 
+
+CXR (___): 
+Comparison to ___.  Increase in extent of a 
+pre-existing right basal parenchymal opacity.  The finding would 
+be consistent with aspiration or pneumonia.  Moderate 
+cardiomegaly persists.  The endotracheal tube has been replaced 
+by a tracheostomy tube.  .  This device is in correct position.  
+No evidence of pneumothorax or pneumomediastinum. 
+
+CXR (___):
+Left PICC line terminates in the mid SVC.  Left IJ line folds 
+back on itself and terminates in the left brachiocephalic vein. 
+
+CXR (___):
+No definite evidence of pneumonia.  Residual opacity in the 
+right juxtahilar region likely represents atelectasis. 
+
+___:
+Mildly distended loops of large bowel, measure up to 6.7 cm, 
+however no 
+definite evidence of small bowel loop distention. A density in 
+the upper right hemiabdomen may be secondary to a staghorn 
+calculus measuring up to 3.5-cm. No evidence pneumatosis.  The 
+visualized osseous structures are unremarkable. There is no SI 
+joint, or pubic symphysis diastasis.  No focal lytic or 
+sclerotic lesions are seen. 
+
+___:
+1.   Slight interval increase in the mildly distended loops of 
+large bowel, which may be secondary to mild ileus. 
+2.  3.2-cm right renal staghorn calculus. 
+
+CT ABODMEN AND PELVIS WITH AND WITHOUT CONTRAST (___):
+1. 2.8 cm right renal staghorn calculus, with mild 
+hydronephrosis of the right kidney.  Additional nonobstructive 
+calculi are seen throughout the right kidney, with the largest 
+within the lower pole measuring up to 2.3 cm. 
+2. No renal calculi seen within the left kidney. 
+3. Moderate fecal loading. 
+4. Mild splenomegaly. 
+5. Interval improvement in the extent of ileus compared to the 
+most recent 
+prior radiograph, with the large bowel loops measuring up to 
+6-cm, the upper limits of normal. 
+
+CXR ___: 
+In comparison to study of ___, there again are very low lung 
+volumes.  
+Monitoring and support devices are stable.  No evidence of acute 
+pneumonia or vascular congestion. 
+
+KUB ___
+Diffuse gaseous distention of the colon is unchanged. Bowel gas 
+pattern 
+is non-obstructive. Large calcified stone in the right renal 
+pelvis. 
+  
+==========
+EEG
+==========
+___:
+This is an abnormal continuous ICU EEG monitoring study because 
+of a slower than average background without normal sleep or wake 
+transitions. This pattern is suggestive of a moderate 
+encephalopathy. The presence of superimposed beta frequency 
+activity suggests the presence of intercurrent medications such 
+as benzodiazepines or barbiturates. No epileptiform discharges 
+were captured. Interval results were conveyed to the treating 
+team intermittently during this recording period to assist with 
+___ medical decision-making. 
+
+___:
+This is an abnormal continuous ICU EEG monitoring study because 
+of a slower than average background without normal sleep or wake 
+transitions. This pattern is suggestive of a moderate 
+encephalopathy. The presence of superimposed beta frequency 
+activity suggests the presence of intercurrent medications such 
+as benzodiazepines or barbiturates. The intermittent focal 
+slowing seen in the left anterior quadrant may represent the 
+presence of a subcortical structural disturbance in this area. 
+The single pushbutton activation had no EEG changes seen. No 
+epileptiform discharges were captured. Interval results were 
+conveyed to the treating team intermittently during this 
+recording period to assist with ___ medical 
+decision-making.
+
+___:
+This is an abnormal continuous ICU EEG monitoring study because 
+of a slower than average background without normal sleep or wake 
+transitions, although the periods of overriding delta frequency 
+slowing may represent a state change. This pattern is suggestive 
+of a moderate encephalopathy. The presence of superimposed beta 
+frequency activity suggests the presence of intercurrent 
+medications such as benzodiazepines or barbiturates. The 
+intermittent focal slowing seen in the left anterior quadrant 
+may represent the presence of a subcortical structural 
+disturbance in this area. No epileptiform discharges were 
+captured. Interval results were conveyed to the treating team 
+intermittently during this recording period to assist with real- 
+time medical decision-making.
+
+___:
+This is an abnormal continuous ICU EEG monitoring study because 
+of a slower than average background without normal sleep or wake 
+transitions, although the periods of overriding delta frequency 
+slowing may represent a state change. This pattern is suggestive 
+of a moderate encephalopathy. The intermittent focal slowing 
+seen in the left anterior quadrant may represent the presence of 
+a subcortical structural disturbance in this area. No 
+epileptiform activity was seen. Interval results were conveyed 
+to the treating team intermittently during this recording period 
+to assist with ___ medical decision-making. 
+
+___:
+This is an abnormal continuous ICU EEG monitoring study because 
+of a slower than average background without normal sleep or wake 
+transitions, although the periods of overriding delta frequency 
+slowing may represent a state change. This pattern is suggestive 
+of a moderate encephalopathy. The intermittent focal slowing 
+seen in the left anterior quadrant may represent the presence of 
+a subcortical structural disturbance in this area. No 
+epileptiform activity was seen. Interval results were conveyed 
+to the treating team intermittently during this recording period 
+to assist with ___ medical decision-making. 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo left-handed man with a past medical history 
+notable for a childhood stroke (residual right upper extremity 
+paresis with contracture) and a growth hormone-secreting 
+pituitary macroadenoma s/p craniotomy x2 complicated by 
+acromegaly and panhypopituitarism who presented ___ with 3 
+events concerning for seizure; this required intubation. He was 
+then admitted to the neurologic ICU for further management.
+
+Hospital course by system: 
+
+# NEUROLOGY 
+As he was intubated and encephalopathic, pt was monitored on 
+cvEEG for 5 days. This revealed findings suggestive of 
+encephalopathy and pt had no subclinical seizures. He was 
+started on Keppra 1000mg BID for seizure prevention and had no 
+further seizures during hospitalization.
+
+MRI brain revealed an acute right-sided subcortical infarct 
+(right basal ganglia and corona radiata) and extensive left 
+encephalomalacia throughout the cerebral hemisphere. The infarct 
+appeared embolic. For further stroke work-up, a TTE was 
+unremarkable (no bubble study) but TEE revealed a PFO. Lower 
+extremity ultrasound did not reveal a DVT and hypercoagulable 
+work-up was negative (however, Factor V leiden, homocysteine, 
+and prothrombin were unable to be sent while pt was inpatient). 
+RPR, Lyme and HIV were also negative. As pt had had a stroke as 
+an infant, there was still concern for a hypercoagulable 
+syndrome (however, it was unclear per family reports whether 
+this stroke was related to meningitis). For treatment, pt was 
+started on aspirin 81mg daily.
+
+Otherwise, as part of pt's initial seizure work-up, pt underwent 
+a LP in the ED (___) that revealed an elevated WBC to 11 and 
+protein to 103. Pt was initiated on acyclovir empirically; this 
+was discontinued after HSV ___ was negative. A repeat LP ___ 
+was unremarkable with a normal protein and WBC. Pt's initial 
+abnormal LP was felt to be likely due to traumatic tap, stroke, 
+and seizure.
+
+During hospital stay, pt remained obtunded with poor 
+wakefulness. For further work-up, an autoimmune and 
+paraneoplastic encephalitis panel was send from the CSF; this 
+was entirely negative. The encephalopathy was felt to be due to 
+pt's large subcortical stroke in the right hemisphere with a 
+severely atrophied left hemisphere due to his prior stroke (poor 
+substrate).
+
+He eventually became more awake and interactive. He was able to 
+communicate by looking to the left and right of the room with 
+signs. Speech came to see him an provided him with an alphabet 
+board. He was eventually able to give a thumbs up and pronate 
+his hand. 
+
+In terms of stroke risk factor modification we have added ASA 
+81mg oral daily, as well as Amlodipine 5mg PO daily, metoprolol 
+tartrate 25mg PO BID, and simvastatin 20mg PO daily.
+
+# ENDOCRINE
+History of pan-hypopituitarism and T2DM.  Initially on home 
+metformin 500 XR daily which was stopped in favor of an insulin 
+sliding scale for better control. Endocrinology service followed 
+as inpatient. While admitted they held Desmopressin 0.1 mg QHS. 
+Hydrocortisone was initially stress dosed, currently 20mg PO 
+qam/ 10mg PO QPM. Levothyroxine continued at 150mcg PO daily 
+(needs tube feeds held 2 hours before and after administration. 
+Testosterone was held as this can cause hypercoagulability.
+
+# CV
+Known history of HTN which we addressed with amlodipine and 
+metoprolol as above. For hyperlipidemia we have recommended 
+simvastatin 20mg PO daily. During his ICU course he had 
+autonomic storming which had improved on arrival to the 
+neurology floor.
+ 
+# RESPIRATORY
+Hospital course was complicated by acute respiratory failure 
+secondary to poor mental status. He also developed VAP s/p 
+trach/PEG and was treated with a course od vancomycin with good 
+response. He was transferred to the floor on trach mask with 
+hopes of weaning off. While he was on the floor, he again 
+developed another MRSA pneumonia for which he received 14 days 
+of vancomycin.
+
+#GI/NUTRITION
+PEG placed prior to floor transfer. Tube feeds started with 
+Glucerna 1.5 and cycled. GI prophylaxis with famotidine 20 mg 
+tablet BID which is his home dose. Course complicated by 
+abdominal distention due to large ileus (confirmed on KUB). 
+Bowel regimen administrated with good effect. Had one episode of 
+coughing TFs from trach in the setting of ileus. Tube feeds 
+held, bowel regimen titrated with GI's assistance, eventually 
+had a bowel movement and tolerated tube feeds again. He was 
+transitioned to bolus feeds. 
+
+# ID
+As above mentioned developed VAP, mini-BAL on ___ showed MRSA. 
+He was treated with an extended course of vancomycin in the 
+setting of persistent fevers. UCx, BCx (___) were 
+negative. He also developed fevers with associated colicky pain, 
+found to have a bland u/a with a large RT staghorn calculus on 
+imaging. CT a/p showed mild RT hydronephrosis. He was treated 
+with a 7 day course of ceftriaxone. Urology consulted as below. 
+He also developed a second MRSA pneumonia that was treated with 
+14 days of IV vancomycin. 
+
+# UROLOGY
+Discussed staghorn calculus with urology service. Has mild 
+hydronephrosis on CT so currently no indication for percutaneous 
+nephrostomy tube. However, considered percutaneous 
+nephrolithotomy as inpatient given his prolonged hospital 
+course. However, he was not scheduled during this admission. 
+Treated with CTX course as above. He will follow up with urology 
+as outpatient. 
+
+# HEME
+On admission found with microcytic anemia. Iron studies WNL. 
+
+===================
+TRANSITIONAL ISSUES
+===================
+1. Large staghorn calculus RT kidney with associated pain and 
+mild hyronephrosis on abdominal CT.
+2. Resource information for low-cost, free medical equipment and 
+health care access.
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack  
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed  () No  
+2. DVT Prophylaxis administered? (x) Yes - () No  
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No  
+4. LDL documented? (x) Yes (LDL = ) - () No  
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 100) (x) Yes - () No [if 
+LDL >100, reason not given: ]  
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+() non-smoker - (x) unable to participate]  
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No  
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >100, 
+reason not given: ]  
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No  
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (x) N/A  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Famotidine 20 mg PO BID 
+2. Levothyroxine Sodium 300 mcg PO DAILY 
+3. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Suction machine with supplies
+Dx: Right subcortical stroke, tracheostomy
+2. Famotidine 20 mg PO BID 
+RX *famotidine 40 mg/5 mL (8 mg/mL) 2.5 mL by mouth twice a day 
+Refills:*3
+3. Acetaminophen 325-650 mg PO Q6H:PRN pain, fever 
+RX *acetaminophen 160 mg/5 mL 20 mL by PEG every six (6) hours 
+Disp #*473 Milliliter Milliliter Refills:*3
+4. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by PEG daily Disp #*30 Tablet 
+Refills:*3
+5. Cyclobenzaprine 10 mg PO TID:PRN neck pain 
+RX *cyclobenzaprine 10 mg 1 tablet(s) by PEG three times a day 
+Disp #*90 Tablet Refills:*0
+6. FLUoxetine 30 mg PO DAILY 
+RX *fluoxetine 20 mg/5 mL (4 mg/mL) 7.5 mL by PEG daily Disp 
+#*240 Milliliter Milliliter Refills:*3
+7. Hydrocortisone 20 mg PO QAM 
+RX *hydrocortisone 20 mg 1 tablet(s) by PEG qam Disp #*30 Tablet 
+Refills:*3
+8. Hydrocortisone 10 mg PO QPM 
+RX *hydrocortisone 10 mg 1 tablet(s) by mouth qpm Disp #*30 
+Tablet Refills:*3
+9. Levothyroxine Sodium 150 mcg PO DAILY 
+RX *levothyroxine 150 mcg 1 tablet(s) by PEG daily Disp #*30 
+Tablet Refills:*3
+10. Ibuprofen Suspension 400-800 mg PO Q8H:PRN fever, pain 
+RX *ibuprofen 100 mg/5 mL 10 mL by PEG every six (6) hours Disp 
+#*473 Milliliter Milliliter Refills:*3
+11. LevETIRAcetam 1000 mg PO BID 
+RX *levetiracetam [Keppra] 100 mg/mL 10 mL by PEG twice a day 
+Disp #*473 Milliliter Milliliter Refills:*3
+12. Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [senna] 8.8 mg/5 mL 5 mL by PEG twice a day Disp 
+#*236 Milliliter Milliliter Refills:*0
+13. Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram/dose 17 powder(s) by PEG 
+daily Disp #*527 Gram Gram Refills:*3
+14. Nystatin Ointment 1 Appl TP QID:PRN Groin 
+15. Simvastatin 20 mg PO QPM 
+RX *simvastatin 20 mg 1 tablet(s) by PEG qpm Disp #*30 Tablet 
+Refills:*3
+16. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by PEG daily Disp #*30 Tablet 
+Refills:*3
+17. Glucocard Shine Meter Kit (blood-glucose meter)    
+miscellaneous QIDACHS 
+RX *blood-glucose meter  use with breakfast, lunch, dinner, and 
+bedtime 4x per day Disp #*1 Each Refills:*0
+18. Glucocard Vital Test Strips (blood sugar diagnostic)    
+miscellaneous QIDACHS 
+RX *blood sugar diagnostic [Blood Glucose Test]  use 4 times per 
+day use at breakfast, lunch, dinner, and bedtime Disp #*100 
+Strip Refills:*3
+19. MetFORMIN (Glucophage) 500 mg PO BID 
+RX *metformin 500 mg 1 tablet(s) by PEG twice a day Disp #*60 
+Tablet Refills:*3
+20. Outpatient Lab Work
+Factor V Leiden, prothrombin gene, homocysteine
+
+Fax to ___, neurology ___
+
+ICD-9: 289.81
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+1. Generalized tonic clonic seizure 
+2. Acute right sided stroke (corona radiata, posterior limb of 
+the internal capsule, insula, claustrum)  
+
+Secondary: 
+1. Growth hormone-secreting pituitary macroadenoma s/p 
+craniotomy x2 
+2. Acromegaly 
+3. Panhypopituitarism
+4. Childhood stroke with resulting RT sided contractures
+5. Large RT staghorn calulus causing mild hydronephrosis as per 
+imaging during this admission. 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and somewhat interactive.
+Activity Status: OOBTC with assistance.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital with symptoms of generalized 
+tonic clonic seizures resulting from an acute ischemic stroke in 
+the right side of your brain. We stopped your seizure with a 
+medication called keppra which you will continue to take. We 
+performed a lumbar puncture to assess for causes of your seizure 
+but found none. We looked for causes of stroke assessing for 
+risk factors and found you to have elevated sugars, cholesterol, 
+as well as blood pressure. We have added several medications to 
+help control this. We checked an ultrasound of your heart and 
+found an abnormal communication between the chambers which could 
+have allowed a clot to pass. We looked for clots in your legs, 
+but found none. We also checked your blood for coagulation 
+issues but those tests were negative. 
+
+We took care of you in the ICU where you required intubation, 
+sedation, and later tracheotomy as you did not tolerate 
+breathing without the tube. You also had a surgery to place a 
+feeding tube. We treated you for pneumonia with an extended 
+course of antibiotics. We also found you to have a urinary tract 
+infection and you have completed a course of antibiotics. You 
+were also found to have a large right kidney stone. We talked to 
+urology to see if they could remove it, and they have decided to 
+follow you as an outpatient. You had a second lung infection, 
+which was treated again with a 2 week course of antibiotics. 
+
+You will be discharged home for continuation of your care by 
+your family.
+
+Instructions: 
+Please take your other medications as prescribed.  
+Please followup with Neurology and your primary care physician 
+as listed below.  
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+- sudden partial or complete loss of vision  
+- sudden loss of the ability to speak words from your mouth  
+- sudden loss of the ability to understand others speaking to 
+you  
+- sudden weakness of one side of the body  
+- sudden drooping of one side of the face  
+- sudden loss of sensation of one side of the body  
+
+It was a pleasure taking care of you, and we wish you the best!
+
+Sincerely,
+Your ___ Team  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,422 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with PMHx bovine AV transplant ___ years ago, no known 
+active CAD, no known CHF, no hx VTE, presents with severe DOE 
+since ___.  
+He reports that on ___ he had what felt like an episode of 
+indigestion. He reports aching abdominal pain that lasted from 
+9pm until 6 or 7am. Pain was more mid abdomen and not located in 
+the epigastrium or chest. Since then he has felt severely 
+dyspneic, although on retrospect his wife has mentioned that she 
+thought he has appeared progressively more short of breath over 
+the past few weeks.  
+He feels short of breath at rest, and breathing is not worse 
+with exertion. Does endorse orthopnea. No fever or cough. No 
+chest pain or palpitations. History of asthma as a child and no 
+known history of COPD.  
+
+POCUS reveals a large (10cm) R renal cyst with compression of R 
+iliac vessels, possibly IVC as well. Concern is for either 
+mechanical venous compression or unvisualized clot (ie 
+___, with embolized PEs causing dyspnea  
+ 
+In the ED, initial vitals were: 98.3 58 126/78 16 98% RA  
+- Labs were significant for troponin < 0.01, normal BNP, normal 
+Hg of 14.2, mild hyponatremia to 131, and D-dimer of ___  
+- Imaging revealed: CTA Chest negative for PE, aortic 
+abnormality, pulmonary parenchymal abnormality, or IVC or other 
+venous thrombosis  
+- The patient was given 2L NS  
+Vitals prior to transfer were: 66 120/43 16 96% RA  
+Upon arrival to the floor, initial vitals were 98.6 123/96 66 36 
+(28 on my exam) 97% RA.  
+REVIEW OF SYSTEMS:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest pain 
+or tightness, palpitations. Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denies arthralgias or myalgias.  
+
+ 
+Past Medical History:
+Coronary artery disease s/p CABG
+Aortic valve stenosis s/p aortic valve replacement
+Hypercholesterolemia 
+Prostate cancer s/p prostatectomy
+Hypertension
+Colonic adenoma 
+s/p bilateral knee replacement
+Lumbago 
+Spinal stenosis of lumbar region 
+Cataract, left eye 
+Pseudophakia of right eye 
+S/P laminectomy 
+Midline low back pain without sciatica 
+Diverticulosis 
+ 
+Social History:
+___
+Family History:
+Father with scarlet fever
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals: 98.6 123/96 66 36 (28 on my exam) 97% RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP 3cm above the clavicle at 45 degrees  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Tachypneic, clear to auscultation bilaterally, no 
+wheezes, rales, rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Neuro: CNII-XII grossly intact  
+
+DISCHARGE PHYSICAL EXAM:
+==========================
+Vitals: T:99.0 HR:61 BP:160/66 (SBP 123-160)RR: 20 (20 on my 
+exam) 97% RA  
+Ambulatory: O2: 95-97% RA HR: 60s-70s
+General: Alert, oriented x3, no acute distress, speaking in full 
+sentences  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP 2 cm above the clavicle at 45 degrees  
+CV: Regular rate and rhythm, normal S1 + S2, ___ systolic 
+ejection murmur LSB
+Lungs: Tachypneic, clear to auscultation bilaterally, no 
+wheezes, rales; occasional rhonchi at left base
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, no edema  
+Neuro: CNII-XII grossly intact. ___ strength in all major muscle 
+groups 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+=====================
+___ 12:50PM BLOOD WBC-9.3 RBC-4.73 Hgb-14.2 Hct-41.0 MCV-87 
+MCH-30.0 MCHC-34.6 RDW-13.2 RDWSD-41.2 Plt ___
+___ 12:50PM BLOOD Neuts-79.2* Lymphs-10.2* Monos-9.6 
+Eos-0.4* Baso-0.2 Im ___ AbsNeut-7.32* AbsLymp-0.94* 
+AbsMono-0.89* AbsEos-0.04 AbsBaso-0.02
+___ 05:30AM BLOOD ___ PTT-30.0 ___
+___ 12:50PM BLOOD Glucose-101* UreaN-11 Creat-0.9 Na-131* 
+K-3.2* Cl-93* HCO3-23 AnGap-18
+___ 12:50PM BLOOD cTropnT-<0.01 proBNP-649
+___ 05:30AM BLOOD cTropnT-<0.01
+___ 01:07PM BLOOD ___
+
+DISCHARGE LABS:
+====================
+___ 05:30AM BLOOD WBC-7.3 RBC-4.48* Hgb-13.5* Hct-39.3* 
+MCV-88 MCH-30.1 MCHC-34.4 RDW-13.1 RDWSD-42.1 Plt ___
+___ 05:30AM BLOOD Glucose-126* UreaN-8 Creat-0.9 Na-134 
+K-3.6 Cl-95* HCO3-29 AnGap-14
+
+IMAGING:
+=========
+CTA ___:
+FINDINGS:  
+  
+The aorta is unremarkable besides postoperative changes of 
+ascending aortic repair and aortic valve replacement.  There is 
+no dissection or aneurysm. Great vessels are unremarkable 
+besides atherosclerotic calcifications.  The pulmonary arteries 
+are well opacified to the subsegmental level without filling 
+defect to suggest pulmonary embolism. Pulmonary arteries are 
+normal in caliber. 
+  
+A 4 mm solid pulmonary nodule is noted within the right upper 
+lobe (03:49).  There is otherwise no evidence of pulmonary 
+parenchymal abnormality. There is no pleural effusion or 
+pneumothorax. The airways are patent to the subsegmental level. 
+  
+Extensive coronary arterial calcifications are noted as is an 
+aortic valve repair.  The heart is otherwise unremarkable.  
+There is no pericardial effusion.  There is no supraclavicular, 
+axillary, mediastinal, or hilar lymphadenopathy by CT size 
+criteria. Included portion of the thyroid is unremarkable. 
+  
+No lytic or blastic osseous lesion suspicious for malignancy is 
+identified. There is no fracture.  Mild multilevel degenerative 
+changes include partial fusion of T9-T10. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  
+There is no evidence of focal lesions. There is no evidence of 
+intra or 
+extrahepatic biliary dilatation.  The gallbladder is notable for 
+
+nonobstructing calcified stones at the neck (2b:138). 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of focal lesions or pancreatic ductal 
+dilatation. There is no peripancreatic stranding. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS:  The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  A 2.9 x 1.6 cm simple cyst is seen within 
+the upper pole of the left kidney.  A 10.6 x 10.1 cm simple cyst 
+arises from the lower pole of the right kidney.  Other sub cm 
+renal hypodensities are noted, too small to characterize but 
+likely cysts.  In addition, there is a 1.2 cm exophytic 
+low-density lesion not meeting criteria for simple cyst off the 
+upper pole the right kidney (2b:37). There is no hydronephrosis. 
+There is no perinephric abnormality. 
+  
+GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate normal caliber, wall thickness, and 
+enhancement throughout.  Extensive diverticulosis is noted 
+without evidence of diverticulitis.  The appendix is normal. 
+There is no free intraperitoneal fluid or free air. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no free fluid in the pelvis. 
+  
+REPRODUCTIVE ORGANS: Patient is status post prostatectomy with 
+numerous 
+surgical clips in the prostate bed. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There is no pelvic or inguinal 
+lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease is noted. 
+  
+BONES AND SOFT TISSUES: There is no evidence of worrisome 
+osseous lesions or acute fracture.  Moderate multilevel 
+degenerative changes lumbar spine 
+including mild retrolisthesis of L2 on L3 and grade 1 
+anterolisthesis of L3 on L4.  Severe multilevel facet 
+arthropathy is noted within the lumbar spine.  Postoperative 
+changes of L4 and L5 laminectomies are noted.  There is mild 
+levoscoliosis centered at L3.  The abdominal and pelvic wall is 
+within normal limits. 
+  
+IMPRESSION: 
+  
+  
+1. No evidence of aortic abnormality or pulmonary embolism. 
+2. No evidence of filling defect within the IVC or iliac veins 
+to suggest 
+venous thrombosis. 
+3. No significant pulmonary parenchymal abnormality. 
+4. 4 mm right upper lobe pulmonary nodule for which 12 month 
+followup chest CT 
+is recommended. 
+5. Diverticulosis. 
+6. Relatively hyperdense 1.2 cm exophytic lesion off the upper 
+pole the right 
+kidney 
+  
+RECOMMENDATION(S):  Nonurgent renal ultrasound suggested to 
+further evaluate. 
+  
+NOTIFICATION:  Addition to wet read was discussed by Dr. ___ 
+with Dr. 
+___ at 20:35 on ___. 
+
+ECHO ___:
+The left atrium is mildly dilated. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). Tissue Doppler imaging suggests an increased 
+left ventricular filling pressure (PCWP>18mmHg). The right 
+ventricular cavity is dilated with borderline normal systolic 
+function. A bioprosthetic aortic valve prosthesis is present. 
+The aortic valve prosthesis appears well seated, with normal 
+leaflet/disc motion and transvalvular gradients. Trace aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Trivial mitral 
+regurgitation is seen. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Preserved left ventricular systolic function with 
+borderline increased filling pressure. Mildly dilated right 
+ventricle with mild pulmonary artery systolic hypertension. Well 
+seated bioprosthetic aortic valve with normal gradients and 
+trace aortic regurgitation.  
+  
+
+ 
+Brief Hospital Course:
+ ___ yo M with PMHx CAD (s/p CABG), aortic stenosis (s/p bovine 
+AVR), no known CHF, no hx VTE, who presents with ___ days of 
+dyspnea at rest and exertion
+ 
+# Dyspnea: 
+Patient presented to ___ ED ___ with ___ days of dyspnea 
+of unclear etiology after referral from his primary care 
+provider. Patient received CTA on presentation which showed no 
+evidence of pneumonia or pulmonary embolism. Patient did not 
+have any chest pain concerning for ACS, and had no ischemic 
+changes on EKG and negative troponin x2. It was felt his 
+symptoms were less likely CHF exacerbation given his normal BNP 
+and no clinical signs of volume overload. Because of his history 
+of AVR, patient received a TTE which showed normal well-seated 
+bio-prosthetic valve with normal ejection fraction with trace 
+aortic regurgitation unchanged from outside records. 
+Additionally mild pulmonary hypertension was noted. 
+
+Patient did well during admission with reduced tachypnea. He 
+received nebulizer treatments x 2 with mild improvement. He 
+maintained oxygen saturations of >94% on RA at rest and while 
+ambulating. Given that patient had smoking history, we 
+considered whether this could represent COPD although he did not 
+have any wheezing or significant rhonchi on exam. However, given 
+mild pulmonary hypertension on echocardiogram and some 
+improvement with duo-nebulizers this could be possible etiology. 
+Patient was discharged with albuterol inhaler with plan for 
+pulmonary follow up with PFT testing.
+
+Additionally, sleep apnea screening may be warranted given 
+patient endorsed snoring while sleeping and worsening symptoms 
+with sleep at times.
+
+Should all of the above work up be unrevealing myasthenia and 
+antibody testing could be pursued.  
+
+# Abdominal pain/cramping: 
+Patient noted acute GI illness prior to this admission. During 
+hospitalization he was noted to have a normal appetite with no 
+further complaints. 
+
+# Hematuria: 
+Patient noted to have mild hematuria on UA without evidence of 
+infection. Patient should likely have repeat UA as outpatient 
+and if persistent consider referral to urology.   
+
+CHRONIC:
+# CAD s/p CABG:  
+- continued aspirin, atorvastatin  
+
+# HTN:  
+- continued atenolol, HCTZ, losartan  
+
+========================
+# TRANSITIONAL ISSUES:
+========================
+- Patient discharged with albuterol inhaler this hospitalization
+- Patient does not have clinical features entirely consistent 
+with COPD but did mildly improve with duo-nebulizers. 
+-Outpatient pulmonary follow up being set up (patient will be 
+called with appointment) with likely need for spirometry 
+-consider outpatient sleep study testing given mild pulmonary 
+hypertension on echo, snoring, patient's body habitus, and 
+worsening of symptoms at time with sleep
+- Patient had 4 mm right upper lobe pulmonary nodule observed on 
+CT. Should get follow up CT in 12 months
+-Patient had relatively hyperdense 1.2 cm exophytic lesion off 
+the upper pole the right kidney noted on CTA. Would recommend 
+non-urgent evaluation by US.
+-Patient also had 10.6 x 10.1 cm simple cyst arises from the 
+lower pole of the right kidney. Other sub cm renal hypodensities 
+are noted, too small to characterize but likely cysts. 
+- Hematuria: Patient had blood in urine observed on urinalysis. 
+He should get repeat UA with PCP and if persistent consideration 
+of urology referral 
+-consider sending acetylcholine receptor antibody for work up of 
+myasthenia if all of the above work up is negative for dyspnea
+
+# CODE STATUS: DNR/DNI (confirmed) 
+# CONTACT: ___ (wife, HCP) ___
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Atenolol 25 mg PO DAILY 
+3. Atorvastatin 40 mg PO DAILY 
+4. Hydrochlorothiazide 12.5 mg PO DAILY 
+5. Losartan Potassium 100 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atenolol 25 mg PO DAILY 
+3. Atorvastatin 40 mg PO DAILY 
+4. Hydrochlorothiazide 12.5 mg PO DAILY 
+5. Losartan Potassium 100 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Albuterol Inhaler ___ PUFF IH Q6H:PRN shortness of breath 
+RX *albuterol sulfate [ProAir HFA] 90 mcg ___ puffs inhaled 
+every 6 hours Disp #*1 Inhaler Refills:*1
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Dyspnea
+Secondary: Aortic valve replacement, Coronary Artery Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you here at the ___ 
+___. You came to the Emergency Department 
+with several days of shortness of breath. You received a CT scan 
+of your lungs and abdomen. The CT scan did not show a clot in 
+your blood vessels (pulmonary embolism) or pneumonia. You had 
+stable EKGs and heart enzymes, and we did not think you were 
+having a heart attack. Your clinical exam and heart enzymes did 
+not show signs of heart failure and we continued to monitor you. 
+You had good oxygenation both at rest and while walking. Due to 
+your history of aortic valve replacement we performed an 
+ultrasound (echocardiogram) of your heart which showed normal 
+heart function with normal function of your replaced valve. 
+
+Because your breathing improved with inhalers we discharged you 
+home with an albuterol inhaler. We are in the process of setting 
+up a pulmonary or lung appointment for you and the office will 
+call you with this appointment in the next week. 
+
+We wish you the best,
+
+Your ___ care team
+ 
+Followup Instructions:
+___

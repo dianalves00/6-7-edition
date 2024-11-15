@@ -1,0 +1,459 @@
+ 
+Name:  ___        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Compazine / Morphine / Verapamil / Oxycodone / tramadol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Diagnostic paracentesis (___)
+Therapeutic paracentesis (___) - 5L fluid drained, repleted 
+with 37.5g albumin
+
+ 
+History of Present Illness:
+___ is ___ with history of ESRD ___ ADPKD on
+HD (MWF), hypertensive cardiomyopathy (EF 35-40%), known
+moderately-sized circumferential pericardial effusion w/o
+tamponade, large volume ascites secondary to be ___ organomegaly
+requiring consistent paras, and recent admission for flank pain
+and hematuria thought secondary to cyst rupture (___)
+presenting with 1 day of fever, chills, myalgias. 
+
+Patient reports that starting last night, she has had myalgia,
+malaise, fatigue, and chills. This AM at HD, she says she had a
+fever of 103.8F. She completed dialysis. She has had runny nose
+for months. She says her abdomen size has gradually increased 
+but
+without acute increase. Patient reports a mild headache but has
+full range of motion of neck, and denies visual changes.
+
+Patient admitted ___ for 1 month of heamturia and
+subsequent right flank pain, suspected ___ large cyst rupture 
+and
+peritoneal irritation. Also noted to have moderately-sized
+circumferential pericardial effusion on TTE in ___, seen 
+again
+on ___, without tamponade physiology, not sampled, as well as
+ascites w/ SAAG <1, thought ___ cystic burden. She treated with
+pain control and discharged with Dilaudid for 2 day course (2mg
+Q6H PRN).
+
+In the ED:
+Initial vital signs were notable for:
+103.1F, HR 85, BP 140/86, RR 18, 95% RA 
+
+Exam notable for:
+TM wnl, OP clear
+full ROM of neck 
+lungs ctab
+abd distended w/ fluid wave, +ascites, no cva tenderness
+no leg swelling
+no rashes
+
+Labs were notable for:
+Lactate 1.3
+K 4.5 
+BUN 20, Cr 6.0
+
+WBC 3.0
+H/H 10.0/33.2
+plt 112
+INR 1.3
+
+Studies performed include:
+CXR
+1. Left basilar atelectasis.
+2. No consolidation or evidence of pneumonia.
+
+Patient was given:
+1L LR, 1g vanc, Tylenol
+
+Consults:
+Renal HD
+
+Vitals on transfer:
+98.9F, 131 / 86, HR 92, RR 20, 98% Ra 
+
+Upon arrival to the floor, patient was endorsing myalgia,
+malaise, fatigue, and mild headache at her temples. She endorses
+mild posterior neck pain with neck flexion but has full range of
+motion. Denies chest pain, dyspnea, abdominal pain, leg 
+swelling,
+new rashes. Denies dysuria or increased urinary frequency. Last
+stool yesterday and normal per pt. Denies new rash. AVF looks
+normal per pt (currently partially covered in dressing).
+
+ 
+Past Medical History:
+- Autosomal Dominant Polycystic Kidney Disease on HD ___.
+Cystic involvement of the liver and ovaries as well.  
+- HTN-induced dilated cardiomyopathy, EF ___, with cardiac
+ascites  
+- Hypertension  
+- Migraine headaches  
+- Questionable history of cerebral aneurysm; MRI in ___ did not
+see any cerebral aneurysms  
+- h/o UGIB requiring PRBC ___ EGD showed ___ 
+erosion vs. MW tear + small ulcer at GE junction. Possibly
+related to
+NSAID use.  
+- Colelithiasis  
+- GERD  
+- Hyperparathyroidism ___ kidney disease
+ 
+Social History:
+___
+Family History:
+8 family members with ___ kidney disease in an autosomal  
+dominant pattern on paternal side. Two sisters and one brother 
+with ESRD ___ ___ 
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: per above
+GENERAL: Alert and interactive. In no acute distress. Fatigued.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+NECK: No cervical lymphadenopathy.
+CARDIAC: Regular rhythm, normal rate. Loud S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Lower left inspiratory crackles. No wheezes, rhonchi. No
+increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness.
+ABDOMEN: Distended, non-tender to deep palpation in all four
+quadrants. RLQ dressing over para site. +fluid wave
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally. LUE AVF, +bruit, +thrill, partially covered w/
+dressing but no erythema outside.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: ___ strength throughout. Normal sensation. AOx3.
+
+DISCHARGE EXAM:
+VITALS: 24 HR Data (last updated ___ @ 1238)
+Temp: 98.8 (Tm 99.6), BP: 131/80 (94-145/61-88), HR: 89
+(89-106), RR: 18, O2 sat: 96% (93-98), O2 delivery: Ra, Wt: 
+158.8
+lb/72.03 kg  
+GENERAL: Lying comfortably in bed
+HEENT:  Mucous membranes moist. 
+CARDIAC: Regular rhythm, no murmurs, rubs, or
+gallops. 
+LUNGS: CTAB. No w/r/r
+ABDOMEN: Distended. Nontender. + fluid wave, normoactive bowel
+sounds
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. No rash.
+NEUROLOGIC: AOx3.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:20PM   RET AUT-0.4 ABS RET-0.02
+___ 12:20PM   ___ PTT-29.6 ___
+___ 12:20PM   PLT COUNT-112*
+___ 12:20PM   NEUTS-78.7* LYMPHS-10.9* MONOS-9.5 EOS-0.3* 
+BASOS-0.3 IM ___ AbsNeut-2.39 AbsLymp-0.33* AbsMono-0.29 
+AbsEos-0.01* AbsBaso-0.01
+___ 12:20PM   WBC-3.0* RBC-3.67* HGB-10.0* HCT-33.2* MCV-91 
+MCH-27.2 MCHC-30.1* RDW-17.1* RDWSD-57.2*
+___ 12:20PM   ALBUMIN-3.4* CALCIUM-9.0 PHOSPHATE-3.5 
+MAGNESIUM-1.8
+___ 12:20PM   LIPASE-58
+___ 12:20PM   ALT(SGPT)-6 AST(SGOT)-25 LD(LDH)-405* ALK 
+PHOS-80 TOT BILI-0.5
+___ 12:20PM   estGFR-Using this
+___ 12:20PM   GLUCOSE-83 UREA N-20 CREAT-6.0*# SODIUM-139 
+POTASSIUM-5.7* CHLORIDE-94* TOTAL CO2-29 ANION GAP-16
+___ 01:00PM ASCITES  TNC-537* RBC-426* POLYS-0 LYMPHS-20* 
+MONOS-16* MESOTHELI-4* MACROPHAG-60*
+___ 01:00PM ASCITES  TOT PROT-4.3 GLUCOSE-92
+___ 01:04PM   LACTATE-1.3 K+-4.5
+___ 01:04PM   ___
+
+INTERVAL LABS:
+___ 06:02AM BLOOD WBC-3.6* RBC-3.37* Hgb-9.3* Hct-30.8* 
+MCV-91 MCH-27.6 MCHC-30.2* RDW-17.2* RDWSD-58.0* Plt Ct-86*
+___ 06:03AM BLOOD WBC-4.0 RBC-3.50* Hgb-9.6* Hct-32.2* 
+MCV-92 MCH-27.4 MCHC-29.8* RDW-17.2* RDWSD-58.5* Plt ___
+___ 02:49PM BLOOD ___ PTT-29.9 ___
+___ 06:02AM BLOOD Plt Ct-86*
+___ 06:03AM BLOOD Plt ___
+___ 02:49PM BLOOD ___ 06:02AM BLOOD Glucose-98 UreaN-39* Creat-9.4*# Na-134* 
+K-5.5* Cl-92* HCO3-29 AnGap-13
+___ 06:03AM BLOOD Glucose-95 UreaN-28* Creat-7.3*# Na-133* 
+K-5.2 Cl-91* HCO3-27 AnGap-15
+___ 06:02AM BLOOD Calcium-8.4 Phos-5.4* Mg-1.8
+___ 06:03AM BLOOD Calcium-8.8 Phos-4.4 Mg-1.7
+
+DISCHARGE LABS:
+___ 06:20AM BLOOD WBC-4.3 RBC-3.10* Hgb-8.5* Hct-28.2* 
+MCV-91 MCH-27.4 MCHC-30.1* RDW-17.7* RDWSD-59.2* Plt Ct-84*
+___ 02:49PM BLOOD ___ PTT-29.9 ___
+___ 06:20AM BLOOD Glucose-91 UreaN-32* Creat-7.5*# Na-137 
+K-4.7 Cl-93* HCO3-27 AnGap-17
+___ 06:20AM BLOOD Calcium-8.5 Phos-3.6 Mg-1.8
+
+IMAGING:
+Chest Xray ___:
+IMPRESSION:
+1. Left basilar atelectasis.
+2. No consolidation or evidence of pneumonia
+
+CT Abdomen and Pelvis w/ contrast ___:
+IMPRESSION:
+1. Persistent moderate volume pericardial effusion.
+2. Interval increase in large abdominopelvic ascites.
+3. Findings consistent with known autosomal dominant polycystic 
+liver and
+kidney disease.
+4. Uterine fibroids.
+5. Ascites containing right inguinal hernia.
+6. Trace right pleural effusion.
+7. Apparent circumferential thickening of the urinary bladder 
+may represent acute cystitis.  Correlation with urinalysis 
+recommended.
+
+___ guided paracentesis ___:
+IMPRESSION: 
+1. Technically successful ultrasound guided diagnostic and 
+therapeutic 
+paracentesis. 
+2. 5 L of fluid were removed. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ with history of ESRD ___ ADPKD on HD 
+(MWF), hypertensive cardiomyopathy (EF 35-40%), known 
+moderately-sized circumferential pericardial effusion w/o 
+tamponade, and large volume ascites ___ organomegaly requiring 
+intermittent therapeutic paras approximately every other month, 
+who presented with worsening abdominal pain and acute fevers and 
+chills from HD. She was found to have Klebsiella bacteremia, 
+likely from a urinary source and was given two weeks of 
+antibiotic therapy. 
+
+=============
+ACUTE ISSUES:
+=============
+# Sepsis secondary to klebsiella blood stream infection
+Initially presented with 5 day history of abdominal pain, 
+nausea, emesis x4 and fevers at HD. Abdominal pain improved and 
+emesis resolved. She was found to have GNR bacteremia speciated 
+to Klebsiella on initial blood cultures with unclear source, but 
+presumed urinary given findings of bladder wall thickening on CT 
+abd/pelvis. There was no evidence of SBP on tap. Diagnostic 
+urine cultures showed mixed bacterial flora. CXR showed no 
+evidence of PNA. She was started on cefepime/flagyl on ___ and 
+subsequently narrowed to ciprofloxacin based on sensitivies. All 
+home anti-hypertensives were held in the setting of GNR sepsis. 
+[] Continue ciprofloxacin (HD dosing) until ___
+
+#Thrombocytopenia
+Patient noted to have decrease in PLT 112->80s (from ___ 
+concerning for sepsis induced bone marrow suppression. Labs not 
+concerning for DIC. 
+[] Repeat CBC on ___
+
+# Diarrhea
+Patient with four loose bowel movements the day before discharge 
+concerning for antibiotic-related diarrhea vs. c. diff. 
+Self-resolved, so unlikely c. diff.
+[] If diarrhea persists, consider c. diff testing
+
+#Ascites 
+Patient with recurrent ascites in setting of organomegaly/cystic 
+burden requiring consistent therapeutic paracentesis, last 
+performed ~3 months prior to admission. She received diagnostic 
+para in ED, with no evidence of SBP. Patient received inpatient 
+therapeutic paracentesis with post-procedure albumin on ___, 
+which also was not diagnostic for SBP. She was continued on 
+simethicone and Ativan 0.5mg TID with meals for nausea.
+[] Follow up peritoneal fluid cultures 
+
+#ESRD due to ADPKD on HD MWF 
+She received HD on ___. During her hospitalization she was 
+continued on a renal diet, nephrocaps 1 CAP daily, home 
+sevelamer 800mg PO TID, and paracalcitol 4mcg IV with HD. Per 
+above, home Isosorbide mononitrate 60mg and carvedilol 25mg PO 
+BID held in setting of GNR bactermia.
+
+#HTN 
+Held home carvedilol 25mg PO BID and imdur 60mg PO QD in setting 
+of GNR sepsis as above, which were restarted on discharge. 
+
+===============
+CHRONIC ISSUES:
+===============
+#Moderate-sized circumferential pericardial effusion 
+First noted on TTE in ___, seen again on TTE in ___, both 
+w/o evidence of tamponade. Patient was initially on telemetry 
+but this was discontinued due to stability. 
+[] Will need repeat echo after discharge
+
+#Heart failure with reduced EF (35-40%), non-ischemic
+#NYHA Class I and ACC/AHA Stage C 
+Thought to be secondary to hypertension. Patient had no chest 
+pain or dyspnea during hospitalization. EKG on ___ was notable 
+for TWI. Patient continued on home ASA 81 mg and atorvastatin 40 
+mg QHS. Home carvedilol and isosorbide mononitrate were held in 
+the setting of bacteremia.
+
+#Anemia - CBC remained stable through her course. Continued EPO 
+8000 unit with HD
+[] Recommend outpatient colon cancer screening
+
+#Secondary hyperparathyroidism - Continued Zemplar 
+(paracalcitol) 4 mcg IV per HD
+
+#Hypothyroidism - Continued home Levothyroxine 25 mcg daily
+
+#GERD - Continued home Omeprazole 40mg
+
+#Insomnia - Patient reported that home temazepam 30mg PO QHS not 
+helping. Was started on remelteon 8mg QHS PRN and trazadone 25mg 
+QHS PRN, which were stopped upon discharge.
+
+#Homelessness: Currently living at ___ in 
+___.
+
+TRANSITIONAL ISSUES
+====================
+[] Please get CBC on ___ for PLT check (last PLT = 84 
+on ___
+[] Consider repeat echo and stress test in outpatient setting
+[] Continue ciprofloxacin (HD dosing) until ___
+[] Follow up peritoneal fluid cultures 
+[] Recommend outpatient colon cancer screening
+[] If diarrhea persists, consider c. diff testing
+
+#CODE: Full (confirmed)
+#CONTACT: ___, daughter - ___
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Carvedilol 25 mg PO BID 
+4. Docusate Sodium 100 mg PO PRN constipation  
+5. Isosorbide Mononitrate 60 mg PO DAILY 
+6. Levothyroxine Sodium 25 mcg PO DAILY 
+7. LORazepam 1 mg PO TID W/MEALS 
+8. Nephrocaps 1 CAP PO DAILY 
+9. Omeprazole 40 mg PO DAILY 
+10. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+11. Simethicone 80 mg PO TID:PRN gas pain 
+12. Lactulose 30 mL PO PRN constipation  
+13. nitroglycerin 0.4 mg sublingual Q5M:PRN chest pain 
+14. Vitamin D ___ UNIT PO 1X/MONTH 
+15. Calcitriol 2 mcg PO ___ 
+16. Temazepam 30 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q24H 
+Last day ___.  Lactulose 30 mL PO DAILY:PRN constipation   
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 40 mg PO QPM  
+5.  Calcitriol 2 mcg PO ___  
+6.  Carvedilol 25 mg PO BID  
+7.  Docusate Sodium 100 mg PO PRN constipation   
+8.  Isosorbide Mononitrate 60 mg PO DAILY  
+9.  Levothyroxine Sodium 25 mcg PO DAILY  
+10.  LORazepam 1 mg PO TID W/MEALS 
+RX *lorazepam 1 mg 1 tablet by mouth three times a day Disp #*21 
+Tablet Refills:*0 
+11.  Nephrocaps 1 CAP PO DAILY  
+12.  nitroglycerin 0.4 mg sublingual Q5M:PRN chest pain  
+13.  Omeprazole 40 mg PO DAILY  
+14.  sevelamer CARBONATE 800 mg PO TID W/MEALS  
+15.  Simethicone 80 mg PO TID:PRN gas pain  
+16.  Temazepam 30 mg PO QHS:PRN insomnia 
+RX *temazepam 30 mg 1 capsule(s) by mouth at bedtime Disp #*5 
+Capsule Refills:*0 
+17.  Vitamin D ___ UNIT PO 1X/MONTH  
+18.Outpatient Lab Work
+Labs: CBC
+___
+ICD9 code 287.5
+Please fax to ___, MD (___)
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+- Sepsis secondary to Klebsiella blood stream infection
+
+SECONDARY:
+- HTN
+- Pericardial effusion
+- Heart failure with reduced EF
+- Anemia
+- Secondary Hyperparathyroidism
+- Hypothyroidism
+- GERD
+- Insomnia 
+- ESRD on hemodialysis 
+- Ascites
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+Why did you come to the hospital?
+=================================
+- You initially came to the hospital because of worsening 
+abdominal pain and fevers.
+
+What happened during your hospitalization?
+==========================================
+- You had samples of your blood tested which showed an infection 
+called Klebsiella and your were started on antibiotics. This 
+likely spread from your urine. 
+- You initially received IV antibiotics for this infection, and 
+were switched to an oral antibiotic called Ciprofloxacin, which 
+you will take for 2 weeks total (last day ___
+- A paracentesis was performed on ___ to reduce the fluid in 
+your abdomen and improve your nausea
+
+What should you do when you leave the hospital?
+- Continue to take all of your medications as prescribed
+- Follow-up with your primary care physician within one week
+- Please keep all of your other scheduled health care 
+appointments
+- If you develop any nausea, vomiting, diarrhea, or abdominal 
+pain, please call your primary care doctor 
+
+Sincerely,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,329 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Generalized weakness
+Hypotension
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ with history of peripheral vascular disease 
+including abdominal aortic aneurysm, coronary artery disease 
+status post multiple stents, Alzheimer's dementia, and stage 
+IIIB limited small-cell lung cancer status post 4 cycles of 
+carboplatin/etoposide (cycle 4 completed ___ and radiation 
+therapy (last ___ who presents with generalized weakness 
+and hypotension. Following polysomnia x2 months and poor oral 
+intake x1 month, she was seen by ___ on the day of admission and 
+noted to be fatigued, hypotensive (82/56), and mildly 
+tachycardic (100). She denied fevers/chills, chest pain, 
+cough/shortness of breath, abdominal pain, or dysuria/hematuria. 
+Of note, she was admitted recently for weakness and hypotension 
+in ___ and found to be orthostatic, likely secondary to 
+hypovolemia.  
+
+In the ED, she was afebrile and mildly hypotensive (87/65), but 
+fluid-responsive, with resolution of tachycardia. Admission labs 
+were notable for chronic stable macrocytic anemia, lactate of 
+2.0, elevated BUN:Cr ratio, and negative urinalysis. CTA 
+demonstrated stable abdominal aortic aneurysm, for which no 
+acute intervention  was advised by vascular surgery in the ED. 
+CXR was negative.
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (per Dr. ___ ___ progress 
+note):
+-approx ___: started to develop poor appetite, weight loss,
+dizziness. Notes show weight loss of 40 lbs since that time, but
+may be ___  lbs objectively. Progressive memory loss started 
+as
+well.
+-___: catscan follow-up of AAA revealed pulmonary
+abnormalities in lung with right lower lobe spiculated nodule 
+and
+mediastinal lymph nodes s/p EBUS-TBNA
+-___: biopsy of right hilar and distal mediastinal lymph
+node and left mediastinal node show small-cell lung cancer,
+pathologic grade T1N3M0, Stage IIIB 
+-___: started cycle 1 of carboplatin/etoposide
+-___: start of cycle 3 and XRT
+-___: completion of cycle 4
+-___: completion of 6300 cGy of XRT
+
+PAST MEDICAL HISTORY (per Dr. ___ ___ admission note):  
+
+-AAA 6cm, followed by Dr. ___  
+-___, non Q MI ___ s/p stent vs angioplasty LCx ___ 
+rotablation and stent of mid-LAD ___ POBA of LAD in-stent 
+restenosis ___ distal sent ___. Last cardiac catheterization 
+___ with 20% stenosis of LAD origin with mild in-stent 
+restenosis and patent circumflex with mild in-stent restenosis 
+and 30% RCA stenosis. TTE ___ LVEF 40-45% with anterior distal 
+septal and apical akinesis, trace MR, trace TR.  
+-HTN  
+-HLD  
+-Alzheimer's dementia  
+-LBBB  
+-Anxiety, panic  
+-Elevated A1c 6.6, ___  
+-S/p tonsillectomy  
+ 
+Social History:
+___
+Family History:
+Most family members, including brother (then age ___, sister 
+(then age ___, and father (then age ___, have died of MI. Mother 
+died at age ___ in childbirth. 
+
+ 
+Physical Exam:
+On admission:
+VS: Afebrile, AVSS 
+GEN: Pale-appearing, NAD  
+HEENT: NCAT. EOMI. dry MM. no JVD. neck supple.  
+CV: RRR, normal S1/S2, distant heart sounds, but no murmurs, 
+rubs or gallops appreciated.  
+LUNG: CTAB, no wheezes, rales or rhonchi  
+ABD: soft, NT/ND, +BS. no rebound or guarding. neg HSM.  
+EXT: W/WP, no edema, no C/C. 2+ ___ pulses bilaterally.  
+SKIN: W/D/I  
+NEURO: Alert & oriented x ~2 (person, ___, ___ or 
+___, year: "12"), No focal deficit, moving all extremities 
+ 
+PSYCH: appropriate affect
+
+At discharge:
+VS: AF/98.6, 148/92 (100s-160s/60s-90s), 82, 18, 97% (90-97%)
+Orthostatic VS: 144/90 -> 136/89 -> 101/70
+I/O 24h: 710 + 808/BR + BM x2 
+GEN: Pale-appearing, NAD  
+HEENT: NCAT. EOMI. dry MM. no JVD. neck supple.  
+CV: RRR, normal S1/S2, distant heart sounds, but no murmurs, 
+rubs or gallops appreciated.  
+LUNG: CTAB, no wheezes, rales or rhonchi  
+ABD: soft, NT/ND, +BS. no rebound or guarding. neg HSM.  
+EXT: W/WP, no edema, no C/C. 2+ ___ pulses bilaterally.  
+SKIN: W/D/I  
+NEURO: Alert, appropriately conversant, moving all extremities  
+PSYCH: appropriate affect  
+ 
+ 
+Pertinent Results:
+On admission:
+___ 06:00PM BLOOD WBC-5.3 RBC-3.36* Hgb-11.7* Hct-33.5* 
+MCV-100* MCH-34.7* MCHC-34.8 RDW-13.7 Plt ___
+___ 06:00PM BLOOD Neuts-62.7 ___ Monos-5.3 Eos-1.9 
+Baso-0.5
+___ 06:00PM BLOOD ___ PTT-25.9 ___
+___ 06:00PM BLOOD Glucose-112* UreaN-26* Creat-0.7 Na-134 
+K-3.9 Cl-97 HCO3-24 AnGap-17
+___ 06:17PM BLOOD Lactate-2.0
+
+___ 08:55PM URINE Color-Straw Appear-Clear Sp ___
+___ 08:55PM URINE Blood-SM  Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+___ 08:55PM URINE RBC-1 WBC-1 Bacteri-NONE Yeast-NONE Epi-0
+
+At discharge:
+___ 07:35AM BLOOD WBC-3.8* RBC-3.17* Hgb-10.7* Hct-31.9* 
+MCV-101* MCH-33.7* MCHC-33.5 RDW-14.1 Plt ___
+___ 07:35AM BLOOD Neuts-59.5 ___ Monos-6.5 Eos-2.9 
+Baso-0.3
+___ 07:35AM BLOOD ___ PTT-31.4 ___
+___ 07:35AM BLOOD Glucose-138* UreaN-12 Creat-0.7 Na-140 
+K-4.0 Cl-108 HCO3-23 AnGap-13
+___ 07:35AM BLOOD ALT-30 AST-33 AlkPhos-75 TotBili-0.3
+___ 07:35AM BLOOD Calcium-8.9 Phos-3.0 Mg-1.9
+
+In the interim:
+___ 06:15AM BLOOD Cortsol-26.0*
+___ 08:30AM BLOOD VitB12-914* Folate-GREATER TH
+
+___ 06:16AM URINE Hours-RANDOM UreaN-503 Creat-36 Na-13 
+K-23 Cl-11
+___ 06:16AM URINE Osmolal-341
+
+Microbiology:
+BCx x2 (___): Clostridium Perfringens in ___ bottles
+BCx x2 (___): NGTD
+
+Imaging:
+ECG (___):
+Sinus rhythm. Left atrial abnormality. Left bundle-branch block. 
+Compared to the previous tracing of ___ the A-V interval is 
+shorter. Otherwise, no diagnostic interim change.
+ IntervalsAxes
+___
+___
+
+CTA abdomen/pelvis (___):
+1.  Stable 6.1 x 6.3 cm partially thrombosed infrarenal aortic 
+aneurysm with no periaortic inflammatory changes or draping of 
+the aorta along the vertebrae to suggest impending rupture. 
+Stable focal ectasia of the bilateral common iliac arteries.
+2.  Otherwise, unchanged examination.  Osteoblastic lesions in 
+L3 and S1 are concerning for metastases.  Previously noted 
+hepatic segment V lesion is better seen on prior study.
+3.  Stable right adrenal adenoma.
+4.  Diverticulosis without diverticulitis.  
+
+Portable CXR (___):
+No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ with history of peripheral vascular disease 
+including abdominal aortic aneurysm, coronary artery disease 
+status post multiple stents, Alzheimer's dementia, and stage 
+IIIB limited small-cell lung cancer status post 4 cycles of 
+carboplatin/etoposide (cycle 4 completed ___ and radiation 
+therapy (last ___ who presents with generalized weakness 
+and hypotension.
+
+Active Issues:
+(1)Hypotension: Mild hypotension on admission likely reflected 
+hypovolemia in the setting of suggestive history of poor oral 
+intake, elevated BUN:Cr, and fluid-responsiveness, though 
+infection remained a possibility as below. Morning cortisol was 
+normal. Hematocrit on admission was consistent with recent 
+baseline, and CTA demonstrated stability of known abdominal 
+aortic aneurysm. She remained afebrile and hemodynamically 
+stable throughout admission on gentle maintenance intravenous 
+fluids with improved oral intake. Although she was noted to be 
+orthostatic (blood pressure 140s systolic when supine, down to 
+100s after standing) despite fluids, she remained asymptomatic 
+and was cleared by physical therapy to return home without home 
+physical therapy.
+
+(2)Clostridium perfringens bacteremia: Admission blood cultures 
+were notable for Clostridium perfringens positivity in ___ 
+bottles, with subsequent blood cultures demonstrating no growth 
+to date by the time of discharge. Source of transient 
+Clostridial bacteremia versus contamination remained unclear in 
+the absence of skin breakdown or active gastrointestinal 
+illness. Vancomycin was initiated for empiric coverage of gram 
+positive rods, with initiation of metronidazole for double 
+coverage upon speciation. Vancomycin and metronidazole were 
+discontinued in favor of amoxicillin monotherapy (500mg q8h) at 
+the suggestion of the infectious disease service, with a planned 
+14-day course beginning ___. She remained afebrile and 
+hemodynamically stable without leukocytosis throughout 
+admission, with the exception of fluid-responsive hypotension on 
+admission as above. 
+
+(3)Macrocytic anemia: Hematocrit remained consistent with recent 
+baseline at 32-35 throughout admission. Although noted to be 
+mildy macrocytic (100-101), B12 and folate levels were normal. 
+She remained hemodynamically stable without ischemic symptoms or 
+signs of active bleeding throughout admission.
+
+(4)Thrombocytopenia: She remained thrombocytopenic at 120s-140s 
+throughout admission, consistent with recent baseline. She 
+remained hemodynamically stable without signs of active bleeding 
+throughout admission.
+
+Inactive Issues:
+(1)Stage IIIB limited small-cell lung cancer: She received no 
+active treatment over the course of admission, and close 
+oncology follow-up was arranged in the outpatient setting.
+
+(2)Peripheral vascular disease: Abdominal aortic aneurysm was 
+noted to be stable on admission CTA, with no acute intervention 
+advised by vascular surgery.
+
+(3)Coronary artery disease: She experienced no ischemic 
+symptoms, and home simvastatin was continued throughout 
+admission.  
+
+(4)Alzheimer's dementia: Home memantine and donepezil were 
+continued throughout admission.
+
+Transitional Issues:
+- Treatment of orthostasis may be considered in the outpatient 
+setting in the event that she becomes symptomatic.
+- She was discharged on amoxicillin 500mg PO q8h for possible 
+Clostridium perfringens bacteremia, with a planned 14-day course 
+beginning ___.
+- Pending studies: BCx (___).
+- Code status: Full.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Donepezil 10 mg PO DAILY 
+2. Lidocaine 5% Patch 1 PTCH TD DAILY 
+3. Memantine 10 mg PO BID 
+4. Nitroglycerin SL 0.3 mg SL PRN chest pain 
+5. Omeprazole 20 mg PO DAILY 
+6. Ondansetron 8 mg PO Q8H:PRN nausea 
+7. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+8. Simvastatin 20 mg PO HS 
+9. Fish Oil (Omega 3) 1000 mg PO BID 
+10. Acetaminophen ___ mg PO TID:PRN pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen ___ mg PO TID:PRN pain 
+2. Donepezil 10 mg PO DAILY 
+3. Fish Oil (Omega 3) 1000 mg PO BID 
+4. Lidocaine 5% Patch 1 PTCH TD DAILY 
+5. Memantine 10 mg PO BID 
+6. Omeprazole 20 mg PO DAILY 
+7. Ondansetron 8 mg PO Q8H:PRN nausea 
+8. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+9. Simvastatin 20 mg PO HS 
+10. Amoxicillin 500 mg PO Q8H 
+RX *amoxicillin 500 mg 1 capsule(s) by mouth Every 8 hours Disp 
+#*41 Capsule Refills:*0
+11. Nitroglycerin SL 0.3 mg SL PRN chest pain 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary diagnosis:
+Hypotension secondary to hypovolemia
+Clostridium perfringens bacteremia
+
+Secondary diagnosis:
+Small cell lung cancer
+Stable abdominal aortic aneurysm
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure taking part in your care during your admission 
+to ___. As you know, you were 
+admitted for low blood pressure likely because you were not 
+eating or drinking much, and your blood pressure improved with 
+intravenous fluids. It is very important that you remember to 
+eat and drink at home so that your blood pressure does not 
+become low again. You also were found to have bacteria growing 
+in one of your blood cultures and were started on antibiotics, 
+which you should continue to take at home.
+ 
+Followup Instructions:
+___

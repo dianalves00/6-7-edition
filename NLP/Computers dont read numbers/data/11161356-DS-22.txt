@@ -1,0 +1,186 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Pt is a ___ yo F with h/o peripartum cardiomyopathy, viral 
+pericarditis, and potural tachycardia p/w 3 days squeezing 
+substernal CP, SOB, tachycardia with activity, rated at ___ 
+which radiates up neck at times, associated with nausea and 
+lightheadedness. Patient dx with peripartum cardiomyopathy ___ 
+years ago and was symptom free for past ___ years until about 8 
+months ago when she developed viral pericarditis. Patient 
+developed waxing and waning sx of exertional CP, postural 
+tachycardia, SOB. When severe, patient describes not being able 
+to stand for more than 3 minutes at a time or HR would climb 
+into the 120s, 140s, and beyond. She was unable to perform ADLs 
+and routine housework, and has not been able to work these past 
+several months. During the past couple of months, patient noted 
+clinical improvement, being able to exercise on a stationary 
+bike and maintain a standing position for 9 minutes without CP, 
+tachycardia, hypotension. However, three weeks ago, patient 
+began to worsen again and culminated in the sx described above 
+for the last 3 days. She was seen at her PCP's office for these 
+complaints yesterday and was sent to the ED. 
+
+Inital VS upon presentation to the ED were: 98.1 88 ___ 
+100%. Exam was nonfocal. Labs were unrevealing (negative 
+troponin). CXR was normal. She was given ASA 325mg. Per ED 
+report, the patient was discussed with cardiology who requested 
+admission. 
+
+Patient is currently stable and symptom free while sitting in 
+bed. Her last episode of chest pain was late last night/early 
+this morning. 
+ 
+Past Medical History:
+-Peripartum Cardiomyopathy - developed ___ years ago, resolved ___ 
+years ago
+-Viral Pericarditis - 8 months ago, w cardiac sx such as 
+exertional chest pain & reactived positional orthostatic 
+tachycardia from cardiomyopathy years ago.
+-Migraines
+
+ 
+Social History:
+___
+Family History:
+Patient is adopted. She notes that her father had a heart attack 
+when he was in his ___, had several more MIs and various 
+procedures; died of a fatal MI in his ___. Patient is unaware 
+of her biological mother's medical hx.
+ 
+Physical Exam:
+VS: 97.9   114/74   83   18   99%RA
+Constitutional: Comfortable, sitting in bed. Mood appropriate.
+HEENT: NC/AT, PERRL, EOMI, OP clear
+Neck: supple, No JVD, LAD, bruits
+Chest: CTAB
+Cardiovascular: RRR, Normal S1, S2
+Abdominal: Soft, Nontender, Nondistended
+Extr/Back: No cyanosis, clubbing or edema
+Skin: No rash, Warm and dry
+Neuro: Speech fluent, non-focal
+Psych: Normal mood, Normal mentation
+___: No petechiae
+
+ 
+Pertinent Results:
+___ 08:45PM   
+
+WBC-7.1 RBC-4.11* HGB-13.5 HCT-36.4 MCV-89 MCH-32.9* MCHC-37.2* 
+RDW-12.6 PLT COUNT-240 NEUTS-68.4 ___ MONOS-4.1 EOS-0.5 
+BASOS-0.9
+
+GLUCOSE-99 UREA N-11 CREAT-0.7 SODIUM-141 POTASSIUM-3.7 
+CHLORIDE-109* TOTAL CO2-21* ANION GAP-15
+
+proBNP-29
+
+D-DIMER-252
+
+___ 08:45PM   cTropnT-<0.01
+___ 04:30AM   cTropnT-<0.01 proBNP-30
+
+URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG 
+BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG UCG-NEGATIVE
+.
+EKG: sinus at rate of 90, normal intervals, no st changes.
+.
+CXR: 
+Normal heart, lungs, hila, mediastinum and pleural surfaces. 
+Normal Chest.  
+
+ 
+Brief Hospital Course:
+___ YO F w h/o viral cardiomyopathy in the setting of pregnancy, 
+viral pericarditis, and POTS p/w chest pain (___), occas 
+radiating to neck and jaw, sinus tachcardia, & SOB, admitted for 
+evaluation and ruled out for ACS/ischemia.
+.  
+# CORONARIES: Cardiac enzymes negative x3. No risk factors other 
+than family hx. Patient will return for stress echo on ___, 
+___ as outpatient to assess hemodynamics. 
+.  
+# Postural orthostatic tachycardia syndrome (POTS): Patient's 
+symptoms thought to be caused by hypovolemia and was encourated 
+to increase PO hydration and vaoid caffeine. Florinef 0.1mg PO 
+daily was started and patient felt better. Patient is to follow 
+up with Dr. ___ completion of stress ECHO.
+.  
+# PUMP/Cardiomyopathy: may be having sequelae from viral 
+cardiomyopathy from years ago. Rest & Ibuprofen 800mg prn chest 
+pain.
+.  
+# Migraines: currently none. Cont topamax 125mg PO daily.
+.
+.
+Transitional issues:
+- Patient has stress ECHO on ___ and to assess hemodynamics 
+and will follow up with Dr. ___ as an outpatient for 
+symptoms as well as new medication initiation (Florinef 0.1mg PO 
+daily).
+.
+CODE: Full (presumed) 
+.  
+
+ 
+Medications on Admission:
+Topamax 125mg PO daily.
+ 
+Discharge Medications:
+1. fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+2. ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 
+hours) as needed for chest pain, headache.
+Disp:*30 Tablet(s)* Refills:*0*
+3. topiramate  Oral
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Postural Orthostatic Tachycardia
+Chest pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for chest pain and fast heart 
+rates. Your blood work and EKG were normal. You were started on 
+a medication called florinef which leads to increased salt 
+absorption and, therefore, increased blood pressure and less 
+variability in blood pressure and heart rate with positional 
+changes.
+
+You were also set up for a stress test with echocardiogram as 
+listed below. Please call Dr ___ office on ___ to obtain 
+the results of your stress test and schedule an appointment with 
+Dr ___.
+ 
+Followup Instructions:
+___

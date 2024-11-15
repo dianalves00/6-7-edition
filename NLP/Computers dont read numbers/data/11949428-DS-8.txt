@@ -1,0 +1,296 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin / Iodinated Contrast Media - IV Dye
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, nausea
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___
+Large duodenal diverticulum 
+The bile duct was deeply cannulated with the sphincterotome. 
+Contrast was injected and there was brisk flow through the 
+ducts. Contrast extended to the entire biliary tree. 
+The CBD was 15mm in diameter. Two large filling defects 
+consistent with stones were identified in the CBD and CHD. 
+The left and right hepatic ducts and all intrahepatic branches 
+were normal. 
+A limited (due to elevated INR) biliary sphincterotomy was made 
+with a sphincterotome. 
+A sphincteroplasty was then performed with a 12-15mm CRE balloon 
+up to 15mm to facilitate stone extraction. 
+The biliary tree was swept with a 12-15mm balloon starting at 
+the bifurcation. Two stones were removed. 
+The CBD and CHD were swept repeatedly until no further stones 
+were seen. 
+The final occlusion cholangiogram showed no evidence of filling 
+defects in the CBD. 
+Excellent bile and contrast drainage was seen endoscopically and 
+fluoroscopically. 
+Otherwise normal ercp to third part of the duodenum
+ 
+Recommendations: NPO overnight with aggressive IV hydration with 
+LR at 200 cc/hr 
+If no abdominal pain in the morning, advance diet to clear 
+liquids and then advance as tolerated 
+No aspirin, Plavix, NSAIDS, Coumadin for 5 days. 
+Continue with antibiotics - Ciprofloxacin 500mg BID x 5 days. 
+Follow for response and complications. If any abdominal pain, 
+fever, jaundice, gastrointestinal bleeding please call ERCP 
+fellow on call ___
+ 
+
+ 
+History of Present Illness:
+___ year old woman with anxiety disorder, osteoporosis, chronic 
+back pain s/p multiple fusion surgeries, GERD complicated by 
+strictures, who is s/p CCY for billiary colic who presents with 
+abdominal pain from her assisted living facility. Pt had 
+abdominal pain for one day prior to presentation but no nausea 
+or vomiting. Her appetite has been poor. She has had off and on 
+diarrhea for many months, reports watery stools as well. She was 
+also febrile to 101. Labs were checked at her facilty which 
+revealed hyperbilirubinemia, so she was sent to the ED for 
+evaluation. 
+
+In the ED, here pt hemodynamically stable and was initially 
+febrile to 101.8. Labs notable for mild transaminitis, Alk P 
+___, Tbili 4.9 and lipase of 2497. She had cultures drawn and 
+was given a dose of Unasyn 3gm for presumed cholangitis. RUQ u/s 
+done in the ED shwed intra and extrahepatic billiary dilatation 
+but no definite stone. She was admitted for further care. 
+
+ROS: started on bactrim for dysuria and UTI dx on ___ 
+otherwise negative except as noted above
+ 
+Past Medical History:
+1.  Anxiety with a history of panic attacks, depression.  The
+patient was hospitalized around the time of her husband's death
+for a "mental breakdown" according to her daughter and also had
+ECT therapy at that time.  She also has a history of bipolar
+disorder.
+2.  Obesity.
+4.  Hypertension.
+5.  Osteoporosis.
+6.  Gastroesophageal reflux disease with history of esophageal
+stricture.  The patient requires dilation of her esophagus every
+6 to 12 months.  This is typically done by Dr. ___ at ___.
+7.  Hypothyroidism.
+8.  Degenerative joint disease.
+9.  Urinary incontinence.  The patient does wear pads.
+10.  Vitamin D deficiency.
+11.  Status post bilateral knee replacements, status post total
+fixation for hammertoes, status post right hip replacement,
+status post cholecystectomy, status post hysterectomy, status
+post appendectomy.
+12.  History of cardiac arrest in her ___ after given IV
+contrast.
+ 
+Social History:
+___
+Family History:
+Mother died of colon CA.
+ 
+Physical Exam:
+Admission:
+Vitals: Tmax 101.8 Tc 98.7 100/55 93 18 93%RA
+Gen: NAD
+HEENT: scleral icterus, dry mm
+CV: rrr, no r/m/g
+Pulm: clear b/l
+Abd: soft, tender in RUQ, distended, +bs
+Ext: no edema
+Neuro: alert and oriented x 3
+
+afeb, VSS 
+ Cons: NAD, sitting up in bed
+left EJ -no drainage, no cord, no edema, nontender, no erythema
+ Eyes: EOMI, no scleral icterus  
+ ENT: MMM  
+ Cardiovasc: rrr, no murmur, no edema  
+ Resp: CTA B  
+ GI: +bs,soft, nt, nd 
+ MSK: no significant kyphosis  
+ Skin: no rashes  
+ Neuro: no facial droop  
+ Psych: anxious
+ 
+Pertinent Results:
+Labs on Admission:
+___ 06:15PM   WBC-10.4 RBC-3.94* HGB-12.3 HCT-38.9 MCV-99* 
+MCH-31.3 MCHC-31.7 RDW-14.6
+___ 06:15PM   PLT COUNT-180
+___ 06:15PM   NEUTS-80.9* LYMPHS-12.9* MONOS-4.3 EOS-1.7 
+BASOS-0.3
+___ 06:15PM   GLUCOSE-99 UREA N-13 CREAT-0.8 SODIUM-137 
+POTASSIUM-3.9 CHLORIDE-98 TOTAL CO2-28 ANION GAP-15
+___ 06:15PM   ALT(SGPT)-44* AST(SGOT)-78* ALK PHOS-871* TOT 
+BILI-4.9* DIR BILI-4.0* INDIR BIL-0.9
+___ 06:15PM   LIPASE-2497*
+___ 06:15PM   ALBUMIN-3.7
+___ 06:30PM   LACTATE-1.5
+___ 06:15PM   ___ PTT-40.4* ___
+
+___ 06:15AM BLOOD WBC-6.7 RBC-3.58* Hgb-11.3* Hct-34.6* 
+MCV-97 MCH-31.6 MCHC-32.7 RDW-14.1 Plt ___
+___ 06:15AM BLOOD WBC-5.8 RBC-3.44* Hgb-10.8* Hct-33.9* 
+MCV-99* MCH-31.4 MCHC-31.9 RDW-14.3 Plt ___
+___ 08:00PM BLOOD ALT-43* AST-78* AlkPhos-790* TotBili-2.8*
+
+RUQ u/s: 
+Moderate intra and extrahepatic biliary duct dilatation without 
+cause 
+identified on this study. Consider MRCP.  No prior for 
+comparison status post cholecystectomy. 
+
+ERCP: Large duodenal diverticulum
+The bile duct was deeply cannulated with the sphincterotome.
+Contrast was injected and there was brisk flow through the 
+ducts. Contrast extended to the entire biliary tree.
+The CBD was 15mm in diameter. Two large filling defects 
+consistent with stones were identified in the CBD and CHD.
+The left and right hepatic ducts and all intrahepatic branches 
+were normal.
+A limited (due to elevated INR) biliary sphincterotomy was made 
+with a sphincterotome.
+A sphincteroplasty was then performed with a 12-15mm CRE balloon 
+up to 15mm to facilitate stone extraction.
+The biliary tree was swept with a 12-15mm balloon starting at 
+the bifurcation. Two stones were removed.
+The CBD and CHD were swept repeatedly until no further stones 
+were seen.
+The final occlusion cholangiogram showed no evidence of filling 
+defects in the CBD.
+Excellent bile and contrast drainage was seen endoscopically and 
+fluoroscopically.
+Otherwise normal ercp to third part of the duodenum
+ 
+Brief Hospital Course:
+___ with osteoporosis, chronic back pain, GERD complicated by 
+strictures, and billiary colic s/p CCY presenting with abdominal 
+pain, fevers, and hyperbilirubinemia from likely cholangitis and 
+pancreatitis. 
+
+She underwent ERCP with removal of two stones and 
+sphincterotomy. She improve post-procedure with resolution of 
+her fevers and pain. Her diet was advanced without 
+complications.  She did well while on ciprofloxacin.
+
+Urinary tract infection:
+The pt was diagnosed with UTI, treated with ciprofloxacin as 
+well.
+
+The pt underwent evaluation and treatment with physical therapy 
+due to fatigue with walking, this improved in time. 
+
+The pt also was noted to have fairly severe anxiety, treated 
+with her home medications and reassurance. 
+
+The pt was discharged to home long term assisted living 
+facility, with a recommendation to follow up with her primary 
+care physician.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Alendronate Sodium 70 mg PO QMON 
+2. Atenolol 25 mg PO DAILY 
+3. Citalopram 20 mg PO DAILY 
+4. ClonazePAM 1 mg PO TID 
+5. Divalproex (DELayed Release) 125 mg PO QHS 
+6. Furosemide 20 mg PO DAILY 
+7. Gabapentin 800 mg PO AT 8 AM AND 2PM 
+8. Gabapentin 400 mg PO HS 
+9. Levothyroxine Sodium 75 mcg PO 6X/WEEK (___) 
+10. Levothyroxine Sodium 125 mcg PO 1X/WEEK (___) 
+11. Lovastatin 80  oral daily 
+12. Meclizine 12.5 mg PO Q12H:PRN dizziness 
+13. Mirtazapine 30 mg PO HS 
+14. Omeprazole 20 mg PO DAILY 
+15. OxycoDONE (Immediate Release)  10 mg PO Q4H:PRN pain 
+16. QUEtiapine Fumarate 100 mg PO TID 
+17. QUEtiapine Fumarate 50 mg PO QHS 
+18. Sulfameth/Trimethoprim DS 1 TAB PO BID 
+19. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 
+600 mg(1,500mg) -200 unit oral bid 
+20. Vitamin D3 (cholecalciferol (vitamin D3)) 1,000 unit oral 
+daily 
+21. Docusate Sodium 100 mg PO BID 
+22. morphine liposomal (PF) unknown  epidural daily 
+
+ 
+Discharge Medications:
+1. Atenolol 25 mg PO DAILY 
+2. Citalopram 20 mg PO DAILY 
+3. ClonazePAM 1 mg PO TID 
+4. Divalproex (DELayed Release) 125 mg PO QHS 
+5. Docusate Sodium 100 mg PO BID 
+6. Gabapentin 800 mg PO AT 8 AM AND 2PM 
+7. Gabapentin 400 mg PO HS 
+8. Levothyroxine Sodium 75 mcg PO 6X/WEEK (___) 
+9. Levothyroxine Sodium 125 mcg PO 1X/WEEK (___) 
+10. Meclizine 12.5 mg PO Q12H:PRN dizziness 
+11. Mirtazapine 30 mg PO HS 
+12. Omeprazole 20 mg PO DAILY 
+13. OxycoDONE (Immediate Release)  10 mg PO Q4H:PRN pain 
+14. QUEtiapine Fumarate 100 mg PO TID 
+15. QUEtiapine Fumarate 50 mg PO QHS 
+16. Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin [Cipro] 500 mg 1 tablet(s) by mouth twice a 
+day until gone Disp #*4 Tablet Refills:*0
+17. Alendronate Sodium 70 mg PO QMON 
+18. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 
+600 mg(1,500mg) -200 unit oral bid 
+19. Furosemide 20 mg PO DAILY 
+20. Lovastatin 80  oral daily 
+21. Vitamin D3 (cholecalciferol (vitamin D3)) 1,000 unit oral 
+daily 
+22. Venlafaxine XR 75 mg PO DAILY 
+23. Divalproex (DELayed Release) 125 mg PO NOON 
+24. ClonazePAM 0.5 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cholangitis
+Acute pancreatitis
+Choledocholithiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted with abdominal pain and evidence of infection. 
+You were treated with a procedure called ERCP and antibiotics. 
+With this your abdominal pain resolved and your infection was 
+improved. 
+You had some soreness at the neck where the external jugular IV 
+was placed.  Removal of the IV improved the pain, but it remains 
+a little sore in the area.  There is no sign of infection, no 
+cords in the neck were palpable, and the pain was clearly 
+improving.  No further workup was necessary.  You can continue 
+to use a warm compress if that makes the area feel better 
+ 
+Followup Instructions:
+___

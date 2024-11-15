@@ -1,0 +1,364 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+diagnostic/therapeutic paracentesis ___
+therapeutic paracentesis ___
+upper endoscopy ___
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:20AM BLOOD WBC-13.3* RBC-2.39* Hgb-8.5* Hct-24.5* 
+MCV-103* MCH-35.6* MCHC-34.7 RDW-16.1* RDWSD-60.1* Plt ___
+___ 01:20AM BLOOD Neuts-77.4* Lymphs-11.6* Monos-9.1 
+Eos-0.3* Baso-0.2 Im ___ AbsNeut-10.27* AbsLymp-1.54 
+AbsMono-1.21* AbsEos-0.04 AbsBaso-0.03
+___ 01:20AM BLOOD ___ PTT-37.2* ___
+___ 01:20AM BLOOD Glucose-96 UreaN-11 Creat-0.7 Na-119* 
+K-4.7 Cl-89* HCO3-16* AnGap-14
+___ 01:20AM BLOOD ALT-16 AST-88* AlkPhos-334* TotBili-8.7*
+___ 01:20AM BLOOD Albumin-2.0* Calcium-7.2* Phos-2.2* 
+Mg-1.7
+___ 06:30AM BLOOD calTIBC-161* VitB12-1310* Folate-12 
+Ferritn-242 TRF-124*
+___ 03:26PM BLOOD Triglyc-113 HDL-11* CHOL/HD-7.8 
+LDLcalc-52
+___ 03:26PM BLOOD TSH-3.4
+___ 03:26PM BLOOD 25VitD-15*
+___ 03:26PM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG HAV Ab-NEG
+___ 03:26PM BLOOD AMA-NEGATIVE Smooth-POSITIVE*
+___ 02:57PM BLOOD ANCA-NEGATIVE B
+___ 03:26PM BLOOD ___ AFP-1.6
+___ 02:57PM BLOOD IgG-1706* IgA-1837* IgM-85
+___ 02:57PM BLOOD C3-97 C4-20
+___ 04:40AM BLOOD HIV Ab-NEG
+___ 01:20AM BLOOD ASA-NEG Ethanol-44* Acetmnp-NEG 
+Tricycl-NEG
+___ 03:26PM BLOOD tTG-IgA-28*
+___ 03:26PM BLOOD HCV Ab-NEG
+___ 01:30AM BLOOD Lactate-1.7
+
+MICRO
+=====
+blood cultures ___ - no growth to date
+peritoneal fluid culture ___ - no growth to date
+
+IMAGING/STUDIES
+===============
+___ RUQ US
+1. Findings concerning for cavernous transformation of the main 
+portal vein.  
+Multiphasic CT of the liver is recommended for further 
+evaluation.  Patent 
+hepatic artery. 
+2. Echogenic and nodular liver consistent with cirrhosis.  
+Sequelae of portal 
+hypertension including splenomegaly and moderate volume ascites. 
+
+3. Gallbladder-wall thickening likely due to liver disease. 
+
+___ ___ US
+Lack of visualization of the left peroneal veins.  Otherwise, no 
+evidence of deep venous thrombosis in the right or left lower 
+extremity veins. 
+
+___ Triphasic CT
+IMPRESSION:
+1. Cirrhotic liver with sequelae of portal hypertension, 
+including splenomegaly and varices.  No focal hepatic lesion.
+2. Patent portal vasculature.  No evidence of cavernous 
+transformation of the portal vein.
+3. Distended stomach.  Diffuse dilatation of small bowel loops 
+in the imaged abdomen, measuring up to 4 cm.  Mild dilatation of 
+the transverse colon. The lower abdomen and pelvis are not 
+included on this study.  Findings could represent ileus or 
+obstruction.
+4. Moderate intra-abdominal ascites.
+
+___ KUB
+Interval placement of NG tube projecting over proximal stomach.  
+
+Redemonstration of diffusely dilated small and large bowel loops 
+consistent with ileus.
+
+___ TTE
+IMPRESSION: Likely very small atrial septal defect/patent 
+foramen ovale. Normal left
+ventricular wall thickness and biventricular cavity sizes and 
+regional/global biventricular systolic function. No valvular 
+pathology or pathologic flow identified. High normal pulmonary 
+artery systolic pressure.
+
+DISCHARGE LABS
+==============
+___ 03:43AM BLOOD WBC-14.4* RBC-1.92* Hgb-7.0* Hct-21.5* 
+MCV-112* MCH-36.5* MCHC-32.6 RDW-17.6* RDWSD-71.2* Plt ___
+___ 03:43AM BLOOD ___ PTT-39.6* ___
+___ 03:43AM BLOOD Glucose-144* UreaN-32* Creat-3.4* Na-132* 
+K-4.4 Cl-92* HCO3-22 AnGap-18
+___ 03:43AM BLOOD ALT-14 AST-51* AlkPhos-135* TotBili-15.9*
+___ 03:43AM BLOOD Albumin-3.5 Calcium-8.7 Phos-6.3* Mg-2.___RIEF SUMMARY
+==============
+This is a ___ year old gentleman with a history of alcohol use 
+history with recently diagnosed EtOH cirrhosis, COPD and 
+enlarged prostate who presented to an OSH with abdominal pain 
+and confusion. He was admitted to the ICU for asymptomatic 
+hyponatremia, which improved with fluid restriction and albumin. 
+He was called out of the ICU, but was quickly transferred back 
+to the ICU due to new hematemesis requiring elective intubation 
+and urgent upper endoscopy, which revealed duodenal ulcers, one 
+of which was oozing and was treated with epinephrine injection. 
+He was transferred out of the ICU, but again needed to be 
+transferred back to the ICU on ___ due to hypoxemia 
+requiring NRB and tachycardia to the 130s c/f aspiration 
+pneumonia iso fever, started on broad spectrum antibiotics. He 
+had also developed an ileus requiring NGT to suction and rapidly 
+progressing renal failure concerning for HRS. On ___ a 
+family meeting was held at bedside with wife ___, 
+___, daughter, and step-son, primary and palliative care teams. 
+We discussed how Mr. ___ multiple complications are all 
+secondary to his cirrhosis and that this process is not 
+reversible (not a transplant candidate given ongoing alcohol 
+use). It was decided with the patient and his family that we 
+would pursue hospice placement. His code status was changed to 
+DNR/DNI, no escalation of care, no ICU readmission. The patient 
+expressed that he wants to maximize the quality time he has to 
+spend with family in hospice, and towards this goal, only 
+uncomfortable meds and therapies (i.e. NGT, octreotide 
+injections) were stopped.
+
+CHRONIC/STABLE ISSUES  
+======================  
+#HYPONATREMIA
+Patient was noted to have a newly depressed Na to 119 on 
+presentation. Persistently in one-teens so admitted to MICU for 
+close monitoring. He received 50 g of 25% albumin. His Na 
+uptrended to 121 on ___, and improved on serial rechecks to 
+123->124. He was called out to the ___ service, 
+continued to improve until other issues as above.
+
+#ACUTE ETOH INTOXICATION
+#ETOH USE DISORDER
+Serum EtOH level of 44 on admission. Per collateral from wife, 
+pt continued EtOH use despite multiple recent hospitalizations. 
+Monitored on CIWA score, SW consulted, however above acute 
+issues took precedence.
+
+#RASH
+Presented with new petechial rash concerning for small vessel 
+vasculitis. Workup was notable for: hepatitis serologies 
+negative, tTG-IgA 28, ANCA negative, normal complement levels. 
+Improved during hospitalization.
+
+#LEUKOCYTOSIS
+Presented with leukocytois with neutrophilic predominance, no 
+specific localizing symptoms. Received one dose of Vanc/Zosyn at 
+OSH. As noted elsewhere, intermittently on antibiotics for SBP 
+prophylaxis or HAP coverage, stopped in accordance with GOC.
+
+#DECOMPENSATED ETOH CIRRHOSIS
+BRIEF SUMMARY
+ 
+==============
+ 
+This is a ___ year old gentleman with a history of alcohol use 
+history with recently diagnosed EtOH cirrhosis, COPD and 
+enlarged prostate who presented to an OSH with abdominal pain 
+and confusion. He was admitted to the ICU for asymptomatic 
+hyponatremia, which improved with fluid restriction and albumin. 
+He was called out of the ICU, but was quickly transferred back 
+to the ICU due to new hematemesis requiring elective intubation 
+and urgent upper endoscopy, which revealed duodenal ulcers, one 
+of which was oozing and was treated with epinephrine injection. 
+He was transferred out of the ICU, but again needed to be 
+transferred back to the ICU on ___ due to hypoxemia 
+requiring NRB and tachycardia to the 130s c/f aspiration 
+pneumonia iso fever, started on broad spectrum antibiotics. He 
+had also developed an ileus requiring NGT to suction and rapidly 
+progressing renal failure concerning for HRS. On ___ a 
+family meeting was held at bedside with wife ___, 
+___, daughter, and step-son, primary and palliative care teams. 
+We discussed how Mr. ___ multiple complications are all 
+secondary to his cirrhosis and that this process is not 
+reversible (not a transplant candidate given ongoing alcohol 
+use). It was decided with the patient and his family that we 
+would pursue hospice placement. His code status was changed to 
+DNR/DNI, no escalation of care, no ICU readmission. The patient 
+expressed that he wants to maximize the quality time he has to 
+spend with family in hospice, and towards this goal, only 
+uncomfortable meds and therapies (i.e. NGT, octreotide 
+injections) were stopped. Patient was started on a dilaudid gtt 
+for comfort. He expired on ___ at 10:12 AM and family were 
+notified by telephone. Wife declined autopsy. 
+ 
+
+ 
+CHRONIC/STABLE ISSUES 
+ 
+====================== 
+ 
+#HYPONATREMIA
+ 
+Patient was noted to have a newly depressed Na to 119 on 
+presentation. Persistently in one-teens so admitted to MICU for 
+close monitoring. He received 50 g of 25% albumin. His Na 
+uptrended to 121 on ___, and improved on serial rechecks to 
+123->124. He was called out to the ___ service and was 
+subsequently transitioned to CMO per his request and no further 
+lab monitoring was done.
+ 
+
+ 
+#ACUTE ETOH INTOXICATION
+ 
+#ETOH USE DISORDER
+ 
+Serum EtOH level of 44 on admission. Per collateral from wife, 
+pt continued EtOH use despite multiple recent hospitalizations. 
+Monitored on CIWA score, SW consulted. He was subsequently 
+transitioned to CMO per his request and no further lab or 
+invasive monitoring was done.
+ 
+
+ 
+#RASH
+ 
+Presented with new petechial rash concerning for small vessel 
+vasculitis. Workup was notable for: hepatitis serologies 
+negative, tTG-IgA 28, ANCA negative, normal complement levels. 
+Improved during hospitalization. He was subsequently 
+transitioned to CMO per his request and no further lab 
+monitoring was done.
+ 
+
+ 
+#LEUKOCYTOSIS
+ 
+Presented with leukocytois with neutrophilic predominance, no 
+specific localizing symptoms. Received one dose of Vanc/Zosyn at 
+OSH. As noted elsewhere, intermittently on antibiotics for SBP 
+prophylaxis or HAP coverage, stopped in accordance with GOC as 
+above.
+ 
+
+ 
+#DECOMPENSATED ETOH CIRRHOSIS
+ 
+Recently diagnosed with EtOH cirrhosis ___ at ___, 
+repeat hospitalization ___ for sequela of liver disease and 
+EtOH use. Unclear if this was biopsy-proven diagnosis but 
+advanced stage on admission. Admission labs showing Child ___ 
+class C and MELD-Na 29 with decompensated with HE, ascites, c/f 
+HRS. As above, he was subsequently transitioned to CMO per his 
+request and no further lab monitoring was done.
+ 
+
+ 
+# HEPATIC ENCEPHALOPATHY
+ 
+No hx. He was encephalopathic during this admission, which did 
+not resolve with lactulose. RUQ with doppler to eval for portal 
+vein thrombosis negative. Initially continued Lactulose 30mL TID 
+and titrate to ___ BM daily. Given his change in GOC, this was 
+changed to lactulose PRN encephalopathy, and rectal tube was 
+continued for comfort
+ 
+
+ 
+# GIB/VARICES: 
+ 
+Patient noted to be tachycardic with hematemesis and an acute 
+drop in Hgb. The patient was transferred to the MICU for 
+emergent EGD given the concern for esophageal varix bleed. Upon 
+arrival the patient was intubated, sedated and an EGD was 
+performed which demonstrated 4 duodenal ulcers, one of which was 
+injected with epinephrine to tampanode. The patient was 
+monitored with serial Hgb prior to transfer back to the floor. 
+Started on CTX 1g IV Q24H was started for infection prophylaxis 
+following the bleed from his duodenal ulcer, then escalated to 
+HAP coverage, then discontinued when made CMO.
+ 
+
+ 
+# ASCITES: 
+ 
+No history of paras. Diagnostic para on admission without SBP. 
+Initially started on spironolactone 50mg PO daily and Lasix 20 
+mg PO daily, which were subsequently held for hyponatremia. He 
+received LVP for 3L on ___, and LVP for 3.3L on ___, 
+and 50g of albumin 25% was given after each. As above, he was 
+subsequently transitioned to CMO per his request and no further 
+lab monitoring was done.
+ 
+
+ 
+# RENAL/CONCERN FOR HRS 
+ 
+Abrupt rise in Cr not responsive to albumin, c/f HRS. Trialed on 
+midodrine/octreotide but see above regarding ___.
+ 
+
+ 
+# CONTACT: 
+ - Name of health care proxy: ___ 
+ - Relationship: Wife
+ - Phone number: ___ 
+
+ 
+___ on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Acamprosate 666 mg PO TID 
+2. Vitamin D ___ UNIT PO DAILY 
+3. Lactulose 30 mL PO TID 
+4. LORazepam 1 mg PO Q6H:PRN anxiety 
+5. Nicotine Patch 21 mg/day TD DAILY 
+6. Omeprazole 40 mg PO DAILY 
+7. Spironolactone 50 mg PO DAILY 
+8. Thiamine 200 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+==================
+Alcoholic cirrhosis decompensated by hepatic encephalopathy, 
+ascites, and hepatorenal syndrome
+
+Secondary diagnoses:
+====================
+COPD
+Acute hypoxemic respiratory failure
+Upper GI bleed caused by duodenal ulcer
+Portal hypertensive gastropathy
+Alcohol use disorder
+Failure to thrive
+Hyponatremia
+Macrocytic anemia
+Thrombocytopenia
+
+ 
+Discharge Condition:
+Expired.
+
+ 
+Discharge Instructions:
+Patient expired
+ 
+Followup Instructions:
+___

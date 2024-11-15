@@ -1,0 +1,178 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ ___ with HTN, HLD, learning disability who 
+presents with weakness for 3 weeks. Seen at ___ x2 for 
+same issue, told nothing was wrong. Can't walk more than a few 
+minutes, has to sit down because of fatigue. Also reporting back 
+pain from neck all the way down to legs and intermittent 
+suprapubic tenderness. Denies stress/anxiety. No fevers/chills, 
+ROS otherwise negative. Poor appetite for the past few weeks, 
+but reports drinking a lot of fluids and increased frequency of 
+urination. PCP notes family ___ died recently, pt denies 
+stress/anxiety. TSH nl last week at ___.   
+In the ED, initial vitals: 97.2 75 122/55 20 100%. Patient found 
+to have ___ with cr 1.5, b/l 1.0.  
+Most Recent Vitals: 98 82 17 128/77 sat 100 ra    
+On the floor patient looked comfortable.  
+REVIEW OF SYSTEMS: increased frequency of urination, no 
+hematuria, dysuria or incontinence.  No fever, chills, sweats.  
+No N/V/D, constipation or melena.  Dry eyes recently. ROS 
+otherwise negative.
+
+  
+
+ 
+Past Medical History:
+PAST MEDICAL & SURGICAL HISTORY:  
+HTN  
+HLD  
+learning disability  
+anxiety  
+
+HOME MEDICATIONS:  
+hydrochlorothiazide 25mg daily  
+lisinopril 10mg daily  
+simvastatin 20mg daily  
+tums 2 tabs bid  
+colace 100mg daily  
+  
+ALLERGIES: nkda  
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+Admission:
+
+VITALS: 98.4, 130/66, 77, 16, 100RA  
+GENERAL: NAD  
+HEENT: PERRL, EOMI  
+NECK: no carotid bruits, no JVD  
+LUNGS: CTAB though sounds are distant; no wheezes or crackles  
+HEART: RRR, normal S1 S2, no MRG  
+ABDOMEN: Soft, NT, NABS, no organomegaly, no suprapubic 
+tenderness 
+EXTREMITIES: No c/c/e  
+NEUROLOGIC: A+OX3. Strength is ___ at hips, shoulders and elbows 
+bilaterally. Gait is normal.  
+
+Discharge:
+Vitals: T 98.6, HR 80, BP 120/70, RR 18, SaO2 96%RA
+GENERAL: NAD  
+HEENT: PERRL, EOMI  
+NECK: no carotid bruits, no JVD  
+LUNGS: CTAB though sounds are distant; no wheezes or crackles  
+HEART: RRR, normal S1 S2, no MRG  
+ABDOMEN: Soft, NT, NABS, no organomegaly, no suprapubic 
+tenderness 
+EXTREMITIES: No c/c/e  
+NEUROLOGIC: A+OX3. Strength is ___ at hips, shoulders and elbows 
+bilaterally. Gait is normal.  
+
+ 
+Pertinent Results:
+___ 09:10AM BLOOD WBC-6.7 RBC-4.89 Hgb-13.2 Hct-40.2 MCV-82 
+MCH-27.0 MCHC-32.8 RDW-12.8 Plt ___
+___ 04:55PM BLOOD WBC-7.7 RBC-4.72 Hgb-12.6 Hct-37.7 
+MCV-80* MCH-26.6* MCHC-33.3 RDW-12.7 Plt ___
+___ 09:10AM BLOOD Glucose-118* UreaN-18 Creat-0.9 Na-138 
+K-4.2 Cl-104 HCO3-22 AnGap-16
+___ 04:55PM BLOOD Glucose-111* UreaN-29* Creat-1.5* Na-134 
+K-3.9 Cl-96 HCO3-26 AnGap-16
+___ 04:55PM BLOOD CK-MB-1 cTropnT-<0.01
+___ 09:10AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 09:10AM BLOOD Calcium-9.3 Phos-2.4* Mg-2.___ ___ woman with a history of HTN, 
+HLD, learning disability who presents with three weeks of 
+weakness and decreased appetite found to have ___ resolved with 
+fluids and a UTI, discharged on nitrofurantoin.
+  
+Active Issues:
+
+# UTI: Weakness was likely due to UTI, perhaps emotional stress 
+contributed however the patient denies this.  On the morning 
+after admission she felt completely fine and continued to feel 
+fine throughout her admission.  UA on ___ showed 8 WBC's and 
+repeat showed 10 WBC's.  Given history of suprapubic tenderness, 
+increased frequency of urination, and weakness she was started 
+on macrobid BID.
+  
+# Acute kidney injury:  Likely due to UTI and low volume.  Cr 
+improved with fluids from 1.5 to .9
+
+Chronic Issues:
+
+# Hypertension: Held lisinopril and hctz given likely low volume 
+ 
+  
+# Anxiety:  
+Was not anxious during her stay 
+
+Transitional Issues:
+#UTI - finish course of macrobid, f/u with PCP for resolution of 
+symptoms
+
+ 
+Medications on Admission:
+Preadmission medications listed are correct and complete.  
+Information was obtained from PatientFamily/Caregiver.
+1. Simvastatin 20 mg PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Calcium Carbonate 1000 mg PO BID 
+5. Docusate Sodium 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Calcium Carbonate 1000 mg PO BID 
+2. Docusate Sodium 100 mg PO DAILY 
+3. Simvastatin 20 mg PO DAILY 
+4. Nitrofurantoin Monohyd (MacroBID) 100 mg PO Q12H UTI 
+Duration: 7 Days 
+RX *nitrofurantoin monohyd/m-cryst 100 mg 1 capsule(s) by mouth 
+every twelve (12) hours Disp #*12 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+UTI
+ 
+Discharge Condition:
+Improved
+ 
+Discharge Instructions:
+Dear Ms. ___, you were admitted to the hospital for weakness 
+and dehydration.  We gave you fluids and you felt better.  Your 
+kidney function improved as well.
+
+On ___ you were started on nitrofurantoin (Macrobid) - an 
+antibiotic to treat your urinary tract infection.  You should 
+continue taking this twice a day for a total of 7 days even if 
+you feel better.
+ 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,365 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Lisinopril / Benadryl Decongestant / Dilaudid / 
+fluoxetine / Codeine / Motrin / Aleve / gabapentin / NSAIDS 
+(Non-Steroidal Anti-Inflammatory Drug)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiogram ___
+ 
+History of Present Illness:
+___ y/o woman with a h/o congenitally anomalous coronary arteries 
+with absent RCA (last angiogram ___ with LMCA, LAD, LCx free of 
+disease, unable to visualize RCA, later confirmed as absent on 
+coronary CTA), microvascular angina on medical therapy 
+hypertension, moderate mitral regurgitation, h/o EtOH use 
+disorder, asthma, OSA on CPAP, and morbid obesity who presented 
+with sudden onset chest pain.
+
+Patient noted sudden onset left sided chest pain with radiation 
+into the left arm while sitting in a chair. Left hand had mostly 
+tingling sensation in the fingers. These were associated with 
+overall weakness, diaphoresis and mild nausea. There was no 
+dyspnea or pleuritic component. Symptoms lasted for about 30 
+minutes before complete resolution. She has a similar pain a few 
+months ago with an ED visit. Patient notes a recent URI on ___ 
+with sore throat, cough and headache but otherwise has been in 
+her usual state of health. She had been babysitting 
+grandchildren who also had URIs. She had low grade fever over 
+the weekend with URI but otherwise no infectious symptoms. 
+
+Patient follows with Dr. ___ was last seen on ___, 
+at which time microvascular angina well managed on medical 
+regimen of clopidogrel, atorvastation, amlodipine, losartan, 
+ranolozine. She states that she's been taking all her 
+medications. She had been prescribed furosemide 60 mg BID though 
+she takes 80 mg daily to avoid urinating overnight. It is 
+unclear why she is on furosemide.
+
+In the ED, Initial vitals: T 97.1 BP 124/79 HR 62 SaO2 99% on 
+RA. Exam notable for no JVD, distant breath sounds on right, no 
+crackles/wheezing, no edema, all extremities warm and well 
+perfused. Labs notable for Troponin-T 0.15, 0.15; CBC and BMP 
+wnl INR 1.1 D-dimer 366. CXR showed patchy right basilar 
+opacities which could reflect atelectasis with infection not 
+excluded in the correct clinical setting. EKG: heart rates ___, 
+normal sinus rhythm, non-specific T wave flattening. Patient was 
+given ranolazine ER 1000 mg, monteleukast 10 mg, atorvastatin 80 
+mg, heparin infusion.
+ 
+After arrival to the cardiology ward, the patient confirmed the 
+history above. She denied ongoing chest pain, dyspnea, abdominal 
+pain, diarrhea, dysuria. She reported ongoing intermittent 
+headache and scratchy sensation in her throat.
+ 
+Past Medical History:
+-Anomalous coronary arteries with absent RCA (last angiogram 
+___ with LMCA, LAD, LCx free of disease, unable to visualize 
+RCA
+-Provoked DVT (s/p TKR) ___ treated with warfarin
+-Asthma (diagnosed ___ yrs ago; has been admitted to ICU but 
+never intubated)
+-Hypertension
+-obesity
+-OSA
+-tension headaches
+-borderline diabetes mellitus (A1C 5.6 ___
+-stress incontinence
+-GERD
+-depression
+-osteoarthritis
+-endometriosis
+-fibroid uterus
+-S/P right TKR in ___
+-S/P myomectomy
+-S/P lipoma removal
+ 
+Social History:
+___
+Family History:
+- mother with breast cancer at age ___, seizures in her ___
+- no family history of stroke
+- sister had blood clots leading to clots in her lungs, obesity, 
+COPD
+- father died of MI in ___
+ 
+Physical Exam:
+On admission
+GENERAL: Well-developed, well-nourished black woman in NAD. 
+Mood, affect
+appropriate.
+T 98 BP 134/79 HR 77 RR 18 Sat 97% on RA
+HEENT: Strabismus with right eye temporal deviation, PERRL, 
+clear oropharynx
+NECK: Supple, JVP hard to assess given body habitus
+CARDIAC: RRR, normal S1, S2. No murmurs, rubs, gallops.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB--no 
+crackles, wheezes or rhonchi.
+ABDOMEN: Soft, non-tender, not distended; no rebound or guarding
+EXTREMITIES: Trace lower extremity edema bilaterally
+Neuro: A&Ox3, moving all extremities spontaneously
+
+At discharge
+GENERAL: Well-developed, well-nourished, in NAD. Mood, affect 
+appropriate.  
+24 HR Data (last updated ___ @ 438) Temp: 97.4 (Tm 98.2), 
+BP: 109/76 (109-135/63-82), HR: 68 (61-80), RR: 18 (___), O2 
+sat: 92% (92-98), O2 delivery: CPAP
+Wt: 295.41 lb/134.0 kg  
+Fluid Balance (last updated ___ @ 509) 
+  Last 8 hours  Total cumulative 55ml
+    IN: Total 780ml, PO Amt 120ml, IV Amt Infused 660ml
+    OUT:  Total 725ml, Urine Amt 725ml
+  Last 24 hours  Total cumulative 875ml
+    IN: Total 1600ml, PO Amt 940ml, IV Amt Infused 660ml
+    OUT:  Total 725ml, Urine Amt 725ml  
+HEENT: Strabismus with right eye temporal deviation, clear 
+oropharynx
+NECK: Supple, JVP hard to assess given body habitus
+CARDIAC: RRR, normal S1, S2. No murmurs, rubs, gallops.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB--no 
+crackles, wheezes or rhonchi.
+ABDOMEN: Soft, non-tender, not distended, no rebound or guarding
+EXTREMITIES: Trace lower extremity edema bilaterally. Right 
+radial arteriotomy site non-tender, no hematoma
+ 
+Pertinent Results:
+___ 06:11PM BLOOD WBC-6.4 RBC-4.28 Hgb-12.5 Hct-40.1 MCV-94 
+MCH-29.2 MCHC-31.2* RDW-13.9 RDWSD-47.8* Plt ___
+___ 06:11PM BLOOD ___ PTT-25.5 ___
+
+___ 06:11PM BLOOD Glucose-143* UreaN-20 Creat-0.9 Na-141 
+K-4.3 Cl-101 HCO3-30 AnGap-10
+
+___ 06:11PM BLOOD CK(CPK)-1066*
+___ 06:11PM BLOOD CK-MB-16* MB Indx-1.5 cTropnT-0.15* 
+proBNP-24
+___ 11:58PM BLOOD cTropnT-0.15*
+
+___ 07:48AM BLOOD TSH-1.3
+
+ECG ___ 17:05:11
+Normal sinus rhythm. Nonspecific ST-T wave abnormalities. 
+Compared with previous ECG, no significant change
+
+CXR ___
+Heart size is moderately enlarged, as seen previously. The 
+mediastinal and hilar contours are normal. The pulmonary 
+vasculature is normal. Patchy opacities are seen in the right 
+lung base. No pleural effusion or pneumothorax is seen. There 
+are no acute osseous abnormalities. Mild degenerative changes 
+are seen in the thoracic spine.
+IMPRESSION: Patchy right basilar opacities could reflect 
+atelectasis with infection not excluded in the correct clinical 
+setting. 
+
+Coronary angiogram ___
+The coronary circulation is left dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. The Diagonal, arising from the 
+proximal segment, is a medium caliber vessel.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel. The Obtuse Marginal, arising from the proximal 
+segment, is a medium caliber vessel. The Atrioventricular 
+Circumflex, arising from the mid segment, is a medium caliber 
+vessel. The Left Posterior Descending Artery, arising from the 
+distal segment, is a medium caliber vessel.
+RCA: There is a congenitally absent Right Coronary Artery. There 
+RCA territory is supplied by vessels off the LAD and the LCx.
+Findings
+ No angiographically apparent coronary artery disease.
+Recommendations
+ Maximize medical therapy
+ TR band management per routine.
+
+Echocardiogram ___
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. The right atrial pressure could not be 
+estimated. There is mild symmetric left ventricular hypertrophy 
+with a normal cavity size. There is normal regional and global 
+left ventricular systolic function. Quantitative 3D volumetric 
+left ventricular ejection fraction is 64 % (normal 54-73%). 
+There is no resting left ventricular outflow tract gradient. No 
+ventricular septal defect is seen. Diastolic parameters are 
+indeterminate. Mildly dilated right ventricular cavity with 
+normal free wall motion. Tricuspid annular plane systolic 
+excursion (TAPSE) is normal. The aortic sinus diameter is normal 
+for gender with normal ascending aorta diameter for gender. The 
+aortic arch diameter is normal with a normal descending aorta 
+diameter. There is no evidence for an aortic arch coarctation. 
+The aortic valve leaflets (3) are mildly thickened. There is no 
+aortic valve stenosis. There is trace aortic regurgitation. The 
+mitral valve leaflets are mildly thickened with no mitral valve 
+prolapse. There is an eccentric, inferolateral directed jet of 
+mild to moderate [___] mitral regurgitation. Due to acoustic 
+shadowing, the severity of mitral regurgitation could be 
+UNDERestimated. Due to the Coanda effect, the severity of mitral 
+regurgitation could be UNDERestimated. The pulmonic valve 
+leaflets are normal. There is significant pulmonic 
+regurgitation. The tricuspid valve leaflets appear structurally 
+normal. There is physiologic tricuspid regurgitation. The 
+estimated pulmonary artery systolic pressure is borderline 
+elevated. There is a trivial pericardial effusion.
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with normal cavity size and 
+regional/global biventricular systolic function. Mild mitral 
+regurgitation. Mild tricuspid regurgitation. Borderline elevated 
+pulmonary artery systolic pressure.
+
+DISCHARGE LABS
+___ 07:49AM BLOOD WBC-5.6 RBC-3.81* Hgb-11.0* Hct-36.1 
+MCV-95 MCH-28.9 MCHC-30.5* RDW-14.1 RDWSD-48.6* Plt ___
+___ 07:49AM BLOOD ___ PTT-26.0 ___
+___ 07:49AM BLOOD Glucose-96 UreaN-15 Creat-0.7 Na-142 
+K-4.3 Cl-104 HCO3-28 AnGap-10
+___ 07:49AM BLOOD Calcium-9.0 Phos-4.4 Mg-2.___ y/o woman with H/O congenitally anomalous coronary arteries 
+with absent RCA (not seen on coronary angiography, confirmed to 
+be absent on coronary CTA), microvascular angina on medical 
+therapy, hypertension, mitral regurgitation (previously 
+moderate, now mild), h/o EtOH use disorder, asthma, OSA on CPAP, 
+and morbid obesity who presented with sudden onset chest pain 
+and troponin-T elevation concerning for NSTEMI. The patient 
+underwent coronary angiography showing no flow-limiting 
+epicardial coronary disease. Her chest pain was thought to be 
+due to MI with nonobstructive coronary arteries and she was 
+managed on medical therapy.
+
+Active Issues:
+# NSTEMI, h/o microvascular dysfunction, Anomalous coronary 
+arteries (no RCA): Patient had chest pain at rest with radiation 
+to the left arm, nausea, and diaphoresis concerning for NSTEMI 
+with elevated troponin-T to 0.15 and eGFR >75 mL/min/1.73m2. On 
+admission, she was chest pain free. Coronary angiogram showed no 
+flow-limiting epciardial coronary artery stenosis. Her chest 
+pain was attributed to microvascular dysfunction/MI due to 
+nonobstructive coronary disease (MINOCA). Metoprolol was added 
+to her medication regimen and she was continued on clopidogrel, 
+atorvastatin, ranolazine and amlodipine. 
+
+Chronic Issues:
+# Asthma : Continued Fluticasone/Salmeterol 500/50 BID, 
+singulair and albuterol 
+
+# OSA: Continued CPAP while inpatient.
+
+# Hypertension: Continued on home losartan, amlodipine; 
+metoprolol added for post-MI secondary prevention as above.
+
+# Hyperlipidemia: Continued home atorvastatin 80 mg PO QPM
+
+# GERD: Continued ranitidine 150 mg PO BID, changed omeprazole 
+to pantoprazole given FDA warning about interaction between 
+omeprazole and clopidogrel
+
+# Depression: Continued on home duloxetine. 
+
+# CODE: Full presumed 
+# CONTACT: HCP: ___ ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 2.5 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. Clopidogrel 75 mg PO DAILY 
+4. DULoxetine 120 mg PO DAILY 
+5. Furosemide 60 mg PO BID 
+6. Losartan Potassium 100 mg PO DAILY 
+7. Montelukast 10 mg PO DAILY 
+8. Omeprazole 40 mg PO DAILY 
+9. Ranitidine 150 mg PO DAILY:PRN Reflux 
+10. Ranolazine ER 1000 mg PO BID 
+11. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea 
+12. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH DAILY 
+13. Naltrexone 50 mg PO DAILY 
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+2.  Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea  
+4.  amLODIPine 2.5 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Clopidogrel 75 mg PO DAILY  
+7.  DULoxetine 120 mg PO DAILY  
+8.  Fluticasone-Salmeterol Diskus (500/50)  1 INH IH DAILY  
+9.  Furosemide 60 mg PO BID  
+10.  Losartan Potassium 100 mg PO DAILY  
+11.  Montelukast 10 mg PO DAILY  
+12.  Naltrexone 50 mg PO DAILY  
+13.  Ranitidine 150 mg PO DAILY:PRN Reflux  
+14.  Ranolazine ER 1000 mg PO BID
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Non-ST segment elevation myocardial infarction with 
+non-obstructive coronary arteries
+-Congenitally anomalous coronary artery with absent right 
+coronary artery
+-Coronary microvascular dysfunction
+-Chronic myopathy with elevated creatinine kinase and normal 
+thyroid stimulating hormone levels
+-Asthma
+-Morbid obesity
+-Obstructive sleep apnea
+-Hypertension
+-Hyperlipidemia
+-Gastroesophageal reflux disease
+-Depression
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure caring for you during your admission to ___. 
+Below you will find information regarding your stay.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?  
+- You were admitted because you are having chest pain.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?  
+- You had a cardiac cath that showed no narrowings of the main 
+arteries in your heart.
+- You were started on a medication called metoprolol to decrease 
+the work of your heart.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+- Please stick to a low salt diet and monitor your fluid intake. 
+ 
+- Take your medications as prescribed. You will be taking two 
+new medications, metoprolol and pantoprazole. 
+- A good app to use to search for discount prescriptions is 
+GoodRx. It's an app you can use to find where you can get your 
+prescriptions the cheapest or find coupons.   
+- Keep your follow up appointments with your team of doctors  
+
+Thank ___ for letting us be a part of your care!  
+
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

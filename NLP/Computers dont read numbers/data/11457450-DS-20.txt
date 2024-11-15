@@ -1,0 +1,301 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Neurontin / bupropion / Demerol / NSAIDS (Non-Steroidal 
+Anti-Inflammatory Drug)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+___ Cardioversion of atrial tachycardia
+
+ 
+History of Present Illness:
+ Mr ___ is a ___ year old man with a PMH significant for 
+dCHF (LVEF 60%), CAD s/p MI, and COPD who is transferred for 
+management of shortness of breath.  
+ Mr ___ was in his USOH until 2 days prior when he developed 
+shortness of breath acutely. He had ongoing shortness of breath, 
+unchanged before he decided to go to the hospital. Prior to 
+this, he had no leg swelling, orthopnea or PND. Never had chest 
+pain during any episodes. He presented to an outpatient office 
+where he was observed to be dyspneic and he was tachy by EKG. He 
+was referred in to the BI-M ED.  
+ There, his oxygenation was 89 - 91%, he was tachypneic, a 
+D-dimer was  
+ negative and an NTBNP was 1200 (baseline BNP 250 which equals  
+ about 1000 in NTBNP). INR was 7.1 and was given vitamin K. 
+Trops there negative.  
+ 
+ Per patient, his dry weight is 230lb and his weight has not 
+significantly changed in the past week. His ___ edema is minor, 
+he says his legs are "skinny."  
+ ED COURSE:  
+ - Initial vital signs: 10 98.2 115 115/76 18 98  
+ - Exam was notable for volume overload  
+ - Labs were notable for: BNP 1573, INR 6.0, BUN/CR 54/1.6  
+ - No imaging was performed  
+ - The patient was given: home torsemide 40mg with furosemide 
+20mg and methadone 60mg  
+ - Consults: None  
+ - Vitals prior to transfer were: 112 131/86 16 95% RA  
+ Upon arrival to the floor, Mr ___ is tired, but answers 
+questions appropriately. He is intermittently SOB when his 
+oxygen is off, but when on he feels well. No chest pain 
+currently. Urinating normally.  
+ 
+Past Medical History:
+ COPD  
+ Generalized anxiety disorder  
+ Neuropthy  
+ Chronic Pain Syndrome  
+ B12 Deficiency  
+ Venous insufficiency  
+ Tobacco Dependence  
+ Spinal Stenosis  
+ Insomnia  
+ BPH (benign prostatic hypertrophy)  
+ Shoulder arthritis  
+ CMC DJD (carpometacarpal degenerative joint disease),  
+ ___ cyst, ruptured  
+ Folate deficiency  
+ Pulmonary nodules  
+ QT prolongation  
+ Heart failure, diastolic, acute on chronic  
+ Atrial fibrillation  
+
+ 
+Social History:
+___
+Family History:
+No significant family history  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VITALS: 97.5 149/100 96-119 22 97/RA  
+GENERAL: Sleepy, but arousable. Pleasant, well-appearing, in NAD 
+ 
+HEENT: NCAT no scleral icterus, PERRLA, EOMI, OP clear  
+NECK: supple, FROM no LAD JVP ~8-9cm  
+CARDIAC: tachy but regular, normal S1/S2, no murmurs rubs or 
+gallops  
+PULMONARY: Rales in b/l bases no wheezes or rhonchi  
+ABDOMEN: NABS soft, non-tender, non-distended, no organomegaly  
+EXTREMITIES: WWP, no cyanosis, clubbing. 1+ edema to mid shin  
+SKIN: no rashes/lesions  
+NEUROLOGIC: A&Ox3, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout. Gait assessment deferred   
+PSYCHIATRIC: Listens & responds to questions appropriately, 
+pleasant  
+
+DISCHARGE PHYSICAL EXAM:
+VS: T=97.7 BP= 125/73 HR= 80s RR= 18 O2 sat=95RA
+GENERAL: WDWN obese male in NAD. Oriented x3. Mood, affect 
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.
+NECK: Supple with JVP below clavicle at 60 degrees.
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. Tachycardic, but regular, normal S1, S2. No m/r/g. No 
+thrills, lifts. No S3 or S4.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.
+ABDOMEN: Soft, protuberant, NTND. No HSM or tenderness. Abd 
+aorta not enlarged by palpation. No abdominal bruits.
+EXTREMITIES: No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Distal pulses intact and symmetric
+
+ 
+Pertinent Results:
+LABS:
+Admission:
+___ 07:38PM BLOOD WBC-7.7 RBC-4.61 Hgb-15.2 Hct-46.5 
+MCV-101* MCH-33.0* MCHC-32.7 RDW-16.4* RDWSD-60.7* Plt ___
+___ 07:38PM BLOOD Neuts-64.8 ___ Monos-7.7 Eos-4.8 
+Baso-0.4 Im ___ AbsNeut-4.96 AbsLymp-1.65 AbsMono-0.59 
+AbsEos-0.37 AbsBaso-0.03
+___ 08:16PM BLOOD ___ PTT-56.7* ___
+___ 07:38PM BLOOD Glucose-129* UreaN-54* Creat-1.6* Na-138 
+K-3.9 Cl-92* HCO3-32 AnGap-18
+___ 05:07AM BLOOD ALT-24 AST-34 LD(LDH)-301* CK(CPK)-53 
+AlkPhos-135* TotBili-1.6*
+
+Cardiac enzymes:
+___ 07:38PM BLOOD cTropnT-<0.01 proBNP-1573*
+___ 05:07AM BLOOD CK-MB-2 cTropnT-<0.01
+
+INR Trend:
+___ 08:16PM BLOOD ___ PTT-56.7* ___
+___ 05:07AM BLOOD ___ PTT-50.9* ___
+___ 04:30AM BLOOD ___ PTT-44.2* ___
+
+Discharge:
+___ 04:30AM BLOOD WBC-6.9 RBC-4.31* Hgb-14.2 Hct-44.1 
+MCV-102* MCH-32.9* MCHC-32.2 RDW-16.6* RDWSD-62.4* Plt ___
+___ 04:30AM BLOOD Glucose-108* UreaN-41* Creat-1.6* Na-138 
+K-3.9 Cl-91* HCO3-34* AnGap-17
+___ 04:30AM BLOOD Calcium-9.4 Phos-4.0 Mg-2.1
+
+STUDIES:
+___ EKG:
+Supraventricular tachycardia with extensive artifact. Probable 
+atrial flutter with 2:1 conduction. No previous tracing 
+available for comparison. 
+
+___ TEE:
+Conclusions   
+ No spontaneous echo contrast or thrombus is seen in the body of 
+the left atrium/left atrial appendage or the body of the right 
+atrium/right atrial appendage. No atrial septal defect is seen 
+by 2D or color Doppler. Overall left ventricular systolic 
+function is mildly depressed (LVEF= 45-50 %). There are simple 
+atheroma in the aortic arch and the descending thoracic aorta. 
+The right ventricle has depressed free wall contractility. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion. No masses or vegetations are seen on the 
+aortic valve. No aortic regurgitation is seen. The mitral valve 
+leaflets are structurally normal. No mass or vegetation is seen 
+on the mitral valve. No mitral regurgitation is seen. There is a 
+trivial/physiologic pericardial effusion. 
+
+ IMPRESSION: No thrombi or spontaneous echo contrast in the 
+atria or atrial appendages. Depressed biventricular systolic 
+function. No significant valvular disease
+ 
+
+___ Chest CT w/o contrast:
+IMPRESSION:  
+Pre-existing pulmonary emphysema and pulmonary nodules are 
+stable.  No 
+lymphadenopathy.  No pleural effusions.  No evidence of acute 
+lung 
+
+___ EKG
+Sinus rhythm. Non-specific repolarization abnormalities. Cannot 
+exclude 
+inferior myocardial infarction of indeterminate age. Compared to 
+the previous tracing of ___ there is no diagnostic change. 
+
+ 
+Brief Hospital Course:
+Mr ___ is a ___ year old man with a PMH significant for 
+___, CAD s/p MI, atrial tachycardia, and COPD who is 
+transferred for management of shortness of breath. 
+
+#) Atrial tachycardia: Mr. ___ presented with dyspnea despite 
+being at his dry weight and with no sings of volume overload on 
+exam. CT chest showed stable pre-existing pulmonary emphysema 
+and pulmonary nodules, with no acute lung process. His dyspnea 
+was thought to be due to worsening of baseline lung disease with 
+superimposed atrial tachycardia. TEE showed no atrial thrombi, 
+depressed biventricular systolic function (EF 40%), no 
+significant valvular disease. He received cardioversion of 
+atrial tachycardia and remained in sinus rhythm thereafter, and 
+comfortable on room air. Cardiac biomarkers unremarkable. 
+
+#)Coagulopathy: Pt initially presented with supratherapeutic 
+INR. This was thought to be ___ poor nutrition (pt reports not 
+eating very much) and not taking his medicatins appropriately 
+(pt reports taking his Coumadin BID). He had already received 
+vitamin K prior to transfer. Warfarin was resumed at discharge. 
+
+CHRONIC ISSUES  
+ # HTN: Was normotensive on home meds, Please consider starting 
+ACE if elevated
+ # COPD: No signs of active exacerbation while admitted, 
+continued home inhalers   
+ # Chronic Pain Syndrome: Continued home methadone and dilaudid  
+
+ # Tobacco Dependence: Nicotine patch  
+ # Insomnia: continued home diazepam PRN  
+
+TRANSITIONAL ISSUES:
+--------------------
+- He will need continued close monitoring of INR in setting of 
+poor understanding of medication regimen and supratherapeutic 
+INR.
+- Torsemide dose was adjusted to 10mg daily and may need further 
+adjustment following discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+2. Methadone 60 mg PO TID 
+3. HYDROmorphone (Dilaudid) 8 mg PO TID 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Torsemide 40 mg PO BID 
+6. Warfarin 2.5 mg PO DAILY16 
+7. Diazepam 10 mg PO QHS:PRN Insomnia 
+8. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+9. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID 
+10. Ipratropium Bromide MDI 2 PUFF IH BID 
+11. Donnatal 5 mL PO DAILY:PRN GI Upset 
+12. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+
+ 
+Discharge Medications:
+1. Torsemide 10 mg PO DAILY 
+RX *torsemide 10 mg 1 tablet(s) by mouth Once a day Disp #*30 
+Tablet Refills:*0
+2. Metoprolol Succinate XL 50 mg PO DAILY 
+3. Methadone 60 mg PO TID 
+4. HYDROmorphone (Dilaudid) 8 mg PO TID 
+5. Diazepam 10 mg PO QHS:PRN Insomnia 
+6. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID 
+7. Warfarin 2.5 mg PO DAILY16 
+8. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+9. Donnatal 5 mL PO DAILY:PRN GI Upset 
+10. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+11. Ipratropium Bromide MDI 2 PUFF IH BID 
+12. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Atrial tachycardia
+
+SECONDARY DIAGNOSIS:
+Supratherapeutic INR
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure being part of your care at ___. You were 
+admitted to the hospital due to shortness of breath. You were 
+found to be in an abnormal heart rhythm. You had an ablation 
+procedure which successfully restored your heart to a normal 
+rhythm. You also had a lung scan which showed chronic lung 
+disease. 
+
+After discharge, please follow up with your doctors as described 
+below.
+
+We wish you the best.
+Your ___ care team
+ 
+Followup Instructions:
+___

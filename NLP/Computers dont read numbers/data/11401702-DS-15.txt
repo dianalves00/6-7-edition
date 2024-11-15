@@ -1,0 +1,180 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+___ - I& D Thumb right at bedside 
+___ - I& D THUMB RIGHT in OR 
+attach
+ 
+Pertinent Results:
+ADMISSION
+___ 06:15AM BLOOD WBC-10.6* RBC-3.91 Hgb-11.2 Hct-34.5 
+MCV-88 MCH-28.6 MCHC-32.5 RDW-14.7 RDWSD-47.7* Plt ___
+___ 06:15AM BLOOD Glucose-87 UreaN-7 Creat-0.4 Na-143 
+K-3.0* Cl-101 HCO3-26 AnGap-16
+___ 08:44AM BLOOD ALT-14 AST-25 AlkPhos-90 TotBili-0.5
+
+CT UPPER EXTREMITY MTS 
+Small abscesses circumferentially surrounding the right proximal 
+phalanx with extension to the first IP joint concerning for 
+septic joint.  No evidence of bone erosion or osteomyelitis. If 
+clinical indicated, further evaluation with MRI with contrast 
+can be obtained for further assessment for osteomyelitis.   
+RECOMMENDATION(S):  If clinical indicated, further evaluation 
+with MRI with contrast can be obtained for further assessment 
+for osteomyelitis. 
+
+WORKUP 
+___ 06:15AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG HAV Ab-NEG 
+IgM HBc-NEG IgM HAV-NEG
+
+DISCHARGE
+___ 05:00AM BLOOD WBC-7.7 RBC-3.82* Hgb-10.8* Hct-34.4 
+MCV-90 MCH-28.3 MCHC-31.4* RDW-14.5 RDWSD-47.5* Plt ___
+___ 04:55AM BLOOD Glucose-85 UreaN-13 Creat-0.5 Na-144 
+K-4.8 Cl-107 HCO___ AnGap-13
+ 
+Brief Hospital Course:
+This is a ___ year old female with history of alcohol abuse, 
+recent trauma to right thumb with subsequent progressive thumb 
+pain, also recent report of syncopal episode in setting of 
+alcohol use, admitted ___ with R right thumb abscess and 
+septic joint requiring bedside and OR drainages
+
+# R thumb Septic joint 
+# R thumb abscess
+# R hand soft tissue infection 
+Patient presented with worsening R hand pain and swelling in 
+setting of recent trauma (reported shutting finger in car door). 
+ Reported intranasal cocaine use, but denied recent injection 
+drug use.  Initially underwent bedside drainage prior to 
+admission to medicine.  Patient started on vancomycin + 
+cefepime.  Hospital course complicated by worsening pain and 
+swelling, prompting OR drainage and washout that showed 
+persistent purulence and communication of infection to joint 
+space.  Wound cultures subsequently grew Strep Group C and MRSA. 
+ Patient seen by ID and therapy was narrowed to vancomycin.   
+Pain initially controlled with oxycodone, which was weaned and 
+discontinued prior to discharge--discharged with prescriptions 
+for NSAID and Tylenol.  Discharged with instructions for TID 
+soaks with hibiclens, dressing with adaptic and gauze.  Has 
+follow-up scheduled with Dr. ___ hand surgery in ___ weeks.  
+On day of discharge, her vanco trough was 12.1--per discussion 
+with ID, she was recommended for repeat trough on ___, to be 
+faxed to OPAT, with plan for subsequent decision re: dose 
+adjustment at that time. Plan for antibiotics to continue until 
+OPAT visit, at which point, decision will be made about timing 
+of transition to oral agent to complete remainder of extended 
+course for septic joint.  
+
+# Syncope
+Patient presented reported recent syncopal episode.  Following 
+admission she the event as in the setting of intoxication and 
+immediately following standing up after micturition.  Telemetry 
+without concerning events.  Orthostatics (performed after IV 
+fluid resuscitation) were negative.  Thought to have had 
+orthostasis in setting of micturition and intoxication.  Patient 
+ambulated without issue during remainder of hospital stay. 
+
+# Alcohol abuse
+Reported significant recent drinking.  Declined counseling 
+during this admission.  Received IV thiamine on admission.  Was 
+monitored on CIWA without signs of withdrawal.  Continued on 
+thiamine + folate at discharge 
+
+# Cocaine abuse 
+# Tobacco dependence 
+Admission screen positive for cocaine metabolites and 
+opiates---for the latter she had already received IV opiate pain 
+control in ED, and the patient denied using, so it was felt to 
+not be representative of outpatient opiate use.  Patient 
+admitted to  intranasal cocaine use, but declined counseling.  
+Counseled re: tobacco cessation. 
+
+Transitional issues: 
+- Provided with wound care supplies and instructions
+- Discharged on IV vancomycin, to continue until otherwise 
+instructed by ___ clinic (appointment pending at time of 
+discharge), with plan to eventually change to oral antibiotic to 
+complete total course of septic joint
+- ALL LAB RESULTS SHOULD BE SENT TO: ATTN: ___ CLINIC - 
+FAX: ___
+VANCOMYCIN: 
+WEEKLY: CBC with differential, BUN, Cr, Vancomycin trough, CRP
+PLEASE CHECK FIRST TROUGH ON ___
+
+> 30 minutes spent on discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*40 Tablet Refills:*0 
+2.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth once a day Disp #*14 
+Tablet Refills:*0 
+3.  Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*40 Tablet Refills:*0 
+4.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth once a 
+day Disp #*14 Tablet Refills:*0 
+5.  Vancomycin 1500 mg IV Q 12H Duration: 18 Days 
+RX *vancomycin 1.5 gram 1500 mg IV every twelve (12) hours Disp 
+#*36 Vial Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# R hand septic joint 
+# R thumb abscess
+# Soft tissue infection R hand
+# Alcohol abuse
+# Cocaine abuse
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___: 
+
+It was a pleasure caring for you at ___.  You were admitted 
+with a hand infection that had spread to a joint.  You were seen 
+by hand surgeons and underwent surgery.  You were seen by 
+infection specialists and treated with antibiotics.  You 
+improved and are now ready for discharge home on IV antibiotics.
+
+It will be important for you to continue to take care of your 
+wound. 
+
+It will be important for you to follow-up with your primary care 
+doctor, and the infection doctors ___ will contact you with an 
+appointment). 
+
+ 
+Followup Instructions:
+___

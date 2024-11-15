@@ -1,0 +1,577 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Omeprazole / lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypoxia
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ y/o ___ female with pAF (not on AC), ___ with 
+daily Lasix use, ___, HTN, HL, OA, spinal stenosis with chronic 
+low back pain, uterine cancer (s/p TAH-BSO ___ with lung 
+oligometastasis s/p radiation, chronic home O2 2L requirement, 
+who presents after a fall with headstrike, now being admitted 
+for hypoxia and hypercarbia on VBG.
+
+Today, the patient was getting up to use walker in the bathroom 
+and felt as though she was spinning. She has a history of BPPV. 
+She fell onto her left side and the back left side of her head 
+hit the ground. No LOC. No bleeding or laceration. She takes 
+aspirin 81 mg daily but no other blood thinners. Unfortunately 
+it is her ___ fall this year. She uses a walker at baseline with 
+___ 2x/week. 
+
+- In ED initial VS: 97.6 64 170/78 20 
+- Exam: Notable for ~3 cm diameter small circular bruise but no 
+skin breakage or bleeding, strength exam generally preserved 
+- Labs notable for normal WBC, Plt 118, H/H ___, Na 146, Cr 
+1.0, VBG 7.44/70 with bicarb 39, lactate 1.4. 
+- She underwent CT head noncon and CT C-spine noncon, which did 
+not show acute fracture or intracranial process. She had right 
+ankle film, which was concerning for a nondisplaced fx of distal 
+fifth metatarsal but subsequent dedicated right foot film was 
+negative for acute fracture. 
+- Patient was given: PO Acetaminophen 1000 mg, IH Albuterol 
+0.083% Neb Soln 1 NEB, IH Ipratropium Bromide Neb 1 NEB, PO/NG 
+Diltiazem 120 mg, PO/NG Gabapentin 600 mg 
+
+She was placed in observation for ___ management eval in AM. 
+However, at 6 AM patient was noted to be hypoxic to the ___ with 
+good pleth on nasal cannula without response at 6 L. She was 
+mentating well throughout this time. She was placed on facemask 
+with improvement to ___. Given acute change in respiratory 
+status, she underwent CTA, which no evidence of PE, but did show 
+a masslike consolidation with heterogeneous enhancement 
+surrounding fiducial 
+marker in the left lower lobe, consistent with known metastatic 
+disease. 
+
+Notably, she had a prior hospitalization in ___ where she 
+required MICU transfer for hypercarbia and increased somnolence, 
+which improved with BiPAP and treatment of PNA. 
+
+On arrival to the MICU, patient was breathing comfortably on 2L 
+NC. She denied any pain. Her family was at bedside and felt that 
+over the last month, she has been intermittently confused. She 
+also had been having some difficulty sleeping and having vivid 
+dreams. Sometimes she will be forgetful with events but never 
+confused to the point of not recognizing her family members. In 
+the ER, she was briefly placed on BiPAP which was removed when 
+she came to the MICU.
+
+REVIEW OF SYSTEMS:  
+(+) Per HPI  
+(-) Denies fever, chills. Denies headache
+ 
+Past Medical History:
+pAF previously on Coumadin
+dCHF
+HTN
+HLD
+___
+Prior GIB on Coumadin
+Arthritis
+Spinal stenosis
+Uterine cancer s/p TAH/BSO with metastasis in left lung treated 
+with radiation completed ___.
+Home O2 since an admission for pneumonia ___ year ago
+Knee replacements (left x1, right x3, most recently in ___
+cholecystectomy ___
+TAH-BSO ___, ___)
+hernia repair
+surgery for stress incontinence (? sling)
+cataract surgeries
+ 
+Social History:
+___
+Family History:
+Brother with DM, ___ on HD  
+Sister with breast and colon ca  
+Brother with CAD s/p CABG  
+Father with CVA
+ 
+Physical Exam:
+==================
+ADMISSION EXAM
+==================
+VITALS:  98.2 141/68 81 22 93% 2L
+GENERAL: ___, pleasant, no acute distress 
+HEENT: Small 3cm circular bruise over left temporal area on 
+head, bruise behind left ear extending down neck but no fluid 
+collection, nontender to palpation, sclera anicteric, MMM, 
+oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Diminished break sounds at bases, crackles left lung 
+base, no wheezes, rhonchi 
+CV: Regular rate, irregular rhythm, normal S1 S2, no murmurs, 
+rubs, gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding 
+EXT: Warm, well perfused, no clubbing, cyanosis or edema  
+NEURO: Moving all extremities, following basic commands, CN 
+II-XII nonfocal, strength preserved throughout
+
+==================
+DISCHARGE EXAM
+==================
+Vitals: T:97.8, BP: 134/79, RR: 20, O2: 93% RA
+General: No apparent distress, pleasant, AXOX2-3
+HEENT: Small 3cm circular bruise over left temporal area on 
+head, bruise behind left ear extending down neck but no fluid 
+collection, nontender to palpation, sclera anicteric, MMM, 
+oropharynx clear 
+Eyes: PERRL, sclera anicteric
+Pharynx: no erythema, no exudate 
+Lungs: CTAB
+Abdomen: soft, NT, NABS, ND
+___: no edema, +2 DP pulses
+Neuro: CN II-XII grossly intact, ___ strength in ___
+Skin: hematoma noted over neck 
+ 
+Pertinent Results:
+=============
+ADMIT LABS
+=============
+___ 06:35PM BLOOD WBC-5.4 RBC-3.31* Hgb-10.9* Hct-35.7 
+MCV-108* MCH-32.9* MCHC-30.5* RDW-12.5 RDWSD-49.8* Plt ___
+___ 06:35PM BLOOD Neuts-77.0* Lymphs-11.2* Monos-9.7 
+Eos-1.5 Baso-0.2 Im ___ AbsNeut-4.12# AbsLymp-0.60* 
+AbsMono-0.52 AbsEos-0.08 AbsBaso-0.01
+___ 06:35PM BLOOD Glucose-96 UreaN-24* Creat-0.8 Na-145 
+K-4.2 Cl-93* HCO3-42* AnGap-14
+___ 08:53AM BLOOD ALT-8 AST-17 AlkPhos-80 TotBili-0.4
+___ 06:35PM BLOOD CK-MB-3 cTropnT-0.08*
+___ 08:53AM BLOOD Calcium-10.0 Phos-2.4* Mg-1.7
+
+=============
+MICROBIOLOGY
+=============
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+=============
+IMAGING 
+=============
+CT C-SPINE W/O CONTRAST ___
+1. No acute fracture or dislocation.  Mild multilevel 
+degenerative changes. 
+2. Scattered areas of lucency throughout the bones without 
+cortical destruction may relate to osteopenia.  Correlate with 
+any history of malignancy. 
+
+CT HEAD W/O CONTRAST ___
+Suboptimal evaluation of the posterior fossa due to artifact 
+from patient motion.  Otherwise, no acute intracranial process 
+seen. 
+  
+Posterior left parietal/temporal subgaleal hematoma without 
+underlying acute fracture. 
+
+ANKLE (AP, MORTISE & LAT) RIGHT ___
+Concern for nondisplaced fracture of the distal fifth 
+metatarsal, seen on the lateral view.  Consider dedicated 
+imaging of the right foot for further assessment. 
+  
+No acute fracture or dislocation at the right ankle. 
+
+FOOT AP,LAT & OBL RIGHT ___
+No acute fracture or dislocation.  Degenerative changes, most 
+severe at the first MTP joint where there is large dorsal 
+spurring. 
+
+CXR ___
+The lung volumes are markedly low.  Left base opacity is seen 
+which could be due worsened chronic atelectasis, however, 
+pneumonia, aspiration, underlying pleural effusion or pulmonary 
+lesion is not excluded.  Right base atelectasis is stable. The 
+cardiac and mediastinal silhouettes are grossly stable. 
+
+CTA CHEST ___
+1.  No evidence of pulmonary embolism or aortic abnormality. 
+2.  Masslike consolidation with heterogeneous enhancement 
+surrounding fiducial marker in the left lower lobe.  Findings 
+are similar to the prior examination compatible with known 
+metastatic disease. 
+3.  Small left pleural effusion and bibasilar atelectasis. 
+4.  Mildly enlarged main and right pulmonary arteries, 
+compatible with underlying chronic pulmonary hypertension. 
+
+CXR ___
+Final Report 
+EXAMINATION:  CHEST (PORTABLE AP) 
+  
+INDICATION:  ___ year old woman with resp distress// eval 
+interval change      
+eval interval change 
+  
+IMPRESSION:  
+  
+Compared to chest radiographs since ___ most recently 
+___ 
+___. 
+  
+Lung volumes remain exceedingly low.  Previous pulmonary edema 
+has improved.  Residual opacification at the lung bases could be 
+atelectasis and edema alone but pneumonia is certainly not 
+excluded.  Small pleural effusions are likely.  Heart is not 
+enlarged.  No pneumothorax. 
+
+Final Report ___
+EXAMINATION:  CT HEAD W/O CONTRAST. 
+  
+INDICATION:  ___ woman with paroxysmal atrial 
+fibrillation, congestive heart failure, uterine cancer with 
+recent head strike and altered mental status.  Evaluate for 
+enlarging hematoma 
+  
+TECHNIQUE:  Contiguous axial images of the brain were obtained 
+without 
+contrast. 
+  
+DOSE:  Acquisition sequence: 
+ 1) Stationary Acquisition 5.0 s, 18.8 cm; CTDIvol = 50.0 mGy 
+(Head) DLP = 
+940.0 mGy-cm. Total DLP (Head) = 940 mGy-cm. 
+  
+COMPARISON:  CT head without contrast from ___. 
+  
+FINDINGS:  
+  
+There is no evidence of acute vascular territorial 
+infarction,hemorrhage,edema, or mass.  There is prominence of 
+the ventricles and sulci suggestive of involutional changes.  
+The previously noted left parietal subgaleal hematoma is 
+decreased in size (series 4:image 26). 
+  
+There is no evidence of fracture.  The visualized portion of the 
+paranasal 
+sinuses, mastoid air cells, and middle ear cavities are clear.  
+Patient is 
+status post bilateral lens replacement. 
+  
+IMPRESSION: 
+  
+1. No acute intracranial abnormality. 
+2. Interval evolution and decrease in size of left parietal 
+subgaleal 
+hematoma. 
+  
+___
+Final Report 
+EXAMINATION:  BILAT LOWER EXT VEINS 
+  
+INDICATION:  ___ year old woman with history of paroxysmal atrial 
+fibrillation, uterine cancer, lung oligometastasis status post 
+radiation on chronic home oxygen on 2L requirement.  Evaluate 
+for deep vein thrombosis. 
+  
+TECHNIQUE:  Grey scale, color, and spectral Doppler evaluation 
+was performed on the bilateral lower extremity veins. 
+  
+COMPARISON:  None. 
+  
+FINDINGS:  
+  
+There is normal compressibility, flow, and augmentation of the 
+bilateral 
+common femoral, femoral, and popliteal veins.  The bilateral 
+posterior tibial and peroneal calf veins are not well seen. 
+  
+There is normal respiratory variation in the common femoral 
+veins bilaterally. 
+  
+No evidence of medial popliteal fossa (___) cyst. 
+  
+IMPRESSION:  
+  
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins, though only limited assessment of the bilateral posterior 
+tibial and peroneal calf veins could be obtained. 
+
+ECHO ___
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. Regional left 
+ventricular systolic function is normal. Global function is 
+hyperdynamic (LVEF>75%). There is a mild resting left 
+ventricular outflow tract obstruction. Right ventricular chamber 
+size and free wall motion are normal. The diameters of aorta at 
+the sinus, ascending and arch levels are normal. The aortic 
+valve leaflets (3) are mildly thickened but aortic stenosis is 
+not present. No aortic regurgitation is seen. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+There is no mitral valve prolapse. There is systolic anterior 
+motion of the mitral valve leaflets. There is mild pulmonary 
+artery systolic hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+normal regional and hyperdynamic global systolic function with 
+mild resting LVOT gradient. Mild pulmonary artery systolic 
+hypertension. 
+
+Compared with the prior study (images reviewed) of ___, a 
+mild resting LVOT gradient is now present. 
+=============
+DISCHARGE LABS
+=============
+
+___ 06:00AM BLOOD WBC-6.4 RBC-3.30* Hgb-10.9* Hct-35.4 
+MCV-107* MCH-33.0* MCHC-30.8* RDW-13.5 RDWSD-53.6* Plt ___
+___ 06:25AM BLOOD WBC-5.6 RBC-3.29* Hgb-10.7* Hct-34.5 
+MCV-105* MCH-32.5* MCHC-31.0* RDW-13.1 RDWSD-50.6* Plt ___
+___ 07:00AM BLOOD WBC-5.2 RBC-3.26* Hgb-10.8* Hct-34.3 
+MCV-105* MCH-33.1* MCHC-31.5* RDW-12.9 RDWSD-50.6* Plt ___
+___ 03:00PM BLOOD Neuts-76.4* Lymphs-9.7* Monos-11.6 
+Eos-1.9 Baso-0.4 Im ___ AbsNeut-4.04 AbsLymp-0.51* 
+AbsMono-0.61 AbsEos-0.10 AbsBaso-0.02
+___ 08:53AM BLOOD Neuts-84.5* Lymphs-6.6* Monos-7.8 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-5.00 AbsLymp-0.39* 
+AbsMono-0.46 AbsEos-0.02* AbsBaso-0.02
+___ 06:35PM BLOOD Neuts-77.0* Lymphs-11.2* Monos-9.7 
+Eos-1.5 Baso-0.2 Im ___ AbsNeut-4.12# AbsLymp-0.60* 
+AbsMono-0.52 AbsEos-0.08 AbsBaso-0.01
+___ 06:00AM BLOOD Plt ___
+___ 06:25AM BLOOD Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 06:00AM BLOOD Glucose-102* UreaN-29* Creat-1.2* Na-145 
+K-4.7 Cl-96 HCO3-37* AnGap-17
+___ 06:25AM BLOOD Glucose-110* UreaN-23* Creat-1.0 Na-145 
+K-4.7 Cl-97 HCO3-40* AnGap-13
+___ 07:00AM BLOOD Glucose-104* UreaN-21* Creat-0.9 Na-145 
+K-3.7 Cl-95* HCO3-39* AnGap-15
+___ 06:00AM BLOOD ALT-12 AST-19 AlkPhos-86 TotBili-0.5
+___ 06:25AM BLOOD CK(CPK)-89
+___ 03:00PM BLOOD ALT-10 AST-21 LD(LDH)-230 AlkPhos-78 
+TotBili-0.4
+___ 04:37PM BLOOD CK-MB-4 cTropnT-0.11*
+___ 08:53AM BLOOD cTropnT-0.12* proBNP-1425*
+___ 06:00AM BLOOD Calcium-9.5 Phos-4.7* Mg-2.1
+___ 08:53AM BLOOD VitB12-1708* Folate-10
+___ 08:53AM BLOOD TSH-2.6
+___ 06:25AM BLOOD ___ pO2-52* pCO2-80* pH-7.37 
+calTCO2-48* Base XS-15 Comment-GREEN
+___ 07:10AM BLOOD ___ pO2-82* pCO2-74* pH-7.41 
+calTCO2-49* Base XS-17 Comment-GREEN TOP
+___ 07:35PM BLOOD ___ pO2-44* pCO2-72* pH-7.43 
+calTCO2-49* Base XS-18 Intubat-NOT INTUBA Comment-GREEN TOP
+___ 05:14PM BLOOD Type-CENTRAL VE pH-7.40
+___ 03:13PM BLOOD Type-ART pO2-35* pCO2-89* pH-7.36 
+calTCO2-52* Base XS-19
+___ 05:37PM BLOOD ___ pO2-30* pCO2-78* pH-7.39 
+calTCO2-49* Base XS-17
+___ 05:14PM BLOOD Lactate-1.2 Cl-83* calHCO3-48*
+___ 05:37PM BLOOD Lactate-2.3*
+___ 08:57AM BLOOD Lactate-1.4
+___ 06:12AM BLOOD Lactate-1.9
+___ 06:25AM BLOOD O2 Sat-81
+___ 05:14PM BLOOD O2 Sat-___ y/o ___ female with pAF (not on AC), dCHF with 
+daily Lasix use, ___, HTN, HL, OA, spinal stenosis with chronic 
+low back pain, uterine cancer with lung oligometastasis s/p 
+radiation,  chronic home O2 2L requirement, who presented after 
+a fall with headstrike, and was admitted for hypoxia and 
+hypercarbia. She initially presented s/p fall. Imaging 
+(including head CT, C-spine CT) did not show any significant 
+injuries. Initial plan in the ED was for discharge pending ___ 
+evaluation, however while in the ED she developed hypoxia 
+requiring a facemask. Given the acute change, she underwent CTA 
+which did not show evidence of PE. She was admitted to the MICU 
+for monitoring. She was initially placed on Bipap in the ER 
+which was removed when she came to the MICU. Her hypoxia 
+resolved upon admission, and she returned to her baseline 2L o2 
+requirement. Her transient hypoxia was attributed to low reserve 
+in setting of chronically elevated right hemi-diaphragm and 
+prior radiation treatment; imaging did not show an acute 
+pulmonary abnormality. Per discussion with her family, given her 
+return to baseline, further work-up was not desired. She was 
+called out to the floor for further care.
+ 
+While awaiting disposition in the ER she became hypoxemic, 
+placed on face mask for O2% in the 60%s. VBG looked stable, with 
+chronic compensated hypercarbia and so she was admitted to the 
+FICU. These resolved in the ICU without intervention and she has 
+been breathing comfortable and stable on her regular home O2 
+regimen. 
+   
+She was transferred from the FICU to the floor. On the floor, 
+she became confused and altered which was thought to be related 
+to possible hypercarbia related an delirium. She improved during 
+the day after her O2 NC was reduced to target O2 sats of 88-92%. 
+Pulmonary was consulted during her hospitalization. It was 
+discussed that her hypoxemia was likely multifactorial with a 
+degree of hypoventilation and shunting through her bibasilar 
+consolidations/areas of atelectasis. She also has known HFpEF 
+and is predisposed to volume overload. She also has a stable 
+moderate pH thus she likely has chronic hypercarbia. It was 
+discussed she could consider trial of nocturnal BiPAP providing 
+neuromuscular rest during the night and possibly ventilation 
+during the day. This will be deferred to the outpatient setting. 
+She will need an outpatient sleep study. 
+     
+# Acute respiratory failure, now resolved
+# Chronic respiratory failure related to oligometastases to 
+lung,
+prior radiation treatment now O2 dependnet.
+Acute, transient hypoxemia in the ED with VBG showing 
+hypercarbia
+with PCO2 of 70 but normal pH. CTA negative for PE and did show
+stable mass in LLL from known metastatic disease. No evidence of
+acute CHF exacerbation. Low suspicion for PNA. No smoking 
+history
+and exam not consistent with reactive airways. Potentially acute
+aspiration event. Elevated Troponins likely in the setting of
+stress related to fall and transient hypoxemia, trending down
+without changes in MB or signs or symptoms of NSTEMI. 
+- Continued on oral Lasix, on discharge, discharged on Lasix 20 
+mg daily, was given 40 mg oral Lasix while hospitalized
+- Continue nebs prn 
+- Continue home O2 with goal O2 sat 90-92% 
+-elevated Co2 on ___ and ___ however chronic and pH
+continues to be wnl
+-will continue overnight on ___ L NC with goal O2 90-92% and use
+shovel mask if needed
+-discussed with pulmonary, discussed initiation with ___
+overnight, however given patient's overall status improving, 
+will
+continue on O2 and will have patient have outpatient sleep study
+with Bipap titration as outpatient. 
+  
+#Lung mass:  Communicated with her outpatient provider, Dr. 
+___. He believed this was most likely post CyberKnife scar 
+tissue formation that was noted on recent CT.  Unless it is 
+growing or she is symptomatic he recommended no further workup 
+at this time. 
+
+# S/p recent fall with headstrike: 
+-CT head noncon showed subgaleal hematoma but no intracranial
+process. CT C-spine without acute fracture. No LOC or symptoms 
+to
+suggest seizure. Repeat CT scan with improving hematoma on ___.
+    
+# ___ pain: Doppler ___ negative for DVT
+-CK wnl
+
+# pAF: 
+Chronic, rate-controlled, not anticoagulated  
+- Continue aspirin 81 mg, not on other anticoagulation  
+- Continue diltiazem 120 mg daily  
+   
+# ___: 
+Chronic, stable, at baseline creatinine at 1.0.  
+- Continue to monitor  
+  
+# Spinal stenosis:  
+- Gabapentin 600 mg BID  
+- Tylenol prn 
+  
+# Chronic diastolic heart failure: 
+Chronic, stable LVEF >70% on TTE in ___. No evidence of acute
+CHF exacerbations, Troponins as above  
+- Continue home Lasix 40 mg daily, decreased to 20 mg daily 
+given creatinine 1.2 on discharge, increase back to 40 mg daily 
+as per clinical exam
+- ordered ECHO today given concern for desat and hypoxemia
+history
+    
+# Hyperlipidemia:  
+- Continue atorvastatin 10 mg daily 
+   
+#Insomnia
+-Melatonin 1 mg at home, can increase to 2 mg Melatonin at night
+if needed
+
+#Dizziness:
+-per patient she was feeling dizzy after having bowel movement
+which cause her to fall at home. Discussed with PCP, she has
+reported this occasionally ___ a year and may have vertigo once
+in the past. Patient reports she had decreased appetite one week
+prior to admission.
+
+#Macrocytosis and thrombocytopenia: will order SPEP/UPEP, 
+pending at discharge; B12/folate, TSH wnl
+
+#Constipation: senna, Colace, miralax, dulcolax prn
+
+==================  
+ CORE MEASURES:  
+==================    
+# Prophylaxis: Subcutaneous heparin  
+# Communication: HCP: ___: Daughter
+in law Phone number: ___ Cell phone: ___  
+# Code: DNAR/DNI (MOLST)  
+# Disposition: rehab 
+
+Transitional issues:
+-Follow-up with ___ after discharge to sleep study 
+and nocturnal BiPAP
+-sleep as upright as possible to assist with any component of 
+diaphragmatic dysfunction that might exist
+-increase Lasix to 40 mg daily from 20 mg daily based on 
+clinical exam
+-TTE final read pending at discharge
+-continue O2 sat target 88-92%, if desat below, can use 
+ventimask
+-Follow-up repeat CT head for resolution of hematoma
+-Repeat CBC, chemistries on ___ 
+-Repeat CXR in one month 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 10 mg PO QPM 
+4. Cyanocobalamin 500 mcg PO EVERY OTHER DAY 
+5. Diltiazem Extended-Release 120 mg PO DAILY 
+6. Docusate Sodium 100 mg PO BID 
+7. Gabapentin 600 mg PO BID 
+8. Polyethylene Glycol 17 g PO DAILY:PRN constip 
+9. Ranitidine 150 mg PO DAILY:PRN GERD 
+10. Senna 8.6 mg PO BID:PRN constip 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Furosemide 40 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Hypoxia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+You were admitted for hypoxia. You were found to have a left 
+parietal subgaleal hematoma from your fall. You were evaluated 
+by pulmonary while hospitalized and will need an outpatient 
+sleep study for possible initiation of BiPAP as an outpatient. 
+
+We wish you all the best in your recovery.
+
+Your ___ team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,292 @@
+ 
+Name:  ___               Unit ___:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Demerol / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ PMH of Whipple for benign pancreatic mass, GERD, COPD, 
+several lumbar spine surgeries, and a recent compression 
+fracture, who is admitted for back pain. She reports onset of 
+pain after lifting something awkwardly while doing laundry about 
+two weeks ago. The pain is stabbing in quality and is located in 
+her R flank, overlying most of the ___ through 11th ribs. The 
+pain is worsened by moving and she has been increasingly just 
+lying still trying not to move. Partially helped by taking large 
+doses of acetaminophen. She denies any dysuria, any 
+fevers/chills, or any association with food intake. The pain 
+eventually became so bad that her daughter took her to the ___ 
+for evaluation.
+
+She presented to ___ where a CT spine revealed various 
+chronic thoracic and lumbar spine fractures from T8 through L1 
+level. She was transferred to ___ ___ for neurosurgical 
+evaluation. In the ___ ___, neurosurgery was consulted and 
+after examining the patient and reviewing the CT, they felt that 
+the pain was unrelated to the fractures - which appeared chronic 
+- and recommended workup for medical causes of back pain. 
+
+REVIEW OF SYSTEMS
+GEN: denies fevers/chills
+CARDIAC: denies chest pain or palpitations
+PULM: denies new dyspnea or cough
+GI: denies n/v, denies change in bowel habits
+GU: denies dysuria or change in appearance of urine
+Full 14-system review of systems otherwise negative and 
+non-contributory. 
+ 
+Past Medical History:
+COPD  
+GERD
+Remote history of perforated gastric ulcer, treated with partial 
+gastrectomy/billroth II  
+Open transduodenal sphincteroplasty for benign ampullary 
+stricture (___)  
+s/p Whipple for a pancreatic mass that was found to be benign 
+(___)  
+Total hysterectomy  
+Left total hip arthroplasty 
+Low back pain, s/p several lumbar spine surgeries
+Compression fractures
+ 
+Social History:
+___
+Family History:
+Mother passed at age ___ from lung cancer, was a smoker
+Father passed at age ___ from "old age"  
+Sister age ___ with dementia  
+2 other sisters healthy  
+Independent of ADLs/IADLs. Uses a cane to ambulate
+ 
+Physical Exam:
+Admission PE:
+VITALS: last 24-hour vitals were reviewed.
+GEN: cachectic-appearing elderly woman in moderate distress from 
+pain
+HEENT: EOMI, sclerae anicteric, MMM, OP clear 
+NECK: ___ LAD, ___ JVD
+CARDIAC: RRR, ___ M/R/G
+PULM: normal effort, ___ accessory muscle use, LCAB
+GI: soft, NT, ND, NABS. Negative ___. Multiple abdominal 
+scars.
+NEURO: AAOx3. ___ facial droop, moving all extremities (detailed 
+neuro exam deferred since neurosurgery had just documented one).
+PSYCH: Full range of affect
+EXTREMITIES: WWP, ___ edema
+MSK: The patient is markedly tender to light palpation over the 
+area of the ___ and 10th ribs. ___ significant point tenderness 
+over spine at corresponding levels. 
+DERM: ___ zoster seen in her roughly dermatomal region of pain
+
+Discharge physical exam:
+Physical exam: T: 97.3, BP: 94/56, HR: 77, RR: 18, O2: 91% RA
+Gen: NAD, eating breakfast in chair
+HEENT: EOMI, PERRLA, MMM
+CV: NS1/S2, RRR
+Resp: CTAB 
+Abd: Soft, NT, ND +BS
+Ext: ___ c/c/e
+Neuro: CN II-XII intact, ___ strength throughout,AXOX3
+MSK: significant mid-line tenderness in lower thoracic region,
+tender over right sided paraspinal muscles and lower ribs on
+right
+Psych: normal affect
+Skin: warm, dry ___ rashes
+
+ 
+Pertinent Results:
+CT T- SPINE (AT ___ ___:
+1. New acute compression fractures of the superior endplate of 
+T10. Probably subacute compression fracture T9 vertebral body, 
+worsened since prior.  There is minimal retropulsion at T9.
+2. Unchanged chronic compression deformity of the T8, T12, and 
+L2 vertebral bodies.
+3. Severe centrilobular emphysema.
+4. Layering secretion within the distal trachea extending into 
+the right mainstem bronchus.  Dilated esophagus containing some 
+secretions.  Patient is at aspiration risk.
+5. Partially visualized distended stomach containing ingested 
+material.
+6. Severe atherosclerotic disease of the descending thoracic and 
+upper abdominal aorta.
+
+Admission Labs (___):
+WBC-7.4# RBC-3.57* HGB-10.4*# HCT-30.9* MCV-87 MCH-29.1 
+MCHC-33.7 RDW-14.9 PLT COUNT-285#
+SODIUM-139 POTASSIUM-4.4 CHLORIDE-105 TOTAL CO2-24 UREA N-17 
+CREAT-0.7 GLUCOSE-113* 
+
+Rib series ___:
+IMPRESSION: 
+Frontal and oblique views show ___ definite rib fracture or 
+pneumothorax.
+
+CT A/P ___:
+IMPRESSION:
+1. ___ stone in the urinary tract.
+2. ___ acute process in the abdomen and pelvis.
+3. Small left pleural effusion.
+
+___ 09:40AM BLOOD WBC-8.7 RBC-3.70* Hgb-10.2* Hct-31.5* 
+MCV-85 MCH-27.6 MCHC-32.4 RDW-14.9 RDWSD-46.2 Plt ___
+___ 10:30AM BLOOD Neuts-79.4* Lymphs-12.6* Monos-5.8 
+Eos-1.3 Baso-0.4 Im ___ AbsNeut-8.14*# AbsLymp-1.29 
+AbsMono-0.59 AbsEos-0.13 AbsBaso-0.04
+___ 09:40AM BLOOD Plt ___
+___ 09:40AM BLOOD Glucose-96 UreaN-19 Creat-0.6 Na-132* 
+K-4.1 Cl-93* HCO3-28 AnGap-15
+___ 10:30AM BLOOD ALT-7 AST-19 LD(LDH)-178 AlkPhos-84 
+TotBili-0.4
+___ 09:40AM BLOOD Calcium-9.1 Phos-3.6 Mg-1.7
+___ 10:00PM BLOOD 25VitD-9*
+ 
+Brief Hospital Course:
+___ w/ frailty, chronic compression fractures coming with back 
+pain in setting of deconditioning and increased activity. Had 
+hospitalization in ___ at ___ for back pain after 
+over-straining (attempted to pull a trash can), then went to 
+___, then home with ___. ___nded, patient again 
+tried over-exerting herself with 3 days of cooking in 
+preparation for ___. Also not sleeping (~3 hours/night) and 
+eating poorly. Came in with recurrent back pain to ___, 
+where CT showed what were initially thought to be new 
+compression fractures at T9-10, and she was transferred here. 
+Neurosurgery evaluated and thought that her fractures were 
+chronic in nature and pain was unrelated. Pain is spastic in 
+T9-10 distribution in paraspinal muscles, coming in waves. 
+Suspect muscular spasm from compensating after injury.
+
+#Back pain, right sided flank pain
+Thought to be ___ muscular strain from compensating after 
+compression fractures, in setting of deconditioning (due to 
+weight loss) and significant exertion.  Significant pain over 
+right side, rib series negative for fracture, CT A/P showing ___ 
+acute abnormalities.  She was put on standing Tylenol, PRN 
+Tramadol, lidocaine patches, baclofen and gabapentin.  Pain 
+service consulted and due to frailty they did not recommend any 
+further adjustments in regimen at this time.  Concern there is 
+an anxiety component to her symptoms as her son reports whenever 
+she is getting ready to leave the hospital her symptoms worsen. 
+- Appreciate pain service recs
+- Continue Tylenol, Tramadol, lidocaine patch, baclofen, 
+gabapentin
+- Continue working with ___ on discharge
+- Social work consult
+
+#COMPRESSION FRACTURES
+#Vitamin D deficiency
+- Started on calcium
+- Replete with high dose vitamin D
+- consider DEXA scan and bisphosphonate infusion (unlikely to 
+tolerate PO bisphosphonate due to GI issues) as an outpatient, 
+discussed recommendation with PCP
+
+#COPD
+___ signs of exacerbation
+-Continue Advair, Spiriva
+
+#Severe protein calorie malnutrition
+Patient reports decreased PO intake for years after abdominal 
+surgery for perforate ulcer and whipple.  Extensive counseling 
+of patient on importance of increasing her PO intake and trying 
+small frequent meals throughout the day. 
+-Encourage PO intake
+-Appreciate nutrition recs
+
+#FEN/PPX: regular diet, heparin SC
+
+Dispo: home ___ and given scripts, PMP reviewed ___ active scripts
+for pain medications. 
+
+PCP ___ on discharge.
+
+Full code
+
+Transitional issues:
+-Repeat CBC, chemistries as outpatient. 
+-Encouraged PO intake
+-___ with ___
+-___ with PCP as outpatient
+-___ with neurosurgery as outpatient
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+2. Tiotropium Bromide 1 CAP IH DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Acetaminophen 1000 mg PO TID 
+5. diphenhydrAMINE-acetaminophen ___ mg oral QHS 
+
+ 
+Discharge Medications:
+1.  Baclofen 10 mg PO TID:PRN Muscle Spasms 
+RX *baclofen 10 mg 1 tablet(s) by mouth three times a day Disp 
+#*15 Tablet Refills:*0 
+2.  Calcium Carbonate 500 mg PO BID 
+RX *calcium carbonate [Calcium 600] 600 mg calcium (1,500 mg) 1 
+tablet(s) by mouth twice daily Disp #*60 Tablet Refills:*0 
+3.  Gabapentin 100 mg PO TID 
+RX *gabapentin 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*15 Capsule Refills:*0 
+4.  Lidocaine 5% Patch 2 PTCH TD QAM 
+RX *lidocaine 5 % Apply one patch daily Disp #*14 Patch 
+Refills:*0 
+5.  Ondansetron ODT 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*10 Tablet Refills:*0 
+6.  TraMADol 50 mg PO Q6H:PRN pain 
+RX *tramadol [Ultram] 50 mg 1 tablet(s) by mouth every 6 hours 
+as needed Disp #*20 Tablet Refills:*0 
+7.  Vitamin D ___ UNIT PO 1X/WEEK (MO) 
+RX *ergocalciferol (vitamin D2) 50,000 unit 1 capsule(s) by 
+mouth weekly Disp #*11 Capsule Refills:*0 
+8.  Acetaminophen 1000 mg PO TID  
+9.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+10.  Omeprazole 20 mg PO DAILY  
+11.  Tiotropium Bromide 1 CAP IH DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Subacute-chronic thoracic and lumbar compression fractures
+Severe protein calorie malnutrition
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted with worsening back and right sided pain.  You 
+had a CT scan which showed compression fractures in your spine.  
+Your pain was controlled with medications and you worked with 
+the physical therapy team.  Please ___ with your primary 
+care physician and with the neurosurgery spine team.
+ 
+Followup Instructions:
+___

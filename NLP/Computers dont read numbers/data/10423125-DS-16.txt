@@ -1,0 +1,499 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain, testicular swelling, weight loss
+ 
+Major Surgical or Invasive Procedure:
+___: Exploratory laparotomy, right colectomy, and internal 
+drainage of sidewall abscess
+ 
+History of Present Illness:
+___ with no significant PMH presenting from PCP's office for 
+fever, weight loss, abdominal rash and enlarged left testicle.
+
+Dr. ___ having felt unwell for about the last year. 
+His symptoms started with occassional bloating, then progressed 
+to nausea and anorexia, specifically for oily and fried foods. 
+Over the last year, he has lost approximately 80 lbs and started 
+to get fevers for the last several weeks. In addition, he has 
+noticed enlarging testicular swelling over the last ___ years, for 
+which he has not sought medical evaluation.
+
+He reported to his new PCP ___ (has not seen a physician for 
+several years) and reported enlarging left testicle x multiple 
+months with worsening over the past week. He noted increased 
+worsening of appetite with more weight loss over the past week 
+and intermittent fevers and chills. He reported moderate nausea 
+without vomiting/diarrhea, no dysuria. He also noted red rash on 
+right flank starting yesterday. He was sent by PCP for admission 
+to medicine for further workup. He reported no chest pain, 
+shortness of breath or abdominal pain.
+
+In the ED, initial vitals were T 100.6 HR 51 BP 92/57 RR 18 SaO2 
+96% on RA. Labs showed normal LFTs, CMP, lactate. CBC showed 
+leukocytosis of 15.5 with 90% PMN, macrocytic anemia with Hct 
+32.3, plts of 456, and a positive UA with small amounts of 
+blood, WBC's, bacteria and protein. A CXR showed no acute 
+cardiopulmonary abnormality. CT abdomen/pelvis was concerning 
+for a cecal adenocarcinoma with associated sinus tract to the 
+subcutaneous tissues with rim enhancing fluid collections 
+tracking along the sinus tract and along the iliopsoas muscle 
+consistent with abscesses from likely mass perforation. A 
+testicular ultrasound was further pursued which showed large 
+bilateral hydroceles without good visualization of the 
+epididymis.
+ 
+Past Medical History:
+___ yo traumatic injury to right testicle requiring drainage
+ 
+Social History:
+___
+Family History:
+Father deceased colon cancer ___ yo. 2 siblings in good health.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+GENERAL: Cachectic chronically ill young Caucasian man appearing 
+in NAD.
+VITALS: T 99.4 (Tmax 101.8), BP 115/95, HR 106, RR 20, SaO2 95% 
+on RA.
+HEENT: PERRL, EOMI, oropharynx clear, MM dry, no cervical, 
+submandibular, supraclavicular LAD
+NECK: No carotid bruits, no JVD
+LUNGS: Clear to auscultation bilaterally; no wheezes, rales, or 
+rhonchi.
+HEART: Tachycardic with very irregular rate, normal S1 & S2 and 
+no murmurs, rubs, or gallops.
+ABDOMEN: soft, nondistended, nontender to palpation throughout. 
+10 cm indurated erythematous tense mass of right lower flank; 
+tender to palpation but no open sinus tracts or weeping lesions; 
+positive bowel sounds
+EXTREMITIES: No clubbing, cyanosis or edema.
+GU: Large tense nontender fluid collection in scrotum. Unable to 
+palpate testicles or spermatic cord. 
+NEUROLOGIC: A+OX3 MAE. No focal deficits.
+
+DISCHARGE EXAM:
+Gen: Pleasant, calm, comfortable, in NAD
+VITAL SIGNS: T 97.2 BP 105/74 (98-105/65-74) HR 86 (67-90) RR 18 
+SaO2 100% on RA
+I/O: ___ yesterday; 100/600 on day of  discharge
+HEENT: No conjunctival pallor. No icterus. MMM. OP clear.
+NECK: Supple, No LAD. JVP low. Normal carotid upstroke without 
+bruits. No thyromegaly.
+CV: PMI in ___ intercostal space, mid clavicular line. 
+Irregularly irregular. Normal S1,S2. No murmurs, rubs, clicks, 
+or ___
+LUNGS: CTAB. No wheezes, rales, or rhonchi.
+ABD: Midline abdominal surgical wound. Clean, no oozing. Soft,  
+NT, ND. No HSM. Abdominal aorta was not enlarged by palpation. 
+No abdominal bruits.
+EXT: warm and well perfused. No clubbing, cyanosis or edema. 
+Full distal pulses bilaterally. No femoral bruits.
+SKIN: No rashes or lesions, ecchymoses.
+NEURO: A&Ox3. CN ___ grossly intact. ___ strength throughout
+ 
+Pertinent Results:
+Labs on admission:
+___ 04:15PM   WBC-15.5* RBC-4.60 HGB-9.9* HCT-32.3* MCV-70* 
+MCH-21.6* MCHC-30.7* RDW-15.8*
+___ 04:15PM   NEUTS-89.9* LYMPHS-5.8* MONOS-4.0 EOS-0.1 
+BASOS-0.1
+___ 04:15PM   PLT COUNT-456*
+___ 04:15PM   GLUCOSE-108* UREA N-20 CREAT-0.9 SODIUM-133 
+POTASSIUM-3.7 CHLORIDE-92* TOTAL CO2-30 ANION GAP-15
+___ 04:15PM   ALBUMIN-3.4* CALCIUM-8.7 PHOSPHATE-3.4 
+MAGNESIUM-1.9
+___ 06:15PM   LACTATE-1.5
+___ 04:15PM   ALT(SGPT)-33 AST(SGOT)-22 ALK PHOS-62 TOT 
+BILI-0.5
+
+___ 08:29PM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 08:29PM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-SM 
+___ 08:29PM URINE  RBC-8* WBC-7* BACTERIA-FEW YEAST-NONE 
+EPI-<1
+___ 08:29PM URINE  HYALINE-3*
+
+DISCHARGE LABS:
+___ 07:50AM BLOOD WBC-7.4 RBC-5.07 Hgb-11.7* Hct-38.6* 
+MCV-76* MCH-23.0* MCHC-30.2* RDW-21.6* Plt ___
+___ 08:05AM BLOOD Neuts-87.9* Lymphs-7.0* Monos-4.8 Eos-0.2 
+Baso-0.2
+___ 07:50AM BLOOD Glucose-89 UreaN-14 Creat-0.9 Na-137 
+K-4.7 Cl-99 HCO3-30 AnGap-13
+___ 09:10AM BLOOD ALT-10 AST-17 LD(LDH)-172 AlkPhos-39* 
+Amylase-24 TotBili-0.4
+___ 07:50AM BLOOD Calcium-8.7 Phos-4.2 Mg-2.0
+___ 05:25AM BLOOD calTIBC-147* Ferritn-66 TRF-113*
+___ 09:05AM BLOOD %HbA1c-6.0* eAG-126*
+___ 07:23AM BLOOD TSH-2.5
+___ 07:23AM BLOOD Free T4-1.7
+
+___ Scrotal Ultrasound
+1. Bilateral massive mildly complex hydroceles. 
+2. Normal testicles without focal testicular masses. 
+3. Bilateral epididymi are not well visualized. 
+
+___ CXR
+Heart size is normal. The mediastinal and hilar contours are 
+unremarkable. The lungs are clear. Pulmonary vascularity is 
+normal. No pleural effusion or pneumothorax is present. No acute 
+osseous abnormalities seen. 
+
+___ CT ABDOMEN AND PELVIS W/CONTRAST
+1. Circumfrential heterogeneous wall thickening around the cecum 
+is most likely a malignancy of the cecum, likely adenocarcinoma. 
+There is an associated sinus tract to the subcutaneous tissues 
+with rim enhancing fluid collections tracking along the sinus 
+tract and along the iliopsoas muscle. These are consistent with 
+abscesses, likely due to perforation of the mass. There are 
+prominent lymph nodes in the pelvis and retroperitoneum.
+2. Trace bilateral pleural effusions.
+3. Partially imaged hydroceles better evaluated on the scrotal 
+ultrasound. 
+
+___ ECG:
+Atrial fibrillation with rapid ventricular response, Rate 141 
+
+Pathology Report ___:
+DIAGNOSIS:
+1)  Right colon, ileo-colectomy (A-V, Z-AG): 
+ a. Low grade colonic adenocarcinoma, see synoptic report. 
+ b. Perforation of cecum with pericecal abscess formation and 
+adhesions.
+2)  Peritoneal studding, biopsy (W): Fibroadipose tissue with 
+mesothelial inclusion cysts; no malignancy identified.
+3)  Omentum, resection (X-Y): Unremarkable fibroadipose tissue; 
+no malignancy identified.
+
+___ CT ABD & PELVIS WITH CONTRAST:
+1.  Contrast injected into the right abdominal wall drain fills 
+a small 4cm subcutaneous pocket at the site of a prior abscess 
+drainage. The fluid is contiguous with anasarca in the 
+subcutaneous fat fascial plane. A small amount of contrast also 
+extends intraperitoneally and layers in the pelvis.
+2.  Small amount of free abdominal fluid, largest pocket layers 
+in the pelvis.
+3.  Small focus of postoperative pneumoperitoneum.
+4.  Diffuse bowel dilation compatible with ileus.
+5.  Small bibasilar pleural effusions and dependent atelectasis.
+
+___ Peritoneal Fluid:
+Atypical cells are present; favor reactive mesothelial cells. 
+
+___ EKG:
+Atrial fibrillation. Non-specific ST-T wave changes. Compared to 
+the previous tracing of ___ the heart rate is better 
+controlled.
+
+___ ECHO:
+The left atrium is mildly dilated. No left atrial mass/thrombus 
+seen (best excluded by transesophageal echocardiography). The 
+estimated right atrial pressure is ___ mmHg. Left ventricular 
+wall thickness, cavity size and regional/global systolic 
+function are normal (LVEF >55%). The estimated cardiac index is 
+normal (>=2.5L/min/m2). Right ventricular chamber size and free 
+wall motion are normal. The aortic root is mildly dilated at the 
+sinus level. The ascending aorta is mildly dilated. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. There is no 
+pericardial effusion.
+ 
+Brief Hospital Course:
+___ y/o M presented with fever, weight loss, and non-specific 
+abdominal complaints who was subsequently found to have an 
+intra-abdominal infection and mass now s/p R hemicolectomy and 
+drain insertion ___, diagnosed with cecal adenocarcinomoa. On 
+admission, he developed atrial fibrillation which had not been 
+previously diagnosed and was difficult to control, necessitating 
+transfer to the cardiology service until discharge, though he 
+remained hemodynamically stable.
+
+Hospital course by system:
+
+# Cardiovascular: The patient was noted to be in atrial 
+fibrillation with rapid ventricular response both preoperatively 
+and postoperatively. He was also hypotensive initially 
+postoperatively, requiring pressors for a very limited time in 
+the PACU, which were quickly weaned. His hypotension was also 
+responsive to fluid boluses and albumin. Rate control was 
+attempted with intermittent IV metoprolol and diltiazem but was 
+difficult to achieve. Cardiology was consulted for 
+recommendations. Given that his rate was very difficult to 
+control with intermittent boluses of these medications, he was 
+transferred to the cardiac floor on ___ and started on a 
+diltiazem drip for rate control. When bowel function returned, 
+he was then transitioned off the drip to PO diltiazem. He 
+continued to be tachycardic on PO diltiazem so PO metoprolol was 
+added for increased rate control, which was effective. However, 
+due to the development of 2 second pauses on telemetry during 
+which he was asymptomatic, he was taken off diltiazem and 
+incrementally increased on po metoprolol for rate control. 
+Planning was in progress for TEE guided DCCV given his difficult 
+rate control with frequent spikes to the 140s, however finally 
+on 150 po metoprolol tartrate BID, adequate rate control (rest 
+<110) was achieved. He remained asymptomatic throughout the 
+episodes of tachycardia, without chest pain, shortness or breath 
+or dizziness. Cardiac biomarkers were sent initially which were 
+negative, and no ischemic changes were noted on ECG. TSH and TTE 
+were unremarkable. He was also initially started on aspirin 325 
+mg daily for anticoagulation per cardiology recommendations. 
+When DCCV was contemplated, the Electrophysiology Service 
+advised warfarin in the ___- and post-cardioversion period. The 
+patient felt strongly about having his hydrocele repaired prior 
+to several months of anticoagulation. Plan is thus to begin 
+anticoagulation therapy after hydrocele repair in ___ weeks, 
+course of anticoagulation for 3 weeks, then DCCV.
+
+# GI: Postoperatively, he was kept on bowel rest and given IV 
+fluids for hydration. He had an ileus postoperatively and had a 
+repeat CT scan on ___ as there was concern for formation of an 
+abscess at the site where the prior abscess was drained given 
+his cardiac issues and increased WBC count. No rim-enhancing 
+fluid collection was noted. He eventually had return of bowel 
+function and was tolerating a regular diet by the time of 
+discharge without further intervention. He will be followed by 
+Heme-onc for further management of his new diagnosis of 
+adenocarcinoma.
+
+# ID: A drain was left in place intraoperatively where the 
+abscess had been drained, and he was continued empirically on 
+ciprofloxacin and Flagyl. Vancomycin was added on POD #5 when 
+his WBC count increased. Antibiotics were continued for 9 days 
+postoperatively; he remained afebrile with a decreasing WBC 
+count and minimal flank erythema at the site of inital erythema. 
+The drain continued to have large volume of serous output which 
+was thought to be the patient mobilizing fluids as he was 
+recovering postoperatively. The output eventually began to slow 
+and the drain was removed on ___. His condition remained stable 
+since that time, with no fevers, chills, drainage, or other 
+evidence of infection.
+
+# GU: A Foley catheter was placed on admission. I&O's were 
+closely monitored. The patient was initially oliguric in the 
+immediate postoperative phase and required IV resuscitation. 
+After resuscitation, his urine output remained adequate, and his 
+Foley was removed on POD #3, at which time he voided without 
+difficulty. Scrotal ultrasound on admission revealed bilateral 
+hydroceles without evidence of any masses. The patient requested 
+to have the hydrocele drained, and urology was consulted and 
+follow up was scheduled as an outpatient (with both general 
+surgery and urology) prior to discharge.
+
+# MSK: He was encouraged to mobilize out of bed in the initial 
+postoperative phase and ambulate as tolerated. He was placed on 
+SC heparin for DVT prophylaxis. He was ambulating indepedently 
+by the time of discharge.
+
+# Neuro: He remained alert and oriented throughout his 
+postoperative course. He was initially started on a PCA for pain 
+control which was discontinued when tolerating PO's. His pain 
+was subsequently well controlled on PO regimen.
+
+# Pulm: He remained without respiratory compromise with no 
+active pulmonary issues.
+
+CHRONIC ISSUES:
+# Hydrocele - plan to have fixed surgically 2 weeks from 
+discharge. No acute issues.
+
+TRANSITIONAL ISSUES:
+# Atrial fibrillation with RVR: Currently rate-controlled, plan 
+to continue on metoprolol tartrate po 150 BID. Will be followed 
+by PCP for management of anticoagulation after his hydrocele 
+repair. Will also get EKG prior to ___ to confirm persistence 
+of atrial firillation.
+
+# Adenocarcinoma: Will follow-up as outpatient with Heme-onc for 
+chemo/radiation planning.
+
+# ID: Pt will contact PCP if any concerns of drainage, fevers, 
+chills, or swelling/tenderness around surgical site and prior 
+drain site. Further management per PCP.
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+2. Docusate Sodium 100 mg PO BID 
+RX *Colace 100 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Capsule Refills:*0
+3. Multivitamins 1 TAB PO DAILY 
+4. Senna 1 TAB PO BID:PRN constipation 
+RX *senna 8.6 mg 1 tablet by mouth twice a day Disp #*60 Tablet 
+Refills:*0
+5. Metoprolol Tartrate 150 mg PO BID; hold for SBP<95, HR<60 
+RX *metoprolol tartrate 100 mg 1.5 tablet(s) by mouth twice a 
+day Disp #*90 Tablet Refills:*0
+6. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *Dilaudid 2 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*60 Tablet Refills:*0
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Perforating cecal tumor with abscess eroding into right 
+abdominal side wall.
+2. T3N0Mx low grade adenocarcinoma of cecum 
+3. Atrial fibrillation with rapid and initially difficult to 
+control ventricular rate
+4. Bilateral hydroceles
+5. Oliguria without acute renal failure
+6. Transient hypotension requiring pressors and intravenous 
+fluids and colloid
+7. Post-operative ileus
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Dr. ___,
+
+___ was a pleasure to take care of you during your 
+hospitalization. You came to the hospital with abdominal pain, 
+weight loss and fever.  You had an abdominal CT scan which was 
+concerning for cancer in your cecum (part of your bowel). You 
+were taken to the operating room and had part of your colon 
+removed and drainage of an abscess in your abdominal wall. The 
+segment of colon that was removed was sent to pathology for 
+testing and it was determined to be a low grade adenocarcinoma 
+of the cecum. Please see below for scheduled follow up with 
+oncology.
+
+ATRIAL FIBRILLATION
+
+You were also noted to be in an irregular heart rhythm while you 
+were in the hospital called atrial fibrillation. You have been 
+started on medications to control your heart rate. Please 
+continue these medications at home as prescribed. It is also 
+recommended that you take full dose aspirin (325 mg) daily.  
+Please see below for cardiology follow up.
+
+ACTIVITY:
+ 
+Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+You may climb stairs. 
+You may go outside, but avoid traveling long distances until you 
+see your surgeon at your next visit.
+Don't lift more than ___ lbs for ___ weeks. (This is about the 
+weight of a briefcase or a bag of groceries.) This applies to 
+lifting children, but they may sit on your lap.
+You may start some light exercise when you feel comfortable.
+You will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when you 
+can resume tub baths or swimming.
+Heavy exercise may be started after 6 weeks, but use common 
+sense and go slowly at first.
+ 
+HOW YOU MAY FEEL: 
+ 
+You may feel weak or "washed out" for 6 weeks. You might want to 
+nap often. Simple tasks may exhaust you.
+You may have a sore throat because of a tube that was in your 
+throat during surgery.
+You might have trouble concentrating or difficulty sleeping. You 
+might feel somewhat depressed.
+You could have a poor appetite for a while. Food may seem 
+unappealing.
+All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon.
+ 
+YOUR INCISION:
+
+You may gently wash away dried material around your incision.
+It is normal to feel a firm ridge along the incision. This will 
+go away.
+Avoid direct sun exposure to the incision area.
+Do not use any ointments on the incision unless you were told 
+otherwise.
+You may see a small amount of clear or light red fluid staining 
+your dressing or clothes. If the staining is severe, please call 
+your surgeon.
+You may shower. As noted above, ask your doctor when you may 
+resume tub baths or swimming.
+Ove the next ___ months, your incision will fade and become 
+less prominent.
+ 
+YOUR BOWELS:
+
+Constipation is a common side effect of narcotic pain medicine. 
+If needed, you may take a stool softener (such as Colace, one 
+capsule) or gentle laxative (such as milk of magnesia, 1 tbs) 
+twice a day. You can get both of these medicines without a 
+prescription.
+If you go 48 hours without a bowel movement, or have pain moving 
+the bowels, call your surgeon.
+ 
+PAIN MANAGEMENT:
+
+It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". 
+Your pain should get better day by day. If you find the pain is 
+getting worse instead of better, please contact your surgeon.
+You will receive a prescription from your surgeon for pain 
+medicine to take by mouth. It is important to take this medicine 
+as directied. Do not take it more frequently than prescribed. Do 
+not take more medicine at one time than prescribed.
+Your pain medicine will work better if you take it before your 
+pain gets too severe.
+Talk with your surgeon about how long you will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay.
+If you are experiencing no pain, it is okay to skip a dose of 
+pain medicine.
+Remember to use your "cough pillow" for splinting when you cough 
+or when you are doing your deep breathing exercises.
+If you experience any of the folloiwng, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+
+You have been started on new medications while you were in the 
+hospital. If you have any questions about what medicine to take 
+or not to take, please call your surgeon.
+ 
+DANGER SIGNS:
+Please call your surgeon if you develop:
+- worsening abdominal pain
+- sharp or severe pain that lasts several hours
+- temperature of 101 degrees or higher
+- severe diarrhea
+- vomiting
+- redness around the incision that is spreading
+- increased swelling around the incision
+- excessive bruising around the incision
+- cloudy fluid coming from the wound
+- bright red blood or foul smelling discharge coming from the 
+wound
+- an increase in drainage from the wound
+ 
+Followup Instructions:
+___

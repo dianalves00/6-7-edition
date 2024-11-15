@@ -1,0 +1,279 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Erythromycin Base
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever  
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of dementia, CHF, CKD, hypothyroidism, presents 
+from ___ with fever and cough. Cough started ___, 
+she was given nebulizers. She was also noted to be more 
+combative than her baseline. Per EMS, patient is combative at 
+baseline, not oriented to person, time or place but more 
+combative currently. No history of falls. Per report she uses 2L 
+O2 at baseline.  
+
+In the ED initial vitals were: 85 84/68 22 98% Nasal Cannula Tm 
+102.8  
+- Labs were significant for Cr 2.1 UA: mod blood few bact, flu 
+positive, Ht 27  
+- Patient was given ceftx, tylenol, 1 l NS  
+Vitals prior to transfer were: 100.6 74 114/43 20 97% Nasal 
+Cannula  
+On the floor she describes throat pain, is not oriented, thinks 
+year is ___, she does now know why she is in the hospital and 
+is combative, called me a bitch  
+Review of Systems:  
+per HPI  
+
+ 
+Past Medical History:
+DM  
+CAD, MI ___  
+CHF  
+HLD  
+Hypothyroid  
+HTN  
+OA  
+obesity  
+Depression  
+Anemia of chronic disease  
+gout  
+dementia  
+CKD  
+
+ 
+Social History:
+___
+Family History:
+No family history of known cardiac or lung disease
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+============================
+Vitals - wt 93.8 kg, Temp 98.2m BP 139/79, HR 810, RR 22, 95% RA
+Tmx 100.9 
+GENERAL: unwilling to answer questions or participate in exam. 
+Wrist restraints in place. Sleepy. Coughs often, productive
+CARDIAC: RRR 
+LUNG: Diffuse rhonci to auscultation, exam limited by patient 
+cooperation  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: 1+ edema in ___ with venous stasis changes
+Neuro: CN grossly intact  
+
+PHYSICAL EXAM ON DISCHARGE:
+===========================
+Vitals - temp. 98.3, BP 128/55, HR 68, RR 20, 99% 2L
+wt today of 95.8 kg from 93.8 kg at time of admission
+GENERAL: Oriented to place. Does not want to participate in 
+history or exam. CARDIAC: RRR 
+LUNG: Minimal rhonci anteriorally to ausculation, improved
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: 1+ edema in ___ with venous stasis changes
+Neuro: CN grossly intact 
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+==================
+___ 05:00PM BLOOD WBC-8.4 RBC-2.95* Hgb-9.2* Hct-27.7* 
+MCV-94 MCH-31.1 MCHC-33.2 RDW-13.6 Plt ___
+___ 05:00PM BLOOD ___ PTT-27.9 ___
+___ 05:00PM BLOOD Glucose-121* UreaN-79* Creat-2.1* Na-137 
+K-4.1 Cl-95* HCO3-30 AnGap-16
+___ 05:00PM BLOOD Calcium-8.5 Phos-4.2 Mg-2.9*
+
+___ 06:40PM OTHER BODY FLUID FluAPCR-POSITIVE* 
+
+___ 7:47 pm URINE SOURCE: CATHETER. 
+**FINAL REPORT ___
+URINE CULTURE (Final ___: GRAM NEGATIVE ROD(S). ___. 
+
+CXR ___:
+IMPRESSION:  
+No definite acute cardiopulmonary process. 
+
+LABS ON DISCHARGE:
+==================
+___ 07:15AM BLOOD WBC-5.6 RBC-2.60* Hgb-8.3* Hct-25.3* 
+MCV-97 MCH-31.9 MCHC-32.7 RDW-13.5 Plt ___
+___ 07:15AM BLOOD Glucose-236* UreaN-65* Creat-1.4* Na-141 
+K-4.3 Cl-104 HCO3-28 AnGap-13
+___ 07:15AM BLOOD Calcium-7.8* Phos-2.7 Mg-2.9*
+ 
+Brief Hospital Course:
+___ with history of dementia, CHF, CKD, hypothyroidism, presents 
+from ___ with cough and fevers and is found to have the 
+flu.  
+
+#Influenza presenting with cough and fever: 
+Patient currently with evidence of cough though CXR without 
+evidence of focal process. Patient had evidence of difffuse 
+rhonci on exam with 2L oxygen requirement at time of admission. 
+Patient noted to be influenza positive. She was started on 
+Tamiflu ___ with Q48 hour dosing due to renal function and 
+received another dose on ___ (dose on ___ was missed 
+due to patient refusal of medications). Final dose of tamiflu 
+given on ___. She was also placed on Q6 hour duonebs while 
+in the hospital. She required 2L of oxygen by NC while she was 
+in the hospital. Oxygen should be weaned down upon discharge as 
+able.
+
+#Agitation
+Patient was initially very agitated and combative briefly 
+requiring restraints. She was given 10 mg IM zyprexa in the ED. 
+Her mental status cleared within 24 hours of admission. She 
+became more alert and oriented prior to discharge though 
+remained minimally engaged in history and physical exam. She was 
+given 12.5mg of seroquel QHS during her hospital course. 
+Benzodiazapines were avoided as these were felt to ___ worsen 
+her agitation.
+
+#Acute on chronic kidney injury: 
+Cr 2.1 on admission with BUN/Cr ratio > 20 consistent with 
+pre-renal process as well as low urine creatinine. Baseline 
+creatinine around 2. Patient received 500 cc IV fluid bolus in 
+the ED. Metolazone, lasix, and losartan also held initially. 
+Renal function improved prior to discharge to 1.4 and 
+metolazone, lasix, and losartan restarted prior to discharge. 
+
+#Anemia of chronic disease: 
+Hg/Hct on ___ 8.5/25.7 per ___ rehab. Patient with 
+history of CKD and is on epoietin alfa. Her Hg/Hct remained 
+stable throughout hospital course. 
+
+#Hypertension
+Ms. ___ atenolol and losartan were initially held at 
+time of admission but restarted prior to discharge. 
+
+#Congestive Heart Failure: 
+Unknown if systolic or diastolic dysfunction. Patient Appeared 
+compensated with no evidence of pulmonary edema on CXR at time 
+of admission. Metolazone and lasix were held given acute kidney 
+injury and poor PO intake. Metolazone and lasix were restarted 
+at time of discharge. Wt on discharge was 95.8kg from 93.8 kg 
+from admission.
+
+#CAD  
+-Continued aspirin 
+
+#Depression:  
+-Continued sertraline
+ 
+#Hypothyroid  
+-Continued levothyroxine  
+
+TRANSITIONAL ISSUES:
+=====================
+-please check chem-7 to ensure kidney function stays stable on 
+week of ___
+-please wean down oxygen as able and patient recovers from 
+influenza
+-please consider alternate for patient's agitation other than 
+lorazepam as this may in fact worsen her agiation/delirium and 
+underlying dimentia
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 25 mg PO DAILY 
+2. Ipratropium-Albuterol Neb 1 NEB NEB Q6H PRN wheeze 
+3. Sertraline 125 mg PO DAILY 
+4. Furosemide 60 mg PO DAILY 
+5. Acetaminophen 650 mg PO Q6H:PRN pain 
+6. Atenolol 25 mg PO DAILY 
+7. Lorazepam 0.25 mg PO BID PRN agitation 
+8. Metolazone 5 mg PO ___ 
+9. Aspirin 81 mg PO DAILY 
+10. GlipiZIDE XL 10 mg PO DAILY 
+11. Glargine 9 Units Bedtime
+novolin 2 Units Breakfast
+novolin 2 Units Dinner
+12. Levothyroxine Sodium 88 mcg PO DAILY 
+13. Aranesp (in polysorbate) (darbepoetin alfa in polysorbat) 60 
+mcg/0.3 mL injection q28d 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Aspirin 81 mg PO DAILY 
+3. Atenolol 25 mg PO DAILY 
+4. Glargine 9 Units Bedtime
+novolin 2 Units Breakfast
+novolin 2 Units Dinner
+5. Ipratropium-Albuterol Neb 1 NEB NEB Q6H PRN wheeze 
+6. Levothyroxine Sodium 88 mcg PO DAILY 
+7. Losartan Potassium 25 mg PO DAILY 
+8. Sertraline 125 mg PO DAILY 
+9. Aranesp (in polysorbate) (darbepoetin alfa in polysorbat) 60 
+mcg/0.3 mL injection q28d 
+10. GlipiZIDE XL 10 mg PO DAILY 
+11. Lorazepam 0.25 mg PO BID PRN agitation 
+12. Furosemide 60 mg PO DAILY 
+13. Metolazone 5 mg PO ___ 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Influenza A
+
+Secondary:
+Diabetes  
+Coronary Artery Disease, MI ___  
+Congestive heart failure
+Hyperlipidemia
+Hypothyroid  
+Hypertension 
+Osteoarthritis
+Obesity  
+Depression  
+Anemia of chronic disease  
+Gout  
+Dementia  
+Chronic Kidney disease  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital for cough and fever and found 
+to have the flu. You were started on a medication called tamiflu 
+to help treat your symptoms. It was a pleasure being involved in 
+your care.
+
+Sincerly,
+Your ___ Team
+ 
+Followup Instructions:
+___

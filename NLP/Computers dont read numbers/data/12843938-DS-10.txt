@@ -1,0 +1,417 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril / ACE Inhibitors / ___ Receptor 
+Antagonist
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute hypoxic respiratory failure
+ 
+Major Surgical or Invasive Procedure:
+Intubation ___
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with a PMHx of CKD V 
+secondary to diabetic nephropathy, hypertension, and likely 
+cardiorenal, systolic congestive heart failure, hx of ETOH abuse 
+who presented on ___ for initiating of HD. Reason for MICU 
+transfer is for acute hypoxic respiratory failure.
+
+Overall the patient had been steadily declining over the past 
+few months. According to her daughter she had been more nauseous 
+and feeling unwell. Denied nausea or metallic taste. Also was 
+developing worsening hyperkalemia so was admitted for HD 
+initiation. She underwent tunneled R IJ placement today, which 
+was uncomplicated. 
+
+The patient had been feeling well after IJ placement. Started 
+first session of dialysis for two  hours without any UF. Blood 
+pressures were 160-170 during dialysis. Tolerated well. While 
+waiting for a bed assignment she developed acute onset chest 
+pressure, which she felt was similar to past asthma 
+exacerbations. BP noted to be 220s/100s. She was given albuterol 
+inhaler. Sats noted to be in the mid 80% on 50% nonrebreather. 
+MICU was consulted for hypoxic respiratory failure and concern 
+for acute pulmonary edema. She was given Lasix 80mg IV x 1 and 
+hydralazine 10mg IV x 1. Anesthesia was called and she was 
+intubated in the dialysis unit and transferred to the MICU for 
+further evaluation.
+
+On exam the patient was tachypneic, tripoding in acute 
+respiratory distress. She was intubated, sedated with propofol 
+and fentanyl. 
+
+Vitals on arrival to the MICU were: 97.3 106 150/72 20 99% 
+400x20 FIO2 100% PEEP 5.
+
+On evaluation she was sedated and appeared comfortable. 
+
+Of note, the patient's daughter reports that she has been 
+hospitalized in the past at ___ for similar presentation. Was 
+traveling from ___ in ___ and forgot to take 
+hypertensive meds. Off the plane in hypertensive urgency and 
+admitted to ___. On review of ___ records, concern for ___ 
+sign on ECG. Underwent stress that was negative. Discharge 
+weight of 211lbs. EF on TTE noted to be 35%.  
+ 
+Past Medical History:
+- CKD V initiated on HD on ___
+- s/p R tunneled line placement ___
+- Type II diabetes c/b retinopathy, nephropathy  
+- Nephrolithiasis  
+- Hypercholesterolemia  
+- Hypertension  
+- Gout  
+- Systolic congestive heart failure (EF 34% ___
+- Anemia of CKD, on Procrit  
+- Left TKR in ___ 
+- Asthma 
+- Hx of ETOH abuse
+- Iron deficiency
+ 
+Social History:
+___
+Family History:
+Per OMR: Two cousins were on HD. No other CKD to her knowledge. 
+No history of renal transplant
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: 97.3 106 150/72 20 99% 400x20 FIO2 100% PEEP 5.
+GENERAL: Intubated, sedated 
+HEENT: PERRL, Sclera anicteric, MMM, oropharynx clear
+NECK: supple, JVP elevated to jawline
+LUNGS: Diffuse rales anteriorly 
+CV: tachycardic, grade II systolic murmur 
+ABD: soft, non-tender, non-distended, bowel sounds present
+GU: Foley in place
+EXT: Warm, trace peripheral edema
+SKIN: No appreciable lesions. R tunneled line in place without 
+significant erythema
+NEURO: PERRL, previously moving all four extremities with 
+purpose prior to sedation
+ACCESS: PIVs, R tunneled line
+
+DISCHARGE PHYSICAL EXAM:
+============================
+Vitals: 98.4PO 153 / 89L  73 18 99 Ra    
+General: Alert, oriented, no acute distress
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP 2 cm above clavical at 30 degrees, no LAD.
+Lungs: CTA anteriorly
+CV: Regular rate and rhythm, normal S1 + S2, Harsh systolic 
+ejection murmur in aortic listening area, 
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: AOx3
+line -c/d/I
+
+DISCHARGE WEIGHT - ***
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 11:41AM BLOOD WBC-8.6 RBC-3.92 Hgb-8.8* Hct-29.4* 
+MCV-75* MCH-22.4* MCHC-29.9* RDW-16.8* RDWSD-44.0 Plt ___
+___ 05:17PM BLOOD Neuts-36.7 ___ Monos-8.9 Eos-2.1 
+Baso-0.4 NRBC-1.3* Im ___ AbsNeut-4.90 AbsLymp-6.88* 
+AbsMono-1.18* AbsEos-0.28 AbsBaso-0.05
+___ 05:17PM BLOOD ___ PTT-36.6* ___
+___ 11:41AM BLOOD Glucose-122* UreaN-65* Creat-3.7*# Na-139 
+K-4.5 Cl-104 HCO3-22 AnGap-18
+___ 05:17PM BLOOD ALT-19 AST-27 LD(LDH)-294* AlkPhos-44 
+TotBili-0.2
+___ 05:17PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 11:41AM BLOOD Calcium-8.8 Phos-4.7* Mg-2.3
+___ 05:26PM BLOOD ___ pO2-268* pCO2-72* pH-7.16* 
+calTCO2-27 Base XS--4
+___ 05:26PM BLOOD Lactate-2.0
+
+PERTINENT LABS
+==============
+___ 06:26PM BLOOD Type-ART Rates-20/ Tidal V-400 PEEP-5 
+FiO2-60 pO2-168* pCO2-42 pH-7.37 calTCO2-25 Base XS-0 
+As/Ctrl-ASSIST/CON
+___ 04:39AM BLOOD Type-ART pO2-162* pCO2-22* pH-7.61* 
+calTCO2-23 Base XS-2
+
+DISCHARGE LABS
+==============
+
+IMAGING
+=======
+CXR ___:
+Pulmonary edema
+
+TTE ___:
+The left atrium is normal in size. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. Overall left ventricular systolic function is severely 
+depressed (LVEF= 20 %). Tissue Doppler imaging suggests an 
+increased left ventricular filling pressure (PCWP>18mmHg). 
+Doppler parameters are most consistent with Grade II (moderate) 
+left ventricular diastolic dysfunction. Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) are mildly thickened. There is a 
+minimally increased gradient consistent with minimal aortic 
+valve stenosis. The mitral valve leaflets are mildly thickened. 
+Trivial mitral regurgitation is seen. The left ventricular 
+inflow pattern suggests impaired relaxation. The pulmonary 
+artery systolic pressure could not be determined. There is no 
+pericardial effusion. Compared with the prior study (images 
+reviewed) of ___, the LVEF is further reduced.  
+
+DISCHARGE LABS
+===============
+
+___ 06:45AM BLOOD WBC-6.6 RBC-3.86* Hgb-8.8* Hct-28.8* 
+MCV-75* MCH-22.8* MCHC-30.6* RDW-17.9* RDWSD-45.7 Plt ___
+___ 06:45AM BLOOD Glucose-90 UreaN-28* Creat-3.1* Na-128* 
+K-4.1 Cl-92* HCO3-24 AnGap-16
+___ 06:45AM BLOOD Calcium-8.8 Phos-4.8* Mg-1.___ female with a PMHx of CKD V on the basis of diabetic 
+nephropathy, hypertension, with likely cardiorenal physiology, 
+systolic heart failure presented for initiation of HD. In the 
+setting of holding her blood pressure medications she developed 
+hypertensive emergency, acute on chronic HFrEF and flash 
+pulmonary edema resulting in hypoxemic respiratory failure 
+requiring transfer to the MICU and intubation. She required a 
+nitro gtt for BP and HD for ultrafiltration. She was also 
+diuresed as she was still making urine. TTE was done which 
+showed worsening systolic function ___ from 35%. She was 
+extubated, started on her home BP meds, and tolerating HD well 
+when she was transferred back to the floor. Her 
+Anti-hypertendive medications were increased as below. She was 
+discharged with scheduled visits at outpatient HD and follow up 
+scheduled with her nephrologists. She had decreased platelets 
+with nadir to 73 from 100s previously. Concern for HIT, so all 
+heparin products were held and she was started on an argatroban 
+gtt. PF4 assay was indeterminant and SRA was negative for HITT. 
+Platelet count was uptrending at 104K at time of discharge. 
+
+#) Acute pulmonary edema
+   Acute hypoxic respiratory failure: Likely secondary to flash 
+pulmonary edema in the setting of hypertensive emergency 
+possibly ___ holding home anti-hypertensives prior to HD 
+initiation. Pt's SBP's at home prior to admission were in high 
+140's to 150's prior to admission on regimen of coreg, hydral, 
+and imdur. Eventually found to have worsened systolic function 
+on TTE 24% EF. Required intubation and aggressive diuresis and 
+ultrafiltration via HD. She was continued on HD through ___, 
+with volume removal and subsequent improvement in her 
+respiratory function. She was extubated on ___. Hypertension was 
+managed as below. TTE was obtained to evaluate for RWMA (see 
+results above). 
+
+#) Hypertensive emergency : Elevated BP to 220s/100s after 
+dialysis in the setting of not taking home BP meds. Not on 
+___ at baseline given hyperkalemia. On furosemide 20mg po 
+daily, hydralazine 50mg po BID, Imdur 60mg po daily, carvedilol 
+25mg po BID at home. These were gradually re-introduced after 
+discontinuation of an Nitro drip, which was used initially for 
+BP control. BP was still elevated on the floor despite 
+resumption of home regimen as high as the 170's systolic without 
+evidence of florid fluid overload. Her hydralazine was increased 
+from 50 BID to TID. Started on Torsemide 40 mg in place of 
+Lasix. Started on losartan 25 mg after much digging regarding 
+her listed allergy as a cough without any substantiation from 
+her or her records.
+
+#) Acute on chronic systolic congestive heart failure: EF 24% on 
+TTE from ___ ___. Has hx of possible ETOH cardiomyopathy and 
+hx of flash pulmonary edema. TTE obtained as above. She was 
+continued on her home Aspirin/Statin. Discharged on Losartan 25 
+mg PO daily for blood pressure and mortality benefit in HFrEF.  
+
+#) ESRD on HD: Initiated dialysis on ___ for uremic symptoms and 
+hyperkalemia. HD line placed on AM of ___. Quant gold ___ 
+negative, hepatitis ab's negative as an outpatient. Had 
+persistent issue of hypertension during HD when her AM 
+medications were held. Tolerated ultrafiltration well without 
+hypotension. She was started on nephrocaps. Vein mapping was 
+performed in preparation of future fistula. Patient will have 
+Dialysis MWF at 245PM at ___.
+
+#) Thrombocytopenia: Patient was worked up for HITT as plt's had 
+down trended from low mid ___ prior to admission to a nadir of 
+73 2/ Had low platelets with nadir to 73 on ___. Antibody assay 
+and SRA sent, with initial concern based on indeterminate ab. 
+Patient put on argatriban gtt and all heparin was discontinued. 
+SRA returned negative on ___, gtt was stopped and heparin was 
+restarted for prophylaxis. Plt's up trending to 104 at 
+discharge. Suspect HIT type 1. 
+
+#) Asthma:  Continued nebulizers and albuterol inhaler 
+
+#) Anemia: Anemia of CKD, on Procrit as outpatient and iron. 
+Iron stores most recently at goal. Started on EPO with HD (50 
+units/kg 3x/week) -> 5,000 units qHD treatment. Restarted on EPO 
+with HD ___. 
+
+#) Metabolic Bone Disease. Ca at goal, phos has been elevated. 
+PTH at goal for CKDV/ESRD. Vitamin D at goal.  
+ 
+#) Nutrition - started nephrocaps daily, low Na/K/Phos diet.
+
+#) Gout - Allopurinol, renally dosed
+
+#) DMII - Diet controlled. Recent A1c 6.2% ___. Insulin 
+sliding scale used while admitted.
+
+#) Hx of ETOH use - no use for past ___ years, may be etiology 
+for CM. 
+
+MEDICATION CHANGES
+------------------
+- Hydralazine was increased from 50 mg BID to 50 mg TID
+- Her Lasix was discontinued and she was started on torsemide 40 
+mg
+- Bicarb discontinued
+- allopurinol dose adjusted to 100 mg daily
+- started on 25 mg losartan PO daily
+ [] consider titrating up as an outpatient
+
+TRANSITIONAL ISSUES
+[] monitor pt's blood pressure closely, if volume status is 
+optimally managed with HD, anti-hypertensive regimen may need to 
+be weaned down. 
+[] recommend instructing pt to not hold antihypertensives prior 
+to HD session as blood pressure uncontrolled when doing so, has 
+not had hypotension at HD sessions
+[] Vein mapping, quant gold, and hep serolgies all done. 
+[] Will need outpatient TTE in 6 weeks to look for recovery of 
+EF outside of hypertensive emergency.
+[] Started on losartan, listed allergy of cough could not be 
+verified by records or speaking with patient. Monitor for cough, 
+if no cough and BP still elevated consider titrating up. (also 
+since pt's EF < 35% ___ confers mortality benefit)
+- HD will be MWF at 2:45 ___ at ___ Dialysis ___
+
+# Communication/HCP: ___ (daughter/HCP) ___ 
+# Code: Full, confirmed with HCP 
+
+Discharge weight 83.5 kg.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sodium Bicarbonate 650 mg PO BID 
+2. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+3. Furosemide 20 mg PO DAILY 
+4. HydrALAZINE 50 mg PO BID 
+5. Albuterol 0.083% Neb Soln 1 NEB IH PRN wheeze 
+6. Sodium Polystyrene Sulfonate 15 gm PO BID 
+7. Albuterol Inhaler 2 PUFF IH Q4-6H PRN wheeze 
+8. Simvastatin 20 mg PO QPM 
+9. Gabapentin 300 mg PO QHS 
+10. Ketoconazole 2%  1 Appl TP BID 
+11. Allopurinol ___ mg PO DAILY 
+12. Carvedilol 25 mg PO BID 
+13. Docusate Sodium 100 mg PO BID 
+14. Aspirin 81 mg PO DAILY 
+15. Lactulose 15 mL PO BID:PRN constipation 
+16. budesonide-formoterol 160-4.5 mcg/actuation inhalation DAILY 
+
+17. Ferrous Sulfate 325 mg PO BID 
+18. Fluticasone Propionate NASAL ___ SPRY NU DAILY 
+19. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID 
+20. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Losartan Potassium 25 mg PO DAILY 
+RX *losartan 25 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Nephrocaps 1 CAP PO DAILY 
+RX *B complex with C#20-folic acid [Nephrocaps] 1 mg 1 
+capsule(s) by mouth daily Disp #*30 Capsule Refills:*3 
+3.  Torsemide 40 mg PO DAILY 
+RX *torsemide 20 mg 2 tablet(s) by mouth daily Disp #*60 Tablet 
+Refills:*3 
+4.  Allopurinol ___ mg PO DAILY 
+RX *allopurinol ___ mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*3 
+5.  HydrALAZINE 50 mg PO TID 
+RX *hydralazine 50 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*3 
+6.  Albuterol 0.083% Neb Soln 1 NEB IH PRN wheeze  
+7.  Albuterol Inhaler 2 PUFF IH Q4-6H PRN wheeze  
+8.  Aspirin 81 mg PO DAILY  
+9.  budesonide-formoterol 160-4.5 mcg/actuation inhalation DAILY 
+ 
+10.  Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID  
+11.  Carvedilol 25 mg PO BID  
+12.  Docusate Sodium 100 mg PO BID  
+13.  Ferrous Sulfate 325 mg PO BID  
+14.  Fluticasone Propionate NASAL ___ SPRY NU DAILY  
+15.  Gabapentin 300 mg PO QHS  
+16.  Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY  
+17.  Ketoconazole 2%  1 Appl TP BID  
+18.  Lactulose 15 mL PO BID:PRN constipation  
+19.  Multivitamins 1 TAB PO DAILY  
+20.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Acute Hypoxemic respiratory failure
+
+Secondary Diagnosis:
+Pulmonary edema
+Volume overload
+Hypertensive emergency
+ESRD
+Acute on chronic non-ischemic HFrEF
+thrombocytopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms ___,
+
+You were admitted to ___ for the start of your 
+hemodialysis for your kidney disease. Unfortunately, when you 
+came in you became dangerously hypertensive. We believe your 
+high blood pressure caused increased stress on your heart. Your 
+heart function was found to be decreases, which is why you 
+backed fluid into your lungs and had to be transferred to the 
+intensive care and had a breathing tube placed. You required a 
+drip of medication for you blood pressure and HD and medication 
+to take fluid off to clear up you lungs. You improved rather 
+quickly and your breating tube was able to be removed. While you 
+were in the hospital, your home blood pressure medications were 
+increased. The details of your medication changes are included 
+in this packet. Please talk to your doctors should ___ have any 
+questions.
+
+When you go home, please weigh yourself every morning, call MD 
+if weight goes up more than 6 lbs.
+
+It was a pleasure taking care of you,
+Your ___ Care team.
+ 
+Followup Instructions:
+___

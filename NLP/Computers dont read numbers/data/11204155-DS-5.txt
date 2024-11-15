@@ -1,0 +1,425 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+incidental choledocholithiasis
+
+ 
+Major Surgical or Invasive Procedure:
+___- ERCP with sphincterotomy, sludge removal
+___- laparoscopic partial cholecystectomy
+
+ 
+History of Present Illness:
+___ year old male with h/o RCC s/p resection with no evidence 
+of disease, BPH s/p TURP c/b urinary outlet obstruction 
+secondary to bladder diverticulum for which he straight caths 
+himself, developed nausea and vomiting a week ago. His PCP 
+ordered him an MRCP which demonstrated choledocholithiasis, as 
+well as pancreas divisum and abnormal appearing GB consistent 
+with adenomyomatosis. He underwent ERCP with sphincterotomy and 
+sludge extraction. Periprocedure he received cipro 400 mg IV as 
+well as 1 mg IV Dilaudid with good effect. Pt was able to void 
+post procedure by straight cathing.  He last vomited a month ago 
+and denies further symptoms. He does not report fevers or 
+chills. He has lost ___ pounds over the past 2 months which he 
+attributes to eating a healthier diet. + chronic phlegmy cough 
+that he cannot bring up the sputum. No recent changes. 
+Occasional night sweats. They are mild and he does not wake up 
+drenched. He thinks that its a function of his thermostat. Last 
+BM this am- normal. He takes Metamucil and a probiotic to keep 
+regular. No blood in it, no diarrhea or constipation. He notes 
+that he is becoming weaker which he attributes to him not 
+exercising. He used to be an athlete. 
+
+ 
+Past Medical History:
+Prostatic hypertrophy, benign 
+Osteoarthritis of ankle and foot 
+Sebaceous carcinoma 
+Intraabdominal hemorrhage 
+Acquired cyst of kidney 
+Malignant neoplasm of kidney, except pelvis 
+Cholelithiases 
+Advanced care planning/counseling discussion 
+Renal carcinoma 
+Basal cell carcinoma 
+urinary retention S/P TURP x 2 in ___ and ___ requires CIC bid 
+for bladder diverticulae
+Screen for colon cancer 
+Optic nerve cupping, suspicious 
+R pT2b RCC s/p nephrectomy in ___ and ___ to date. Cr stable 
+around 1.4-1.6 post-op
+
+ 
+Social History:
+___
+Family History:
+father with aneurysm and died of an embolism. 
+uncle- CAD s/p bypass (age ___
+ 
+
+ 
+Physical Exam:
+Admission physical exam:
+Vitals:97.6 PO 167 / 70 69 18 98 ra  
+CONS: NAD, comfortable appearing  
+HEENT: 3 mm which do not react to light   
+CV: s1s2 rrr ___ SEM at RUSB with radiation to the carotids
+No HJR 
+RESP: b/l ae no w/c/r  
+GI: +bs, soft, NT, ND, no guarding or rebound  
+Well healed RUQ abdominal surgical scar
+MSK:no c/c/e 2+pulses
+FEET: Well cut toenails which he does himself  
+SKIN: + SKs on face  
+NEURO: face symmetric speech fluent, able to sit up in bed and 
+show me how he cuts his toenails. ___ strength in b/l lower and 
+upper extremities  
+PSYCH: calm, cooperative, pleasant 
+LAD: No cervical LAD
+
+Discharge physical exam: 
+VS: 98.6 144/76 66 18 96RA
+General: well-appearing male, NAD
+HEENT: NCAT, moist mucus membranes
+Chest: no increased WOB
+Cardiac: RRR
+Abd: soft, nontender, mildly distended. Port sites with steris 
+open to air c/d/I. JP drain in place in RUQ with serosanguinous 
+output. 
+Ext: WWP, no edema
+ 
+Pertinent Results:
+___ 01:30PM   UREA N-22* CREAT-1.2 SODIUM-138 POTASSIUM-4.6 
+CHLORIDE-104 TOTAL CO2-23 ANION GAP-16
+___ 01:30PM   estGFR-Using this
+___ 01:30PM   ALT(SGPT)-13 AST(SGOT)-21 ALK PHOS-66 
+AMYLASE-114*
+___ 01:30PM   LIPASE-25
+___ 01:30PM   MAGNESIUM-1.9
+___ 01:30PM   WBC-6.0 RBC-3.35* HGB-10.6* HCT-32.3* MCV-96 
+MCH-31.6 MCHC-32.8 RDW-17.7* RDWSD-60.7*
+___ 01:30PM   PLT COUNT-253
+___ 01:30PM   ___ PTT-30.6 ___
+___ 12:00AM BLOOD WBC-9.8# RBC-3.16* Hgb-9.9* Hct-30.4* 
+MCV-96 MCH-31.3 MCHC-32.6 RDW-17.2* RDWSD-60.2* Plt ___
+___ 12:00AM BLOOD Glucose-118* UreaN-26* Creat-1.1 Na-137 
+K-4.4 Cl-104 HCO3-24 AnGap-13
+___ 06:00AM BLOOD WBC-8.5 RBC-2.95* Hgb-9.6* Hct-28.8* 
+MCV-98 MCH-32.5* MCHC-33.3 RDW-17.5* RDWSD-62.0* Plt ___
+___ 06:00AM BLOOD Glucose-108* UreaN-22* Creat-1.2 Na-138 
+K-4.5 Cl-102 HCO3-22 AnGap-19
+___ 06:00AM BLOOD ALT-61* AST-53* AlkPhos-96 TotBili-0.7
+___ 05:30AM BLOOD WBC-6.7 RBC-2.97* Hgb-9.5* Hct-28.9* 
+MCV-97 MCH-32.0 MCHC-32.9 RDW-17.8* RDWSD-62.6* Plt ___
+___ 05:30AM BLOOD Glucose-100 UreaN-16 Creat-1.2 Na-136 
+K-4.4 Cl-101 HCO3-25 AnGap-14
+___ 05:30AM BLOOD ALT-41* AST-29 AlkPhos-84 TotBili-0.6
+
++++++++++++++++++++++++++++++++++++++
+___ MRCP
+IMPRESSION:
+1. There is at least one suspicious filling defect in the common 
+bile duct for choledocholithiasis, measuring 5 mm. This was 
+likely present on last year's MRI, as commented on in the 
+report. There is no biliary dilatation.
+2. Pancreas divisum. No evidence of acute pancreatitis or 
+pancreatic ductal
+dilatation.
+3. Markedly abnormal gallbladder, as on all prior studies elbow 
+for comparison, with gallstones and gallbladder wall thickening 
+with cystic dilatation suggesting adenomyomatosis.
+4. Status post right nephrectomy without evidence of recurrence 
+or metastatic disease on this unenhanced exam.
+5. Abnormal appearance of segment III of the liver is stable 
+from multiple prior studies and unlikely to be related to 
+neoplasm
+++++++++++++++++
+ERCP: ___
+
+The CBD was successfully cannulated with CleverCut 3V 
+sphincterotome preloaded with a 0.025in guidewire. The guidewire 
+was advanced into the intrahepatic biliary tree. 
+Contrast injection revealed a CBD of approximately 8mm in 
+diameter and small filling defects in the distal CBD consistent 
+with sludge. 
+A sphincterotomy was successfully performed at the 12 o'clock 
+position. No post sphincterotomy bleeding was noted. 
+The CBD was swept several times with successful removal of small 
+amounts of sludge material. 
+Occlusion cholangiogram showed no further filling defects. 
+There was excellent drainage of bile and contrast at the end of 
+the procedure.  
+Pancreas: 
+The PD was not injected or cannulated.
+.
+Impression: Limited exam of the esophagus was normal
+Limited exam of the stomach was normal
+Limited exam of the duodenum was normal
+ The scout film revealed radiopaque markers in the RUQ. 
+The major papilla appeared normal. 
+The CBD was successfully cannulated with CleverCut 3V 
+sphincterotome preloaded with a 0.025in guidewire. 
+The guidewire was advanced into the intrahepatic biliary tree. 
+Contrast injection revealed a CBD of approximately 8mm in 
+diameter and small filling defects in the distal CBD consistent 
+with sludge.
+A sphincterotomy was successfully performed at the 12 o'clock 
+position. 
+No post sphincterotomy bleeding was noted. 
+The CBD was swept several times with successful removal of 
+small amounts of sludge material.
+Occlusion cholangiogram showed no further filling defects. 
+There was excellent drainage of bile and contrast at the end of 
+the procedure.
+The PD was not injected or cannulated.
+ .
+Recommendations: Admit to hospital for monitoring
+NPO overnight with aggressive IV hydration with LR at 200 cc/hr
+If no abdominal pain in the morning, advance diet to clear 
+liquids and then advance as tolerated
+Refer for surgical evaluation for cholecystectomy with Dr. 
+___.
+No aspirin, Plavix, NSAIDS, Coumadin for 5 days.
+Continue with antibiotics - Ciprofloxacin 500mg BID x 5 days.
+Follow for response and complications. If any abdominal pain, 
+fever, jaundice, gastrointestinal bleeding please call Advanced 
+Endoscopy Fellow on call ___
+.
+ECG: SR at 64 bpm, incomplete RBBB.
+
+ 
+Brief Hospital Course:
+The patient is a ___ male who presented to ___ with 
+complaint of nausea/emesis and outpatient MRCP findings of 
+choledocholithiasis and gallbladder adenomyomatosis. His labwork 
+was unremarkable. Given his symptoms and the MRCP findings, 
+however, he went with the GI team for ERCP with sphincterotomy 
+and sludge extraction. General surgery was subsequently 
+consulted for surgical management. The following day, he 
+underwent cholecystectomy and was transferred to the surgical 
+service. The procedure was complicated by bowel noted to be 
+adherent to the gallbladder requiring an extension of the 
+surgical incision as well as running the bowel without any bowel 
+injury noted. Also, due to the high degree of inflammation, a 
+partial laparoscopic cholecystectomy was performed with a small 
+segment of infundibulum remaining. Given EBL of 200cc, a JP 
+drain was left in place in the RUQ that produced serosanguinous, 
+non-bilious output during his post-operative course. 
+Intraoperatively, the patient intermittently required 
+phenylephrine but was hemodynamically stable post-operatively 
+and did not require additional pressors or fluid rescusitation. 
+He remained afebrile. 
+His diet was advanced to fulls on the evening of POD0 and then 
+regular diet on POD1, which he tolerated well. His pain regimen 
+was switched from IV to oral once he tolerated a diet with good 
+relief. Post-operatively, flagyl was added to the ciprofloxacin. 
+He will continue on ciprofloxacin/flagyl at home after discharge 
+for a total 5-day course. He ambulated and self-catheterized per 
+his usual routine without difficulty during his stay. He will be 
+discharged home on POD2 with the JP drain in place with ___ 
+care. He will be seen in clinic for follow up in one week for 
+drain removal. 
+ 
+Medications on Admission:
+1. Tamsulosin 0.4 mg PO QHS 
+2. Finasteride 5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Psyllium Wafer 1 WAF PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO TID:PRN Pain - Mild/Fever 
+Do not exceed 3500mg in one day.  
+2.  Ciprofloxacin HCl 500 mg PO Q12H 
+Take last dose the evening of ___.  
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth q12 Disp #*7 
+Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+Hold for loose stools.  
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+4.  MetroNIDAZOLE 500 mg PO TID 
+Take last dose the evening of ___.  
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*11 Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not take while driving or drinking alcohol.  
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 to 6 hours 
+Disp #*25 Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN constipation 
+Hold for loose stools.  
+RX *sennosides [senna] 8.6 mg 1 by mouth twice a day Disp #*30 
+Tablet Refills:*0 
+7.  Finasteride 5 mg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Psyllium Wafer 1 WAF PO DAILY  
+10.  Tamsulosin 0.4 mg PO QHS  
+11. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until ___. Hold for 5 days after 
+ERCP. 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+choledocholithiasis
+adenomyomatosis
+chronic cholecystitis
+pericholecystic abscess
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the general surgery service after having 
+gallstones and sludge removed from your bile duct by the GI 
+doctors during ___. You received IV antibiotics (ciprofloxacin) 
+and underwent removal of your gallbladder by the surgery 
+service. The incision had to be extended because your 
+gallbladder was very inflamed. A very small portion of the 
+gallbladder was left because it was unsafe to remove it but the 
+procedure otherwise went well.  You are now taking a regular 
+diet. You will be discharged home to complete a 4-day course of 
+oral ciprofloxacin and flagyl. You should follow up in general 
+surgery clinic in two weeks. 
+
+Please follow the discharge instructions below:
+
+ACTIVITY:
+- Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+- You may climb stairs. You should continue to walk several 
+times a day. 
+- You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit. 
+- You may start some light exercise when you feel comfortable. 
+Slowly increase your activity back to your baseline as 
+tolerated.
+- Heavy exercise may be started after 6 weeks, but use common 
+sense and go slowly at first. 
+- No heavy lifting (10 pounds or more) until cleared by your 
+surgeon, usually about 6 weeks. 
+
+HOW YOU MAY FEEL: 
+- You may feel weak or "washed out" for 6 weeks. You might want 
+to nap often. Simple tasks may exhaust you.
+- You may have a sore throat because of a tube that was in your 
+throat during the surgery.
+
+YOUR BOWELS:
+- Constipation is a common side effect of narcotic pain medicine 
+such as oxycodone. If needed, you may take a stool softener 
+(such as Colace, one capsule) or gentle laxative (such as milk 
+of magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+- If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon.
+- After removal of your gallbladder, diarrhea can occur. If you 
+get diarrhea, don't take anti-diarrhea medicines. Drink plenty 
+of fluids and it will likely resolve on its own. If it does not 
+go away, or is severe and you feel ill, please call your 
+surgeon.
+
+PAIN MANAGEMENT:
+- You are being discharged with a prescription for oxycodone for 
+pain control. You may take Tylenol as directed, not to exceed 
+3500mg in 24 hours. Take regularly for a few days after surgery 
+but you may skip a dose or increase time between doses if you 
+are not having pain until you no longer need it. You may take 
+the oxycodone for moderate and severe pain not controlled by the 
+Tylenol. You may take a stool softener while on narcotics to 
+help prevent the constipation that they may cause. Slowly wean 
+off these medications as tolerated. 
+- Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+
+MEDICATIONS:
+- Take all the medicines you were on before the operation just 
+as you did before, unless you have been told differently.
+- If you have any questions about what medicine to take or not 
+to take, please call your surgeon. 
+
+WOUND CARE: 
+- dressing removal: Your outer gauze dressings were removed 
+prior to discharge home. 
+-Starting today, you may shower with any bandage strips that may 
+be covering your wound. Do not scrub and do not soak or swim, 
+and pat the incision dry. Steri strips, will fall off by 
+themselves in ___ weeks. If any are still on in two weeks and 
+the edges are curling up, you may carefully peel them off. Do 
+not take baths, soak, or swim for 6 weeks after surgery unless 
+told otherwise by your surgical team. 
+-Notify your surgeon is you notice abnormal (foul smelling, 
+bloody, pus, etc) or increased drainage from your incision site, 
+opening of your incision, or increased pain or bruising. Watch 
+for signs of infection such as redness, streaking of your skin, 
+swelling, increased pain, or increased drainage. 
+
+DRAIN CARE:
+ 
+You are being discharged with drains in place. Drain care is a 
+clean procedure. Wash your hands with soap and warm water before 
+performing your drain care, which you should do ___ times a day. 
+Try to empty the drain at the same time each day. Pull the 
+stopper out of the bottle and empty the drainage fluid into the 
+measuring cup. Record the amount of fluid on the record sheet, 
+and reestablish drain suction. **--A visiting nurse ___ help 
+you with your drain care.--**
+- Clean around the drain site(s) where the tubing exits the skin 
+with soap and water. Be sure to secure your drains so they don't 
+hang down loosely and pull out. 
+-Strip the drain tubing, empty the bulb(s), and record the 
+output ___ times a day as described above. 
+-Keep a written record of the daily amount from each drain and 
+bring this to every follow up appointment. Your drains will be 
+removed once the output tapers off to an acceptable amount. 
+
+If you experience any of the following, please contact your 
+surgeon: 
+- sharp pain or any severe pain that lasts several hours
+- chest pain, pressure, squeezing, or tightness
+- cough, shortness of breath, wheezing
+- pain that is getting worse over time or pain with fever
+- shaking chills, fever of more than 101
+- a drastic change in nature or quality of your pain
+- nausea and vomiting, inability to tolerate fluids, food, or 
+your medications
+- if you are getting dehydrated (dry mouth, rapid heart beat, 
+feeling dizzy or faint especially while standing)
+-any change in your symptoms or any symptoms that concern you
+
+Please call with any questions or concerns. Thank you for 
+allowing us to participate in your care. We hope you have a 
+quick return to your usual life and activities. 
+
+-- Your ___ Care Team
+ 
+Followup Instructions:
+___

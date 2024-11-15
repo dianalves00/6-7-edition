@@ -1,0 +1,114 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Amoxicillin
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ yo G0 presenting with RLQ pain for the past 1.5-2 days. The 
+pain was sudden in onset, worsening, and constant. She has had 
+some mild nausea but no emesis, no fevers/chills, diarrhea, or 
+other associated symptoms. She has not used any pain medication 
+today and has not required any pain medication in the ED - 
+currently the pain is better. 
+
+She does report a history of hemorrhagic cysts and has been to 
+the ED once before for this type of pain, although this episode 
+is much worse. With every menstrual cycle she typically feels 
+some pain from what she presumes are cysts. 
+ 
+Past Medical History:
+GynHx: 
+- regular cycles on OCPs
+- h/o abnormal Paps and colpo, most recent Pap normal
+
+OBHx: G0
+MedHx: denies
+SurgHx: wisdom tooth extraction
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On evaluation in emergency room:
+Vitals - T:99.2  BP:125/62  HR:64  RR:16
+General: NAD, resting comfortably
+CV: RRR
+Lungs: CTAB
+Abdomen: soft, non-distended, moderate TTP with deep palpation 
+in
+the RLQ, no rebound/guarding
+Pelvic: no CMT, no TTP in the left adnexa or the uterus, marked
+TTP over the right adnexa, with adnexal fullness on the right
+ 
+Pertinent Results:
+___ 02:00PM BLOOD WBC-5.6 RBC-4.43 Hgb-13.1 Hct-37.8 MCV-85 
+MCH-29.6 MCHC-34.7 RDW-13.4 Plt ___
+___ 02:00PM BLOOD Glucose-84 UreaN-11 Creat-0.8 Na-137 
+K-4.3 Cl-106 HCO3-24 AnGap-11
+___ 02:00PM BLOOD ALT-10 AST-19 AlkPhos-38 TotBili-0.2
+___ 02:00PM BLOOD Lipase-37
+___ 02:00PM BLOOD Albumin-4.1
+
+___ pelvic U/S: Right ovarian hemorrhagic cyst measuring 5.6 
+x 5.0 x 4.1 cm. Recommend 6 week follow-up pelvic ultrasound to 
+assess for interval change. No evidence of current ovarian 
+torsion, although intermittent torsion can not be excluded 
+sonographically.
+ 
+Brief Hospital Course:
+Ms. ___ was admitted for abdominal pain, a hemorrhagic cyst 
+on ultrasound, and a concern for torsion given the severity of 
+her pain.  She was made NPO and started on IV fluid hydration.  
+Her labs and vital signs were normal and without evidence of 
+infection or inflammation.  Her pain notably improved on serial 
+abdominal exams, which was reassuring.  The final ultrasound 
+read did not show evidence of current torsion.  She was 
+discharged on hospital day 2 with minimal pain not requiring 
+medications, voiding and ambulating and eating a regular diet 
+without difficulty.  She was instructed to follow up with Dr. 
+___ and was given strict precautions to alert a 
+physician if her pain or other concerning symptoms recur.  
+ 
+Medications on Admission:
+MVI, OCP
+ 
+Discharge Medications:
+MVI, OCP
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+right hemorrhagic cyst
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call if you have recurrence of your severe abdominal 
+pain, fever, feeling faint/dizzy, or any other concerns.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,289 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Tylenol overdose
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o female with no significant PMH presenting with 
+intentional acetaminophen overdose in the setting of altercation 
+with husband. 
+
+Patient was in an argument with her husband on ___  where she 
+was pushed, hitting her head. She was bit on the right arm and 
+left shoulder by her husband. She subsequently took ~ 20 tablets 
+of 500 mg Tylenol around 2pm on ___. She went to sleep after 
+and woke up a few hours later with vomiting. She was brought to 
+the hospital by her husband after learning about her Tylenol 
+intake. She was found to have acetaminophen level of 58 on 
+admission with abdominal pain and nausea. She was evaluated by 
+psychiatry and toxicology in the ED and started on NAC treatment 
+as below. Given acute rise in LFT despite treatment, NAC was 
+continued beyond initial 21 hour protocol.  
+ 
+In the ED, initial vitals were: 
+T 96.7 HR 77 BP 113/53 RR 19 Sat 99% 
+
+- Exam notable for:
+Mild RUQ TTP, bite marks over right arm and shoulder with 
+ecchymosis
+  
+- Labs notable for:
+Serum acetaminophen 51 
+ALT 45---> 1478
+AST 54---> 1394
+INR 1.2--> 1.5-->1.1 
+Albumin 3.3 
+
+Urine Hcg- neg
+UA: Trace leuk, neg nit, 30 prot, 300 gluc, 150 ket, RBC >150 
+WBC 60   
+Urine tox: negative 
+
+EKG: NSR, R75, normal axis, no ST elevation/depression, non 
+specific T wave flattening V2
+ 
+- Patient was given:  
+___ 01:59 IV DRIP Acetylcysteine (IV)  
+___ 02:57 IV Ondansetron 4 mg 
+___ 08:50 PO Ondansetron ODT 4 mg 
+___ 13:02 PO Potassium Chloride 40 mEq 
+___ 17:35 PO/NG Potassium Chloride (Powder) 60 mEq 
+___ 23:45 SC Insulin  
+___ 01:00 IV DRIP Acetylcysteine (IV) Stopped (17h ___  
+___ 01:20 IVF  LR 1000 mL   
+___ 01:22 IV DRIP Acetylcysteine (IV) (6500 mg ordered) 
+___ 12:47 IV Ondansetron 4 mg ___  
+
+Upon arrival to the floor, patient reports ongoing abdominal 
+pain and nausea. Has been intolerant of PO intake since in the 
+ED. Denies chest pain, shortness of breath.
+
+ROS: Positive per HPI. Remaining 10 point ROS reviewed and 
+negative  
+ 
+Past Medical History:
+Vaginal delivery x2
+Post-partum depression
+ 
+Social History:
+___
+Family History:
+No history of Diabtes, HTN, CVD, or cancer. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 1618)
+    Temp: 98.4 (Tm 98.4), BP: 102/71, HR: 78, RR: 18, O2 sat:
+97%, O2 delivery: ra, Wt: 118.7 lb/53.84 kg  
+GENERAL: WDWN female, blunt affect, NAD
+HEENT: PERRLA, EOMI, MMM, clear oropharynx
+CARDIAC: RRR, no r/m/g
+LUNGS: CTAB, no respiratory distress
+ABDOMEN: +BS, soft, mild generalized TTP with more focal pain in 
+the RUQ, no hepatosplenomegaly, no rebound or guarding
+EXTREMITIES: no ___ edema, 2+ DP
+NEUROLOGIC: CN II-XII intact, moving extremities equally 
+SKIN: right shoulder with ecchymosis, no skin lesion, right arm 
+with superficial scabbing lesion and surrounding ecchymosis, no 
+discharge, warmth or erythema 
+Psych: blunt affect, intermittent eye contact, admits to ___ and 
+notes that she would try a more effective method if  trying 
+again
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 2329) 
+Temp: 98.6 (Tm 98.6), BP: 115/75 (97-115/58-75), HR: 76 (64-79), 
+RR: 18 (___), O2 sat: 95% (95-98), O2 delivery: RA 
+GENERAL: lying in bed in NAD
+CARDIAC: RRR, nl S1/S2, no mrg
+LUNGS: CTAB, no respiratory distress
+ABDOMEN: soft, mildly tender over LLQ at site of former HSC 
+injection, ND, +BS. no rebound or guarding
+SKIN: R shoulder with discoloration c/w old hematoma, R forearm 
+with superficial scabbing lesion and old bruising, no erythema 
+edema discharge noted
+PSYCH: intermittently tearful, denying active/passive SI, 
+denying desire to attempt again
+EXTREMITIES: no ___ edema, 2+ DP
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 12:45AM BLOOD WBC-8.9 RBC-4.64 Hgb-13.7 Hct-41.7 MCV-90 
+MCH-29.5 MCHC-32.9 RDW-13.3 RDWSD-44.0 Plt ___
+___ 12:45AM BLOOD ___ PTT-30.4 ___
+___ 12:45AM BLOOD Glucose-150* UreaN-11 Creat-0.5 Na-140 
+K-4.2 Cl-103 HCO3-22 AnGap-15
+___ 12:45AM BLOOD ALT-45* AST-54* AlkPhos-81 TotBili-0.7
+___ 12:45AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-51* 
+Tricycl-NEG
+___ 12:53AM BLOOD Lactate-1.2
+
+PERTINENT LABS
+===============
+___ 12:45AM BLOOD ALT-45* AST-54* AlkPhos-81 TotBili-0.7
+___ 08:10AM BLOOD ALT-76* AST-69* AlkPhos-65 TotBili-0.9
+___ 11:42AM BLOOD ALT-74* AST-59* AlkPhos-58 TotBili-0.8
+___ 09:41PM BLOOD ALT-92* AST-65* AlkPhos-57 TotBili-0.4
+___ 09:45AM BLOOD ALT-1478* AST-1394* AlkPhos-68 
+TotBili-0.9
+___ 05:10PM BLOOD ALT-2538* AST-2057* AlkPhos-74 
+TotBili-0.8
+___ 03:20AM BLOOD ALT-2247* AST-1114* AlkPhos-69 
+TotBili-0.8
+___ 07:00PM BLOOD ALT-1555* AST-391* AlkPhos-69 TotBili-0.6
+___ 06:00AM BLOOD ALT-1213* AST-177* AlkPhos-67 TotBili-0.4
+___ 10:35AM BLOOD ALT-1148* AST-154* AlkPhos-63 TotBili-0.5
+___ 05:39AM BLOOD ALT-886* AST-71* AlkPhos-73 TotBili-0.4
+
+___ 09:41PM BLOOD ___ PTT-34.6 ___
+
+MICRO
+=====
+___ UCx: NG final
+
+DISCHARGE LABS
+===============
+___ 05:47AM BLOOD WBC-7.5 RBC-4.36 Hgb-13.1 Hct-39.7 MCV-91 
+MCH-30.0 MCHC-33.0 RDW-13.5 RDWSD-44.7 Plt ___
+___ 05:47AM BLOOD ___ PTT-45.2* ___
+___ 05:47AM BLOOD Glucose-86 UreaN-16 Creat-0.5 Na-141 
+K-4.3 Cl-100 HCO3-27 AnGap-14
+___ 05:47AM BLOOD ALT-578* AST-47* AlkPhos-72 TotBili-0.4
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of post-partum 
+depression, who presented with intentional acetaminophen 
+overdose in the setting of an altercation with her husband. Due 
+to acute liver injury with transaminitis as a result of the 
+acetaminophen overdose, Ms. ___ was started on N-acetylcysteine 
+100mg/kg per protocol. After a 21 hour cycle, in addition to 
+multiple 16 hour cycles, her LFTs downtrended to <1000, her INR 
+normalized, and her abdominal pain and nausea resolved. 
+Therefore, she was medically cleared for psychiatric inpatient 
+hospitalization with placement at ___.
+
+ACUTE ISSUES
+============
+#Acetaminophen overdose
+#Acute Liver Injury
+#Intimate Partner ___
+As above, Ms. ___ presented with intentional overdose of 
+acetaminophen (roughly 10g ingested) in the setting of an 
+altercation with her husband. Her care was managed with 
+assistance from Medical Toxicology. Initially, she received a 21 
+hour protocol of NAC, then continued with multiple 16 hour 
+protocols as her transaminases were persistently elevated over 
+1000. Her AST/ALT peaked at 2538/___. On ___, they downtrended 
+to <1000, her INR normalized, her abdominal pain and nausea 
+resolved, therefore NAC was stopped per protocol.
+
+#Suicide attempt 
+#Depression
+Ms. ___ notes that she initially had depressive symptoms after
+recent child birth 6 months ago. S/p suicide attempt per above. 
+She was observed with a 1:1 sitter throughout her hospital stay. 
+Psychiatry evaluated her and felt that due to the severity of 
+her suicide attempt, inpatient psychiatric hospitalization was 
+required once she was medically cleared.
+
+CHRONIC/RESOLVED ISSUES
+=======================
+#Hematuria - Ms. ___ was found to have hematuria on her 
+admission urinalysis, but was also menstruating at the time. Can 
+consider repeating urinalysis once she has finished menses.
+
+#Fever, Resolved
+Overnight on ___, Ms. ___ was febrile to 100.8. She has 
+bite wounds on her R upper extremity from her altercation from 
+her husband, however on exam these did not appear infected. She 
+did not have other localizing signs/symptoms. Therefore, she was 
+monitored without initiation of antibiotics, and her fever 
+resolved without intervention. 
+
+# Glucose intolerance, Resolved
+Initially, Ms. ___ had glucose intolerance in the ED to the 
+400s, which improved with SC insulin. Her A1C was found to be 
+normal. It was felt that this glucose intolerance was related to 
+NAC being administered in 5% dextrose solution, though it was 
+unclear why she had ketones in her urine. Repeat glucoses were 
+normal following. Her NAC was then administered in ___.
+
+TRANSITIONAL ISSUES
+===================
+[] Outpatient psychiatric follow up plan per ___.
+[] Will require eventual follow up with PCP to evaluate for 
+resolved acute liver injury, timing and dispo per 
+___.
+
+Greater than ___ hour spent on care on day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+#Acute Liver Injury due to Intentional Acetaminophen Overdose
+#Depression complicated by Suicide Attempt
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You took an intentional overdose of Tylenol pills.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- We checked your liver function because of the Tylenol 
+overdose.
+- We started you on a medication called "N-Acetylcysteine" or 
+"NAC" to protect your liver from the excess Tylenol.
+- We continued this until your liver enzymes were no longer 
+elevated beyond 1000.
+- Psychiatry specialists evaluated you and recommended you spend 
+time inpatient for further psychiatric monitoring and care.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Please continue to take all of your medications and follow-up 
+with your appointments as listed below.
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___

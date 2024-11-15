@@ -1,0 +1,358 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ambien / Percocet / Cephalosporins / oxycodone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+In brief, this is a ___ woman with complex PMH including 
+childhood CML s/p HSCT, RCC s/p nephrectomy, HCV cirrhosis s/p 
+TIPS and Harvoni, uterine rupture c/b cardiac arrest (EF 
+recovered >55% in ___, moderate-severe pulmonary HTN, multiple 
+prior admissions for myositis (believed to be infectious), now 
+presenting with severe bilateral leg pain x 3 days consistent 
+with her prior episodes of myositis.
+
+In the ED:
+- She had a low-grade fever to 99.6, tachycardia to 100s
+- Legs were severely tender to palpation with linear 
+erythematous patches
+- Labs notable for WBC 30.6, CK 1062, CRP 282
+- UA had 32 WBC, many bacteria (only 1 epi)
+- CT bilateral ___ was c/w deep cellulitis and possible myositis 
+but could not entirely rule out soft tissue gas.
+- ACS was consulted and did not think nec fasc likely, 
+recommended admission to Medicine for IV abx.
+- Derm was consulted and felt her superficial lesions were 
+consistent with non-specific capillaritis and deferred further 
+workup and management of possible deeper infection to primary 
+teams.
+- She was started on vanc/meropenem (allergic to cephalosporins) 
+and given 1.5L IVF.
+
+This morning, patient continues to endorse severe leg pain, 
+worst in left calf, also present in left thigh and right calf. 
+Pain is worse with palpation and any movement. She denies 
+fevers/chills, cough/SOB, N/V/D/abd pain, dysuria. 
+ 
+Past Medical History:
+#Renal cell CA ___ clear cell type, 1.5 cm, ___ Grade ___ 
+s/p partial left nephrectomy
+#Leukemia: treated at age ___ DFCI, CH, with chemotherapy, 
+radiation as child s/p MRD from brother
+#E.coli UTI, blood stream infection, and left calf pyomyositis 
+___
+#Hepatitis C genotype 1B
+#Cirrhosis due to HCV: failed multiple curative treatments, 
+due to undergo new therapy this year. Contracted from blood 
+transfusion as a child. Stage 4 fibrosis, IL 28b
+CC genotype. She is a non-responder to interferon and ribavirin
+treatment on two occasions as well as a non-responder to a ___
+clinical trial with 2 directly acting antivirals: Asunaprevir 
+and
+Daclatasvir. She has cords of grade II-III varices and is on 
+nadolol. Not otherwise decompensated. 
+#Hypothyroidism: ___ XRT
+#s/p Supracervical Hysterectomy @ ___ for uterine rupture at 17 
+weeks, thought due to weakened uterine wall from whole-body 
+radiation. (___)
+-Complicated by cardiac arrest in operating room, requiring 
+15 minutes of compressions and six attempts at cardioversion. 
+Complicated by suspected DIC. Required massive resuscitation.
+#Partial anomalous pulmonary venous return with right upper
+lobe pulmonary vein draining into the azygos.
+#Mixed pulmonary hypertension secondary to cirrhosis and 
+right-sided volume overload from PAPVR.
+#Cardiomyopathy from cardiac arrest secondary to intrapartum 
+ruptured uterus > ___ had normal biventricular fxn
+#Moderate-severe TR
+#Mild PH
+#Tobacco abuse 
+
+ 
+Social History:
+___
+Family History:
+No family history of recurrent skin infections, renal cancer, 
+leukemia, immune deficiency.
+ 
+Physical Exam:
+ADMISSION EXAM
+===========================
+ Vitals- 99.1 PO 115 / 59 107 18 97  
+ GENERAL: AOx3, NAD  
+ HEENT: Normocephalic, atraumatic. Pupils equal, round, and 
+reactive bilaterally, extraocular muscles intact. No 
+conjunctival pallor or injection, sclera anicteric and without 
+injection. ___ clear bilaterally with normal light reflex. Dry 
+MM.   
+ NECK: Thyroid is normal in size and texture, no nodules. No 
+cervical lymphadenopathy.  
+ CARDIAC: Tachycardic with ___ systolic murmur LUSB  
+ LUNGS: Clear to auscultation bilaterally w/appropriate breath 
+sounds appreciated in all fields. No wheezes, rhonchi or rales. 
+Resonant to percussion.  
+ BACK: Skin. no spinous process tenderness. no CVA tenderness.  
+ ABDOMEN: Normal bowels sounds, non distended, non-tender to 
+deep palpation in all four quadrants. Tympanic to percussion. No 
+organomegaly.  
+ EXTREMITIES: No clubbing, cyanosis, or edema, no sign of 
+atrophy/hypertrophy. Pulses DP/Radial 2+ bilaterally.  
+ SKIN: Marked areas of tender erythematous skin on Body, mainly 
+LLE, clearly marked borders, some areas petechial  
+ NEUROLOGIC: CN2-12 intact. ___ strength througout. Normal 
+sensation. No ataxia, dysmetria, disdiadochokinesia. Gait is 
+normal.  
+
+DISCHARGE EXAM
+=======================
+GEN: Very thin middle-aged woman.
+CV: RRR, ___ crescendo-decrescendo systolic murmur heard 
+throughout. 
+RESP: Non-labored, CTAB.
+ABD: Soft, NDNT, +BS. Tattoo on LLQ.
+EXT: Areas of prior erythema marked with pen, minimally 
+erythematous at this point (left leg, left thigh, right leg). 
+Very tender to light touch, could not tolerate palpation. Tender 
+with plantarflexion. 
+NEURO: Alert and oriented, normal speech and memory. CN intact. 
+PSYCH: Hostile and uncooperative. Poor insight and judgment.
+ 
+Pertinent Results:
+ADMISSION LABS
+===========================
+___ 01:00PM BLOOD WBC-30.6*# RBC-4.46 Hgb-14.2 Hct-42.8 
+MCV-96 MCH-31.8 MCHC-33.2 RDW-14.2 RDWSD-50.3* Plt ___
+___ 01:00PM BLOOD Neuts-87.3* Lymphs-3.9* Monos-6.8 
+Eos-0.4* Baso-0.6 Im ___ AbsNeut-26.64*# AbsLymp-1.18* 
+AbsMono-2.06* AbsEos-0.11 AbsBaso-0.17*
+___ 01:00PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ 
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ 
+Burr-OCCASIONAL
+___ 01:00PM BLOOD ___ PTT-23.7* ___
+___ 01:00PM BLOOD Glucose-75 UreaN-22* Creat-0.8 Na-135 
+K-4.6 Cl-100 HCO3-19* AnGap-21*
+___ 01:00PM BLOOD CK(CPK)-1062*
+___ 02:00AM BLOOD ALT-28 AST-85* LD(LDH)-283* CK(CPK)-768* 
+AlkPhos-111* TotBili-1.5
+___ 06:40AM BLOOD ALT-29 AST-82* LD(___)-324* CK(CPK)-583* 
+AlkPhos-123* TotBili-1.8*
+___ 01:00PM BLOOD CK-MB-9 cTropnT-<0.01
+___ 01:00PM BLOOD Calcium-9.1 Phos-2.4* Mg-2.3
+___ 01:00PM BLOOD CRP-282.3*
+___ 01:14PM BLOOD Lactate-3.5*
+___ 09:57PM BLOOD Lactate-2.9*
+___ 02:11AM BLOOD Lactate-2.4*
+___ 02:40PM BLOOD Lactate-2.9*
+
+___ 02:12PM URINE barbitr-NEG opiates-NEG cocaine-POS* 
+amphetm-NEG oxycodn-NEG mthdone-NEG
+___ 02:12PM URINE Color-Yellow Appear-Hazy Sp ___
+___ 02:12PM URINE Blood-TR Nitrite-POS Protein-NEG 
+Glucose-TR Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+___ 02:12PM URINE RBC-1 WBC-32* Bacteri-MANY Yeast-NONE 
+Epi-1
+___ 02:12PM URINE UCG-NEGATIVE
+
+IMPORTANT INTERVAL LABS
+======================================
+___ 06:30AM BLOOD Cryoglb-NO CRYOGLO
+___ 02:00AM BLOOD TSH-7.6*
+___ 06:30AM BLOOD HBsAg-Negative HBsAb-Borderline 
+HBcAb-Negative
+___ 02:00AM BLOOD CRP-201.3*
+___ 01:00PM BLOOD C3-123 C4-7*
+___ 06:40AM BLOOD C3-88* C4-5*
+___ 06:30AM BLOOD HIV Ab-Negative
+___ 01:00PM BLOOD Barbitr-NEG
+___ 06:30AM BLOOD HCV VL-5.8*
+___ 06:40AM BLOOD MYOSITIS ANTIBODY PROFILE-PND
+
+DISCHARGE LABS
+=======================================
+___ 06:40AM BLOOD WBC-29.9*# RBC-3.97 Hgb-12.7 Hct-38.0 
+MCV-96 MCH-32.0 MCHC-33.4 RDW-14.2 RDWSD-50.1* Plt ___
+___ 06:40AM BLOOD Neuts-84.2* Lymphs-5.6* Monos-7.3 
+Eos-0.9* Baso-0.7 Im ___ AbsNeut-25.19* AbsLymp-1.69 
+AbsMono-2.18* AbsEos-0.27 AbsBaso-0.21*
+___ 06:40AM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+___ 06:40AM BLOOD ___ PTT-31.6 ___
+___ 06:40AM BLOOD Glucose-75 UreaN-10 Creat-0.6 Na-136 
+K-4.3 Cl-101 HCO3-25 AnGap-14
+___ 06:40AM BLOOD ALT-29 AST-82* LD(LDH)-324* CK(CPK)-583* 
+AlkPhos-123* TotBili-1.8*
+___ 06:40AM BLOOD Calcium-8.3* Phos-3.1 Mg-1.5*
+
+MICRO
+=========================================
+___ CULTURE-FINAL {ESCHERICHIA COLI}EMERGENCY WARD
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of 2g every 8h. 
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ALL NEGATIVE:
+___ IgG ANTIBODY-FINAL; TOXOPLASMA IgM 
+ANTIBODY-FINALINPATIENT
+___ Culture, Routine-FINALINPATIENT
+___ Culture, Routine-FINALINPATIENT
+___ Culture, Routine-FINALINPATIENT
+___ Culture, Routine-FINALEMERGENCY WARD
+___ Culture, Routine-FINALEMERGENCY WARD
+___ Culture, Routine-FINALEMERGENCY WARD
+
+STUDIES
+==================================
++ ___ CT BILAT LOWER EXTREMITY W&W/O CONTRAST
+IMPRESSION: 
+1. Soft tissue edema tracking into the deep, medial portion of 
+the left lower extremity suggestive of deep cellulitis and 
+possible myositis. No evidence of drainable fluid collection. 
+There are a few small hypodense foci in the deep soft tissues of 
+the medial calf, which may represent insinuating fat, but 
+difficult to entirely exclude soft tissue gas. 
+2. No acute fracture seen. 
+
++ ___ LOWER EXT VEINS
+No evidence of deep venous thrombosis in the left lower 
+extremity veins within the limitations of this exam (see 
+findings).
+
++ ___    CXR
+AP portable upright view of the chest.  Lower lung opacity 
+partially due to bilateral breast implants.  A TIPS shunt 
+projects over the right upper abdomen.  An embolic coil is noted 
+in the left upper quadrant.  The lungs appear clear without 
+focal consolidation, large effusion or pneumothorax.  The 
+cardiomediastinal silhouette is unchanged.  No signs of edema or 
+congestion. Bony structures are intact.
+
+ 
+Brief Hospital Course:
+___ with complex PMH including childhood CML s/p HSCT, RCC s/p 
+nephrectomy, HCV cirrhosis s/p TIPS and Harvoni, uterine rupture 
+c/b cardiac arrest (EF recovered >55% in ___, moderate-severe 
+pulmonary HTN, multiple prior admissions for myositis (believed 
+to be infectious), admitted for recurrent severe bilateral leg 
+pain x 3 days consistent with her prior episodes of myositis. 
+She presented with leukocytosis to 30 and elevated lactate to 
+3.5, but with stable hemodynamics. Although she had been treated 
+with antibiotics on previous presentations, infection may be 
+less likely as pt has never had a positive blood culture. She 
+did have a positive urinalysis with GNRs in culture, although 
+she was not having urinary symptoms. Rheumatology was consulted 
+and did not feel that her presentation was an 
+inflammatory/autoimmune phenomenon and did not recommend 
+steroids. A tox screen was added on during admission, which 
+noted a positive cocaine level in urine from admission, 
+concerning for a possible cocaine-induced myopathy. A routine 
+bed search was performed after this was explained to the 
+patient. She insisted on being discharged AGAINST MEDICAL 
+ADVICE. She was not discharged on any new medications. 
+
+An MRI of the thigh and calf was ordered for further evaluation 
+of myositis but not completed prior to discharge. Multiple labs 
+tests were also pending upon discharge (see Results section).
+
+TRANSITIONAL ISSUES:
+[] Consider outpatient MRI of LLE to further evaluate myositis
+[] Urine culture during hospitalization positive for E coli. 
+Patient denied urinary symptoms. Consider treating for UTI if 
+symptomatic.
+[] Myositis antibody panel pending
+[] HCV viral load positive this admission
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild 
+2. LORazepam 0.5 mg PO QHS 
+3. Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing 
+4. Sumatriptan Succinate 50 mg PO ONCE 
+5. Levothyroxine Sodium 75 mcg PO DAILY 
+6. Furosemide 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild  
+2.  Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing  
+3.  Furosemide 20 mg PO DAILY  
+4.  Levothyroxine Sodium 75 mcg PO DAILY  
+5.  LORazepam 0.5 mg PO QHS  
+6.  Sumatriptan Succinate 50 mg PO ONCE  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Myositis of unclear etiology
++cocaine in urine
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ because of leg pain, similar to a 
+presentation that you've had in the past. You were initially 
+started on antibiotics but these were stopped because you were 
+stable and we weren't convinced that you had an infection. We 
+had consulted our infectious disease and rheumatology doctors to 
+___ to help figure out your lab abnormalities and muscle pain. 
+As part of our workup, we checked a toxicology screen, which was 
+positive for cocaine. Cocaine can sometimes lead to problems 
+with muscles. As a result, we felt obligated to perform a room 
+search to protect your safety and for the safety of other 
+patients. You chose to leave the hospital against medical 
+advice. You were informed of the gravity of this situation and 
+understood.
+
+If at any time you start feeling worse and choose to come back 
+to care, please do not hesitate to come to the ED.
+
+- Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,258 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ciprofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ M w a h/o AML diagnosed ___ on azacytidine (last 
+___, Bladder Ca s/p resection, afib on coumadin, 
+worsening macrocytic anemia of unknown etiology, HTN and chronic 
+osteomyelitis, presenting with weakness, lower back pain.  
+
+Patient report subacute onset lower back pain without neurologic 
+deficits, no motor weakness, no decreased sensation.  Most 
+recent labs ___ WBC 5.2 N38.9%, Hgb 8.4, Hct 24.5.  
+
+On review of symptoms, patient does report increasing lumbar 
+back pain over the last 2 weeks.  Pain w any activity and has 
+been interfering w ADLs.  Patient denies recent fevers, chills, 
+nightsweats, cough, SOB, wheezing, rhinorrhea congestion. No 
+chest pain or tightness.  No nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel 
+habits, no hematochezia or melena. No dysuria or change in 
+bladder habits. 
+
+Also, per outpatient oncologist, Dr. ___ felt that 
+over the last week, chronic ___ wound had increasing foul 
+smelling discharge.  Patient denies this.  
+ 
+Past Medical History:
+Past Oncologic History:
+-Bladder Ca dxed ___ s/p transurethral surgery (care by 
+Dr. ___ with ___ in ___.
+-AML diagnosed (care by Dr. ___ at ___ ___, 
+___ started azacytidine, now s/p 6 cycles, most recent dose 
+___.
+.
+Other Past Medical History:  
+___: 
+-Afib
+-HTN
+-Chronic left lower ext ulcer with osteomyelitis and cellulitis 
+s/p shrapnel injury in WWII
+ 
+Social History:
+___
+Family History:
+non-contributory 
+ 
+Physical Exam:
+ADMISSION
+VS: 96.7 138/80 65 20 98%RA
+GEN: AOx3, NAD
+HEENT:  PERRL, MMM, OP clear
+NECK: supple, no LAD, no JVD
+Cards: RRR, S1/S2 normal. no murmurs/gallops/rubs.
+Pulm: No dullness to percussion, CTAB no crackles or wheezes
+Abd: BS+, soft, NT, no rebound/guarding
+Extremities: WWP, 2+ ___ pulses, no c/c/e; LLE 1cm 
+ulcer w minimal foul-smelling serosanguinous discharge, no 
+erythema, no pus 
+Skin: No rashes or bruising
+Neuro: CNs II-XII intact, motor ___ in upper and lower 
+extremities. sensation grossly intact, gait not observed. 
+
+DISCHARGE
+VS: 97.8 (tmax 99.6) 132/74 (SBP 122-152) 72 18 94%RA
+GEN: AOx3, NAD
+HEENT:  PERRL, MMM, OP clear
+NECK: supple, no LAD, no JVD
+Cards: RRR, S1/S2 normal. no murmurs/gallops/rubs.
+Pulm: No dullness to percussion, CTAB no crackles or wheezes
+Abd: BS+, soft, NT, no rebound/guarding
+Extremities: WWP, 2+ ___ pulses, no c/c/e; LLE 1cm 
+ulcer w minimal discharge stable from prior, nonpainful, no 
+erythema, no pus
+Skin: No rashes or bruising
+Neuro: Motor ___ in upper and lower extremities, sensation 
+grossly intact
+ 
+Pertinent Results:
+Blood Counts:
+___ 09:05PM BLOOD WBC-3.0* RBC-2.87* Hgb-8.4* Hct-24.6* 
+MCV-86 MCH-29.3# MCHC-34.3 RDW-16.1* Plt Ct-43*#
+___ 07:00AM BLOOD WBC-3.6* RBC-2.99* Hgb-8.4* Hct-24.6* 
+MCV-82 MCH-28.2 MCHC-34.4 RDW-15.4 Plt Ct-32*
+
+Coags:
+___ 07:35AM BLOOD ___ PTT-42.6* ___
+___ 07:00AM BLOOD ___ PTT-37.3* ___
+
+Chemistry
+___ 09:05PM BLOOD Glucose-118* UreaN-53* Creat-1.7* Na-140 
+K-4.2 Cl-107 HCO3-23 AnGap-14
+___ 07:00AM BLOOD Glucose-105* UreaN-31* Creat-1.1 Na-142 
+K-4.2 Cl-111* HCO3-22 AnGap-13
+
+Micro
+**FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   WOUND CULTURE (Final ___: 
+      Due to mixed bacterial types (>=3) an abbreviated workup 
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are 
+reported if
+      present. Susceptibility will be performed on P.aeruginosa 
+and
+      S.aureus if sparse growth or greater.. 
+
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+___ M w h/o AML diagnosed ___ on azacytidine (last 
+___, afib on coumadin, transfusion-dependent anemia, HTN 
+and chronic osteomyelitis, presenting with lower back pain w/o 
+infiltration or infection on imaging, pain controlled and 
+discharged to rehabilitation. 
+.
+ACTIVE
+#. Back pain - Patient w subacute worsening of back pain over 
+2wks; CT w extensive DJD, no signs infiltrative or infectious 
+process, likely musculoskeletal.  Patient was started on 
+lidocaine patch, standing tylenol, standing gabapentin, and prn 
+oxycodone.  He underwent workup by physical therapy who felt 
+that he could benefit from physical rehabilitation.  
+.
+#. Chronic Anemia - Patient w HCT<30 since ___, per report 
+uncertain etiology, transfusion-dependent q2-3wks since ___.  
+Patient HCT was monitored and transfused with goal HCT>25, 
+receiving 3units pRBCs during admission, with stable vital signs 
+and without signs of bleeding
+.
+INACTIVE
+# Chronic Osteomyelitis - Chronic ___ WWII shrapnel, evaluated 
+by wound care without signs of deep wound infection.  Per 
+discussion with patient, he is not concerned regarding this 
+wound and believes it is stable, does not wish any further 
+evaluation or treatment
+.
+# AML - Patient w hx AML, now s/p 6 cycles azacitadine ___, 
+c/b anemia as discussed above.  Patient was continued on daily 
+hydrea.  Azacitadine was deferred until 
+.
+# Bladder Ca s/p resection, patient asymptomatic during this 
+admission.  
+.  
+# GERD - Patient was continued on Omeprazole.  
+.
+# Afib: Patient was continued on home coumadin. INR at d/c was 
+3.6.  He was continued on atenolol.  
+.
+TRANSITIONAL
+1. Code status: Patient remained full code for duration of this 
+hospitalization
+2. Pending labs: No labs pending at time of discharge
+3. Transition of Care: Patient discharged to rehabilitation with 
+follow-up scheduled with outpatient oncologist Dr. ___ 
+___.  
+ 
+Medications on Admission:
+Hydroxyurea 500mg qday
+Omeprazole 20mg daily
+Coumadin 5mg ___, 2.5mg ___
+atenolol 25mg daily
+Ocuvite BID
+megestrol 20mL BID
+Azacitidine per protocol
+ 
+Discharge Medications:
+1. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+2. megestrol 400 mg/10 mL (40 mg/mL) Suspension Sig: Twenty (20) 
+mL PO BID (2 times a day).  
+3. Ocuvite ___ unit-unit-mg Tablet Sig: One (1) Tablet PO 
+twice a day.  
+4. atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. gabapentin 100 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+6. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q3H (every 3 hours) 
+as needed for pain.  
+7. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day).  
+8. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical DAILY (Daily).  
+9. hydroxyurea 500 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+10. Coumadin 2.5 mg Tablet Sig: One (1) Tablet PO DAYS ___ and 
+___.  
+11. Coumadin 2.5 mg Tablet Sig: Two (2) Tablet PO Days 
+(___).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+Acute Myeloid Leukemia
+
+SECONDARY
+Degenerative Joint Disease of Lumbar Spine
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dr. ___,
+
+___ was a pleasure taking care of you at ___ 
+___.  You were admitted for evaluation of your back 
+pain.  You underwent a CT of your back which did not show signs 
+of cancer infiltration or infection.  Likely the pain you are 
+experiencing is a result of chronic degeneration that is common 
+with age.  You were started on medications to help with your 
+pain.  You were also evaluated by physical therapists who felt 
+that you would benefit from rehabilitation.  
+
+During this hospitalization, the following changes were made to 
+your medications:
+-HELD Azacitidine (please do take until you speak with your 
+outpatient oncologist Dr. ___
+-STARTED lidocaine patch
+-STARTED gabapentin
+-STARTED acetaminophen
+-STARTED oxycodone
+
+Please see below for your scheduled follow-up appointments
+ 
+Followup Instructions:
+___

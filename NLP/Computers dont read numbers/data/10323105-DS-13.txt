@@ -1,0 +1,325 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+aortic stenosis 
+ 
+Major Surgical or Invasive Procedure:
+TAVR on ___
+ 
+History of Present Illness:
+___ year old female with history of CAD s/p CABG ___, PCI ___, 
+HTN, osteoarthritis presents today for evaluation of severe 
+aortic stenosis.  She was referred to ___ for SAVR but CT on 
+___ showed severe calcifications of the thoracic aorta and 
+she was referred to integrated valve clinic for potential TAVR 
+workup.
+
+Ms. ___ reports increasing shortness of breath and angina with
+minimal activity.  She used to walk two to three times a week 
+but
+is unable to do so now given her SOB which has been 
+progressively
+increasing over the past year and half. The patient reports that
+she is unable to work in her yard without becoming short of
+breath and fatigued.  She denies syncope, dizziness or
+palpitations.  
+
+On admission, she denies any complaints. She says that her 
+walking is limited by angina and shortness of breath.
+
+ 
+Past Medical History:
+Aortic stenosis
+CAD
+hyperlipidemia
+HTN
+anxiety
+osteoarthritis
+
+Past Surgical History:
+appendectomy
+tonsillectomy
+hernia repair
+CABG x4, ___ at ___ SVG-OM ___
+ 
+Social History:
+___
+Family History:
+Positive familial history of heart disease.  One brother died at
+___ from MI, sister died of heart disease at ___.  ___ yo
+___ has heart disease and another brother has "heart
+problems." 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+==========================
+ Gen:  well-appearing thin woman, slightly anxious, in NAD
+ HEENT:  EOMI, PERLLA
+ NECK:  no cervical lymphadenopathy, supple
+ CV:  Normal S1, S2. RRR. ___ systolic murmur heard throughout, 
+loudest at LUSB.
+ LUNGS:  CTAB.
+ ABD:  soft, non-distended, non-tender
+ EXT:  wwp. no edema. hands with ulnar deviation, ___ and 
+___ nodes throughout all fingers b/l.
+ SKIN:  no rashes. bruising on R lower calf.
+ NEURO:  AAOX3, grossly moving all extremities.
+
+DISCHARGE PHYSICAL EXAM:
+==========================
+Weight: 47.1 kg
+ Gen:  well-appearing thin woman, slightly anxious, in NAD
+ HEENT:  EOMI, PERLLA
+ NECK:  no cervical lymphadenopathy, supple
+ CV:  Normal S1, loud S2. RRR. II/VI systolic murmur heard best 
+at RUSB.
+ LUNGS:  CTAB.
+ ABD:  soft, non-distended, non-tender
+ EXT:  wwp. no edema. hands with ulnar deviation, ___ and 
+___ nodes throughout all fingers b/l.
+ SKIN:  no rashes. bruising on R lower calf.
+ NEURO:  AAOX3, grossly moving all extremities.
+ 
+Pertinent Results:
+ADMISSION LABS:
+==========================
+___ 03:22PM BLOOD WBC-7.1 RBC-4.05 Hgb-12.0 Hct-37.7 MCV-93 
+MCH-29.6 MCHC-31.8* RDW-13.4 RDWSD-45.7 Plt ___
+___ 03:22PM BLOOD Neuts-58.2 ___ Monos-8.6 Eos-1.8 
+Baso-1.4* Im ___ AbsNeut-4.15 AbsLymp-2.13 AbsMono-0.61 
+AbsEos-0.13 AbsBaso-0.10*
+___ 03:22PM BLOOD ___ PTT-29.0 ___
+___ 03:22PM BLOOD Glucose-93 UreaN-24* Creat-1.0 Na-139 
+K-3.8 Cl-103 HCO3-24 AnGap-16
+___ 03:22PM BLOOD ALT-27 AST-33 LD(LDH)-243 AlkPhos-65 
+TotBili-0.3
+___ 03:22PM BLOOD Calcium-9.3 Phos-3.7 Mg-2.1
+
+OTHER PERTINENT LABS:
+==========================
+
+MICRO DATA:
+==========================
+___ MRSA Screen: Negative
+
+IMAGING/STUDIES:
+==========================
+___ CXR:  
+1.  Patient is status post CABG, stented. Severely calcified 
+aortic valve, 
+annulus, and thoracic aorta. 
+2.  Lungs are clear. 
+
+___ CXR:
+In comparison with the study of ___, there is little 
+change in the 
+appearance the heart and lungs and no evidence of acute 
+pneumonia or vascular congestion.  Right IJ sheath is now in 
+place. 
+
+___ CTA HEAD:
+1. No acute hemorrhage. 
+2. Small infarction in the left frontal lobe, in the middle 
+cerebral artery territory, without mass effect on with partial 
+volume loss, is most likely chronic, and less likely subacute. 
+3. Areas of low density in the supratentorial white matter are 
+nonspecific but likely sequela of chronic small vessel ischemic 
+disease in this age group.  In the setting, detection of small 
+acute white matter infarcts is limited. 
+4. Atherosclerosis of bilateral internal carotid arteries 
+without 
+flow-limiting stenosis. 
+5. Mild short-segment atherosclerotic stenosis of the proximal 
+V4 segment of the left vertebral artery. 
+
+___ TAVR placement
+PreTAVR Deployment
+ No spontaneous echo contrast is seen in the body of the left 
+atrium. No mass/thrombus is seen in the left atrium or left 
+atrial appendage. No atrial septal defect is seen by 2D or color 
+Doppler. There is mild symmetric left ventricular hypertrophy. 
+Regional left ventricular wall motion is normal. There is mild 
+global left ventricular hypokinesis (LVEF = 50 %). Right 
+ventricular chamber size and free wall motion are normal. There 
+are focal calcifications in the aortic arch. There are simple 
+atheroma in the descending thoracic aorta. There are three 
+aortic valve leaflets. The aortic valve leaflets are severely 
+thickened/deformed. There is severe aortic valve stenosis (valve 
+area 0.5cm2). Mild to moderate (___) aortic regurgitation is 
+seen. The aortic regurgitation jet is eccentric. The mitral 
+valve leaflets are moderately thickened. Mild (1+) mitral 
+regurgitation is seen. Moderate [2+] tricuspid regurgitation is 
+seen. There is no pericardial effusion. These findings were 
+discussed with Drs. ___, and ___ at the time of exam 
+in the operating room.
+ PostTAVR Deployment
+ There is a well-seated TAVR valve in place. A trace 
+paravalvular leak is noted. No new regional wall motion 
+abnormalities are seen. The rest of exam is unchanged from 
+predeployment. The findings were discussed with the Cardiology 
+and Cardiac Surgery team at the time of exam in the operating 
+room.  
+
+___ carotid US
+IMPRESSION:  
+Moderate heterogeneous atherosclerotic plaque in the left ICA 
+resulting in no hemodynamically significant stenosis based on 
+sonographic criteria. 
+
+___ ECHO:
+IMPRESSION: Well-seated Lotus aortic valve with normal 
+transvalvular gradients. Moderate tricuspid regurgitation with 
+moderate pulmonary hypertension.  
+
+___ MRI Head
+IMPRESSION: 
+1. Motion artifact which degrades spatial resolution. 
+2. Re- demonstration of a subacute infarction within the left 
+mid frontal 
+middle and inferior gyri. 
+3. Acute punctate infarcts within the bilateral frontal 
+cortices, bilateral occipital cortices, central cerebellar 
+lobule and left cerebellar hemisphere. Small areas of acute 
+infarction at the right posterior inferior and right anterior 
+inferior cerebellar hemisphere.  Findings correspond to multiple 
+vascular territories suggestive of an embolic, central source. 
+No obvious evidence of hemorrhagic conversion. 
+4. Background moderate volume loss and sequela of chronic 
+small-vessel 
+ischemic disease. 
+
+DISCHARGE LABS:
+==========================
+___ 07:40AM BLOOD WBC-10.1* RBC-3.55* Hgb-10.4* Hct-32.6* 
+MCV-92 MCH-29.3 MCHC-31.9* RDW-13.4 RDWSD-45.3 Plt ___
+___ 07:40AM BLOOD Glucose-96 UreaN-11 Creat-0.8 Na-136 
+K-4.4 Cl-100 HCO3-29 AnGap-11
+___ 07:40AM BLOOD Calcium-8.7 Phos-2.2* Mg-1.___RIEF SUMMARY STATEMENT:
+============================
+___ year old female with history of CAD s/p CABG ___, PCI ___, 
+HTN, osteoarthritis presented for TAVR on ___. Her course was 
+complicated by word-finding difficulty on ___ after the 
+procedure, and CT head showed moderate sized 3.5-4h infarct. 
+Neurology recommended MRI which showed subacute infarction 
+within the left mid frontal middle and inferior gyri. Multiple 
+vascular territories suggestive of an embolic, central source, 
+small vessel ischemic disease and acute punctate infarcts within 
+multiple areas of the brain. She was seen by neurology and her 
+defecits completely resolved prior to discharge. 
+
+ACTIVE ISSUES:
+============================
+#) SEVERE AORTIC STENOSIS:
+Patient underwent TAVR on ___ for severe aortic stenosis. TEE 
+post-procedure showed a well seated TAVR without wall motion 
+abnormalities. 
+
+#) ACUTE WORD FINDING DIFFICULTY:
+After her TAVR on ___, patient developed acute word-finding 
+difficulty, concerning for stroke. Code stroke was called, and 
+CT head showed moderate sized infarct 3.5-4h infarct that 
+explains symptoms, likely cardioembolism from how quickly it 
+appeared. Neurology was consulted, and recommended MRI head 
+without contrast. This showed multiple areas of punctate 
+hemorrhage suggestive of a central embolic source. TTE with 
+bubble showed no PFO. Overnight on ___, she was started on a 
+nitro gtt to maintain SBP below 180s. Her pressures improved and 
+she was transferred to the floor. She was seen by neurology and 
+her defecits completely resolved prior to discharge.
+
+CHRONIC ISSUES:  
+============================ 
+#CAD: continued atorvastatin 40 mg, clopidogrel 75 mg
+
+#HTN: continued amlodipine 5 mg
+
+#OA: stable. 
+
+#Depression/anxiety: continued venlafaxine 75 qAM and 37.5 qPM
+
+TRANSITIONAL ISSUES:
+============================
+# Please follow up pulmonary nodule seen on CXR in 12 months.
+# Patient not on ACEI or beta blocker for CAD. Should consider 
+these medications as outpatient for optimizing CAD medication 
+regimen.
+# Discharge weight: 47.1 kg
+# Code: Full Code
+# Contact/HCP: daughter ___ ___
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fish Oil (Omega 3) 1000 mg PO DAILY 
+2. Amlodipine 5 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Multivitamins 1 TAB PO DAILY 
+5. Clopidogrel 75 mg PO DAILY 
+6. Aspirin 325 mg PO DAILY 
+7. Venlafaxine 75 mg PO QAM 
+8. Venlafaxine 37.5 mg PO QPM 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Fish Oil (Omega 3) 1000 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Venlafaxine 75 mg PO QAM 
+6. Venlafaxine 37.5 mg PO QPM 
+7. Clopidogrel 75 mg PO DAILY 
+8. Amlodipine 5 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Severe Aortic Stenosis status post transcatheter aortic valve 
+replacement
+Transient Ischemic Attack
+
+SECONDARY DIAGNOSES
+Coronary Artery Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ for an 
+elective procedure to replace your aortic valve. You tolerated 
+your procedure well, and the post-operative echocardiogram of 
+your heart shows that the new valve is in the correct position. 
+After the procedure, you had some word-finding difficulties and 
+confusion. An MRI of your brain showed some small strokes, most 
+likely from small clots that traveled to the brain from the 
+aorta during your aortic valve replacement procedure. Your 
+neurologic symptoms completely resolved before you were 
+discharged.
+
+It has been a pleasure taking care of you.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

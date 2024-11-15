@@ -1,0 +1,374 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+nausea and vomiting 
+ 
+Major Surgical or Invasive Procedure:
+s/p Endoscopic retrograde cholangio-pancreatography ___
+s/p Laparoscopic cholecystectomy ___
+
+ 
+History of Present Illness:
+HPI: Ms. ___ is a ___ yr old F with MDS, diagnosed on BM bx 
+showing excess blasts, and cytogenetic findings of translocation 
+3;5 and +WT-1 mutation with high risk of transformation to AML, 
+currently on C215 Decitabine who presents from clinic with 
+significant jaundice and direct bilirubinemia. 
+
+The patient reports developing nausea and vomiting last week 
+after eating large meal at ___ the nausea and vomiting 
+has persisted since. She was also noted to have yellow skin tone 
+in the clinic today but did not note this at home. She had no 
+emesis yesterday but 2 episodes on ___ and emesis again this 
+morning. No hematemesis, vomit is non-bilious, most c/w gastric 
+contents. Since yesterday taking mostly liquids as solids cause 
+abdominal discomfort. The pain is intermittent and epigastric. 
+Denies RUQ pain. She reports baseline constipation but has had 
+at least small BM most days and denies melena, hematochezia, or 
+mucoid stool. Reports fatigue of several weeks duration. Denies 
+Tylenol use or any recent changes to medications. She reports 
+approximately 2 episodes per month of over-eating followed by 
+abdominal pain and vomiting. She experiencing frequent 
+generalized abdominal pain which she attributes to long-standing 
+constipation, but the current episode is the worst she has 
+experienced. 
+
+Denies mouth sores, skin blisters, dermatomal pain. Also denies 
+fever/chills/sweats, cough, SOB, itchy skin or new rashes, or 
+dysuria.  
+
+ROS: A 10-point ROS was performed with pertinent findings noted 
+in HPI.
+
+PAST ONCOLOGIC HISTORY: Dx ___. Patient had presented with 
+progressive fatigue and was found to have pancytopenia and 
+particularly significant anemia. A bone marrow was performed, 
+which showed multilineage dysplasia and a 3;5 translocation.  
+This was consistent with a myelodysplastic syndrome that may be 
+associated with more rapid progression towards AML.  The patient 
+was also on rapid heme panel found to have evidence of WT1 
+amplification. On C2 of Decitabine without major complications.  
+
+ 
+Past Medical History:
+MDS
+___ - she was hospitalized for this at age ___ and ___, sees 
+counselor ___ in ___
+Hx herniated disc
+ 
+Social History:
+___
+Family History:
+She is adopted, she is not aware of any siblings and is not 
+aware of her biological parents health.
+
+ 
+Physical Exam:
+ADMISSION EXAM: 
+VS: 98.5 122/80 90 18 96 RA 
+GEN: Generally well appearing, in no acute distress. markedly 
+jaundiced. 
+HEENT: PERRLA. Oropharynx clear with moist mucous membranes. No 
+gum hypertrophy. +scleral icterus
+LYMPH: No palpable cervical or supraclavicular lymphadenopathy.
+CV: Regular rate and rhythm, S1, S2, ___ systolic murmur at ___
+RESP: CTAB, no crackles, wheeze, rhonchi
+ABD:  Soft, ND, +BS. Diffusely tender to palpation most 
+prominent in epigastic region. Neg ___, no rebound or 
+guarding. 
+EXT: Warm, without edema.
+NEURO: Alert and oriented. Grossly normal strength, 
+coordination, and gait.
+SKIN: No rashes or bruising.
+LINES: Left PIV without erythema or tenderness 
+
+DISCHARGE EXAM:
+VS: 99.0  (Tm 99.2)PO 126/79 91 18 94%Ra 
+GEN: Generally well appearing though anxious, in no acute 
+distress, lying in bed. 
+HEENT: Oropharynx clear, MMM. No gum hypertrophy. 
+LYMPH: No palpable cervical or supraclavicular lymphadenopathy.
+CV: RRR, S1, S2, ___ systolic murmur at ___
+RESP: mildly decreased breath sounds at bases, otherwise CTA, no 
+wheezes, rales, rhonchi 
+ABD:  Soft, ND, +BS. Nontender to palpation throughout
+EXT: Warm, without edema.
+NEURO: Alert and oriented. Grossly normal strength, 
+coordination.
+SKIN: No rashes or bruising.
+LINES: Left PIV without erythema or tenderness 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 06:43PM   GLUCOSE-115* UREA N-12 CREAT-0.7 SODIUM-137 
+POTASSIUM-3.5 CHLORIDE-100 TOTAL CO2-24 ANION GAP-17
+___ 06:43PM   ALT(SGPT)-186* AST(SGOT)-112* LD(LDH)-238 ALK 
+PHOS-94 TOT BILI-9.5* DIR BILI-4.5* INDIR BIL-5.0
+___ 06:43PM   ALBUMIN-3.9 CALCIUM-8.0* PHOSPHATE-4.0 
+MAGNESIUM-1.9
+___ 06:43PM   CMV VL-NOT DETECT
+___ 06:43PM   WBC-2.5* RBC-2.29* HGB-7.2* HCT-20.7* MCV-90 
+MCH-31.4 MCHC-34.8 RDW-15.5 RDWSD-47.7*
+___ 06:43PM   NEUTS-86* BANDS-0 LYMPHS-13* MONOS-0 EOS-1 
+BASOS-0 ___ MYELOS-0 NUC RBCS-5* AbsNeut-2.15 
+AbsLymp-0.33* AbsMono-0.00* AbsEos-0.03* AbsBaso-0.00*
+___ 06:43PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-1+ 
+MACROCYT-OCCASIONAL MICROCYT-OCCASIONAL POLYCHROM-1+ OVALOCYT-1+ 
+TEARDROP-1+ ELLIPTOCY-1+
+___ 06:43PM   PLT SMR-LOW PLT COUNT-101*
+___ 06:43PM   ___ PTT-24.4* ___
+___ 01:08PM   LACTATE-0.9
+___ 12:25PM   GGT-261*
+___ 12:25PM   HAPTOGLOB-52
+___ 12:25PM   HBsAg-Negative HBc Ab-Negative IgM 
+HAV-Negative
+___ 12:25PM   Smooth-NEGATIVE
+___ 12:25PM   ___
+___ 12:25PM   ACETMNPHN-NEG
+___ 12:25PM   HCV Ab-Negative
+___ 12:25PM   HBV VL-NOT DETECT HCV VL-NOT DETECT
+___ 12:25PM   ___ PTT-23.8* ___
+___ 10:30AM   UREA N-14 CREAT-0.8 SODIUM-140 POTASSIUM-3.6 
+TOTAL CO2-27 ANION GAP-19
+___ 10:30AM   estGFR-Using this
+___ 10:30AM   ALT(SGPT)-207* AST(SGOT)-147* LD(LDH)-309* 
+ALK PHOS-86 TOT BILI-17.4* DIR BILI-9.4* INDIR BIL-8.0
+___ 10:30AM   LIPASE-2880*
+___ 10:30AM   ALBUMIN-4.6 CALCIUM-9.3 PHOSPHATE-4.5 
+MAGNESIUM-2.2
+___ 10:30AM   WBC-4.4# RBC-2.63* HGB-8.4* HCT-23.6* MCV-90 
+MCH-31.9 MCHC-35.6 RDW-15.4 RDWSD-47.1*
+___ 10:30AM   NEUTS-92* BANDS-0 LYMPHS-8* MONOS-0 EOS-0 
+BASOS-0 ___ MYELOS-0 NUC RBCS-8* AbsNeut-4.05 
+AbsLymp-0.35* AbsMono-0.00* AbsEos-0.00* AbsBaso-0.00*
+___ 10:30AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-OCCASIONAL TEARDROP-OCCASIONAL
+___ 10:30AM   PLT SMR-LOW PLT COUNT-141*
+___ 10:30AM   RET MAN-2.0 ABS RET-0.05
+___ 06:43PM BLOOD CMV VL-NOT DETECT
+Adenovirus PCR negative
+EBV PCR negative
+HSV1 negative
+HSV2 negative
+VZV negative
+IMAGING: CT abd/pelvis ___: 
+IMPRESSION: 
+1.CT findings consistent with acute cholecystitis. Mild 
+prominence of the common bile duct. 
+
+RUQUS ___: 
+IMPRESSION:  
+1.Distended gallbladder with mild wall thickening, gallstones 
+and biliary sludge, dilated common bile duct at 1.0 cm, 
+concerning for acute cholecystitis in the appropriate clinical 
+setting. 
+  
+PATHOLOGY ___: 
+SPECIMEN: BONE MARROW ASPIRATE AND CORE BIOPSY
+DIAGNOSIS: HYPERCELLULAR BONE MARROW WITH ERYTHROID DOMINANT 
+TRILINEAGE DYSPOIESIS CONSISTENT WITH PATIENT'S KNOWN 
+MYELODYSPLASTIC
+SYNDROME BEST CLASSIFIED AT THIS TIME AS MYELODYSPLASTIC 
+SYNDROME
+WITH EXCESS BLASTS-2. SEE NOTE.
+NOTE: Blasts account for 4% of aspirate differential and 4% of
+the peripheral blood cells. In addition Auer rods are seen both
+in some peripheral blood blasts and marrow blasts. By
+CD34 and CD117 staining, blasts comprise approximately 5% of
+cellularity in the core biopsy.
+
+CYTOGENETICS
+FINDINGS: An abnormal 46,XX,t(3;5)(q21;q31) female chromosome
+complement with a translocation involving the long arms of a
+chromosome 3 and a chromosome 5 was observed in each
+of the 10 mitotic cells available foe detailed examination.
+Chromosome band resolution was 400-450. A karyogram was prepared
+on 3 cells. CYTOGENETIC DIAGNOSIS: 46,XX,t(3;5)(q21;q31)[10]
+
+DISCHARGE LABS:
+===============
+
+___ 06:22AM BLOOD WBC-3.2* RBC-2.55* Hgb-8.1* Hct-23.7* 
+MCV-93 MCH-31.8 MCHC-34.2 RDW-15.7* RDWSD-49.0* Plt ___
+___ 06:22AM BLOOD Neuts-68.9 ___ Monos-2.5* 
+Eos-0.0* Baso-0.3 NRBC-4.7* Im ___ AbsNeut-2.19 
+AbsLymp-0.88* AbsMono-0.08* AbsEos-0.00* AbsBaso-0.01
+___ 06:22AM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-OCCASIONAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL 
+Ovalocy-OCCASIONAL Tear Dr-OCCASIONAL
+___ 06:22AM BLOOD ___ PTT-28.4 ___
+___ 06:22AM BLOOD Glucose-101* UreaN-7 Creat-0.4 Na-140 
+K-4.1 Cl-103 HCO3-28 AnGap-13
+___ 06:22AM BLOOD ALT-47* AST-20 LD(LDH)-231 AlkPhos-69 
+TotBili-2.1*
+___ 06:22AM BLOOD Albumin-3.6 Calcium-8.6 Phos-4.5 Mg-2.2 
+UricAcd-1.1*
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yr old female who was incidentally found to 
+have anemia on routine annual exam with subsequent BM bx c/w 
+high-risk MDS now on C2 decitabine who presented to clinic with 
+nausea/vomiting and jaundice, and was found to have marked 
+direct hyperbilirubinemia, elevated lipase, and mild 
+transaminitis all concerning for acute biliary obstruction. 
+
+#Acute cholecystitis: Noted in past to have low level indirect 
+hyperbilirubinemia to ~2, presumed ___. History of 
+intermittent abdominal pain and vomiting with large meals c/w 
+biliary colic. Presented to clinic with nausea/vomiting and 
+jaundice, and found to have severe direct hyperbilirubinemia, 
+elevated lipase and mild transaminitis all concerning for acute 
+cholecystitis. Elevated lipase but no pancreatitis on CT scan. 
+Presenting symptoms and fever to 100.5 on admission concerning 
+for ascending cholangitis warranted initiation of meropenem. 
+Hepatitis ___ was negative. RUQUS and CT showing CBD dilatation, 
+cholelithiasis and sludge, and GB findings c/w acute 
+cholecystitis, prompting ERCP. ERCP on ___ showed dark sludging 
+c/w obstructive pattern but no stones in CBD. ACS was consulted 
+and perfomed laparoscopic cholecystectomy on ___. She tolerated 
+both the ERCP and lap chole without complications. She was 
+continued on meropenem 1g q8h (___). Patient's symptoms 
+resolved completely post-op and there was no recurrence of 
+fevers after meropenem discontinuation. 
+
+#MDS ___/ excess blasts-2 - IPSS-R = 6 = high risk. Planning for 
+allo HSCT. HLA typing performed, registry search w/ tentative 
+___ unrelated donor but with DPB1 mismatch increasing GVH 
+risk. Awaiting further information to confirm if additional 
+___ donors are available. She has tolerated C1 and C2 
+decitabine well until development of the current issue. She has 
+not had circulating blasts and has good restitution of counts 
+after each cycle. Patient has not been neutropenic this 
+hospitalization.
+
+#Anemia: Prior evaluation for hemolysis revealed low haptoglobin 
+but she was DAT negative. Elevated ferritin and low TIBC were 
+c/w inflammatory block. She recieved 2 units pRBCs prior to the 
+lap chole for a hgb of 6 and responded appropriately with no 
+signs of bleeding post-op.
+
+#Aphthous ulcer: noted on R side of tongue. Painless. No 
+treatment required.
+
+#Soft stools: noted 3 soft BM post-op in setting of aggressive 
+bowel regimen. Elected to monitor given patient is otherwise 
+asymptomatic and NOT neutropenic.
+
+TRANSITIONAL ISSUES:
+====================
+[ ] New Medications:
+ - oxycodone 5 mg - please take only for breakthrough 
+post-operative pain
+ - no other medication changes.
+[ ] Follow-up appointments:
+ - On ___ ___
+ - On ___ with the Surgical team
+[ ] Ok to take showers but avoid baths
+[ ] Continue with small meals and advance diet as tolerated
+[ ] Steri strips over incisions should be allowed to come off on 
+their own
+# CODE: Presumed Full
+# EMERGENCY CONTACT: ___ (husband), ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing 
+2. Fluticasone Propionate NASAL 1 SPRY NU BID 
+3. LORazepam 0.5 mg PO BID PRN anxiety 
+4. Ondansetron 4 mg PO Q8H:PRN nausea 
+5. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+6. Prochlorperazine 5 mg PO Q6H:PRN nausea 
+7. Vitamin D 1000 UNIT PO DAILY 
+8. Ascorbic Acid ___ mg PO Frequency is Unknown 
+9. Senna 8.6 mg PO DAILY:PRN constipation 
+10. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID:PRN 
+wheezing  
+
+ 
+Discharge Medications:
+1.  OxyCODONE (Immediate Release) 5 mg PO Q12H:PRN Pain - Severe 
+
+RX *oxycodone [Oxaydo] 5 mg 1 tablet(s) by mouth every 12 hours 
+as needed Disp #*6 Tablet Refills:*0 
+2.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing  
+3.  Ascorbic Acid ___ mg PO DAILY  
+4.  Fluticasone Propionate NASAL 1 SPRY NU BID  
+5.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID:PRN 
+wheezing   
+6.  LORazepam 0.5 mg PO BID PRN anxiety  
+7.  Ondansetron 4 mg PO Q8H:PRN nausea  
+8.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+9.  Prochlorperazine 5 mg PO Q6H:PRN nausea  
+10.  Senna 8.6 mg PO DAILY:PRN constipation  
+11.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute cholecystitis 
+Myelodysplastic syndrome 
+Anxiety 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure being a part of your care during your 
+hospitalization at ___!
+
+Why were you hospitalized?
+You were admitted to ___ for nausea, vomiting, and yellowing 
+of your skin (jaundice).
+
+What was done for you this hospitalization?
+-We did some blood tests, a cat (CT) scan, and an ultrasound of 
+your abdomen and found that you had gallstones and an inflamed 
+gallbladder. This is likely the cause of you belly pain and 
+discomfort with meals.
+-You had a procedure called an ERCP to remove bile and any 
+stones from your biliary ducts. 
+-You had your gallbladder surgically removed. 
+-You tolerated these procedures very well and the labs we were 
+tracking improved dramatically. 
+-We gave you fluids, pain medication, and antibiotics to help 
+you through the process.  Your white blood cell count (infection 
+fighter cells) remained in the normal range. 
+
+What should you do after you leave the hospital?
+-Follow up with Dr. ___ in clinic on ___
+-Follow up with the ___ clinic on ___
+-Continue to take your medications as prescribed
+-Ok to take showers but avoid baths
+-Continue with small meals and advance diet as tolerated
+
+We wish you the best!
+
+Sincerely,
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

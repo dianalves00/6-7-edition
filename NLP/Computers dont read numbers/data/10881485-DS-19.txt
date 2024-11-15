@@ -1,0 +1,319 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Malaise
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of 
+panhypopituitarism who presents with a chief complaint of 
+weakness and fever x 24 hours and noted to be hypotensive upon 
+arrival. 
+
+Ms. ___ was in her usual state of health until 24 hours ago 
+when she began to note a dry cough, chills, rigors, myalgias, 
+and malaise. This worsened gradually over the last 24 hours 
+until she was noted on the evening of ___ to be lethargic in 
+bed having soiled herself prompting her family to call ___. Upon 
+their arrival, she was hypotensive to ___ and was given IVF 
+in the field with initial improvement.  
+
+She and her family deny sick contacts. Although she works as a 
+___, the children were on vacation for the last week. 
+Otherwise, she complained of earache last few weeks which was 
+waxing and waning. 
+ 
+In the ED, initial vs were: 102.3 ___ 18 98%. Labs notable 
+for elevated WBC to 11.7, ___ with Cr of 3.3, lactate of 2.4. 
+CXR, CT head were both unremarkable. CT abdomen demonstrated no 
+acute process. In the ED, she was given Vancomycin, Cefepime, 
+and 100mg of Hydrocortisone. She was given 4L of normal saline 
+and started on levophed due to persistent hypotension. R femoral 
+central line placed after RIJ attempt was aborted due to patient 
+movement. Waxing and waning mental status downstairs and quite 
+combative.   
+ 
+Past Medical History:
+Panhypopituitarism secondary to ___ syndrome in the setting 
+of a post-partum hemorrhage
+Remote History of Zoster
+
+ 
+Social History:
+___
+Family History:
+Mother with hypothyroidism, Father with ___ 
+
+ 
+Physical Exam:
+ADMISSION:
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+
+DISCHARGE:
+VITALS: Afebrile, VSS BP 120s
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+
+ 
+Pertinent Results:
+ADMISSION:
+___ 08:30PM BLOOD WBC-11.7* RBC-4.46 Hgb-14.3 Hct-43.0 
+MCV-96 MCH-32.0 MCHC-33.2 RDW-13.0 Plt ___
+___ 08:30PM BLOOD Neuts-57.5 ___ Monos-7.3 Eos-0.4 
+Baso-0.7
+___ 08:30PM BLOOD ___ PTT-31.3 ___
+___ 08:30PM BLOOD Glucose-76 UreaN-33* Creat-3.3*# Na-139 
+K-3.9 Cl-103 HCO3-20* AnGap-20
+___ 08:30PM BLOOD ALT-128* AST-192* AlkPhos-121* 
+TotBili-0.6
+___ 08:30PM BLOOD Albumin-3.9 Calcium-8.2* Phos-2.7 Mg-1.6
+___ 08:30PM BLOOD Cortsol-4.0
+___ 08:38PM BLOOD Lactate-2.4*
+
+RADIOLOGY:
+___ CXR
+No acute cardiopulmonary process.
+
+___ CT A/P
+No acute intraabdominal process.
+
+___ CT Head
+No acute intracranial process.
+
+ECHOCARDIOGRAPHY
+___
+Poor image quality. The left atrium is elongated. No atrial 
+septal defect is seen by 2D or color Doppler. There is mild 
+symmetric left ventricular hypertrophy with normal cavity size 
+and global systolic function (LVEF>55%). Due to suboptimal 
+technical quality, a focal wall motion abnormality cannot be 
+fully excluded. There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve is not well seen. There is no aortic 
+valve stenosis. No aortic regurgitation is seen. The mitral 
+valve appears structurally normal with trivial mitral 
+regurgitation. The pulmonary artery systolic pressure could not 
+be determined. There is no pericardial effusion.  
+
+DISCHARGE LABS:
+___ 05:50AM BLOOD WBC-10.2 RBC-3.57* Hgb-11.3* Hct-34.9* 
+MCV-98 MCH-31.6 MCHC-32.4 RDW-13.2 Plt Ct-96*
+___ 05:50AM BLOOD Glucose-102* UreaN-22* Creat-0.8 Na-142 
+K-3.9 Cl-109* HCO3-23 AnGap-14
+___ 05:50AM BLOOD ALT-66* AST-61* LD(LDH)-314* AlkPhos-72 
+TotBili-0.4
+___ 05:50AM BLOOD Albumin-3.1* Calcium-7.8* Phos-3.2 Mg-2.4
+___ 08:30PM BLOOD TSH-0.76
+___ 08:30PM BLOOD T4-5.7
+___ 08:30PM BLOOD Cortsol-4.0
+___ 03:02AM BLOOD Lactate-1.7
+___ 8:10 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+___ 2:54 am Rapid Respiratory Viral Screen & Culture
+      Source: Nasopharyngeal swab. 
+
+                            **FINAL REPORT ___
+
+   Respiratory Viral Culture (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+      Refer to respiratory viral antigen screen and respiratory 
+virus
+      identification test results for further information. 
+
+   Respiratory Viral Antigen Screen (Final ___: 
+      Positive for Respiratory viral antigens. 
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3, 
+Influenza A, B,
+      and RSV by immunofluorescence. 
+      Refer to Respiratory Virus Identification for further 
+information. 
+
+   Respiratory Virus Identification (Final ___: 
+      Reported to and read back by ___ ___ 
+11:27AM. 
+      POSITIVE FOR INFLUENZA A VIRAL ANTIGEN. 
+         Viral antigen identified by immunofluorescence. 
+
+___ 5:07 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+___ 12:42 am CSF;SPINAL FLUID      # 3. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of 
+panhypopituitarism who presents with vasodilatory shock in the 
+setting of likely adrenal crisis precipitated by influenza.
+  
+
+# Shock: Patient presenting with shock likely secondary to 
+adrenal crisis in setting of influenza A infection. Patient was 
+fluid resuscitated, given stress dose steroids, and covered 
+initially with broad-spectrum antibiotics, oseltamivir, and 
+acyclovir. She initially required pressors for BP support. 
+Pressors were discontinued on HD#1. A LP was performed which was 
+unremarkable, thus acyclovir was discontinued. CT head, abdomen, 
+and CXR were unremarkable. Patient was found to be (+) for 
+influenza A on respiratory viral swab and influenza likely 
+precipitated her adrenal crisis.  She will continue a 7 day 
+course of oseltamivir 75 mg BID (first day ___. Endocrinology 
+was consulted who provided recommendations about her treatment 
+course. Endocrinology recommended a steroid taper as follows: 
+hydrocortisone 50 mg IV Q8H x24 hrs, 25 mg IV Q8H x24 hrs, 
+prednisone 10 mg x3 days followed by 5 mg x3 days then back to 
+home dose of prednisone 3 mg daily.  Patient was called out to 
+the medical floor on ___ and her blood pressures remained 
+stable in the 110s-120s. Antibiotics (vanco/cefepime) were 
+discontinued on ___ given cultures were negative to date and 
+patient had no evidence of focal infection besides influenza.  
+down to 25 mg iv q8 x24 hs today, then hydrocortisone 40mg am, 
+20 mg pm, then resume home dose).  
+
+# Adrenal Crisis: In context of patient's panhypopituitarism, 
+her hypotension likely represents an adrenal crisis precipitated 
+by influenza infection. She was followed by endocrine who 
+recommended stress dose steroid taper as above. Patient was 
+advised to obtain Medical Bracelet for AI. Patient was 
+prescribed Solucortef 100 mg injection IM prescription at the 
+time of discharge for medical emergency.  
+Patient and family educated by endocrine team re: importance of 
+having access to prednisone when ill and not missing doses 
+(doubling instead) when ill.
+  
+# Panhypopituitarism:  Patient was continued on home 
+levothyroxine and received stress dose steroids as above. She 
+received a Solucortef 100 mg injection IM prescription at the 
+time of discharge for medical emergency.  
+
+# ___: Patient presenting with elevated creatinine likley 
+secondary to vasodilatory shock. Her creatinine downtrended to 
+normal with IVF.
+
+# Transaminitis: Patient presenting with a transaminitis most 
+consistent with hypotension. Enzymes trended down without 
+intervention.
+
+TRANSITIONAL ISSUES
+-Please continue to monitor BP
+-Please ensure patient completes steroid taper as above
+-Please ensure patient has endocrine follow-up
+-Please ensure patient has Solucortef injection
+-Please follow-up final blood cultures from ___
+-Please follow-up final CSF culture from ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 3 mg PO DAILY 
+2. Levothyroxine Sodium 50 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 50 mcg PO DAILY 
+2. OSELTAMivir 75 mg PO Q12H 
+RX *oseltamivir [Tamiflu] 75 mg 1 capsule(s) by mouth every 
+twelve (12) hours Disp #*8 Capsule Refills:*0
+3. PredniSONE 10 mg PO DAILY Duration: 3 Days 
+Please start on ___. 
+RX *prednisone 5 mg 2 tablet(s) by mouth daily Disp #*6 Tablet 
+Refills:*0
+4. PredniSONE 5 mg PO DAILY Duration: 3 Days 
+Please start on ___ 
+Tapered dose - DOWN 
+RX *prednisone 5 mg 1 tablet(s) by mouth daily Disp #*3 Tablet 
+Refills:*0
+5. PredniSONE 3 mg PO DAILY 
+Please start on ___ and continue thereafter 
+Tapered dose - DOWN 
+RX *prednisone 1 mg 3 tablet(s) by mouth daily Disp #*90 Tablet 
+Refills:*0
+6. Hydrocortisone Na Succ. 100 mg IV ONCE Duration: 1 Dose 
+RX *hydrocortisone sod succinate [Solu-Cortef] 100 mg 100 mg SC 
+once Disp #*1 Vial Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: adrenal crisis, influenza
+
+SECONDARY DIAGNOSES: panhypopituitarism
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___ was a pleasure taking care of you at ___. You were admitted 
+with fever and low blood pressure. You were found to have the 
+flu which likely caused an adrenal crisis (and resulting low 
+blood pressure) requiring medications to keep your blood 
+pressure normal and steroids.  Please continue to take your 
+steroid as prescribed.   
+
+Please keep your follow-up appointments as below. Please 
+schedule a follow-up appointment with your primary care 
+physician and with your endocrinologist within the next ___ 
+weeks.  Please return to the emergency room if you experience 
+fevers, chills, shortness of breath, confusion, muscle aches, 
+lightheadedness or any other new or concerning symptoms.
+We wish you the best,
+Your ___ team
+ 
+Followup Instructions:
+___

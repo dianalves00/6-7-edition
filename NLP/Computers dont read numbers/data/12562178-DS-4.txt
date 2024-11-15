@@ -1,0 +1,299 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Dilaudid / bupropion / tramadol / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Small Bowel Obstruction
+Vaginal Melanoma
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo G6P4 with stage IIC vaginal melanoma s/p 4 cycles of 
+nivolumab (C4D1 ___, currently receiving pelvic radiation 
+therapy who was admitted to ___ with N/V, 
+abdominal pain. 
+
+At ___, she underwent a CT scan which, per verbal report, 
+demonstrated a transition point in her ___ hernia 
+sac. She declined NGT placement. She has been managed 
+conservatively with bowel rest with recent advancement to clear 
+fluids. 
+
+Of note, she is due to have interstitial implant placement on 
+___.
+
+She reports that she is now tolerating small sips, but feels 
+that if she advanced to larger volumes she would begin to feel 
+nauseous, so she is self-limiting to sips.
+
+Denies chest pain, SOB, abdominal pain, diarrhea.
+
+Last passed flatus in the afternoon on ___.
+
+ROS: as per HPI, otherwise negative
+
+Onc History:
+- presented w/ postmenopausal bleeding -> pelvic exam notable 
+for blackened area near introitus with polypoid structures at 
+9:00 and some periurethral hyperpigmentation. Two vaginal 
+biopsies taken (___) pathology c/w malignant melanoma 
+- PET CT scan (___) showed a focus of FDG avidity in the 
+right aspect of the vagina/vulva likely representing known 
+vulvovaginal melanoma. Additionally, there was a right level II 
+lymph node and a right intra parotid lymph node that were not 
+pathologically enlarged by CT criteria though demonstrate mild
+FDG avidity, likely reactive.
+- Pelvic MRI (___) showed 1.5 cm nodular mass along the 
+right lateral wall of the lower vagina/vulva without evidence of 
+locally invasive disease. There was no pelvic or inguinal 
+lymphadenopathy.
+- ___: C1D1 nivolumab
+- ___: C2D1 nivolumab
+- ___: C3D1 nivolumab
+- ___: C4D1 nivolumab
+- ___: pelvic radiation
+ 
+Past Medical History:
+Fibromyalgia.
+Cervical radiculopathy and moderate-to-severe stenosis.
+___ esophagus.
+Hyperlipidemia.
+Sleep apnea.
+History of diverticulitis.
+Tobacco use.  She is trying to cut down.
+Osteoarthritis of the hands.
+Right trochanteric bursitis.
+
+ 
+Social History:
+___
+Family History:
+Unremarkable
+ 
+Physical Exam:
+General: NAD, comfortable
+CV: RRR
+Lungs: mild end expiratory wheezes stable from prior exams.
+Abdomen: +bowel sounds, soft, non distended, non tender to
+palpation. Two hernias: one in the lower mid-abdomen, one
+periumbilical.
+Extremities: no edema, no TTP, pneumoboots in place bilaterally
+ 
+Pertinent Results:
+___ 06:26AM BLOOD WBC-3.2* RBC-3.54* Hgb-10.9* Hct-32.6* 
+MCV-92 MCH-30.8 MCHC-33.4 RDW-16.1* RDWSD-54.4* Plt ___
+___ 06:05AM BLOOD WBC-5.2 RBC-4.12 Hgb-12.7 Hct-37.8 MCV-92 
+MCH-30.8 MCHC-33.6 RDW-15.7* RDWSD-52.4* Plt ___
+___ 06:10AM BLOOD WBC-5.3 RBC-3.81* Hgb-11.9 Hct-35.8 
+MCV-94 MCH-31.2 MCHC-33.2 RDW-15.8* RDWSD-54.1* Plt ___
+___ 08:40AM BLOOD WBC-5.7 RBC-3.98 Hgb-12.0 Hct-36.5 MCV-92 
+MCH-30.2 MCHC-32.9 RDW-15.2 RDWSD-51.2* Plt ___
+___ 06:05AM BLOOD WBC-4.9 RBC-3.56* Hgb-10.9* Hct-33.2* 
+MCV-93 MCH-30.6 MCHC-32.8 RDW-15.5 RDWSD-53.2* Plt ___
+___ 06:00PM BLOOD WBC-5.5 RBC-3.78* Hgb-11.6 Hct-34.8 
+MCV-92 MCH-30.7 MCHC-33.3 RDW-15.2 RDWSD-51.7* Plt ___
+___ 06:20AM BLOOD WBC-3.5* RBC-3.79* Hgb-11.5 Hct-35.1 
+MCV-93 MCH-30.3 MCHC-32.8 RDW-15.1 RDWSD-51.8* Plt ___
+___ 07:10AM BLOOD WBC-6.0 RBC-4.16 Hgb-12.8 Hct-37.8 MCV-91 
+MCH-30.8 MCHC-33.9 RDW-15.4 RDWSD-51.0* Plt ___
+___ 09:40PM BLOOD WBC-6.4 RBC-4.52 Hgb-13.8 Hct-41.6 MCV-92 
+MCH-30.5 MCHC-33.2 RDW-15.5 RDWSD-51.8* Plt ___
+___ 06:26AM BLOOD Glucose-108* UreaN-1* Creat-0.4 Na-141 
+K-3.2* Cl-108 HCO3-23 AnGap-10
+___ 06:05AM BLOOD Glucose-109* UreaN-1* Creat-0.4 Na-140 
+K-3.6 Cl-105 HCO3-17* AnGap-18
+___ 06:10AM BLOOD Glucose-50* UreaN-2* Creat-0.5 Na-141 
+K-4.7 Cl-107 HCO3-18* AnGap-16
+___ 08:40AM BLOOD Glucose-54* UreaN-3* Creat-0.5 Na-140 
+K-3.4* Cl-101 HCO3-22 AnGap-17
+___ 06:05AM BLOOD Glucose-53* UreaN-7 Creat-0.5 Na-137 
+K-3.8 Cl-101 HCO3-24 AnGap-12
+___ 06:00PM BLOOD Glucose-63* UreaN-10 Creat-0.5 Na-136 
+K-3.9 Cl-98 HCO3-22 AnGap-16
+___ 06:20AM BLOOD Glucose-77 UreaN-12 Creat-0.5 Na-137 
+K-4.3 Cl-99 HCO3-25 AnGap-13
+___ 07:10AM BLOOD Glucose-89 UreaN-21* Creat-0.5 Na-136 
+K-3.5 Cl-97 HCO3-28 AnGap-11
+___ 09:40PM BLOOD Glucose-90 UreaN-23* Creat-0.6 Na-137 
+K-4.5 Cl-98 HCO3-26 AnGap-13
+ 
+Brief Hospital Course:
+Ms. ___ was admitted to the gyn/onc service as a transfer 
+from ___ with a small bowel obstruction and plan for 
+interstitial implant on ___. Prior to her transfer, patient 
+spent two nights at ___ for her ___ where she was managed 
+conservatively with NPO status and IV fluids.
+
+Upon arrival to the floor, patient had no nausea or vomiting. 
+She was tolerating clears and had a benign exam.
+
+Regarding her small bowel obstruction:
+
+Patient was continued on clears on ___. However, she started 
+feeling nauseous throughout the day. Overnight she had an 
+episode of emesis. Exam at the time was notable for a soft, 
+mildly distended abdomen with one  right inferior hernia and one 
+periumbilical hernia that was mildly tender to palpation. She 
+was thus switched to NPO.
+
+On ___ (HD#3), given continued nausea, a CT abdomen and pelvis 
+was obtained. This demonstrated two transition points within the 
+inferior ventral hernia defect, con concerning for a closed loop 
+obstruction.  There was additional loculated fluid along the 
+mesentery within the hernia concerning for bowel ischemia, noted 
+to be suboptimally evaluated on noncontrast CT. Given these 
+findings, an  NGT was placed for bowel rest/decompression. 
+Further work up for question of bowel ischemia on imaging was 
+deferred as her abdominal exam was stable and her vital signs 
+were stable.  She continued to be managed conservatively and 
+began passing  flatus and having dropped NGT output on ___ 
+(HD#6). On ___, she had decreased NGT output and minimal 
+residual  after a clamp trial. Thus her NGT was removed and her 
+diet was slowly advanced on ___ (HD#7). That day, she was seen 
+by acute care surgery  (ACS) who determined that the patient was 
+not currently a surgical candidate but that she may follow up 
+with ACS as an outpatient. She also had multiple episodes of 
+diarrhea and one well formed stool later that afternoon. On 
+___, she was tolerating a regular diet. Sh e continued to pass 
+flatus and had a normal  abdominal exam with stable vitals. She  
+was discharged home in stable condition with plan for close 
+follow up with interstitial implants.
+
+Regarding her tachycardia:
+During her hospital stay, patient was triggered on ___ for 
+tachycardia in the 150s while the patient was sleeping. She was 
+asymptomatic at the time. An EKG demonstrated atrioventricular 
+normal sinus tachycardia. For this patient was treated with 
+adenosine. Cardiology was contacted who suggested obtaining an 
+echo to assess for structural causes of tachycardia. Lytes, 
+lactate, TSH were within normal limits at the time (___). The 
+echo on ___ was normal, showing some mild pulmonary 
+hypertension. Throughout her hospital stay, patient was noted to 
+have non sustained tachycardia with stable O2 saturation, BPs.  
+Patient was told to follow up in four weeks with outpatient 
+cardiology per  ___ cardiology recommendation. 
+
+Regarding her home medications:. Throughout her hospital stay, 
+Ms ___ was prescribed for her home medications, which 
+include asthma inhalers. medication for asthma, as well as 
+medications for hyperlipedemia and hypertension. 
+
+ 
+Medications on Admission:
+- Calcium + Vitamin D
+- Lamotrigine
+- Atorvastatin
+- Albuterol sulfate, tiotropium bromide, budesonide-formoterol
+- Aspirin, doxepin
+- Escitalopram oxalate
+- Furosemide
+- Hydrocodone-acetaminophen, hydromorphone
+- Prochlorperazine maleate
+- Sennosides
+- Topiramate
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever 
+Do not exceed 4000mg in a day 
+RX *acetaminophen 500 mg 1 tablet(s) by mouth Q6H PRN Disp #*50 
+Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+Hold for loose stools 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*50 Tablet Refills:*1 
+3.  Senna 17.2 mg PO BID bowel prep 
+Please start this bowel regimen on ___.  
+RX *sennosides [senna] 8.6 mg 2 tablet by mouth twice a day Disp 
+#*8 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Small bowel obstruction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to the gynecology oncology service for a small 
+bowel obstruction. You were conservatively managed.  You were 
+made NPO (nothing by mouth) and started on IV fluids.  An NG 
+tube was placed for decompression of the stomach.  Your nausea 
+was treated with antiemetics.  Labs were done which showed no 
+signs of systemic infection.  You were afebrile with stable 
+vital signs and monitored closely for resolution of symptoms. 
+When signs of return of bowel function were present your diet 
+was advanced without incident and you are discharged home on a 
+low residual diet. Your home medications were continued. You 
+have recovered well and the team now feels it is safe for you to 
+be discharged home.  Please follow these instructions:
+
+POST BOWEL OBSTRUCTION CARE:
+* Take your medications as prescribed.
+* Take a stool softener to prevent constipation. You were 
+prescribed Colace. If you continue to feel constipated and have 
+not had a bowel movement within 48hrs of leaving the hospital 
+you can take a gentle laxative such as milk of magnesium.  
+* Do not drive while taking narcotics.  
+* Do not take more than 4000mg acetaminophen (tylenol) in 24 
+hrs.  
+* Please continue on your low residual diet until ___.
+* You were also seen by Dr. ___ your small bowel 
+obstruction. At this time, the recommendation is to not proceed 
+with surgery. However, if you have ongoing symptoms and wanted 
+to further discuss operative intervention, you may call Dr. 
+___ at ___ for an appointment.
+
+INTERSTITIAL BRACHYTHERAPY PLAN:
+* You are scheduled for interstitial brachytherapy treatment on 
+___ with Dr. ___. Please arrive at 8:00 am 
+for your procedure (which is planned for 9:30am). 
+* Please start your bowel regimen (2 Senna morning and night) on 
+___.
+* Do not eat or drink anything after midnight on ___. 
+
+CARDIAC HEALTH
+* While in the hospital, you were noted to have a prolonged 
+episode of supraventricular tachycardia. While in the hospital 
+you received a one time dose of adenosine with good effect.
+* You will need to follow up with cardiology in ___ in 4 to 
+5 weeks. They will call you with an appointment time in the next 
+few days. If you do not hear from the cardiology office, please 
+call at ___ to schedule an appointment. 
+
+Call your doctor at ___ for:  
+* fever > 100.4  
+* severe abdominal pain  
+* difficulty urinating  
+* vaginal bleeding requiring >1 pad/hr  
+* abnormal vaginal discharge  
+* redness or drainage from incision  
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication  
+* chest pain or difficulty breathing 
+* onset of any concerning symptoms 
+ 
+Followup Instructions:
+___

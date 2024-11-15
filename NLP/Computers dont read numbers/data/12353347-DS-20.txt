@@ -1,0 +1,258 @@
+ 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Keflex / Taxotere
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+HPI: Ms. ___ is a ___ year old woman with a history of breast 
+cancer s/p bilateral mastectomies and chemotherapy who presents 
+with fever and diarrhea. She completed her last cycle of 
+chemotherapy with nabpaclitaxel and cytoxan on ___. She had 
+chills for the past two days but no fevers. She had five 
+episodes of diarrhea on the day prior to admission. She also has 
+had pelvic pain which she states is common for her after chemo. 
+She endorses crampy abdominal pain and nausea which is near her 
+baseline. She has had a decreased appetite and states that food 
+tastes bland. She has not noticed any blood in her stool. 
+
+In the ED, initial VS were 98.4 85 119/72 16 99% RA. CT 
+abdomen/pelvis, CXR, and UA were unremarkable. Labs were notable 
+for borderline neutropenia with ANC ~1500. She was given 
+Vanc/Meropenem for febrile neutropenia out of concern that her 
+counts will drop further as she approaches her nadir.
+ 
+
+ROS:  
+(+) Per HPI  
+(-) Denies blurry vision, diplopia, loss of vision, photophobia. 
+Denies headache, sinus tenderness, rhinorrhea or congestion. 
+Denies chest pain or tightness, palpitations, lower extremity 
+edema. Denies cough, shortness of breath, or wheezes. Denies 
+constipation, abdominal pain, melena, hematemesis, hematochezia. 
+Denies dysuria, stool or urine incontinence. Denies arthralgias 
+or myalgias. Denies rashes or skin breakdown. No 
+numbness/tingling in extremities. All other systems negative.  
+ 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+___ + mammogram, invasive ductal carcinoma
+___ bilateral mastectomy, final stage IIA
+TC x 4 cycles
+Cycle 4 of nabpaclitaxel +Cytoxan on ___
+  
+PAST MEDICAL HISTORY:  
+OSA on CPAP pressure of 7 cm H20
+Hypothyroidism
+Obesity
+
+ 
+Social History:
+___
+Family History:
+Mother with breast cancer. Paternal first cousin with DCIS.  
+Also family history of depression and heart disease 
+
+ 
+Physical Exam:
+Admission Physical Exam:
+VS: 99.3 99.3 123/67 104 20 99RA 
+GENERAL: NAD, midddle aged woman resting in bed  
+HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, nontender supple 
+neck, no LAD
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: Clear, no wheezes, rales, rhonchi,
+ABD: nondistended, +BS, no rebound/guarding 
+EXT: moving all extremities well, no cyanosis, clubbing or 
+edema, no obvious deformities  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+.
+Discharge Physical Exam:
+VS: 98.6 98.6 94-102/58-62 ___ 16 97RA 
+GENERAL: NAD, midddle aged woman resting in bed  
+HEENT: AT/NC, EOMI, PERRLA, anicteric sclera, no LAD
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: Clear, no wheezes, rales, rhonchi,
+ABD: nondistended, +BS, no rebound/guarding 
+EXT: moving all extremities well, no cyanosis, clubbing or 
+edema, no obvious deformities  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes
+ 
+Pertinent Results:
+Admission Labs:
+___ 12:15AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 12:15AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 01:00AM   NEUTS-74.9* ___ MONOS-2.2 EOS-2.2 
+BASOS-1.2
+___ 01:00AM   WBC-1.9*# RBC-3.55* HGB-10.7* HCT-32.0* 
+MCV-90 MCH-30.2 MCHC-33.5 RDW-17.6*
+___ 01:00AM   ALBUMIN-3.9
+___ 01:00AM   LIPASE-17
+___ 01:00AM   ALT(SGPT)-16 AST(SGOT)-25 ALK PHOS-55 TOT 
+BILI-0.7
+___ 01:00AM   GLUCOSE-108* UREA N-7 CREAT-0.6 SODIUM-137 
+POTASSIUM-4.8 CHLORIDE-105 TOTAL CO2-22 ANION GAP-15
+___ 02:07AM   LACTATE-0.7
+.
+Discharge Labs:
+___ 07:45AM BLOOD WBC-2.0* RBC-3.27* Hgb-10.0* Hct-29.9* 
+MCV-92 MCH-30.6 MCHC-33.5 RDW-17.8* Plt ___
+___ 07:45AM BLOOD Neuts-48.3* ___ Monos-13.7* 
+Eos-5.4* Baso-1.0
+___ 07:45AM BLOOD Glucose-83 UreaN-5* Creat-0.5 Na-142 
+K-4.1 Cl-108 HCO3-26 AnGap-12
+___ 07:45AM BLOOD Calcium-8.7 Phos-4.0 Mg-2.0
+.
+Microbiology:
+# Blood Cultures (___): No growth.
+# Urine Culture (___): 
+ ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION.  PREDOMINATING ORGANISM. 
+         INTERPRET RESULTS WITH CAUTION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+# Blood Cultures (___): No growth.
+# Blood Cultures ___: Pending.
+.
+Pathology: None.
+.
+Imaging/Studies:
+# CXR (___): No acute cardiopulmonary process.  If clinical 
+suspicion for an atypical infections is high, CT is the 
+recommended study of choice.
+# CT abdomen/pelvis (___): 1. No acute abdominal or pelvic 
+processes. 
+2. Cholelithiasis without cholecystitis.   
+# CXR (___):  In comparison with the study of ___, there is 
+no change or evidence of acute cardiopulmonary disease.  No 
+pneumonia, vascular congestion, or pleural effusion.
+ 
+Brief Hospital Course:
+___ year old woman with a history of Stage IIa breast cancer and 
+hypothyroidism who presents with a chief complaint of diarrhea 
+and fever. 
+
+ACTIVE ISSUES:
+# Febrile Neutropenia: She was febrile to 101.8F on the day 
+prior to admission. She had been having diarrhea since her last 
+chemotherapy session about 1 week earlier. Blood and urine 
+cultures were obtained and she was started on broad spectrum 
+antibiotics (vanc and meropenem). Her chest x-ray was 
+unremarkable. Antibiotics were stopped when she arrived on the 
+floor. Urine cultures obtained in the ER grew out E. Coli that 
+was resistant to Bactrim. She initially remained afebrile but 
+her low grade fevers were likely being masked by the ibuprofen 
+and Tylenol she was taking for bone pain. She had a low grade 
+fever of 100.5F on ___ once the ibuprofen and Tylenol were 
+stopped. She was restarted on meropenem and remained afebrile. 
+Repeat blood and urine cultures were obtained. The second set of 
+urine cultures showed no growth. Of note, she had no episodes of 
+diarrhea during this admission. She also developed a dry cough. 
+Repeat chest x-ray was negative and the cough resolved prior to 
+discharge.   
+  
+# Neutropenia: Likely secondary to recent chemotherapy. WBC 
+count was up-trending after two doses of Neupogen. 
+
+# Pelvic bone pain: Common after she receives chemo. Bone pain 
+has resolved with oxycodone. She will continue ibuprofen and 
+Tylenol on discharge. 
+
+INACTIVE ISSUES: 
+# Stage IIa Breast cancer s/p bilateral masectomy and recent 
+chemotherapy with Nabpaclitaxel and Cytoxan. Her nausea was 
+controlled with Zofran, Compazine and Marinol.
+# Hypothyroidism: Continued home levothyroxine.
+# OSA: Did not require night-time CPAP during this admission. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lorazepam 0.5-1.5 mg PO HS:PRN insomnia 
+2. Ondansetron 8 mg PO Q12H:PRN nausea 
+3. Prochlorperazine 10 mg PO Q8H:PRN nausea 
+4. Levothyroxine Sodium 137 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 137 mcg PO DAILY 
+2. Lorazepam 0.5-1.5 mg PO HS:PRN insomnia 
+3. Ondansetron 8 mg PO Q12H:PRN nausea 
+4. Prochlorperazine 10 mg PO Q8H:PRN nausea 
+5. Docusate Sodium 100 mg PO BID:PRN constipation 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Febrile Neutropenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+    It was a pleasure taking care of you at ___. You were 
+admitted with a fever in the setting of low counts. You were 
+started on antibiotics and were given Neupogen. Your counts 
+improved, and we were able to discharge you home. 
+
+Thank you for allowing us to partake in your care. 
+
+Sincerely,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

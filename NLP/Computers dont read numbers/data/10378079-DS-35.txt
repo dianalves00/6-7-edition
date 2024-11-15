@@ -1,0 +1,450 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+C5 of epoch, headache, nausea, vomiting and cough
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: ___ is a ___ with a history of a tectal 
+primary CNS lymphoma, who now has an aggressive non-Hodgkin's 
+systemic lymphoma being treated with rituximab/EPOCH and IT 
+chemotherapy prophylaxis, s/p Ommaya placement on ___, who 
+is now admitted for C5 of DA-EPOCH and was found to have 
+persistent headache in the past 2 days on admission coupled with 
+cough,
+nausea and vomiting. She was recently hospitalized for 
+management of headache post IT-arac on ___.
+
+Triggered ___ AM for hypotension. Received 1L NS with 
+completion resolution of hypotension. Patient was asymptomatic. 
+Blood culture was sent. 
+
+24hrs Events: Headache resolved. No evidence of hypotension 
+since ___. Now blood pressures are higher and c/o mild blurry 
+vision of which improved with some artificial tear drops. No 
+nausea or vomiting. Cough stable, does not feel short of breath. 
+Stool x 1 on ___. Denies abdominal pain, cramping or diarrhea. 
+No SOB, DOE, fever or shaking chills. 
+
+ROS: Denies dizziness, chest pain, palpitations, presyncopal or 
+syncopal episodes. Of note, she has a history of cough which 
+lingered for about 1 month, went away completely and has now 
+been back in the past 1 week prior to admission. Has been 
+treated in the past for sinusitis but this does not feel like 
+it. No sinus tenderness, runny nose or stuffy nose. Her appetite 
+is good,
+nausea now resolved. Denies mouth sores or difficulty 
+swallowing. Notes numbness of her fingertips only which has not 
+worsened since last cycle. Able to do fine motor movements. No 
+bleeding, bruising or rashes.
+
+A complete 10-point review of systems was performed and was 
+negative unless otherwise noted in the HPI.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY: ___ (formerly ___ is 
+a
+___ right-handed woman from ___, with a history of a
+tectal primary CNS lymphoma, who now has an aggressive
+non-Hodgkin's systemic lymphoma. She had:
+(1) a stereotaxic mid-brain biopsy on ___,
+(2) received 5 cycles of induction high-dose methotrexate
+already,
+(3) status post 8 cycles of maintenance high-dose methotrexate
+until ___,
+(4) status total left hip replacement on ___ for
+osteonecrosis,
+(5) biopsy of a cervical lymph node on the right side on 
+___ at ___ that showed
+aggressive non-Hodgkin's lymphoma, unclassified but intermediate
+between diffuse large cell and Burkitt's lymphoma,
+(6) admission to ___ Service on ___ for evaluation and
+management of lymphoma with 39.4 WBC, 10.0 Hb, 29.9 Hct and 109
+platelets, 
+(7) lumbar puncture on ___ that showed ___ WBC, 473-550
+RBC, 44 protein, and received one dose of IT methotrexate,
+(8) started C1 EPOCH on ___,
+(9) CSF showed 7 WBC, 473 RBC, and 44 protein, and received IT
+methotrexate,
+(10) lumbar puncture on ___ that showed 11 WBC, ___
+RBC, 149 protein and 111 LDH, and received IT methotrexate,
+(11) head MRI on ___ showed no gross lymphoma in the brain,
+(12) received rituximab 100 mg on ___,
+(13) received rituximab 600 mg on ___,
+(14) received C2 EPOCH on ___,
+(15) received IT methotrexate on ___,
+(16) received IT liposomal cytarabine on ___,
+(17) echocardiogram showed normal EF at 60%,
+(18) received C3 EPOCH with rituximab and IT liposomal 
+cytarabine on ___,
+(19) received C4 EPOCH with rituximab and IT liposomal 
+cytarabine on ___,
+(20) Ommaya reservoir placement on ___, and
+(21) admission to OMED Service from ___ to ___ because
+of headache and vomiting after her Ommaya placement.
+(22) received C4 IT liposomal cytarabine on ___
+(23) received C5 IT liposomal cytarabine and rituxan on ___
+(24) received C5 of EPOCH on ___
+
+PAST MEDICAL HISTORY: 
+-CNS lymphoma/systemic lymphoma as above
+-Depression
+-HSV infection during MTX treatment in the past
+-GERD
+-HTN
+-Cold aggluitinin disease, noted during hospitalization
+___
+ 
+Social History:
+___
+Family History:
+She has 6 healthy children and a nephew with a brain tumor.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 98.2 PO 124/72 78 20 100 RA 
+WT: 170.79lbs
+GEN: Pleasant, lying in bed comfortably
+HEENT: Pupils 4 -->3 mm b/l, right scalp surgical incision
+healing well w/o scabbing, no discharge or erythema. No sinus
+tenderness or rhinnorhea
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops
+LUNG: + mild cough during exam, no respiratory distress,
+scattered rhonchi but no crackles or wheezes
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly
+EXT: Warm, well perfused, no lower extremity edema
+PULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses
+NEURO: Alert, oriented, CN III-XII intact, motor and sensory
+function grossly intact
+SKIN: No significant rashes or skin eruptions
+ACCESS: POC C/D/I. Omaya resevior w/o erythema, discharge or
+tenderness
+
+DISCHARGE PHYSICAL EXAM:
+VS: TC 98.5 PO ___ 20 100%RA  
+GEN: Pleasant, lying in bed comfortably
+HEENT: Pupils 4-->3 mm b/l, right scalp surgical incision
+healing well w/o scabbing, discharge or erythema. No sinus 
+tenderness or rhinnorhea
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops
+LUNG: No cough on exam; no respiratory distress; no crackles, 
+wheezes or rhonchi
+ABD: + bowel sounds, soft, nontender, nondistended, no
+hepatomegaly or splenomegaly
+EXT: Warm, well perfused, no lower extremity edema
+PULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses
+NEURO: Alert, oriented, CN III-XII intact, motor and sensory 
+function grossly intact
+SKIN: No significant rashes or skin eruptions
+ACCESS: POC and Omaya w/o erythema, discharge or tenderness
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:00PM   ___ PTT-22.3* ___
+___ 12:00PM   PLT SMR-NORMAL PLT COUNT-209
+___ 12:00PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-OCCASIONAL 
+MACROCYT-2+ MICROCYT-NORMAL POLYCHROM-1+ OVALOCYT-OCCASIONAL 
+SCHISTOCY-OCCASIONAL
+___ 12:00PM   NEUTS-76* BANDS-0 LYMPHS-13* MONOS-10 EOS-1 
+BASOS-0 ___ MYELOS-0 AbsNeut-7.98* AbsLymp-1.37 
+AbsMono-1.05* AbsEos-0.11 AbsBaso-0.00*
+___ 12:00PM   WBC-10.5*# RBC-3.09* HGB-11.1* HCT-34.9 
+MCV-113* MCH-35.9* MCHC-31.8* RDW-19.9* RDWSD-83.4*
+___ 12:00PM   ALBUMIN-3.8 CALCIUM-8.7 MAGNESIUM-2.0 URIC 
+ACID-4.8
+___ 12:00PM   ALT(SGPT)-20 AST(SGOT)-16 LD(LDH)-340* ALK 
+PHOS-93 TOT BILI-0.3
+___ 12:00PM   GLUCOSE-109* UREA N-20 CREAT-0.6 SODIUM-138 
+POTASSIUM-3.9 CHLORIDE-101 TOTAL CO2-27 ANION GAP-14
+
+DISCHARGE LABS
+___ 12:00AM BLOOD WBC-3.4* RBC-2.73* Hgb-9.7* Hct-29.6* 
+MCV-108* MCH-35.5* MCHC-32.8 RDW-16.7* RDWSD-66.4* Plt ___
+___ 12:00AM BLOOD Neuts-86* Bands-4 Lymphs-10* Monos-0 
+Eos-0 Baso-0 ___ Myelos-0 AbsNeut-3.06 AbsLymp-0.34* 
+AbsMono-0.00* AbsEos-0.00* AbsBaso-0.00*
+___ 12:00AM BLOOD Plt Smr-LOW Plt ___
+___ 12:00AM BLOOD Glucose-159* UreaN-15 Creat-0.4 Na-138 
+K-3.3 Cl-104 HCO3-24 AnGap-13
+___ 12:00AM BLOOD ALT-16 AST-15 LD(LDH)-360* AlkPhos-50 
+TotBili-0.3
+___ 12:00AM BLOOD Albumin-3.1* Calcium-7.9* Phos-2.5* 
+Mg-2.0
+
+IMAGING:
+
+CT HEAD ___
+
+FINDINGS:  
+  
+Again seen is a right frontal approach ventriculostomy catheter, 
+unchanged in position with the tip in the left lateral ventricle 
+near the foramen of ___. The ventricles demonstrate minimal 
+progressive increase in measurements over the past 2 exams, with 
+the right frontal horn measuring 11 mm (previously 11 mm and 10 
+mm) and the third ventricle measuring 5 mm (previously 5 mm and 
+3 mm). It is unclear if these differences are due to differences 
+in planes of scanning versus true minimal increase in size.  
+There is no evidence of infarction, hemorrhage, edema, or mass. 
+  
+There is no evidence of fracture.  There is a small amount of 
+fluid layering in the left maxillary sinus.  The other 
+visualized paranasal sinuses, mastoid air cells, and middle ear 
+cavities are clear.  The visualized portion of the orbits are 
+unremarkable. 
+  
+IMPRESSION: 
+  
+1. Unchanged position of a right frontal approach 
+ventriculostomy catheter, with the tip terminating in the left 
+lateral ventricle near the foramen of ___. 
+2. Minimal progressive increase in ventricular measurements 
+compared to ___ and ___, unclear if due to true 
+minimally 
+increased size versus differences in planes of scanning. 
+
+CXR (PA/LATERAL) ___
+
+IMPRESSION:  
+  
+In comparison with the study of ___, there are lower 
+lung volumes. This probably accounts for the increased 
+prominence of the transverse diameter of the heart. Retrocardiac 
+opacification most likely represents atelectatic changes. 
+However, in the appropriate clinical setting, the possibility of 
+a superimposed pneumonia would have to be considered. No 
+evidence of vascular congestion.  Central catheter extends to 
+the mid to lower portion of the SVC. 
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: ___  with a history of a tectal 
+primary CNS lymphoma, who now has an aggressive non-Hodgkin's 
+systemic lymphoma being treated with rituximab/EPOCH and IT 
+chemotherapy prophylaxis, s/p Ommaya placement ___,
+presenting for initiation of C5 of EPOCH but on admission noted 
+to have two days of acute headache, nausea and vomiting but 
+without evidence of acute process on CT head.
+
+C5D6 - ___
+
+ACTIVE ISSUES:
+
+#Hypotension: Asymptomatic and resolved, noted 70/40 x1 on 
+___. Unclear etiology but likely dehydration as weight was 
+down 3lbs from baseline on ___. No evidence of GI loss besides 
+diarrhea the day prior. Eating and drinking well. Did not 
+receive diuresis this cycle which is often typical with EPOCH 
+regimen. There's always concern for infection but leukocytosis 
+resolved as below, no bandemia and
+patient has had no fevers, chills or rigors. Blood culture ___ 
+without growth. ECG ___ unremarkable. Interestingly, patient 
+now developed higher blood pressures as below and was initiated 
+on anti-HTN, see below
+
+#Headache: Resolved. Differential includes possible post 
+procedural headache vs infectious complication vs new mechanical 
+obstruction from recently omaya placement, though ___ is 
+reassuring against hemorrhage or ventricular obstruction.
+Headache occurred within 48 hours following IT liposomal 
+cytarabine on ___ so most likely she experienced chemical 
+meningitis symptoms from the IT-arac. Neuro-onc agrees that her 
+symptoms likely chemical meningitis as well, see Dr. ___ 
+note on ___. Her CSF from ___ did not show evidence of 
+infection or malignant cells. Also, no fevers, chills or rigors 
+so less likely infectious etiology. Did have leukocytosis on 
+admission but now resolved. No bandemia on differential. Normal 
+neuro exam and mental status. Discharged with dexamethasone 4mg 
+BID and Tylenol PRN, monitor closely outpatient. Will likely 
+need taper of her steroids outpatient.
+
+#Hyperglycemia/Glucosuria: Noted in the setting steroids 
+initiation as part of chemotherapy regimen. Of note, patient has 
+been on dexamethasone 4mg BID outpatient and it is unclear if 
+her glucose levels were elevated. She was initiated on insulin 
+sliding scale on ___ while in-house as her FBG were ranging 
+between high 100s to low 300s. Discharged with glucometer and 
+supplies needed to check glucose pre-meals. Advised to call if 
+glucose consistently > 150-200. ___ likely need an 
+endocrinologist follow up outpatient as she is at risk for 
+steroid-induced DM. 
+
+#HTN: Previously on amlodipine 10mg PO daily, discontinued given 
+stable pressures per outpatient team; noted uptrend of blood 
+pressures with a peak SBP of 178 while in-house; therefore, 
+started on amlodipine 5mg po daily on ___. Some mild 
+improvement at discharge. 
+
+#Blurred Vision/Dry Eyes: C/o dry eyes and blurred vision on 
+___ evening but reports this issue has been ongoing but did 
+not mention as she was hoping it will go away. Blurred vision 
+may be a symptom of HTN. Prior to discharge, reported that these 
+symptoms were significantly improved. No other associated visual 
+disturbances. Was given artificial drops to help with dry eyes. 
+Follow up appointment with Dr. ___ on ___ at 2:15pm
+
+#Constipation: Stool x 1 on ___ prior to discharge, continue 
+with bowel regimen. 
+
+#Cough: Mild at discharge. Has had ongoing cough which has been 
+present for over a month per outpatient clinic on ___ of 
+which was attributed to sinusitis per evidence on Sinus CT - of 
+note did complete a course of antibiotics with augmentin at that 
+time. On admission, patient reports that cough resolved but 
+returned about 1 week ago; denies sick contacts, fevers, chills, 
+rigors, sinus tenderness or rhinorrhea. Occasionally does cough 
+up yellow sputum but none since admission. CXR on admission 
+showed retrocardiac opacification which most likely represents 
+atelectatic changes but cannot rule out superimposed PNA.
+-Did not receive empiric ABX
+-consider NCCT chest if symptoms worsens, monitor closely 
+outpatient 
+
+#Nausea/Vomiting: Noted on admission but none since then. Likely 
+chemotherapy effect as last received IT-ara-c on ___ and may 
+evolve with current cycle of EPOCH. Continues w/ zofran and 
+ativan for relief as needed, monitor closely outpatient.
+
+CHRONIC ISSUES/RESOLVED:
+
+#High grade B-cell lymphoma: Currently being treated with 
+DA-EPOCH now s/p C5 of regimen at dose level 2; last received 
+rituximab on ___ and ppx IT liposomal cytarabine (C5D1 
+___. Continued on prophylaxis with acyclovir, bactrim
+(changed to suspension for ease of swelling recently) and 
+lamivudine per primary oncologist, starting neupogen on ___
+
+#CNS lymphoma: Stable, getting treatment as above. Missed her 
+outpatient appointment with Dr. ___ on ___ but received 
+last dose of IT-arac as above. No evidence of malignant cells on 
+most recent cytology on ___.
+
+#Leukocytosis: Resolved, likely neupogen effect. Patient with 
+WBC of 65 on ___ and 10.5. Infectious w/u negative
+
+#Hepatitis B: HBsAb and HBcAb positive. On lamuvidine 100mg PO 
+daily, continue for 6 months following treatment for lymphoma. 
+
+#Depression: Continued on home regimen of fluoxetine.
+
+#HLD: restarted simvastatin at discharge, held during 
+chemotherapy infusion
+
+#History of HSV Infection: Noted during MTX treatment. No 
+evidence of active infection on admission, continue with 
+acyclovir 400mg TID 
+
+Transitional Issues:
+#HTN: restarted amlodipine 5mg po daily; ___ to check BPs at 
+home
+#Hyperglycemia: No insulin at discharge, ___ to check glucose 
+pre-meals at home, patient has necessary supplies
+#NHL/CNS Lymphoma: Neupogen to start on ___, s/p C5 of 
+EPOCH, continues on dex 4mg PO BID at discharge
+#Cough: Retrocardic opacity on CXR ___, monitor closely for 
+respiratory exacerbations outpatient.
+
+Prophylaxes:
+# Access: ___ 
+# Contact: ___, ___
+# Disposition: Discharged ___ with follow up on ___ with Dr. 
+___
+# Code Status: FULL
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+2. Acyclovir 400 mg PO Q8H 
+3. Dexamethasone 4 mg PO BID 
+4. Filgrastim 480 mcg SC Q24H 
+5. FLUoxetine 40 mg PO DAILY 
+6. LaMIVudine 100 mg PO DAILY 
+7. Nystatin Oral Suspension 5 mL PO QID:PRN mouth pain 
+8. Simvastatin 40 mg PO QPM 
+9. Sulfatrim (sulfamethoxazole-trimethoprim) 400-80 (10mL) mg 
+oral DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*2 
+2.  Artificial Tears ___ DROP BOTH EYES PRN dry eyes 
+RX *dextran 70-hypromellose (PF) [Artificial Tears (PF)] 0.1 
+%-0.3 % ___ drops in each eye four times a day Disp #*1 Bottle 
+Refills:*1 
+3.  Docusate Sodium 100 mg PO BID:PRN constipation 
+do not take if ___ have diarrhea 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*1 
+4.  Fora V10-V12-D10-D20 (lancets-blood glucose strips) 30 gauge 
+miscellaneous use as directed  
+5.  FreeStyle Test (blood sugar diagnostic)    miscellaneous use 
+as directed  
+6.  Glucocard 01 Meter (blood-glucose meter) 1 application 
+miscellaneous check glucose pre-meal  
+7.  Senna 8.6 mg PO BID:PRN constipation 
+do not take if ___ have diarrhea 
+RX *sennosides [Senexon] 8.6 mg 1 tab by mouth twice a day Disp 
+#*60 Tablet Refills:*1 
+8.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+9.  Acyclovir 400 mg PO Q8H  
+10.  Dexamethasone 4 mg PO BID  
+11.  Filgrastim 480 mcg SC Q24H 
+start on ___  
+12.  FLUoxetine 40 mg PO DAILY  
+13.  LaMIVudine 100 mg PO DAILY  
+14.  Nystatin Oral Suspension 5 mL PO QID:PRN mouth pain  
+15.  Simvastatin 40 mg PO QPM  
+16.  Sulfatrim (sulfamethoxazole-trimethoprim) 400-80 (10mL) mg 
+oral DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Tectal primary CNS Lymphoma/NHL
+Headache
+Hyperglycemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mrs. ___,
+
+___ were admitted to receive your cycle 5 of chemotherapy 
+(EPOCH) for your lymphoma treatment. ___ had headache on 
+admission which we thought was related to your intrathecal 
+chemotherapy ___ received prior to your hospitalization. ___ 
+also had elevated blood sugars and we think that this is as a 
+result of your steroid. Please follow up with your outpatient 
+team as below. 
+
+It was a pleasure taking care of ___.
+ 
+Followup Instructions:
+___

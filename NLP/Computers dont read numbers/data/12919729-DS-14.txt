@@ -1,0 +1,427 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine / adhesive tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back pain
+ 
+Major Surgical or Invasive Procedure:
+___:
+1. Anterior thoracic diskectomy, T12-L1, L1-L2.
+2. Anterior thoracic fusion, T11-T12.
+3. Anterior lumbar fusion, T12-L1.
+4. Application of interbody biomechanical device, T11-T12,
+    T12-L1.
+.................................
+___:
+1. Exploration of fusion mass.
+2. Removal and reinsertion of hardware.
+3. Posterolateral arthrodesis revision, T10-T11, T11-T12
+    and T12-L1.
+
+ 
+History of Present Illness:
+___ yo Female with scoliosis presents to ED with increasing pain 
+and concern for broken spine implants.  Her scoliosis was 
+intially operated on ___ at ___ with a 
+thoracolumbar fusion.  She developed spinal pseudoarthrosis.  In 
+___ it was noted on plain films that her right spinal 
+rod was broken.  On ___, Dr. ___ operated to replace 
+this rod, along with L4-L5 anterior lumbar fusion, and revision 
+of L4-L5 hardware.  She had done well post-operatively but 
+maintained a high narcotic requirment.  On ___, in clinic 
+follow-up it was noted that she had a broken right rod.    Now, 
+three days ago she was bending over at her house when she felt 
+sharp pain very similiar to previous episodes of hardware 
+failure. Since that time she reports that she has been in severe 
+pain but without numbness/tingling, weakness, or bowel/bladder 
+incontinence.  The pain is mainly in her lower back and radiated 
+to anterior thighs.  She was determined to have hardware fatigue 
+consistent with spinal nonunion at the thoracolumbar junction.   
+She underwent evaluation including imaging which heightened 
+suspicion of this nonunion diagnosis, and as such, she underwent 
+conservative care.  Conservative care regimen was inadequate to 
+reduce her symptoms to intolerable level, and symptoms were 
+severe and interfering with activities of daily living and 
+work-related activities including walking.  Due to the severity 
+of her symptoms, and the refractory nature of the syndrome, as 
+well as the natural history of this disorder, she elected to 
+undergo surgical treatment.
+ 
+Past Medical History:
+PMHx: 
+Arthitis/Gout  
+HA  
+Scoliosis  
+Hiatal Hernia  
+GERD  
+Hepatitis C  
+Asthma  
+Anxiety  
+.  
+PSH:  
+spinal fusion (ant/post) - ___ (Fractured rod in - ___, 
+subsequent surgeries in ___ and ___ as above  
+Breast lumpectomy  
+Lap. cholecystectomy  
+ 
+Social History:
+___
+Family History:
+not relevant to current admission
+ 
+Physical Exam:
+On admission:
+Physical Exam: 
+97.2 108 104/69 18 99% 
+General: NAD
+Mental Status: AOx3
+Back:  no step offs, mildline TTP over C7, T12/L1 
+
+Vascular (R/L):
+-Radial 2+/2+
+-DP 2+/2+
+-___ 2+/2+
+
+Sensory (R/L):
+-C5 (Ax) I/I
+-C6 (MC) I/I
+-C7 (Mid finger) I/I
+-C8 (MACN) I/I
+-L2 (Groin) I/I
+-L3 (Knee) I/I
+-L4 (Grt Toe) I/I
+-S1 (Small Toe) I/I
+-S2 (Post Thigh) I/I
+
+Motor (R/L)
+-C5 (Ax) ___
+-C6 (MC) ___
+-C6 (WE) ___
+-C7 (Tri) ___
+-C8 (AIN) ___
+-L2 (Add) ___
+-L3 (Quad) ___
+-L4 (TA) ___
+-L5 (___) ___
+-S1 (SP) ___
+
+Reflexes (R/L)
+-Patellar 1+/1+
+-Achilles 1+/1+
+
+Babinski:  toes downgoing
+Clonus: none
+Perianal sensation: Patient Refused
+Rectal tone:  Patient Refused
+Estimated Level of Cooperation: limited secondary to pain
+Estimated Reliability of Exam: somewhat reliable
+
+On discharge:
+VS 99.6 at 1600  98.0  100/66  80  18  95RA
+Gen: NAD, walking in room
+CV: RRR
+Resp: CTAB
+Abd: soft NT ND, hypoactive BS
+Back: Inc x 2 C/D/I no TTP, no 
+erythema/fluctuance/induration/oozing
+Ext: warm, soft, NT NE
+ 
+Pertinent Results:
+___ 10:00PM BLOOD WBC-7.4 RBC-3.92* Hgb-12.9# Hct-35.7*# 
+MCV-91 MCH-32.9* MCHC-36.1* RDW-13.3 Plt ___
+___ 10:46AM BLOOD WBC-10.9 RBC-2.84* Hgb-9.2* Hct-25.8* 
+MCV-91 MCH-32.3* MCHC-35.5* RDW-13.5 Plt ___
+___ 10:46AM BLOOD Neuts-75.6* Lymphs-17.2* Monos-3.4 
+Eos-3.5 Baso-0.2
+___ 10:40AM BLOOD WBC-4.0 RBC-3.20* Hgb-10.5* Hct-31.2* 
+MCV-98 MCH-32.7* MCHC-33.5 RDW-13.8 Plt ___
+___ 10:40AM BLOOD Neuts-78.8* Lymphs-9.7* Monos-2.5 
+Eos-8.7* Baso-0.3
+___ 06:25AM BLOOD WBC-4.5 RBC-3.29* Hgb-10.7* Hct-30.6* 
+MCV-93 MCH-32.5* MCHC-34.8 RDW-13.6 Plt ___
+___ 06:25AM BLOOD Neuts-36.1* Lymphs-45.8* Monos-5.8 
+Eos-12.0* Baso-0.3
+___ 10:00PM BLOOD Glucose-89 UreaN-10 Creat-0.5 Na-139 
+K-3.7 Cl-114* HCO3-19* AnGap-10
+___ 11:51AM BLOOD Glucose-123* UreaN-7 Creat-0.4 Na-136 
+K-3.5 Cl-109* HCO3-20* AnGap-11
+___ 08:50AM BLOOD Glucose-132* UreaN-9 Creat-0.7 Na-135 
+K-4.4 Cl-103 HCO3-23 AnGap-13
+___ 01:20AM BLOOD ALT-17 AST-29 LD(LDH)-201 AlkPhos-65 
+TotBili-0.3
+___ 10:00PM BLOOD Calcium-8.9 Phos-2.9 Mg-2.0
+___ 08:50AM BLOOD Calcium-8.9 Phos-3.7 Mg-2.1
+___ 10:08AM BLOOD Glucose-115* Lactate-1.1 Na-139 K-3.8 
+Cl-112
+
+___: T-spine, L-spine Xrays: Interval development of a 
+fracture through the left ___ rod at the same level of 
+the previously noted fracture through the right  ___ rod. 
+
+
+___: Chest Xray: 
+1. Ill defined opacity in the right lung base is nonspecific, 
+and could represent atelectasis, but early infection or 
+aspiration are not excluded and clinical correlation 
+recommended.  
+2. Low lung volumes accentuating bibasilar bronchovascular 
+crowding. 
+3. Fractured ___ rods, better depicted on same-day spine 
+radiographs. 
+
+___ Chest Xray:
+AP single view of the chest has been obtained with patient in 
+semi-erect position. Comparison is made with the next preceding 
+supine single view chest examination of ___. The 
+patient is status post surgical revision of fractured ___ 
+spine stabilization rods. On the next preceding chest 
+examination of ___, a suspicious right basal density 
+was identified, raising the possibility of beginning pulmonary 
+infiltrate. 
+  On today's examination, this right-sided basal density in 
+supradiaphragmatic position is again noted and appears to have 
+increased. It is compatible with a pneumonic infiltrate. In 
+addition, we have now a hazy diffuse density on the lung base, 
+raising the suspicion of some pleural effusion. It apparently is 
+related to a most recent surgical intervention as a row of 
+cutaneous metallic surgical clips can be identified in 
+left-sided paraspinal position.  No evidence of pneumothorax or 
+conclusive signs of new parenchymal pulmonary infiltrates on the 
+left side. A previously described right internal jugular vein 
+approach central venous line remains in unchanged position. The 
+site of the ___ rod fracture is at the lower edge of the 
+image field and has not undergone any significant positional 
+change. 
+
+___ Chest Xray:
+Right lower lobe consolidation is less dense. Left lower lobe 
+consolidation is unchanged. There is better aeration of the 
+upper lobes bilaterally. Moderate left pleural effusion is 
+probably unchanged allowing for different position of the 
+patient. Right pleural effusion is small. Thoracolumbar hardware 
+is noted. Multiple skin staples are seen. 
+
+___ Chest Xray:
+The post-surgical changes in the thoracolumbar spine are stable. 
+There is slight interval decrease in left pleural effusion with 
+minimal improvement of the left basal aeration. The patient is 
+in minimal interstitial engorgement, also improved since the 
+prior study. Small amount of right pleural fluid cannot be 
+excluded. 
+
+___ Chest Xray:
+Comparison with the previous study of ___. A small left 
+pleural effusion with underlying compressive atelectasis and/or 
+consolidation persists. There is mild prominence of 
+bronchovascular markings, as before.  The heart and mediastinal 
+structures are unchanged. Post-surgical change with bilateral 
+rods and pedicle screws is again noted in the thoracolumbar 
+spine. No significant interval change.
+ 
+Brief Hospital Course:
+The patient was admitted to the ___ Spine Surgery Service and 
+taken to the Operating Room for repair of broken spine implants 
+without complication. For details please refer to the dictated 
+operative notes. Her postoperative course was complicated by 
+fever and postoperative delirium.  Below are the issues of her 
+postoperative course by problem:  
+
+1. Pain control: Given her history of extensive polypharmacy, 
+Pain services were consulted for assistance managing poor 
+postoperative pain control. Pain regimen initially included a 
+ketamine infusion and dilaudid PCA, which was ultimately weaned 
+to an oral regimen of oxycontin 20mg BID and oxycodone 30mg 
+every 3 hours.  Of note, her regimen pre-operatively was 
+oxycodone 30mg every 4 hours.  Due to her high narcotic 
+requirements, she was also maintained on an aggressive bowel 
+regimen and had normal bowel movements prior to discharge.  
+
+2. Delirium: Postoperatively, she was noted to be disoriented 
+and intermittently agitated, wandering into wrong rooms, 
+reporting visual hallucinations, and expressing paranoid 
+ideation that staff were stealing her belongings and wearing 
+them outside her room.  A code purple was called when she 
+attempted to leave AMA, and Psychiatric evaluation determined 
+that she did not have the capacity to do so.  An extensive 
+workup was unrevealing, and her mental status returned to 
+baseline with simplification of her medications and good pain 
+control.  Her delirium was attributed to poly-pharmacy 
+interaction and not psychosis.  
+
+3. Fevers: She had recurrent fevers postoperatively without 
+symptoms of infection.  She was treated empirically for 
+pneumonia due to an infiltrate seen on CXR, but follow up the 
+next day showed near resolution, and as she did not have any 
+clinical evidence of pneumonia, the antibiotics were 
+discontinued.  She was also treated for a simple UTI, but her 
+fevers persisted. She was transferred to the medical service and 
+antibiotics were discontinued. An extensive workup was 
+unremarkable, and her fevers were attributed to a reactive 
+process involving the bone morphologic protein placed 
+intraoperatively.  Prior to discharge, she had remained afebrile 
+for greater than 24 hours, and a final chest xray and urinalysis 
+were unremarkable.  Blood cultures are pending from this 
+hospitalization but have shown no growth to date. These will be 
+followed up by the discharging hospitalist.
+
+On discharge she had met all postoperative milestones with her 
+pain well-controlled on the prescribed oral regimen.  She was 
+discharged with instructions to follow up with Dr. ___ 
+postoperative care.  She was also given information to make a 
+primary care appointment for long-term follow up of her health 
+care and chronic pain medication issues. The patient was 
+instructed that she needed to identify 1 provider to write her 
+chronic opioid medications. Currently, this is Dr. ___ 
+she recognizes this can only be temporary and she needs to find 
+a primary care physician or pain specialist to take over this 
+responsibility.
+ 
+Medications on Admission:
+Topiramate 100 mg QAM 150 QPM  
+Protonix 40 BID  
+Clonidine 0.1 TID  
+Albuterol inh  
+naproxen 500 BID  
+Alprazolam 1 QID  
+Flexeril 10 TID  
+Diphenahydramine 100 QHS  
+Baclofen 10 BID  
+Oxycodone 30 q4-6  
+Imitrex 6 mg SubQ  
+ 
+Discharge Medications:
+1. baclofen 10 mg Tablet Sig: One (1) Tablet PO twice a day.  
+2. topiramate 100 mg Tablet Sig: One (1) Tablet PO QAM (once a 
+day (in the morning)).  
+3. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+4. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+Two (2) Puff Inhalation Q6H (every 6 hours) as needed for 
+wheezing.  
+5. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+6. sumatriptan succinate 6 mg/0.5 mL Solution Sig: One (1)  
+Subcutaneous X1 (ONE TIME) as needed for migraine.  
+7. Clotrimazole-7 1 % Cream Sig: One (1) Appl Vaginal BID (2 
+times a day) for 5 days.
+Disp:*1 tube standard* Refills:*0*
+8. oxycodone 15 mg Tablet Sig: ___ Tablets PO Every ___ hours as 
+needed for Pain.
+Disp:*90 Tablet(s)* Refills:*0*
+9. topiramate 100 mg Tablet Sig: 1.5 Tablets PO QPM (once a day 
+(in the evening)).  
+10. senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+11. oxycodone 20 mg Tablet Extended Release 12 hr Sig: One (1) 
+Tablet Extended Release 12 hr PO Q12H (every 12 hours).
+Disp:*30 Tablet Extended Release 12 hr(s)* Refills:*0*
+12. Xanax 1 mg Tablet Sig: One (1) Tablet PO four times a day.  
+13. Tylenol Extra Strength 500 mg Tablet Sig: ___ Tablets PO 
+every eight (8) hours as needed for pain: do not exceed 4000mg 
+tylenol in 24 hours.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Pseudoarthrosis, T12-L1, L1-L2.
+2. Possible pseudoarthrosis, T11-T12, T10-T11.
+3. urinary tract infection
+4. postoperative delirium
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You have undergone the following operations: Lumbar 
+Decompression With Fusion and re-exploration, please see below 
+for postoperative instructions of care.  
+
+After your operations, you experienced difficulty with pain 
+control and delirium, as well as a urinary tract infection.  For 
+your urinary tract infection, you completed a course of 
+antibiotics, you should follow up with a primary doctor if you 
+develop more symptoms.  You were also found to have a yeast 
+infection.  Your medications were adjusted in the following 
+ways:
+
+-ADDED Clotrimazole cream for yeast infection
+-ADDED Colace and Senna 
+-ADDED Oxycontin
+-ADDED Tylenol available over the counter, do not exceed 4000mg 
+daily.
+-INCREASED dosing of Oxycodone as prescribed
+-STOP taking Clonidine
+-STOP taking Naproxen
+-STOP taking Benadryl
+-STOP taking Flexeril
+
+*Take the rest of your medications as prescribed. 
+*Do not take more than 4000mg of Tylenol in 24 hours.
+*Do not drive while taking narcotics.
+*Continue to take stool softeners while you are taking 
+narcotics.
+
+Immediately after the operation:  
+- Activity: You should not lift anything greater than 10 lbs for 
+2 weeks. You will be more comfortable if you do not sit or stand 
+more than ~45 minutes without getting up and walking around.  
+- ___/ Physical Therapy:  
+o ___ times a day you should go for a walk for ___ minutes as 
+part of your recovery. You can walk as much as you can tolerate. 
+ 
+o Limit any kind of lifting.  
+- Diet: Eat a normal healthy diet. You may have some 
+constipation after surgery. You have been given medication to 
+help with this issue.  
+- Brace: You may have been given a brace. This brace is to be 
+worn when you are walking. You may take it off when sitting in a 
+chair or while lying in bed.  
+- Wound Care: Remove the dressing in 2 days. If the incision is 
+draining cover it with a new sterile dressing. If it is dry then 
+you can leave the incision open to the air. Once the incision is 
+completely dry (usually ___ days after the operation) you may 
+take a shower. Do not soak the incision in a bath or pool. If 
+the incision starts draining at anytime after surgery, do not 
+get the incision wet. Cover it with a sterile dressing. Call the 
+office.  
+- You should resume taking your normal home medications.  
+- You have also been given Additional Medications to control 
+your pain. Please allow 72 hours for refill of narcotic 
+prescriptions, so please plan ahead. You can either have them 
+mailed to your home or pick them up at the clinic located on 
+___. We are not allowed to call in or fax narcotic 
+prescriptions (oxycontin, oxycodone, percocet) to your pharmacy. 
+In addition, we are only allowed to write for pain medications 
+for 90 days from the date of surgery.  
+- Follow up:  
+o Please Call the office and make an appointment for 2 weeks 
+after the day of your operation if this has not been done 
+already.  
+o At the 2-week visit we will check your incision, take baseline 
+X-rays and answer any questions. We may at that time start 
+physical therapy.  
+o We will then see you at 6 weeks from the day of the operation 
+and at that time release you to full activity.  
+Please call the office if you have a fever>101.5 degrees 
+Fahrenheit and/or drainage from your wound.  
+ 
+Followup Instructions:
+___

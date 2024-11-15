@@ -1,0 +1,328 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Hypovolemic Shock, Cardiac Arrest
+ 
+Major Surgical or Invasive Procedure:
+Placement of right femoral trauma line
+ 
+History of Present Illness:
+This is ___ year old lady with a past medical history significant 
+only for hypertension who presents status post cardiac arrest 
+with lower GI bleed, now intubated, on pressors status post 
+volume resuscitation.
+.
+The patient phoned her family this morning reporting that she 
+went to the bathroom and had a bowel movement and felt unwell.  
+The family arrived within 15 minutes and found her to have have 
+agonal respirations with a dark brown non bloody movement. CPR 
+was not initiated. EMS was called, and arrived ___ minutes 
+later and found the patient pulseless and apneic. The patient 
+received a ___ minutes of CPR and was asystolic on monitor.  
+2mg total of epinephrine were administered prior to ROSC. She 
+was intubated in the field with 7.0 tube and was given 
+vecuronium. 
+.
+On transfer to ___, the patient was in atrial fibrillation 
+with initial vital signs 64 113/62 18  Subsequently, heart rate 
+and blood pressure both began to drop. Patient then had multiple 
+episodes of melena/rectal bleeding, and was hypotensive to ___. 
+She was immediately given emergency 0- blood x ___ 
+right femoral cordis line (placed sterile) and was started on 
+levophed. She received an additional 2 units of crossmatched 
+blood and 2 units of FFP with slowing of bleed. Initial labs 
+studies signficant for ABG ___, lactate 10.5 and Hct 
+post rescussitation of 34, creatinine of 1.2 (baseline 0.9) and 
+potassium of 5.3 and lipase 62. She was given calcium gluconate 
+and sodium bicarbonate.  Repeat ABG ___. She was 
+unresponsive and did not require any sedation for the first 3 
+hours of her ED course. Physical exam significant for tenderness 
+to abdominal palpation for which she was given a 1x dose of 
+versed 2mg IV. A CT head demonstrated no acute intracranial 
+hemorrhage however presence of bilateral hypodense basal ganglia 
+concerning for acute hypoxia. A CTA abdomen and pelvis 
+demonstrated non specific findings however no clear etiology to 
+abdominal swelling or bleed. The post arrest team evaluated 
+patient and opted to not initate cooling protocol given 
+increased bleeding and hemodynamic instability. GI was 
+consulted. A NGL was negative and the patient was given 80mg IV 
+protonix and started on gtt. No plans for emergent scope.
+. 
+The patient is full code.  The family at bedside, son is health 
+care ___ confirmed by family members. Social work met with 
+family.  The family is aware of patient's prognosis.
+.
+On transfer, the patients 72 145/64 99 on vent settings fio2 60% 
+PEEP 6 and Vt 450. She is on protonix gtt with fentanyl and 
+versed given aggitation. 
+.
+REVEIW OF SYSTEMS (per patient family)
+.  
+No recent complaints, patient intubated.
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes+ (diet controlled), 
+Dyslipidemia, Hypertension+ 
+2. CARDIAC HISTORY:  
+- CABG:  
+- PERCUTANEOUS CORONARY INTERVENTIONS:  
+- PACING/ICD:  
+3. OTHER PAST MEDICAL HISTORY:  
+* Hypertension
+* Cataracts
+* Mild COPD 
+* Diverticulosis 
+* Small hiatal hernia 
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+VS: Hr 73 BP 138/66 RR 14 O2 100% 
+GENERAL:intubated, sedated not responsive to stimuli (pain, 
+auditory)
+HEENT: Sclera anicteric. Pupils non reactive to light. 
+NECK: JVP not elevated on exam
+CARDIAC: irregular rhythm, normal S1, S2. No m/r/g  
+LUNGS: Course labored ventilated breath sounds bilaterally. No 
+crackles on anterior exam.  
+ABDOMEN: Markedly distended on exam, soft and tense w/ 
+ventilatory cycle. Hypoactive bowel sounds.    
+EXTREMITIES: 1+ pitting edema of feet, No femoral bruits.  
+PULSES: 1+ in lower extremities
+SKIN: No stasis dermatitis, ulcers, scars, or petechia, rashes
+NEURO: fixed pupils 2-3mm non reactive to light, non responsive 
+to painful or verbal stimuli, symmetric face. Observed myoclonic 
+jercks involving upper and lower extremities. Patellar, 
+brachialis reflexes could not be elicited. No babinski elicited.
+
+ 
+Pertinent Results:
+___ 10:05AM BLOOD WBC-10.1 RBC-2.89* Hgb-9.3* Hct-31.4* 
+MCV-109* MCH-32.3* MCHC-29.7* RDW-14.0 Plt ___
+___ 05:00PM BLOOD Neuts-77* Bands-2 Lymphs-5* Monos-16* 
+Eos-0 Baso-0 ___ Myelos-0
+___ 08:00AM BLOOD ___ PTT-28.5 ___
+___ 10:05AM BLOOD ___ PTT-44.8* ___
+___ 10:05AM BLOOD ___ 08:00AM BLOOD Glucose-120* UreaN-37* Creat-1.7* Na-141 
+K-5.5* Cl-108 HCO3-24 AnGap-15
+___ 10:47AM BLOOD Na-142 K-5.3* Cl-111*
+___ 10:05AM BLOOD UreaN-28* Creat-1.2*
+___ 08:00AM BLOOD ALT-155* AST-152* LD(LDH)-526* 
+CK(CPK)-1119* AlkPhos-73 TotBili-2.0*
+___ 10:05AM BLOOD ALT-174* AST-213* CK(CPK)-152 AlkPhos-81 
+TotBili-0.3
+___ 08:00AM BLOOD CK-MB-9 cTropnT-0.10*
+___ 10:17PM BLOOD CK-MB-15* MB Indx-2.9 cTropnT-0.10*
+___ 10:05AM BLOOD cTropnT-<0.01
+___ 08:00AM BLOOD Calcium-7.4* Phos-2.1*# Mg-2.3
+___ 07:11PM BLOOD Calcium-7.6* Phos-2.2*# Mg-2.3
+.
+TOXICOLOGY
+___ 10:05AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+.
+BLOOD GASES
+___ 06:41AM BLOOD Type-ART pO2-119* pCO2-30* pH-7.46* 
+calTCO2-22 Base XS-0
+___ 06:05AM BLOOD ___ Temp-39.4 pO2-33* pCO2-41 
+pH-7.40 calTCO2-26 Base XS--1 Intubat-INTUBATED
+___ 09:47PM BLOOD ___ Temp-36.0 pO2-35* pCO2-57* 
+pH-7.20* calTCO2-23 Base XS--7 Intubat-INTUBATED
+___ 07:38PM BLOOD Type-ART Temp-36.1 pO2-92 pCO2-59* 
+pH-7.14* calTCO2-21 Base XS--9 Intubat-INTUBATED
+___ 12:23PM BLOOD Type-ART pO2-136* pCO2-43 pH-7.15* 
+calTCO2-16* Base XS--13
+___ 10:14AM BLOOD Type-ART pO2-7* pCO2-57* pH-6.96* 
+calTCO2-14* Base XS--23
+.
+LACTATE/Free Calcium
+___ 06:41AM BLOOD Lactate-2.9*
+___ 10:32AM BLOOD Glucose-347* Lactate-10.5* Na-142 K-5.3 
+Cl-113* calHCO3-14*
+___:05AM BLOOD freeCa-1.00*
+___ 07:38PM BLOOD freeCa-1.06*
+.
+CT HEAD WITHOUT CONTRAST ___
+1. No acute intracranial hemorrhage. 
+2. Prominent symmetric hypodensity of the basal ganglia 
+bilaterally. This 
+finding is nonspecific, though can be seen in the setting of 
+acute hypoxia (in this patient with recent cardiac arrest). 
+3. Paranasal sinus disease. 
+.
+CTA ABDOMEN AND PELVIS WITHOUT CONTRAST ___
+IMPRESSION: 
+1. No apparent etiology to abdominal distention or GI bleeding. 
+2. Small amount of stranding and free fluid in the abdomen as 
+well as 
+intralobular septal thickening at the lung bases, likely related 
+to volume 
+resuscitation. 
+3. Atherosclerotic disease. 
+4. Small areas of hepatic enhancement. If clinically relevant, 
+would 
+recommend comparison to any prior imaging or evaluation via MRI. 
+
+5. Atherosclerotic disease. 
+6. Large left adnexal cyst, stable as best can be determined. 
+.
+KUB  ___ A single frontal view of the supine abdomen shows 
+no particular distention of the intestinal tract. A nasogastric 
+tube ends in a nondilated stomach. 
+.
+CHEST XRAY ___
+The endotracheal tube terminates 3.6 cm 
+above the carina. An orogastric tube is noted and appears to be 
+coiled and 
+kinked in the upper esophagus/hypopharynx. The distal end of the 
+orogastric tube does not go beyond the GE junction. 
+Allowing for technique, the heart is markedly enlarged. In 
+addition, there is bilateral interstitial opacity compatible 
+with edema. However underlying or developing infection or 
+aspiration cannot be excluded. A small right pleural effusion is 
+noted, but there is no large pleural effusion. There is no 
+pneumothorax. The aorta is tortuous with atherosclerotic 
+calcification.  Several rounded ossific densities are noted in 
+the right shoulder inferiorly, suspect synovial 
+osteochondromatosis. 
+.
+CHEST XRAY ___
+In addition to increasing mild pulmonary edema there may be 
+focal 
+consolidation in the right upper lobe or this could be simulated 
+by fissural pleural fluid. Severe cardiomegaly is more 
+pronounced and so is mediastinal vascular engorgement. ET tube 
+in standard placement. Nasogastric tube is looped in the upper 
+stomach. No pneumothorax. 
+
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+This is a ___ year old lady with a history of hypertension who 
+presented status post cardiac arrest likely in the setting of 
+hypovolemic shock secondary to lower GI bleed.  After 
+resuscitation and stabilization in the cardiac ICU, neurologic 
+evaluation revealed seizure activity and minimal brain stem 
+reflexes. She was made comfort measures only and expired 
+surrounded by family.  Cultural death traditions were addressed 
+and accommodated.
+.  
+ACTIVE ISSUES
+# GOALS OF CARE: Goals of care addressed with patient's family 
+both in the emergency department and on arrival to the floor. 
+Social work was consulted in ED to assist with discussion.  
+Large involved family with multiple children and grandchildren 
+present at bedside.  Family understood grave prognosis and 
+initially kept patient full code.  On the day following 
+admission, neurology exam off sedation revealed minimal brain 
+stem reflexes and no motor activity. CT imaging of head on 
+admission consistent with anoxic injury.  EEG demonstrated 
+seizure activity consistent. In setting of neurologic findings, 
+the health care proxy and family decided to make the patient 
+comfortable and expired the following morning.  Cultural death 
+traditions were acknowledged and the patient remained inpatient 
+surrounded by her family for 8 hours post mortem.
+.
+# LOWER GI BLEED: Etiology of acute bleed unknown.  Unremarkable 
+CTA abdomen and pelvis barring underlying chronic changes. 
+Differential for melena and frank hematochezia concerning for 
+brisk upper GI bleed versus lower GI bleed. While NG lavage 
+negative, sources of upper GI bleed include varices, PUD etc.  
+Sources of lower GI bleed concerning for diverticulitis given 
+prior history of diverticulosis on prior CT in ___, 
+hemorrhoidal bleed, and mesenteric ischemia, known CAD h/o and 
+prior infarct noted on EKG. After receiving 4 units of pRBC and 
+2 units of FFP, her hematocrit was stable and bleeding 
+apparently stopped. She was started on IV pantoprazole gtt.
+.
+# NEURO PROTECTION STATUS POST ARREST: Interval between arrest 
+and initiation of CPR at minimum 15 minutes and ___ minutes of 
+CPR performed prior to ROSC for a total minimum of ___. 
+Cardiac Arrest team was consulted in the ED and opted against 
+cooling protocol given hemodynamic instability and ongoing 
+gastro-intestinal bleed.  CT head demonstrated bilateral 
+hypodense basal ganglia, a non-specific finding that in the 
+setting of cardiac infarction concerning for acute hypoxia. The 
+patient was initially kept normothermic, with head at 30 degrees 
+and given 3 amps of bicarbonate to keep PCO2 between 35 and 40. 
+Mean arterial pressure was kept at 65. Neurology was consulted 
+and exam off sedation demonstrated minimal brainstem reflexes 
+without motor activity.  EEG demonstrated seizure activity.
+.  
+# SHOCK: Hypovolemic shock in the setting of acute bleed of 
+unclear source. Transaminate and elevated creatinine indicative 
+of end organ damage. The patient was anuric on admission. The 
+patient required significant volume resuscitation prior to 
+transfer with both blood products and fluid boluses.  Levophed 
+and periodic NS boluses were administered to keep mean arterial 
+pressures above 65.  She was weaned off intermittant volume 
+resuscitation and pressor support overnight.
+.
+# ACIDEMIA: Primary lactic acidosis (AG metabolic acidosis) and 
+primary respiratory acidosis during arrest. Lactate 10.7 on 
+admission. She was fluid resuscitated and mean arterial pressure 
+was kept above 65.
+.
+INACTIVE ISSUES
+# HYPERTENSION: History of hypertension on lisinopril, 
+hydrochlorothiazide. Held antihypertensives given shock.
+.
+# CORONARY ARTERY DISEASE: History of ischemic CAD by review of 
+current EKG and prior EKG from ___ with evidence of old 
+anterior septal q waves. Unknown medical history. Cardiac 
+regimen at home including amlodipine, HCTZ and lisinopril held 
+in setting of hypovolemic shock.
+.  
+# VI TAMEN D DEFICIENCY: Held all oral medications while 
+inpatient. On vitamin D supplementation at home.
+.  
+# COPD: On albuterol at home. No evidence of wheeze on exam.
+.
+TRANSITION OF CARE
+patient expired
+ 
+Medications on Admission:
+1. Albuterol HFA 90mcg 2 puffs q6hrs prn
+2. Amlodipine 5mg 1 tab qdaily
+3. Lisinopril 20 mg qdaily
+4. Omeprazole 20mg qdaily
+5. Alendronate 70mg qdaily
+6. Caltrate 600mg BID
+7. Vitamen D 50, 000 units qmonthly
+8. Hctz 12.5 mg daily 
+9. Started on additional antihypertensive recently - family 
+unaware of name (?___)
+ 
+___ Medications:
+patient expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+patient expired
+ 
+Discharge Condition:
+patient expired
+ 
+Discharge Instructions:
+patient expired
+ 
+Followup Instructions:
+___

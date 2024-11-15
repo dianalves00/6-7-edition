@@ -1,0 +1,317 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+divalproex sodium / codeine
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever, n/v
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy/EGD ___
+
+ 
+History of Present Illness:
+___ with seizure disorder, bipolar who is s/p renal embolization 
+(___) for perinephric and RP hematoma due to a 
+renal lac from complications of lithotropsy who was transferred 
+from OSH with fever (100.4 at OSH), nausea/vomiting. CT scan at 
+___ showed large right periphric hematoma which was reviewed at 
+___ and found to be unchanged from prior studies with low 
+concern for infection of hematoma. 
+
+On arrival at ___, pt was afebrile and not complaining of any 
+pain, but has had one episode of dark brown emesis. Pt is 
+oriented, but affect is flat and he is a poor historian. Pt 
+given one dose of Zosyn at OSH, and additional Zosyn and 
+Vancomycin at ___. He had BRBPR on DRE and GI was consulted in 
+the ED who felt he may be hemoconcentrated in setting of 
+infection. 
+
+Of note, on his last admission he had episodes of emesis that 
+improved with bowel movements. He also had episodes of tachypnea 
+and founf to have pleural effusions. He was given IV Lasix with 
+improvement in tachypnea. 
+
+Urology consulted in the ED and they reviewed imaging and 
+discussed with radiology and agree that there is likely no 
+infection in the perinephric hematoma. 
+
+Flu Swab completed in the ED. 
+
+In the ED, initial vitals: 4 97.8 104 124/64 18 96% RA  
+ - Labs notable for: WBC 16.9 H&H ___ after 1L IVF, platelets 
+of 106, UA with 10 ketones. 
+ - Imaging notable for:  Chest xray showing 1. Low lung volumes.
+2. Moderate right pleural effusion.
+3. No focal consolidation, edema, or pneumothorax
+ - Patient given:  Vanc/Zosyn, 1 L IVF, Zofran, PPI. 
+ - Vitals prior to transfer: 0 90 130/75 23 99% RA  
+
+On arrival to the floor, pt reports feeling weak. He states he's 
+had ___ days of nausea and vomiting but unsure how many times 
+and unsure if any blood. He also reports some loose stools but 
+states this is chronic. He is unsure if his ABD pain is in 
+relation to food but does report a burning CP/Epigastric pain 
+occasionally. 
+ 
+Past Medical History:
+Past Medical History: Seizure disorder, bipolar disorder, kidney 
+ 
+ stones  
+ Past Surgical History: Appendectomy, tonsillectomy, knee 
+surgery,  
+ lithotripsy (___)  
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals: 98.9 PO 132 / 83 85 18 97 RA 
+General: Alert, flat affect, NAD. 
+HEENT: Sclera anicteric, MM dry, oropharynx clear, neck supple, 
+JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, but with inspiratory 
+crackles bibasilarly. 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, TTP in LLQ, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, does have spleenomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: Without rashes or lesions 
+
+DISCHARGE EXAM:
+Vitals:  98.2 ___ 20 100RA
+General: Alert, flat affect, NAD. 
+HEENT: Sclera anicteric, MM dry, oropharynx clear, neck supple, 
+JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, but with inspiratory 
+crackles bibasilarly. 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-distended, bowel sounds present, no rebound 
+tenderness or guarding, does have spleenomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: Without rashes or lesions   
+Neuro: A&Ox3, CN II-XII intact, ___ BUE/BLE, sensation intact to 
+LT BUE/BLE
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:29AM BLOOD WBC-16.9*# RBC-3.36* Hgb-9.8* Hct-31.4* 
+MCV-94 MCH-29.2 MCHC-31.2* RDW-15.9* RDWSD-54.2* Plt ___
+___ 07:29AM BLOOD ___ PTT-25.0 ___
+___ 11:32AM BLOOD Ret Aut-3.2* Abs Ret-0.09
+___ 07:29AM BLOOD Glucose-114* UreaN-20 Creat-0.9 Na-138 
+K-3.2* Cl-102 HCO3-17* AnGap-22*
+___ 07:29AM BLOOD ALT-13 AST-18 LD(LDH)-505* CK(CPK)-24* 
+AlkPhos-82 TotBili-1.0
+___ 07:29AM BLOOD Albumin-3.1* Mg-1.9 Iron-52
+___ 07:29AM BLOOD calTIBC-190* VitB12-374 Folate-4 
+Hapto-<10* Ferritn-648* TRF-146*
+___ 07:29AM BLOOD TSH-2.0
+___ 07:30AM BLOOD CEA-1.7
+___ 07:26AM BLOOD HIV Ab-Negative
+___ 07:29AM BLOOD Lithium-0.9
+___ 07:44AM BLOOD Lactate-1.2
+
+DISCHARGE LABS
+___ 07:06AM BLOOD WBC-4.6 RBC-3.02* Hgb-9.0* Hct-29.2* 
+MCV-97 MCH-29.8 MCHC-30.8* RDW-18.4* RDWSD-61.5* Plt Ct-82*
+___ 07:06AM BLOOD ___ PTT-30.0 ___
+___ 07:06AM BLOOD Glucose-103* UreaN-6 Creat-0.7 Na-139 
+K-3.3 Cl-107 HCO3-22 AnGap-13
+___ 06:28AM BLOOD ALT-8 AST-13 LD(LDH)-463* AlkPhos-55 
+TotBili-0.6
+___ 07:06AM BLOOD Calcium-8.3* Phos-2.8 Mg-1.7
+
+MICRO:
+BCx ___ negative
+UCx ___ negative
+RPR ___ negative
+Cdiff ___ negative
+Stool Cx ___ negative
+
+IMAGING:
+RUQ US ___. Distended gallbladder with a small amount of sludge.  There 
+are no 
+sonographically specific signs to suggest cholecystitis.  No 
+gallstones, wall thickening, or pericholecystic fluid 
+identified.  Howeve,r cholecystitis cannot be excluded on the 
+basis of this exam.  A HIDA scan is recommended to Exclude 
+cholecystitis if there is clinical concern. 
+2. Right pleural effusion incidentally noted.  No ascites. 
+3. Re- demonstration of the known large right perinephric 
+hematoma. 
+4. Mild splenomegaly. 
+
+ECHO ___
+The left atrium is mildly elongated. Left ventricular wall 
+thickness, cavity size, and global systolic function are normal 
+(LVEF>55%). Due to suboptimal technical quality, a focal wall 
+motion abnormality cannot be fully excluded. Right ventricular 
+chamber size and free wall motion are normal. The aortic root is 
+mildly dilated at the sinus level. The aortic valve leaflets 
+(?#) appear structurally normal with good leaflet excursion. 
+There is no aortic valve stenosis. No aortic regurgitation is 
+seen. The mitral valve appears structurally normal with trivial 
+mitral regurgitation. The pulmonary artery systolic pressure 
+could not be determined. There is an anterior space which most 
+likely represents a prominent fat pad. 
+IMPRESSION: Suboptimal image quality. Normal biventricular 
+cavity sizes with preserved global biventricular systolic 
+function. Mildly dilated aortic root. No pathologic flow 
+identified.
+
+CT TORSO ___. No evidence for metastatic disease in the abdomen and pelvis 
+2. Known colonic lesions are not visualized on this examination 
+as the colon is collapsed. 
+3. Stable size and appearance of right perinephric and 
+retroperitoneal 
+hematoma, status post coiling of right renal arteries.
+
+COLONOSCOPY ___
+At least 10 adenomatous appearing polyps (5-15mm) were found in 
+the transverse and descending colon. Numerous (>10) adenomatous 
+appearing polyps (5-15mm) were found surrounding the masses in 
+the ascending colon. A 5 cm fungating mass was found in the 
+cecum. The scope traversed the lesion. Cold forceps biopsies 
+were performed for histology at the cecum. Another 5 cm 
+fungating mass was found in the ascending colon. The scope 
+traversed the lesion. Cold forceps biopsies were performed for 
+histology at the right colon. 1 5 ___ ink injection was 
+applied for tattooing with success just distal to the ascending 
+colon mass. 
+
+EGD ___
+A single 4 mm non-bleeding polyp was found in the duodenal bulb. 
+A piece-meal polypectomy was performed using a cold forceps in 
+the duodenum. The polyp was completely removed.  
+
+ 
+Brief Hospital Course:
+Mr. ___ ___ yo M with history of recent renal embolization 
+(___) for perinephric and RP hematoma due to a 
+renal lac from complications of lithotropsy who was transferred 
+from OSH with fever (100.4 at OSH), nausea/vomiting and GI 
+bleed, underwent colonoscopy and found to have ulcerated lesion 
+c/f colon adenocarcinoma.  Colorectal surgery evaluated the 
+patient and recommended outpatient follow up for surgical 
+consideration.
+
+Investigations/Interventions:
+1. Nausea, vomiting, maroon stools: patient underwent 
+EGD/colonoscopy on ___ for these symptoms, with colonoscopy 
+showing > 10 polyps in the ascending colon with an associated 
+5cm fungating mass in the cecum.  Of note, his mother did have 
+colon cancer that required hemicolectomy.  This was biopsied 
+with path PND at time of discharge.  He was evaluated by 
+colorectal surgery who thought hereditary colon cancer was a 
+possibility.  CT Torso was reviewed for staging which was 
+negative for any evidence of metastasis.  CEA level 1.7.  He 
+will follow up with colorectal surgery, genetics counseling, and 
+GI as an outpatient for further management.
+
+2. Thrombocytopenia: patient had platelets consistently in ___ 
+to low 100's while inpatient.  Also has associated splenomegaly 
+on imaging.  We are working on a hematology appointment as an 
+outpatient to be arranged.  Rehab can call ___ if they 
+do not hear about appointment by ___.
+
+3. Blood loss anemia: with recent renal embolization for 
+perinephric and RP hematoma.  H/H was monitored in house and 
+stable, he did not require any transfusions.  Discharge H/H 
+___.
+
+Transitional Issues:
+[]Follow up appointments: Genetics, Colorectal Surgery, GI all 
+scheduled.  Hematology appointment PND.
+[]Please follow up final pathology results from colonoscopy
+[]Patient had small amount of blood in urine, consider repeat to 
+ensure resolution of hematuria as outpt
+[]Please note that patient has flat affect at baseline
+
+#Code status: Full
+#Contact: ___ (sister) ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LevETIRAcetam 750 mg PO BID 
+2. Lithium Carbonate 300 mg PO BID 
+3. RisperiDONE 2 mg PO BID 
+4. Topiramate (Topamax) 100 mg PO BID 
+5. Finasteride 5 mg PO DAILY 
+6. Tamsulosin 0.4 mg PO QHS 
+7. Acetaminophen 650 mg PO Q6H 
+8. Docusate Sodium 100 mg PO BID 
+9. Zonisamide 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Finasteride 5 mg PO DAILY  
+4.  LevETIRAcetam 750 mg PO BID  
+5.  Lithium Carbonate 300 mg PO BID  
+6.  RisperiDONE 2 mg PO BID  
+7.  Tamsulosin 0.4 mg PO QHS  
+8.  Topiramate (Topamax) 100 mg PO BID  
+9.  Zonisamide 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Multiple polyps in colon with 5cm fungating mass
+Acute blood loss anemia
+
+*Anticipated rehab stay < 30 days*
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were hospitalized with fever, nausea, and vomiting.  We 
+treated you with antibiotics then performed a procedure called 
+colonoscopy.  Unfortunately this showed multiple polyps that are 
+concerning for cancer.  You then met with our colorectal surgery 
+team who would like to meet with you in clinic to discuss 
+surgical options.
+
+Our physical therapists worked with you and recommended physical 
+rehabilitation so you are being discharged to a rehabilitation 
+facility to make you stronger.
+
+It was a pleasure taking care of you!
+Your ___ team
+
+*Anticipated rehab stay < 30 days*
+
+ 
+Followup Instructions:
+___

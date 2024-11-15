@@ -1,0 +1,368 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ male w/
+remote h/o recurrent pericarditis and tularemia who presents 
+with
+abdominal pain. Patient was in usual state of health until
+yesterday morning when he awoke with severe pain in his "solar
+plexus." Pain is constant and "dull" in nature and radiates to
+his back. He trialed ibuprofen 600 mg yesterday evening before
+bed, slept briefly, but then awoke around midnight with
+resurgence of pain worse than prior. This persisted throughout
+early morning, prompting him to seek medical attention. He adds
+that he ate a large steak dinner and drank one glass of red wine
+and two to three shots of cognac the evening prior to the onset
+of his symptoms. He otherwise rarely consumes meat or alcohol
+since his diagnosis of gout one year ago. With regard to
+respiratory symptoms, patient reports daily productive cough on
+the order of weeks to months. He thinks URI symptoms predated 
+his
+cough. He endorses lightheadedness, generalized weakness,
+anorexia, suboptimal oral intake, nausea, and one loose stool in
+the ED. He otherwise denies fevers/chills, chest pain, shortness
+of breath, palpitations, or vomiting. 
+
+In the ED, morphine 4 mg IV reduced his pain from ___ -> ___ 
+in
+severity. He suspects he is improving overall, but still has no
+appetite.  
+ 
+Past Medical History:
+-Hospitalized for ___ in ___ thought to be related to
+dehydration; intermittent chest pain unremarkable cardiac 
+work-up
+-Gout; allopurinol discontinued for transaminits
+-Pericarditis: First episode at ___ y/o (thought to be viral), 
+___ recurrent episodes, last episode ___ years prior.
+-Tularemia (___)
+-Babesiosis
+-Appendectomy
+ 
+Social History:
+___
+Family History:
+-Maternal hx intracranial aneurysm
+-Paternal hx kidney disease, unspecified, bladder cancer, and
+prostate cancer
+-Maternal GF hx AAA
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VITALS: T 98.3, HR 50, BP 139/82, RR 18, O2 98% RA
+GENERAL: NAD, well-appearing
+HEENT: PERRL, EOMI, anicteric sclerae, no conjunctival pallor, 
+MM
+dry, oropharynx clear
+NECK: supple, no LAD, no JVD 
+CV: bradycardic, regular rhythm, S1/S2, no m/r/g 
+PULM: unlabored, good air entry, CTAB
+GI: soft, normoactive, non-distended, epigastric and
+periumbilical tenderness, no organomegaly, no
+rigidity/guarding/rebound  
+EXT: WWP, without edema
+NEURO: non-focal  
+
+DISCHARGE PHYSICAL EXAM
+VITALS: 98.4°F, 59, 130/82, 17, 97% on room air.
+GENERAL: NAD, well-appearing
+HEENT: PERRL, EOMI, anicteric sclerae, no conjunctival pallor, 
+MM
+dry, oropharynx clear
+NECK: supple, no LAD, no JVD 
+CV: bradycardic, regular rhythm, S1/S2, no m/r/g 
+PULM: unlabored, good air entry, CTAB
+GI: soft, normoactive, non-distended, mild epigastric 
+tenderness,
+no organomegaly, no rigidity/guarding/rebound  
+EXT: WWP, without edema
+NEURO: non-focal   
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:00AM BLOOD Neuts-81.1* Lymphs-11.4* Monos-6.3 
+Eos-0.7* Baso-0.2 Im ___ AbsNeut-11.66*# AbsLymp-1.64 
+AbsMono-0.91* AbsEos-0.10 AbsBaso-0.03
+___ 07:00AM BLOOD ___ PTT-25.4 ___
+___ 07:00AM BLOOD Glucose-121* UreaN-12 Creat-0.7 Na-141 
+K-4.1 Cl-100 HCO3-23 AnGap-18
+___ 07:00AM BLOOD ALT-88* AST-32 AlkPhos-86 TotBili-0.6
+___ 07:00AM BLOOD Albumin-4.3 Calcium-9.1 Phos-2.5* Mg-1.7 
+Cholest-220*
+___ 07:00AM BLOOD Triglyc-92 HDL-55 CHOL/HD-4.0 
+LDLcalc-147*
+___ 07:20AM BLOOD Lactate-1.9
+
+PERTINENT RESULTS
+___ CTA CHEST/TORSO
+
+FINDINGS: 
+
+VASCULAR: Motion artifact limits evaluation of the aortic root.  
+However, no definite evidence of aortic dissection.  The aorta 
+is normal in caliber. 
+Coronary artery calcifications are mild to moderate on this 
+non-dedicated exam.  Bilateral renal arteries are patent.  The 
+main portal vein appears patent.  Atherosclerotic calcifications 
+in the abdominal aorta and iliac arteries are mild.
+ 
+The main, left and right pulmonary arteries are normal in 
+caliber.  This exam is not tailored for imaging of pulmonary 
+embolism but no obvious large filling defect in the central 
+pulmonary arteries to indicate the presence of a large acute 
+central pulmonary embolus.
+ 
+An incidental accessory left hepatic artery arising from the 
+left gastric artery is a normal variant (series 2, image 102).
+ 
+CHEST: Pericardial calcifications noted, likely the sequelae of 
+prior
+pericarditis.  No pericardial effusion.
+ 
+Calcified mediastinal lymph nodes are consistent with prior 
+granulomatous disease exposure.  A left paratracheal station 
+lymph node is mildly enlarged measuring 14 mm in short axis, 
+likely reactive in the setting of atypical left upper lobe 
+infection (series 2, image 44).  Other mediastinal lymph nodes 
+are prominent but not enlarged by size criteria in the right 
+lower paratracheal and subcarinal stations.  No hilar or 
+supraclavicular lymphadenopathy.
+ 
+Scattered peribronchovascular nodules and tree and ___ opacities 
+suggest atypical infection in the lingula and remaining left 
+upper lobe (e.g., series 2, image 51, 61).  Several areas of 
+focal mucous plugging are also seen in the lingula and left 
+upper lobe (series 2, image 69).  Peribronchiolar wall 
+thickening is very mild and could suggest also additional 
+component of bronchiolitis.  Bibasilar atelectasis is 
+mild-to-moderate.  The trachea is patent without aerosolized 
+secretions.  Bilateral tiny calcified granulomas is consistent 
+with prior granulomatous disease exposure (e.g.  Series 2, image 
+67).
+ 
+Background paraseptal emphysema is moderate and most pronounced 
+in the apices.
+ 
+No pneumothorax or pleural effusion.  No pleural calcifications.
+ 
+ABDOMEN:
+ 
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  No evidence of focal lesions.  No evidence of 
+intrahepatic or extrahepatic biliary dilatation.  The 
+gallbladder is within normal limits, without stones or 
+gallbladder wall thickening.
+ 
+PANCREAS: Peripancreatic fat stranding is moderate to severe 
+most pronounced in the pancreatic head, uncinate process, and 
+body.  The pancreas is normal in size without evidence of 
+parenchymal calcifications.  The main pancreatic duct is not 
+dilated.  A subtle area of relative hypoattenuation in the 
+pancreatic body (e.g., series 2, image 123, 121) is favored to 
+be edema related to pancreatitis.  No definite focal area of 
+necrosis or drainable fluid collection within the pancreas or 
+surrounding the pancreas.  Fat stranding and free fluid 
+surrounding the second portion the duodenum is likely secondary 
+to adjacent pancreatitis.  Fluid extends into the 
+retroperitoneum to the left of the aorta (e.g.  Series 2, image 
+159) and mostly along the right pericolic gutters and anterior 
+to the right anterior pararenal fascia (series 2, image 
+140-162).  Adjacent peripancreatic vessels are patent.  A few 
+peripancreatic lymph nodes are measurable up to 8 mm in short 
+axis and nonspecific, likely reactive.
+ 
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without evidence of focal lesions.
+ 
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape.
+ 
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram. 
+No evidence of stones, focal renal lesions, or hydronephrosis.  
+No perinephric abnormality.
+ 
+GASTROINTESTINAL: The stomach is underdistended, limiting 
+evaluation.  Other than fat stranding surrounding the duodenum, 
+related to the adjacent pancreatitis, small bowel loops are 
+unremarkable.  No bowel obstruction. 
+Bowel wall enhancement is normal.  The colon and rectum are 
+within normal limits.  The appendix has normal caliber without 
+evidence of fat stranding. No free air.
+ 
+RETROPERITONEUM: No evidence of retroperitoneal lymphadenopathy 
+by size
+criteria, although a few peripancreatic lymph nodes are 
+measurable as above.
+ 
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ No evidence of pelvic or inguinal lymphadenopathy.  No free 
+fluid in the pelvis.
+ 
+REPRODUCTIVE ORGANS: The prostate gland is normal in size.
+ 
+BONES: No evidence of worrisome osseous lesions or acute 
+fracture.
+ 
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits other than coarse calcification in the subcutaneous fat 
+of the region likely sequelae prior trauma or subcutaneous 
+injection (series 2, image 128).
+ 
+IMPRESSION:
+ 
+ 
+1. Findings suggesting acute interstitial pancreatitis.
+2. Left upper lobe bronchiolitis and atypical lung infection.  
+Enlarged left mediastinal lymph node is likely reactive.  Given 
+the relatively nodular appearance of the bronchiolitis, 
+difficult to exclude true pulmonary nodule. 
+Due to underlying emphysema, and high risk status, recommend 
+follow-up chest CT in ___ months to ensure complete resolution 
+of these findings.
+3. Paraseptal emphysema.  Smoking cessation is recommended.
+4. Pericardial calcifications suggest sequelae of prior 
+pericarditis.
+5. Sequelae of prior granulomatous disease exposure.
+6. Coronary artery calcifications.
+7. Incidental accessory left hepatic artery.
+ 
+RECOMMENDATION(S):  1. Given emphysema and lack of prior imaging 
+for
+comparison, recommend follow-up chest CT in ___ months after 
+treatment to ensure resolution.
+2.  Emphysema - smoking cessation recommended. 
+
+DISCHARGE LABS
+___ 07:10AM BLOOD WBC-10.8* RBC-4.26* Hgb-13.4* Hct-39.0* 
+MCV-92 MCH-31.5 MCHC-34.4 RDW-13.1 RDWSD-43.5 Plt ___
+___ 07:10AM BLOOD Glucose-105* UreaN-9 Creat-0.7 Na-142 
+K-4.2 Cl-100 HCO3-28 AnGap-___ M with history of gout who presented with acute pancreatitis 
+without clear precipitant.
+
+ACUTE ISSUES
+#PANCREATITIS
+Patient presented with severe epigastric pain radiating to the 
+back after large steak dinner accompanied by one glass of red 
+wine ___ shots of cognac evening prior to onset of symptoms. 
+Lipase of 1780. He was evaluated with CT abdomen which 
+demonstrated peripancreatic stranding. He was treated with bowel 
+rest, oral PPI, and then followed with a trial of low-fat diet, 
+which he tolerated. No obvious etiology identified; calcium 
+normal, cholesterol was 220 (LDL 147), no evidence of biliary 
+disease. Alcohol quantity seems inadequate to cause this. He 
+does report a car accident with possible steering wheel trauma 
+10 days prior to presentation but the timeline seems 
+inconsistent. He does report several mild episodes similar to 
+this over prior months/years but has no prior known diagnosis of 
+pancreatitis. His pain was controlled with morphine sulfate, 
+discontinued by date of discharge and with Tylenol. 
+
+#COMMUNITY-ACQUIRED PNEUMONIA
+Patient presented with history of cough and shortness of breath. 
+Radiographic evidence demonstrated an atypical bacterial versus 
+viral pneumonia. He was treated with ceftriaxone and 
+azithromycin for 4 days for treatment of community acquired 
+pneumonia, discharged with azithromycin for total 5 day course. 
+He was discharged with improved dyspnea. 
+
+#BRADYCARDIA
+In the ED, he was found to be in sinus bradycardia. He was 
+hemodynamically stable and asymptomatic. Biomarkers were 
+negative. Cardiology evaluated him with no further workup. He 
+was hemodynamically stable throughout his admission.
+
+TRANSITIONAL ISSUES
+MEDICATIONS: 
+- New Meds: Azithromycin (1 day, ___, for total 5-day course) 
+
+FOLLOW-UP 
+- Follow up: PCP ___, ___ at 
+9:30 AM.
+
+PENDING MICROBIOLOGY:
+- Mycoplasma/Ureaplasma urine antigen study
+
+- Incidental findings:
+CT CHEST: Emphysematous changes, repeat in ___ months.
+- Left upper lobe bronchiolitis and atypical lung infection. 
+
+# CONTACT: ___, friend (___)
+# CODE: FULL CODE
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO Q24H 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*1 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=================
+Pancreatitis
+Community Acquired Pneumonia
+Bradycardia
+
+Secondary Diagnosis
+===================
+Constipation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHAT BROUGHT YOU INTO THE HOSPITAL?
+- You were admitted to the hospital for abdominal pain as your 
+pancreas was inflamed.  This is called pancreatitis.
+
+WHAT WAS DONE FOR YOU IN THE HOSPITAL?
+- Your abdominal pain was monitored while you began to start 
+eating again.
+- You were treated for a lung infection ("pneumonia") with 
+antibiotics.
+- Your heart was noted to be beating slowly, we checked and saw 
+that you DID NOT have a heart attack.
+
+WHAT SHOULD YOU DO AFTER LEAVING THE HOSPITAL?
+- Continue taking your medications as prescribed.
+- Please continue taking the azithromycin, an antibiotic to 
+treat your pneumonia.
+- Please follow up with your new doctor at ___, Dr. 
+___, on ___ at 9:30 AM.
+
+We wish you the best in your recovery!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

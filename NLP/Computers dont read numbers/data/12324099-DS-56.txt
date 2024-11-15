@@ -1,0 +1,288 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain, hypotension
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis
+ 
+History of Present Illness:
+___ yo F with ESRD on ___ HD, COPD, DM2, s/p bilat BKA sent to ED 
+after episode of hypotension and chest pain while in dialysis 
+this morning. Per patient, she was feeling well during HD, and 
+had full session. At the end of her session, BP dropped (unclear 
+how low), and pt c/o mild midline substernal nonradiating chest 
+pressure that lasted 5 mins, resolved spontaneously. No assoc 
+SOB, diaphoresis, or other sx. She is now feeling well and 
+requesting to be discharged. Pt says she had 2L removed today.
+.  
+Of note, pt was discharged 2 weeks ago after presenting with 
+episode of hypotension and chest pressure during HD (SBPs in ___ 
+initially). Pt did well thereafter, but bcx grew GPCs in 
+clusters (coag neg staph). RIJ tunneled catheter was not removed 
+as pt was afebrile and well-appearing, and was discharged 
+thereafter in good condition. She has had a similar episode in 
+___, for which she was admitted and ruled out as well.
+.
+In the ED, initial VS: T:97.0  HR:60  ___  RR:16  Sats:99 
+RA.  BP improved to 116/47 with 250cc bolus x 2.
+.
+Currently, pt is without complaints and believes she is ready to 
+go home.  Denies CP/SOB/lightheadedness/dizziness/fevers.
+.
+ROS: Otherwise N/C.
+ 
+Past Medical History:
+* ESRD on ___ HD since ___, has 2h UF session on ___  
+
+- presumed due to DM2  
+- primary nephrologist Dr. ___
+* COPD - home O2, ___
+* DM2 on insulin  
+* CHF with diastolic dysfunction, EF 75%  
+* paroxysmal afib, s/p failed ablation, on warfarin  
+* HTN c/b LVH, LVOT
+* HLP
+* PVD s/p bilateral BKAs  
+* glaucoma, left eye blindness
+* GERD
+ 
+Social History:
+___
+Family History:
+Her father died in his ___ of complications of DM2 and mother at 
+the age of ___ of a stroke. Patient had a sister who died in her 
+___ of cancer (unknown type and site) and 2 brothers that died 
+stroke and brain cancer. She has 7 children who are healthy. Her 
+family history is significant for coronary artery disease, 
+cancer, and diabetes.
+ 
+Physical Exam:
+PHYSICAL EXAM:  
+Vitals - T: 99.7 BP: 118/52 HR: 96 RR: 16 02 sat: 99% RA
+GENERAL: NAD, pleasant
+HEENT: MMM, RIJ tunneled catheter site c/d/i 
+CARDIAC: RRR with ___ systolic murmur radiating to the carotids
+LUNG: CTAB, decreased air movement at bases bilaterally
+ABDOMEN: +BS, S, NT/ND
+EXT: WWP, 2+ pulses, no c/c/e
+NEURO: Grossly intact.
+DERM: No rashes or ecchymosis.
+ 
+Pertinent Results:
+EKG: deeper lateral ST depression v4-5. TWI v5-6 stable from 
+prior.
+
+___ 03:40PM   cTropnT-0.13*
+___ 03:40PM   CK(CPK)-42
+___ 09:15PM   CK-MB-NotDone cTropnT-0.11*
+___ 06:50AM   cTropnT-0.12*
+___ 03:40PM   WBC-9.8 RBC-3.30* HGB-9.9* HCT-32.1* MCV-97 
+MCH-30.0 MCHC-30.8* RDW-17.8*
+___ 03:40PM   GLUCOSE-237* UREA N-14 CREAT-3.2*# SODIUM-140 
+POTASSIUM-3.5 CHLORIDE-97 TOTAL CO2-33* ANION GAP-14
+___ 03:40PM   ___ PTT-26.9 ___
+INR 1.2 on discharge.
+
+BCx: Pending at time of hospital discharge.
+ 
+Brief Hospital Course:
+# Hypotension: The patient became hypotensive after dialysis 
+likely due to hypovolemia which was responsive to boluses in the 
+ED.  BP remained stable between ___ during 
+hospitalization.  Her lisinopril was held during 
+hospitalization.  Her amiodarone, verapamil, and metoprolol were 
+continued with holding parameters.  After discussion with renal, 
+it was felt that lisinopril should be continued but could be 
+safely downtitrated to 5 mg po qday on discharge.
+.
+# Chest pressure: Asymptomatic throughout hospital admission.  
+Patient ruled out on cardiac enzymes with troponins at baseline. 
+ Deeper ST depressions noted on EKG, but not significantly 
+different from the patient's EKG changes at baseline.
+.
+# ESRD: On dialysis MWF.  UF on ___.  Amount of fluid taken off 
+is difficult to titrate in order to balance the patient between 
+CHF and hypotension.
+.
+# subtherapeutic INR - INR 1.1 on initial presentation.  Per HCA 
+notes, home regimen is currently 3mg/daily.  Gave 3 mg on night 
+of admission.  INR 1.2 on discharge.  Will have pt follow up in 
+___ clinic.
+.
+# paroxysmal Afib - Continue amiodarone, metoprolol, verapamil.
+# HLP - Continue simvastatin.
+# Glaucoma - Continue Xalatan, Cosopt, Alphagan.
+# COPD: Continue ___ give albuterol PRN.  NC at 
+2L/min.
+# CHF: Stable at this time; pt is not volume overloaded.
+# DM: NPH 4u AM, 4u ___, SSI
+# FEN: IVFs / replete lytes prn / regular diet  
+# PPX: HSQ
+# ACCESS: PIV in ___ (RIJ tunneled cath)
+# CODE: confirmed FULL with patient
+ 
+Medications on Admission:
+1. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+One (1) Puff Inhalation Q6H (every 6 hours) as needed for SOB.  
+2. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+3. Dorzolamide-Timolol ___ % Drops Sig: One (1) Drop 
+Ophthalmic TWICE DAILY (): Left eye please.  
+4. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) 
+Spray Nasal BID (2 times a day).  
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+
+bedtime): please place in both eyes.  
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+8. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+10. Alphagan P 0.1 % Drops Sig: One (1) drop Ophthalmic twice a 
+day: in right eye.  
+11. Verapamil 40 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+12. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+13. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+14. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed for constipation.  
+15. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+16. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+
+PO DAILY (Daily).  
+17. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+18. Novolin N PenFill 100 unit/mL Cartridge Sig: Four (4) units 
+Subcutaneous QAM and QPM.  
+19. Ammonium Lactate 12 % Cream Sig: One (1)  Topical once a 
+day: use on arms and legs daily.  
+20. EMLA 2.5-2.5 % Cream Sig: One (1)  Topical TIW: apply to 
+fistula as directed pre-HD TIW.  
+21. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO at bedtime.
+22. Acetaminophen 650 mg Tablet Sig: One (1) Tablet PO once a 
+day as needed for headache.  
+23. Coumadin 3 mg po qday
+ 
+Discharge Medications:
+1. Verapamil 40 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+2. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.  
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+5. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+7. Novolin N PenFill 100 unit/mL Cartridge Sig: 4 units in the 
+morning.  Subcutaneous 4 units at evening.  
+8. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) 
+Spray Nasal BID (2 times a day).  
+9. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+10. Dorzolamide-Timolol ___ % Drops Sig: One (1) Drop 
+Ophthalmic BID (2 times a day): in L eye.  
+11. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+12. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+13. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day): in R eye.  
+14. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+15. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+16. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO DAILY (Daily). 
+ 
+17. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO at bedtime.
+Disp:*30 Tablet(s)* Refills:*0*
+18. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+One (1) puff Inhalation every six (6) hours as needed for 
+shortness of breath or wheezing.  
+19. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).  
+20. Ammonium Lactate 12 % Cream Sig: One (1)  Topical once a 
+day: Use on arms and legs daily.  
+21. EMLA 2.5-2.5 % Cream Sig: One (1)  Topical TIW: TIW: Apply 
+to fistula as directed pre-HD TIW.  
+22. Acetaminophen 650 mg Tablet Sig: One (1) Tablet PO once a 
+day as needed for pain: for headache.  
+23. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses: hypotension, chest pain, hypovolemia
+Secondary Diagnoses:
+1. ESRD
+2. COPD
+3. DM2
+4. CHF
+5. HTN
+6. HLP
+7. peripheral arterial disease s/p bilateral BKA
+8. GERD
+
+ 
+Discharge Condition:
+Stable, with no chest pressure nor hypotension.  At baseline.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with low 
+blood pressure and chest pressure.  These symptoms resolved 
+after you received IV fluids, leading us to believe that they 
+were caused by too much fluid removed during hemodialysis.  We 
+ruled out a risk of blockage in your coronary arteries through 
+blood tests overnight.
+
+Additionally, you were found to have a low INR, indicating that 
+your blood wasn't sufficiently thinned by the warfarin you were 
+taking.  We restarted your warfarin in the hospital and would 
+like you to continue taking it until you next follow up at 
+clinic.
+
+The following medications were changed during your 
+hospitalization:
+CONTINUED warfarin at 3 mg orally per day
+DECREASED lisinopril to 5 mg orally per day
+
+If you have any symptoms including chest pressure, dizziness, 
+lightheadedness, shortness of breath, or any other symptoms that 
+concern you, please contact your primary care doctor or the 
+Emergency ___.
+
+You are instructed to follow-up with your PCP, ___ 
+___, on ___, this coming ___, at 2:00 ___.
+
+Weigh yourself every morning, call MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet.
+ 
+Followup Instructions:
+___

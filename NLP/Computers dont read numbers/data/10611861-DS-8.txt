@@ -1,0 +1,278 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+contrast dye
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left pelvic sidewall mass and persistent left inguinal 
+lymphadenectomy
+ 
+Major Surgical or Invasive Procedure:
+L pelvic lymphadenectomy, L femoral/inguinal lymphadenectomy
+
+ 
+History of Present Illness:
+___
+is an ___ woman living alone in ___ and widowed for ___
+years who is originally from ___ and who is a retired 
+___.  She is extremely active and continues
+to drive and work in her yard.  She was accompanied by her
+___, a ___.
+
+___ has a complex history of melanoma as described here.
+In early ___ she underwent biopsy of a left plantar 
+lesion
+showing a 1.25 mm thick ulcerated primary with all margins
+involved by tumor.  On ___ she underwent wide excision
+with concurrent sentinel lymph node biopsy by Dr. ___ at ___.  I reviewed his operative note
+extensively.  She apparently had undergone a torso CT scan only
+two days before surgery, on ___, which I am awaiting
+the hardcopy images for as I was unable to view it today. 
+According to the report, the scan showed an absent uterus with a
+5.1 cm well-circumscribed nonenhancing low-attenuation lesion
+within the left pelvis which was stated to represent either an
+ovarian cyst, lymphocele, or potential lymph node.  A head CT on
+the same day was normal aside from a known, stable menigioma.
+
+On ___ wide excision was performed of the left plantar
+forefoot with a transverse primary closure.  Her pathology 
+showed
+a 4.15 mm residual ulcerated melanoma of the acral lentiginous
+type with 24 mitoses per millimeter squared and melanoma in situ
+at the margins.  Satellitosis, lymphovascular invasion, and
+perineural invasion were all present.  The operative note
+describes injecting blue dye at the level of the knee for her
+lymphatic mapping, but no radioactivity was used and a specific
+injection at the forefoot was not performed.  No clearly blue
+stained node was described at the time of a random exploration 
+of
+the femoral triangle but one excised lymph node showed a single
+HMB-45 positive cell.  According to the note, only on the day of
+surgery was it recognized that she had the pelvic finding on the
+CT scan, and on that basis a left lower quadrant incision was
+made with transection of the oblique musculature and entry into
+the left retroperitoneum.  The note then describes encountering 
+a
+"blue cystic structure" which was "biopsied".  The exact
+anatomical location was unclear to me.  Visualization of the
+iliac vessels or of any defined pelvic structure was not
+described.  A cytology specimen was stated to be consistent with
+"cyst debris".  Her pathology showed a benign mesothelial lined
+cyst wall with adjacent normal ovarian cortex which was WT1 and
+ER positive.  The pathology was confirmed by the excellent ___ pathologist, Dr. ___.
+
+After the operation she apparently developed a pelvic abscess
+requiring image guided percutaneous drainage and prolonged
+antibiotics.  I do not know what organism was recovered.  A CT
+scan of the abdomen was obtained on ___ which
+supposedly showed a "hematoma" at the biopsy site.
+
+Her care was then transferred to Dr. ___ at ___ who proceeded with re-excision of the foot on ___ with no pathology found.  By ___ she developed
+___ plantar satellite metastases and was initiated on
+pembrolizumab on ___, with autoimmune hypothyroidism
+resulting.  
+
+By ___ an FDG-PET/CT scan showed multiple FDG avid
+inguinal-femoral lymph nodes.  She was then referred to our
+program for TVEC injections (an attenuated herpes simplex virus
+which expresses GM-CSF).  Since that time she has had repeated
+injections of the foot and of lymph nodes in the femoral 
+triangle
+by Ms. ___, with continuation of pembrolizumab.  She fell in
+___ fracturing her hip with cellulitis, which then resolved. 
+Today she will receive cycle 14 of the antibody.
+
+___ has had several PET scans, the most recent performed 
+here
+on ___.  Within our computer system there are two
+outside PET/CT scans from ___ and ___. 
+The ___ study was uninterpretable by me today with
+numerous false sites of FDG avidity, presumably due to technical
+reasons.  I reviewed the ___ study and she had a small
+focus of FDG avidity within the left pelvis with no clear-cut
+mass, and a prominent focus in the superficial left
+inguinal-femoral region.  The most recent study from ___
+shows a 4.4 cm left pelvic mass associated with the left 
+external
+iliac vessels which is FDG avid with an SUV of 14.  With
+reference to the ___ PET scan it was 3.1 cm earlier.  She
+has two FDG avid foci within the left inguinal-femoral region 
+one
+measuring 1.3 x 1.9 cm and the other 0.9 x 0.9 cm which are
+stated to be "stable".  I believe that both of them have been
+injected with TVEC in the past.
+
+I would also note that her original tumor was found to be c-kit
+positive but I believe it is negative for the BRAF mutation.
+ 
+Past Medical History:
+___: ___ has a complex past medical history.  She has
+hypothyroidism secondary to the pembrolizumab, polymyalgia
+rheumatica with temporal arteritis requiring chronic steroids,
+gout, osteoporosis, a stable meningioma, and severe hardness of
+hearing.
+
+PSH: The surgical history includes what has been described for 
+the melanoma.  In year ___ she underwent resection of a "benign
+cardiac tumor", presumably an atrial myxoma, at the ___.  In ___ she underwent ORIF of her left
+hip fracture at an outside institution.  In ___ she
+underwent a "colovaginal fistula repair" at ___ via a midline
+incision.  The details were obscure.  She underwent a TAH ___
+years ago and does not know if her ovaries were left in, 
+although
+presumably from what I have described earlier, they were.  She
+has also undergone appendectomy, cholecystectomy, and
+tonsillectomy.
+ 
+Social History:
+___
+Family History:
+The family history is significant for her sister who died from 
+lung cancer.  Another sister had breast cancer at an uncertain 
+age.  A third sister has nonmelanoma skin cancers.  There are no 
+family members with melanoma or other cancers.  She has 3 sons 
+and 1 daughter who are well.
+ 
+Physical Exam:
+General: AxOx3. Following commands, NAD, well appearing
+HEENT: Eyes anicteric. PEERLA. EOMI. Mucus membranes appear 
+moist
+Chest: Symmetric. CTAB. No crackles. No DTP
+Cards: RRR. 
+Abdomen: Nondistended, appropriately tender, no R/G. 
+Extremities: L groin incision appears CDI with no erythema or
+purulence (tegaderm dressing in place). JPx2 with 
+serosanguineous
+output. Strong bl femoral pulses. Distal pulses intact
+Neuro: Moving all extremities equally. Sensation grossly intact.
+___ strength UE and ___.
+ 
+Pertinent Results:
+___ 05:53AM BLOOD WBC-8.8 RBC-3.02* Hgb-8.8* Hct-28.5* 
+MCV-94 MCH-29.1 MCHC-30.9* RDW-14.2 RDWSD-49.3* Plt ___
+___ 05:53AM BLOOD Glucose-65* UreaN-19 Creat-0.8 Na-138 
+K-4.6 Cl-97 HCO3-27 AnGap-14
+___ 05:53AM BLOOD Calcium-8.6 Phos-2.7 Mg-1.8
+ 
+Brief Hospital Course:
+Ms. ___ presented to ___ holding at ___ on ___ for 
+a L pelvic lymphadenectomy, L femoral/inguinal lymphadenectomy. 
+She tolerated the procedure well without complications (Please 
+see operative note for further details). After a brief and 
+uneventful stay in the PACU, the patient was transferred to the 
+floor for further post-operative management.
+
+Neuro: Pain was well controlled on Tylenol and tramadol.
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+Pulm: The patient remained stable from a pulmonary standpoint; 
+oxygen saturation was routinely monitored. Had good pulmonary 
+toileting, as early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.
+GI: The patient was initially kept NPO after the procedure. The 
+patient was later advanced to and tolerated a regular diet at 
+time of discharge. Patient's intake and output were closely 
+monitored
+GU: The patient had a Foley catheter that was removed prior to 
+discharge. Urine output was monitored as indicated. At time of 
+discharge, the patient was voiding without difficulty.
+ID: The patient was closely monitored for signs and symptoms of 
+infection and fever.
+Heme: The patient had blood levels checked daily during their 
+hospital course to monitor for signs of bleeding. The patient 
+received subcutaneous heparin and ___ dyne boots were used 
+during this stay, she was encouraged to get up and ambulate as 
+early as possible.  
+
+On POD4, the patient was discharged to rehab. At discharge, she 
+was tolerating a regular diet, passing flatus, voiding, and 
+ambulating independently. She will follow-up in the clinic in 
+___ weeks. This information was communicated to the patient 
+directly prior to discharge.
+ 
+Medications on Admission:
+1. levothyroxine 75 mcg daily
+2. metoprolol succinate ER 25 mg BID
+3. prednisone 10 mg daily
+ 
+Discharge Medications:
+1. levothyroxine 75 mcg daily
+2. metoprolol succinate ER 25 mg BID
+3. prednisone 10 mg daily
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+left pelvic sidewall mass and persistent left inguinal 
+lymphadenectomy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You underwent surgery to remove lymph nodes in your pelvis and 
+inguinal region. You have been recovering well. The following is 
+a summary of discharge instructions. 
+
+MEDICATIONS 
+1. Please resume all home medications, unless specifically 
+advised not to take a particular medication. Please take any ___ 
+medications as prescribed.
+2. Please take all pain medications as prescribed, as needed. 
+You may not drive or operate heavy machinery while taking 
+narcotic pain medications. You may also take acetaminophen 
+(Tylenol) as directed, but do not exceed 4000 mg in one day. 
+Please note that Percocet and Vicodin have Tylenol as an active 
+ingredient, so do not take these medications with additional 
+Tylenol. 
+3. An over-the-counter stool softener such as Colace (100mg 
+twice daily) is recommended to prevent constipation while on 
+narcotic pain medication.
+
+WOUND CARE
+1. Monitor the wounds for signs of infection, including redness 
+that is spreading or increased drainge from wounds. Please call 
+Dr. ___ if you experience any of these symptoms.
+
+ACTIVITY
+1. No strenuous activity until cleared by Dr. ___.
+2. No showering until cleared by Dr. ___ sponge baths only.
+ 
+Call the office IMMEDIATELY if you have any of the following:  
+1. Signs of infection: fever with chills, increased redness, 
+swelling, warmth or tenderness at the surgical site, or unusual 
+drainage from the incision(s).  
+2. A large amount of bleeding from the incision(s) or drain(s).  
+
+3. Fever greater than 101.5 oF  
+4. Severe pain NOT relieved by your medication.  
+  
+Return to the ER if:  
+* If you are vomiting and cannot keep in fluids or your 
+medications.  
+* If you have shaking chills, fever greater than 101.5 (F) 
+degrees or 38 (C) degrees, increased redness, swelling or 
+discharge from incision, chest pain, shortness of breath, or 
+anything else that is troubling you.  
+* Any serious change in your symptoms, or any ___ symptoms that 
+concern you. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,290 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+History of Present Illness:  
+This is a ___ year-old genteman with h/o aortic stenosis s/p 
+bovine valve replacement in ___ presenting with fever to 38.7 C 
+and leg pain. Patient states he had neck pain about 1 week ago 
+for which he went to a ___ who improved his symptoms. 
+About 3 days prior he began having fevers up to 101 (per son). 
+He would take tylenol during the fevers. He denied focal 
+symptoms including cough, shortness of breath, dysuria, 
+abdominal pain, diarrhea, constipation. Patient is outdoors much 
+of the time and gardens frequently. Son states he rarely puts on 
+bug spray and is careless with protecting his skin etc. He does 
+not have any recent travel nor has he been in any lakes or other 
+bodies of water. Denies IV drug use, recent dental work as well. 
+No recent antibiotic exposure or sick contacts.  
+Patient also states that he has had bilateral leg pain that 
+began after the fevers as well. It was hard to describe the 
+pain, but he says it is mild, ___ which starts at both of his 
+feet and goes up to his knee. It is not worse or better at any 
+particular time.  
+In the ED, initial vital signs were 98.2 99 137/92 18 100%. Pt 
+then spiked to 102.5. CXR did not show evidence of pneumonia. 
+Patient was given acetaminophen 1000 mg x1. Labs were 
+significant for a normal WBC of 5, UA with tr blood and protein, 
+Cr 1.7 (last one in ___ 1.1). Blood cultures x 3, urine 
+culture, and anaplasmosis serologies were sent off. CXR was 
+unremarkable.  
+ 
+Review of Systems:  
+(+)  
+(-) fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+-Hypertension,  
+-hypercholesterolemia  
+-aortic stenosis  
+-depression  
+-prior hernia repair  
+
+ 
+Social History:
+___
+Family History:
+Mother died of complications following hernia repair. Father 
+died of heart failure at ___.  
+
+ 
+Physical Exam:
+Admission Exam  
+Vitals- 99.5 93 123/76 16 99%  
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Regular rate and rhythm, normal S1, loud S2, no murmurs, 
+rubs, gallops  
+Abdomen- soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. old scratches seen on posterior left calf  
+Neuro- CNs2-12 intact, motor function grossly normal  
+
+Discharge Exam:
+Vitals: 98, 100, 115/75, 88, 22, 98% on RA
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV- Regular rate and rhythm, normal S1, loud S2, no murmurs, 
+rubs, gallops  
+Abdomen- soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU- no foley  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. old scratches seen on posterior left calf, ecchymosis on 
+right upper arm.  
+Neuro- CNs2-12 intact, motor function grossly normal  
+ 
+Pertinent Results:
+Admission Labs
+___ 12:24PM   WBC-5.0 RBC-6.10 HGB-15.6 HCT-48.1 MCV-79* 
+MCH-25.5* MCHC-32.4 RDW-13.7
+___ 12:24PM   NEUTS-83.3* LYMPHS-11.0* MONOS-4.8 EOS-0.2 
+BASOS-0.7
+___ 12:24PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 12:24PM   PLT COUNT-120*#
+___ 12:24PM   ALT(SGPT)-41* AST(SGOT)-56* ALK PHOS-99 TOT 
+BILI-0.2
+___ 12:24PM   estGFR-Using this
+___ 12:24PM   GLUCOSE-126* UREA N-29* CREAT-1.7* SODIUM-139 
+POTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-24 ANION GAP-17
+___ 02:26PM URINE  MUCOUS-FEW
+___ 02:26PM URINE  HYALINE-4*
+___ 02:26PM URINE  RBC-2 WBC-3 BACTERIA-NONE YEAST-NONE 
+EPI-0
+
+Discharge Labs
+___ 07:40AM BLOOD WBC-5.7 RBC-5.01 Hgb-12.9* Hct-38.6* 
+MCV-77* MCH-25.8* MCHC-33.5 RDW-13.5 Plt Ct-95*
+___ 07:40AM BLOOD Glucose-102* UreaN-24* Creat-1.3* Na-136 
+K-3.5 Cl-101 HCO3-22 AnGap-17
+
+Parasite smear: INTRACELLULAR ORGANISMS SUSPICIOUS FOR ANAPLASMA
+
+Micro:
+___ 07:15    LYME DISEASE ANTIBODY, IMMUNOBLOT PND 
+___ 21:30    SPOROTHRIX (SPOROTRICHOSIS) ANTIBODY PND 
+___ 07:15    ANAPLASMA PHAGOCYTOPHILUM AND EHRLICHIA 
+CHAFFEENSIS ANTIBODY PANEL (IGM AND IGG)  PND 
+___ 07:15    ARBOVIRUS ANTIBODY IGM AND IGG PND 
+___ 13:46    ANAPLASMA PHAGOCYTOPHILUM AND EHRLICHIA 
+CHAFFEENSIS ANTIBODY PANEL (IGM AND IGG)  PND 
+
+Reports
+ECHO:
+The left atrium is elongated. The right atrium is moderately 
+dilated. Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. Due to suboptimal technical 
+quality, a focal wall motion abnormality cannot be fully 
+excluded. Overall left ventricular systolic function is normal 
+(LVEF 70%). Right ventricular chamber size and free wall motion 
+are normal. The aortic root is mildly dilated at the sinus 
+level. The ascending aorta is mildly dilated. A bioprosthetic 
+aortic valve prosthesis is present. The aortic valve prosthesis 
+appears well seated, with normal leaflet/disc motion and 
+transvalvular gradients. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. The left 
+ventricular inflow pattern suggests impaired relaxation. The 
+pulmonary artery systolic pressure could not be determined. 
+There is no pericardial effusion. 
+IMPRESSION: Suboptimal image quality. No vegetations seen
+
+Neck CT:
+IMPRESSION:  
+1. No fluid collection, inflammatory change or lymphadenopathy.  
+
+2. Dilated distal ascending aorta, 4.3 cm; aortic arch not 
+imaged. Recommend CTA chest to evaluate, if not already 
+performed elsewhere. 
+3. Atherosclerosis at left ICA origin with possible moderate 
+stenosis, not adequately quantified as this is not a CTA. If 
+clinically indicated, this could be assessed by carotid 
+sonography. 
+4. Multilevel cervical spondylosis; please correlate whether 
+this may be the source of the patient's pain. 
+
+ 
+Brief Hospital Course:
+___ year-old genteman with h/o aortic stenosis s/p bovine valve 
+replacement in ___ presenting with fever to 38.7 C and 
+generalized myalgias x4 days. During hospitalization, patient 
+was found to have parasite smear for anaplasma.  Patient was 
+discharged home on 14 day course of doxycycline to treat both 
+anaplasma and empirically for lyme disease as coinfection is 
+common.  
+
+ACTIVE ISSUES:
+#Fevers: Given h/o aortic valve replacement endocarditis was 
+considered as a possibility, but TTE did not show this.  
+Serologies were sent for tick borne illness as pt spent 
+significant time outdoors.  Cultures did not reveal infection.  
+No evidence of pneumonia on CXR. Pt had neck CT to evaluate for 
+abscess/neck infection given his neck mucsle pain (no meningeal 
+signs), but this did not show signs of infection. Patient's 
+parasite smear showed anaplasma and he was discharged on 14 day 
+course of doxycycline to treat both anaplasma and empirically 
+for lyme disease as coinfection is common. 
+
+___: Cr is 1.7 up from 1.3 in ___. Likely prerenal in the 
+setting of fevers (insensible losses).  On admission patient 
+received 1L IVF bolus and creatinine improved to baseline. 
+ 
+#Thrombocytopenia- 120 from 185. Decreased to ___ at discharge.  
+Likely secondary to anaplasma infection.  Recommended patient 
+have CBC rechecked at PCP's office this week. 
+  
+INACTIVE ISSUES:
+#Aortic Stenosis: Stable. 
+  
+#Hypertension: Continued verapamil, aspirin 162 mg daily, 
+doxazosin 1 mg daily 
+ 
+#Hyperlipidemia: Continued statin  
+
+#Depression: Continued effexor  
+
+#Insomnia: Continued ambien    
+
+TRANSITIONAL ISSUES:
+- Pt with CT scan showing dilated ascending aorta.  Consider CTA 
+as outpatiet to further evaluate.  This was communicated with 
+the patient and his son and they will follow-up with his 
+PCP/cardiologist to discuss further.  (ECHO showed mild 
+dilitation of aortic root).  
+- Pt needs CBC rechecked at PCP's office this week. 
+- Lyme, sporothrix, anaplasma, arbovirus serologies pending at 
+discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. verapamil *NF* 240 mg Oral daily 
+2. Zolpidem Tartrate 5 mg PO HS 
+3. Donepezil 10 mg PO HS 
+4. Lorazepam 0.5 mg PO DAILY anxiety 
+5. Hydrochlorothiazide 12.5 mg PO DAILY 
+6. Potassium Chloride 10 mg PO DAILY 
+Hold for K > 
+7. Doxazosin 1 mg PO DAILY 
+8. Omeprazole 20 mg PO DAILY 
+9. Aspirin 162 mg PO DAILY 
+10. Simvastatin 40 mg PO DAILY 
+11. Venlafaxine XR 150 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 162 mg PO DAILY 
+2. Donepezil 10 mg PO HS 
+3. Doxazosin 1 mg PO DAILY 
+4. Lorazepam 0.5 mg PO DAILY anxiety 
+5. Omeprazole 20 mg PO DAILY 
+6. Simvastatin 40 mg PO DAILY 
+7. Venlafaxine XR 150 mg PO DAILY 
+8. Zolpidem Tartrate 5 mg PO HS 
+9. Doxycycline Hyclate 100 mg PO Q12H Duration: 10 Days 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*27 Capsule Refills:*0
+10. Hydrochlorothiazide 12.5 mg PO DAILY 
+11. Potassium Chloride 10 mg PO DAILY 
+12. Verapamil *NF* 240 mg ORAL DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+-Erlichiosis/Anaplasmosis
+
+Secondary
+-Aortic stenosis status post valve replacement
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted for fevers, leg pain, and neck pain.  We 
+obtained an extensive infectious workup which revealed 
+erlichiosis or anaplasmosis, an infection of the blood cells. 
+
+Please take 2 weeks of antibiotics as prescribed. 
+ 
+Followup Instructions:
+___

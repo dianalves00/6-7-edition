@@ -1,0 +1,365 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Encephalopathy
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture on ___, negative
+ 
+History of Present Illness:
+___ with urinary retention with chronic indwelling Foley, ___ 
+body dementia, DM2 requiring insulin, CAD s/p CABG, NSVT s/p ICD 
+placement, who presents from his nursing home with fever, 
+leukocytosis, and altered mental status. 
+
+Caretakers at his facility noted that his temp was ___ and his 
+mental status was not at his baseline (he was not talking or 
+verbalizing). WBC 19.9, Na 152, and Cr 2.53 (baseline 1.4). 
+Since ___, nurses reported he was more lethargic but easily 
+arousable. They noted his appetite decreased (used to eat 
+80-100%, decreased to ___. They could not get PO fluids into 
+him. He had not been taking any meds since ___ until admission. 
+On the day prior to admission, he was difficult to arouse and 
+was not holding body up. Nurses got labs and UA on ___ 
+afternoon. CXR ordered late night ___ showed possible PNA. On 
+the night of ___, patient's temp started to rise, peaking at 
+101. At this time, EMS was called and patient was transferred to 
+___ for further evaluation and management. 
+
+On arrival to ___ ED at 2am, his vitals were: Temp ___, BP 
+64/25, HR 94, RR 20, O2sat 100%2L. He immediately triggered for 
+hypotension. Nursing reports AMS since arrival, with left-sided 
+facial droop documented at 2:16am, and was not responsive to 
+painful stimuli. Urine analysis showed large leuks, WBC 40, RBC 
+1, Nitr positive, so ceftriaxone was started for UTI. 
+
+Of note, his most recent admission in ___ was also for AMS 
+thought to be due to urinary retention, and the indwelling foley 
+was placed at this time. ___ body dementia progressively worse 
+within the past few months. On ___, Mr. ___ was 
+transferred from home care by his daughter ___ to 
+___. 
+
+Per his nurse, his baseline mental status is usually alert with 
+confusion and he can answer simple questions. He is only 
+oriented only self, but can recognize daughter (although cannot 
+name her). He can communicate if he is in pain. He has auditory 
+and visual hallucinations ___ ___ body dementia, so was started 
+on trilafon although this made him extremely restless. On ___, 
+his psychiatrist began a cross taper of his antipsych meds, with 
+tapering off trilafon and starting Seroquel. At baseline, his 
+nurse reported no noticeable facial droop, and he could move all 
+extremities equally when he becomes combative to being moved. 
+His Foley was last changed on ___. 
+ 
+Past Medical History:
+___ Body Dementia/Delusional Parasitosis
+Chronic indwelling urinary catheter
+Chronic kidney disease
+REM behavior disorder
+obstructive sleep apnea
+diabetes mellitus type 2 requiring insulin
+hyperlipidemia
+CAD s/p CABG ___, NSVT ___ s/p ICD (replaced ___, therapies 
+turned off ___ after discussion with family/Dr. ___
+Cataracts
+Hypogonadism and erectile dysfunction
+ 
+Social History:
+___
+Family History:
+Father with cardiovascular disease
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+============================
+Vitals: 98.0 108/48 80 12 98%RA
+General: Difficult to arouse, intermittently opens eyes to 
+calling his name
+___: sclera anicteric, dry MM, oropharynx clear, left-sided 
+lower facial droop (but difficult to assess because pt not 
+responding to commands, unclear h/o droop)
+Neck: supple, JVP not elevated, no LAD  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops, ICD noted under skin in upper left thorax  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: indwelling foley ___ with yellow-orange urine output
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Multiple bed ulcers noted on bilateral shins and heels. 
+Neuro: Difficult to assess. Dysarthric w/ poor speech output 
+even when attentive
+
+DISCHARGE PHYSICAL EXAM:
+============================
+VS: RR ___
+GEN: Nonverbal, not arousable to voice, minimally responsive to 
+sternal rub
+___: mild left-sided facial droop
+GU: indwelling Foley catheter
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+=======================
+___ 02:20AM BLOOD WBC-21.1*# RBC-4.19* Hgb-9.8* Hct-31.5* 
+MCV-75* MCH-23.4* MCHC-31.1* RDW-14.9 RDWSD-40.2 Plt ___
+___ 02:20AM BLOOD Neuts-74.2* Lymphs-16.9* Monos-7.8 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-15.64* AbsLymp-3.55 
+AbsMono-1.64* AbsEos-0.03* AbsBaso-0.06
+___ 02:20AM BLOOD Glucose-245* UreaN-93* Creat-2.3* Na-154* 
+K-5.5* Cl-113* HCO3-23 AnGap-24*
+___ 09:06AM BLOOD Calcium-8.5 Phos-4.4 Mg-2.6
+___ 02:30AM BLOOD Lactate-2.0
+___ 02:20AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 02:20AM URINE Blood-TR Nitrite-POS Protein-100 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-LG
+___ 02:20AM URINE RBC-1 WBC-40* Bacteri-MOD Yeast-NONE 
+Epi-0
+___ 02:20AM URINE 3PhosX-FEW
+___ 02:20AM URINE Mucous-RARE
+___ 05:01PM CEREBROSPINAL FLUID (CSF) WBC-2 RBC-1* Polys-0 
+___ Macroph-14
+___ 05:01PM CEREBROSPINAL FLUID (CSF) TotProt-189* 
+Glucose-138
+
+IMAGING:
+=======================
+CXR on ___:
+No acute intrathoracic process.
+
+CT Head w/o Contrast on ___:
+No major territorial infarction, hemorrhage or fracture.
+
+CT Head w/o contrast (repeated on ___:
+1. No acute intracranial process, specifically no intracranial 
+hemorrhage. 
+2. Chronic changes as described above. 
+
+EKG:
+=======================
+(___): Sinus arrhythmia. Early R wave transition, possible 
+normal variant. Inferior myocardial infarction, age 
+indeterminate. Compared to the previous tracing of ___ the 
+findings are similar.
+
+MICRO:
+=======================
+   URINE CULTURE (Final ___: 
+      Culture workup discontinued. Further incubation showed 
+contamination
+      with mixed fecal flora. Clinical significance of 
+isolate(s)
+      uncertain. Interpret with caution. 
+      PROTEUS MIRABILIS.    >100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PROTEUS MIRABILIS
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------     2 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+ Blood Culture, Routine (Preliminary): 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE. 
+         Isolated from only one set in the previous five days. 
+         SENSITIVITIES PERFORMED ON REQUEST.. 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI IN CLUSTERS. 
+
+___ Microbiology:
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH.
+
+DISCHARGE LABS:
+=======================
+___ 05:38AM BLOOD WBC-13.0* RBC-3.17* Hgb-7.4* Hct-23.6* 
+MCV-74* MCH-23.3* MCHC-31.4* RDW-15.2 RDWSD-40.7 Plt ___
+___ 05:38AM BLOOD Glucose-62* UreaN-26* Creat-1.0 Na-146* 
+K-3.9 Cl-113* HCO3-23 AnGap-14
+___ 05:38AM BLOOD Calcium-8.9 Phos-3.8 Mg-2.___ with advanced ___ body dementia, baseline AOx1, CAD s/p 
+CABG, anemia, CKD who presents with encephalopathy, UTI, 
+hypernatremia, and acute on chronic kidney disease. Patient was 
+transferred from nursing home to ___ after positive UA showing 
+UTI, increased lethargy, and AMS. He completed 7 days of 
+ceftriaxone. Hypernatremia and ___ were treated with IVF. Given 
+advanced dementia and DNR/DNI status, ICD therapies were turned 
+off. He had no significant improvement in mental status and 
+family meeting was held. He was transitioned to comfort 
+measures.
+
+# COMFORT MEASURES ONLY. DNR/DNI. ICD therapies were turned off. 
+He will be given scopolamine patch, morphine liquid, and 
+lorazepam PO as needed for pain, anxiety, or respiratory 
+distress.
+
+# ENCEPHALOPATHY, TOXIC-METABOLIC.  Patient at baseline is 
+arousable and alert, oriented only to self, and can answer 
+simple questions or commands. On admission, he was noted to have 
+a left lower facial droop. Code stroke was called, neuro 
+consulted. CT head showed no major territorial infarction, 
+hemorrhage or fracture. Shortly afterwards, patient was awake to 
+name calling and painful stimuli. Etiology was likely 
+toxic-metabolic encephalopathy, infection, electrolyte 
+derangement. He was treated for these but did not improve.
+
+# NUTRITION. Due to encephalopathy, he was not able to swallow 
+or participate in meals initially and was made strict NPO by 
+S&S. He was eventually upgraded to modified regular diet of thin 
+liquids and ground solids, but was too somnolent to participate 
+in meals. Family meeting was held on ___ regarding comfort vs 
+feeding tube, and feeding tube was not within goals of care. 
+Diet as tolerated given CMO.
+
+# UTI, CATHETER-ASSOCIATED: Patient has a chronic indwelling 
+foley for urinary retention, first placed in ___. Changed on 
+___ at ___ home. He developed a CAUTI and was treated with 
+7 days of ceftriaxone, urine culture growing Proteus, from ___ 
+to ___. Foley was changed in our ED on day of admission. 
+
+# HYPERNATREMIA: Na mid ___ and altered, due to decreased PO 
+intake from encephalopathy. We treated him with D5W IVF and his 
+serum sodium slowly normalized to baseline levels. His last 
+measured serum Na was 146 on ___.
+
+# ACUTE ON CHRONIC KIDNEY DISEASE:  Likely prerenal vs 
+infection. Treated with IVF.  Baseline CKD stage III. Cr 2.3 on 
+admission, baseline low to mid 1's.
+
+# Bacteremia: Patient growing GPCs in clusters. Started on 
+vancomycin ___, but stopped as it was felt to be contamination.
+
+### CHRONIC ISSUES ###
+# DM2: Chronic issue. Patient had higher blood glucose sticks 
+than baseline with D5W. Treated with insulin. 
+
+# ___ body dementia: Chronic progressive, advanced disease. No 
+auditory or visual hallucinations during hospitalization. We 
+held his trazadone and seroquel given his minimal 
+responsiveness. We continued his perphenazine.
+
+# CAD: Chronic issue. We continued his ASA and statin. He has 
+ICD placed for history of NSVT and depressed EF. Given ongoing 
+goals of care and progressive dementia, we discussed turning off 
+his ICD with family and his outpatient cardiologist Dr. ___, 
+___ were all in agreement. ICD therapies was turned off.
+
+Transitional Issues:
+-Comfort measures only
+-Discharged on scopolamine patch, morphine liquid, lorazepam PO 
+PRN
+-ICD therapies were turned off given advanced dementia and 
+DNR/DNI
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Ferrous Sulfate 325 mg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. Docusate Sodium 100 mg PO BID 
+5. Atorvastatin 40 mg PO QPM 
+6. Perphenazine 12 mg PO QHS 
+7. Senna 8.6 mg PO QHS 
+8. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+9. Meladox (melatonin) 6 mg oral QHS 
+10. TraZODone 25 mg PO Q6H:PRN insomnia, anxiety 
+11. Glargine 34 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+12. QUEtiapine Fumarate 25 mg PO TID 
+
+ 
+Discharge Medications:
+1. Scopolamine Patch 1 PTCH TD Q72H 
+2. Morphine Sulfate (Concentrated Oral Soln) 5 mg PO Q1H:PRN 
+pain or respiratory distress 
+RX *morphine concentrate 100 mg/5 mL (20 mg/mL) 5 mg by mouth 
+every one (1) hour Refills:*0
+3. Lorazepam 0.5 mg PO Q2H:PRN anxiety or distress 
+RX *lorazepam 0.5 mg 1 tablet by mouth every two (2) hours Disp 
+#*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+PRIMARY:
+-Comfort measures only
+-Urinary tract infection, complicated, catheter-associated
+-Encephalopathy, toxic-metabolic
+-Acute kidney injury
+-Hypernatremia
+-___ body dementia
+
+Secondary:
+-Type II diabetes mellitus requiring insulin
+-Coronary artery disease s/p ICD
+-Anemia of chronic disease
+-Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic and not arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___, where you were admitted for a urinary tract 
+infection and altered mental status after being transferred here 
+from your nursing home on ___. 
+
+At your nursing home, you were noticed to be more lethargic and 
+had a fever. Labs showed a urinary tract infection, kidney 
+failure, and too much sodium in your blood. We treated you with 
+antibiotics for your UTI, and gave you IV fluids to correct your 
+high sodium levels and improve your kidney function. A lumbar 
+puncture was normal. 
+
+Unfortunately, your mental status did not improve. After 
+discussion with your family and your cardiologist Dr. ___ 
+was decided to turn off your ICD so that it would not shock you. 
+A family meeting was held and your goals of care were 
+transitioned to focus on comfort.
+ 
+Followup Instructions:
+___

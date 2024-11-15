@@ -1,0 +1,169 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, nausea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with PMH of transitional cell carcinoma s/p bladder 
+resection, HTN, HL presenting with 3 days of abdominal pain and 
+nausea and one day of vomiting. Patient was initially seen at 
+clinic, where she was prescribed Levofloxacin for a possible 
+UTI. Her symptoms persisted, and she was evaluated at ___ 
+___ one day prior to admission where an abdominal CT showed a 
+small bowel obstruction. She had a loose bowel movement after 
+the CT with improvement in her symptoms, and elected to leave 
+the ER as she preferred to be admitted to the ___. Her nausea 
+and abdominal pain returned on the day of admission, prompting 
+her to present to the ___ ER. She denies fevers, chills, chest 
+pain, shortness of breath, or lower extremity edema. 
+
+While in the emergency room patient underwent a KUB which 
+preliminarily showed resolution of her SBO. She was afebrile and 
+hemodynamically stable and was admitted to the medical service.
+
+ROS: Ten point review of systems performed and negative except 
+as noted above.
+ 
+Past Medical History:
+HTN
+TB exposure
+Hypercholesterolemia
+Low back pain  
+TURBT  
+
+ 
+Social History:
+___
+Family History:
+No family history of bladder cancer
+ 
+Physical Exam:
+VS: T=97.5  BP=125/72  HR=75  RR=18  O2 sat=98% on RA
+Gen: Awake, alert, NAD
+HEENT: NCAT, EOMI, anicteric
+CV: RR, no m/r/g
+Pulm: CTA B
+Abd: Soft, non-distended, mild R CVA tenderness
+Ext: No edema, no calf tenderness
+
+ 
+Pertinent Results:
+___ 06:00PM 
+WBC-9.9 RBC-4.31 Hgb-12.1 Hct-36.1 MCV-84 Plt ___
+Glucose-111* UreaN-37* Creat-1.1 Na-139 K-3.7 Cl-103 HCO3-24 
+AnGap-16
+URINE ___ WBC->50 Bacteri-MOD Yeast-NONE Epi-0
+URINE Blood-SM Nitrite-NEG Protein-TR Glucose-NEG Ketone-15 
+Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+URINE CULTURE (Final ___:    <10,000 organisms/ml. 
+
+Abd XRay: ___
+IMPRESSION: Finding suggestive of early to partial small bowel 
+obstruction, or focal ileus. No recent comparisons are available 
+to evaluate for interval change. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+
+ 
+Brief Hospital Course:
+1. Partial SBO: Abdominal Xray consistent with early or partial 
+SBO, which was consistent with her symptoms.  She was placed on 
+IVF and initially placed NPO and advance slowly to a clear 
+liquid diet, then full liquid diet on day of discharge.  On day 
+2 of her hospitalization, she had a BM, able to pass gas and had 
+improvement in her abdominal pain.  She had resolution of her 
+abdominal pain on discharge.  Her risk factors for SBO are her 
+adhesions from prior surgery. 
+
+2. Bacteriuria: >50 WBC's in urine with moderate bacteria, but 
+negative leukocyte esterase and nitrite from her ileal loop.  
+She was started on ceftriaxone and received 3 days of treatment. 
+ Her urine culture finally grew <10,000 colonies and ceftriaxone 
+was discontinued.  Briefly spoke with inpatient urology team and 
+agreed it was reasonable to discontinue antibiotics in light of 
+getting the specimen from the ileal loop and the setting of her 
+urine culture.  Pt was instructed to follow up in Urology within 
+the month.  
+
+3. Hypertension: She was restarted on a lower dose of 
+hydrochlorothiazide at 12.5mg daily.  She was instructed to 
+follow up her blood pressure with her primary care doctor in the 
+next ___ weeks.  
+
+4. Osteopenia/Osteoporosis: Continue Ca/Vit D and Fosamax as an 
+outpatient
+
+All other medical issues were stable and no medication changes 
+were made.
+ 
+Medications on Admission:
+Aspirin 81 mg PO DAILY   
+Hydrochlorothiazide 25 mg PO Daily
+Pantoprazole 20 mg PO Q24H Start: In am  
+Ca/Vit D
+Fosamax ___
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily). Tablet, Chewable(s) 
+2. Hydrochlorothiazide 12.5 mg Capsule Sig: One (1) Capsule PO 
+DAILY (Daily).  
+3. Pantoprazole 20 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO once a day.  
+4. Fosamax 70 mg Tablet Sig: One (1) Tablet PO once a week.  
+5. Calcium 500 + D 500 mg(1,250mg) -200 unit Tablet Sig: One (1) 
+Tablet PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Partial small bowel obstruction
+Bacteriuria
+
+Hypertension
+Osteoporosis
+
+ 
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+ 
+Discharge Instructions:
+You were admitted with a partial small bowel obstruction.  You 
+were given fluids and bowel rest.  Your abdominal pain resolved 
+and you were able to pass bowel movements and flatus prior to 
+discharge. 
+
+Of note, you were diagnosed with a urinary tract infection and 
+were started on antibiotics here.  The urine culture was 
+negative and antibiotics were discontinued.  Please return to 
+the hospital if you develop fevers, chills or night sweats or 
+recurrent abdominal pain.
+
+Medication changes:
+1. Note that your Hydrochlorothiazide dose was decreased to 
+12.5mg daily.  Please have your blood pressure followed up by 
+your primary care doctor within ___ weeks.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,354 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dysphagia
+ 
+Major Surgical or Invasive Procedure:
+PEG placement
+Portacath placement
+
+ 
+History of Present Illness:
+History of Present Illness: 
+This is a ___ y/o male with esophageal adenocarcinoma amidst 
+radiation treatment. Patient was scheduled to receive portacath 
+and G-tube placement this ___ with Dr. ___, 
+___ was admitted to ___ on ___ with confusion, found 
+to be hypoglycemic after taking 40 units of an unidentified type 
+of insulin. On presentation to ___, the patient was febrile 
+to 100.4 and tachycardic to the 120's. He was given 1L of IV 
+fluids and his HR fell to the 70's. CXR revealed possible LLL 
+infiltrate from presumed aspiration during the patient's 
+hypoglycemic episode. He was given Vanc/Zosyn for empiric 
+treatment of aspiration pneumonitis, and given the patient's 
+reports of pleuritic chest pain, a CTA was performed and read as 
+(-) for PE. His confusion resolved with resolution of his 
+hypoglycemia.
+.
+Of note, the patient's wife reports his inability to eat over 
+the past few weeks. He has only been taking liquids by mouth and 
+usually is very "dehydrated looking."
+.
+In ___/urine culture/blood culture were all negative. 
+Vanc/Zosyn were discontinued ___ before transfer to ___ 
+___ for hopefully expedited PEG placement.
+.  
+Review of Systems:  
+(+) Per HPI  
+(-) Review of Systems: GEN: No fever, chills, night sweats, 
+recent weight loss or gain. HEENT: No headache, sinus 
+tenderness, rhinorrhea or congestion. CV: No chest pain or 
+tightness, palpitations. PULM: No cough, shortness of breath, or 
+wheezing. GI: No nausea, vomiting, diarrhea, constipation or 
+abdominal pain. No recent change in bowel habits, no 
+hematochezia or melena. GUI: No dysuria or change in bladder 
+habits. MSK:  No arthritis, arthralgias, or myalgias. DERM: No 
+rashes or skin breakdown. NEURO: No numbness/tingling in 
+extremities. PSYCH: No feelings of depression or anxiety. All 
+other review of systems negative.
+ 
+Past Medical History:
+ONCOLOGY HISTORY
+- Dysphagia in ___ --> EGD --> firm mass occluding lumen
+- Biopsy --> invasive adenocarcinoma
+- EUS --> exophytic esophageal mass at gastroesophageal junction 
+measuring 1 inch in length involving the mucosa, submucosa, and 
+muscularis  with invasion beyond the muscularis layer manifested 
+by the presence of irregularity of the outer muscularis layer 
+margin.
+- Staged as T3 N0. 
+- PET-CT revealed a markedly FDG avid distal esophageal mass 
+with a single FDG avid gastrohepatic lymph node, measuring 8 mm 
+in size concerning for nodal metastases.  Smaller celiac nodes 
+were noted, but not FDG avid.  There was also a 2.7 cm left 
+adrenal nodule that was not FDG avid.
+- Received first Taxol/carboplatinum dose on ___, the second 
+on ___, and then again on ___. He missed his dose on 
+___ due to side effects.
+- Has rec'd 6 rounds of XRT, last round on ___.
+.
+Other past medical history: 
+- Diabetes mellitus type 2.
+- BPH.
+- Hypertension.
+- Hyperlipidemia.
+- Chronic kidney disease stage III.
+ 
+Social History:
+___
+Family History:
+Per OMR: No significant family history of malignancy. 
+ 
+Physical Exam:
+ON ADMISSION:
+VS: 101.3 Tm, 122-148/60-84, 87-111, ___, 94-99%RA
+I/O: 60 + 1483 (IVF) / 850
+GEN: A&Ox3, NAD, cranky disposition
+HEENT: PERRL. MMM. no LAD. no JVD. neck supple. No cervical, 
+supraclavicular, or axillary LAD, erythematous suprasternal skin
+Cards: RR S1/S2 normal. no murmurs/gallops/rubs.
+Pulm: No dullness to percussion, CTAB no crackles or wheezes
+Abd: BS+, soft, NT, no rebound/guarding, no HSM, no ___ 
+sign
+Extremities: wwp, no edema. DPs, PTs 2+.
+Skin: no rashes or bruising
+Neuro: CNs II-XII intact. ___ strength in U/L extremities. DTRs 
+2+ ___. sensation intact to LT, cerebellar fxn intact (FTN, HTS). 
+gait WNL.
+.
+ON DISCHARGE:
+VS: 95.9-98.9, 104-142/54-80, 95-124, ___, 93-96%RA
+I/O: 1247 + 574 (IVF) / 690 +
+GEN: A&O x3, NAD, ill-appearing white male sitting still in bed
+HEENT: PERRL. MMM. no LAD. no JVD. neck supple. No LAD.
+Cards: RR rate tachy S1/S2 normal. no murmurs/gallops/rubs. (+) 
+port
+Pulm: crackles in lung fields diffusely
+Abd: BS+, soft, TTP suprapubic areas bilaterally, mild rebound 
+in RLQ/suprapubic area / no guarding, no HSM, (+) PEG, no 
+erythema
+Extremities: wwp, no edema. DPs, PTs 2+.
+Skin: no rashes or bruising
+Neuro: CNs II-XII intact. ___ strength UEs. DTRs 2+ ___. 
+sensation intact, cerebellar fxn wnl (FTN, HTS). gait WNL.
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+___ 06:45AM BLOOD WBC-1.5* RBC-3.55* Hgb-10.6* Hct-30.2* 
+MCV-85 MCH-29.8 MCHC-35.0 RDW-15.1 Plt Ct-85*
+___ 06:45AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ 
+Macrocy-1+ Microcy-1+ Polychr-NORMAL Ovalocy-1+ Bite-OCCASIONAL
+___ 06:45AM BLOOD Glucose-153* UreaN-12 Creat-1.2 Na-134 
+K-3.6 Cl-103 HCO3-19* AnGap-16
+___ 06:45AM BLOOD Albumin-3.0* Calcium-8.1* Phos-2.3* 
+Mg-1.7
+.
+LABS OF INTEREST:
+___ 06:25AM BLOOD Hapto-97
+___ 06:25AM BLOOD LD(LDH)-201
+___ 06:25AM BLOOD Neuts-85* Bands-4 Lymphs-5* Monos-5 Eos-0 
+Baso-0 ___ Metas-1* Myelos-0
+___ 05:30AM BLOOD ___ PTT-27.1 ___
+___ 10:48AM BLOOD ALT-16 AST-29 AlkPhos-85 TotBili-0.3
+.
+LABS ON DISCHARGE:
+___ 06:06AM BLOOD WBC-8.0 RBC-3.11* Hgb-9.4* Hct-26.9* 
+MCV-87 MCH-30.2 MCHC-34.9 RDW-16.4* Plt Ct-82*
+___ 06:06AM BLOOD Glucose-334* UreaN-18 Creat-1.1 Na-134 
+K-4.0 Cl-101 HCO3-27 AnGap-10
+___ 06:06AM BLOOD Calcium-7.7* Phos-1.8* Mg-2.0
+.
+STUDIES & IMAGING:
+CXR (PORT) ___: In comparison to study of ___, there is 
+some increased opacification in the retrocardiac area. Although 
+this could well reflect atelectasis and possible small effusion, 
+in the appropriate clinical setting, supervening pneumonia would 
+have to be considered. The right lung is clear and there is no 
+pulmonary vascular congestion.
+.
+CXR (PORT) ___: Evaluation of the patient with esophageal 
+cancer 
+after PEG placement with diffuse abdominal pain, evaluate for 
+perforation. AP radiograph of the chest was reviewed in 
+comparison to ___. Heart size is top normal. 
+Mediastinum is unremarkable. The right central venous line tip 
+is at the level of mid SVC. There is left basal linear opacity, 
+most likely representing atelectasis, unchanged since the prior 
+study, associated with small amount of pleural effusion. No 
+definitive free intra-abdominal air is noted on the current 
+study, but correlation with dedicated upright radiograph or 
+decubitus view is highly recommended. No pneumothorax is seen.
+.
+KUB (PORT) ___: Two AP views of the abdomen in the supine 
+and upright positions show a nonspecific bowel gas pattern with 
+no intraperitoneal free air. A PEG tube is seen projecting off 
+the left side of the patient, but the insertion point cannot be 
+visualized. IMPRESSION: No evidence of perforation or 
+intraperitoneal free air.
+ 
+Brief Hospital Course:
+This is the brief hospital course for an ___ year old male with 
+gastroesophageal junction adenocarcinoma who recently finished 
+an aggressive chemotherapy and radiation regimen who was 
+transferred from ___ for fever and dysphagia who hospital 
+course included PEG and port placement as well as pneumonia 
+covereage.
+.
+ACTIVE ISSUES:
+# FEVER: Attributed to PNA. Other infectious causes including 
+urine, stool, and blood were considered and ruled out. Pt was 
+ruled out for C.diff given complaints of diarrhea. He last 
+spiked a fever on ___. Patient will be treated for 10 days of 
+cefpodoximine. His last dose will be ___. At discharge blood 
+cultures from ___ are still pending. Please call ___ 
+for results.
+.
+# TACHYCARDIA: Patient was noted to be in sinus tachycardia to 
+110-120s. Initially it was thought to be ___ dehydration and 
+fevers. Pain and agitation were also considered and treated 
+according. Patient was not hypoxic so PE was thought to be less 
+likely. Metoprolol was initially reduced given infection and was 
+then retitrated to 37.5mg BID with good response to heart rate.
+.
+# ADENOCARCINOMA of GE JUNCTION: Patient was essentially 
+transferred to ___ to expedite PEG and PORT placement. Patient 
+has post operative pain in abdomen. Abdominal and Chest plain 
+films were obtained did not show any acute intra-abdominal 
+pathology, other than increased stool in lumen. Patient was 
+started on an aggressive bowel regimen which resolved abdominal 
+pain. Patient ultimately to receive chemotherapy if functional 
+status improves. 
+.
+# PARTICIPATION IN CARE: Patient has a very stubborn 
+disposition. He was initially very resistant to go to rehab 
+despite recommendations from the medical team. However with 
+strong encouragement from family he became amenable. He will 
+likely require more encouragement while in rehab. 
+.
+# DIABETES: After starting tube feeds, patient's fingersticks 
+were elevated to 300s. Patient will need further titration of 
+insulin to better control diabetes
+.
+# HYPERTENSION: Patient was initially normotensive while on 
+antihypertnesives however then had one epsiode of hypotension 
+while in the hospital requiring fluid bolus. Antihypertensives 
+were then down titrated however on discharge BP was 150/90. He 
+will need further titration of medications while at rehab. 
+.  
+# CODE STATUS: full code
+ 
+Medications on Admission:
+HOME MEDICATIONS ON ADMISSION:
+Losartan 50 mg p.o. daily.
+Metoprolol 25 mg p.o. b.i.d.
+Zofran rapid dissolve 8 mg q. 8 hours.
+Zocor 40 mg p.o. daily.
+Amitriptyline 10 mg p.o. q.h.s.
+Tylenol ___ mg q. 6-hour p.r.n.
+Ketoconazole 2% shampoo twice a week.
+Clobetasol 0.05% ointment twice a day.
+Fexofenadine 60 mg p.o. b.i.d. as needed for allergy symptoms.
+Aspirin 81 mg p.o. daily.
+Fish oil 1000 mg p.o. daily.
+Ascorbic acid once a day.
+Glucosamine once a day.
+Terazosin 10 mg p.o. once daily.
+Novolog 7 units three times a day.
+Prochlorperazine 10 mg p.o. q. 6 hours as needed.
+Lorazepam 0.5 mg p.o. t.i.d. p.r.n. for anxiety.
+.
+MEDICATIONS ON TRANSFER from ICU to ONCOLOGY:
+- Simvastatin 40mg QHS
+- Amitriptyline 10mg QHS
+- Neutraphos 2pkt TID
+- Aspirin 81mg daily
+- Allegra 60mg BID prn
+- Lorazepam 0.5mg BID prn
+- Ondansetron 8mg SL Q8h prn
+- Pantoprazole 40mg daily
+- Ondansetron 4mg IV Q8h prn
+- MEtoclopramide 5mg Q6h: prn
+- Famotidine 20mg daily
+- Acetoaminophen 650mg Q6h prn
+ 
+Discharge Medications:
+1. simvastatin 40 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+2. amitriptyline 10 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+3. fexofenadine 60 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day) as needed for allergies.  
+4. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for insomnia.  
+5. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+6. famotidine 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. acetaminophen 650 mg/20.3 mL Solution Sig: One (1)  PO Q6H 
+(every 6 hours) as needed for pain and/or fever.  
+8. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+packet PO DAILY (Daily).  
+9. losartan 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+10. terazosin 5 mg Capsule Sig: Two (2) Capsule PO HS (at 
+bedtime).  
+11. insulin lispro protam & lispro 100 unit/mL (50-50) 
+Suspension Sig: ___ (25) units Subcutaneous QAM.  
+12. insulin lispro protam & lispro 100 unit/mL (50-50) 
+Suspension Sig: ___ (25) units Subcutaneous QPM.  
+13. ondansetron 8 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every eight (8) hours as needed for nausea.  
+14. morphine 15 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for pain.  
+15. cefpodoxime 100 mg Tablet Sig: Two (2) Tablet PO Q12H (every 
+12 hours) for 17 doses.  
+16. metoprolol tartrate 25 mg Tablet Sig: 1.5 Tablets PO twice a 
+day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Gastroesophageal junction carcinoma
+Malnutrition -> Starvation ketosis
+Hypoglycemia
+Hypotension
+Tachycardia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, you were admitted to the ICU for a hypoglycemic 
+episode. After this resolved, you were transferred to the 
+oncology service for evaluation of your malnutrition and 
+difficulty swallowing.
+.
+During the course of your admission, you had several physical 
+exam findings which were concerning for infection. One of these 
+was fever. Everytime you spiked a fever, you were cultured by 
+blood, urine, stool, and even sputum once. All cultures were 
+negative to date. X-rays of your chest and belly were also done. 
+One chest x-ray indicated a possible pneumonia which was located 
+behind your heart on one side, but since you declined further 
+imaging, we were left treating the infection blindly without 
+knowing its exact cause. Your last day of antibiotics will be on 
+___.  Thankfully, your fevers trended downward on the 
+antibiotic we chose for you. The other findings were your fast 
+heart rate and low blood pressure. Sometimes people who are 
+volume down will have vital signs like this, but even after 
+giving you fluids in an IV, your vitals remained irregular. 
+Hopefully, as you become stronger and we titrate your 
+medications closer to the levels you were taking at home this 
+will resolve.
+
+You had a PEG placement for nutrition and a port placement for 
+future chemotherapy. 
+
+You appeared very weak and need rehab before going home. 
+
+Good luck with your recovery
+ 
+Followup Instructions:
+___

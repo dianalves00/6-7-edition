@@ -1,0 +1,383 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+vancomycin / Erythromycin Base / daptomycin / Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+PCP: ___.   
+CC: abdominal pain  
+REASON FOR MICU: hyperlactatemia 
+ 
+HISTORY OF PRESENTING ILLNESS: ___ with poorly controlled DM c/b 
+gastroparesis, frequent admissions for acute on chronic 
+abdominal pain, re-presenting with severe abdominal pain, 
+nausea, vomiting x 4 days. Pt recently discharged from ___ on 
+___ (and ___ for similar issue which was managed with a 
+protocol of lorazepam, reglan, and tramadol. Patient reports 
+this is similar to her prior episodes of gastroparesis pain. She 
+reports that she had several episodes of yellow bilious vomiting 
+as well episodes of green diarrhea. She denies any fevers or 
+chills.  She denies any chest pain. Unable to obtain further 
+history as patient anxious and complaining of severe pain. 
+
+In the ED, initial vitals: 97.8 ___ 19 100% RA 
+
+Exam notable for: 
+Morbidly obese woman crying and writhing in pain
+Tachycardic, no murmurs
+Lung exam limited by crying; no resp distress or Kussmaul 
+breathing
+Abd soft, diffusely tender, no rebound
+No CVA tenderness
+Ext warm, no edema
+No rashes
+
+Labs notable for: BS in the 400s-500s, WBC 18.1, Cr 1.2, lactate 
+2.7, -> 3.3 --> 5.3, unremarkable VBGs
+
+Imaging: CXR unremarkable, CT A/P showing no acute abnormalities
+
+Patient received: 2L NS, 1L LR, zosyn, GI cocktail, reglan, 
+Tylenol, insulin 10 units x 2 
+
+Consults: None 
+
+Vitals on transfer: 99.4 96 174/79 17 96% RA 
+
+Upon arrival to ___, patient endorses abdominal pain. She 
+reports its similar to prior flares but worse. Her sugars at 
+home have been high in the 300s-400s on checks despite taking 
+her home insulin regimen. 
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+PAST MEDICAL/SURGICAL HISTORY: Obtained from ___ and confirmed
+with patient
+- Abdominal pain with multiple admissions, extensive evaluation 
+without clear etiology identified. Attributed to poorly 
+controlled anxiety.  
+- IDDM (type 2): HbA1c 6.8% (___), complicated by proteinuria 
+
+- GERD  
+- Hypertension  
+- Depression  
+- Obesity  
+- Recurrent urinary tract infections possibly related to 
+urethral diverticulum  
+- Chronic back pain  
+- IUD placement  
+- venous access device-related blood stream infection  
+- ?Reactive airway disease
+
+SOCIAL HISTORY: ___
+FAMILY HISTORY: Obtained from ___ and confirmed with patient
+Mother with breast CA.
+
+ALLERGIES/ADR: See webOMR
+
+Medications: 
+1.  Cyanocobalamin ___ mcg PO DAILY 
+2.  FoLIC Acid 1 mg PO DAILY  
+3.  Glargine 40 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+4.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+5.  Albuterol Inhaler 2 PUFF IH Q6H:PRN sob  
+6.  Docusate Sodium 100 mg PO BID  
+7.  Ferrous Sulfate 325 mg PO BID  
+8.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+9.  Isosorbide Mononitrate 10 mg PO QHS  
+10.  Lisinopril 20 mg PO DAILY  
+11.  LORazepam 1 mg PO BID:PRN anxiety  
+12.  NIFEdipine CR 120 mg PO DAILY  
+13.  Omeprazole 40 mg PO DAILY  
+14.  Ondansetron ODT 8 mg PO Q8H:PRN nausea  
+15.  Pregabalin 50 mg PO DAILY pain  
+16.  Propranolol LA 80 mg PO DAILY  
+17.  Senna 8.6 mg PO BID:PRN constipation  
+18.  Sertraline 200 mg PO DAILY  
+19.  Sucralfate 1 gm PO QID  
+20.  Sumatriptan Succinate 25 mg PO DAILY:PRN migraine  
+21.  TraMADol 50 mg PO Q4H:PRN Pain - Moderate  
+
+VITALS: Reviewed in MetaVision
+GENERAL: Writhing around in the bed, mild distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Tachycardic, no murmur 
+RESP: Lungs clear to auscultation.  Breathing is non-labored
+GI: Obese, soft, diffusely tender to palpation, no rebound or
+guarding.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Moves all extremities, strength grossly full and symmetric
+bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, speech fluent, moves all
+limbs, sensation to light touch grossly intact throughout
+
+LABS/IMAGING: Reviewed in OMR. 
+
+SUMMARY/ASSESSMENT: ___ female with history IDDM poorly 
+controlled and gastroparesis with recurrent flares presents with
+acute on chronic abdominal pain consistent with prior episodes 
+of
+gastroparesis, found to have hyperlactatemia of unclear 
+etiology. 
+
+ACUTE/ACTIVE PROBLEMS:
+
+#Hyperlactatemia: Despite IVF resuscitation, trending upward to 
+5.3 in the ED. Of unclear etiology. Hemodynamically stable. No 
+concerning findings on CT A/P suggestive of bowel ischemia. CXR, 
+urine unremarkable. Thoroughly reviewed medication list to 
+explain a possibility of type-B lactic acidosis though no 
+culprits found. No evidence of liver disease. Utox negative. 
+- Continue to trend lactate
+- Discuss additional w/u if no improvement 
+- Serial abdominal exams 
+- IVF PRN 
+- Treatment of presumed intra-abdominal infection w/ zosyn, low 
+threshold to discontinue 
+- if worsening diarrhea, can send stool studies/c.diff
+- F/u pending BCx, uCx 
+
+#Acute on chronic abdominal pain
+#Gastroparesis flare: Similar pain to prior flares with diarrhea 
+and vomiting. Trial the patient's typical inpatient regimen, 
+avoid narcotics due to effect of reduced GI motility. 
+- Tramadol 50 q4 prn per usual tx regimen
+- Tylenol ___ mg Q6H 
+- reglan/Zofran use cautiously given QTc > 500. 
+- GI cocktail, omeprazole PRN 
+- ADAT, maintenance IVF if off meds 
+- Consider palliative care consult for symptomatic treatment 
+given recurrent admission 
+
+___: Cr up to 1.2, baseline 1.0-1.1. Likely prerenal. 
+- Continue to trend 
+
+# Anxiety 
+- Ativan BID:PRN 
+
+# DM2 complicated by neuropathy and gastroparesis.
+- Continue home lantus of 40 units, HISS 
+- ___ need insulin teaching, ___ consult since uncontrolled  
+
+# HTN
+- continue home isosorbide, propranolol, nifedipine
+- hold lisinopril iso ___, resume when able
+
+# Chronic neutrophilic-predominant leukocytosis
+# Chronic thrombocytosis
+# Iron deficiency anemia: Evaluated by heme/onc during prior 
+admission. Thought to be chronic stress response w/ leukomoid 
+reaction, reactive thrombocytosis. Transfused with IV iron 
+repletion during last hospitalization given GI symptoms and 
+inability to tolerate PO. 
+ - Continue to trend
+ - Consider IV iron transfusion prior to discharge 
+
+CORE MEASURES:
+==============
+# FEN: mIVF, replete electrolytes, regular diet  
+# Prophylaxis: Subcutaneous heparin  
+# Access: PIVs  
+# Restraints: YES - while intubated to protect patient from 
+accidental removal of tubes/lines/drains and will be reassessed 
+at  regular intervals per hospital policy  
+# Communication: HCP:  Name of health care proxy: ___ Gross 
+Relationship: Daughter 
+Phone number: ___ 
+
+# Code: Full, presumed  
+# Disposition: MICU
+
+ 
+Past Medical History:
+- Abdominal pain with multiple admissions, extensive evaluation 
+without clear etiology identified. Attributed to poorly 
+controlled anxiety.  
+- IDDM (type 2): HbA1c 6.8% (___), complicated by proteinuria 
+
+- GERD  
+- Hypertension  
+- Depression  
+- Obesity  
+- Recurrent urinary tract infections possibly related to 
+urethral diverticulum  
+- Chronic back pain  
+- IUD placement  
+- venous access device-related blood stream infection  
+- ?Reactive airway disease
+ 
+Social History:
+___
+Family History:
+Mother - DM, breast cancer s/p treatment but now found to have  
+recurred in her liver in ___ s/p surgery and she is 
+getting better. 
+ 
+ 
+Physical Exam:
+Admission Physical Exam:
+GENERAL: Writhing around in the bed, mild distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Tachycardic, no murmur 
+RESP: Lungs clear to auscultation.  Breathing is non-labored
+GI: Obese, soft, diffusely tender to palpation, no rebound or
+guarding.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Moves all extremities, strength grossly full and symmetric
+bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, speech fluent, moves all
+limbs, sensation to light touch grossly intact throughout
+
+ 
+Pertinent Results:
+Notable Admission Labs:
+
+WBC-18.1* RBC-4.83# HGB-11.2# HCT-37.0# MCV-77* MCH-23.2* 
+MCHC-30.3* RDW-17.3* RDWSD-48.3*
+___ PO2-39* PCO2-49* PH-7.37 TOTAL CO2-29 BASE XS-1
+LACTATE-5.3*
+WBC-20.2* RBC-4.03 HGB-9.4* HCT-30.1* MCV-75* MCH-23.3* 
+MCHC-31.2* RDW-*
+LACTATE-2.0
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT: ___ female with history IDDM poorly 
+controlled and gastroparesis with recurrent flares presents with
+acute on chronic abdominal pain consistent with prior episodes 
+of
+gastroparesis, found to have hyperlactatemia of unclear 
+etiology. 
+
+ACUTE/ACTIVE PROBLEMS:
+
+#Hyperlactatemia: improved with aggressive hydration and control 
+of diabetes, no clear etiology uncovered
+
+#Acute on chronic abdominal pain attributed to exacerbation of 
+gastroparesis - improved slowly with glycemic control.  At 
+discharge pt tolerating a regular diet without difficulty. 
+
+# DM2 complicated by neuropathy and gastroparesis.
+- ___ consulted, and followed, insulin teaching provided, and 
+insulin regimen adjusted, at discharged ___ consulted 
+recommended the regimen below. 
+
+Arranged ___ services to assist in diabetes education and 
+monitoring at home. 
+
+# HTN - controlled. 
+
+# Chronic neutrophilic-predominant leukocytosis
+# Chronic thrombocytosis
+# Iron deficiency anemia: Evaluated by heme/onc during prior 
+admission. Thought to be chronic stress response w/ leukomoid 
+reaction, reactive thrombocytosis. Transfused with IV iron 
+repletion during last hospitalization given GI symptoms and 
+inability to tolerate PO. 
+ - stable, outpatient follow up recommended.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+3. Docusate Sodium 100 mg PO BID 
+4. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+5. Isosorbide Mononitrate 10 mg PO QHS 
+6. Lisinopril 20 mg PO DAILY 
+7. NIFEdipine CR 120 mg PO DAILY 
+8. Omeprazole 40 mg PO DAILY 
+9. Ondansetron ODT 8 mg PO Q8H:PRN nausea 
+10. Pregabalin 50 mg PO DAILY pain 
+11. Propranolol LA 80 mg PO DAILY 
+12. Senna 8.6 mg PO BID:PRN constipation 
+13. Sertraline 200 mg PO DAILY 
+14. Sucralfate 1 gm PO QID 
+15. TraMADol 50 mg PO Q4H:PRN Pain - Moderate 
+16. Cyanocobalamin ___ mcg PO DAILY 
+17. Ferrous Sulfate 325 mg PO BID 
+18. Sumatriptan Succinate 25 mg PO DAILY:PRN migraine 
+19. LORazepam 1 mg PO BID:PRN anxiety 
+20. FoLIC Acid 1 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Glargine 30 Units Breakfast
+Humalog 6 Units Breakfast
+Humalog 6 Units Lunch
+Humalog 6 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL) AS DIR 
+30 Units before BKFT; Disp #*3 Syringe Refills:*0 
+2.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate  
+3.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+4.  Albuterol Inhaler 2 PUFF IH Q6H:PRN sob  
+5.  Cyanocobalamin ___ mcg PO DAILY  
+6.  Docusate Sodium 100 mg PO BID  
+7.  Ferrous Sulfate 325 mg PO BID  
+8.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+9.  FoLIC Acid 1 mg PO DAILY  
+10.  Isosorbide Mononitrate 10 mg PO QHS  
+11.  Lisinopril 20 mg PO DAILY  
+12.  LORazepam 1 mg PO BID:PRN anxiety  
+13.  NIFEdipine CR 120 mg PO DAILY  
+14.  Omeprazole 40 mg PO DAILY  
+15.  Ondansetron ODT 8 mg PO Q8H:PRN nausea  
+16.  Pregabalin 50 mg PO DAILY pain  
+17.  Propranolol LA 80 mg PO DAILY  
+18.  Senna 8.6 mg PO BID:PRN constipation  
+19.  Sertraline 200 mg PO DAILY  
+20.  Sucralfate 1 gm PO QID  
+21.  Sumatriptan Succinate 25 mg PO DAILY:PRN migraine  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute exacerbation of chronic diabetic gastroparesis with 
+abdominal pain nausea vomiting and dehydration and poor glycemic 
+control, dehydration, lactic acidosis, borderline ketoacidosis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted with abdominal pain nausea and vomiting and 
+poorly controlled blood sugars relating to your diabetes and 
+gastroparesis, you slowly improved with intravenous hydration 
+and adjustment of your insulin regimen.
+
+Please follow all instructions as written below take all 
+medications as prescribed.  We have arranged for a visiting 
+nurse to visit you at home and assist in your ongoing care.
+ 
+Followup Instructions:
+___

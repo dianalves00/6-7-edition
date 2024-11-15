@@ -1,0 +1,117 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right elbow injury s/p snowboarding accident
+ 
+Major Surgical or Invasive Procedure:
+___:  ORIF Right radial head
+
+ 
+History of Present Illness:
+___ year old girl who fell into a ditch while snowboarding. Had 
+immediate pain in right elbow.
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On discharge:
+
+AVSS
+NAD, A&O x3
+CV: RRR
+Resp: CTAB
+Abd: soft, nt/nd
+RUE: splint/sling in place c/d/i, brisk capillary refill, 
+sensation intact to light touch m/r/u, intact FPL/EIP/IO limited 
+by pain
+ 
+Pertinent Results:
+___ 11:55PM BLOOD WBC-8.3 RBC-4.08* Hgb-11.5* Hct-34.3* 
+MCV-84 MCH-28.2 MCHC-33.5 RDW-13.7 Plt ___
+___ 11:55PM BLOOD Neuts-76.1* Lymphs-17.6* Monos-5.2 
+Eos-0.7 Baso-0.4
+___ 11:55PM BLOOD ___ PTT-27.5 ___
+___ 11:55PM BLOOD Glucose-115* UreaN-11 Creat-0.6 Na-139 
+K-3.9 Cl-104 HCO3-24 AnGap-15
+
+___ Right elbow x ray: 
+IMPRESSION: Radial head fracture, coronoid process fracture, 
+joint effusion.
+
+___ CT right uppper extremity (Wetread):
+Communited impacted fracture of the radial head with 
+intraarticular extension and a 12 x 5mm free ossific fragment 
+along the posterior aspect of the radial head that represents a 
+bony fracture fragment. Associated vertical fracture of the 
+coranoid process of the ulna with superior displacement of the 
+free distal fragment. Associated joint effusion. 
+
+ 
+Brief Hospital Course:
+Ms. ___ presented to the Emergency Department complaining 
+of a right elbow injury. She was evaluated by the Orthopaedics 
+department and found to have a right radial head and coronoid 
+fractures. She was admitted, consented, and medically cleared 
+for surgery. On ___, she was prepped and brought to the 
+operating room. Intra-operatively, she was closely monitored and 
+remained hemodynamically stable. She tolerated the procedure 
+well without any complication. Post-operatively, she was 
+transferred to the PACU and floor for further recovery. On the 
+floor, she remained hemodynamically stable with her pain 
+controlled. She was discharged in stable condition. 
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.  
+2. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. Oxycodone 5 mg Tablet Sig: ___ Tablets PO every ___ hours as 
+needed for pain.
+Disp:*90 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right radial head fracture
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Do not bear weight through your right arm and keep your sling on 
+when out of bed.
+
+Take your pain medication as prescribed.
+
+Keep your arm clean and dry
+
+Do not drive or operate machinery on pain medication
+ 
+Followup Instructions:
+___

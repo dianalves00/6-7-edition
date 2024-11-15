@@ -1,0 +1,275 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+CT and ultrasound-guided core needle biopsy of the liver 
+(___)
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:15AM BLOOD WBC-5.5 RBC-4.71 Hgb-13.8 Hct-41.6 MCV-88 
+MCH-29.3 MCHC-33.2 RDW-11.7 RDWSD-37.4 Plt ___
+___ 06:15AM BLOOD Neuts-77.5* Lymphs-16.1* Monos-5.8 
+Eos-0.2* Baso-0.2 Im ___ AbsNeut-4.30 AbsLymp-0.89* 
+AbsMono-0.32 AbsEos-0.01* AbsBaso-0.01
+___ 06:15AM BLOOD Glucose-123* UreaN-19 Creat-1.4* Na-137 
+K-4.4 Cl-103 HCO3-21* AnGap-13
+___ 06:15AM BLOOD Albumin-4.0 Calcium-9.1 Phos-4.0 Mg-2.1
+___ 06:15AM BLOOD ALT-10 AST-12 AlkPhos-65 TotBili-0.4
+___ 06:15AM BLOOD CEA-59.0* CA ___
+
+DISCHARGE LABS:
+___ 08:14AM BLOOD WBC-5.0 RBC-4.57* Hgb-13.1* Hct-41.1 
+MCV-90 MCH-28.7 MCHC-31.9* RDW-11.6 RDWSD-37.6 Plt ___
+___ 12:40PM BLOOD Glucose-112* UreaN-20 Creat-1.6* Na-135 
+K-3.9 Cl-95* HCO3-28 AnGap-12
+
+PATHOLOGY:
+LIVER, BIOPSY FOR TUMOR (___): pending at the time of 
+discharge
+
+IMAGING:
+MRI abdomen (___):
+IMPRESSION: 
+1. There is a large left renal mass measuring up to 8.7 cm, with 
+extension 
+into the left adrenal gland and contiguous with conglomerate 
+retroperitoneal lymphadenopathy, which compresses and narrows 
+the infrarenal IVC, though without thrombus. There is moderate 
+left hydronephrosis. 
+2. A 4.3 cm minimally peripherally enhancing mass in the right 
+hepatic lobe is indeterminate, though likely represents 
+metastatic disease. 
+3. A 1.9 cm lesion in the upper pole of the right kidney is 
+consistent with a ___ IIF lesion. 
+4. A paraesophageal T2 hyperintense rim enhancing cystic 
+structure is 
+nonspecific, and may represent a bronchogenic cyst. 
+
+CTA torso from ___:
+
+CT Angiography Chest With Contrast
+FINDINGS: Pulmonary arteries: Unremarkable. No pulmonary emboli.
+Aorta: Unremarkable. No thoracic aortic aneurysm. No thoracic
+aortic dissection. Lungs: Right upper
+lobe pulmonary nodule measuring 4 mm (series 11, image 125).
+Right middle lobe calcified granuloma.
+Right middle lobe pulmonary nodule measuring 5 mm (series 5,
+image 87). Left upper lobe pulmonary
+nodule measuring 4 mm (series 5, image 52). Left lower lobe
+pulmonary nodule measuring 4 mm (series
+5, image 84). Pleural space: No pleural effusion. No
+pneumothorax. Heart: No cardiomegaly. Small
+pericardial effusion. Lymph nodes: A paraesophageal lymph node
+measures 2 cm in short axis. No
+abnormally enlarged hilar lymph nodes. Bones/joints:
+Unremarkable. No acute fracture. Soft tissues:
+Unremarkable. 
+IMPRESSION: 1. No evidence of thoracic aortic dissection. 
+2. Pulmonary nodules measuring a maximum of 5 mm. Follow-up
+should be guided by oncology (see report of CT
+abdomen pelvis). 3. Paraesophageal lymphadenopathy. 
+
+CT Angiography Abdomen and Pelvis With Contrast
+FINDINGS: Aorta: The abdominal aorta is normal in course and
+caliber. No
+abdominal aortic dissection. Celiac trunk and mesenteric
+arteries: The celiac artery, superior
+mesenteric artery, and inferior mesenteric artery are patent
+without significant stenosis. Renal
+arteries: Solitary right renal artery is patent without
+significant stenosis. There are 2 left renal
+arteries, both are patent without significant stenosis. Right
+iliac arteries: The right common
+iliac, external iliac, and internal iliac arteries are patent
+without significant stenosis. Left
+iliac arteries: The left common iliac, external iliac, and
+internal iliac arteries are patent
+without significant stenosis. Other veins: The left renal vein 
+is
+either surrounded by or directly
+invaded by tumor. Liver: Hypodense mass in the right liver
+measuring approximately 3.5 cm.
+Gallbladder and bile ducts: The gallbladder is unremarkable.
+Pancreas: The pancreas is unremarkable.
+Spleen: The spleen is unremarkable. Adrenals: The right adrenal
+gland is unremarkable. There is a
+mass of the left adrenal gland measuring approximately 2 cm.
+Kidneys and ureters: Hypodense right
+renal lesion is too small to accurately characterize. A left
+renal mass at the renal hilum with
+calcifications measures 7.5 x 7 cm. The left renal mass
+demonstrates contiguous spread to the
+retroperitoneum and the left adrenal gland. There is
+hypoenhancement of the left renal cortex. There
+is marked left hydronephrosis. The right ureter is unremarkable.
+Stomach and bowel: The stomach is
+unremarkable. There is mild sigmoid colon diverticulosis. The
+small bowel is unremarkable. No bowel
+obstruction. Appendix: The appendix is normal. Intraperitoneal
+space: Unremarkable. No free air. No
+significant fluid collection.
+Retroperitoneal space: There is thickening of
+Gerota's fascia. There are soft tissue density nodules in the
+anterior para renal space. Lymph
+nodes: There is extensive para-aortic lymphadenopathy.
+Conglomerate lymph node mass measures
+approximately 5 x 3.1 x 7 cm. Bladder: The urinary bladder is
+unremarkable. Reproductive:
+Unremarkable as visualized. Bones/joints: No acute fracture. No
+dislocation. Soft tissues: There is a small fat-containing
+umbilical hernia. 
+IMPRESSION: 
+1. Left renal neoplasm measuring approximately
+7.5 cm. There is extensive retroperitoneal tumor, metastatic
+lymphadenopathy and metastases in the anterior para renal space. 
+
+2. Liver mass. Metastasis suspected. 
+3. Marked left hydronephrosis, due
+to mass effect from large hilar mass. 
+4. Left renal vein either surrounded by or directly invaded by
+tumor. 
+
+DISCHARGE EXAM:
+VITALS: ___ 0756 Temp: 98.2 PO BP: 156/100 HR: 84 RR: 18 O2 
+sat: 96% O2 delivery: RA Dyspnea: 0 RASS: 0 Pain Score: ___ 
+___ 0850 BP: 135/81 HR: 78 
+GENERAL: Alert, NAD
+EYES: Anicteric, PERRL
+ENT: mmm, OP clear
+CV: NR/RR, no m/r/g
+RESP: CTAB
+ABD/GI: Soft, ND, NTTP, normoactive bowel sounds
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+VASC/EXT: No ___ edema, 2+ DP pulses
+SKIN: No rashes or lesions noted on visible skin
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, moves all limbs 
+PSYCH: pleasant, appropriate affect
+ 
+Brief Hospital Course:
+SUMMARY:
+___ yo M PMHx HTN who p/w acute on chronic left flank pain, found 
+to have large left renal mass with severe left hydronephrosis, 
+___, and imaging with concern for metastatic disease (to liver), 
+now s/p biopsy of liver lesion. 
+
+HOSPITAL COURSE BY PROBLEM:
+
+# Left renal mass
+Concerning for malignancy based on imaging findings.  
+Complicated
+by hydronephrosis and ___. Imaging revealed a liver lesion 
+consistent with a metastasis which was biopsied. CEA was 
+elevated at 59. CA ___ was
+low/normal. His left flank pain was controlled with lidocaine 
+patches, Tylenol, and oxycodone (used sparingly). 
+[ ] F/u results of liver biopsy pathology
+
+# ___ vs. CKD (unclear baseline)
+# Left hydronephrosis
+FeUrea and FeNa were consistent with pre-renal etiology likely 
+due to poor PO intake in the setting of flank pain. Cr improved 
+with IV fluids and encouraging PO intake. Baseline Cr appears to 
+be 1.4-1.6.   
+
+# HTN, poorly controlled
+His home amlodipine was continued. In addition, HCTZ 25 mg daily 
+and labetalol 200 mg BID were started with improved control.
+
+# Access to care
+Pt primarily resides in ___ and is just here for the 
+holidays. He will need to establish care with a PCP in ___. 
+He is also unsure of his insurance status.
+
+TRANSITIONAL ISSUES:
+[ ] F/u results of liver biopsy pathology
+[ ] Patient to establish PCP in ___
+
+>30 minutes spent on discharge
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. amLODIPine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Hydrochlorothiazide 25 mg PO DAILY 
+RX *hydrochlorothiazide 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+3.  Labetalol 200 mg PO BID 
+RX *labetalol 200 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+4.  Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine 5 % Apply 1 patch to painful area once a day Disp 
+#*30 Patch Refills:*0 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tab by mouth every four (4) hours Disp #*18 
+Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth twice a day Disp 
+#*10 Tablet Refills:*0 
+7.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Renal mass
+Liver masses
+Hypertension
+Acute kidney injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were admitted to the hospital for flank pain and you were 
+found to have a left kidney mass. You were also found to have 
+spots in your liver that are concerning for spread of the kidney 
+mass to the liver. You had a biopsy of one of the liver lesions 
+completed on ___. The pathology from that biopsy is still 
+pending at discharge.
+Your blood pressure was also quite elevated and you were treated 
+with new medications to control your blood pressure. You should 
+continue to take those at home.
+Your kidney function also fluctuated while you were in the 
+hospital but responded well to fluid. You should make sure that 
+you stay very hydrated to protect your kidneys. You should also 
+not take NSAID medications (like ibuprofen - Motrin and Tylenol) 
+because those can injure the kidney further.
+The most important thing will be to establish a primary care 
+doctor in ___ so the records from this hospital stay and the 
+pathology results can be sent to a doctor there.
+Best wishes for your continued health.
+Take care,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

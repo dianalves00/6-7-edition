@@ -1,0 +1,430 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest and left arm pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with a H/O severe dementia, hypertension, type 2 diabetes 
+mellitus, left-sided CVA, metastatic prostate cancer, pulmonary 
+embolism, GI bleed, and recent admission to ___ 
+___ for sepsis and pulmonary embolus, ultimately 
+discharged home with plan for transition to hospice, now 
+presenting as a transfer from ___ with several hours of 
+possible chest and left arm pain
+and EKG changes concerning for acute ischemia.
+
+On ___, patient was noted to be extremely diaphoretic, cool 
+and clammy, by nursing staff at his long term care facility. It 
+was also reported patient was stating he had right arm pain at 
+the time. VS were notable for BP 134/63, HR 91, and SaO2 99% on 
+RA. The decision was made to transfer for ___ for a 
+higher level of care. 
+
+Upon arrival to ___, patient was able to endorse left arm 
+pain, but responded no when questioned about chest pain. VS were 
+notable for Temp 97.4F, HR 97, RR 21, BP 131/54, and SaO2 99% on 
+RA. Labs were notable for a troponin-T 0.02, but were otherwise 
+unremarkable. EKG demonstrated new anterior T-wave inversions 
+concerning for ___ sign, and inferolateral ST depression,
+both of which were new when compared with previous EKG in ___. He received aspirin ___nd IVF and was started on a 
+heparin and nitroglycerin drips prior to transfer to ___.
+
+Of note, patient has a MOLST form from ___ which is DNR 
+but ok to intubate/ventilate. Per transfer referral from ___ 
+___, patient is full code per family/HCP. Also worth noting, 
+aspirin/clopidogrel and furosemide were discontinued at prior 
+discharge and it is unclear if losartan was also discontinued.
+
+Initial VS in ED were notable for Temp 96.8  HR 100  BP 138/73  
+RR 16  SaO2 100% on O2 2 Lpm via ___. Labs were notable for a 
+troponin-T of 0.02, which improved to 0.01 five hours later. 
+CK-MB was flat at 2. Otherwise labs were unremarkable, including 
+creatinine of 0.6. CXR demonstrated a left basilar/retrocardiac 
+opacity and mild pulmonary vascular congestion, but no gross 
+volume overload. EKG was similar to ___, although with 
+more prominent T-wave inversion in anterolateral leads, again 
+concerning for ___ sign. It also demonstrated LAD and LVH. 
+Bedside ultrasound demonstrated a LVEF of ~40% with septal 
+hypokinesis. Cardiology was consulted and felt the differential 
+for patient's presentation was ACS vs. pulmonary embolus with RV 
+strain vs. cerebral T-waves, with ACS being the most likely 
+etiology. However, as patient has an extensive list of 
+co-morbidities, was recently discharged with plan for hospice, 
+and patient was unable to discuss/family not reachable, the 
+decision was made not to proceed with emergent coronary 
+angiogram. It was felt any intervention would require careful 
+discussion of risks/benefits and goals of care. Patient was 
+continued on heparin and nitroglycerin drips in ED. Vital signs 
+on transfer were HR 88  BP 110/52  RR 18  SaO2 100% on O2 2 LPM 
+via NC.
+
+Upon arrival to the ward, patient ws unable to provide further 
+history given baseline dementia, answering minimal questions 
+yes/no. He did not know where he was and pointed to left arm/leg 
+when asked about pain.
+ 
+Past Medical History:
+1. Severe dementia - minimally conversant, bed-bound
+2. Left-sided CVA
+3. Recent pulmonary embolism ___ (on Lovenox at SNF)
+4. Right lower extremity DVT
+5. Type 2 diabetes mellitus
+6. Hypertension
+7. Aortic stenosis
+8. Depression
+9. Metastatic prostate cancer
+10. BPH
+11. GI bleed ___
+12. Epilepsy
+13. Intracapsular fracture of left femur
+ 
+Social History:
+___
+Family History:
+Unable to obtain given patient's baseline dementia.
+ 
+Physical Exam:
+On admission
+GENERAL: elderly black man lying comfortably in bed, in no 
+distress, minimally verbal
+VS: Temp: 97.6 (Tm 97.6), BP: 168/79, HR: 111 (105-111), RR: 20, 
+O2 sat: 99%, O2 delivery: 2L
+Weight on admission (bed): 119.05 lb/54 kg  
+Weight ___ (bed): 52.7kg 
+HEENT: AT/NC, EOMI, PERRL, no conjunctival pallor, anicteric 
+sclera, mucous membranes moist
+NECK: supple, non-tender, no JVD appreciated at 45 degrees  
+CV: RRR, S1 and S2 normal, III/VI diastolic murmur heard at left 
+sternal border and systolic murmur at apex  
+RESP: CTAB--no wheezes or crackles, breathing comfortably
+___: soft, non-tender, no distention, BS normoactive
+EXTREMITIES: warm, well perfused, 2+ edema of right lower 
+extremity, left lower extremity with no edema, patient grimaces 
+when palpating left arm/leg
+NEURO: A&O x1, left arm fixed at side flexed and pronated, right 
+arm weak but moving, limited responsiveness
+
+At discharge
+GENERAL: lying comfortably in bed, no distress, minimally verbal
+VS: Temp: 98.0 (Tm 98.6), BP: 130/55 (117-137/45-61), HR: 102 
+(84-102), RR: 18 (___), O2 sat: 97% (94-100), O2 delivery: RA
+Weight ___ (bed): 51.6kg
+HEENT: no conjunctival pallor, anicteric sclera, mucous 
+membranes moist
+NECK: supple, non-tender, no JVD appreciated at 90 degrees  
+CV: RRR, S1 and S2 normal, III/VI diastolic murmur heard at left 
+sternal border and systolic murmur heard at apex 
+RESP: CTAB--no wheezes or crackles anteriorly, breathing 
+comfortably
+___: soft, non-tender, no distention, BS normoactive
+EXTREMITIES: warm, well perfused, 2+ edema of right lower 
+extremity, left lower extremity with no edema
+NEURO: A&O x1, left arm fixed at side flexed and pronated, right 
+arm weak but moving, limited responsiveness
+ 
+Pertinent Results:
+___ 02:53AM BLOOD WBC-6.5 RBC-4.59* Hgb-13.3* Hct-41.7 
+MCV-91 MCH-29.0 MCHC-31.9* RDW-14.9 RDWSD-49.6* Plt ___
+___ 02:53AM BLOOD Neuts-64.5 ___ Monos-8.7 Eos-1.9 
+Baso-0.5 Im ___ AbsNeut-4.18 AbsLymp-1.54 AbsMono-0.56 
+AbsEos-0.12 AbsBaso-0.03
+___ 07:30AM BLOOD ___ PTT-28.9 ___
+
+___ 02:53AM BLOOD Glucose-149* UreaN-11 Creat-0.6 Na-142 
+K-5.0 Cl-106 HCO3-24 AnGap-12
+
+___ 07:20AM BLOOD CK(CPK)-97
+___ 02:53AM BLOOD cTropnT-0.02*
+___ 07:20AM BLOOD CK-MB-2
+___ 07:20AM BLOOD cTropnT-0.01
+___ 03:05PM BLOOD CK-MB-2 cTropnT-0.03*
+___ 09:20PM BLOOD CK-MB-2 cTropnT-0.03*
+
+___ Blood culture x2 - no growth
+
+___ Echocardiogram
+The left atrium is elongated. No atrial septal defect is seen by 
+2D or color Doppler. The estimated right atrial pressure is ___ 
+mmHg. There is mild symmetric left ventricular hypertrophy with 
+top normal cavity size. There is moderate global left 
+ventricular hypokinesis (biplane LVEF = 37 %). [Intrinsic left 
+ventricular systolic function is likely more depressed given the 
+severity of valvular regurgitation.] The estimated cardiac index 
+is high (>4.0L/min/m2). Right ventricular chamber size is normal 
+with borderline normal free wall function. The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis. No masses or vegetations are 
+seen on the aortic valve, but cannot be fully excluded due to 
+suboptimal image quality. Moderate to severe (3+) aortic 
+regurgitation is seen. The mitral valve leaflets are 
+structurally normal. No masses or vegetations are seen on the 
+mitral valve, but cannot be fully excluded due to suboptimal 
+image quality. Moderate to severe (3+) mitral regurgitation is 
+seen. There is mild pulmonary artery systolic hypertension. 
+There is no pericardial effusion.
+
+___ CXR
+Left basilar/retrocardiac opacity, for which developing 
+infection is considered in the appropriate clinical setting. 
+This should be followed on subsequent x-rays to resolution. No 
+evidence of pneumothorax. Mild pulmonary vascular congestion. 
+
+___ LEFT GLENO-HUMERAL X-RAY
+Suggestion of slight cortical disruption of the posterior 
+greater tuberosity may represent small nondisplaced fracture 
+versus physeal scar. Mild left AC and glenohumeral joint 
+degenerative changes. Suggestion of mild superior subluxation of 
+the humeral head could represent underlying rotator cuff tear. 
+
+DISCHARGE LABS:
+___ 07:45AM BLOOD WBC-4.3 RBC-4.37* Hgb-12.7* Hct-38.7* 
+MCV-89 MCH-29.1 MCHC-32.8 RDW-14.8 RDWSD-48.1* Plt ___
+___ 07:45AM BLOOD Glucose-133* UreaN-10 Creat-0.6 Na-141 
+K-4.8 Cl-107 HCO3-23 AnGap-11
+___ 07:45AM BLOOD Calcium-8.3* Phos-3.7 Mg-2.___ with a history of severe dementia, hypertension, type 2 
+diabetes mellitus, left-sided CVA, metastatic prostate cancer, 
+pulmonary embolism, GI bleed, and recent admission to ___ 
+___ for sepsis and pulmonary embolus, ultimately 
+discharged home with plan for transition to hospice, now 
+presenting as a transfer from ___ with several hours of 
+possible chest and left arm pain, and EKG changes concerning for 
+acute ischemia.
+
+ACUTE/ACTIVE ISSUES:
+# NSTEMI: Patient presented with left arm pain and possible 
+chest pain from SNF to ___. Troponin-T was found to be 
+elevated at 0.02, and EKG demonstrated new anterior T-wave 
+inversions, concerning for ___ syndrome, and inferolateral 
+ST depressions, both of which were new when compared with 
+previous EKGs in ___. Patient received aspirin 600 mg per 
+rectum and was started on a heparin and nitroglycerin drip prior 
+to transfer to ___. At ___, troponin-T fluctuated from 
+0.01-0.03 and CK-MB was flat with eGFR >75 mL/min/1.73m2. 
+Biggest concern was for ischemia/recent infarct with proximal 
+LAD stenosis and ongoing myonecrosis. However, following 
+discussion with the family and consideration given to patient's 
+numerous co-morbidities, the decision was made to medically 
+manage, as the likely risks of proceeding with coronary 
+angiogram and PCI outweighed the benefits. Patient was started 
+on aspirin 81 mg and atorvastatin 80 mg daily. Heparin drip was 
+transitioned to therapeutic dose enoxaparin. Nitroglycerin IV 
+was transitioned to a nitroglycerin patch. Home metoprolol 
+tartrate was consolidated to metoprolol succinate 50 mg daily. 
+Echocardiogram on ___ demonstrated a LVEF of 37% and global LV 
+dysfunction of unclear chronicity. Patient reported no further 
+episodes of chest pain throughout admission. 
+
+# Non-displaced fracture of left shoulder: Patient reported left 
+arm pain on admission, which was a chronic issue as an 
+outpatient. Left shoulder X-ray demonstrated a possible small 
+non-displaced fracture at the posterior greater tuberosity of 
+the left shoulder. Orthopedics were consulted and felt there was 
+no acute intervention warranted, but stated patient could 
+follow-up with orthopedics (sports) in two weeks as an 
+outpatient if pain persisted.
+
+# Moderate-severe aortic and mitral regurgitation: 
+Echocardiogram on ___ demonstrated moderate-severe AR/MR of 
+unclear chronicity. Given the severity, there was concern for 
+possible endocarditis, but blood cultures ultimately showed no 
+growth in the setting normal temperature and normal WBC. 
+Afterload reduction was optimized with clonidine patch and 
+losartan as discussed below. Patient remained hemodynamically 
+stable. If develops fevers at facility, consideration should be 
+given to possible endocarditis as the underlying etiology.
+
+CHRONIC/STABLE ISSUES:
+# Dementia, Chronic moderate malnutrition, Dysphagia: Patient 
+with a background history of CVA and severe dementia. Per 
+discussion with One Care, ___, where patient is currently 
+living, he is bed-bound and minimally verbal at baseline, even 
+with interpreter. He was evaluated by speech and swallow during 
+admission; no evidence of aspiration was seen, and he was deemed 
+safe to continue pureed diet with thick liquids.
+
+# HFrEF: TTE during admission demonstrated a LV ejection 
+fraction of 37% of unclear chronicity. He was not on a diuretic 
+as an outpatient, although previously had a trial of same. No 
+diuretic was started as patient seemed euvolemic. Losartan 50 mg 
+daily was restarted for afterload reduction. Metoprolol was 
+transitioned to metoprolol succinate 50mg daily for 
+neurohormonal blockade. Weight on discharge was 51.6 kg.
+
+# Recent PE/DVT: Restarted Lovenox, adjusted for patient's 
+current weight, at 50 mg BID. On discharge, patient should start 
+Lovenox 80 mg daily on ___ and continue on this. 
+
+# Type 2 diabetes mellitus: Not on medications as an outpatient. 
+Did not require insulin sliding scale while he was an inpatient.
+
+# Hypertension: Patient prescribed clonidine patch 0.3mg/hr as 
+an outpatient. On arrival to ___, blood pressure and heart 
+rate were elevated. No clonidine patch identified on skin. With 
+replacement of same, tachycardia and hypertension resolved. 
+Patient was also restarted on losartan 50 mg daily. It is 
+important to continue both clonidine patch 0.3 mg/hr and 
+losartan 50mg daily as an outpatient. Clonidine patch should be 
+replaced every ___.  
+
+# Epilepsy: Continued phenytoin 100 mg daily and 200 mg QHS 
+during admission. Patient should continue this medication at his 
+facility.
+
+# Metastatic prostate cancer: Per discussion with son, patient 
+carries a diagnosis of metastatic prostate cancer, but was 
+deemed not a candidate for surgery about ___ years ago. 
+Previously was receiving six monthly hormone injections. 
+Currently on no treatment.
+
+TRANSITIONAL ISSUES:
+- discharge Hgb 12.7
+- discharge creatinine 0.6
+- discharge weight 51.6k g
+
+MEDICATION CHANGES:
+[] started aspirin 81 mg daily
+[] started atorvastatin 8 0mg daily
+[] stopped metoprolol tartrate 25 mg BID
+[] started metoprolol succinate 50 mg daily
+[] started nitroglycerin patch 0.1 mg/hr every day (12 hours 
+on/12 hours off)
+[] changed Lovenox to 80 mg daily
+
+[] PULMONARY EMBOLISM: patient should continue Lovenox 80 mg 
+daily 
+[] CHEST PAIN: if patient reports chest pain, would increase 
+nitroglycern patch to 0.2 mg/hr
+[] NSTEMI: intervention was deferred given numerous medical 
+comorbidities and discussion with family
+[] MEDICATION: patient should continue ALL medications listed on 
+discharge paperwork
+[] FEVER: if patient develops fevers, endocarditis should be 
+considered as possible etiology
+[] CLONIDINE: if patient reliably taking oral medications would 
+up-titrate dose of losartan and decrease dose of clonidine patch 
+to attempt to discontinue clonidine patch
+
+# CODE STATUS: DNR/DNI
+# CONTACT: ___, HCP/son, ___
+           ___, HCP/son, ___ 
+ 
+Medications on Admission:
+1. Citalopram 10 mg PO DAILY 
+2. Clonidine Patch 0.3 mg/24 hr 1 PTCH TD EVERY 7 DAYS 
+3. Losartan Potassium 50 mg PO DAILY 
+4. Pregabalin 50 mg PO BID 
+5. Phenytoin Infatab 100 mg PO DAILY 
+6. Phenytoin Infatab 200 mg PO QHS 
+7. TraMADol 50 mg PO BID 
+8. TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+9. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+10. Artificial Tears 1 DROP BOTH EYES BID 
+11. Fleet Enema (Saline) ___AILY:PRN If not responding 
+to laxative 
+12. Senna 8.6 mg PO DAILY:PRN Constipation - First Line 
+13. Metoprolol Tartrate 25 mg PO BID 
+14. Enoxaparin Sodium 120 mg SC DAILY 
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Enoxaparin Sodium 80 mg SC DAILY 
+Start: Tomorrow - ___, First Dose: First Routine 
+Administration Time  
+4.  Metoprolol Succinate XL 50 mg PO DAILY  
+5.  Nitroglycerin Patch 0.1 mg/hr TD Q24H  
+6.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+7.  Artificial Tears 1 DROP BOTH EYES BID  
+8.  Citalopram 10 mg PO DAILY  
+9.  Clonidine Patch 0.3 mg/24 hr 1 PTCH TD EVERY 7 DAYS  
+10.  Fleet Enema (Saline) ___AILY:PRN If not responding 
+to laxative  
+11.  Losartan Potassium 50 mg PO DAILY  
+12.  Phenytoin Infatab 100 mg PO DAILY  
+13.  Phenytoin Infatab 200 mg PO QHS  
+14.  Pregabalin 50 mg PO BID  
+15.  Senna 8.6 mg PO DAILY:PRN Constipation - First Line  
+16.  TraMADol 50 mg PO BID  
+17.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+-Non-ST elevation myocardial infarction
+-Moderate-severe aortic regurgitation
+-Moderate-severe mitral regurgitation
+-Non-displaced fracture of posterior greater tuberosity at left 
+shoulder
+-Left ventricular systolic failure of unclear duration
+-Severe dementia
+-Chronic moderate malnutrition
+-Dysphagia in setting of
+-Prior stroke
+-Seizure disorder
+-History of pulmonary embolism/deep venous thrombosis of right 
+lower extremity 
+-Type 2 diabetes mellitus
+-Hypertension
+-Metastatic prostate cancer 
+-History of gastrointestinal bleed
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHY YOU CAME TO THE HOSPITAL
+You were transferred to ___ as you were having chest pain
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL
+- You may have had a blockage in your heart, which we decided to 
+treat medically, given the risk performing a procedure 
+outweighed the benefit
+- You had a scan of your heart which showed some of your valves 
+were leaky
+- You had an X-ray of your left shoulder which showed a 
+fracture, which was likely old
+- The orthopedic doctors recommended ___ and follow-up 
+in two weeks as an outpatient
+
+WHAT YOU NEED TO DO WHEN YOU LEAVE THE ___
+- It is important you continue ALL your medications as 
+prescribed on discharge
+- You should follow-up with orthopedics in two weeks time as 
+arranged
+
+It was a pleasure taking care of you!
+
+MEDICATION CHANGES:
+[] started aspirin 81mg daily
+[] started atorvastatin 80mg daily
+[] started metoprolol succinate 50mg daily
+[] started nitroglycerin patch 0.1mg/hr every day (12 hours 
+on/12 hours off)
+[] changed Lovenox to 80mg daily
+[] stopped metoprolol tartrate 25mg BID
+ 
+Followup Instructions:
+___

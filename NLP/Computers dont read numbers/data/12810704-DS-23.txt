@@ -1,0 +1,309 @@
+ 
+Name:  ___             ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zocor / Lipitor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+"melena, bright red blood per rectum."
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+Capsule endoscopy ___
+
+ 
+History of Present Illness:
+Mr. ___ is a very pleasant ___ yo gentleman s/p 2 vessel CABG 
+on plavix, sirolimus eluding stent, tranverse colectomy 
+secondary to benign colon polyps p/w BRBPR and "dark tarry 
+stool" x 3 days.  He reports that he has had these symptoms in 
+the past, most recently about 3 weeks ago and then in ___.  
+At that time the symptoms resolved with holding plavix.  Thus, 
+he knew to stop his plavix at home 2 days ago.
+.
+Over the past week, he also reports a very much decreased 
+exercise tolerance.  He can usually walk ___ miles, but 
+yesterday he could not even walk to the bathroom without being 
+short of breath.  He denies symptoms of an infection including 
+fever, chills, night sweats, cough, or dysuria.  He also denies 
+chest pain or orthopnea.  
+.
+About 1.5 weeks ago, he had an episode of "the worst pain in my 
+life, worse than my CABG" in his right ankle, which lasted for 
+about 15 minutes and then went away without interventions.  It 
+has not returned.  He increased his allopurinol dose after this, 
+which he had been trying to decrease.
+.
+In the ED, initial vitals were 94 130/89 19 100% on RA.  Exam 
+was notable for heme positive stool and EKG with sinus at 85, 
+unchanged from prior ___.  Labs notable for Hct 24.8, 
+baseline 40 in ___.  He was started on Protonix drip and an 
+NG lavage was performed with 200 mL clear saline without blood.
+.
+Currently, Mr. ___ is resting in bed comfortably.  He is not 
+in respiratory difficulty at rest.  He reports that his last 
+blood BM was this morning.  
+.
+ROS: Denies fever, chills, night sweats, headache, vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, diarrhea, constipation, 
+dysuria, hematuria.
+
+ 
+Past Medical History:
+CAD s/p MI, CABG (___) and two stents (___) (sirolimus)-- 
+___ hypotension
+chronic angina
+lower extremity numbness s/p discectomy for cauda equina 
+syndrome 
+hyperlipidemia
+large benign colonic polyp s/p transverse colonic resection 
+(___)
+gout
+
+ 
+Social History:
+___
+Family History:
++ h/o CAD, father dying at ___ of a "burst artery", 6 uncles who 
+all died in their ___, brother with bypass surgery in his ___
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS - Temp 98.5, BP 130/90, HR 84, R 18, O2-sat 100% RA
+GENERAL - well-appearing man in NAD, comfortable, appropriate
+HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use
+HEART - RRR, no MRG, nl S1-S2
+ABDOMEN - +BS, soft/NT/ND, no masses or HSM, no rebound/guarding
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+SKIN - no rashes or lesions
+NEURO - awake, A&Ox3, CNs II-XII intact, muscle strength ___ 
+throughout, sensation grossly intact throughout, steady gait
+.
+DISCHARGE PHYSICAL EXAM:
+VS 97.1, 104-116/70-80, HR 60-80, RR ___, sat > 97% RA
+GENERAL - well-appearing man in NAD, comfortable, appropriate
+HEENT - NC/AT, PERRL, EOMI, sclerae anicteric, MMM, OP clear
+NECK - supple, no thyromegaly, no JVD, no carotid bruits
+LUNGS - CTA bilat, no r/rh/wh, good air movement, resp 
+unlabored, no accessory muscle use
+HEART - RRR, no MRG, nl S1-S2
+ABDOMEN - +BS, soft/NT/ND, no masses or HSM, no rebound/guarding
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs)
+SKIN - no rashes or lesions
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 08:00AM BLOOD WBC-8.4 RBC-2.83*# Hgb-8.9*# Hct-24.8*# 
+MCV-88 MCH-31.5 MCHC-35.9* RDW-13.6 Plt ___
+___ 05:32PM BLOOD Hct-22.7*
+___ 08:00AM BLOOD Glucose-101* UreaN-23* Creat-0.9 Na-133 
+K-4.5 Cl-101 HCO3-20* AnGap-17
+___ 08:00AM BLOOD ALT-33 AST-27 AlkPhos-45 TotBili-0.3
+___ 08:00AM BLOOD Lipase-46
+___ 08:00AM BLOOD cTropnT-<0.01
+___ 01:20PM BLOOD cTropnT-<0.01
+___ 11:20PM BLOOD cTropnT-<0.01
+___ 08:00AM BLOOD Calcium-9.0 Phos-3.0 Mg-2.1
+.
+DISCHARGE LABS:
+___ 03:35AM BLOOD Hct-28.0*
+___ 08:05AM BLOOD WBC-7.2 RBC-3.58*# Hgb-11.3*# Hct-31.2* 
+MCV-87 MCH-31.5 MCHC-36.2* RDW-14.7 Plt ___
+___ 08:05AM BLOOD Glucose-91 UreaN-14 Creat-1.0 Na-136 
+K-4.4 Cl-101 HCO3-28 AnGap-11
+___ 08:05AM BLOOD Calcium-8.8 Phos-2.9 Mg-2.2
+.
+EGD ___:  Findings: Esophagus:  
+ Mucosa: Normal mucosa was noted.  
+Stomach:  
+ Mucosa: Erythema of the mucosa with no bleeding was noted in 
+the antrum and pre-pylorus. These findings are compatible with 
+gastritis. Cold forceps biopsies were performed for histology at 
+the Stomach .  
+Duodenum:  
+ Mucosa: Erythema of the mucosa was noted in the duodenal bulb 
+compatible with duodenitis.  
+Impression: Normal mucosa in the esophagus
+Erythema in the antrum and pre-pylorus compatible with gastritis 
+(biopsy)
+Erythema in the duodenal bulb compatible with duodenitis.  
+Otherwise normal EGD to third part of the duodenum 
+Recommendations: Follow-up biopsy results
+Follow up per inpatient GI team recommendations.  Avoid all 
+nsaid usage
+Findings do not explain patient's gastrointestinal bleed. 
+Consider capsule endoscopy within the next 2 weeks to further 
+evaluate the small bowel.
+Discuss with cardiology if patient needs to remain on plavix.  
+Start protonix 40mg once a day given gastritis. 
+Additional notes: The attending was present for the entire 
+procedure. The patient's home medication list is appended to 
+this report. FINAL DIAGNOSIS are listed in the impression 
+section above. Estimated blood loss = zero. Specimens were taken 
+for pathology as listed. 
+.
+___: EGD BIOPSIES FINAL PATH PENDING
+___: CAPSULE ENDOSCOPY PENDING
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo M with coronary artery disease status 
+post coronary-artery bypass surgery (on plavix) and with melena 
+and bright red blood per rectum (BRBPR) manifesting as slowly 
+decreasing hematocrit over the past ___ months.
+.
+ACTIVE ISSUES BY PROBLEM:
+# Gastrointestinal bleed: Initially presented with melena and 
+BRBPR which had been occuring on and off for several months.  
+His hematocrit had dropped to the ___ from the ___ in ___.  He 
+was not having abdominal pain.  He had a history of similar 
+episodes of bleeding which resolved when he stopped plavix.  GI 
+was consulted and they performed an esophago-gastro-duodenoscopy 
+(EGD) only found gastritis and duodenitis.  This was unlikely to 
+the cause of such a large drop in hematocrit.  Thus, he was also 
+evaluated with a capsule endoscopy the following day to look for 
+a small intestinal source of the bleeding.  These results are 
+not reported yet.  He will follow-up with GI on ___.   He 
+was started on pantoprazole 40 mg po daily and also his plavix 
+was held indefinitely to avoid repeat GI bleed.
+.
+# Acute blood loss anemia: His hematocrit (Hct) has been 
+trending down from a baseline of 40 in ___.  MCV is normocytic 
+to slightly microcytic, consistent with an anemia of blood loss. 
+ He responded to transfusion of 4 units pRBCs with Hct up to 28, 
+which is not entirely appropriate rise but he passed melanotic 
+stool x 2 overnight observed. Two repeat hematocrits 8 hours 
+apart remained stable after completed bowel prep for capsule 
+endoscopy.  
+.
+# Coronary Artery Disease (CAD): Patient has a significant 
+cardiac history, however, in the setting of GI bleed he was 
+instructed to hold his plavix.  His last stress test was ___ 
+with an LVEF of 46%.  Also, his stents were placed > ___ years 
+ago, which does not necessiate continued plavix in this patient 
+who might have greater risk of continued GI blood loss.  His 
+cardiologist, Dr. ___, was notified and he will follow-up 
+with him to discuss this further.  He was continued on ___, 
+lisinopril, imdur, metoprolol.  He is not taking a statin 
+because he has a history of statin-induced myopathy.
+.
+CHRONIC ISSUES BY PROBLEM:
+# Hyperlipidemia: He was continued on his cholestyramine.
+.
+TRANSITIONAL ISSUES:
+- Please follow-up the results of the capsule endoscopy and 
+refer Mr. ___ for appropriate further management
+- Please follow-up the results of EGD biopsies
+- Please recheck a hematocrit at follow-up to ensure that he is 
+no longer bleeding
+- Please discuss the risk of further anticoagulation with plavix 
+versus GI bleeding
+ 
+Medications on Admission:
+allopurinol ___ mg daily
+plavix 75 mg daily
+metoprolol succinate 100 mg daily
+imdur 30 mg daily
+cholestram 4000mg bid
+lisinopril 5 mg daily
+triamcinolone 0.1% prn
+gabapentin 300 mg daily (stopped ___
+aleve 440mg daily
+vitamin d ___ units daily
+cinnamon 500mg daily
+aspirin ec 81 mg daily
+CoQ10 100mg daily
+fish oil 1400 mg qam, 1000mg qpm
+percocet ___ mg prn pain (very rarely uses)
+
+ 
+Discharge Medications:
+1. allopurinol ___ mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. metoprolol succinate 50 mg Tablet Extended Release 24 hr Sig: 
+Two (2) Tablet Extended Release 24 hr PO once a day.  
+3. isosorbide mononitrate 30 mg Tablet Extended Release 24 hr 
+Sig: One (1) Tablet Extended Release 24 hr PO DAILY (Daily).  
+4. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. cholecalciferol (vitamin D3) 1,000 unit Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+6. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+7. omega-3 fatty acids     Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+8. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+9. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+10. cholestyramine-sucrose 4 gram Packet Sig: One (1) Packet PO 
+BID (2 times a day).  
+11. triamcinolone acetonide 0.1 % Lotion Sig: One (1) ml Topical 
+once a day as needed for itching.  
+12. Cinnamon 500 mg Capsule Sig: One (1) Capsule PO once a day.  
+
+13. coenzyme Q10 100 mg Capsule Sig: One (1) Capsule PO once a 
+day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+Likely small intestine bleed
+Coronary artery disease
+.
+SECONDARY DIAGNOSIS:
+Hypertension
+Benign colonic polyps
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+.
+You were admitted to the hospital because you were having GI 
+bleeding.  You underwent an upper endoscopy and a capsule 
+endoscopy.  You were found to have irritation in your stomach 
+and upper intestines.  
+.
+Your levels of red blood cells were low when you came in and you 
+were having symptoms from this including shortness of breath, 
+decreased endurance/exercise tolerance, and weakness.  You 
+recieved 4 units of blood and your symptoms improved.  Your 
+blood counts stayed stable over an 8 hour period.
+.
+The following changes were made to your medications:
+- START taking protonix 40 mg daily
+- STOP taking plavix
+- STOP taking ibuprofen, this can irritate your stomach.  You 
+can take acetaminophen (Tylenol) for pain instead.  The maximum 
+dose of Tylenol is 4000 mg per day.
+.
+It is very important that you keep all of the follow-up 
+appointments below.  It was a pleasure taking care of you in the 
+hospital! 
+ 
+Followup Instructions:
+___

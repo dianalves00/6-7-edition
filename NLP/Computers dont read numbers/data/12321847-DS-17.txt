@@ -1,0 +1,315 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+S/p fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ male with hx of DM2, HTN, HLD who presents after a 
+fall in the setting of alcohol intoxication, and after a 
+syncopal episode in the ED. 
+
+The history is obtained from the patient and his son. The 
+patient yesterday was in his usual state of health. He started 
+drinking and became intoxicated. Per patient, he had 3 shots of 
+cognac, but the patient's son said he was drinking excessively 
+and became severely intoxicated. The patient was found down in 
+the basement after what was presumed a fall; there were no 
+witnesses and the patient does not remember the episode. The son 
+found his father sitting on the floor, awake but inebriated, 
+with urinary incontinence. He was complaining of right shoulder 
+pain.
+
+The son brought the patient into the ED. There, initial vitals 
+were 97.1 73 ___ 99% RA. Labs were significant for alcohol 
+level 155, lactate: 4.4 --> 3.6, leukocytosis to 13 with 56.8% 
+PMNs, and negative troponins. CT head and cervical spine 
+negative for acute abnormality, right shoulder xray negative for 
+fracture or dislocation, and CXR clear. He was given 5mg 
+oxycodone and 3L IVF.  
+
+The patient was being discharged home from the ED, when while 
+sitting on the edge of the bed, he slumped over and became 
+unresponsive. He reported dizziness before the event. Per neuro 
+note, "he had two events where he "passed out" without any 
+myoclonic jerking or generalized tonic clonic activity. Both 
+pt's son and the attending ED physician observed these episodes. 
+Per ED attending, it looked like a "drop attack" with loss of 
+muscle tone. Due to elevated lactate and leukocytosis following 
+the episodes, neurology was consulted due to concern for 
+seizure. ED also gave pt IV ativan and Keppra. ___ was 132."
+
+Neurology evaluated the patient and they had low concern for 
+seizure given lack of tonic-clonic activity or myoclonic jerks. 
+They recommended admission to medicine for sycnope workup.  
+Vitals prior to transfer: 98.1 94 104/66 26 96% RA.
+  
+On evaluation on the floor, the patient denies any 
+lightheadedness or vertigo. Complains of right shoulder pain and 
+mild chest pain.   
+ 
+ 
+Past Medical History:
+Type 2 diabetes, on metformin
+Per patient a hx of valvular disease (echo in ___ showed mild 
+AR)
+Non-alcoholic fatty liver disease
++PPD
+Vertigo
+HTN
+HLD  
+ 
+Social History:
+___
+Family History:
+No family history of heart disease, sudden death. Brother had 
+seizures as a child, but not as an adult. No other significant 
+family history.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS: 97.9 136/91 108 18 99% RA 
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated  
+RESP: CTAB no wheezes, rales, rhonchi  
+CV: Tachycardic, Nl S1, S2, No MRG. Chest wall with pain to 
+palpation. No bruises or excoriations  
+ABD: Soft, NT/ND bowel sounds present, no rebound tenderness or 
+guarding, no organomegaly  
+GU: no foley  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Pain with palpation over right deltoid. No erythema, 
+bruising, edema. Decreased ROM ___ pain in shoulder. Full ROM of 
+elbow.  
+NEURO: CNs2-12 intact, motor function grossly normal. Full neuro 
+exam from today by neuro normal  
+SKIN: No excoriations or rash.
+
+DISCHARGE PHYSICAL EXAM:
+VITALS: 98.0 123/85 74 20 98% RA
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated  
+RESP: CTAB no wheezes, rales, rhonchi  
+CV: Tachycardic, Nl S1, S2, No MRG. Chest wall with pain to 
+palpation. No bruises or excoriations  
+ABD: Soft, NT/ND bowel sounds present, no rebound tenderness or 
+guarding, no organomegaly  
+GU: no foley  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Pain with palpation over right deltoid. No erythema, 
+bruising, edema. Decreased ROM ___ pain in shoulder. Full ROM of 
+elbow.  
+NEURO: CNs2-12 intact, motor function grossly normal. Full neuro 
+exam from today by neuro normal  
+SKIN: No excoriations or rash.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:56AM BLOOD WBC-13.1*# RBC-4.36* Hgb-13.5* Hct-40.3 
+MCV-92 MCH-31.0 MCHC-33.6 RDW-13.3 Plt ___
+___ 01:56AM BLOOD Glucose-148* UreaN-15 Creat-0.9 Na-142 
+K-3.9 Cl-104 HCO3-20* AnGap-22*
+___ 01:56AM BLOOD Albumin-4.2 Calcium-8.7 Phos-3.6 Mg-2.0
+___ 01:56AM BLOOD ALT-26 AST-32 AlkPhos-53 TotBili-0.2
+___ 01:56AM BLOOD Lipase-33
+___ 01:56AM BLOOD cTropnT-<0.01 proBNP-7
+___ 01:56AM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 01:55AM BLOOD Lactate-4.4*
+___ 05:52AM BLOOD Lactate-3.6*
+
+DISCHARGE LABS:
+___ 05:18AM BLOOD WBC-5.1# RBC-3.74* Hgb-11.6* Hct-35.2* 
+MCV-94 MCH-30.9 MCHC-32.9 RDW-13.1 Plt ___
+___ 05:18AM BLOOD Glucose-137* UreaN-16 Creat-0.8 Na-136 
+K-3.8 Cl-101 HCO3-28 AnGap-11
+___ 05:18AM BLOOD Calcium-8.2* Phos-2.5* Mg-1.9
+
+MICRO:  
+URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN AND/OR GENITAL CONTAMINATION. 
+
+STUDIES:
+CT head ___:
+No acute intracranial abnormality.  Stable atlantodental 
+interval widening as identified on prior CT dated ___.
+
+CT cervical spine ___:
+No acute cervical fracture or subluxation. Degenerative changes 
+as described above.
+
+R shoulder xray ___:
+No fracture or dislocation.  Degenerative changes at the 
+acromioclavicular and glenohumeral joints.
+
+R shoulder xray axillary view ___:
+Axillary view demonstrates no evidence of dislocation.  Mild 
+glenohumeral degenerative change is present.  No fracture seen 
+on this single projection.
+
+CXR ___:
+No acute intrathoracic abnormality. 
+There is no definitive evidence of pleural effusion but since 
+the left hemidiaphragm is elevated, correlation with lateral 
+view to exclude pleural effusion is recommended. 
+
+EKG ___:
+Sinus rhythm. Borderline P-R interval prolongation. Low limb 
+lead voltage. RSR' pattern in lead V1. Compared to the previous 
+tracing of ___ the axis is now more vertical. QRS voltage is 
+less prominent.
+
+Echo ___:
+The left atrium is mildly dilated. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thicknesses 
+are normal. The left ventricular cavity size is normal. Overall 
+left ventricular systolic function is normal (LVEF = 65%). 
+Tissue Doppler imaging suggests a normal left ventricular 
+filling pressure (PCWP<12mmHg). Right ventricular chamber size 
+and free wall motion are normal. The aortic valve leaflets (3) 
+appear structurally normal with good leaflet excursion. There is 
+no aortic valve stenosis. Trace aortic regurgitation is seen. 
+The mitral valve appears structurally normal with trivial mitral 
+regurgitation. The estimated pulmonary artery systolic pressure 
+is normal. There is no pericardial effusion. 
+Compared with the report of the prior study (images unavailable 
+for review) of ___, the findings are similar. 
+ 
+Brief Hospital Course:
+___ with hx of DM2, HTN, HLD who presents after a mechanical 
+fall in the setting of alcohol use, with syncopal event in ED, 
+admitted for sycnope workup.
+
+# Syncope: Patient with 2 syncopal episodes in the ED, and 
+possibly one episode at home. Episode of syncope at home 
+occurred in the setting of alcohol intoxication. In the ED, 
+pre-syncopal/syncopal episode occured while BP in ___. Etiology 
+to Ed episode though secondary to orthostasis vs vasovagal event 
+given alcohol use which has a vasodilatory effect. Less likely 
+seizures given lack of myoclonic activity; Neurology consulted 
+and did not think the patient had a seizure. Cardiac etiology 
+investigated: Patient without cardiac history, normal EKG, neg 
+troponins, no events on telemetry, and normal echo all 
+reassuring for lack of cardiac event. 
+Patient without evidence of electrolyte abnormalities or 
+infection. Patient had no further episodes in house. Prior to 
+d/c he was seen by physical therapy and was cleared for 
+discharge home.
+
+# Right shoulder pain: Patient with significant right shoulder 
+pain after a presumed fall at home. On exam, patient with very 
+limited ROM of right shoulder, limited by pain. No evidence of 
+fracture or dislocation on films. Ortho consulted, and thought 
+exam and xrays were concerning for a soft tissue injury. 
+Recommended follow up with PCP and possible ___ MRI for 
+further evaluation of potential rotator cuff injury. He was 
+discharged with a sling for comfort, oxycodone for pain, and 
+outpatient physical therapy.
+
+# DM2: On metformin at home. Was put on SSI while in-house.
+
+# HTN: Held lisinopril initially given hypotension in the ED, 
+resumed at discharge.
+
+# HLD: Continued simvastatin.
+
+TRANSITIONAL ISSUES:
+- Patient may need shoulder MRI to evaluate for soft tissue 
+injury/rotator cuff pathology if pain does not improve
+- The patient had an elevated left hemidiaphragm on chest xray; 
+radiology recommended lateral xray to rule out pleural effusion. 
+Given lack of hypoxia or pulmonary complaints, the xray was 
+deferred. If the patient develops new respiratory symptoms, 
+further chest imaging may be warranted. 
+- Encourage alcohol cessation.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 5 mg PO DAILY 
+2. MetFORMIN (Glucophage) 850 mg PO BID 
+3. Simvastatin 40 mg PO QPM 
+4. Aspirin 81 mg PO DAILY 
+5. Vitamin E 800 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Simvastatin 40 mg PO QPM 
+3. Vitamin E 800 UNIT PO DAILY 
+4. Acetaminophen 500 mg PO Q6H:PRN pain, fever 
+RX *acetaminophen 500 mg one tablet(s) by mouth every 6 h prn 
+Disp #*30 Tablet Refills:*0
+5. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg one tablet(s) by mouth twice a day 
+Disp #*30 Tablet Refills:*0
+6. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg one tablet(s) by mouth every 4 hours prn Disp 
+#*30 Tablet Refills:*0
+7. Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg one capsule by mouth BID prn Disp 
+#*30 Capsule Refills:*0
+8. Lisinopril 5 mg PO DAILY 
+9. MetFORMIN (Glucophage) 850 mg PO BID 
+10. Outpatient Physical Therapy
+Physical therapy for right shoulder injury
+ICD 9 code ___.41 (pain in shoulder)
+Date of injury: ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Vasovagal syncope 
+Right shoulder pain ___ soft tissue injury
+Alcohol intoxication
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted after you fell at home and after you fainted 
+in the emergency room. Neurology saw you, and did not think that 
+you had a seizure. Your cardiac work-up was also 
+normal--laboratory markers of cardiac damage were negative, your 
+EKG was normal, and your echocardiogram was normal. There was no 
+evidence of infection. It is likely you were dehydrated given 
+your alcohol use. Please avoid alcohol and stay hydrated. 
+
+In addition, you had severe right arm pain after your fall. 
+Orthopedic surgery consulted, and reviewed your shoulder xrays. 
+They did not see any fracture or dislocation. They think you may 
+have a soft tissue injury, but do not think any interevention 
+needs to be done in the hospital. You may need a shouler MRI as 
+an outpatient if your pain does not improve. Please follow up 
+with your primary care physician after discharge.
+
+We wish you the best!
+Your ___ care team
+ 
+Followup Instructions:
+___

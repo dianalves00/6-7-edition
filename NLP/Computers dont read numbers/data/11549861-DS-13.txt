@@ -1,0 +1,289 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Elective Ileostomy reversal
+Nonhealing wound and ventral hernia.
+ 
+Major Surgical or Invasive Procedure:
+Colorectal service:
+- Ileostomy takedown, lysis of adhesions, excision of nonhealing 
+wound
+
+Plastic service: 
+-  Intraoperative consultation with repair of ventral hernia in 
+multiple layers and component separation.
+- Placement of intraabdominal wall Seri scaffold.
+
+ 
+History of Present Illness:
+___ w hx of a transverse colonic polyp s/p lap transverse 
+colectomy (___) by Dr. ___ a leak from colocolonic 
+anastomosis s/p exploratory laparotomy, revision anastomosis, 
+right colectomy, and diverting loop ileostomy on ___ by Dr. 
+___. 
+
+Since then patient was readmitted on ___ due to ___. Renal 
+was consulted and felt that his presentation was likely ___ to 
+post-ATN diuresis. Patient ___ resolved with IV fluids. When d/c 
+from this hospitalization his Cr normalized to 1.2 and patient 
+has had close follow up with Nephrology. His also was found to 
+have a pan-sensitive Klebsiella UTI infection and had received 
+successful txm for it. 
+
+On ___, patient presented to ___ for an elective 
+Ileostomy take down. He was found to have a significant ventral 
+hernia and significant abscesses above and below the midline 
+fascia. Plastic surgery was consulted and assisted with ventral 
+hernia repair (Please for complete details, refer to Operative 
+Note from ___ from both Colorectal service and Plastic 
+service. 
+
+ 
+Past Medical History:
+HTN
+T2DM
+Gout
+Pernicious anemia
+HLD
+Fatty liver disease
+Laparoscopic transverse colectomy ___
+Ex lap, right colectomy, diverting ileostomy
+ 
+Social History:
+___
+Family History:
+Denies any history of cancer or heart disease.
+
+ 
+Physical Exam:
+Discharge exam: 
+VS: T 98.9, HR 102, BP 156/74, RR 16, SaO2 97% RA
+GEN: No acute distress, alert and cooperative
+HEENT: NCAT, EOMI, MMM
+CV: RRR, no M/R/G
+PULM: Easy work of breathing
+ABD: Midline incision C/D/I, JP drain sites C/D/I. No erythema 
+or drainage
+EXT: Warm, no edema
+ 
+Pertinent Results:
+___ 04:06PM   SODIUM-137 POTASSIUM-4.9 CHLORIDE-107
+___ 04:06PM   MAGNESIUM-1.4*
+___ 04:06PM   HCT-33.0*
+___ 11:20AM   GLUCOSE-115* UREA N-12 CREAT-1.1 SODIUM-134 
+CHLORIDE-105 TOTAL CO2-23
+___ 07:50AM BLOOD WBC-10.7 RBC-3.46* Hgb-10.1* Hct-29.7* 
+MCV-86 MCH-29.1 MCHC-33.9 RDW-15.1 Plt ___
+___ 06:00AM BLOOD WBC-5.6 RBC-3.04* Hgb-8.8* Hct-26.1* 
+MCV-86 MCH-28.8 MCHC-33.5 RDW-15.2 Plt ___
+___ 07:50AM BLOOD Glucose-172* UreaN-12 Creat-1.1 Na-138 
+K-5.4* Cl-106 HCO3-21* AnGap-16
+___ 06:00AM BLOOD Glucose-132* UreaN-10 Creat-0.9 Na-134 
+K-4.2 Cl-103 HCO3-23 AnGap-12
+ 
+Brief Hospital Course:
+Mr ___ presented to ___ holding at ___ on ___ for 
+a Ileostomy reversal. He tolerated the procedure well but was 
+found to have a significant ventral hernia that required 
+intraoperative plastic consultation. (for details please refer 
+to operative note from Dr. ___  ___ surgery) and Dr. 
+___ surgery). As a result he is s/p ileostomy 
+takedown, lysis of adhesions, excision
+of nonhealing wound by the Colorectal servce and repair of 
+ventral hernia in multiple layers, component separation, and 
+placement of an intraabdominal wall Seri scaffold. Of note, 
+patient was found to have signs of abcess above and below the 
+midline fascia and was therefore started on Vancomycin which was 
+later switched to Bactrim prior to d/c. 
+
+During Pacu he was found to have low UOP that required a 500cc 
+bolus. As he had a prior history ___ his Cr was closely 
+monitored but stayed stable to 1.1 during this hospitalization. 
+The patient was transferred to the floor on POD #0 for further 
+post-operative management.  
+Neuro: no events 
+CV:  no events
+Pulm:  no events
+GI: no events 
+GU:  no events. Patient Cr continued stable during 
+hospitalization and patient was voiding appropriately. 
+ID:  Patient was found to have a significant abscess formation 
+in his midline wound incision above and below the fascia that 
+required aggressive debridement, placement of two JP drains and 
+a few days of Vancomycin. The ___ prior to discharge patient 
+was switched to Bactrim PO BID for a total course of 14 days per 
+plastic.  
+Heme: no events  
+
+On ___, the patient was discharged to home with ___ 
+services. Both JP drains were removed prior to discharge. At 
+discharge, he was tolerating a regular diet, passing flatus, 
+stooling, voiding, and ambulating independently. He will 
+follow-up in the clinic in ___ weeks. This information was 
+communicated to the patient directly prior to discharge.  
+
+Post-Surgical Complications During Inpatient Admission:  
+[ ] Post-Operative Ileus resolving w/o NGT  
+[ ] Post-Operative Ileus requiring management with NGT  
+[ ] UTI  
+[ ] Wound Infection  
+[ ] Anastomotic Leak  
+[ ] Staple Line Bleed  
+[ ] Congestive Heart failure  
+[ ] ARF  
+[ ] Acute Urinary retention, failure to void after Foley D/C'd  
+[ ] Acute Urinary Retention requiring discharge with Foley  
+Catheter  
+[ ] DVT  
+[ ] Pneumonia  
+[ ] Abscess  
+[x] Other: Personal family issue. On POD 2 patient was informed 
+that his son committed suicide. He opted to be discharge home 
+prior to have return of bowel function. He was discharge home on 
+a clear diet with ___ service to monitor return of his bowel 
+function, Bactrim x 14 days for his wound infecton, two 
+abdominal drain in place. He was instructed to follow-up with us 
+and Dr. ___ in clinic within a week. 
+  
+Social Issues Causing a Delay in Discharge:  
+[ ] Delay in organization of ___ services  
+[ ] Difficulty finding appropriate rehabilitation hospital  
+disposition.  
+[ ] Lack of insurance coverage for ___ services  
+[ ] Lack of insurance coverage for prescribed medications.  
+[ ] Family not agreeable to discharge plan.  
+[ ] Patient knowledge deficit related to ileostomy delaying  
+discharge.  
+[x] No social factors contributing in delay of discharge.  
+ 
+Medications on Admission:
+1. Aspirin 81 mg PO DAILY 
+2. LOPERamide 4 mg PO TID:PRN diarrhea 
+3. Omeprazole 20 mg PO BID 
+4. GlyBURIDE 5 mg PO BID 
+5. MetFORMIN (Glucophage) 500 mg PO BID 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Acetaminophen 1000 mg PO TID 
+3. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*20 Tablet Refills:*0
+4. GlyBURIDE 5 mg PO BID 
+5. MetFORMIN (Glucophage) 500 mg PO BID 
+6. Omeprazole 20 mg PO BID 
+7. Sulfameth/Trimethoprim DS 1 TAB PO BID abdominal abcess 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 1 
+tablet(s) by mouth twice a day Disp #*14 Tablet Refills:*0
+8. Docusate Sodium 100 mg PO BID:PRN constipation 
+Hold for loose or watery stools. 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Ileostomy takedown/reversal
+Nonhealing wound and ventral hernia.
+
+ 
+Discharge Condition:
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after an ileostomy takedown.  
+During the procedure we found that you had a ventral hernia. As 
+a result the plastic service was consulted to assist with repair 
+of your ventral hernia. 
+
+As a result you have a large vertical incision in your abdomen 
+and also two drains in place that is helping to drain any fluid 
+collection into your abdomen. You (WILL OR WILL NOT) be 
+discharge home with these drains. You midline incision has a 
+dermabound. All you stitches are under the skin so you do not 
+have to worry about them. You can shower normally once the 
+drains are removed. Meanwhile avoid direct water around your 
+abdominal area. 
+
+Please monitor the incision for signs and symptoms of infection 
+including: increasing redness at the incision, opening of the 
+incision, increased pain at the incision line, draining of 
+white/green/yellow/foul smelling drainage, or if you develop a 
+fever. 
+
+Due to your personal circumstances you will be discharge home a 
+little bit earlier than recommended as you are still on a clear 
+diet and not passing flatus consistently. Therefore, we have set 
+up a ___ nurse to follow up with you daily at home to make sure 
+your are recovering well. 
+
+Please DO NOT advance your diet until your are passing flatus 
+consistent. If you have any questions do not hesitate to call 
+our office. 
+  
+Please monitor your bowel function closely. You may or may not 
+have had a bowel  movement prior to your discharge which is 
+acceptable, however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patients to have some decrease in bowel function 
+but your should not have prolonged constipation. Some loose 
+stool and passing of small amounts of dark, old appearing blood 
+are expected however, if you notice that you are passing bright 
+red blood with bowel your please seek medical attention. If you 
+are passing loose stool without improvement please call the 
+office or go to the emergency room if the symptoms are severe. 
+If you are taking narcotic pain medications there is a risk that 
+you will have some constipation. Please take an over the counter 
+stool softener such as Colace, and if the symptoms does not 
+improve call the office. It is also not uncommon after an 
+ileostomy takedown to have frequent loose stools until you are 
+taking more regular food however this should improve. 
+ 
+The muscles of the sphincters have not been used in quite some 
+time and you may experience urgency or small amounts of 
+incontinence however this should improve. If you do not show 
+improvement in these symptoms within ___ days please call the 
+office for advice. 
+
+Occasionally, patients will need to take a medication to slow 
+their bowel movements as their bodies adjust to the new normal 
+without an ileostomy, you should consult with our office for 
+advice. If you have any of the following symptoms   
+No heavy lifting for at least 6 weeks after surgery unless 
+instructed otherwise by Dr. ___, Dr. ___ Dr. ___. 
+You may gradually increase your activity as tolerated but clear 
+heavy exercise with Dr. ___, Dr. ___ Dr. ___.  
+ 
+You will be prescribed a small amount of the pain medication 
+Oxycodone. Please take this medication exactly as prescribed. 
+You may take Tylenol as recommended for pain. Please do not take 
+more than 4000mg of Tylenol daily. Do not drink alcohol while 
+taking narcotic pain medication or Tylenol. Please do not drive 
+a car while taking narcotic pain medication.  
+ 
+Thank you for allowing us to participate in your care! Our hope 
+is that you will have a quick return to your life and usual 
+activities. Good luck!  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,283 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Throat discomfort
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ PMHx GERD, esophageal spasm, and anxiety presenting with 
+throat andchest burning. Patient has long history of issues with 
+GERD and is followed by GI as an outpatient. She said that she 
+intermittently has issues at home and yesterday had quite severe 
+symptoms which seemed to pop up after she experienced the 
+emotional stressor of her washer leaking just after being 
+installed in her home. She tried nexium/zantac with incomplete 
+relief of her symptoms. She was also being bothered by a bit of 
+a cough and runny nose though says that these symptoms have been 
+present for quite some time. She denied any frank chest pain, 
+SOB, abdominal pain, n/v/d, constipation, dysuria, or frequency. 
+ 
+ 
+In the ED, initial VS were: 101.3 80 130/54 12 98% RA  
+Labs notable for: Na 131, trop neg x2, LFTs wnl  
+UA: Hazy, 30 prot, 40 ket, 7 RBC, few bacteria  
+ 
+Imaging showed:   
+CXR: PA and lateral views of the chest provided. The lungs are 
+hyperinflated with biapical pleuroparenchymal scarring again 
+noted. No focal consolidation, large effusion or pneumothorax is 
+seen. No signs of pneumothorax or pneumomediastinum. The 
+cardiomediastinal silhouette is stable. Bony structures are 
+intact. No free air below the right hemidiaphragm.  
+ 
+CT Torso:  
+1. No evidence of pancreatitis. Please note that CT findings of 
+pancreatitis may lack clinical findings by 48 hours.  
+2. No evidence of small-bowel obstruction colitis or 
+diverticulitis.  
+3. Large quantity of gas and stool throughout the bowel.  
+ 
+Patient received:  
+___ 19:56 PO Aluminum-Magnesium Hydrox.-Simethicone 30 mL 
+ 
+___ 19:56 PO Lidocaine Viscous 2% 10 mL  
+Transfer VS were: 99.3 93 143/55 16 99% RA  
+
+On arrival to the floor, patient reports that her reflux 
+symptoms have resolved but that she is having significant dry 
+mouth. She is otherwise well and without any acute complaint.  
+
+10 point ROS reviewed and negative except as per HPI  
+ 
+Past Medical History:
+1. Coronary vasospams - ___ the pt was admitted to ___ 
+___ due to CP unrelieved by NTG and was found to 
+have TWIs ___. Her first troponin and CK were normal 
+but the second troponin was elevated. Due to weather conditions, 
+pt was transferred to ___ (Dr. ___ ___ rather 
+than BI, where she underwent diagnostic cath. The angiogram 
+revealed focal ___ LAD dx (pt has a copy of the CD) which 
+responded to NTG. Subsequent intra- vascular US revealed no sig. 
+plaque in quite a nl appearing segment where the angiographic 
+stenosis had been, c/w vasospasm.  
+2. GERD  
+3. Depression.  
+
+ 
+Social History:
+___
+Family History:
+M: Breast CA and silent MI  
+F: Parkinsons  
+
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+=========================
+VS: 99.3 138/64 89 19 99% Ra  
+GENERAL: Pleasant elderly F in NAD  
+HEENT: NCAT, dry mucous membranes  
+NECK: Supple, neck veins flat sitting upright  
+HEART: RRR, no m/r/g  
+LUNGS: CTAB anteriorly  
+ABDOMEN: Soft, NT/ND, BS+  
+EXTREMITIES: WWP, no c/c/e  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+PHYSICAL EXAM ON DISCHARGE:
+=========================
+VS: 99.6 PO 132 / 54 90 12 98 RA   
+GENERAL: Pleasant elderly F in NAD, runny nose  
+HEENT: NCAT, dry mucous membranes 
+NECK: Supple, neck veins flat sitting upright  
+HEART: RRR, no m/r/g  
+LUNGS: CTAB anteriorly  
+ABDOMEN: Soft, NT/ND, BS+ 
+EXTREMITIES: WWP, no c/c/e
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes 
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+================
+___ 06:42PM BLOOD WBC-6.0# RBC-3.77* Hgb-11.2 Hct-33.6* 
+MCV-89 MCH-29.7 MCHC-33.3 RDW-13.1 RDWSD-42.5 Plt ___
+___ 06:42PM BLOOD Neuts-89.7* Lymphs-4.8* Monos-5.0 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-5.39# AbsLymp-0.29* 
+AbsMono-0.30 AbsEos-0.00* AbsBaso-0.01
+___ 06:42PM BLOOD Glucose-150* UreaN-14 Creat-0.7 Na-131* 
+K-4.5 Cl-92* HCO3-23 AnGap-16
+___ 09:35PM BLOOD ALT-18 AST-33 AlkPhos-64 TotBili-0.5
+___ 09:35PM BLOOD Lipase-18
+___ 06:42PM BLOOD cTropnT-<0.01
+___ 09:35PM BLOOD cTropnT-<0.01
+___ 09:35PM BLOOD Albumin-3.9
+
+LABS ON DISCHARGE:
+================
+___ 08:35AM BLOOD WBC-6.5 RBC-3.43* Hgb-10.2* Hct-30.4* 
+MCV-89 MCH-29.7 MCHC-33.6 RDW-13.3 RDWSD-43.5 Plt ___
+___ 08:35AM BLOOD Glucose-95 UreaN-13 Creat-0.6 Na-131* 
+K-4.0 Cl-92* HCO3-25 AnGap-14
+___ 08:35AM BLOOD Calcium-8.6 Phos-2.9 Mg-1.9
+
+MICRO:
+======
+
+IMAGING:
+=======
+CXR:
+PA and lateral views of the chest provided.  The lungs are 
+hyperinflated with biapical pleuroparenchymal scarring again 
+noted.  No focal consolidation, large effusion or pneumothorax 
+is seen.  No signs of pneumothorax or pneumomediastinum.  The 
+cardiomediastinal silhouette is stable.  Bony structures are 
+intact.  No free air below the right hemidiaphragm.
+
+CT Abdomen and pelvis:
+1. No evidence of pancreatitis.  Please note that CT findings of 
+pancreatitis may lack clinical findings by 48 hours.
+2. No evidence of small-bowel obstruction, colitis or 
+diverticulitis.
+3. Large quantity of gas and stool throughout the bowel.
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ yo female with past medical history of 
+chronic watery rhinorrea, esophagitis, and GERD, who presented 
+with throat pain in the setting of fever, worsening runny nose, 
+and cough, suggestive of viral upper respiratory infection.
+
+ACUTE ISSUES:
+=============
+#Throat pain:
+Initially, the patient reported chest pain, which raised concern 
+for cardiac pain or severe esophagitis. Trops were negative and 
+ECG showed no ischemic changed. Upon further questioning, she 
+clarified that she had no chest pain but rather throat pain. Her 
+symptoms were likely due to upper respiratory viral infection. 
+Per review of records, she saw ENT on ___ for throat chronic 
+rhinorrhea. At that time, an endoscopy was performed and showed 
+normal hypopharynx and larynx, mild reflux changes, and no 
+glottic abnormality. She was able to tolerate PO intake and her
+throat pain has improved. She had symptomatic relief with 
+lozenges PRN.
+
+#Fevers: She was febrile in ED to 101.3 with cough and sore 
+throat. Exam was benign and there was no leukocytosis on labs. 
+UA bland. CXR with biapical scarring though no definitive 
+consolidation. CT chest without any findings which would explain 
+fevers. Her symptoms are likely due to upper respiratory viral 
+infection. She received conservative treatment.
+
+#GERD: Patient with long-standing and significant issues with 
+GERD. Initially her symptoms were thought to be due to severe 
+GERD, though patient clarified that had throat pain and not 
+chest/epigastric pain. She was treated with BID PPI and 
+ranitidine.
+
+#Hyponatremia: Likely in the setting of poor PO intake. 
+Encouraged PO intake.
+
+CHRONIC ISSUES:
+===============
+#Esophageal spasm
+#Atypical chest pain: Continued verapamil.
+
+#Anxiety: Continued PRN ativan.
+
+#Allergic rhinitis: Fluticasone while in house as home 
+azelastine not on formulary.
+
+***TRANSITIONAL ISSUES:***
+- Ensure resolution of symptoms
+- Continue PPI BID, make sure patient takes it 30 minutes before 
+her meals
+- Consider follow-up with ENT in case her symptoms persist
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. azelastine 0.15 % (205.5 mcg) nasal BID 
+2. esomeprazole magnesium 40 mg oral BID 
+3. LORazepam 0.5-1 mg PO Q6H:PRN Anxiety 
+4. Ranitidine 150 mg PO BID 
+5. Verapamil SR 120 mg PO Q24H 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Calcium Carbonate Suspension Dose is Unknown  PO TID 
+8. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  azelastine 0.15 % (205.5 mcg) nasal BID  
+2.  Calcium Carbonate Suspension Dose is Unknown  PO TID 
+5 mL (1 tsp) = 1250 mg Calcium Carbonate = 500 mg of Elemental 
+Calcium  
+3.  esomeprazole magnesium 40 mg oral BID  
+4.  LORazepam 0.5-1 mg PO Q6H:PRN Anxiety  
+5.  Multivitamins 1 TAB PO DAILY  
+6.  Ranitidine 150 mg PO BID  
+7.  Verapamil SR 120 mg PO Q24H  
+8.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Upper respiratory tract infection
+
+SECONDARY DIAGNOSIS:
+Hyponatremia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure taking care of you at ___ 
+___. You came to the hospital because you were 
+experiencing severe throat pain. You also had a runny nose, 
+fever, and a cough. These symptoms are likely due to a viral 
+infection and will get better within a few days.
+
+There was an initial concern that you had a bad stomach reflux. 
+Upon further clarification, you clarified that the pain is in 
+your throat and not in the stomach. You do not need a scope to 
+look at the esophagus and stomach at this time.
+
+Please make sure to follow-up with your doctors as ___. 
+Also, you should continue taking your acid reflux medications 30 
+minutes before your meals twcice a day. You can take other the 
+counter lozenges to relieve the throat pain.
+
+We wish you all the best in health.
+
+Your ___ team
+ 
+Followup Instructions:
+___

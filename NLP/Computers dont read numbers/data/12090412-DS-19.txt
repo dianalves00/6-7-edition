@@ -1,0 +1,477 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leukocytosis, fever, hypotension, and tachycardia.
+ 
+Major Surgical or Invasive Procedure:
+___: Flexible bronchoscopy for purpose of decannulation and 
+trache (tracheostomy removal)
+.
+___: Cholangiogram and replacement of internal-external 
+biliary drain.
+.
+___: Removal of jejunostomy tube.
+
+ 
+History of Present Illness:
+___ year old male known to the surgical service, initially 
+presented after undergoing ERCP ___ for an ampullary polyp and 
+subsequently developed necrotizing pancreatitis as well as 
+cholecystitis, cholangitis, and ARDS.  He underwent perc chole 
+tube placement, Trach, and J-tube.  He was transfered to the 
+___ for further care.  Ultimately he recovered, and his perc 
+chole was changed over to an internal-external drain.  He also 
+developed SMV and splenic vein thrombosis leading to 
+anticoagulation.  He was discharged to rehab.  He now presents 
+from an OSH.  He had a fever at home to 103 and was seen at OSH 
+where he had a leukocytosis, fever, and was hypotensive and 
+tachycardiac.  He was transfered here for further management. He 
+currently has no complaints.  No abdominal pain, no N/V/D.  Says 
+he has been tolerating a regular diet.  His I/E drain has been 
+capped since he left the hospital.  
+ 
+Past Medical History:
+PMHx: HTN, Type II DM, nephrolithiasis, ampullary polyp, and 
+depression.
+.
+PSHx: Open tracheostomy, J-tube placement, chole tube placement
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+On Admission:
+VS: Tm 103 (at OSH) Tc 97.5  HR 113 (now ___ BP 87/55 (now 
+___ RR 18 O2sats 97%RA
+.
+Gen: NAD, AAOx3
+HEENT: Anicteric
+CV: tachycardiac
+Pulm: CTA b/l
+Abd: soft, NT, ND. Jtube capped, I/E drain RUQ capped 
+(semi-purulent material upon aspiration)
+Ext: no edema or cyanosis, palp pulses.
+.
+At Discharge:
+AVSS/afebrile.
+GEN: Well ___ NAD.
+HEENT: Sclerae anicteric. O-P clear.
+NECK: Supple. Anterior tracheostomy site now decannulated with 
+DSD cover.
+LUNGS: CTA(B)
+COR: RRR
+ABD: PTC drain capped; insertion site patent. Prior J-tube (now 
+discontinued) clean, slowly healing over with DSD cover. BSX4. 
+Soft/NT/ND.
+EXTREM: No c/c/e
+NEURO: Deconditioned, otherwise non-focal.
+
+ 
+Pertinent Results:
+On Admission:
+
+___ 03:23PM   GLUCOSE-120* UREA N-14 CREAT-0.6 SODIUM-139 
+POTASSIUM-3.7 CHLORIDE-111* TOTAL CO2-22 ANION GAP-10
+___ 03:23PM   CALCIUM-8.1* PHOSPHATE-2.6* MAGNESIUM-1.8
+___ 03:23PM   WBC-20.1* RBC-3.08* HGB-9.3* HCT-28.9* MCV-94 
+MCH-30.2 MCHC-32.2 RDW-16.3*
+___ 03:23PM   PLT COUNT-344
+___ 03:23PM   ___ PTT-40.1* ___
+___ 08:32AM   LACTATE-1.3
+___ 07:53AM   GLUCOSE-135* UREA N-17 CREAT-0.7 SODIUM-137 
+POTASSIUM-3.7 CHLORIDE-108 TOTAL CO2-21* ANION GAP-12
+___ 07:53AM   ALT(SGPT)-34 AST(SGOT)-35 ALK PHOS-767* TOT 
+BILI-0.6
+___:53AM   CALCIUM-7.7* PHOSPHATE-3.1 MAGNESIUM-1.7
+___ 07:53AM   WBC-28.7* RBC-3.27* HGB-9.8* HCT-30.6* MCV-93 
+MCH-30.0 MCHC-32.1 RDW-16.0*
+___ 07:53AM   PLT COUNT-398
+___ 04:51AM   COMMENTS-GREEN TOP
+___ 03:14AM   LACTATE-1.8
+___ 03:14AM   HGB-10.4* calcHCT-31 O2 SAT-77
+___ 12:20AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 12:20AM URINE  ___ BACTERIA-MOD YEAST-NONE 
+EPI-0
+___ 12:20AM URINE  ___ 12:08AM   LACTATE-3.3*
+___ 11:55PM   ___ PTT-38.7* ___
+___ 11:55PM   PLT SMR-HIGH PLT COUNT-472*
+___ 11:55PM   NEUTS-91* BANDS-4 LYMPHS-2* MONOS-2 EOS-1 
+BASOS-0 ___ MYELOS-0
+___ 11:55PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-NORMAL 
+MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+___ 11:55PM   WBC-35.8*# RBC-3.38* HGB-10.2* HCT-32.3* 
+MCV-96 MCH-30.1 MCHC-31.5 RDW-16.0*
+___ 11:55PM   LIPASE-53
+.
+IMAGING:
+___ ABD/PELVIC CT W/CONTRAST:
+1. Necrotizing pancreatitis with minimal residual pancreatic 
+tissue, similar to the prior study.   
+2. Peripancreatic collections have decreased ___ size. There are 
+no new collections. Stable position to an internal-external 
+drain. The presence of air ___ these collections suggests 
+communication between the CBD, containing the stent, and the 
+pseudocyts.   
+3. Mild intrahepatic biliary ductal dilation, improved.  
+4. Slight increased simple fluid within the pelvis, without 
+drainable fluid collections.  
+5. Stable small left effusion with atelectasis.   
+6. Stable hyperdense left renal cyst. 
+.
+___ AP CXR:
+Probable atelectasis and small effusion at the left base, 
+decreased since the previous examination. No acute findings. 
+.
+___ ECG:
+Sinus tachycardia. There is a late transition which is probably 
+normal.  No previous tracing available for comparison.
+   Intervals Axes: 
+Rate PR QRS QT/QTc P QRS T 
+114 164 70 348/442 68 34 35 
+.
+___ ECG:
+Artifact is present. Sinus tachycardia. Normal tracing. Compared 
+to the previous tracing late transition is no longer present. 
+  Intervals Axes: 
+Rate PR QRS QT/QTc P QRS T 
+107 164 78 352/434 62 0 28
+.
+MICROBIOLOGY:
+___ 2:25 am BILE
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS, CHAINS, AND 
+CLUSTERS. 
+      4+   (>10 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+
+   FLUID CULTURE (Preliminary): 
+      Due to mixed bacterial types (>=3) an abbreviated workup 
+is
+      performed; P.aeruginosa, S.aureus and beta strep. are 
+reported if
+      present. Susceptibility will be performed on P.aeruginosa 
+and
+      S.aureus if sparse growth or greater.. 
+      ___. ___ ___ REQUESTED FURTHER WORK-UP ___. 
+      ENTEROCOCCUS SP..    HEAVY GROWTH. 
+      STAPH AUREUS COAG +.    SPARSE GROWTH OF TWO COLONIAL 
+MORPHOLOGIES. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+      GRAM NEGATIVE ROD(S).    SPARSE GROWTH. 
+      ENTEROCOCCUS SP..    MODERATE GROWTH.  SECOND MORPHOLOGY. 
+      ___ ALBICANS, PRESUMPTIVE IDENTIFICATION.    RARE 
+GROWTH. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Final ___: 
+      CLOSTRIDIUM PERFRINGENS.    SPARSE GROWTH. 
+.
+___ 8:30 am MRSA SCREEN (Source: Nasal swab): POSITIVE FOR 
+METHICILLIN RESISTANT STAPH AUREUS.
+.
+___ Blood Cx: No growth - FINAL.
+___ Blood Cx: No growth - FINAL.
+.
+___ CLOSTRIDIUM DIFFICILE TOXIN A & B TEST: Negative.
+___ CLOSTRIDIUM DIFFICILE TOXIN A & B TEST: Negative.
+ 
+Brief Hospital Course:
+The patient was transferredd from an Outside Hospital (OSH) and 
+admitted to the General Surgical Service on ___ for 
+evaluation of fever, leukocytosis, hypotension, and confusion. 
+Initially, he was admited to the SICU and made NPO except 
+medications, started on IV fluids and empiric IV Vancomycin and 
+Zosyn, a foley catheter was placed, and he was placed on 
+continuous bland aerosol mask 35 % trach collar. The PTC drain, 
+which had been capped, was opened to gravity drainage. The 
+longstanding J-Tube remained clamped. The patient was 
+hemodynamically stable.
+.
+The patient was started on a regular diet on ___, which he 
+tolerated. He was transferred to the inpatient floor later on 
+___ continued on IV antibiotics, home medications, a 
+Passy-Muir valve was replaced, the PTC remained to gravity 
+drainage, and the J-Tube clamped. He no longer required IV 
+fluids. The foley was ___ place. Bile culture wa returned with 
+MRSA. 
+.
+On ___, the patient underwent cholangiogram, during which 
+the external-internal biliary drain was replaced. Also, on 
+___, the patient underwent flexible bronchoscopy for purpose 
+of decannulation and tracheostomy removal by Thoracic Surgery, 
+which went well (see Operative Note). ___, the 
+patient received IV pain medications, but only required 
+acetaminophen otherwise during the admission for discomfort.
+.
+Over the next two days after the above procedures, the patient's 
+foley catheter was discontinued and the J-Tube was removed, as 
+it had not been used ___ over one month. The patient subsequently 
+voided without problem. The PTC was capped on ___, which the 
+patient tolerated without fever, abdominal pain, nausea, 
+vomiting, or appetite changes overnight. IV Vancomycin and Zosyn 
+were discontinued, and changed to Bactrim and Ciprofloxacin. He 
+was discharged on a two week course of both. Home Coumadin 
+dosing was also restarted on ___. INR ___ AM was 1.3. 
+INR goal 2.5 with therapeutic range of ___. Patient's PCP 
+contacted and has kindly agreed to manage Coumadin once 
+discharged.
+.
+During this hospitalization, the patient ambulated early and 
+frequently, was adherent with respiratory toilet and incentive 
+spirrometry, and actively participated ___ the plan of care. The 
+patient received subcutaneous heparin and venodyne boots were 
+used during this stay. Labwork was routinely followed; 
+electrolytes were repleted when indicated. Once recovered, he 
+was returned to the floor with previous orders re-initiated. 
+.
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and was not 
+experiencing any pain.  He was discharged home with ___ 
+services. The patient received discharge teaching and follow-up 
+instructions with understanding verbalized and agreement with 
+the discharge plan.
+ 
+Medications on Admission:
+11. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 
+12 hours)
+12. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily)
+13. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+One (1)  Inhalation every six (6) hours as needed for shortness 
+of breath or wheezing
+14. Lactobacillus Acidophilus Tablet Sig: One (1) Tablet PO 
+once a day
+15. Labetalol 100 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day)
+16. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+
+Q6H (every 6 hours) as needed for SOB
+17. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours)
+18. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.
+19. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily)
+21. Multivitamins Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO once a day
+22. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO Every 
+___
+24. Seroquel 25 mg Tablet Sig: One (1) Tablet PO every ___ hours 
+
+as needed for Agitation
+25. Humalog 100 unit/mL Solution Sig: One (1) From ___ Units  
+Subcutaneous four times a day: As directed per sliding scale
+26. Oyster Shell Calcium 500 mg (1,250 mg) Tablet Sig: One (1) 
+Tablet PO twice a day
+ 
+Discharge Medications:
+1. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 
+hours).  
+2. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Labetalol 200 mg Tablet Sig: One (1) Tablet PO twice a day.  
+4. Quetiapine 25 mg Tablet Sig: One (1) Tablet PO Q4H (every 4 
+hours) as needed for anxiety/agitation .  
+5. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for fever or pain.  
+6. Zoloft 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1) neb Inhalation Q4H (every 4 hours) as 
+needed for shortness of breath or wheezing.  
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation Q6H (every 6 hours) as needed for shortness of breath 
+or wheezing.  
+9. Lactobacillus Acidophilus 500 million cell Tablet Sig: One 
+(1) Tablet PO once a day.  
+10. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a 
+week.  
+11. Oyster Shell Calcium 500 500 mg (1,250 mg) Tablet Sig: One 
+(1) Tablet PO twice a day.  
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for constipation.  
+13. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+14. Trimethoprim-Sulfamethoxazole 160-800 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+15. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 14 days.
+Disp:*28 Tablet(s)* Refills:*0*
+16. Coumadin 1 mg Tablet Sig: One (1) Tablet PO ___, 
+___ AND 2 tablets orally Q ___, 
+___, and ___.: Please take same time ___ the evening.  
+17. Lantus 100 unit/mL Solution Sig: Fifteen (15) units 
+Subcutaneous at bedtime.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Tracheostomy for previous chronic respiratory failure post 
+adult respiratory distress syndrome.
+2. Necrotizing pancreatitis
+3. MRSA
+4. SMV and splenic vein thrombosis on Coumadin prophylaxis
+5. Cholangitis
+
+ 
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+ 
+Discharge Instructions:
+Please resume all regular home medications , unless specifically 
+advised not to take a particular medication.  Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+.
+General Drain Care:
+
+*Please look at the site every day for signs of infection 
+(increased redness or pain, swelling, odor, yellow or bloody 
+discharge, warm to touch, fever). ___ your MD if you 
+expereimnce these symptoms, or if you experience fever, 
+abdominal pain, nausea, vomiting, abdominal distension, or 
+prurlent drainage.
+*Wash the area gently with warm, soapy water or ___ strength 
+hydrogen peroxide followed by saline rinse, pat dry, and place a 
+drain sponge. Change daily and as needed.
+*Keep the insertion site clean and dry otherwise.
+*Avoid swimming, baths, hot tubs; do not submerge yourself ___ 
+water.
+*Make sure to keep the drain attached securely to your body to 
+prevent pulling or dislocation.
+.
+Coumadin (Warfarin):
+
+What is this medicine used for?
+This medicine is used to thin the blood so that clots will not 
+form.
+
+How does it work?
+Warfarin changes the body's clotting system. It thins the blood 
+to prevent clots from forming.
+
+What you should contact your healthcare provider ___:
+Signs of a life-threatening reaction. These include wheezing; 
+chest tightness; fever; itching; bad cough; blue skin color; 
+fits; or swelling of face, lips, tongue, or throat, severe 
+dizziness or passing out, falls or accidents, especially if you 
+hit your head. Talk with healthcare provider even if you feel 
+fine, significant change ___ thinking clearly and logically, 
+severe headache, severe back pain, severe belly pain, black, 
+tarry, or bloody stools, blood ___ the urine, nosebleeds, 
+coughing up blood, vomiting blood, unusual bruising or bleeding, 
+severe menstrual bleedin, or rash.
+
+___ your doctor if you are unable to eat for several days, for 
+whatever reason. Also ___ if you have stomach problems, 
+vomiting, or diarrhea that lasts more than 1 day. These problems 
+could affect your ___ dosage.
+
+Coumadin (Warfarin) and diet:
+Certain foods and beverages can impair the effect of warfarin. 
+For this reason, it's important to pay attention to what you eat 
+while taking this medication. 
+
+Until recently, doctors advised ___ taking warfarin to avoid 
+foods high ___ vitamin K. This is because large amounts of 
+vitamin K can counteract the benefits of warfarin. However, 
+recent research shows that rather than eliminating vitamin K 
+from your diet, it is more important to be consistent ___ your 
+dietary vitamin K intake.
+ 
+These foods contain vitamin K:
+Fruits and vegetables, such as: Kiwi, Blueberries, Broccoli, 
+Cabbage, ___ sprouts, Green onions, Asparagus, Cauliflower, 
+Peas, Lettuce, Spinach, Turnip, ___, and mustard greens, 
+Parsley, Kale, Endive. Meats, such as: Beef liver, Pork liver. 
+Other: ___, Margarine, Canola oil, Soybean oil, Vitamins, 
+Soybeans and Cashews.
+
+Limit alcohol. Alcohol can affect your ___ dosage 
+but it does not mean you must avoid all alcohol. Serious 
+problems can occur with alcohol and ___ when you 
+drink more than 2 drinks a day or when you change your usual 
+pattern. Binge drinking is not good for you. Be careful on 
+special occasions or holidays, and drink only what you usually 
+would on any regular day of the week.
+
+Monitoring:
+The doctor decides how much ___ you need by 
+testing your blood. The test measures how fast your blood is 
+clotting and lets the doctor know if your dosage should change. 
+If your blood test is too high, you might be at risk for 
+bleeding problems. If it is too low, you might be at risk for 
+forming clots. Your doctor has decided on a range on the blood 
+test that is right for you. The blood test used for monitoring 
+is called an INR.
+
+Use of Other medications: 
+When ___ is taken with other medicines it can 
+change the way other medicines work. Other medicines can also 
+change the way ___ works. It is very important to 
+talk with your doctor about all of the other medicines that you 
+are taking, including over-the-counter medicines, antibiotics, 
+vitamins, or herbal products.
+ 
+Followup Instructions:
+___

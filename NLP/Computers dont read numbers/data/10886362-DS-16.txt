@@ -1,0 +1,334 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lipitor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+A ___ year old male with history of HTN, CAD, ischemic 
+cardiomyopathy LVEF 30%, mild AS (valve area 1.2-1.9cm2), renal 
+transplant, is admitted with progressive dyspnea. He reports 
+that for the past two weeks he has had decreased exercise 
+tolerance, previously able to run 30 minutes on tredmill 
+starting yesterday he became short of breath with walking 1.5 
+blocks. chief complaint of DOE. Has cardiomyopathy ef 30% and 
+aortic stenosis. He notes 5lb weight gain over the past week. He 
+tries to maintain a low sodium diet however last weekend he had 
+fish soup. He notes orthopnea and PND in the last week.  
+..  
+In the ED, initial vitals were 98.4 80 167/104 18 100% RA  
+Labs and imaging significant for BNP 6359, they noted R>L lower 
+ext edma and checked lower extermity dopplers which were 
+negative for DVT. Given history of hypotension with furosemide, 
+diruesis was held until arrival to the floor. Vitals on transfer 
+were 151/99 81 100% ra.  
+.  
+On arrival to the floor, he reports breathing is comfortable, 
+denies cough, dyspnea, chest pain. N/V/D. Denies fever/chills.  
+.  
+On review of systems, he denies any prior history of stroke, 
+TIA, pulmonary embolism, cough, hemoptysis. All of the other 
+review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+palpitations, syncope or presyncope.   
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: (+)Diabetes, (+)Dyslipidemia, (+) 
+Hypertension  
+2. CARDIAC HISTORY:  
+-CABG: None  
+-PERCUTANEOUS CORONARY INTERVENTIONS: per Dr. ___ 
+___); Stress in ___ w/ stent to LCX in ___.  
+-PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY:  
+1. DM, insulin dependent (Type I)- seen at ___  
+2. High cholesterol  
+3. Hypertension  
+4. Renal transplant ___  
+5. Bilateral TMA for peripheral vascular disease and 
+complications of neuropathy/trauma.  
+6. NQW MI ___ years ago (per Dr. ___ ___); 
+Stress in ___ w/ stent to LCX in ___.  
+7. LBBB  
+8. Paroxysmal atrial fibrillation, noted in our records since 
+early ___ (dx ___ years ago per pt), not on coumadin due to 
+falls  
+9. Ischemic cardiomyopathy: EF 30% in ___  
+10. Mild Aortic Stenosis (valve area 1.2-1.9cm2)  
+11. Deep Vein Thrombosis  
+12. Left facial droop since childhood  
+
+ 
+Social History:
+___
+Family History:
+Father w/ DM at age ___. Mother w/ breast CA.  No family history 
+of early MI, arrhythmia, cardiomyopathies, or sudden cardiac 
+death; otherwise non-contributory.  
+
+ 
+Physical Exam:
+On admission
+VS: T 97.7, BP 159/90, HR 87, RR 18, O2 sat 100% RA  
+GENERAL: Overweight male appearing comfortable and in NAD  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+
+NECK: Supple with non elevated JVP  
+CARDIAC: Crecendo/decrendo ___ systolic murmur radiating to 
+carotids, RR, normal S1, S2.  
+LUNGS: Bi basilar rales, equal airentry ___. Right mobile, well 
+circumscribed subcutaneous nodule measuring 3cm diameter.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: S/P ___ amputation of toes. Edema to mid calf R>L.  
+SKIN: No stasis dermatitis.  
+NEURO: Left facial droop, CN II-VI and VIII-XII intact ___.  
+PULSES:  
+Right: Carotid 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ DP 2+ ___ 2+  
+.
+At discharge
+VS: T___.___.7 BP:159/90 HR:87 RR18 O2 sat: 100% RA
+I/O NR/1575
+GENERAL: Overweight male appearing comfortable and in NAD
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.
+NECK: Supple with non elevated JVP
+CARDIAC: Crecendo/decrendo ___ systolic murmur radiating to 
+carotids, RR, normal S1, S2.
+LUNGS: Bi basilar rales, equal airentry ___.
+BACK: Right sided mobile, well circumscribed subcutaneous nodule 
+measuring 3cm diameter.
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.
+EXTREMITIES: S/P ___ amputation of toes. Edema to mid calf R>L.
+SKIN: No stasis dermatitis.
+NEURO: Left facial droop, CN II-VI and VIII-XII intact ___.
+PULSES:
+Right: Carotid 2+ DP 2+ ___ 2+
+Left: Carotid 2+ DP 2+ ___ 2+ 
+ 
+Pertinent Results:
+On admission:
+___ 01:00PM BLOOD WBC-7.7 RBC-4.93 Hgb-14.6 Hct-44.5 MCV-90 
+MCH-29.6 MCHC-32.8 RDW-14.7 Plt ___
+___ 02:37PM BLOOD ___ PTT-31.4 ___
+___ 01:00PM BLOOD Glucose-195* UreaN-23* Creat-1.2 Na-135 
+K-4.9 Cl-100 HCO3-26 AnGap-14
+___ 06:40AM BLOOD Phos-3.2 Mg-2.1
+___ 01:00PM BLOOD proBNP-6359*
+___ 01:00PM BLOOD cTropnT-0.01
+
+On discharge:
+___ 07:05AM BLOOD WBC-7.2 RBC-4.89 Hgb-14.9 Hct-43.8 MCV-90 
+MCH-30.4 MCHC-33.9 RDW-15.1 Plt ___
+___ 07:05AM BLOOD Glucose-236* UreaN-21* Creat-1.2 Na-135 
+K-4.1 Cl-99 HCO3-28 AnGap-12
+___ 07:05AM BLOOD Calcium-8.8 Phos-3.0 Mg-2.___opplers ___
+IMPRESSION:
+1. No evidence of deep venous thrombosis in the right lower 
+extremity.
+2. Peroneal veins not seen. Moderate edema in the calf.
+3. Cystic lesion in the right posterior popliteal fossa, 
+presumably ___
+cyst.
+.
+ECHO ___
+The left atrium is moderately dilated. There is mild symmetric 
+left ventricular hypertrophy. The left ventricular cavity is 
+moderately dilated. There is moderate regional left ventricular 
+systolic dysfunction with severe hypokinesis of the inferior 
+septum, inferior and anterior walls and mild dyskinesis of the 
+apex. There is mild hypokinesis of the remaining segments with 
+the anterior septum and anterolateral walls contracting best 
+(LVEF = 25 %). The estimated cardiac index is depressed 
+(<2.0L/min/m2). No masses or thrombi are seen in the left 
+ventricle. Right ventricular chamber size is normal with focal 
+hypokinesis of the apical free wall. The aortic valve leaflets 
+(3) are moderately thickened. There is severe aortic valve 
+stenosis (AoVA = 0.8 cm2). No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. There is an 
+increased gradient across the mitral valve, but functional 
+mitral stenosis is not suggested). Mild (1+) mitral 
+regurgitation is seen (may be underestimated given the increased 
+gradient with low cardiac index and lack of mitral stenosis). 
+The pulmonary artery systolic pressure could not be determined. 
+There is a trivial/physiologic pericardial effusion.
+.
+IMPRESSION: Severe aortic valve stenosis. Mild symmetric left 
+ventricular hypertrophy with cavity enlargement and extensive 
+regional systolic dysfunction c/w diffuse process (multivessel 
+CAD, etc.). Mild mitral regurgitaiton.
+Compared with the prior study (images reviewed) of ___, the 
+severity of aortic valve stenosis has progressed (Doppler 
+profile is much cleaner on the current study). The pleural 
+effusion has resolved. The transmitral gradient is similar, but 
+mitral stenosis is not suggested - suggesting the severity of 
+mitral regurgitation may be UNDERestimated.
+If clinically indicated, a TEE would be better able to estimate 
+the severity of mitral regurgitation.  
+
+ 
+Brief Hospital Course:
+___ year old male with history of HTN, CAD, ischemic 
+cardiomyopathy LVEF 30%, and mild AS admitted with progressive 
+dyspnea related to CHF exacerbation.  
+.
+ACTIVE ISSUES
+==============
+# Acute on chronic congestive heart failure systolic 
+dysfunction: Patient appeared volume overloaded on admission 
+related to dietery indescression. LVEF 30% in ___ Repeat Echo 
+demonstrated LVEF 25% with extensive systolic dysfunction. He 
+was not on furosemide at home because it had made him very 
+orthostatic. Here, he was diuresed with IV boluses of lasix 
+(___) while holding home antihypertensives. This was 
+complicated by mild orthostatic hypotension which has been a 
+long standing problem related to diabetic neuropathy. Furosemide 
+was not added to his regimen given orthostasis.  He will follow 
+up with his PCP ___ ___ and cardiology on ___. Continued ACE.
+.
+# Aortic Stenosis: Echo in ___ shows mild AS with (valve area 
+1.2-1.9cm2). Repeat echo showed worsening AS with valve area of 
+0.8 cm2 corresponding to Severe Aortic stenosis. He was 
+asymptomatic. Given worsening AS, consideration for AVR was 
+recommended which he will discuss with his cardiologist. 
+.
+# Autonomic neuropathy: Patient is orthostatic at baseline which 
+had limited diuretic therapy in the past. Pt continued on home 
+midodrine and antihypertensives held during diuresis. 
+.
+# R>L peripheral edema: Patient reported that uneven swelling 
+was new for him but ultrasound was negative for DVT.
+.
+INACTIVE ISSUES
+==============
+# CORONARIES: History of moderate 3vd, s/p stents to D1. Pt 
+without active chest pain or ischemic changes on EKG; trop 
+negative x 1. Continued on ASA 81 mg daily and pravastatin 40 mg 
+daily.
+.
+# S/p Renal transplant: Continued on cyclosporine, home 
+Cellcept, prednisone, and Qualaquin prn.  
+.
+# Diabetes mellitus: Continued on home Lantus 26 qAM with 
+Humalog sliding scale.  Also continued on gabapentin for 
+peripheral neuropathy.
+  .  
+# Left facial droop: Patient reports that he has had left facial 
+droop since childhood. Denies history of stroke. Cranial nerve 
+exam is otherwise unremarkable.  
+.  
+TRANSITION OF CARE
+=================
+After discharge:
+- Patient will see PCP for volume status, blood pressure check.
+- He will need evaluation for aortic valve repair
+.
+# Code: DNR/DNI.
+.
+# Emergency contact: ___ ___.
+ 
+Medications on Admission:
+Gabapentin 800 mg Tablet 1 tab qAM, 1 tab q4PM, 3 tabs qhs 
+Cellcept 500 mg BID
+Cyclosporine 100 mg BID
+Rocaltrol 0.25 mcg daily
+Midodrine 5 mg 4 tabs qAM, 3 tabs Qnoon, 2 tabs Qpm
+Qualaquin 324 mg QHS PRN leg cramp
+Lantus 26 mg QHS
+Humalog sliding scale
+Glucosamine 500 mg daily
+Pravastatin 40 mg daily
+Prednisone 5 mg daily
+Aspirin 81 mg daily
+Lisinopril 2 mg daily
+ 
+Discharge Medications:
+1. mycophenolate mofetil 500 mg Tablet Sig: One (1) Tablet PO 
+BID (2 times a day).  
+2. cyclosporine modified 100 mg Capsule Sig: One (1) Capsule PO 
+Q12H (every 12 hours).  
+3. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).  
+4. midodrine 5 mg Tablet Sig: Four (4) Tablet PO QAM (once a day 
+(in the morning)).  
+5. midodrine 5 mg Tablet Sig: Three (3) Tablet PO NOON (At 
+Noon).  
+6. quinine sulfate 324 mg Capsule Sig: One (1) Capsule PO QHS 
+(once a day (at bedtime)) as needed for leg cramp.  
+7. pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+8. prednisone 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+9. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+10. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed for pain.  
+11. insulin lispro  Subcutaneous
+12. insulin glargine  Subcutaneous
+13. gabapentin 400 mg Capsule Sig: Two (2) Capsule PO QAM (once 
+a day (in the morning)).  
+14. gabapentin 400 mg Capsule Sig: Two (2) Capsule PO Q4PM ().  
+15. gabapentin 400 mg Capsule Sig: Four (4) Capsule PO HS (at 
+bedtime).  
+16. fluticasone 50 mcg/Actuation Spray, Suspension Sig: One (1) 
+Spray Nasal BID (2 times a day).  
+17. Glucosamine 500 mg Tablet Sig: One (1) Tablet PO once a day. 
+ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute on chronic congestive heart failure
+Severe Aortic Stenosis
+Orthostatic hypotension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for shortness of breath.  You 
+were given medications to remove excess fluid from your heart 
+and lungs with improvement of your symptoms.  While you were 
+having fluid removed you developed dizziness with standing, 
+which you have had multiple times in the past.  However, your 
+dizziness had resolved prior to your discharge.  Your oxygen 
+levels were within expected normal range on walking and at rest. 
+ 
+.
+You underwent a repeat echocardiogram which showed your known 
+aortic stenosis is worse.  You will need an outpatient 
+evaluation for a possible surgical aortic valve repair.  Please 
+follow up with your cardiologist, Dr. ___ this.
+.
+No changes have been made to your home medications.
+.
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___

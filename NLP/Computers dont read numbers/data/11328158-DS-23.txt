@@ -1,0 +1,358 @@
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with PMH RA, pulmonary fibrosis, HTN, HLD, p/w fever which 
+started this morning. This morning when her daughter was 
+assisting her with her ADLs, she noticed that she was warm with 
+generalized weakness and found her to have a fever to 101. She 
+has been having worsening joint pain in hands and hips/knees, 
+but she denies having any one joint that is worse than the 
+others. She also reports having baseline nasal congestion. 
+Denies rhinorrhea, sore throat, myalgias, headaches, CP/SOB, 
+headache, focal weakness/numbness, dysuria/frequency. No sick 
+contacts. 
+
+Of note the patient did receive influenza vaccine this year as 
+well as pneumovax. In ___, she went to ED and was treated 
+for bronchitis with Zpack. The follow up CXR from that visit did 
+not show evidence of acute pneumonia.
+
+In the ED, initial vitals ___ 16 95% ra 
+Labs notable for WBC of 10.4 with N:86.9 L:9.4 with a Chem7 WNL. 
+Influenza A was sent. The pt underwent a CXR that prelim read 
+showed Grossly similar appearance of diffuse pulmonary fibrosis 
+and bronchiectasis.  Superimposed infection cannot be excluded. 
+She received tamiflu 75mg.
+
+Vitals prior to transfer: 99.6 94 110/50 32 100% 
+
+Currently, the patient reports that she feels feverish, but is 
+denying any muscle aches.
+  
+ROS: +muscle aches, per HPI, denies night sweats, headache, 
+vision changes, rhinorrhea, congestion, sore throat, cough, 
+shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, 
+dysuria, hematuria.
+ 
+Past Medical History:
+CAD s/p MI ___ c/b LV thrombus and CVA, with residual word 
+finding difficulties 
+AF: off Coumadin per cardiologist's request 
+Rheumatoid arthritis  
+HTN  
+GERD  
+Hypothyroidism  
+Hypercholesterolemia  
+ 
+Social History:
+___
+Family History:
+Sister with MI in ___.
+ 
+Physical Exam:
+ADMISSION EXAM:
+===========================
+VS - 98.2 138/58 86 86 22 100% 2L  
+GENERAL - cachectic appearing female in NAD, comfortable, 
+appropriate  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, dry MM, OP clear 
+ 
+NECK - supple, no thyromegaly, no JVD,   
+LUNGS - kyphosis, Scattered expiratory wheezing, resp unlabored, 
+no accessory muscle use  
+HEART - RR +III/VI SEM loudest at LUSB, nl S1-S2  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, 
+DPs), ulnar deviation of hands, R ___ and ___ MCP swollen that 
+as per patient is her baseline. b/l hand deformities consistent 
+with RA  
+SKIN - no rashes or lesions  
+LYMPH - no cervical, axillary, or inguinal LAD  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, DTRs 2+ and 
+symmetric, cerebellar exam intact
+
+DISCHARGE EXAM:
+==========================
+VS - Tm98.6, Tc:97.5, 112/72, 64, 18, 94%RA, small BM yesterday 
+and one large BM this morning   
+GENERAL - cachectic appearing female in NAD, comfortable, 
+appropriate  
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, dry MM, OP clear 
+ 
+NECK - supple, no JVD,   
+LUNGS - kyphosis, ctab, resp unlabored, no accessory muscle use  
+
+HEART - RR +III/VI SEM loudest at LUSB, nl S1-S2  
+ABDOMEN - NABS, soft/NT/ND, no masses or HSM, no 
+rebound/guarding  
+EXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, 
+DPs), ulnar deviation of hands, R and L ___ and ___ MCP swollen 
+that as per patient is her baseline. b/l hand deformities 
+consistent with RA. R malleolus ulcer stable. Sacral ulcer stage 
+II and stable without any purulence or discharge. 
+SKIN - pruritic erythematous, blanching, papular-macular rash on 
+back extending to b/l buttocks, and excoriations along lateral R 
+buttock
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout, DTRs 2+ and 
+symmetric, cerebellar exam intact  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:40AM BLOOD WBC-10.4# RBC-3.68* Hgb-12.0 Hct-37.3 
+MCV-101* MCH-32.6* MCHC-32.2 RDW-14.5 Plt ___
+___ 10:40AM BLOOD Glucose-123* UreaN-22* Creat-0.8 Na-141 
+K-4.1 Cl-103 HCO3-29 AnGap-13
+___ 10:57AM BLOOD Lactate-1.5
+
+MICRO:
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+
+___ URINE URINE CULTURE- NO GROWTH 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+
+___
+   DIRECT INFLUENZA A ANTIGEN TEST (Final ___: 
+      Negative for Influenza A. 
+
+   DIRECT INFLUENZA B ANTIGEN TEST (Final ___: 
+      Negative for Influenza B. 
+___ 11:05 am BLOOD CULTURE
+
+   Blood Culture, Routine (Preliminary): 
+      MICROCOCCUS/STOMATOCOCCUS SPECIES. 
+         Isolated from only one set in the previous five days. 
+         ___ MORPHOLOGIES. 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE. 
+         Isolated from only one set in the previous five days. 
+         SENSITIVITIES PERFORMED ON REQUEST.. 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE COCCI. 
+      IN PAIRS AND CLUSTERS. 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+
+
+IMAGING:
+___ CXR: Grossly similar appearance of diffuse pulmonary 
+fibrosis and bronchiectasis. Superimposed infection cannot be 
+excluded.
+
+___ EKG
+Sinus tachycardia. Baseline artifact. Left ventricular 
+hypertrophy. 
+Non-specific ST-T wave repolarization abnormalities throughout. 
+Compared to the previous tracing of ___ the rate is faster. 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+102 144 82 326/399 13 -9 162 
+
+DISCHARGE LABS:
+___ 07:40AM BLOOD WBC-7.2 RBC-3.45* Hgb-11.4* Hct-35.4* 
+MCV-103* MCH-33.0* MCHC-32.2 RDW-14.4 Plt ___
+___ 10:40AM BLOOD Neuts-86.9* Lymphs-9.5* Monos-2.7 Eos-0.6 
+Baso-0.3
+___ 08:30AM BLOOD Glucose-92 UreaN-22* Creat-0.8 Na-137 
+K-4.2 Cl-99 HCO3-30 AnGap-12
+___ 07:40AM BLOOD Calcium-8.7 Phos-5.4*# Mg-2.0
+___ 08:30AM BLOOD TSH-1.___ y/o F h/o RA on mtx, HTN, HLD who p/w fevers, chills, 
+myalgias.
+
+ACTIVE ISSUES:
+===============================
+# Fever:  As per patient, did receive influenza vaccine and 
+rapid flu test was negative which makes an influenza diagnosis 
+unlikely. CXR was performed in the ED that showed pulmonary 
+fibrosis and bronchiectasis similar to previous but superimposed 
+infection could not be excluded. With the patient receiving 
+methotrexate weekly for her RA, she is immunosuprressed. Blood 
+culture ___ bottle) from ___ grew micrococcus/stomatoccus 
+species which is most likely a contaminant.
+Patient initially started on vancomycin on ___ but 
+discontinued on ___ after blood culture speciated. UA on 
+admission was positive for leuks and 29 WBC but urine culture 
+was contaminated, repeat UA on ___ also with posiive leuks and 
+17 WBC but urine culture was with no growth and patient without 
+any UTI symptoms throughout hospitalization. Stated that her 
+chronic joint pain and swelling was at baseline. Clinically, 
+patient improved and had no further fevers. Her fever on 
+admission is most likely secondary to a viral syndrome that has 
+now resolved. At discharge, she was feeling well with stable 
+vital signs.    
+
+# back rash: began on ___ and very pruritic. Appears 
+macular-papular and extending to her buttocks. Likely secondary 
+to heat rash as patient mostly laying on back throughout the day 
+with significant perspiration. Sarna lotion was applied with 
+good relief. Will need to keep area cooled and dried, and thus 
+will likely improve once ambulation improves with ___ at rehab.  
+
+# stage II sacral ulcer and R medial malleolus ulcer: appears 
+stable without signs of active infection. Daily wound care 
+provided. 
+
+CHRONIC ISSUES:
+==============================
+# a.fib: As per OMR the patient is not anticoagulated as per 
+cardiologists request. She was rate controlled with metoprolol.
+
+# Neck pain/DJD: She was continued on fentanyl patch, vicodin 
+was replaced with oxycodone and tylenol PRN while admitted. 
+Patient did not request oxycodone/tylenol and pain appeared to 
+be well controlled on just the fentanyl patch. Discharged with 
+instructions to only continue the fentanyl patch for pain. 
+
+# RA c/b pulmonary fibrosis: patient weaned off O2 and satting 
+well on RA. Her methotrexate was not given on ___. She will need 
+to restart her weekly methotrexate on ___.
+
+# HTN: She was continued on home captopril.
+
+# HLD: She was continued on home atorvastatin and aspirin
+
+# h/o CVA: She was continued on aspirin 81mg.
+
+# Hypothyroidism: She was continued on her home levothyroxine. 
+TSH was 1.7
+
+# GERD: Since esomeprazole was nonformulary, she was 
+administered omeprazole while in house. Her esomeprazole was 
+continued on discharge.
+
+# Depression: She was continued on her home citalopram.
+
+# Glaucoma: She was continued on her home brimonidine drops.
+
+TRANSITIONAL ISSUES:
+===============================
+-patient did not receive her weekly MTX on ___, please resume 
+MTX on ___
+-please ensure back rash is improving
+-while hospitalized patient's pain was well controlled with only 
+fentanyl patch, she was instructed to discontinue vicodin. 
+Please reassess pain and adjust pain medications as appropriate
+-please f/u with pending blood cultures
+# CONTACT: ___ ___ 
+# FULL CODE
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 80 mg PO DAILY 
+2. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES Q12H 
+3. Captopril 25 mg PO TID 
+hold sbp<100 
+4. Citalopram 20 mg PO DAILY 
+5. esomeprazole magnesium *NF* 40 mg Oral daily 
+6. Fentanyl Patch 50 mcg/h TP Q72H 
+7. FoLIC Acid 1 mg PO DAILY 
+8. Hydrocodone-Acetaminophen (5mg-500mg) 1 TAB PO BID 
+hold for sedation 
+9. Levothyroxine Sodium 50 mcg PO DAILY 
+10. Methotrexate 7.5 mg PO 1X/WEEK (TH) 
+11. Metoprolol Tartrate 12.5 mg PO BID 
+hold for sedation RR<10 
+12. Ascorbic Acid ___ mg PO DAILY 
+13. Aspirin 81 mg PO DAILY 
+14. Calcium 600 *NF* (calcium carbonate) 600 mg (1,500 mg) Oral 
+BID 
+
+ 
+Discharge Medications:
+1. Ascorbic Acid ___ mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO DAILY 
+4. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES Q12H 
+5. Captopril 25 mg PO TID 
+hold sbp<100 
+6. Citalopram 20 mg PO DAILY 
+7. Fentanyl Patch 50 mcg/h TP Q72H 
+8. FoLIC Acid 1 mg PO DAILY 
+9. Levothyroxine Sodium 50 mcg PO DAILY 
+10. Metoprolol Tartrate 12.5 mg PO BID 
+hold for SBP<100 or HR<60 
+11. Calcium 600 *NF* (calcium carbonate) 600 mg (1,500 mg) Oral 
+BID 
+12. Esomeprazole Magnesium *NF* 40 mg ORAL DAILY 
+13. Methotrexate 7.5 mg PO 1X/WEEK (TH) 
+14. Docusate Sodium 100 mg PO BID constipation 
+15. Polyethylene Glycol 17 g PO DAILY 
+16. Sarna Lotion 1 Appl TP QID:PRN itching 
+17. Senna 2 TAB PO DAILY constipation 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: viral syndrome
+
+Secondary: atrial fibrillation, chronic neck pain, rheumatoid 
+arthritis complicated by pulmonary fibrosis, hypertension, 
+hypothyroidism, depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure taking care of you during your stay at ___ 
+___. You were admitted to the 
+hospital because you were having fevers and felt generally weak 
+at home. While here in the hospital, we determined that you did 
+NOT have the flu. We also looked for other types of infections. 
+A Chest Xray did not show pneumonia. Your urine did not show any 
+infection. Your blood grew small amount of a bacteria but it is 
+most likely a contaminant.
+
+You had a rash on your back which improved with ambulation. 
+Please make sure you keep your back dried and prevent sweating 
+around that area. Use sarna lotion as needed for itchiness. We 
+recommend that you use sheets without bleach or dyes in case 
+this was contributing.
+
+You improved clinically even after we discontinued your 
+antibiotics, which means that you likely had a viral infection 
+that cleared. You will need to go to reab to help improve your 
+strength. 
+
+Please make sure you follow up with your primary care physician 
+and your ___. 
+ 
+Followup Instructions:
+___

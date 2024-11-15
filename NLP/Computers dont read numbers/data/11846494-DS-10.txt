@@ -1,0 +1,215 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+captopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left hip pain
+ 
+Major Surgical or Invasive Procedure:
+___: Left hip hemiarthroplasty (press-fit)
+
+ 
+History of Present Illness:
+___ ___ speaking, sustained a trip and fall at 3am
+going to bathroom, landing on L hip. Had immediate pain and
+inability to weightbear on LLE. No HS, no LOC. No pain anywhere
+else. Taken to ___ where workup revealed L 
+femoral
+neck fx. Closed, isolated injury, NVI. Transferred to ___ for
+definitive management. 
+ 
+Past Medical History:
+HTN, HLD, IDDM, GERD, renal cyst (stable), CKD (baseline Cr
+1.6-2.0)
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+VSS, NAD, A&O
+LLE: incision clean/dry/intact
+___ +
+SPN/DPN/S/S/TN SILT
+TP/DP 1+
+ 
+Pertinent Results:
+___ 07:50AM BLOOD WBC-13.0* RBC-3.19* Hgb-9.3* Hct-28.3* 
+MCV-89 MCH-29.2 MCHC-32.9 RDW-13.6 Plt ___
+___ 06:30PM BLOOD Glucose-144* UreaN-36* Creat-1.7* Na-136 
+K-4.2 Cl-104 HCO3-27 AnGap-9
+___ 06:30PM BLOOD Calcium-8.1* Phos-3.8 Mg-1.9
+ 
+Brief Hospital Course:
+The patient presented to the emergency department and was 
+evaluated by the orthopedic surgery team. The patient was found 
+to have a left hip femoral neck fracture and was admitted to the 
+orthopedic surgery service. Medicine was consulted for 
+preoperative clearance and felt that she was safe to proceed 
+with surgery. The patient was taken to the operating room on 
+___ for left hip hemiarthroplasty, which the patient 
+tolerated well (for full details please see the separately 
+dictated operative report). The patient was taken from the OR to 
+the PACU in stable condition and after recovery from anesthesia 
+was transferred to the floor.  The patient was initially given 
+IV fluids and IV pain medications, and progressed to a regular 
+diet and oral medications by POD#1. The patient was given 
+perioperative antibiotics and subcutaneous heparin TID instead 
+of Lovenox for anticoagulation due to her renal impairment. The 
+patient's home medications were continued throughout this 
+hospitalization, except that her mealtime insulin doses (20 
+units Novolog TID) were decreased to account for decreased PO 
+intake post-operatively (10 units Humalog TID) with a sliding 
+scale. She was continued on home dose Lantus. The patient worked 
+with ___ who determined that discharge to rehab was appropriate. 
+The patient did have some increased serosanguinous incisional 
+drainage so an incisional vac was placed on POD#3 and removed on 
+POD#4 as there was no drainage. The hospital course was 
+otherwise unremarkable.
+
+At the time of discharge the patient was afebrile with stable 
+vital signs that were within normal limits, pain was well 
+controlled with oral medications, incisions were 
+clean/dry/intact, and the patient was voiding/moving bowels 
+spontaneously. The patient is WBAT in the left lower extremity, 
+and will be discharged on 2 weeks of TID subcutaneous heparin 
+for DVT prophylaxis. The patient will follow up in two weeks per 
+routine. A thorough discussion was had with the patient's 
+daughter regarding the diagnosis and expected post-discharge 
+course, and all questions were answered prior to discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Glargine 90 Units Bedtime
+Other 20 Units Breakfast
+Other 20 Units Lunch
+Other 20 Units Dinner
+Insulin SC Sliding Scale using Novolog InsulinMax Dose Override 
+Reason: home med
+
+2. Aspirin 81 mg PO DAILY 
+3. Valsartan 160 mg PO BID 
+holf for SBP<100 
+4. Metoprolol Succinate XL 200 mg PO DAILY 
+hold for SBP<110, HR<60 
+5. Amlodipine 10 mg PO DAILY 
+6. TraMADOL (Ultram) 50 mg PO Q6H:PRN pain 
+7. Omeprazole 20 mg PO DAILY 
+8. Furosemide 40 mg PO DAILY 
+hold for SBP<100 
+9. Atorvastatin 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 20 mg PO DAILY 
+4. Furosemide 40 mg PO DAILY 
+5. Glargine 90 Units Bedtime
+Humalog 10 Units Breakfast
+Humalog 10 Units Lunch
+Humalog 10 Units Dinner
+Insulin SC Sliding Scale using HUM InsulinMax Dose Override 
+Reason: home dose
+
+6. Metoprolol Succinate XL 200 mg PO DAILY 
+7. Omeprazole 20 mg PO DAILY 
+8. Valsartan 160 mg PO BID 
+9. Acetaminophen 650 mg PO TID 
+10. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+11. Docusate Sodium 100 mg PO BID 
+12. Milk of Magnesia 30 mL PO Q6H:PRN constipation 
+13. Senna 1 TAB PO BID constipation 
+14. OxycoDONE (Immediate Release)  2.5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 0.5 (One half) tablet(s) by mouth every four 
+(4) hours Disp #*30 Tablet Refills:*0
+15. Glucose Gel 15 g PO PRN hypoglycemia protocol 
+16. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+17. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 
+18. Heparin 5000 UNIT SC TID 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left subcapital femoral neck fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+MEDICATIONS:
+- Please take all medications as prescribed by your physicians 
+at discharge.
+- Continue all home medications unless specifically instructed 
+to stop by your surgeon.
+- Do not drink alcohol, drive a motor vehicle, or operate 
+machinery while taking narcotic pain relievers.
+- Narcotic pain relievers can cause constipation, so you should 
+drink eight 8oz glasses of water daily and take a stool softener 
+(colace) to prevent this side effect.
+
+ANTICOAGULATION:
+- Please take lovenox 40mg daily for 2 weeks
+
+WOUND CARE:
+- You can get the wound wet/take a shower starting 3 days after 
+your surgery.  You may wash gently with soap and water, and pat 
+the incision dry after showering.  
+- No baths or swimming for at least 4 weeks.
+- Any stitches or staples that need to be removed will be taken 
+out at your 2-week follow up appointment.
+- BID dressing changes with dry sterile gauze. Keep incision 
+clean. Dressing should be changed more often if there is 
+significant draining from the wound.
+- No dressing is needed if wound continues to be non-draining.
+
+ACTIVITY AND WEIGHT BEARING:
+- Weight bearing as tolerated
+Physical Therapy:
+Activity:   Activity:  Activity as tolerated Activity:  Ambulate 
+twice daily if patient able
+ Pneumatic boots
+ Left lower extremity:  Full weight bearing
+Encourage turn, cough and deep breathe q2h when awake
+
+Treatments Frequency:
+- You can get the wound wet/take a shower starting 3 days after 
+your surgery.  You may wash gently with soap and water, and pat 
+the incision dry after showering.  
+- No baths or swimming for at least 4 weeks.
+- Daily dry gauze dressing changes.
+- Any stitches or staples should be removed 2-weeks after 
+surgery or at the follow-up appointment, whichever comes first.
+- No dressing is needed if wound continues to be non-draining.
+
+DIABETES MANAGEMENT:
+- The patient's home Lantus dose (90 units daily) was continued 
+while she was in-house. Her mealtime Novolog dose (20 units TID 
+at home) was decreased to 10 units TID post-operatively to 
+accound for decreased PO intake after surgery. If her blood 
+sugars are consistently elevated may increased mealtime dose by 
+___ units per day until blood sugar is improved.
+ 
+Followup Instructions:
+___

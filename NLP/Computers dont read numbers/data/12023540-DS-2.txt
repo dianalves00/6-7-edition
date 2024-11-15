@@ -1,0 +1,627 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin / carvedilol / torsemide / metoprolol
+ 
+Attending: ___
+ 
+Chief Complaint:
+Right hip pain 
+ 
+Major Surgical or Invasive Procedure:
+Right hip ORIF ___
+Midline insertion ___
+
+ 
+History of Present Illness:
+___ male w/ PMH systolic congestive heart failure EF 45%
+(echo ___ at ___), COPD, DM, CKD Stage IV (Baseline creat
+2.5-2.8), CVA ___ (on Plavix, residual L arm weakness)as well 
+as
+an NSTEMI in ___, remote hx partial laryngectomy for throat
+cancer, hx GI bleed who presents with the above fracture s/p
+mechanical fall. He reports he was in his home earlier today 
+when
+he caught his foot on a rug while reaching for a door handle and
+suffered a twisting fall onto his right side. He denies head
+strike. His daughter arrived about 30 min later and found him on
+the ground. He reports he slid himself a little to rest his head
+on the stairs but did not get up. He denies any symptoms of
+dizziness, fatigue, headache prior to the fall. He usually
+ambulates without a cane or walker. He lives in the home with 
+his
+daughter. Did receive ___ a few weeks ago for low Hb and
+platelets. 
+Last took Plavix this morning. 
+ 
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Systolic Congestive Heart Failure EF 45% ___
+Hypothyroidism
+DMII
+Chronic Kidney Disease Stage 4 (Baseline creat 2.5-2.8)
+COPD
+MI
+Throat Cancer s/p resection 
+
+PAST SURGICAL Hx
+s/p partial laryngectomy 1990s
+R elbow surgery
+vasectomy
+tonsillectomy
+skin graft to hand
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+BP 143 / 65 HR 97 RR 18SaO2  93% 2 L NC
+General: Well-appearing male in no acute distress. In C-collar. 
+Right lower extremity:
+- Skin intact
+- Leg resting in flexion and external rotation 
+- Thigh with some swelling laterally but compartments soft 
+- Fires ___
+- SILT S/S/SP/DP/T distributions
+- 2+ DP pulse, WWP
+
+DISCHARGE PHYSICAL EXAM
+___ 0747 Temp: 97.3 PO BP: 145/69 HR: 94 RR: 19 O2 sat: 97%
+O2 delivery: Ra 
+___ Total Output: 1670ml Urine Amt: 1670ml 
+___ Total Intake: 643ml PO Amt: 240ml IV Amt Infused: 403ml 
+
+ (197.51 lb)  ___, last weight 192 lb on ___ 
+General: chronically ill appearing male in no acute distress
+HEENT: sclera anicteric, MM dry, dentures in place
+Lungs: transmitted upper airway sounds diffusely
+CV: regular rhythm, normal S1 + S2, no murmurs  
+Abdomen: distended abdomen, softer than prior, normoactive bowel
+sounds 
+Ext: warm, well perfused
+Neuro: Face grossly symmetric; speech fluent.
+Foley in place draining fruit punch urine, no clots
+
+ 
+Pertinent Results:
+ADMISSION LABS
+=============
+___ 07:35PM BLOOD WBC-11.8* RBC-3.88* Hgb-11.1* Hct-33.7* 
+MCV-87 MCH-28.6 MCHC-32.9 RDW-15.4 RDWSD-48.4* Plt ___
+___ 07:35PM BLOOD Neuts-76.0* Lymphs-6.3* Monos-8.0 
+Eos-8.0* Baso-0.3 Im ___ AbsNeut-8.98* AbsLymp-0.74* 
+AbsMono-0.95* AbsEos-0.94* AbsBaso-0.04
+___ 07:35PM BLOOD ___ PTT-22.3* ___
+___ 07:35PM BLOOD Glucose-182* UreaN-45* Creat-2.3*# Na-144 
+K-4.5 Cl-109* HCO3-20* AnGap-15
+___ 07:35PM BLOOD Calcium-9.7 Phos-3.5 Mg-1.9
+
+NOTABLE LABS
+============
+___ 05:23AM BLOOD ALT-25 AST-78* LD(LDH)-365* AlkPhos-66 
+TotBili-0.5
+___ 07:35PM BLOOD CK-MB-5 cTropnT-0.04*
+___ 04:09AM BLOOD CK-MB-5 cTropnT-0.04*
+___ 10:39AM BLOOD cTropnT-0.06*
+___ 05:05PM BLOOD CK-MB-29* cTropnT-0.09*
+___ 10:52PM BLOOD CK-MB-28* cTropnT-0.12*
+___ 05:23AM BLOOD CK-MB-31* cTropnT-0.21*
+___ 11:44AM BLOOD CK-MB-36* cTropnT-0.29*
+___ 04:55PM BLOOD CK-MB-31* cTropnT-0.37*
+___ 11:12PM BLOOD CK-MB-24* cTropnT-0.40*
+___ 06:01AM BLOOD CK-MB-18* cTropnT-0.49*
+___ 01:20PM BLOOD CK-MB-11* cTropnT-0.46*
+
+DISCHARGE LABS:
+===============
+___ 12:46PM BLOOD WBC-9.4 RBC-2.53* Hgb-7.4* Hct-23.4* 
+MCV-93 MCH-29.2 MCHC-31.6* RDW-17.6* RDWSD-58.7* Plt ___
+___ 06:00AM BLOOD Glucose-131* UreaN-47* Creat-2.0* Na-140 
+K-5.1 Cl-106 HCO3-24 AnGap-10
+___ 06:00AM BLOOD Calcium-8.4 Phos-3.5 Mg-2.1
+
+IMAGING
+=======
+___ Imaging DX PELVIS & FEMUR 
+1.  Postsurgical changes of intramedullary nail fixation for 
+right femoral 
+intertrochanteric fracture without evidence for hardware 
+complication. 
+
+CXR ___
+Compared to chest radiographs ___ through ___. 
+  
+Pulmonary edema has substantially improved, nearly resolved.  
+Consolidation  left lung base probably atelectasis, accompanied 
+by moderate pleural effusion.  Mild cardiomegaly improved.  No 
+pneumothorax. 
+  
+Nasogastric drainage tube passes into the stomach and out of 
+view. 
+
+V/Q Scan ___
+IMPRESSION:  Low likelihood ratio for recent pulmonary embolism.
+
+KUB ___
+Nonobstructive bowel gas pattern.
+The enteric tube tip terminates just distal to the 
+gastroesophageal junction
+and should be advanced if it has to be used for feeding 
+purposes.
+
+CXR ___
+Lungs are low volume with bibasilar atelectasis.  NG tube 
+projects below the left hemidiaphragm.  Cardiomediastinal 
+silhouette is stable.  There are small bilateral effusions.  No 
+pneumothorax is seen.
+
+KUB Supine only ___
+No radiographic evidence of small bowel obstruction or ileus.
+
+TTE ___
+The left atrial volume index is moderately increased. There is 
+no evidence for an atrial septal defect by 2D/ color Doppler. 
+The estimated right atrial pressure is ___ mmHg. There is mild 
+symmetric left ventricular hypertrophy with a normal cavity 
+size. There is moderate regional left ventricular systolic 
+dysfunction with near akinesis of the inferior and inferolateral 
+walls (see schematic) and preserved/normal contractility of the 
+remaining segments. Quantitative biplane left ventricular 
+ejection fraction is 36 %. Left ventricular cardiac index is 
+high (>4.0 L/min/m2). There is no resting left ventricular 
+outflow tract gradient. Normal right ventricular cavity size 
+with normal free wall motion. The aortic sinus diameter is 
+normal for gender with normal ascending aorta diameter for 
+gender. The aortic arch diameter is normal. The aortic valve 
+leaflets (3) are mildly thickened. There is no aortic valve 
+stenosis. There is trace aortic regurgitation. The mitral valve 
+leaflets are mildly thickened with no mitral valve prolapse. 
+There is moderate mitral annular calcification. There is mild 
+[1+] mitral regurgitation. Due to acoustic shadowing, the 
+severity of mitral regurgitation could be UNDERestimated. The 
+tricuspid valve leaflets appear structurally normal. There is 
+physiologic tricuspid regurgitation. The pulmonary artery 
+systolic pressure could not be estimated. There is a trivial 
+pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+mild regional systolic dysfunction most consistent with single 
+vessel coronary artery disease (PDA distribution). Mild mitral 
+regurgitation.
+
+CXR ___
+
+Compared to chest radiograph ___.
+ 
+Mild pulmonary edema is new and pulmonary arteries are not 
+surprisingly more dilated.  Mild cardiomegaly stable.  Pleural 
+effusions small if any.  No pneumothorax.
+ 
+Nasogastric drainage tube is barely visible below the level of 
+the carina, but it probably still enters the stomach.
+
+CXR ___
+Mild pulmonary edema is new, moderate cardiomegaly has 
+increased.  No
+pneumothorax.  Small pleural effusions are likely.  Nasogastric 
+drainage tube
+passes into the stomach and out of view.
+
+KUB ___
+Air distended stomach without evidence of obstruction.  No 
+evidence of
+volvulus.
+
+EKGS ___
+See final interpretations under scanned ECG in OMR 
+
+NCHCT ___
+No acute intracranial process.
+Global volume loss and sequela of chronic small vessel disease.  
+Chronic right
+frontal, right parietal, and left cerebellar infarcts.
+
+CT C SPINE ___. No cervical spine fracture or malalignment.
+2. Diffuse idiopathic skeletal hyperostosis spanning the 
+visualized portion of
+the cervical and upper thoracic spine.  Superimposed 
+ossification of the
+posterior longitudinal ligament resulting at least mild canal 
+narrowing. 
+Additional degenerative changes causing moderate to severe 
+bilateral foraminal
+narrowing as above.
+3. A 1.2 cm hypodense nodule either arising from the posterior 
+aspect of the
+right lobe of the thyroid versus potentially representing a 
+parathyroid
+adenoma.
+ 
+FEMUR XR ___
+There is an acute mildly displaced obliquely oriented 
+intertrochanteric
+fracture of the right femur.  No additional fractures the femur 
+distally.
+
+PELVIS AP ___. Acute mildly displaced possibly comminuted intertrochanteric 
+fracture with
+mild valgus angulation and lateral displacement of distal 
+fracture fragment. 
+No evidence of dislocation.
+2. Mild degenerative changes seen in the left hip, which appears 
+intact.
+ 
+CXR ___. Prominence of pulmonary vasculature without evidence of frank 
+edema.
+2. Mild-to-moderate cardiomegaly.
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man a history of stage IV CKD 
+(baseline creatinine 2.5-2.8), COPD, HTN, HLD, diabetes, status 
+post CVA with residual left arm weakness, history of GI bleed, 
+history of throat cancer status post partial laryngectomy 
+(___), CAD (TTE at ___ akinesis, lateral 
+hypokinesis, no cath/intervention),  HFrEF (EF 45%)  who 
+presented to ___ after a mechanical fall with resultant right 
+proximal femur fracture, and was found to have significant 
+nausea, emesis, demand ischemia, now s/p right hip arthroplasty. 
+Course complicated by SVT, bowel dysmotility, aspiration, 
+dysphagia, and acute on chronic heart failure exacerbation.
+
+===================
+Transitional Issues
+===================
+DISCHARGE WEIGHT:  (197.51 lb) standing ___
+DISCHARGE DIURETIC: 40mg PO lasix
+DISCHARGE Cr: 1.8
+DISCHARGE HGB: 7.1
+NEW CARDIAC MEDICATIONS: diltiazem, Imdur/hydral, changed 
+clonidine po to patch
+
+[] This pt had Hgb 7.1 on discharge in the setting of IMPROVING 
+hematuria. Given his tenuous volume status, his improving 
+hematuria which is likely the cause of his anemia, and the fact 
+that he will restart Procrit on discharge, we elected NOT to 
+transfuse for this value. 
+[] Please obtain CBC on ___ and transfuse for Hgb 6.9 or 
+less
+[] Consider diuresis with blood transfusion
+[] Please attempt to discontinue foley ___, placed during this 
+admission
+[] Please follow weights daily and titrate diuretics as 
+necessary
+[] Please obtain electrolytes within 5 days of discharge
+[] Orthopedics recommends 30 days of DVT prophylaxis post 
+___
+[] Receives Procrit from nephrologist, recommend restarting this 
+medication given his anemia during this admission
+[] Insulin started this admission. Please follow sugars on 
+glipizide and determine if needed
+[] Please continue to titrate antihypertensives
+[] Given concern for atrial fibrillation and attempt to avoid 
+tachyarrhythmia after demand ischemia, diltiazem was initiated. 
+Please evaluate if continuation is necessary
+[] Per cardiology: Consider 30 day event monitor to look for 
+atrial fibrillation. Consider anticoagulation if present.
+[] Had reaction concerning for anaphylaxis to metoprolol. Please 
+ensure allergy listed in medical records. 
+[] Consider podiatry referral as an outpatient per patient 
+request for nail clipping 
+[] Patient may follow up with ENT 2 weeks after discharge. To 
+schedule
+appointment at ___ please call ___. 
+Patient
+may also follow-up with his ENT provider, Dr. ___.
+- Incidental findings on imaging: 
+-- A 1.2 cm hypodense nodule either arising from the posterior 
+aspect of the  right lobe of the thyroid versus potentially 
+representing a parathyroid  adenoma.
+================================== 
+
+# Right hip Fracture. Patient suffered mechanical fall with 
+initial XR hip showing acute mildly displaced obliquely oriented 
+intertrochanteric fracture of the right femur with slight valgus 
+angulation and lateral displacement of distal fracture fragment. 
+He underwent right hip ORIF on ___ after management of NSTEMI, 
+Hypertension and tachycardia as below. Cardiology was consulted 
+for NSTEMI and recommended holding plavix in ___ 
+setting as had been more than ___ year since last cardiac event 
+and indication was secondary prevention in a patient with ASA 
+intolerance. Plavix was resumed. To complete 30 days of DVT 
+prophylaxis. 14 day Xrays showing well-positioned hardware. 
+Staples were removed. Discharged with follow up with 
+orthopedics.
+
+# NSTEMI, Type II. Patient had ECGs obtained in setting of 
+nausea and dyspepsia overnight on ___, with one EKG on ___ 
+at ___levation in the inferior leads in 
+setting of prior infarcts
+with repeat ECG at 450 1:18 AM showing resolution of those ECG 
+changes. Trops and MB rose in setting of nausea, vomiting and 
+elevated BPs/rates with peak MB of 36 and peak trop of 0.49 on 
+___. TTE ___
+showed expected findings with similar WMAs compared to prior at 
+___ ___ with stable EF ___. He remained chest pain 
+free with resolved dyspepsia after management of gastric 
+distension, hypertension and tachycardia and patient was taken 
+to the OR on ___. Home Plavix resumed postoperatively. 
+
+#Hypoxemic respiratory failure:
+Developed postoperatively initially requiring ___ L,. Felt to be 
+multifactorial, due to atelectasis, aspiration without evidence 
+of pneumonia, and acute on chronic heart failure exacerbation. 
+Outpatient records note emphysema, and though not filled, 
+prescribed symbicort in past and he was given duonebs. PE was 
+considered but unlikely given VQ low probability, LENIs negative 
+___. He was weaned to room air and improved with IV diuresis.
+
+# Concern for narcotic induced dysmotility: 
+Patient with significant nausea and emesis that developed early 
+in the morning of ___ with inability to tolerate PO, worsened 
+morphine in ED. KUB ___ showed significant gastric distension 
+with air but with no evidence of volvulus or bowel obstruction. 
+Patient has no distal dilated loops and has bowel gas down to 
+the rectum. Likely delayed gastric emptying and /or gastric 
+atony, in setting of previous morphine administration. 
+Eventually patient began to have bowel movements, NG tube was 
+removed. He was continued on aggressive bowel regimen.
+
+#HFrEF. 
+#ICM
+Last EF ___ on ___ TTE, with WMA likely etiology ischemic 
+cardiomyopathy from prior insults. At least 5L net positive this 
+admission, 5Lb above dry weight from ___ renal appointment. 
+Restarted losartan post-operatively. Given concurrent 
+challenging hypertension, afterload reduction with isosorbide, 
+hydralazine was started which was well-tolerated. He was 
+diuresed and discharged on home diuretic. Please obtain standing 
+weights and titrate diuretics as needed.
+
+# Question Atrial fibrillation with RVR:
+# SVT:
+# Recent demand NSTEMI:
+Patient had uncontrolled hypertension and likely rebound 
+tachycardia initially in admission in setting of inconsistent 
+delivery of home clonidine iso nausea. IV metoprolol controlled 
+BPs and HRs overnight on ___ (with judicious IV fluid for 
+fluid losses for NGT) but pt developed itchy rash and so 
+metoprolol was
+stopped. Began developing AF w/ RVR overnight ___ and 
+persistent ___, triggering for rates in 150s after which 
+time diltiazem was initiated. Cardiology was consulted and 
+recommended continuation of diltiazem. On review of EKGs, tele, 
+rhythm could be consistent with other atrial tachyarrythmia, 
+such as MAT. In this context, potential risks of anticoagulation 
+outweighed benefits. Eventually heart rates were controlled with 
+diltiazem 60mg q8h. Per cardiology, consider anticoagulation in 
+future, repeat 30day monitoring. 
+
+#Hypertension.
+At home on clonidine 0.1mg TID, losartan 100mg. Recently, 
+developed rash to carvedilol in outpatient setting. Pressures 
+were difficult to control. Achieved reasonable control with 
+blood pressures 120-160s/70s with losartan, clonidine patch, 
+hydral, isosorbide, and as below diltiazem. 
+
+#Dysphagia
+#S/P partial laryngectomy
+#Malnutrition
+Patient was noted to be aspiration. Prior to admission, was told 
+would have swallow issues due to history of laryngectomy, but 
+did not have modified diet. Developed posterior arytenoid edema 
+which
+was revealed during initial speech and swallow evaluation of 
+aspiration, thought to be due to intubation, trauma from NG 
+placement, could not rule out betablocker allergy. Silent 
+aspiration on repeat evaluation by speech and swallow after 
+edema improved s/p dexamethasone administration. After extensive 
+risk
+regarding aspiration, including pneumonia, respiratory failure, 
+and death, patient and family decided to po intake and preferred 
+no restriction of consistencies. 
+
+# Anemia, acute on chronic:
+Slow downtrend postoperatively. 7.1 ___ iso fluid 
+administration. Likely contribution from acute illness, 
+operative losses. Transfused 1 U PRBC app ___. On Procrit as 
+outpatient, which should be considered if rehab stay is 
+prolonged. 
+
+#Posterior arytenoid swelling
+#Metoprolol allergy
+In setting of concern for aspiration, speech and swallow 
+conducted fiberoptic FEES exam which revealed  laryngeal edema 
+without friable tissue or appreciable fluid collection. He was 
+then evaluated by ENT who felt the bilateral nature of edema and 
+location possibly due to recent intubation versus NG tube 
+attempts, but could not rule out allergic reaction to 
+metoprolol. He was treated with a short course of dexamethasone 
+and edema improved on serial fiberoptic exam. Patient may follow 
+up with ENT 2 weeks after discharge. Patient may also follow-up 
+with his ENT provider, Dr. ___. 
+
+#Metoprolol allergy:
+Developed severe rash after ___ metoprolol administration, and 
+subsequent aspiration, and was found to have laryngeal edema as 
+above. While trauma is a possible explanation for edema, must 
+note that laryngeal edema occurred after administration to 
+metoprolol, to which he had severe skin reaction, with 
+increasing concern for aspiration in the ___ after 
+administration which was likely due to airway narrowing, raised 
+the question of anaphylaxis. After discussion with ENT, it was 
+determined that it would be difficult to definitely attribute 
+reaction to drug administration, but given degree of reaction 
+and potential consequences, anaphylaxis to metoprolol as 
+allergy. Patient and family were informed of this and cautioned 
+regarding this allergy. 
+
+#Hematuria:
+#Foley:
+Noted ___ after report of tugged foley. No clots, at risk for 
+bleeding on DAPT. Tamsulosin started ___ in anticipation of 
+projected void trial. Please attempt to remove foley ___.
+
+CHRONIC:
+========
+# Gout. Continued home allopurinol ___ mg daily.
+
+# DM II. Held home glipizide while inpatient. Insulin sliding 
+scale with 5U basal used with adequate glycemic control.
+
+# Hypothyroidism. Continued home levothyroxine 25 mcg daily.
+
+# Hx CVA. Patient with residual left arm weakness. Plavix 
+resumed.
+
+>30 minutes spend on patient discharge planning and 
+coordination. Of note family aware of low Hgb and plan to 
+recheck it. We debated risk and benefits of given blood and 
+given relatively asymptomatic, leaned towards restarting Procrit 
+as outpatient or at rehab and monitor Hgb closely (especially 
+given hematuria has significantly improved).
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Clopidogrel 75 mg PO DAILY 
+2. Losartan Potassium 100 mg PO DAILY 
+3. Furosemide 40 mg PO DAILY 
+4. Allopurinol ___ mg PO DAILY 
+5. Levothyroxine Sodium 25 mcg PO DAILY 
+6. CloNIDine 0.1 mg PO TID 
+7. GlipiZIDE 5 mg PO BID 
+8. Pravastatin 80 mg PO QPM 
+9. Gabapentin 300 mg PO QHS 
+10. Ferrous Sulfate 325 mg PO BID 
+11. Ranitidine 150 mg PO QHS 
+12. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H  
+2.  Bisacodyl 10 mg PO/PR DAILY  
+3.  Diltiazem 60 mg PO Q8H  
+4.  Heparin 5000 UNIT SC BID Duration: 30 Days  
+5.  HydrALAZINE 10 mg PO Q6H  
+6.  Glargine 5 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin 
+7.  Isosorbide Dinitrate 10 mg PO TID  
+8.  Polyethylene Glycol 17 g PO BID  
+9.  Senna 17.2 mg PO HS  
+10.  Tamsulosin 0.4 mg PO QHS  
+11.  Clonidine Patch 0.2 mg/24 hr 1 PTCH TD QWED  
+12.  Allopurinol ___ mg PO DAILY  
+13.  Clopidogrel 75 mg PO DAILY  
+14.  Ferrous Sulfate 325 mg PO BID  
+15.  Furosemide 40 mg PO DAILY  
+16.  Gabapentin 300 mg PO QHS  
+17.  GlipiZIDE 5 mg PO BID  
+18.  Levothyroxine Sodium 25 mcg PO DAILY  
+19.  Losartan Potassium 100 mg PO DAILY  
+20.  Pravastatin 80 mg PO QPM  
+21.  Ranitidine 150 mg PO QHS  
+22.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary
+======
+Right hip fracture
+Type 2 Non-ST elevation myocardial infarction
+Hypertension
+SVT
+Narcotic induced bowel hypomotility
+Dysphagia
+Acute on chronic heart failure with reduced ejection fraction
+
+Secondary
+=======
+Gout
+Coronary Artery Disease
+Hypothyroidism
+History of stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+  
+It was a pleasure caring for you at ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted to the hospital after a fall
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were found to have a fracture of your right proximal 
+femur, part of your hip joint
+- You were initially admitted to the surgery service but 
+transferred to the medicine service for management of your 
+medical problems while waiting for surgery
+- Your hip fracture was repaired by the orthopedics team
+- You developed significant nausea, vomiting and abdominal 
+distension on the first day of your hospital stay.  You had a 
+nasogastric tube placed to decompress your stomach until you 
+started to have bowel movements.
+- You had throat swelling. This could have been due to having 
+the breathing tube placed for your surgery. It also could have 
+been due to a medication called metoprolol that was given. 
+Because of this, you should not take metoprolol.
+- You were seen by our ear, nose and throat doctors and treated 
+with medication to help the swelling
+- You had difficulty swallowing. You were seen by our speech and 
+swallow experts. When you swallow, food and liquid goes to your 
+lung. We discussed that if you eat there is a risk of 
+aspirating, which can cause difficulty breathing, pneumonia, and 
+death. However, you are choosing to eat knowing that risk 
+because this is important to your quality of life.
+- You had high blood pressures and fast heart rates as a result 
+of not being able to take your home medications. Your heart 
+rates and blood pressures came under better control with 
+additional medications.
+- You were given medication to get rid of extra fluid
+  
+ WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+ - Please take your medications and go to your follow up 
+appointments as described in this discharge summary.  
+ - Weigh yourself every day. If your weight goes up more than 
+3lbs in one day, call your doctor. You may need an adjustment in 
+your water pill. Your discharge weight is: 197.51 lb
+ - You have an allergy to metoprolol, a beta blocker medication, 
+that causes anaphylaxis. It is extremely important to inform all 
+health care providers about this reaction and avoid this 
+medication.
+ - If you experience any of the danger signs listed below, 
+please call your primary care doctor or go to the emergency 
+department immediately.   
+
+ We wish you the best!  
+
+ Sincerely,  
+ Your ___ Team  
+ 
+Followup Instructions:
+___

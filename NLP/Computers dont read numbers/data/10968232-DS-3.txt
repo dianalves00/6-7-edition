@@ -1,0 +1,275 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness, dizziness, speech difficulties
+ 
+Major Surgical or Invasive Procedure:
+N/A
+ 
+History of Present Illness:
+___ with h/o smoking and HTN, who presented to OSH around noon
+___ with vague feelings of dizziness, headache, and difficulty
+picking up objects (wife was unclear which hand). In ED, he was
+found to have right sided weakness. Per wife, he later developed
+speech difficulties in ED described as difficulty getting words
+out, sounding like "pig latin," paraphasic errors (called keys
+"presents"), and was getting frustrated; his speech seemed to
+improve by 7pm before transfer. Head CT ruled out bleed and he
+was offered tPA but family declined. Brain MRI at OSH revealed a
+small fronto-parietal infarct and he was transferred here for
+further care. 
+
+In the ED after my exam, family and resident were concerned he
+developed worsening aphasia, dysarthria, and tongue deviation.
+These findings were all consistent with my recent exam. A repeat
+head CT was done.
+
+Review of Systems: unable to obtain given aphasia
+ 
+ 
+Past Medical History:
+- GERD
+- HTN
+- HLD
+- shoulder surgery
+
+ 
+Social History:
+___
+Family History:
+- Denies neurologic disease in the family
+
+ 
+Physical Exam:
+Vitals:
+97.7 58 158/64 14 94% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT
+Neck: Supple. 
+Pulmonary: clear to auscultation bilaterally
+Cardiac: RRR, no murmurs
+Abdomen: soft, nondistended
+Extremities: no edema, warm
+Skin: no rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert. Speech non-fluent. Profound anomia - can
+name pen but no objects on stroke card. Difficulty with commands
+of the exam including both midline and appendicular commands.
+Repeats "it's a sunny day in ___ with one paraphasic error
+(funny for ___). Can add 2+2 but not subtract ___. Cannot 
+read.
+Speech is dysarthric, particularly with lingual and gutteral
+sounds.  
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm bilaterally.  Does not reliably blink to
+threat in any quadrant. 
+III, IV, VI: EOMI without nystagmus.  
+V: Facial sensation intact to light touch in all distributions 
+VII: Activates right face less than left. 
+VIII: Hearing intact to voice bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: full strength in trapezii bilaterally.
+XII: Tongue deviates right. 
+ 
+-Motor: Normal bulk, tone throughout. Right pronator drift. No
+tremor noted. Could not cooperate fully with formal testing. 
+ Delt Bic Tri WrE FFl FE  IP Quad Ham TA ___ 
+L  ___   ___  ___   >4  5      >4  
+R  ___  ___  ___   5   5   >4  5      >4 
+ 
+-DTRs: Trace throughout. Toes were downgoing bilaterally.
+
+-Sensory: Cannot comply with formal testing. Withdraws right 
+foot
+to foot tickle more slowly than left foot. 
+
+-Coordination: unable to cooperate 
+
+-Gait: deferred given risk for fall w/new weakness and inability
+to follow commands
+
+LABS:
+136  102  10     AGap=12 
+---I----I----< 139
+3.4  25  0.8  
+
+9.0 > 14.2/39.3 < 177 
+  
+   
+ N:63.4 L:27.4 M:7.0 E:1.6 Bas:0.5 
+
+___: 10.7  PTT: 28.2  INR: 1.0  
+
+IMAGING:
+OSH MRI (my read): Appears to have ___ as well as a
+small left frontal subcortical diffusion abnormalities. Also has
+small vessel disease.
+
+CTA ___ (my read): occluded left carotid
+
+ 
+Pertinent Results:
+CT/CTA, ___: 
+
+1. Evolving acute to early subacute infarct of the left inferior 
+parietal 
+lobe, in the left middle cerebral artery territory.  No acute 
+hemorrhage. 
+2. Near complete occlusion of the left internal carotid artery 
+from its origin 
+through the cavernous segment, with string like flow in the 
+proximal cervical 
+segment and in the petrous segment, and with paraclinoid 
+reconstitution. 
+3. Left middle cerebral artery is widely patent.  There is a 
+mild focal 
+stenosis of the proximal A1 segment of the left anterior 
+cerebral artery, but 
+the remainder of the left anterior cerebral artery is patent. 
+4. Approximately ___ % stenosis of the right proximal internal 
+carotid 
+artery by NASCET criteria. 
+5. Occlusion of the small nondominant cervical vertebral artery 
+from its 
+origin until the level of C5-6, after which it is diminutive in 
+caliber.  This 
+could be secondary to either atherosclerosis or dissection, but 
+the calcified 
+plaque in the expected location of the right vertebral artery 
+origin suggests 
+atherosclerosis. 
+
+ECHO, ___: The left atrium and right atrium are normal in 
+cavity size. No atrial septal defect is seen by 2D or color 
+Doppler. The estimated right atrial pressure is ___ mmHg. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Due to suboptimal 
+technical quality, a focal wall motion abnormality cannot be 
+fully excluded. Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+no mitral valve prolapse. Trivial mitral regurgitation is seen. 
+The pulmonary artery systolic pressure could not be determined. 
+There is no pericardial effusion. 
+
+IMPRESSION: Suboptimal image quality. Normal biventricular 
+regional/global systolic function. No source of cardiac emboli 
+identified on available images.  
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the Stroke Neurology service and 
+monitored closely. A CTA showed complete occlusion of the L ICA 
+and a 75-80% occlusion of the R ICA. He was started on a heparin 
+drip to prevent further strokes with the occlusion in the 
+setting of a slightly fluctuating exam. 
+
+He was kept with the head of the bed flat for the first 24h of 
+his admission here. His exam improved and by the second hospital 
+day, he was able to say some ___ word phrases and sing songs. He 
+still had trouble with naming and with commands. His speech 
+continued to improve and by discharge he was naming most high 
+and low frequency items, had mild deficts in comprehension and 
+some fluctuating issues with orientation. He was quite fluent in 
+his speech and was able to answer all questions. He continued to 
+be quite perseverative during the admission. 
+
+He transitioned converted to coumadin and once he achieved a 
+therapeutic INR (goal ___, his heparin gtt was discontinued. 
+His home antihypertensives and home statin were restarted prior 
+to discharge. 
+
+His workup showed: 
+A1C: 5.8%
+LDL: 46
+HDL: 59
+___: 95
+Total cholesterol: 124
+
+An echocardiogram showed no thrombus or wall motion abnormality. 
+His blood pressure was monitored and his regimen was adjusted as 
+indicated.
+
+Mr. ___ was started on a nicotine patch during his admission. 
+Smoking cessation was strongly encouraged. 
+ 
+Medications on Admission:
+- crestor 20mg daily
+- HCTZ 25mg daily
+- omeprazole
+- quinapril 40mg daily
+- amlodipine 10mg daily
+
+ 
+Discharge Medications:
+1. Rosuvastatin Calcium 20 mg PO QPM 
+2. Omeprazole 20 mg PO DAILY 
+3. Nicotine Patch 14 mg TD DAILY 
+4. Quinapril 40 mg PO DAILY 
+5. Amlodipine 10 mg PO DAILY 
+6. Polyethylene Glycol 17 g PO DAILY 
+7. Warfarin 5 mg PO DAILY16 
+8. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Ischemic Stroke (L MCA)
+Left Carotid Occlusion
+High grade right ICA stenosis
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because of speech difficulties 
+and dizziness you experienced on ___. We found a moderate-sized 
+left sided stroke that explained your symptoms. It was felt the 
+stroke was a result of an occlusion of your left internal 
+carotid artery, which is likely due to your smoking habit, 
+cholesterol intake and blood pressure. 
+
+We kept you on a heparin drip while in the hospital to futher 
+thin your blood to prevent further strokes. You were also 
+started on a medication called coumadin to thin your blood. Your 
+PCP should follow up blood levels regularly. 
+
+It is imperative that you stop smoking on discharge. Continuing 
+smoking could cause another devastating stroke. 
+
+We wish you the best in your recovery. Please do not hesitate to 
+contact us with any questions or concerns. 
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

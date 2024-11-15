@@ -1,0 +1,490 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+levofloxacin
+ 
+Attending: ___
+ 
+___ Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is an ___ gentleman with a history of 
+multiple embolic strokes, nonverbal and wheelchair bound at 
+baseline s/p trach with indwelling suprapubic catheter and 
+G-tube, reported antiphospholipid syndrome, paraoxysmal atrial 
+fibrillation (on therapeutic SC heparin), type 2 DM, COPD, and 
+OSA who presented from rehab to the ED for fever, altered mental 
+status, and concern for seizure.
+
+Patient was recently admitted from ___ to ___ for acute 
+hypoxemic and hypercarbic respiratory failure secondary to 
+pneumonia, pulmonary edema, and central apnea s/p tracheostromy 
+on ___ due to inability to wean from the vent. He was also 
+treated for septic shock secondary to pneumonia and a UTI. 
+During that hospitalization, he was noted to have intermittent 
+rhythmic jerking of right upper extremity/face. EEG showed 
+epileptiform discharges arising from foci at the patient's 
+previously stroke sites. Per neurology, patient was started on 
+Keppra for prophylaxis, but this was discontinued per son's 
+request because he felt it was making him too sleepy. MRI brain 
+was recommended but was not pursued given hypoxia and inability 
+to lie flat. 
+
+Patient presented to the ED today due to one day of fever, 
+dyspnea, worsening secretions, and possible seizures. Per review 
+of rehab records, patient was started on levofloxacin on ___ 
+due to concern for pneumonia. Sputum culture from ___ grew 
+pseudomonas (sensitive to levofloxacin). At some point after 
+starting levofloxacin, antibiotics were switched to cefepime, 
+doxycycline, and Flagyl because of a "grand mal seizure." Per 
+patient's son, he had several episodes of right shoulder 
+twitching and jaw twitching (similar to prior episodes) lasting 
+___ minutes. Rehab staff noted that he has been less responsive 
+to noxious stimuli than usual. Of note, he was previously on the 
+trach mask (not requiring the ventilator aside from pressure 
+support occasionally at night), but he was placed on the 
+ventilator after the "seizure." 
+ 
+In ED initial VS: T 102.6, HR 89, BP 138/65, RR 22, SpO2 98% RA. 
+ 
+Exam: Lethargic, not responsive to noxious stimuli, RRR, abdomen 
+___ and trach in place, erythema of LLE
+Patient was given: IV Vancomycin 1000 mg, Acetaminophen 1000 mg, 
+and NS (250cc?).   
+Imaging notable for: Head CT with no acute intracranial process; 
+CXR improved compared to prior, no focal infiltrate.  
+Consults: Neurology 
+VS prior to transfer: T 101.6, HR 93, BP 170/61, RR 15, SpO2 
+100% on ventilator.
+ 
+On arrival to the MICU, patient is sleepy though is arousable to 
+loud voice. Per son ___, this is his baseline mental status. He 
+has an episode of right arm and jaw twitching during the exam, 
+which ___ confirms is the "seizure activity" he has been having. 
+ 
+ 
+Past Medical History:
+- Embolic CVAs x 2 ___- started Coumadin) with residual 
+L hemiparesis, s/p trach, s/p supraubic catheter, s/p G-tube, 
+wheelchair-bound, non-verbal at baseline  
+- Vascular dementia  
+- Antiphospholipid syndrome
+- Paroxsymal atrial fibrillation (previously on Coumadin, now on 
+SC heparin)
+- Patent foramen ovale (PFO)  
+- DMII
+- OSA, previously on on CPAP
+- COPD  
+- Hypothyroidsim
+- Hyperlipidemia
+- S/p hernia surgery
+ 
+Social History:
+___
+Family History:
+Son with HTN, AF 
+ 
+Physical Exam:
+ADMISSION EXAM:
+================
+VITALS: T 100.3, HR 89, BP 187/72, SpO2 100% FiO2 0.5.
+GENERAL: Lethargic, chronically-ill appearing elderly gentleman, 
+opens eyes to loud voice, NAD, EEG leads in place.  
+HEENT: R pupil 4mm fixed, L pupil 1mm fixed (chronic).
+NECK: Trach in place, JVP 7 cm, no ecchymoses. 
+LUNGS: Diffuse rhonchi anteriorly, no crackles or wheezes.
+CV: RRR, normal S1 and S2, no murmurs. 
+ABD: Soft, nondistended, ___ to epigastrium with intact clean 
+dressing, no erythema or drainage. Suprapubic tube in place.
+EXT: Warm, no edema, 2+ peripheral pulses.
+SKIN: Well demarcated erythema of LLE, not entirely 
+circumferential, no ulcers/erosions, no drainage, not warmer 
+than surrounding skin.
+NEURO: Sleeping, opens eyes to loud voice, does not follow 
+commands.
+Access: L PICC
+
+DISCHARGE EXAM:
+================
+PHYSICAL EXAM:  
+VITALS: T 98, HR 66, BP 127/81, RR 19, SpO2 100% FiO2 0.35 
+GENERAL: Lethargic, chronically-ill appearing elderly gentleman, 
+opens eyes to loud voice, NAD, EEG leads in place.  
+HEENT: R pupil 4mm fixed, L pupil 1mm fixed (chronic).
+NECK: Trach in place, JVP 7 cm, no ecchymoses. 
+LUNGS: Diffuse rhonchi anteriorly, improved, no crackles or 
+wheezes.
+CV: RRR, normal S1 and S2, no murmurs. 
+ABD: Soft, nondistended, ___ to epigastrium with intact clean 
+dressing, no erythema or drainage. Suprapubic tube in place.
+EXT: Warm, no edema, 2+ peripheral pulses.
+SKIN: Improving erythema of LLE, no ulcers/erosions, no 
+drainage.
+Access: L PICC
+NEURO:
+- MS: opens eyes to voice, opens eyes to deep noxious, does not 
+follow commands
+- CN: bilateral postsurgical pupils that do not react, L pupil 
+is
+much smaller than R (suspect postsurgical given shape), winces 
+to
+light in L eye but not right, difficult to assess facial 
+symmetry
+given patient positioning
+- Sensorimotor: moves LUE and LLE to nailbed pressure, does not
+move RUE but when passively moved will keep it in place, unable
+to elicit movement from RLE
+- Coordination: unable to assess
+- Gait: unable to assess
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 03:15PM BLOOD WBC-13.6*# RBC-2.58* Hgb-9.5* Hct-30.5* 
+MCV-118* MCH-36.8* MCHC-31.1* RDW-19.4* RDWSD-83.3* Plt ___
+___ 03:15PM BLOOD Neuts-64.3 ___ Monos-8.5 Eos-0.6* 
+Baso-0.6 Im ___ AbsNeut-8.74*# AbsLymp-3.31 AbsMono-1.16* 
+AbsEos-0.08 AbsBaso-0.08
+___ 03:15PM BLOOD ___ PTT-124.2* ___
+___ 03:15PM BLOOD Glucose-266* UreaN-134* Creat-2.7* 
+Na-151* K-4.1 Cl-114* HCO3-20* AnGap-21*
+___ 08:56PM BLOOD ALT-39 AST-42* LD(LDH)-208 AlkPhos-244* 
+TotBili-0.2
+___ 09:37AM BLOOD CK-MB-4 cTropnT-0.35*
+___ 02:37PM BLOOD CK-MB-5 cTropnT-0.28*
+___ 08:56PM BLOOD Albumin-3.3* Calcium-8.6 Phos-5.0* Mg-2.1
+___ 03:15PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 09:27PM BLOOD Type-ART Temp-39.4 pO2-142* pCO2-46* 
+pH-7.29* calTCO2-23 Base XS--4
+___ 03:28PM BLOOD Lactate-2.7*
+
+DISCHARGE LABS:
+================
+___ 02:11AM BLOOD WBC-7.3 RBC-2.05* Hgb-7.5* Hct-23.8* 
+MCV-116* MCH-36.6* MCHC-31.5* RDW-19.6* RDWSD-83.7* Plt ___
+___ 02:11AM BLOOD Glucose-179* UreaN-84* Creat-1.5* Na-139 
+K-4.6 Cl-114* HCO3-20* AnGap-10
+___ 02:11AM BLOOD Calcium-8.6 Phos-2.8 Mg-1.9
+___ 02:11AM BLOOD Phenyto-15.6
+___ 03:20AM BLOOD ___ pO2-99 pCO2-43 pH-7.26* 
+calTCO2-20* Base XS--7 Comment-GREEN TOP
+___ 02:11AM BLOOD ___ PTT-115.2* ___
+___ 12:00PM BLOOD ___ PTT-39.1* ___
+
+IMAGING:
+=========
+CXR (___):
+IMPRESSION:   
+1. Left PICC line grossly unchanged position at the left 
+brachiocephalic-SVC junction. 
+2. No significant change in mild pulmonary edema or retrocardiac 
+opacity. 
+
+MRI/MRA Brain (___):
+IMPRESSION:   
+1. Chronic infarction in the parafalcine left parietal lobe with 
+pseudolaminar necrosis along its superior aspect.  Apparent 
+diffusion abnormality in the area of pseudolaminar necrosis most 
+likely represents susceptibility artifact, and less likely 
+related to acute infarction, though comparison with prior 
+studies or or follow up MRI in several weeks would be helpful 
+for differentiation. 
+2. Small chronic infarction in the right occipital lobe. 
+3. Chronic microhemorrhage within the right frontal 
+periventricular white 
+matter. 
+4. Extensive global parenchymal volume loss. 
+5. Apparent filling defect at the origin of left internal 
+carotid artery with apparent ___ stenosis by NASCET criteria 
+may represent either 
+atherosclerotic stenosis or an artifact related to the 2D 
+time-of-flight 
+technique. 
+6. Multiple foci of mild narrowing in the intracranial arteries, 
+presumably atherosclerotic, most notable in the left cavernous 
+internal carotid artery, right vertebral artery proximal to the 
+right ___, and in P2 segments of bilateral posterior 
+cerebral arteries.   
+RECOMMENDATION(S):  Follow up MRI in several weeks could help 
+differentiate between susceptibility artifact related to 
+pseudolaminar necrosis versus acute infarction in the left 
+parafalcine parietal lobe. 
+
+Head CT (___):
+FINDINGS:    
+Examination is mildly limited by positioning.  No intracranial 
+hemorrhage, 
+edema or mass effect is seen.  Severe ventriculomegaly appears 
+stable from 
+___.  Bilateral parietal hypodensities appear unchanged 
+suggestive of encephalomalacia.  Periventricular white matter 
+hypodensities are nonspecific but suggestive chronic small 
+vessel ischemic changes, unchanged from prior.  No acute 
+fractures seen.   
+Again seen is mucosal thickening within the paranasal sinuses, 
+slightly 
+increased from prior demonstrating hyperdense content suggesting 
+inspissated or fungal content.  Additionally, there is 
+thickening and sclerosis of the sinus walls suggesting 
+chronicity.  In addition, there is bilateral mastoid 
+opacification with bilateral middle ear opacification also 
+noted.  The orbits are unremarkable.   
+IMPRESSION:   
+1. No CT evidence of acute process on this limited examination. 
+2. Sinus disease and otomastoid opacification as detailed above. 
+
+
+CXR (___):
+IMPRESSION:   
+1. Improving bibasilar opacities suggestive of atelectasis. 
+2. No new focal consolidation. 
+
+EEG (___):
+IMPRESSION: This is an abnormal continuous ICU monitoring study 
+because of 
+generalized slowing of the background, indicative of moderate 
+encephalopathy, which is non-specific with regard to etiology 
+but may be due to toxic-metabolic disturbances or medication. 
+There are no electrographic seizures. There are 3 pushbutton 
+activations for twitching of the right shoulder. There is no 
+electrographic correlate. Compared to the previous day's 
+recording, there are no epileptiform discharges. 
+
+MICROBIOLOGY:
+==============
+___ 11:58 am SPUTUM      Source: Endotracheal. 
+GRAM STAIN (Final ___: 
+___ PMNs and <10 epithelial cells/100X field. 
+2+   ___ per 1000X FIELD):   MULTIPLE ORGANISMS CONSISTENT WITH 
+    
+                                    OROPHARYNGEAL FLORA. 
+
+RESPIRATORY CULTURE (Final ___: 
+SPARSE GROWTH Commensal Respiratory Flora. 
+LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+
+URINE CULTURE (Final ___: 
+YEAST.    10,000-100,000 CFU/mL. 
+
+___: Blood cultures negative
+ 
+Brief Hospital Course:
+Mr. ___ is an ___ gentleman with a history of 
+multiple embolic strokes, nonverbal and wheelchair bound at 
+baseline s/p trach with indwelling suprapubic catheter and 
+G-tube, reported antiphospholipid syndrome, paraoxysmal atrial 
+fibrillation (on therapeutic SC heparin), type 2 DM, COPD, and 
+OSA who presented from rehab to the ED for fever, altered mental 
+status, and concern for seizure.
+
+# Fever:
+# Leukocytosis:
+Initial presentation was concerning for multiple sources of 
+infection including pneumonia (most likely given report of 
+recent pseudomonas in sputum culture and increased secretions, 
+though CXR appeared clear), UTI (urinalysis positive though 
+difficult to interpret in setting of chronic indwelling SP 
+catheter), cellulitis (though rash appeared more consistent with 
+contact dermatitis than infections), and meningitis (much less 
+likely now that mental status did not seem that far off from 
+known baseline). Flu negative. He was treated with antibiotics 
+including Vanc ___, Azithro ___, and Zosyn 
+___, all of which were discontinued after cultures 
+remained negative. Patient remained afebrile and clinically 
+stable after discontinuation of antibiotics. 
+
+# Right shoulder and jaw twitching:
+Initial concern for seizure activity. EEG placed, and movements 
+did not have electric correlation and therefore neurology felt 
+strongly these were not seizures.  However, epileptiform 
+discharges were seen on EEG, as was previously seen on prior 
+studies, possibly from areas of old strokes (an MRI was 
+performed which showed no new stroke or intracranial process). 
+In the past, Keppa prophylaxis was recommended but patient's son 
+declined this as he felt it made him too sleepy.  This time 
+phenytoin therapy was started without incident. Levels were 
+monitored and remained stable.
+ 
+# Hypernatremia: Patient chronically hypernatremic, admitted at 
+151, he was treated with free water flushes to a discharge 
+sodium of 139. He will need 400cc Q3 hours free water flushes, 
+and this can be adjusted based on his Na levels. 
+
+# Chronic renal failure: Cr upon discharge from the hospital was 
+3.3, admitted this time with a Cr of 2.7 and discharged at 1.5.  
+It is still unclear why this ___ developed. Patient had been 
+receiving diuresis at rehab and most recently was on 
+acetazolamide, which is likely explanation for low bicarbonate. 
+We discontinued the acetazolamide and his bicarbonate levels 
+remained stable. We did not use any active diuresis.  
+
+# Antiphospholipid syndrome (per OMR, diagnosis is questionable 
+given negative antibody studies) and embolic strokes s/p trach 
+and ___: Patient was admitted on the ventilator, though this 
+appears to have been prophylactic in the setting of possible 
+seizures. His settings on the ventilator were CMV with RV 480, 
+RR 18, PEEP 5, and FiO2 30%. He was weaned to trach collar 
+exclusively for several days prior to discharge. No ventilator 
+needs.
+
+# Atrial fibrillation:
+# History of embolic stroke:
+Given historically labile INR, heme/onc during last admission 
+recommended treatment dosing of SC heparin. Continued heparin 
+___ UNIT SC BID, though PTT was supratherapeutic on day or 
+discharge so dose was reduced to ___ SC BID. Please continue 
+to monitor PTT and adjust heparin dose in rehab.
+
+Chronic issues:  
+# Type 2 DM: Continued Lantus rather than detemir while 
+inpatient and RISS given tube feeds. 
+# Hypothyroidism: Continued levothyroxine.  
+# Glaucoma: Continued home eye drops.  
+# Hyperlipidemia: Continued pravastatin.   
+
+TRANSITIONAL ISSUES: 
+==================== 
+[] Please check PTT q8h with adjustment in SQ heparin for goal 
+PTT 60-80; dose decreased to ___ units on day of discharge due 
+to supratherapeutic PTT 
+[] Patient has an appointment scheduled with stroke/neuro in ___ 
+months
+[] Patient needs CBC, chem 10 in 1 week 
+[] Patient needs albumin, LFTs, and phenytoin levels every 2 
+weeks; if phenytoin remains stable over several draws with no 
+changes in liver function, can extend to checking once every 
+month (target CORRECTED phenytoin level is ___, correct for 
+albumin)
+[] FYI, becomes hypernatremic, please adjust free water flushes 
+prn
+[] Suprapubic cath exchange q4-6 weeks, consider holding 
+anticoag for one day prior, he will be due for this soon
+[] Discontinued acetazolamide; please do not restart
+[] Patient not requiring vent day or night, only trach collar 
+[]Respiratory at discharge: Trach mask, 10L, 35% FiO2
+# Full code
+# Contact: ___son) ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES QID 
+2. Levothyroxine Sodium 125 mcg PO DAILY 
+3. Pilocarpine 4% 1 DROP LEFT EYE QID 
+4. Bisacodyl 10 mg PO DAILY:PRN constipation 
+5. dorzolamide-timolol (PF) 22.3-6.8 mg/mL ophthalmic TID 
+6. ___ ___ UNIT SC BID 
+7. Senna 8.6 mg PO BID:PRN constipation 
+8. sevelamer CARBONATE 800 mg PO TID 
+9. Ipratropium Bromide Neb 1 NEB IH Q6H 
+10. Levalbuterol Neb 0.63 mg NEB BID SOB/wheeze 
+11. travoprost (benzalkonium) 0.004 % ophthalmic evening 
+12. AcetaZOLamide 250 mg PO Q12H 
+13. MetroNIDAZOLE 500 mg PO QID 
+14. Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain - Mild/Fever 
+15. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using REG Insulin
+16. Miconazole Powder 2% 1 Appl TP BID 
+17. Omeprazole 40 mg PO DAILY 
+18. Pravastatin 20 mg PO QPM 
+19. Saccharomyces boulardii 250 mg oral BID 
+20. CefePIME Dose is Unknown  IV Frequency is Unknown 
+21. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+22. Fluticasone Propionate 110mcg 1 PUFF IH BID 
+23. Detemir 32 Units Bedtime
+24. Melatin (melatonin) 1 mg oral QHS 
+
+ 
+Discharge Medications:
+1.  Phenytoin Infatab 100 mg PO TID  
+2.  ___ ___ UNIT SC BID  
+3.  Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain - Mild/Fever  
+4.  Bisacodyl 10 mg PO DAILY:PRN constipation  
+5.  Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES QID  
+6.  Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID  
+7.  dorzolamide-timolol (PF) 22.3-6.8 mg/mL ophthalmic TID  
+8.  Fluticasone Propionate 110mcg 1 PUFF IH BID  
+9.  Detemir 32 Units Bedtime
+Insulin SC Sliding Scale using REG Insulin 
+10.  Ipratropium Bromide Neb 1 NEB IH Q6H  
+11.  Levalbuterol Neb 0.63 mg NEB BID SOB/wheeze  
+12.  Levothyroxine Sodium 125 mcg PO DAILY  
+13.  Melatin (melatonin) 1 mg oral QHS  
+14.  Miconazole Powder 2% 1 Appl TP BID  
+15.  Omeprazole 40 mg PO DAILY  
+16.  Pilocarpine 4% 1 DROP LEFT EYE QID  
+17.  Pravastatin 20 mg PO QPM  
+18.  Saccharomyces boulardii 250 mg oral BID  
+19.  Senna 8.6 mg PO BID:PRN constipation  
+20.  sevelamer CARBONATE 800 mg PO TID  
+21.  travoprost (benzalkonium) 0.004 % ophthalmic evening  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+----------
+Epileptiform discharges
+
+Secondary: 
+----------
+History of embolic stroke 
+Concern for antiphospholipid syndrome 
+COPD
+OSA
+DM
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic and not arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ for fever and concern for seizures. 
+You were treated with antibiotics for a short time but we 
+determined that you did not likely have an infection and these 
+were stopped. We were concerned that your abnormal movements 
+were from seizure, so we recorded the electrical activity of 
+your brain.  There was no seizure activity with these abnormal 
+movements, but we did find patterns of electrical activity that 
+indicate the potential to have seizure ("epileptiform 
+discharges"), so we started anti-seizure medication. An MRI of 
+your brain did not show any new stroke. You were doing well at 
+discharge, without fever or lab findings suggesting infection. 
+You did not require ventilation over night, just a trach collar. 
+
+
+You will have blood work done after you leave to make sure your 
+blood is thin and that the anti-seizure medication is at the 
+right level. You will have follow-up with a neurologist 
+specializing in strokes in ___ months after you leave the 
+hospital. 
+
+All medication changes are detailed in the discharge summary. 
+
+It was a pleasure taking care of you, 
+The ___ ICU Team
+ 
+Followup Instructions:
+___

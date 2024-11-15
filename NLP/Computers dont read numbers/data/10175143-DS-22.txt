@@ -1,0 +1,361 @@
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Perforated appendix, COPD Exacerbation, Atrial Fibrillation with 
+Rapid Ventricular Response, Pre-existing Leg Ulcers
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with severe COPD (FEV1 1.23L in 
+___, 45%), active tobacco abuse and history of DVT/PE with IVC 
+filter placement as well as possible embolic CVA who was 
+admitted to ___ on ___ with severe RLQ abdominal 
+pain, w/ CT findings concerning for perforated appendicitis with 
+fluid collection.  
+
+Patient was initially treated w/ IV Unasyn 3g q6h and Flagyl 
+500mg IV q8h (day 1= ___ and maintained on her outpatient 
+antihypertensives and COPD treatment. Coumadin was held in light 
+of possible surgery and pt's pain was controlled on q1h PRN 
+Dilaudid. Dr ___ surgeon at ___ planned for 
+percutaneous drainage without surgical intervention for 
+potential developing intra-abdominal abscess. 
+
+Patient improved on ___ hospital day (___) and had decrease in 
+WBC 15-->12. INR decreased from 3 (___) to 1.8 (___). She 
+tolerated clears and low fiber diet. On the night of ___, pain 
+worsened- plan was for open appy in the AM of ___ however, pt 
+developed severe respiratory distress around ___ that AM w/ 
+hypertension (SBP 160), tachycardia (HR 160->Afib RVR) and 
+tachypnea (RR 26) w/ desats to 95% on NRB. ABG at that time was 
+reported as 7.21/ 56/ 93 on NRB. (no prior ABGs for comparison). 
+She was treated w/ back-to-back doses of Duoneb x2, 1 dose of 
+solumedrol and 750mg IV levaquin. CXR revealed bibasilar 
+infiltrates and thought was aspiration when pt was vomiting 
+related to appendicitis. Repeat ABG on 6L NC was 7.32/___.
+
+She was treated w/ Unasyn, Flagyl and Levaquin (d1= ___ to 
+broaden gram-negative coverage. She was transferred to ___ ICU 
+due to her respiratory distress from b/l aspiration pneumonia. 
+
+On arrival, Ms. ___ was hemodynamically stable, c/o slight 
+abdominal discomfort in RLQ, denies nausea/vomiting, difficulty 
+breathing, chest discomfort.
+ 
+Past Medical History:
+- Mitral regurgitation & MVP (EF 60% per TTE ___
+- Paroxysmal atrial fibrillation-back on coumadin
+- Hyperlipidemia
+- Coronary artery disease w/ NSTEMI ___
+- History of CVA in 1980s w/ L-sided hemiparesis
+- DVT/PE (IVC filter placed)-coumadin was held in setting of 
+stroke
+- History of venous stripping on RLE in ___
+- History of R carotid endarterectomy
+- Hypertension
+- OA
+- COPD, (FEV1 1.2L, 45%)
+- Right lower extremity ulcerations
+- Venous insufficiency and bilateral venous stasis ulcers
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+Vitals: afebrile, HR 65 BP 112/66 SaO2 94 %
+GEN: comfortable, NAD 
+HEENT: Sclera anicteric, MMM, oropharynx clear, poor dentition
+Neck: supple, JVP not elevated, no LAD
+Lungs: CTA B/L
+CV: irregularly irregular rate, S1, S2 nl, no appreciable murmur
+Abdomen: +BS, soft, slightly distended. Mild TTP RLQ, no 
+rebound/ no guarding, no TTP LLQ, no Rovsing's sign
+Ext: b/l chronic venous stasis changes, Foot ulcers w/ multiple 
+guaze bandages, 1+ distal pulses, onychyomycosis
+NEURO: A&Ox3
+ 
+Pertinent Results:
+___ 08:26AM BLOOD WBC-9.8 RBC-4.20 Hgb-12.8 Hct-38.9 MCV-93 
+MCH-30.4 MCHC-32.8 RDW-13.6 Plt ___
+___ 07:20AM BLOOD WBC-5.7 RBC-3.89* Hgb-12.1 Hct-36.0 
+MCV-93 MCH-31.2 MCHC-33.7 RDW-13.3 Plt ___
+___ 05:57PM BLOOD WBC-7.1 RBC-3.60* Hgb-11.2* Hct-34.9* 
+MCV-97 MCH-31.0 MCHC-32.0 RDW-13.1 Plt ___
+___ 04:45AM BLOOD Neuts-88.4* Lymphs-6.0* Monos-5.0 Eos-0.5 
+Baso-0.1
+___ 05:57PM BLOOD Neuts-92.5* Lymphs-4.9* Monos-2.3 Eos-0.1 
+Baso-0.2
+___ 06:35AM BLOOD ___ PTT-30.5 ___
+___ 06:35AM BLOOD ___ PTT-26.6 ___
+___ 05:57PM BLOOD ___ PTT-30.2 ___
+___ 08:26AM BLOOD Glucose-97 UreaN-11 Creat-0.8 Na-139 
+K-3.4 Cl-101 HCO3-31 AnGap-10
+___ 07:20AM BLOOD Glucose-146* UreaN-18 Creat-0.7 Na-138 
+K-3.6 Cl-102 HCO3-28 AnGap-12
+___ 05:57PM BLOOD Glucose-134* UreaN-15 Creat-0.8 Na-139 
+K-5.0 Cl-108 HCO3-21* AnGap-15
+___ 04:45AM BLOOD ALT-13 AST-16 LD(LDH)-140 AlkPhos-74 
+Amylase-39 TotBili-0.4
+___ 05:57PM BLOOD ALT-16 AST-17 LD(LDH)-162 AlkPhos-82 
+TotBili-0.4
+___ 04:45AM BLOOD Lipase-28
+___ 04:45AM BLOOD ___
+___ 05:57PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 08:26AM BLOOD Calcium-8.8 Phos-3.1 Mg-1.9
+___ 04:45AM BLOOD Albumin-2.9* Mg-1.8
+___ 05:57PM BLOOD Calcium-8.1* Phos-2.6* Mg-1.8
+
+___ 10:30 am BLOOD CULTURE      Source: Venipuncture. x2
+                            **FINAL REPORT ___
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+CHEST (PORTABLE AP) Study Date of ___ 5:17 ___ 
+Final Report 
+REASON FOR EXAM: Patient with appendicitis in respiratory 
+distress. Assess 
+for aspiration pneumonia. Comparison is made with prior outside 
+study from ___ and the same day earlier in the morning. 
+Interstitial opacities are consistent with mild interstitial 
+edema. Cardiac size is top normal. Bibasilar consolidations 
+larger on the right side have worsened consistent with 
+pneumonia. Small bilateral pleural effusions greater on the 
+right side have increased from prior study. 
+ 
+
+Portable TTE (Complete) Done ___ at 2:38:49 ___      FINAL  
+
+GENERAL COMMENTS: Suboptimal image quality - poor echo windows. 
+Suboptimal image quality - body habitus.  
+Conclusions  
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and global 
+systolic function (LVEF>55%). Due to suboptimal technical 
+quality, a focal wall motion abnormality cannot be fully 
+excluded. Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (3) are mildly thickened 
+but aortic stenosis is not present. No aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. Mild to 
+moderate (___) mitral regurgitation is seen. There is 
+borderline pulmonary artery systolic hypertension. There is an 
+anterior space which most likely represents a prominent fat pad.
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with preserved global biventricular 
+systolic function. Mild-moderate mitral regurgitation. 
+ 
+
+CT PELVIS W/CONTRAST Study Date of ___ 4:35 ___ 
+IMPRESSION: 
+1. Interval improvement in the inflammatory change in the right 
+lower 
+quadrant with development of a cystic lesion at the base of the 
+cecum which is likely an evolving abscess within the cecal wall, 
+now 2.5 cm. There is no drainable fluid collection seen. 
+2. 1.5 cm enhancing mass lower pole right kidney suspicious for 
+renal cell 
+carcinoma. 
+3. New bilateral pleural effusions as well as free fluid in the 
+abdomen, 
+retroperitoneum, and diffuse subcutaneous edema consistent with 
+diffuse third spacing.  
+ 
+
+CHEST (PORTABLE AP) Study Date of ___ 6:13 ___  
+FINDINGS: Comparison is made to previous study from ___.
+There is again seen small bilateral pleural effusions. There is 
+bibasilar 
+consolidation, however, they have improved since the previous 
+study. The 
+degree of interstitial edema has also improved as well since the 
+prior study. 
+ 
+
+ART EXT (REST ONLY) Study Date of ___ 1:14 ___ 
+Final Report 
+ARTERIAL STUDY  
+HISTORY: Nonhealing ulcer (side of symptoms not stated). The ABI 
+on the 
+right is 0.92 and on the left is 1.02. Doppler tracings are 
+triphasic 
+diffusely on the right except at the DP level and diffusely 
+triphasic on the left except at both the ___ and DP levels. The 
+volume recordings are in accord with the Doppler tracings. 
+IMPRESSION: Findings as stated above which indicate bilateral 
+tibial disease, left to a greater extent than the right. The 
+relatively high ABI measurements on the left in light of 
+monophasic waveforms suggest some vessel non-compressibility. 
+ 
+
+ 
+Brief Hospital Course:
+1. Acute Appendicitis
+- The patient was ultimately determined to not need acute 
+surgery, and instead will be treated with antibiotics with a 
+"cool off" period. She was initially treated with vancomycin and 
+zosyn, which was changed over to cipro/flagyl for a 14 day 
+course.
+- Surgery was consulted, and the patient will be following up 
+with Dr. ___ in the future for ultimate surgical therapy.
+- The patient was afebrile, with mild residual RLQ abdominal 
+pain at time of discharge. She was tolerating a full diet.
+
+2. Atrial Fibrillation with Rapid Ventricular Response, Acute 
+Diastolic CHF
+- The patient was transitioned to diltiazem for better rate 
+control
+- Her heart failure resolved with appropriate rate control
+- Telemetry was monitored with no further events
+
+3. Probable Malignant Neoplasm - Kidney
+- Incidental finding on imaging as above
+- Patient urgently referred to Dr. ___ clinic for 
+evaluation. Letter placed in OMR to PCP and Dr. ___ 
+___ informed.
+
+4. COPD with Acute Exacerbation, Bacterial Pneumonia
+- Cipro/flagyl will cover
+- Patient was breathing normally at time of discharge
+- Advair
+
+5. CAD Native Vessle, Stroke Prior with late effects, History of 
+Deep Venous Thrombosis/Pulmonary Embolism
+- Aspirin and coumadin initially held, but this was restarted 
+after surgery was determined ot not be needed
+- Rate controlled
+
+6. Chronic Foot Ulcers (preexisting)
+- ABI were performed as above
+- Wound care consultation was obtained
+- F/U with PCP (letter sent with results)
+ 
+Medications on Admission:
+ASA 81
+toprol 25mg bid-takes only once a day because makes her tired
+simva 10
+coumadin 2mg q day
+xopenex 2 puffs q4prn
+Ca +Vit D BID
+Vit D qd
+mag ox 400mg qd
+Zinc 30mg qd
+MVI
+no other inhalers
+
+ 
+Discharge Medications:
+1. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: 
+One (1) Disk with Device Inhalation BID (2 times a day).
+Disp:*60 Disk with Device(s)* Refills:*0*
+3. Xopenex HFA 45 mcg/Actuation HFA Aerosol Inhaler Sig: Two (2) 
+ Inhalation 2 puffs every ___ hours () as needed for as needed 
+for SOB.  
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+5. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).
+Disp:*30 Cap(s)* Refills:*1*
+6. Diltiazem HCl 120 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO DAILY (Daily).
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+7. Petrolatum     Ointment Sig: One (1) Appl Topical TID (3 
+times a day) as needed for venous stasis bilateral ___.  
+8. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. Coumadin 5 mg Tablet Sig: One (1) Tablet PO once a day: 
+resume your prior dose.  
+10. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 11 days.
+Disp:*22 Tablet(s)* Refills:*0*
+11. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO Q8H 
+(every 8 hours) for 11 days.
+Disp:*2 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute appendicitis with perforation
+afib RVR
+acute diastolic CHF
+Acute aspiration pneumonia
+COPD exacerbation
+nonhealing ___ ulcers
+h/o CVA, embolic
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to ___ with acute appendicitis. There you 
+had difficulty breathing from your COPD, and pneumonia, and your 
+rapid heart rate and were transfered to ___.
+
+Here you improved with antibiotics for your pneumonia and your 
+appendicitis. You were followed by surgeons who reviewed your 
+repeat CT scan and did not feel there was a need for urgent 
+drainage or surgery. You tolerated food well after this.
+ 
+your breathing was stable on the inhalers. You are started on 
+advair and spiriva to help with you COPD. Please try to stop 
+smoking. 
+you have bad leg ulcers. You have some arterial blockages in 
+your legs, and you should follow up with your PCP on this.
+
+Your heart rate was fast due to atrial fibrillation. Your toprol 
+was not covering this well at the doses you were taking. You 
+said higher doses make you tired and they can worsen your COPD. 
+Thus you are switched to a new medication called diltiazem for 
+this. Your coumadin and aspirin were initially held because we 
+were planning surgery. however, these have now been started. 
+Please resume your prior arrangement to monitor your coumadin 
+levels and dosing. 
+
+You will still require surgery, but Dr. ___ will arrange 
+this.
+
+Flagyl:
+You are being discharged on an antibiotic called Metronidazole 
+(Flagyl). This medication interacts very seriously with even 
+tiny quantities of alcohol. You should not drink or eat any food 
+with ANY alcohol in it or uncontrollable vomiting will result. 
+If you use mouthwash that contains alcohol do not use it while 
+on this medication. This medication can also make you sun 
+sensitive, so you should avoid direct sun if possible, or use 
+high SPF+ sunblock even if dark skinned. Finish all this 
+medication even if you feel better.
+
+Cipro:
+You are being discharged on an antibiotic called Ciprofloxacin. 
+This
+medication can weaken your tendons while taking it, so you 
+should avoid strenuous sports or activities. If you feel 
+palpitations in your heart, contact your doctor or go to the 
+Emergency Room. Finish all this medication even if you feel 
+better.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,377 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Nitroglycerin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of nonobstructive hypertrophic cardiomyopathy, 
+PAF s/p PVI and PPM placement for sinus node dysfunction, COPD 
+on home O2 at night, HTN, HLD, and chronic chest pain presents 
+with left sided substernal chest pain, similar to his usual 
+chest pain but progressively worsening and x1 week. Pain has 
+been intermittent and gradually worsening in intensity and 
+duration over last week, woke him up this morning at 1am at 
+intensity of ___, associated with nausea and dizziness. His 
+usual pain lasts minutes-hours ___, starts at rest 
+or with exertion, not worsened by exertion; he does not take 
+anything for pain but lies down until pain goes away on its own. 
+When pain reaches ___, he presents to the ED, which has been 
+happening about every other month. Pain associated with nausea, 
+dizziness, and shortness of breath usually when it gets to be 
+___. Per patient, he had one catheterization with clean 
+coronaries a couple of years ago with no stents placed.  
+.  
+Patient also believes that his pacer has repeatedly shocked him 
+over last couple of days. He does not have an ICD. On further 
+questioning, he has intermittent left arm numbness associated 
+with mild weakness lasting just seconds. He has taken his 
+aspirin and plavix today.  
+.  
+In the ED, initial vitals were: T 97.4 HR 80 BP 157/101 RR 16 
+O2sat100%. He was given morphine 4mg x2 and dilaudid 1mg x1, 
+after which patient was chest pain free. He was also given 500cc 
+NS in the ED. ECG showed A-V pacing at 80. CXR shows pacer in 
+place. Vitals prior to transfer: 98.8 145/91 80 18 99%2L NC.  
+.  
+On the floor patient is chest pain free without complaints. He 
+does not currently have the left arm shooting pain and numbness, 
+which typically only lasts for a few seconds, appears to be 
+related to positioning of arm.  
+.  
+On review of systems, he denies fevers, chills recently; denies 
+current nausea, chest pain, dizziness, shortness of breath, 
+abdominal pain, bowel or bladder symptoms, extremity pain. He 
+notes that he sometimes gets shooting pains down his left leg x 
+years, associated with his lower back problems.  
+
+ 
+Past Medical History:
+(Per OMR, confirmed with patient)
+-hypertrophic nonobstructive cardiomyopathy 
+-chest pain syndrome s/p multiple admissions for chest pain
+-paroxysmal atrial fibrillation 
+       -status post pulmonary vein isolation 
+       -status post ___ implantation for sinus node dysfunction
+       -dual chamber PPM ___ Sigma ___ ___   
+       -status post AV nodal ablation in ___ 
+-history of moderate diastolic dysfunction
+-Hypertension       
+-Dyslipidemia   
+-OSA on CPAP at 15 cmH2O/2L/min O2   
+-Depression w/ h/o suicidal ideation noted in ___  
+    -concern for attempted coumadin overdose in past per OMR 
+-Restless leg syndrome  
+-Anemia of chronic disease and iron deficiency (last ferritin 22 
+in ___
+-Leukocytoclastic vasculitis of unclear etiology 
+-GERD  
+-___- rehab in ___
+-L4-S1 disc herniation/radiculopathy s/p laminectomy  
+-Hemorrhoids s/p banding ___  
+-s/p appendectomy  
+-s/p herniorrhaphy  
+
+ 
+Social History:
+___
+Family History:
+Mother with hypertension, diabetes, and arthritis. Father with 
+diabetes and cancer (colon cancer). Cancer in 2 uncles and aunt 
+on the paternal side. Brother with diabetes who required a leg 
+amputation for complications. Older brother has diabetes. 
+Brother with HIV and cancer. Sister with hypertension.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: T= 97.7 BP= 147/98 HR= 80 RR= 20 O2sat= 98% 2LNC  
+GENERAL: WDWN pleasant gentleman, in NAD. Oriented x3. Mood, 
+affect appropriate.  
+HEENT: NCAT. Sclera anicteric, mildly injected. EOMI. oropharynx 
+clear, dry mucus membranes  
+CARDIAC: Reg Rhythm, normal rate, early systolic murmur loudest 
+at LUSB  
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, with 
+harsh end-expiratory wheezing increased at bases  
+ABDOMEN: Soft, nontender, mildly distended, obese.  
+EXTREMITIES: No c/c/e. 2+ DP pulse on Left, 1+ DP pulse on Right 
+ 
+
+DISCHARGE PHYSICAL EXAM
+VS: Tm98.3, Tc98.0, BP 120s-140s/80s-100s, P80, RR 18, 96/RA  
+GENERAL: WDWN pleasant M, in NAD. AOx3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric, mildly injected. EOMI. oropharynx 
+clear, dry mucus membranes  
+CARDIAC: RRR, No rubs, nl S1, S2, +S4, Grade II/VI holosystolic 
+murmur at apex with no radiation  
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB, no 
+wheezes, rhonchi, crackles noted.  
+ABDOMEN: Soft, nontender, mildly distended, obese.  
+EXTREMITIES: No c/c/e. 2+ DP pulse on Left, 1+ DP pulse on 
+Right, 2+ radials  
+
+ 
+Pertinent Results:
+ADMISSION LABS AND CARDIAC ENZYMES
+___ 02:15AM BLOOD WBC-8.9 RBC-5.12 Hgb-15.4 Hct-43.8 MCV-86 
+MCH-30.1 MCHC-35.3* RDW-13.9 Plt ___
+___ 02:15AM BLOOD Plt ___
+___ 10:20AM BLOOD ___
+___ 02:15AM BLOOD Glucose-122* UreaN-16 Creat-1.5* Na-142 
+K-3.8 Cl-105 HCO3-26 AnGap-15
+___ 02:15AM BLOOD CK(CPK)-168
+___ 10:20AM BLOOD CK(CPK)-138
+___ 07:10PM BLOOD CK(CPK)-129
+___ 02:15AM BLOOD CK-MB-8
+___ 02:15AM BLOOD cTropnT-0.05*
+___ 10:20AM BLOOD CK-MB-8 cTropnT-0.07*
+___ 07:10PM BLOOD CK-MB-7 cTropnT-0.07*
+___ 10:20AM BLOOD Cholest-197
+___ 07:10AM BLOOD Calcium-9.3 Phos-3.4 Mg-1.9
+___ 10:20AM BLOOD Triglyc-289* HDL-35 CHOL/HD-5.6 
+LDLcalc-104
+
+CARDIAC PERFUSION STRESS
+INTERPRETATION:  
+Left ventricular cavity size is moderately to severely enlarged. 
+
+Rest and stress perfusion images reveal a mild, fixed defect at 
+the apex. 
+  
+Gated images reveal reduced global function with an akinetic 
+apex. 
+The calculated left ventricular ejection fraction is 31%. 
+  
+Compared with the study of ___, the fixed apical defect is 
+more apparent. 
+  
+IMPRESSION: Mild, fixed defect at the apex with akinesis at the 
+apex. Global 
+decrease in systolic function with LVEF of 31%. 
+
+STRESS
+INTERPRETATION: This ___ year old man with hypertrophic 
+cardiomyopathy was referred for noninvasive testing because of 
+dyspnea. 
+The patient received a dipyridamole infusion at 0.142 mg/kg/min 
+for four 
+minutes. The patient reported ___ chest pressure beginning at 
+0:45 of 
+recovery that self resolved by 3:00 of recovery. The ST segments 
+are 
+uninterpretable for ischemia in the presence of the paced 
+rhythm. The 
+rhythm was paced, a-v sequential pacing without ectopy. The 
+dipyridamole 
+was reversed with 125 mg IV aminophyline. 
+IMPRESSION: Atypical anginal symptoms with uninterpretable EKG 
+for 
+ischemia. Nuclear report sent separately. 
+
+ECHOCARDIOGRAM ___
+The left atrium is elongated. There is asymmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. Regional left ventricular wall motion is normal. Overall 
+left ventricular systolic function is normal (LVEF>55%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are structurally normal. There is no 
+systolic anterior motion of the mitral valve leaflets. Mild (1+) 
+mitral regurgitation is seen. The pulmonary artery systolic 
+pressure could not be determined. There is no pericardial 
+effusion. 
+
+IMPRESSION: Hypertrophic cardiomyopathy with normal left 
+ventricular systolic function. Mild mitral regurgitation.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ M with HCM, CP syndrome with multiple 
+admission, PAfib s/p PVI s/p PPM implantation s/p AV nodal 
+ablation, HTN, HL, OSA, who p/w chest pain x 1 week here for 
+___.  
+.  
+# Chest pain / CAD  
+Patient has chronic chest pain, and presenting CP is similar 
+though progressing for past week. Appears to be chronic small 
+vessel disease. Troponin mildly elevated at 0.05 but CK and MB 
+flat. Patient also has acute renal failure at this time, likely 
+accounting for mild trop elevation.  He was monitored on tele, 
+had cardiac enzymes x 3 which were significant for troponin of 
+0.05--> 0.07 --> 0.07 in the setting of an elevated Cr. We 
+continued plavix and aspirin.  He went for stress which was 
+largely unchanged from ___ (akinesis of apex with LVEF of 
+31%).  As this LVEF was markedly lower than the previous EF we 
+had from ECHO (which was 60%), he was sent for cardiac 
+catheterization which was negative for any focal occlusions.  A 
+repeat ECHO done on the date of discharge showed a LVEF of >55%. 
+
+His chest pain was not able to be controlled on tylenol, and he 
+eventually became chest pain free with tramadol.  He was 
+discharged with a short course of tramadol to be f/u as an 
+outpt.  
+.  
+# Left arm numbness/shooting pain  
+Patient notes that he has shooting pains lasting only seconds, 
+associated with numbness down his left arm intermittently with 
+after moving around in various positions, unclear which 
+positions. He does have chronic back pain associated with 
+shooting pains down left leg for many years, so he may also have 
+spinal stenosis or arthritis of the cervical spine causing 
+similar symptoms in his arm. Appears neuropathic in nature. 
+Alternatively, he may have compression of nerve root further 
+out. No weakness of muscle, no need for urgent intervention.  We 
+felt outpatient evaluation would be best for him.  Pt was 
+reassured his pacemaker was not shocking him.
+.  
+# Acute Renal Failure  
+Patient had acute renal failure during previous admission up to 
+3.1. He presents today with creatinine 1.5, up from 1.2. He 
+appears dry on exam, likely pre-renal etiology. Recently 1.6 on 
+___.  We trended his Cr over his admission and hydrated him 
+with 2L of NS during his admission.  His Cr returned to 1.1.
+.  
+# Paroxysmal Atrial Fibrillation  
+s/p ablation and pacemaker placement. Patient is A-V paced. 
+Patient believes he was switched from warfarin to clopidogrel 
+for Afib because he failed warfarin therapy and had presented to 
+hospital with very elevated INRs, difficult to control. Per 
+previous OMR note, patient may have overdosed on warfarin 
+intentionally, though he states now that he did not.  We 
+continued his home amiodarone, metoprolol, and verapamil.
+.  
+# Hypertension  
+Patient previously on lisinopril, held starting with last 
+hospitalization because of acute renal failure.  In addition to 
+continuing his metop and verapamil, we started a 5 mg dose of 
+lisinopril as his Cr returned to baseline.
+.  
+# ?COPD  
+Patient doesn't recall having a diagnosis of COPD but it is 
+likely because of his strong tobacco history. He notes that he 
+was previously on inhalers, unsure which ones, but he never got 
+a new prescription and stopped taking them years ago. Harsh 
+end-expiratory wheezing today.  We treated him with 
+ipratoprium/albuterol nebs and this should be discussed in the 
+outpatient setting in terms of his COPD medications.
+.  
+# Chronic Back Pain with Neuropathic Symptoms  
+- continued gabapentin  
+.  
+# Restless Leg Syndrome  
+- continued ropinirole at bedtime  
+.  
+# Depression  
+- continued sertraline  
+.  
+# GERD  
+- continued pantoprazole  
+.  
+# Smoking cessation: patient counseled about smoking cessation  
+- used nicotine patch in house.
+.
+CODE: Full (confirmed with patient)  
+ 
+Medications on Admission:
+1. Ropinirole 0.25 mg Tablet qHS.  
+2. Amiodarone 200 mg Tablet daily  
+3. Aspirin 325 mg Tablet daily  
+4. Ambien 5 mg Tablet QHS  
+5. Clopidogrel 75 mg Tablet daily  
+6. Gabapentin 300 mg Capsule QAM and 600mg QHS  
+7. Lisinopril 20 mg Tablet daily--> STOPPED during last 
+hospitalization in setting of Acute Renal Failure  
+8. Fenofibrate Micronized 48 mg Tablet daily  
+9. Sertraline 50 mg Tablet daily  
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.)daily  
+11. Metoprolol Succinate 200 mg Tablet Sustained Release 24 hr 
+daily  
+12. Verapamil 240 mg Tablet Sustained Release BID  
+
+ 
+Discharge Medications:
+1. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  
+
+4. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Gabapentin 300 mg Capsule Sig: Two (2) Capsule PO at bedtime. 
+ 
+6. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+8. Verapamil 240 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO Q24H (every 24 hours).  
+9. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+10. Ropinirole 0.25 mg Tablet Sig: One (1) Tablet PO at bedtime. 
+ 
+11. Metoprolol Succinate 200 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO once a day.  
+12. Fenofibrate Nanocrystallized 48 mg Tablet Sig: One (1) 
+Tablet PO once a day.  
+13. Tramadol 50 mg Tablet Sig: One (1) Tablet PO three times a 
+day as needed for pain for 7 days.
+Disp:*21 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+chest pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you during your 
+hospitalization. You were admitted to ___ with chest pain. We 
+also noticed that your creatinine (something we measure to check 
+your kidneys) was high. For those reasons, we controlled your 
+chest pain with pain medications and also gave you IV fluids to 
+help bring the creatinine down. We checked your cardiac enzymes 
+which were mildly elevated, thought to be due to your renal 
+function, but within normal limits.  Also, we did a stress test 
+which showed some decreased movement in the apex of your heart, 
+which is similar to the test you had done in ___. We did an 
+ECHO on the day you were discharged which looked normal. 
+Finally, we did a cardiac catheterization, which showed minimal 
+disease in the vessels of your heart.
+
+PLEASE MAKE THE FOLLOWING CHANGES TO YOUR MEDICATIONS:
+1) Start taking lisinopril 5 mg by mouth daily
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+Please follow up with your physicians as scheduled below.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,332 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea and epigastric pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ y/o female with history of HTN, recently 
+diagnosed CHF (details unclear), CAD s/p R CEA, who originally 
+presented to the ___ on ___ with complaints of 
+nausea, epigastric pain, fatigue, and constipation for the 4 
+days prior to presentation. Her last bowel movement was 5 days 
+ago, and she described it as small, hard, and black; patient had 
+also recently taken Pepto-Bismol at home, but it is unclear if 
+it was before or after the bowel movement. Patient reports that 
+her epigastric pain and nausea have improved with Zofran over 
+the last 24 hours. On further review of systems, she endorses no 
+dyspnea, orthopnea, PND, edema, lighthedeadness, overt bleeding, 
+or diarrhea. She does however, report an unintentional 30 lb 
+weight loss over the past ___ year which she has discussed with 
+her PCP. 
+
+At ___, her LFTs, lipase, CXR, and KUB were normal without 
+evidence of obstruction.  She received Zofran with temporary 
+relief of her nausea, but she did have a positive troponin of 
+0.13. Upon transfer to ___ NP observation unit, her 
+repeat troponins were 0.04, 0.04, and 0.03. 
+
+Her diagnosis of CHF is unclear, but OSH records refer to acute 
+systolic HF ___ volume overload from IV fluids. Patient was 
+recently discharged from ___ s/p recovery from a 
+shoulder injury. At some point during hospitalization, she was 
+told that her "heart function was 25%" and that she had had an 
+MI. Of note, patient does have a complicated social situation in 
+which she was recently removed from her home due to hoarding, 
+neglect in adult foster home, and recent suicide attempt 1 month 
+ago with overdose of ___ Percocet pills.
+
+Patient continues to have persistent nausea, although improved, 
+and she is tolerating a clear liquid diet and passing flatus. 
+
+ 
+Past Medical History:
+-Hypertension
+-CHF (new diagnosis per pt-unclear details)
+-Current smoker
+-Breast cancer s/p right mastectomy ___ yrs ago
+-Right shoulder injury 5 weeks ago
+-Recent PNA
+ 
+Social History:
+___
+Family History:
+No family history of premature CAD. Otherwise non-contributory.
+ 
+Physical Exam:
+On admission:
+Vital Signs:98.2, 164/87, 83, 20, 97% 2L NC, Wt: 91 lbs
+General: No acute distress
+Neck supple, JVP not elevated, healed right CEA scar
+CV: RRR, split S1, normal S2, ___ systolic murmur. Pain 
+reproduced with palpation of the epigastrium.
+Lungs: Clear bilaterally
+Ext: No edema, WWP
+GI: Abdomen soft, Mildly tender epigastrium
+
+On discharge:
+VS - Tmax 98.0 Tcurr 98.0 BP 157/80 (119-157/70-80) HR 80 
+(65-80) RR 18 SpO2 95% RA (94-98% RA)
+General: NAD, lying comfortably in bed
+HEENT: Normocephalic, atraumatic, mucous membranes moist
+Neck: Supple, full range of motion, no LAD
+CV: RRR, normal S1 and S2, no murmurs, rubs, or gallops
+Lungs: Clear to auscultation bilaterally, good respiratory 
+effort
+Abdomen: soft, non-distended, minimal tenderness in epigastric 
+region, normoactive bowel sounds
+GU: No CVA or suprapubic tenderness bilaterally
+Ext: No clubbing, cyanosis, or edema; 2+ DP and radial pulses 
+bilaterally
+Neuro: CN II-XII grossly intact, non-focal
+Skin: No rashes or lesions
+ 
+Pertinent Results:
+On admission:
+___ 12:20PM BLOOD WBC-8.9 RBC-4.58 Hgb-13.2 Hct-42.3 MCV-92 
+MCH-28.9 MCHC-31.3 RDW-16.1* Plt ___
+___ 12:20PM BLOOD ___ PTT-37.6* ___
+___ 12:20PM BLOOD Glucose-179* UreaN-24* Creat-0.7 Na-135 
+K-3.7 Cl-102 HCO3-21* AnGap-16
+___ 09:00PM BLOOD ALT-12 AST-18 CK(CPK)-28* AlkPhos-49 
+Amylase-39 TotBili-0.9 DirBili-0.3 IndBili-0.6
+
+___ 12:20PM BLOOD cTropnT-0.04*
+___ 09:00PM BLOOD CK-MB-4 cTropnT-0.04*
+___ 08:10AM BLOOD CK-MB-3 cTropnT-0.03*
+
+On discharge:
+___ 07:30AM BLOOD WBC-7.9 RBC-4.52 Hgb-13.0 Hct-40.8 MCV-90 
+MCH-28.8 MCHC-31.9 RDW-15.6* Plt ___
+___ 07:30AM BLOOD Glucose-85 UreaN-25* Creat-0.8 Na-138 
+K-3.5 Cl-99 HCO3-31 AnGap-12
+___ 07:30AM BLOOD ALT-16 AST-19 AlkPhos-50 TotBili-1.2
+___ 07:30AM BLOOD Calcium-9.7 Phos-2.7 Mg-2.3
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ y/o female with history of HTN, recently 
+diagnosed CHF (details unclear), CAD s/p R CEA, who originally 
+presented with nausea, epigastric pain, and constipation for 5 
+days. She was transferred from ___ for further 
+management. 
+
+#Nausea and epigastric pain: Patient had been having nausea and 
+epigastric pain for a total of 5 days prior to admission. She 
+had a history of overdosing on ___ Percocet tablets 1 month 
+ago. ACS was ruled out with a stable EKG demonstrating old 
+q-waves in the inferior leads, and 3 stable troponins conducted 
+in-house (0.03-0.04). Etiology of her nausea and epigastric pain 
+was not entirely clear. Considerations included occult 
+malignancy (pulmonary nodule noted on X-ray as well as pleural 
+thickening), GERD, gastritis, gastroenteritis, or 
+peptic/duodenal ulcer. The patient tolerated a regular diet upon 
+discharge. She had a minimal requirement for Zofran PRN while 
+in-house, but was placed on Pantoprazole 40 mg PO qday in-house 
+and sent home on the same dose. She was passing flatus, but had 
+not had a bowel movement in 5 days. She was placed on Senna, 
+Colace, Miralax, and was also given Milk of Magnesia x 1. She 
+had a few loose, watery stools on the morning of discharge. She 
+was also continued on her home dose of Dicylomine during this 
+admission.
+
+#Black stools: Patient had reported 1 episode of small quantity 
+black stool. She also reported taking Pepto Bismol around the 
+time of this bowel movement, but it was unclear if she had taken 
+the medication before or after the reported "dark" bowel 
+movement. There was no gross evidence of melenic stools while 
+the patient was in house. She remained hemodynamically stable 
+with stable hematocrit throughout admission, but may benefit 
+from outpatient EGD in the event of recurrence.
+
+#Weight loss: Ms. ___ reported a 30 lb unintentional weight 
+loss for the past year, despite eating significant amount of 
+fatty foods including candy, pies, etc. She may benefit from 
+investigation for underlying malignancy, including age 
+appropriate malignancy screening, in the outpatient setting. It 
+is unclear if GI could be the primary source; however, as 
+mentioned above, the findings of pulmonary nodule and pleural 
+thickening on CXR at OSH, in the setting of a 69 pack-year 
+history are concerning for possible pulmonary malignancy. Also, 
+per patient report, she has never had a colonoscopy or EGD. 
+
+#CAD, Troponinemia and persistent Q-waves on EKG: Patient was 
+ruled out for ACS between her time at ___ and this 
+admission to ___. Troponin I was elevated at OSH to 0.13, Trop 
+T's at ___ 0.03-0.04. Lipid studies were within normal limits. 
+EKG demonstrated q waves in the inferior leads, but was stable 
+from prior EKG on ___. She was continued on her home cardiac 
+medications, including Lisinopril, Furosemide, Aspirin, 
+Metoprolol XL. She remained chest pain free throughout 
+admission.
+
+#HTN: Blood pressures during this admission were within normal 
+limits. Her home medications, including Clonidine, Lisinopril, 
+Metoprolol XL, and Isosorbide Mononitrate, were continued this 
+admission.
+
+#Compensated systolic heart failure: In the setting of report of 
+recent LVEF of 25% under unclear circumstances, she remained 
+without evidence of decompensated heart failure. Her cardiac 
+medications were continued as above. 
+
+#Shortness of breath: Patient did not report any shortness of 
+breath this admission, and also does not carry a formal 
+diagnosis of COPD. Per patient request, she was sent home with a 
+nebulizer machine and nebulizers, which provide symptomatic 
+relief. She is still currently smoking 1 pack per day.
+
+#Depression: Patient was discharged from ___ on 
+Citalopram in late ___. She has an unclear history of previous 
+Olanzapine use. Although the patient did not endorse any current 
+symptoms of depression, SI/HI, her Citalopram was continued in 
+the setting of her recent suicide attempt with Percocet. 
+
+TRANSITIONAL ISSUES:
+- In the setting of smoking history, unexplained 30-lb 
+unintentional weight loss over the past year, incompletely 
+characterized nausea and epigastric pain, and probable right 
+base pleural thicking and possible right lower lobe 1.4-cm 
+pulmonary nodule on outside hospital KUB/CXR, further work-up 
+for systemic illness may be considered in the outpatient 
+setting. 
+- She may benefit from further medication reconciliation in the 
+outpatient setting, given discrepancies among lists provided by 
+the patient, her caretaker, and ___ 
+facility; the preadmission medication list is up-to-date 
+according to discussion with her caretaker. 
+- Citalopram was continued, given recent addition at ___ 
+___ in the context of suicidality.
+- Naproxen was held, given concern for possible peptic ulcer 
+disease causing nausea and epigastric discomfort.
+- Opioids were held, given reports of implication in recent 
+suicidality.
+- Pantoprazole was added to home ranitidine, with improvement in 
+epigastric pain.
+- Patient was discharged on increased bowel regimen. Narcotics 
+can worsen her constipation and abdominal pain, so they were 
+avoided during this admission.
+- A nebulizer machine was obtained and nebulizers prescribed at 
+her request in the setting of presumed COPD, given extensive 
+smoking history.
+- It was not clear if she had been taking a potassium supplement 
+while on furosemide at home and was discharged off potassium 
+supplementation, given normokalemia throughout admission; she 
+may benefit from reevaluation of electrolytes on follow-up with 
+her primary care provider.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Ranitidine 150 mg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+5. cloNIDine HCl 0.1 mg oral daily 
+6. Furosemide 40 mg PO DAILY 
+7. Naproxen 500 mg PO Q12H 
+8. Citalopram 20 mg PO DAILY 
+9. DiCYCLOmine 10 mg PO Frequency is Unknown 
+10. OxycoDONE (Immediate Release)  5 mg PO Q8H:PRN pain 
+11. Diazepam 5 mg PO Frequency is Unknown 
+12. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+daily 
+13. Metoprolol Succinate XL 12.5 mg PO DAILY 
+14. Lisinopril 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Citalopram 20 mg PO DAILY 
+3. DiCYCLOmine 10 mg PO Frequency is Unknown 
+4. Furosemide 40 mg PO DAILY 
+5. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+6. Metoprolol Succinate XL 12.5 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. Ranitidine 150 mg PO DAILY 
+9. Acetaminophen 650 mg PO Q4H:PRN pain 
+10. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN shortness of 
+breath 
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 neb inh/neb four 
+times a day Disp #*120 Nebule Refills:*0
+11. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+12. Milk of Magnesia 30 mL PO Q6H:PRN constipation 
+13. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+14. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 1 powder(s) by 
+mouth once a day Disp #*30 Packet Refills:*0
+15. Senna 17.2 mg PO BID 
+RX *sennosides [senna] 8.6 mg 2 tablets by mouth twice a day 
+Disp #*120 Tablet Refills:*0
+16. cloNIDine HCl 0.1 mg ORAL DAILY 
+17. Lisinopril 10 mg PO DAILY 
+18. Diazepam 5 mg PO Frequency is Unknown 
+Please discuss with your primary care provider whether this 
+medication is needed. 
+19. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN shortness of breath 
+
+RX *ipratropium bromide 0.2 mg/mL  (0.02 %) 1 neb inh/neb four 
+times a day Disp #*120 Nebule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Constipation
+Nausea and abdominal pain of unclear etiology
+
+Secondary:
+Hypertension
+Coronary artery disease
+Compensated systolic heart failure
+Weight loss of unknown etiology
+ 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking part in your care during your admission 
+to ___. You were transferred 
+here from another hospital, where you underwent a series of 
+tests for evaluation of nausea, abdominal pain, and 
+constipation, including an X-ray that did not show a blockage in 
+your bowels. Blood tests in the context of your evaluation were 
+originally concerning for some 
+strain on your heart, and you were transferred here for further 
+care. Subsequent blood testing and a test of your heart's 
+electrical activity (EKG) were reassuring against damage to the 
+heart muscle. The cause of your nausea and belly pain remained 
+unclear, but improved with antinausea medications. You may 
+discuss further evaluation with your primary care doctor in the 
+outpatien setting. You were constipated, so we increased your 
+bowel regimen so that you were able to have a bowel movement. 
+ 
+Followup Instructions:
+___

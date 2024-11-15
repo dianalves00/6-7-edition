@@ -1,0 +1,239 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest tightness
+ 
+Major Surgical or Invasive Procedure:
+___
+Aortic valve replacement with a 25 mm
+___ Epic tissue valve
+
+ 
+History of Present Illness:
+Mr. ___ is a delightful ___ year old man with a history of
+aortic stenosis, asthma, hyperlipidemia, and hypertension. An
+echocardiogram in ___ demonstrated moderate aortic stenosis
+with an aortic valve area of 1.2 cm2. At a recent podiatry
+appointment he reported feeling faint. His blood pressure was
+significantly elevated and he was transferred to the emergency
+department for further evaluation. His troponin was borderline
+and he was referred for cardiac catheterization which revealed 
+no
+flow-limiting coronary artery disease and severe aortic stenosis
+with an aortic valve area of 0.9 cm2. Given this finding he was
+referred to Dr. ___ surgical consultation.
+
+He noted some episodes of chest tightness. He denied syncope,
+dizziness, lightheadedness, shortness of breath, dyspnea on
+exertion, palpitations, orthopnea, paroxysmal nocturnal dyspnea,
+or lower extremity edema. 
+
+ 
+Past Medical History:
+Anxiety
+Aortic Stenosis
+Asthma
+Chronic Low Back Pain
+Colon Polyps
+Fall as a child s/p metal plate in head
+Gastroesophageal Reflux Disease 
+Headaches
+Hearing Loss
+Hyperlipidemia
+Hypertension
+Nerve Injury, left hand following trauma
+Obesity
+Squamous Cell Carcinoma
+ 
+Social History:
+___
+Family History:
+Mother - history of emphysema, died of CHF at age ___
+Father - died at age ___
+Siblings - estranged, sister has diabetes ___ 
+
+ 
+Physical Exam:
+Vital Signs sheet entries for ___: 
+BP: 153/89. HR: 72. O2 Sat%: 98 (RA). RR: 17. Pain Score: 0.
+Height: 68 in    Weight: 200 lbs 
+
+General: Pleasant man, WDWN, NAD
+Skin: Warm, dry, intact
+HEENT: NCAT, PERRLA, EOMI, OP benign 
+Neck:  Supple, full ROM 
+Chest: Lungs clear bilaterally 
+Heart: Regular rate and rhythm, III/VI SEM heard best at LUSB
+Abdomen: Ventral hernia. Well-healed laproscopic incisions.
+Normal BS, soft, non-distended, non-tender 
+Extremities: Warm, well-perfused, trace edema 
+Varicosities: None
+Neuro: Grossly intact 
+Pulses:
+DP           Right: 1+  Left: 1+
+___           Right: 1+  Left: 1+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit: transmitted murmur vs. bruit
+
+ 
+Pertinent Results:
+___ TEE
+Conclusions   
+ There is mild symmetric left ventricular hypertrophy. Regional 
+left ventricular wall motion is normal. Overall left ventricular 
+systolic function is normal (LVEF>55%). Right ventricular 
+chamber size is normal with normal free wall contractility. The 
+ascending, transverse and descending thoracic aorta are normal 
+in diameter and free of atherosclerotic plaque . There is severe 
+aortic valve stenosis (valve area <1.0cm2). No aortic 
+regurgitation is seen. Trivial mitral regurgitation is seen. 
+There is no pericardial effusion. 
+ Post bypass
+ The aortic valve is well seated with no paravalvular 
+regurgitation.The biventricular function is normal The thoracic 
+aorta is intact.The rest of the exm is unchanged   
+.
+
+___ 03:39AM BLOOD WBC-10.7* RBC-3.39* Hgb-10.5* Hct-31.2* 
+MCV-92 MCH-31.0 MCHC-33.7 RDW-13.6 RDWSD-45.9 Plt ___
+___ 11:44AM BLOOD WBC-18.3* RBC-3.09* Hgb-9.7* Hct-28.5* 
+MCV-92 MCH-31.4 MCHC-34.0 RDW-13.2 RDWSD-44.6 Plt ___
+___ 04:07AM BLOOD ___ PTT-26.0 ___
+___ 03:39AM BLOOD Glucose-109* UreaN-11 Creat-0.7 Na-143 
+K-4.5 Cl-108 HCO3-22 AnGap-13
+___ 04:07AM BLOOD Glucose-110* UreaN-14 Creat-0.7 Na-141 
+K-3.8 Cl-103 HCO3-28 AnGap-10
+___ 03:39AM BLOOD Mg-1.8
+ 
+Brief Hospital Course:
+The patient was brought to the Operating Room on ___ where 
+the patient underwent AVR (25mm ___ tissue) with Dr. 
+___.  Overall the patient tolerated the procedure well and 
+post-operatively was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring.  
+ POD 1 found the patient extubated, alert and oriented and 
+breathing comfortably.  The patient was hemodynamically stable.  
+He did demonstrate delirium in the immediate post-op days.  
+Zyprexa was added for agitation with good effect.  Narcotics 
+discontinued. Neurology consulted.  Head CT negative.  Symptoms 
+resolved and he returned to his baseline neuro status prior to 
+discharge. 
+ Beta blocker was initiated and the patient was gently diuresed 
+toward the preoperative weight.  The patient was transferred to 
+the telemetry floor for further recovery.  Chest tubes and 
+pacing wires were discontinued without complication.  The 
+patient was evaluated by the Physical Therapy service for 
+assistance with strength and mobility.  By the time of discharge 
+on POD 4 the patient was ambulating freely, the wound was 
+healing and pain was controlled with oral analgesics.  The 
+patient was discharged home in good condition with appropriate 
+follow up instructions.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+2. DiphenhydrAMINE 50 mg PO Q6H:PRN sinus congestion 
+3. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+4. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+QID:PRN 
+5. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+6. Nefazodone 100 mg PO DAILY 
+7. Omeprazole 20 mg PO DAILY 
+8. Pravastatin 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*1 
+2.  Furosemide 20 mg PO DAILY Duration: 7 Days 
+RX *furosemide 20 mg 1 tablet(s) by mouth daily Disp #*7 Tablet 
+Refills:*0 
+3.  Metoprolol Tartrate 12.5 mg PO TID 
+RX *metoprolol tartrate 25 mg 0.5 (One half) tablet(s) by mouth 
+three times a day Disp #*60 Tablet Refills:*1 
+4.  Potassium Chloride 20 mEq PO DAILY 
+RX *potassium chloride 20 mEq 1 tablet(s) by mouth daily Disp 
+#*7 Tablet Refills:*0 
+5.  Senna 17.2 mg PO DAILY 
+RX *sennosides [senna] 8.6 mg 2 by mouth daily Disp #*30 Tablet 
+Refills:*0 
+6.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild  
+7.  DiphenhydrAMINE 50 mg PO Q6H:PRN sinus congestion  
+8.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+9.  Nefazodone 100 mg PO DAILY  
+10.  Omeprazole 20 mg PO DAILY  
+11.  Pravastatin 40 mg PO QPM  
+12.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+QID:PRN  
+13.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Anxiety
+Aortic Stenosis
+Asthma
+Chronic Low Back Pain
+Colon Polyps
+Fall as a child s/p metal plate in head
+Gastroesophageal Reflux Disease 
+Headaches
+Hearing Loss
+Hyperlipidemia
+Hypertension
+Nerve Injury, left hand following trauma
+Obesity
+Squamous Cell Carcinoma 
+Past Surgical History:
+___ Procedure
+Tranverse Colectomy and Umbilical Hernia Repair ___
+
+ 
+Discharge Condition:
+Alert and oriented x3, non-focal
+ Ambulating, gait steady
+ Sternal pain managed with oral analgesics
+ Sternal Incision - healing well, no erythema or drainage
+
+Edema- trace
+
+ 
+Discharge Instructions:
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily
+ Please - NO lotion, cream, powder or ointment to incisions
+ Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+ No driving for approximately one month and while taking 
+narcotics
+
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+ No lifting more than 10 pounds for 10 weeks
+ **Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

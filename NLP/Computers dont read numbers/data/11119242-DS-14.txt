@@ -1,0 +1,309 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ w/metastatic pancreatic cancer, COPD, Afib presents with 
+increasing SOB. Pt reports having SOB since PNA in ___, 
+however has been progressive and now with orthopnea. He has 
+noticed increased swelling in the lower extremities, decreased 
+urination, dark urine, nonproductive cough. Reports LUQ pain 
+which is worse with coughing. He denies fever, chills, pluertic 
+chest pain, DOE, chest pain. Pt was recently started on po 
+lasix. Also was given a nebulizer treatment (his daughter's 
+albuterol) with symptomatic improvement.
+
+In ED pt given vanc/cefepime. BNP 2363. Given 40mg IV lasix. On 
+arrival to floor family reports pt has been urinating a lot 
+since lasix and breathing is much improved.
+
+ROS: +as above, otherwise reviewed and negative
+ 
+Past Medical History:
+-atrial fibrillation s/p DCCV on Pradaxa
+-Hypertension
+-Hyperlipidemia
+-COPD
+Pertinent Oncologic history:
+-Diagnosed ___ 3.9 cm moderately differentiated 
+adenocarcinoma
+of the pancreatic head with ___ nodes involved with clean
+margins. LVI + , PNI + (pT3N1)
+-s/p Whipple ___ by Dr ___.  
+-Post op course complicated by a-fib with rapid ventricular 
+rate, s/p DCCV
+-Post-op infection D8 treated with Levaquin. 
+-Adjuvant treatment: 6 months of Gemzar total with RT and
+concurrent CI ___ in a sandwich approach after 2 cycles.
+-Started ___ protocol ___ with Gem/Abraxane +/- PEGPH20 
+(PEGylated Recombinant Human Hyaluronidase) and randomized to 
+PEG arm      
+ 
+Social History:
+___
+Family History:
+brother with lung cancer, no history GI cancer
+
+ 
+Physical Exam:
+Vitals: T:98.6 BP:127/63 P:89 R:24 O2:100% RA 
+PAIN: 0
+General: nad
+EYES: anicteric
+Lungs: good air entry b/l, no C/W/R
+CV: ___ no m/r/g
+Abdomen: bowel sounds present, soft, distendned, minimally 
+tender LUQ, multiple bruises
+Ext: WWP, no edema
+Skin: no rash
+Neuro: alert, follows commands
+
+ 
+Pertinent Results:
+___ 06:20PM   GLUCOSE-151* UREA N-9 CREAT-0.7 SODIUM-132* 
+POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-23 ANION GAP-15
+___ 06:20PM   CALCIUM-7.8* PHOSPHATE-2.5* MAGNESIUM-2.0
+___ 06:20PM   proBNP-2363*
+___ 06:20PM   WBC-3.3* RBC-3.23* HGB-7.8* HCT-25.8* MCV-80* 
+MCH-24.3* MCHC-30.4* RDW-20.5*
+___ 06:20PM   NEUTS-64 BANDS-0 LYMPHS-15* MONOS-15* EOS-1 
+BASOS-1 ATYPS-2* METAS-2* MYELOS-0
+___ 06:20PM   HYPOCHROM-1+ ANISOCYT-2+ POIKILOCY-3+ 
+MACROCYT-NORMAL MICROCYT-2+ POLYCHROM-1+ OVALOCYT-2+ TEARDROP-1+ 
+BITE-OCCASIONAL
+___ 06:20PM   PLT SMR-NORMAL PLT COUNT-176#
+___ 06:20PM   ___ PTT-37.8* ___
+
+ 
+CXR ___ IMPRESSION:  
+Low lung volumes and probable small bilateral pleural effusions. 
+
+Mild pulmonary edema. 
+Patchy right base opacity may be due to combination of pleural 
+effusion and pulmonary edema, although infectious process is not 
+excluded in the appropriate clinical setting. 
+
+Echo ___ Right ventricular chamber size and free wall motion 
+are normal. The aortic valve leaflets (?#) appear structurally 
+normal with good leaflet excursion. There is no aortic valve 
+stenosis. No aortic regurgitation is seen. The mitral valve 
+leaflets are structurally normal. Mild to moderate (___) mitral 
+regurgitation is seen. [Due to acoustic shadowing, the severity 
+of mitral regurgitation may be significantly UNDERestimated.] 
+There is mild pulmonary artery systolic hypertension. There is 
+no pericardial effusion. 
+
+IMPRESSION: Biatrial enlargment. Preserved biventricular 
+systolic function. Mild to moderate mitral and tricuspid 
+regurgitation. Mild pulmonary artery systolic hypertension.
+ 
+Brief Hospital Course:
+___ w/ Afib, HTN, DL, COPD, pancreatic cancer s/p Whipple 
+___,
+developed mets to lung, nodes, and liver, now mets stable on
+treatment protocol ___ with Gem/Abraxane + PEGPH20 (PEGylated
+Recombinant Human Hyaluronidase) who p/w progressive SOB.
+
+#SOB
+Considering his rapid improvement in symptoms of dyspnea, cough,
+and anasarca with diuresis overnight, etiology likely due to
+fluid overload. TTE days prior to admit revealed mild-mod MR and 
+do
+not suspect this is the etiology as LVEF and thickness normal.
+EKG and trop non-ischemic. LFTs and Renal function wnl. Culprit
+likely gemcitabine. Pt diuresed over 10L Urine on 40 IV Lasix x 
+2 on admit.
+On ___, he was transitioned to 40 PO BID and he net negative 2L 
+with 
+stable Bun/Cr. His edema had entirely resolved and he was 
+feeling 98%
+back to his baseline per his report. BNP improved from 2363 to 
+976 day prior to d/c.
+
+-- cont 40 mg PO Lasix at 8 am and 1 pm (to be adjusted by Dr 
+___
+-- holding off on abx for now unless febrile/leukocytosis (never 
+febrile inhouse)
+-- repeat BNP as outpatient if needed to help guide lasix dosing
+-- PFTs as outpatient for new dx of COPD seen on CXR
+-- TEDS but pt refuses to wear
+-- cont ___ elevation when resting
+-- ___ to help with lasix dosing at home 
+-- gave pt instructions on to when to give extra lasix in am
+
+#Microcytic anemia
+This is new as of ___. Ferritin 78. Iron 26. Transferrin 290.
+TIBC 377. Iron Sat 6.8%. ? due to Whipple's. Received 125 mg IV 
+___
+-- guaiac stool was negative
+-- primary heme/onc team to decide on po vs IV iron supplement 
+as outpatient
+
+#Pancreatic Cancer, Metastatic 
+Will continue chemo per Dr. ___ with lasix ___ to 
+help with SE of 
+anasarca
+-- cont Enoxaparin 80 mg SC BID per protocol
+
+#Afib
+HR was in ___ most of the hospitalization. However due to 
+soft BP in low ___, we changed his metoprolol 375 to 87.5 q6 and 
+still had to hold doses. We changed him to 300 mg XL qhs and 
+next am his SBP was 110s and HR ___. 
+-- cont verapamil 40 qam
+-- cont dig 0.25 (dig level 1.1)
+-- changed metoprolol 350 to 300 mg qhs 
+-- ___ to help monitor vitals at home
+
+#Steroid Induced Diabetes
+-- cont home insulin w/ adequate control inpatient
+
+#GERD
+-- cont omeprazole
+
+#Hyponatremia
+Resolved and improved w/ diuresis
+
+FEN: Diabetic 2gm salt restricted diet
+DVT PROPHYLAXIS: lovenox BID
+ACCESS: PORT
+CODE STATUS: Full, confirmed on admission
+HCP: ___
+Phone ___
+DISPO: Home with ___
+BILLING: >30 min were spent coordinating care for discharge
+______________
+___, D.O.
+Heme/Onc Hospitalist
+___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Creon ___ CAP PO TID W/MEALS 
+2. Digoxin 0.25 mg PO DAILY 
+3. Omeprazole 20 mg PO BID 
+4. Verapamil 40 mg PO Q24H 
+5. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 
+6. Dexamethasone 8 mg PO 1X/WEEK (MO) 
+7. Enoxaparin Sodium 80 mg SC Q12H 
+8. Metoprolol Succinate XL 350 mg PO QPM 
+9. Cyclobenzaprine 5 mg PO TID:PRN pain/muscle cramps 
+10. Furosemide 40 mg PO DAILY 
+11. Cetirizine 10 mg PO DAILY 
+12. levemir 6 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1. Cetirizine 10 mg PO DAILY 
+2. Creon ___ CAP PO TID W/MEALS 
+3. Cyclobenzaprine 5 mg PO TID:PRN pain/muscle cramps 
+4. Digoxin 0.25 mg PO DAILY 
+5. Furosemide 40 mg PO BID 
+RX *furosemide 20 mg 2 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0
+6. Glargine 6 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+7. Metoprolol Succinate XL 300 mg PO QHS 
+RX *metoprolol succinate 100 mg 3 tablet(s) by mouth at bedtime 
+Disp #*90 Tablet Refills:*0
+8. Omeprazole 20 mg PO BID 
+9. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 
+10. Dexamethasone 8 mg PO 1X/WEEK (MO) 
+11. Enoxaparin Sodium 80 mg SC Q12H 
+12. Verapamil 40 mg PO Q24H 
+13. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob or wheezing 
+RX *albuterol sulfate 90 mcg 2 puff po q4h prn Disp #*1 Inhaler 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Non-cardiogenic Pulmonary Edema
+Anasarca
+Metastatic Pancreatic Cancer
+Microcytic Anemia
+Atrial Fibrillation
+Steroid Induced Diabetes
+GERD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure taking care of you in the hospital. You were 
+admitted because you were having trouble breathing. This was 
+because you were experiencing a side effect from the chemo that 
+causes you to have a lot of fluid build up. You improved 
+dramatically with IV Lasix. You will continue to take Lasix at 
+home and Dr. ___ will help you adjust this dose. 
+
+___ Dr. ___ if:
+-- your arms and legs start getting puffy
+-- you start to have a cough 
+-- if any fevers or chills
+-- if you start having some SOB
+
+Come to the ER if you:
+-- have severe shortness of breath
+-- if you have chest pain
+
+Your ___ at home will help you:
+-- check your vital signs, including blood pressure and heart 
+rate
+-- make sure you are taking your meds as needed
+-- listen to your lungs and assess your weight
+-- also will help adjust your lasix dose with Dr. ___ 
+-- make any other recommendations as needed
+
+___ Dr ___ your PCP (his line was not working when I called him)
+-- make a f/u appointment with him
+-- put in a referral for obtaining Pulmonary Function Tests at 
+___ to see if you have emphysema
+
+To monitor your own fluid status:
+1) Weigh yourself daily
+2) Weigh yourself at the same time every day  before breakfast 
+is best.
+3) Use the same scale all the time
+4) Wear the same amount of clothes when you weigh yourself
+5) Empty your bladder before weighing
+6) Record your weight on a daily record
+7) The weight at which there is just a little bit of swelling in 
+the ankles at the end of the day is your ideal weight-try
+and maintain it
+8) When taking diuretics avoid drinking too much in the way of 
+fluids but check in with Dr. ___ you are getting chemo
+9) You should drink no more than 3000 ml of fluid per day
+10) If your weight goes up by more than ___ pounds (1.0 kg) in 
+one day or by 5 pounds (2.5 kg) over a week, take an extra dose 
+of 40 mg in the morning and ___ your doctor. 
+ 
+Followup Instructions:
+___

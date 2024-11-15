@@ -1,0 +1,390 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ativan / iodine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain, anorexia
+ 
+Major Surgical or Invasive Procedure:
+Paracentesis
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with history of newly diagnosed alcoholic 
+cirrhosis, alcoholic hepatitis (discharged on ___ treated with 
+steroids, and pneumonia presenting with diffuse abdominal pain 
+and anorexia x ___ days  
+Pt states that after discharge on ___, he completed his ABX as 
+instructed on ___ and took all his medications as he was told. 
+He says that when he left the hospital, he had a good appetite 
+but over the past ___ days, he has had no appetite, has been 
+losing weight, and feeling fatigued. He says that he gets short 
+of breath with walking short distances and walking up the 
+stairs. He thinks his muscles in the extremities are wasting and 
+he has no strength. He also started having diffuse abdominal 
+pain, worst in the RUQ area, x5-6 days. He says that the pain is 
+___ with no pain mediation. Endorses chills but no cough, 
+fever, nausea or vomiting. He says that he has about 3 BM's a 
+day on lactulose. Recalls some black stools. He has had labs 
+drawn most recently on ___ by his PCP and he was told that 
+everything was heading in the right direction. His son has been 
+coughing with a mild fever. He believes his abdomen has remained 
+about the same size since discharge. While waiting in ED, his 
+wife noticed a rash on his anterior arms b/l as well as his 
+abdomen and back. It is non-tender and non-pruritic.  
+In the ED, initial vitals were: 99.1 101 124/79 16 100% RA.  
+- Labs were significant for normal chem7, ALT 56 (<-99), AST 96 
+(<-160), AP 129, Tbili 7.2 (<-10.6), albumin 3.4, INR 1.7, WBC 
+16.6 (down from 35.1), H&H stable at 10.9/32.3, UA with few 
+bacteria otherwise unremarkable.  
+- Imaging revealed: RUQ US with no acute abnormalities. CT A/P 
+notable for fluid-filled nondilated small bowel suggestive of 
+gastroenteritis.  
+- The patient was given dilaudid 0.5mg IV x2.  
+Vitals prior to transfer were: 98.4 88 120/77 14 99% RA.  
+He was evaluated by hepatology in ED and recommended full 
+infectious work up as well as imaging.  
+Bedside US did not show ascites pocket that would be tappable.  
+Rectal exam normal with guaiac negative stool.  
+Upon arrival to the floor, VS are 98.4 128/80 90 18 96% on RA. 
+Pt reports diffuse abodminal pain that is more severe in the 
+RUQ. He expresses thirst and states that he had a ___ 
+sandwich in ED which he tolerated well. He denies any urinary 
+symptoms.
+ 
+Past Medical History:
+Multiple surgeries for pectus excavatum
+Surgery for "drooping eyelid"
+ 
+Social History:
+___
+Family History:
+Mother has MS ___ has ___
+Uncle has unknown liver pathology
+ 
+Physical Exam:
+Admission
+==========
+Vitals: 98.4 128/80 90 18 96% on RA  
+weight 61.2 kg  
+skin: maculopapular rash along anterior forearms b/l and abdomen 
+(not chest) and back starting from below scapula to the lower 
+back. no rash in the ___.  
+General: Alert, oriented, no acute distress. no asterixis. 
+mental status with good attention and memory  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, TTP diffusely but mostly in the RUQ/RLQ area, 
+distended, bowel sounds present, HSM, no rebound or guarding, no 
+fluid wave, tympanic on percussion  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.  
+
+Discharge
+===========
+Vitals: 99.4, 110s-120s/70s, 99-105, 18, 100%RA
+Skin: improving maculopapular rash along anterior forearms b/l, 
+on abdomen (not chest) and back starting from below scapula to 
+the lower back. Chronic healing excoriations on shins 
+bilaterally. 
+General: Alert, oriented, no acute distress. no asterixis. 
+mental status with good attention and memory  
+HEENT: Sclera icteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: Supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, TTP in the periumbilical area, nondistended, 
+bowel sounds present, HSM, no rebound or guarding, no fluid 
+wave, tympanic on percussion  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.
+ 
+Pertinent Results:
+Admission Labs
+===============
+___ 05:45PM BLOOD WBC-16.6*# RBC-3.21* Hgb-10.9* Hct-32.3* 
+MCV-101* MCH-34.0* MCHC-33.8 RDW-18.0* Plt ___
+___ 05:45PM BLOOD Neuts-79.4* Lymphs-11.4* Monos-4.0 
+Eos-4.9* Baso-0.4
+___ 05:45PM BLOOD ___ PTT-36.5 ___
+___ 05:45PM BLOOD Glucose-156* UreaN-8 Creat-0.7 Na-142 
+K-3.7 Cl-101 HCO3-26 AnGap-19
+___ 05:45PM BLOOD ALT-56* AST-96* AlkPhos-129 TotBili-7.2*
+___ 06:35AM BLOOD Albumin-2.9* Calcium-8.5 Phos-4.7* 
+Mg-1.3*
+
+Discharge Labs
+===============
+___ 04:16AM BLOOD WBC-8.0 RBC-2.62* Hgb-8.9* Hct-25.4* 
+MCV-97 MCH-34.0* MCHC-34.9 RDW-16.8* Plt ___
+___ 04:16AM BLOOD ___ PTT-60.2* ___
+___ 04:16AM BLOOD Glucose-110* UreaN-6 Creat-0.5 Na-137 
+K-3.7 Cl-101 HCO3-25 AnGap-15
+___ 04:16AM BLOOD ALT-26 AST-45* AlkPhos-92 TotBili-5.0*
+___ 04:16AM BLOOD Calcium-8.8 Phos-3.3 Mg-1.4*
+
+Urinalysis
+============
+___ 12:20AM URINE Color-DKAMB Appear-Hazy Sp ___
+___ 12:20AM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-MOD Urobiln-2* pH-7.0 Leuks-NEG
+___ 12:20AM URINE RBC-4* WBC-4 Bacteri-FEW Yeast-NONE Epi-0
+
+Microbiology
+=============
+Time Taken Not Noted     Log-In Date/Time: ___ 5:18 am
+      URINE     Site: NOT SPECIFIED      ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+___ 9:54 am PERITONEAL FLUID      PERITOENAL FLUID. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+___ 12:50 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+___ 4:15 am IMMUNOLOGY
+
+                            **FINAL REPORT ___
+
+   HBV Viral Load (Final ___: 
+      HBV DNA not detected. 
+      Performed using the Cobas Ampliprep / Cobas Taqman HBV 
+Test v2.0. 
+      Linear range of quantification: 20 IU/mL - 170 million 
+IU/mL. 
+      Limit of detection: 10 IU/mL. 
+
+___ 4:15 am IMMUNOLOGY
+
+                            **FINAL REPORT ___
+
+   HCV VIRAL LOAD (Final ___: 
+      HCV-RNA NOT DETECTED. 
+      Performed using Cobas Ampliprep / Cobas Taqman HCV v2.0 
+Test. 
+      Linear range of quantification: 1.50E+01 IU/mL - 1.00E+08 
+IU/mL. 
+      Limit of detection: 1.50E+01 IU/mL. 
+
+___ 8:13 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative). 
+
+   FECAL CULTURE (Pending): 
+
+   CAMPYLOBACTER CULTURE (Pending): 
+
+   OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      This test does not reliably detect Cryptosporidium, 
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected 
+by routine
+      O+P, the Giardia antigen test may enhance detection when 
+organisms
+      are rare. 
+
+RUQ Ultrasound ___
+IMPRESSION: 
+1. Cholelithiasis without acute cholecystitis. 
+2. Echogenic and coarsened liver, compatible with underlying 
+liver disease. 
+3. Splenomegaly and small amount of ascites. 
+  
+CT Abdomen and Pelvis ___
+IMPRESSION:  
+1.  Hepatosplenomegaly with increased ascites and diffuse 
+anasarca compared to ___. 
+2.  Fluid-filled nondilated small bowel, suggestive of 
+gastroenteritis. No evidence of colitis or diverticulitis within 
+limitations of noncontrast technique. 
+3.  Cholelithiasis. No specific evidence for cholecystitis. 
+
+Chest Xray ___
+IMPRESSION:  
+Small right base opacity consistent with infection or 
+aspiration. 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with history of newly diagnosed alcoholic 
+cirrhosis, alcoholic hepatitis (discharged on ___ treated with 
+steroids, and pneumonia presenting with diffuse abdominal pain 
+and anorexia x ___ontrolled with improving 
+appetite.
+
+# Alcoholic Hepatitis: Discriminant function of 37. Patient left 
+with PICC line and there could be some concern for acute drug 
+use and exposure to hepatitis virus. T. Bili continues to 
+improve, patient not vomiting in 24 hours. Hep B viral load 
+negative. It was decided that given his continued improvement he 
+did not need steroids.
+
+# Abdominal pain: Mmost likely due to both gastroenteritis and 
+alcholic hepatitis. Has evidence of liquid filled bowels on CT 
+which could be GI virus or also lactulose. Abdominal exam, 
+downtrending lab values, and imaging are reassuring for other 
+processes on DDx. Lipase ok. UA clean and UCx negative. Para 
+showed few polys not consistent with SBP, with culture negative. 
+Pain responded well to oxycodone. He was eating and drinking 
+with no vomiting and having bowel movements for two days on day 
+of discharge.
+
+# Rash: His exam notable for a maculopapular rash in the UE and 
+trunk. No mucosal involvment. Most likely viral exanthem vs. 
+drug rash. Viral exanthem supported by gastroenteritis which is 
+most often a viral process. Drug rash is also supported by the 
+fact that patient has been on vancomycin, cefepime, lasix and 
+azithromycin (all of which may cause rash) and mild eosinophilia 
+on labs now resolved. Rash was resolving on discharge. He was 
+not on antibiotics during this admission and his lasix was held. 
+
+
+# Tachycardia: Developed in the setting of vomiting and poor 
+appetite. Regular. Likely secondary to hypovolemia. He improved 
+with 5% albumin. 
+
+# Hepatic Encephalopathy: History in the past but none on this 
+admission. His lactulose was initially held and then restarted 
+on discharge.
+
+# Ascites: mild on exam and US but CT scan showed increased 
+ascites compared to the CT during last admission. He was on 
+lasix 20mg daily. Bedside US with no good fluid pocket for 
+paracentesis. Lasix was stopped given concern for rash with 
+recommendation to follow up with ___ further 
+evaluation.
+
+# Nutrition: Pt reports anorexia, weight loss, fatigue, and poor 
+muscle strength. Nutrition was consulted who recommended 
+continued nutritional encouragement. He did not need enteral 
+access nor tube feeds.
+
+# Cirrhosis: Due to alcohol. Pt presented with alcoholic 
+hepatitis on previous admission and was treated with steroid 
+which had to be weaned off quickly due to pneumonia and 
+encephalopathy. MELD score 20, which was 19 on discharge.
+  
+# Coagulopathy: INR 1.7 (downtrending) which was downtrending 
+from last admission and with normal platelets. Pt reports 
+intermittent black stool but rectal exam with brown stool and 
+H&H overall stable. He was monitored and his INR remained 
+stable.
+
+Transitional
+------------
+- follow up on nutritional status, he is concerned about weight 
+loss
+- consider restarting diuresis with Lasix to challenge if this 
+caused rash, or with ethacrynic acid if need other diuresis  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 1 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY 
+3. HYDROmorphone (Dilaudid) 4 mg PO Q4H:PRN pain 
+4. Lactulose 30 mL PO TID 
+5. Nystatin Oral Suspension 5 mL PO TID 
+6. Sarna Lotion 1 Appl TP QID:PRN itching 
+7. Thiamine 100 mg PO DAILY 
+8. Omeprazole 40 mg PO DAILY 
+9. Potassium Chloride 20 mEq PO DAILY 
+10. Magnesium Oxide 400 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. FoLIC Acid 1 mg PO DAILY 
+2. Nystatin Oral Suspension 5 mL PO TID 
+3. Omeprazole 40 mg PO DAILY 
+4. Sarna Lotion 1 Appl TP QID:PRN itching 
+5. Thiamine 100 mg PO DAILY 
+6. Magnesium Oxide 400 mg PO DAILY 
+7. Potassium Chloride 20 mEq PO DAILY 
+8. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 4 hours Disp #*30 
+Tablet Refills:*0
+9. Lactulose 30 mL PO TID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+- viral gastroenteritis
+
+Secondary Diagnosis
+- alcoholic hepatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was our pleasure caring for you at ___ 
+___. You were admitted with abdominal pain and poor 
+appetite. We did many blood and imaging tests and saw no serious 
+cause of your pain. You had some nausea, and your CT scan showed 
+an area of intestines that could be due to a stomach bug. You 
+improved slowly and on discharge your pain was manageable and 
+your appetite improved. We hope you continue to get better.
+
+Your lasix was stopped while you are having your illness and 
+because we were concered about an allergy. Please follow up with 
+your PCP and liver team this week to discuss restarting this 
+medication.
+
+The cause of your rash is unclear. Some medications including 
+antibiotics and Lasix can cause a rash like this. In addition, 
+some viral infections (GI bugs) can cause a rash like this. 
+Almost every time the rash will clear on it's own.
+ 
+Followup Instructions:
+___

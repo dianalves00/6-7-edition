@@ -1,0 +1,240 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+peripheral vascular disease
+ 
+Major Surgical or Invasive Procedure:
+___:  L fem-tib bypass jump graft w RUE basilic vein 
+ 
+History of Present Illness:
+___ with poor cardiac status, history of renal transplant, 
+status post stent placement at the left common femoral artery to 
+anterior tibial artery bypass graft performed on ___.  He 
+presents for jump graft of his bypass graft for poor flow at the 
+level of the knee.  
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, Dyslipidemia, Hypertension  
+2. CARDIAC HISTORY: CAD with silent posterior MI but no stents 
+or cath  
+- CABG: none  
+- PERCUTANEOUS CORONARY INTERVENTIONS: none  
+- PACING/ICD: none  
+3. OTHER PAST MEDICAL HISTORY:  
+-extensive PVD (see surgical history)  
+-CHF with preserved EF  
+-s/p renal transplant ___ (donor was his wife)  
+-Diabetes type II c/b retinopathy, neuropathy  
+-HTN  
+-HL  
+-morbid obesity prior to gastric bypass  
+-Agent orange exposure in ___  
+PSH:  
+-Living Unrelated Renal Transplant ___  
+-Lap Gastric Bypass ___ (@ ___) c/b JJ obstruction  
+-RLE SFA/pop/AT angioplasty (___)  
+-L CFA-AT BPG with NRSVG (___)  
+-s/p angioplasty of L CFA to AT vein bypass graft x 2 ___, 
+___,  
+-amputation left hallux (___)  
+-amputation left ___ toe (___)  
+-resection of distal phalanx, right second toe (___)  
+-right SFA angioplasty with right tibioperoneal trunk/anterior 
+tibial origin angioplasty (___)  
+ 
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  
+
+ 
+Physical Exam:
+Vitals: 98.8  60  151/53  13  97%ra
+Gen: well appearing, no apparent distress
+Abd: soft, nontender, nondistended
+Cardio: regular rate and rhythm
+Pulm: clear to ascultation bilaterally
+Ext: LLE with surgical incisions, healthy, intact with staples, 
+no bleeding or hematoma, mild tenderness to palpation;  RUE 
+graft harvest site healthy, intact with staples, no bleeding or 
+hematoma, mildly tender to palpation
+PULSES:  L: DP- weakly palpable,  ___ dopplerable
+         R: ___  dopplerable
+ 
+Brief Hospital Course:
+The patient was admitted to the Vascular Surgery Service for 
+management of his peripheral vascular disease.  On ___ the 
+patient was taken for left femoral artery to tibial artery 
+bypass jump graft with R-basilic vein (see operative report for 
+details).  The procedure went well without difficulty. 
+.
+The patient was advanced along the pathway for lower extremity 
+below knee bypass.  His postoperative course was uncomplicated. 
+He initially had a drain in the right arm near the vein donor 
+site, but this was removed prior to discharge without any 
+issues. 
+.
+Transplant Nephrology was consulted for management of the 
+patient's immunosuppressive drugs with respect to his previous 
+kidney transplant.  The tacrolimus levels were monitored and the 
+medication dosing was kept at the home dose.  The Bactrim and 
+prednisone were continued as well.  
+.
+The patient had a low hematocrit to 25.7 on POD2 and was 
+transfused 1 unit pRBC followed by IV Lasix.  The hematocrit 
+rose appropriately but the creatinine also rose.  However, the 
+creatinine did improve after giving IVF hydration.  Per the 
+patient and his cardiologist, the patient had not been taking 
+Lasix at home at the time of the surgery.  
+.
+The patient was stable at the time of discharge with no acute 
+issues.  The patient understood the plan for care, and agreed. 
+ 
+Medications on Admission:
+Plavix 75 mg';  vitamin B-12 1,000 mcg/mL';gabapentin 300''';  
+Lantus 30units QAM; isosorbide mononitrate ER 60 mg';  
+Toprol XL 100'; Protonix 40'; pravastatin 80';prednisone 3';   
+sulfamethoxazole 400 mg-trimethoprim 80 mg ___ tacrolimus 
+1.5'',   tramadol 50'''; Vitamin C 500 ';  aspirin 325';   
+vitamin D3 1,000'; docusate sodium 100 ''
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*2
+4. Gabapentin 300 mg PO TID 
+5. Glargine 30 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+6. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+7. Metoprolol Succinate XL 100 mg PO DAILY 
+8. Pantoprazole 40 mg PO Q24H 
+9. Pravastatin 80 mg PO DAILY 
+10. PredniSONE 3 mg PO DAILY 
+11. Senna 1 TAB PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth BID PRN Disp #*60 
+Capsule Refills:*2
+12. Sulfameth/Trimethoprim SS 1 TAB PO MWF 
+13. Tacrolimus 1.5 mg PO Q12H 
+14. TraMADOL (Ultram) 50 mg PO Q8H:PRN pain 
+15. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+peripheral artery disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were treated by the Vascular Surgery Department for 
+management of your peripheral vascular disease.  You underwent a 
+jump graft of your previously placed left lower leg bypass; we 
+used a veiin from your right upper arm.  You did well after the 
+surgery and are now safe to return home to continue your 
+recovery there. 
+.
+You were seen by the Renal Transplant Medicine team during your 
+stay.  They monitored your Tacrolimus levels and dose while you 
+were here.  You will  need to continue taking this medication 
+and monitoring your blood levels of Tacrolimus as you were prior 
+to your hospitalizaiton.  Also, you will need to continue your 
+Bactrim and Prednisone as you were taking prior to this 
+hospitalization. 
+.
+MEDICATIONS:
+*Please continue taking all medications you were taking at the 
+doses you were taking them prior to this hospital stay.
+*Continue taking Plavix and Aspirin as you were prior to this 
+hospital stay. 
+.
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+.
+What to expect when you go home:
+1. It is normal to feel tired, this will last for ___ weeks 
+You should get up out of bed every day and gradually increase 
+your activity each day 
+Unless you were told not to bear any weight on operative foot: 
+you may walk and you may go up and down stairs 
+Increase your activities as you can tolerate- do not do too 
+much right away!
+
+2. It is normal to have swelling of the leg you were operated 
+on:
+Elevate your leg above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+Avoid prolonged periods of standing or sitting without your 
+legs elevated
+
+3. It is normal to have a decreased appetite, your appetite will 
+return with time 
+You will probably lose your taste for food and lose some 
+weight 
+Eat small frequent meals
+It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+What activities you can and cannot do:
+No driving until post-op visit and you are no longer taking 
+pain medications
+Unless you were told not to bear any weight on operative foot: 
+
+You should get up every day, get dressed and walk
+You should gradually increase your activity
+You may up and down stairs, go outside and/or ride in a car
+Increase your activities as you can tolerate- do not do too 
+much right away!
+No heavy lifting, pushing or pulling (greater than 5 pounds) 
+until your post op visit 
+You may shower (unless you have stitches or foot incisions) no 
+direct spray on incision, let the soapy water run over incision, 
+rinse and pat dry
+Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+Take all the medications you were taking before surgery, 
+unless otherwise directed
+Take one full strength (325mg) enteric coated aspirin daily, 
+unless otherwise directed 
+Call and schedule an appointment to be seen in 2 weeks for 
+staple/suture removal
+
+What to report to office:
+Redness that extends away from your incision
+A sudden increase in pain that is not controlled with pain 
+medication
+A sudden change in the ability to move or use your leg or the 
+ability to feel your leg
+Temperature greater than 100.5F for 24 hours
+Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions
+
+ 
+Followup Instructions:
+___

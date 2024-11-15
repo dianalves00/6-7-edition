@@ -1,0 +1,256 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamides) / Erythromycin Base
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Expressive aphasia
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Patient is a ___ who presents to the ED with a one day history 
+of word finding difficulty and slurred speech. His wife also 
+reports that he has been more agitated recently.
+ 
+Past Medical History:
+1. Hyperlipidemia
+2. Lung Cancer(s/p right middle lobectomy and mediastinoscopy 
+___, s/p left lower lobectomy ___
+3. s/p tonsillectomy
+4. s/p wisdom teeth extraction
+5. Recent history of myalgia s/p statin use.
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+On Admission:
+O: T: 98.6 BP:133 / 90        HR: 108   R 16      O2Sats94%
+Gen: WD/WN, comfortable, NAD.
+HEENT:anicteric  Pupils: ___ bilaterally    EOMs intact
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, not place and date.
+Recall: ___ objects at 5 minutes.
+Language: Speech wordy and pressured.
+Naming intact but delayed. slurred
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light bilaterally. 
+Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+Reflexes: B T Br Pa Ac
+Right       wnl
+Left        wnl
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger, rapid alternating
+movements, heel to shin
+
+Upon discharge:
+The patient has improved. He has very mild word-finding 
+difficulty but otherwise his speech is fluent and he has no 
+obvious receptive aphasia. He is oriented x 3, PERRL, EOMS 
+intact. Full strength and sensation throughout. No pronator 
+drift. Ambulating without assistance.
+ 
+Pertinent Results:
+Labs on Admission:
+___ 06:55PM BLOOD WBC-5.5 RBC-4.70 Hgb-14.3 Hct-40.8 MCV-87 
+MCH-30.4 MCHC-35.0 RDW-12.4 Plt ___
+___ 06:55PM BLOOD Neuts-56 Bands-1 ___ Monos-11 Eos-1 
+Baso-0 Atyps-2* ___ Myelos-0
+___ 06:55PM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL 
+Ovalocy-1+ Burr-1+
+___ 06:55PM BLOOD Plt Smr-NORMAL Plt ___
+___ 06:55PM BLOOD Glucose-93 UreaN-14 Creat-1.0 Na-137 
+K-4.1 Cl-100 HCO3-25 AnGap-16
+___ 06:55PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 07:46PM BLOOD Lactate-1.5
+
+Labs on Discharge:
+___ 05:45AM
+WBC     Hgb Hct Plt Ct
+8.7 13.8* 41.0    341
+___ PTT    ___ 
+13.8* 24.7    1.2*
+Gluc UreaN Creat Na K Cl HCO3 
+122* 22* 1.0 137 4.4 100 26
+
+Imaging:
+CTA Chest ___:
+TECHNIQUE: MDCT axial images were obtained from the thoracic 
+inlet to upper abdomen with the administration of IV contrast. 
+Coronal, sagittal, and oblique reformatted images were obtained. 
+
+CT OF THE CHEST WITH IV CONTRAST: The heart and pericardium are 
+unremarkable, without pericardial effusion. Mild atherosclerotic 
+calcifications of the aortic arch are seen. Otherwise, the great 
+vessels are unremarkable, without evidence of pulmonary 
+embolism. There are a few scattered mediastinal lymph nodes, 
+which are not pathologically enlarged. No hilar or axillary 
+lymphadenopathy is identified. There are post-surgical changes 
+following right middle lobe and left lower lobe wedge 
+resections, with surgical clips seen within the left perihilar 
+region. There are dependent atelectases in the lungs 
+bilaterally. Again noted is a right lower lobe nodule, directly 
+adjacent to the inferior pulmonary vein, which measures 
+approximately 13 mm x 13 mm (3:66). A previously noted 
+additional 4-mm right lower lobe nodule is not as well 
+appreciated on this study, likely related to slice selection. 
+There is no evidence of consolidation or pulmonary edema. There 
+is no pleural effusion. Limited views of the upper abdomen 
+reveal gallstones.   
+OSSEOUS STRUCTURES: No suspicious lytic or sclerotic lesions 
+identified. 
+IMPRESSION: 
+1. No evidence of pulmonary embolism. 
+2. Right lower lobe nodule, which measures approximately 13 mm x 
+13 mm. 
+3. Previously noted 4-mm right lower lobe nodule is not well 
+appreciated, 
+likely related to slice selection. 
+4. Gallstones. 
+
+CT Perfusion of Head ___:
+CONCLUSION: No evidence of infarction. Note that the CT 
+perfusion study is
+limited by motion artifact.
+
+MRI Head ___:
+FINDINGS: There is no evidence of hemorrhage, edema, masses, 
+mass effect, or infarction. The ventricles and sulci are normal 
+in caliber and configuration. No diffusion abnormalities are 
+noted. There is no abnormal enhancement after contrast 
+administration. Of note, there is no evidence of an abnormality 
+at the pontomedullary junction. There have been no significant 
+changes since the
+brain MR ___.
+
+CT Torso ___:
+IMPRESSION:
+1. Lytic lesion in the sternum that is concerning for a possible 
+metastatic
+osseous focus.
+2. A new 13 x 6 mm soft tissue nodule in the anterior 
+perinephric space
+adjacent to the left kidney lower pole is also concerning for a 
+metastasis in Gerota's fascia. Given the unusual location for a 
+metastatic focus, an
+exophytic renal lesion remains in the differential. MRI is 
+recommended for
+further evaluation.
+3. Mixed heterogeneous lesion within the uncinate process of the 
+pancreas
+with hypodense component that is seen on prior examinations 
+dating back to
+___ that is largely unchanged; second smaller cystic lesion 
+in the tail of the pancreas. The differential includes side 
+branch IPMT and other cystic neoplasms like microcystic serous 
+cystadenoma.
+4. Stable appearance of right lower lobe pulmonary nodules with 
+dominant
+nodule measuring approximately 13 x 10 mm, and a smaller 4-mm 
+nodule.
+5. Cholelithiasis without CT evidence of cholecystitis.
+6. Sigmoid diverticulosis without evidence of diverticulitis.
+ 
+ 
+ 
+Brief Hospital Course:
+Patient was admitted to the neurosurgery service via the 
+emergency department with complaint of expressive aphasia and 
+mild confusion. Imaging from the OSH supposedly revealed a 
+cerebellopontine mass.  He was then admitted to the neurosurgery 
+stepdown unit for ongoing monitoring. On ___ am, we attempted 
+to get an MRI to further characterize the mass, as well as 
+potentially identify alternate pathology to explain verbal 
+findings. Due to his confusion, he did not tolerate the MRI 
+procedure and attempt was aborted. In lieu of MRI; a CT 
+perfusion study of the brain was performed to ensure a stroke 
+was not evolving-and was determined to be normal.  On ___ he 
+was found to be markedly improved with steroid treatment, and 
+MRI was successfully perfomred. After careful review of the MRI 
+with the neurosurgeon, neurologist, and neuro-radiologist it was 
+determined that there was no mass present in the brain as 
+previously thought from outside imaging. The patient was sent 
+home with his family with instructions to follow-up with his 
+neurologist and to continue keppra for seizure prophylaxis.
+ 
+Medications on Admission:
+Atavorstatin 20mg daily
+ 
+Discharge Medications:
+1. Levetiracetam 250 mg Tablet Sig: One (1) Tablet PO twice a 
+day for 7 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+seizures
+
+ 
+Discharge Condition:
+Neurologically Stable
+
+ 
+Discharge Instructions:
+You have been discharged on Keppra (Levetiracetam), you will 
+not require blood work monitoring.
+-If you have any seizures lasting greater than 1 minute that do 
+not resolve on their own, please call the neurology office. If 
+you have mental status changes or prolonged seizures, go to the 
+nearest emergency room.
+
+CALL YOUR SURGEON IMMEDIATELY IF YOU EXPERIENCE ANY OF THE 
+FOLLOWING
+
+New onset of tremors or seizures.
+Any confusion or change in mental status. 
+Any numbness, tingling, weakness in your extremities.
+Pain or headache that is continually increasing, or not 
+relieved by pain medication.
+
+ 
+Followup Instructions:
+___

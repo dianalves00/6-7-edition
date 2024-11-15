@@ -1,0 +1,423 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p fall, rib fractures, hemopneumothorax
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a history of atrial 
+fibrillation on coumadin, EtOH abuse c/b withdrawal seizures 
+currently on phenobarbital, who sustained a fall down ___ steps 
+in his home, with subsequent right-sided rib fractures (ribs 
+___ in the setting of a supratherapeutic INR of 6.0 on 
+admission. He was also found to have a positive EtOH. He 
+received 1L NS and was brought to ___. In the ED, he was found 
+to have R sided subcutaneous emphysema on exam, and was 
+hemodynamically stable (98% on 2LNC). Given his supratherapeutic 
+INR and small hemopneumothorax, a chest tube was deferred. He 
+was given one dose of lorazepam for presumed alcohol withdrawal. 
+He was sent to the TSICU/SICU for further management. He 
+received PTCC/KCentra for reversal of his INR to 1.2.
+
+His hospital course was complicated by symptomatic alcohol 
+withdrawal, requiring a phenobarbital drip per protocol.
+
+He was also noted to be hyponatremic to 119 on admission (first 
+diagnosed with hyponatremia in ___, 123 at that time).
+ 
+Past Medical History:
+Afib (on warfarin)  
+HTN  
+CHF  
+Alcohol abuse (drinks 6 pack of beer daily, 8 pack on weekends)  
+
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+On admission:  
+VS - Afebrile, hemodynamically stable, SpO2 98% on 2LNC  
+General: NAD  
+HEENT: NCAT  
+CV: Irreg irreg  
+Lungs: CTAB, Crepitus over R chest, TTP R back  
+Abdomen: soft, NT/ND  
+GU: N/A  
+Ext: Warm well perfused  
+
+On discharge:
+VS- Tmax 98.5, Tcurr 98.0, BP 121/50 (107-138/40-71), HR 60 
+(56-83), RR 18, SpO2 100% RA (98-100% RA)  
+I/O: ___ + BM x 1  
+Weight: 56.9 kg (same as ___ when first came to the floor)  
+General: NAD, just woken up  
+HEENT: NC/AT, purplish bruising on nose  
+Neck: Supple, full range of motion, no LAD  
+Chest: Large hematoma, purple, with subcutaneous emphysema on R 
+chest/ R flank. Stable since yesterday, decreased since 3 days 
+prior. Non-tender.  
+CV: Irregularly irregular, tachycardic, no murmurs, rubs, or 
+gallops; no JVD  
+Lungs: Expiratory wheezing in the R mid and lower lung fields, 
+slightly coarse breath sounds throughout  
+Abdomen: Soft, non-tender, non-distended, normoactive bowel 
+sounds,  
+GU: No CVA tenderness, no suprapubic tenderness, no foley  
+Ext: No cyanosis, clubbing, or edema  
+Neuro: A&Ox3, CN II-XII grossly intact  
+Skin: No excoriations, lesions, or rashes.  
+
+ 
+Pertinent Results:
+On admission:
+___ 11:30AM BLOOD WBC-10.6 RBC-3.67* Hgb-13.0* Hct-39.3* 
+MCV-107* MCH-35.4* MCHC-33.1 RDW-14.5 Plt ___
+___ 11:30AM BLOOD Neuts-81.7* Lymphs-11.7* Monos-5.3 
+Eos-0.9 Baso-0.4
+___ 11:30AM BLOOD ___ PTT-47.3* ___
+___ 11:30AM BLOOD Glucose-108* UreaN-7 Creat-0.9 Na-119* 
+K-7.5 (hemolyzed)* Cl-94* HCO3-15* AnGap-18
+___ 12:48PM BLOOD K-4.4
+___ 11:30AM BLOOD ALT-34 AST-90* AlkPhos-56 TotBili-0.7
+___ 11:30AM BLOOD Lipase-28
+___ 11:30AM BLOOD Albumin-3.4*
+___ 07:40PM BLOOD Calcium-7.9* Phos-4.2 Mg-1.4*
+___ 11:30AM BLOOD ASA-NEG Ethanol-69* Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+___ 12:00PM URINE Color-Straw Appear-Clear Sp ___
+___ 12:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+In the interim:
+___ 11:30AM BLOOD ___ PTT-47.3* ___
+___ 03:25PM BLOOD ___ PTT-33.4 ___
+___ 07:40PM BLOOD ___ PTT-32.6 ___
+___ 04:02AM BLOOD ___ PTT-34.8 ___
+___ 10:43AM BLOOD ___ PTT-31.3 ___
+___ 05:26AM BLOOD ___ PTT-33.4 ___
+___ 06:35AM BLOOD ___ PTT-36.4 ___
+___ 04:40AM BLOOD ___ PTT-34.7 ___
+___ 06:25AM BLOOD ___ PTT-31.4 ___
+___ 06:25AM BLOOD Glucose-89 UreaN-8 Creat-1.0 Na-132* 
+K-3.8 Cl-97 HCO3-28 AnGap-11
+
+On discharge:
+___ 07:00AM BLOOD WBC-4.2 RBC-2.34* Hgb-8.5* Hct-25.1* 
+MCV-107* MCH-36.2* MCHC-33.7 RDW-15.2 Plt ___
+___ 07:00AM BLOOD ___ PTT-39.0* ___
+___ 07:00AM BLOOD Glucose-81 UreaN-9 Creat-0.9 Na-133 K-4.1 
+Cl-99 HCO3-28 AnGap-10
+___ 07:00AM BLOOD Calcium-8.4 Phos-3.7 Mg-1.5*
+
+MICROBIOLOGY:
+___ 12:00 pm URINE
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING and other studies:
+ECG Study Date of ___  11:21:54 AM 
+Atrial fibrillation with a relatively rapid ventricular 
+response. Delayed 
+R wave progression in the precordial leads. Peaked T waves in 
+the anterior leads. Probable prior anteroseptal myocardial 
+infarction. Low QRS voltage in the limb leads. No previous 
+tracing available for comparison.  
+Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+87 0 78 392/439 0 31 61 
+
+CXR (___):
+IMPRESSION:  
+Right rib fractures with subcutaneous gas and a small right 
+apical 
+pneumothorax.  Right basilar opacity could represent an effusion 
+or 
+hemothorax. 
+
+CT head w/o contrast (___):
+IMPRESSION:  
+1. No acute intracranial process. 
+2. Global involutional changes, slightly advanced for age. 
+3. Nasal bone fractures could be old, clinical correlation 
+suggested. 
+
+CXR (___):
+IMPRESSION:  
+As compared to the previous radiograph, there is unchanged 
+evidence of 
+displaced right rib fractures and a right hema toe thorax.  The 
+extent of the fluid component of the hemothorax, however, has 
+substantially increased. The soft tissue air collection on the 
+right is constant in appearance. Unchanged appearance of the 
+cardiac silhouette and of the left lung. 
+
+CXR (___):
+IMPRESSION:  
+No relevant change as compared to the previous examination. 
+Known multiple rib fractures. Known soft tissue air collections 
+on the right.  The right lung apex re-confirms the presence of a 
+millimetric pneumothorax without evidence of tension. The extent 
+of the right pleural effusion has minimally increased. Unchanged 
+appearance of the cardiac silhouette and of the left lung. 
+
+CXR (___):
+IMPRESSION:  
+There is small bilateral pleural effusions right greater than 
+left and a small right lateral pneumothorax there is a moderate 
+amount of right-sided subcutaneous emphysema there is volume 
+loss in the right lower lobes. Compared to the prior study the 
+right-sided pneumothorax is slightly larger.
+
+CXR (___):
+IMPRESSION:  
+Multiple right-sided rib fractures are again visualized. There 
+is a moderate right-sided effusion.  And a small right 
+pneumothorax there is also small left effusion compared to the 
+study from the prior day, the effusions have slightly increased.
+
+TTE (___):
+Conclusions: The left atrium is markedly dilated. No atrial 
+septal defect is seen by 2D or color Doppler. The estimated 
+right atrial pressure is ___ mmHg. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. No aortic regurgitation is seen. 
+The mitral valve leaflets are mildly thickened. Mild to moderate 
+(___) mitral regurgitation is seen. The tricuspid valve 
+leaflets are mildly thickened. There is mild pulmonary artery 
+systolic hypertension. There is a trivial/physiologic 
+pericardial effusion. There are no echocardiographic signs of 
+tamponade.
+ 
+Brief Hospital Course:
+___ y/o male with history of A-fib on warfarin, s/p fall with 
+multiple R sided rib fractures (ribs ___, who presented with 
+hemopneumothorax. 
+
+ACUTE ISSUES: 
+#Rib fractures, hemopneumothorax: In the setting of a 
+supratherapeutic INR to 6.0 on admission, his rib fractures and 
+hemopneumonthorax were managed conservatively. He also had a CT 
+head without contrast on admission, because it was unclear if he 
+had hit his head during the fall; imaging was negative for any 
+intracranial bleed, and demonstrated old nasal bone fractures 
+s/p a hockey injury ___ years ago. Thoracostomy/ pigtail 
+catheter was deferred for the hemopneumothorax. His respiratory 
+status was closely monitored, and he received almost daily CXRs. 
+He was transferred from the SICU to the regular medical floor 
+after remaining hemodynamically stable for 3 days. On exam, he 
+continued to have a right flank/back hematoma with significant 
+subcutaneous emphysema/crepitus. His exam remained stable over 
+the course of his admission. In the setting of an increasing 
+effusion noted on CXR the day prior to discharge, he received an 
+echocardiogram to determine the status of his heart failure. EF 
+was noted to be >55%. He continued to saturate well on room air. 
+He has close follow-up scheduled with his cardiologist. His rib 
+fracture pain was controlled with Dilaudid, transitioned to 
+Oxycodone, and Tylenol. 
+
+#Supratherapeutic INR: Patient's INR was 5.4-6.0 on 
+presentation. He received KCentra/PTCC for reversal, and was 
+reversed to 1.2. He also received 2 mg of Vitamin K x 1. In the 
+setting of his recent trauma, bridging him with heparin was 
+deferred. His warfarin was re-started at his home dosing of 2.5 
+mg PO qday on hospital day #3. He continued to be 
+subtherapeutic, and he received one dose of 4 mg PO. He was 
+still subtherapeutic at 1.3 on the morning of discharge, and was 
+continued on his home 2.5 mg PO qday regimen, to be closely 
+followed by his cardiologist. 
+
+#Hyponatremia: Patient's serum sodium on admission was 119. Of 
+note, he does have chronic hyponatremia, first diagnosed in 
+___, where his serum sodium was noted to be 123. Per our review 
+of his records, the etiology has not been previously worked up, 
+but it is likely secondary to his chronic alcohol abuse vs. 
+hypovolemic hyponatremia. He received maintenance fluids during 
+his stay in the ICU, which were discontinued on the floor. SIADH 
+and other central etiologies were investigated during this 
+admission. He received a gentle fluid bolus of 250cc, with no 
+change noted in his sodium. TSH and cortisol levels were also 
+checked, and were within normal limits. To that end, he was 
+fluid restricted to less than 2L/day. By time of discharge his 
+serum Na had nearly normalized, with Na of 133, further 
+supporting a diagnosis of hyponatremia ___ beer potomania. 
+
+CHRONIC ISSUES: 
+#Atrial fibrillation: Due to initial EKG with relatively rapid 
+ventricular response, patient was initially controlled with 
+Metoprolol ___ mg IV q6hr. After appropriate control was 
+achieved (rate 100s-110s), he was transitioned to Metoprolol 50 
+mg PO BID. He was eventually discharged on Metoprolol XL 100 mg 
+PO qday. 
+
+#HTN: His home Lisinopril 2.5 mg PO qday was continued 
+throughout this admission.
+  
+#Congestive Heart Failure: His last echocardiogram prior to this 
+admission was ___ year. In the setting of a new effusion noted on 
+x-ray the day prior to discharge, he received a TTE in-house, 
+which demonstrated LVEF > 55%. He was fluid restricted to <2 L 
+while in-house. He does have close cardiology follow-up 
+scheduled.
+
+#Hx of alcohol abuse: Patient was initially thought to be 
+confused and symptomatic due to alcohol withdrawal upon 
+presentation in the ICU. He was started on a phenobarbital drip 
+per protocol, and was transitioned to PO phenobarbital. He 
+completed the full taper while in-house. Alcohol cessation was 
+encouraged, and mandated immediately after discharge while on 
+narcotics for pain control. He was thrombocytopenic this 
+admission, likely secondary to his alcohol use. 
+
+#> 30 ppd smoking history: Patient was given a nicotine patch.
+  
+TRANSITIONAL ISSUES:
+- Patient will need his INR and warfarin dosing monitored 
+closely upon discharge, with goal INR of 2 to 3 in the setting 
+of atrial fibrillation.
+- Repeat evaluation of sodium is advised to ensure stability 
+post discharge.
+- Continued encouragement of alcohol cessation is advised.
+- Home metoprolol was uptitrated in the setting of rapid atrial 
+fibrillation to 150s, possibly precipitated by pain and/or 
+alcohol withdrawal; further titration is needed in the 
+outpatient setting.
+- No pending studied at the time of discharge.
+- Code status: FULL CODE (confirmed). 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 2.5 mg PO DAILY 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Warfarin 2.5 mg PO DAILY16 (every day except ___ 
+
+ 
+Discharge Medications:
+1. Lisinopril 2.5 mg PO DAILY 
+2. Nicotine Patch 21 mg TD DAILY 
+RX *nicotine 21 mg/24 hour 1 patch once a day Disp #*30 Patch 
+Refills:*0
+3. Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0
+4. Outpatient Lab Work
+please check INR on and fax results to Dr ___ at ___ 
+by ___.
+icd-9 code: ___
+5. Warfarin 2.5 mg PO DAILY16 
+6. Acetaminophen 650 mg PO Q8H pain 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth three times a day 
+Disp #*42 Tablet Refills:*0
+7. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth four times a day Disp 
+#*16 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Traumatic rib fractures
+Hemopneumothorax
+Hyponatremia
+
+Secondary:
+Atrial fibrillation
+Hypertension
+History of alcohol use
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure being a part of your care during your 
+admission to ___. After you 
+fell at home, you sustained rib fractures in ribs ___ on your 
+right side. You developed a combination of blood and air in the 
+chest due to the fractures and the fall. You were treated with 
+rest and pain control. Your breathing continued to remain stable 
+during your admission, and there were no signs of active 
+bleeding. You had repeat chest x-rays, which showed that the 
+blood and air on your right side were stable. It is very 
+important that you avoid combining pain medications and alcohol 
+since the combination can cause dangerous side effects, 
+including oversedation and difficulty breathing.
+
+Your INR was found to be high on admission and was lowered with 
+medication. You were restarted on your warfarin when safe. 
+Please take your warfarin as prescribed and follow up with your 
+doctor to have your INR checked at your previous schedule. It is 
+important to seek immediate medical attention if you hit your 
+head or notice excessive bleeding of any kind.
+
+On admission, your sodium level was also found to be low. Per 
+your records, it seems that your sodium level has been low since 
+at least ___. Your sodium was stably slightly low at discharge. 
+
+
+Please see the following recommendations from the surgeons who 
+care for you:
+-You have sustained a rib fracture which can cause severe pain 
+and subsequently cause you to take shallow breaths because of 
+the pain.
+-You should take your pain medicine as prescribed in order to 
+stay ahead of the pain otherwise you will not be able to take 
+deep breaths.  If the pain medicine is too sedating, (making you 
+sleepy) take half the dose and call your doctor.
+-___ is a complication of rib fractures.  In order to 
+decrease your risk you must use your incentive spirometer 
+(plastic breathing machine) 4 times per hour while awake.  A 
+good rule is if you are watching TV to use it with every 
+commercial.  This will help expand the small airways in your 
+lungs as well as help you to bring up secretions that can pool 
+in the lungs and cause infectin.
+-You will be more comfortable if you use a cough pillow to hold 
+against your chest and guard your rib cage while coughing and 
+deep breathing.
+-Symptomatic relief with ice packs or heating pads for short 
+periods may help ease the pain.
+-Narcotic pain medicine can cause constipation therefore you 
+should take a stool softener twice a day and increase your fluid 
+and fiber intake.
+-DO NOT SMOKE.  Smoking always has negative health consequences, 
+but is particularly dangerous during the period of your recovery 
+from a rib fracture.
+-Return to the emergency room right away if you develop any 
+acute shortness of breath, increased pain or crackling sensation 
+around your ribs. 
+ 
+Followup Instructions:
+___

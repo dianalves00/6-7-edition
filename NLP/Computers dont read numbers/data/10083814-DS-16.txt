@@ -1,0 +1,222 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Acute on chronic functional decline and failure to thrive
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a history of 
+dementia, progressive decline in functional status since 
+___ of this year,  possible infectious encephalitis, 
+seizures, multiple UTIs, recent admission for increased 
+agitation found to have subdural hematoma, UTI, and seizures, 
+now presenting with acute on chronic functional decline and 
+failure to thrive.
+
+She was recently discharged from ___ to facility, but was sent 
+back because of agitation and refusing all PO medications and 
+food for the past 3 days. Additionally, she has been suffocating 
+herself and throwing feces. She was initially sent to 
+___, where a CT head showed stable subdural hematoma and 
+no other acute findings. She received Haldol for CT scan, and 
+was loaded
+with 1gm of keppra as well. She was transferred to ___ 
+given that she was recently discharged from here after extensive 
+work-up of behavioral changes that did not improve with 
+prescribed management.
+
+With regard to her prior recent hospitalization (___) 
+for altered mental status, she was found to have left frontal 
+subdural hematoma with acute on chronic appearance, UTI, and 
+seizure on EEG. She was discharged on keppra and vimpat, and 
+plan for neurology follow up.
+
+In the ___, she was afebrile, HR ___, BP 
+130s-1502/70s-90s, satting 100% on RA. Her exam was at baseline 
+aside from her not smiling as she usually does and that her son 
+felt she was not regarding him. Labs were notable for normal 
+CBC, elevated LFTs similar to prior (ALT 59 from 71, AST 44 from 
+40,
+Alk phos 126 from 112), normal electrolytes, and negative UA. 
+Neurology was consulted and felt that mental status change was 
+either due to underlying infection vs seizure in the setting of 
+non-adherence ___ failure to thrive. They recommended cvEEG to 
+rule out seiure, keppra 1500mg BID and vimpat 100mg BID, and 
+plan for admission to medicine for failure to thrive and to 
+complete
+toxic metabolic workup. The patient did not receive any 
+medications in the ED.
+
+Upon arrival to the floor, history was unable to be obtained due 
+to patient mental status.
+
+ 
+Past Medical History:
+- dementia, likely frontotemporal
+- Hypertension
+- Seizures - ___
+- Left ___ - ___
+- Chronic urinary incontinence
+- Encephalitis: autoimmune vs. HSV - ___
+
+ 
+Social History:
+___
+Family History:
+Unable to obtain due to mental status and delirium.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=========================
+VITALS: T-98.3 BP-135/86, HR-68, RR-17, 98% Ra 
+GENERAL: Alert and tracks movements with eyes, mumbles. Hunched
+over in bed.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Non distended, non-tender to deep palpation in all four
+quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. No rash.
+NEUROLOGIC: Alert and tracks movements with eyes, mumbles.
+Hunched over in bed. Does not respond to commands. PEERL. Unable
+to asses remaining CNs, strength, sensation, or coordination.
+(similar to prior documented exam)
+
+DISCHARGE PHYSICAL EXAM
+=========================
+GENERAL: Lying in bed, comfortable, NO restraints. 
+Intermittently walking the floor rapidly.
+LUNGS: No increased work of breathing. 
+SKIN: No rashes on her face. 
+HEENT: Anicteric sclerae, tacky mucous membranes
+
+ 
+Pertinent Results:
+NOTABLE LABS:
+========================
+___ 02:40PM BLOOD WBC-5.3 RBC-3.88* Hgb-11.4 Hct-35.5 
+MCV-92 MCH-29.4 MCHC-32.1 RDW-16.0* RDWSD-53.1* Plt ___
+___ 02:40PM BLOOD Glucose-133* UreaN-20 Creat-1.1 Na-147 
+K-4.2 Cl-107 HCO3-28 AnGap-12
+___ 11:05PM BLOOD ALT-59* AST-44* AlkPhos-126* TotBili-0.6
+___ 06:33AM BLOOD PTH-37
+___ 06:30AM BLOOD 25VitD-28*
+___ 06:30AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG HAV Ab-POS* 
+IgM HAV-NEG
+___ 11:05PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 06:30AM BLOOD HCV Ab-NEG
+___ 11:23PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.5 Leuks-NEG
+___ 11:23PM URINE RBC-6* WBC-2 Bacteri-NONE Yeast-NONE 
+Epi-<1
+___ 03:10PM BLOOD WBC-6.3 RBC-4.49 Hgb-12.8 Hct-42.4 MCV-94 
+MCH-28.5 MCHC-30.2* RDW-16.4* RDWSD-56.3* Plt ___
+___ 11:12AM BLOOD Glucose-117* UreaN-15 Creat-0.9 Na-148* 
+K-4.3 Cl-109* HCO3-26 AnGap-13
+___ 06:27AM BLOOD Glucose-147* UreaN-15 Creat-0.9 Na-156* 
+K-4.0 Cl-114* HCO3-29 AnGap-11
+___ 03:10PM BLOOD ALT-57* AST-30 AlkPhos-118* TotBili-0.4
+
+MICRO:
+================
+NO POSITIVE MICRO
+
+STUDIES:
+===============
+NO RELEVANT STUDIES
+ 
+Brief Hospital Course:
+*see d/c worksheet
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+2. amLODIPine 5 mg PO DAILY 
+3. Losartan Potassium 100 mg PO DAILY 
+4. Multivitamins W/minerals Chewable 1 TAB PO DAILY 
+5. Vitamin D 1000 UNIT PO DAILY 
+6. LACOSamide 100 mg PO BID 
+7. LevETIRAcetam 1500 mg PO BID 
+8. Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line 
+9. Fleet Enema (sodium phosphates) ___ gram/118 mL rectal 
+ONCE:PRN 
+10. Milk of Magnesia 30 mL PO Q8H:PRN Constipation - Second Line 
+
+11. TraZODone 50 mg PO Q8H:PRN agitation 
+
+ 
+Discharge Medications:
+1.  Divalproex Sod. Sprinkles 250 mg PO BID  
+2.  Glycerin Supps ___AILY:PRN constipation   
+3.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+4.  QUEtiapine Fumarate 75 mg PO TID  
+5.  Senna 17.2 mg PO BID  
+6.  Sertraline 50 mg PO DAILY  
+7.  Bisacodyl 10 mg PO/PR DAILY  
+8.  Bisacodyl ___AILY:PRN Constipation - Second Line  
+9.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+10.  Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line  
+11.  LACOSamide 100 mg PO BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Frontotemporal Dementia, complicated by
+ Agitation
+ Orthostatic hypotension w/ syncope
+ Hypernatremia
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure taking care of you during your stay at ___.
+
+WHY WAS I HERE?
+- You were not adjusting well to your nursing home.
+
+WHAT WAS DONE WHILE I WAS HERE?
+- You were given medicines to help you to stay calm.
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+- You should enjoy your time with your family and settle into 
+your nursing home.
+
+Be well!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

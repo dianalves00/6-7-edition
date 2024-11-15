@@ -1,0 +1,508 @@
+ 
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cefepime / Lasix
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever and acute renal failure
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+The patient is a ___ year old male with MM s/p allogeneic stem 
+cell transplant from unrelated donor in ___ last seen 
+in clinic on ___ with negative bone marrow biopsy and 
+negative SPEP/UPEP. He presents from ___ where he was admitted 
+with fevers, nausea, vomiting and inability to tolerate 4 days 
+prior to presentation. At his evaluation on ___, his ppx 
+acyclovir and bactrim were d/c'ed. 4 days PTP he reports being 
+bitten by an insect or spider bite on his mid forehead. He then 
+developed a fever to 102 along with weakness and back pain. 
+In the ED at the OSH this head lesion was openeded and cultured 
+but he was told that it did not grow anything.  No culture data 
+comes with the patient from the OSH but per the patient he was 
+treated with abx vanc anc zosyn but his micro data was negative. 
+He also developed acute renal failure with his creatinine 
+increasing to 1.8 from 0.8 in ___.  He developed new left 
+eyelid swelling, eye heaviness and increased tearing today and 
+also devlelped papular lesions on left arm.  He has three dogs 
+at home. No recent foreign travel. He lives on a farm in ___ 
+___ and spend a great deal of time outdoors. He has not 
+noticed any new bullseye lesions. He does report that the lesion 
+on his forehead first looked like a bulla/vessicle before it was 
+I and D'ed by the emergency room at the OSH. 
+
+.
+
+PAIN SCALE: ___ 
+________________________________________________________________
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:        [] All Normal
+[ +] Fever  [ ] Chills   [ ] Sweats  [ ] Fatigue   [ +] Malaise  
+ [ +]Anorexia  [ ]Night sweats
+[- ] _____ lbs.    weight  loss/gain     over _____ months
+
+HEENT:          [] All Normal
+[ -] Blurred vision   [ ] Blindness  [ ] Photophobia
+[- ] Decreased acuity [ ] Dry mouth  [ ] Bleeding gums
+[- ] Oral ulcers  [ -] Sore throat    [ ] Epistaxis  [ ] 
+Tinnitus
+[ ] Decreased hearing    [ ]Tinnitus [ ] Other:
+
+RESPIRATORY:    [] All Normal
+[ ] SOB     [ ] DOE    [ ] Can't walk 2 flights     [+ ] Cough- 
+phlegm, acid stuff 
+[ ] Wheeze  [ ] Purulent sputum    [ ] Hemoptysis   [ ]Pleuritic 
+pain 
+[ ] Other:
+
+CARDIAC:        [X]  All Normal
+[ ] Angina    [ ] Palpitations   [ ] Edema   [ ] PND
+[ ] Orthopnea    [ ] Chest Pain [ ] Other:
+
+GI:             [] All Normal
+[ ] Blood in stool     [ ] Hematemesis     [ ] Odynophagia
+[ ] Dysphagia:   [ ] Solids    [ ] Liquids
+[ ] Anorexia    [+] Nausea - on admission but now resolved [+] 
+Vomiting on admission but now resolved  [ ] Reflux
+[ ] Diarrhea    [ ] Constipation  []  Abd pain  [ ] Other:
+
+GU:             [X] All Normal
+[ ] Dysuria      [ ] Frequency    [ ] Hematuria  []Discharge 
+[]Menorrhagia  
+
+SKIN:           [] All Normal
+[+ ] Rash- forehead, L arm, L eye        [ ] Pruritus
+
+MS:             [X] All Normal
+[ ] Joint pain    [ ] Jt swelling   [ ] Back pain  [ ] Bony pain
+
+NEURO:          [X] All Normal
+[ ] Headache    [ ] Visual changes   [ ] Sensory change [ 
+]Confusion [ ]Numbness of extremities
+[ ] Seizures   [ ] Weakness [ ] Dizziness/Lightheaded [ ]Vertigo 
+[ ] Headache
+
+ENDOCRINE:     [X] All Normal
+[ ] Skin changes  [ ] Hair changes   [ ] Temp subjectivity
+
+HEME/LYMPH:    [X] All Normal
+[ ] Easy bruising   [ ] Easy bleeding    [ ] Adenopathy
+
+PSYCH:         [X] All Normal
+[ ] Mood change        []Suicidal Ideation  [ ] Other:  
+
+ 
+
+[X]all other systems negative except as noted above 
+
+ 
+Past Medical History:
+ONCOLOGIC HISTORY: Mr. ___ is a ___ man who was  
+diagnosed with multiple myeloma on ___.  
+.  
+___ thalidomide and dexamethasone  
+___ was admitted to a local hospital with pulmonary emboli  
+and Thalomid was discontinued. Anticoagulated with heparin and  
+sent home on Coumadin, which he continued to ___.  
+___, he started on Velcade, however, discontinued in ___ 
+ 
+due to grade III peripheral neuropathy.  
+*Pulsed with 20 mg of dexamethasone x4 days weekly for a short  
+time  
+___ Revlimid at 10 mg a day x 1 cycle-discontinued due to  
+rising urinary paraprotein.  
+___ 1000 mg /m2 of Cytoxan  
+___ pulse of dexamethasone on (20 mg a day x4 days)  
+___ admit for Cytoxan for stem cell mobilization,  
+collected 18.05 X 10 ^6 CD34+ cells.  
+___ admitted for high dose chemotherapy with autologous 
+stem  
+cell rescue  
+___ began vaccinations per protocol ___  
+___ treatment with Revlimid (25 mg), Velcade, and  
+dexamethasone.  
+___ s/p allogeneic stem cell transplant for multiple 
+myeloma from an unrelated donor.  
+
+ 
+Social History:
+___
+Family History:
+Adopted and does not know information on biological family. 
+ 
+Physical Exam:
+On admission:
+VS:  T 102.4, 134/73, 109, 20, 95% on RA 
+GENERAL:  Obese ill appearing male. He appears feverish. He is 
+in no acute distress
+Nourishment: OK  
+Grooming:OK   
+Mentation:OK  
+Eyes:NC/AT, PERRL, EOMI without nystagmus, no scleral icterus 
+noted. L injected conjunctiva. L eyelid erythematous and 
+swollen. Papular rash present around L eye and in L CN V 
+distribution. 
+Ears/Nose/Mouth/Throat: MMM, no lesions noted in OP  
+Neck: supple, no JVD or carotid bruits appreciated  
+Respiratory: Lungs CTA bilaterally without R/R/W  
+Cardiovascular: RRR, nl. S1S2, no M/R/G noted  
+Gastrointestinal: soft, NT/ND, normoactive bowel sounds, no 
+masses or organomegaly noted.  
+Genitourinary:  
+Skin: 
+Multiple tattoos
+Crusted gray lesion in ___ forehead. Pus could not be 
+expressed despite firm palpation. L eyelid erythema as noted 
+above. Papular lesions present on L forearm. 
+Extremities: No C/C/E bilaterally, 2+ radial, DP ___ pulses b/l.  
+
+Lymphatics/Heme/Immun: No cervical, supraclavicular, axillary or 
+inguinal lymphadenopathy noted.  
+Neurologic:  
+-mental status: Alert, oriented x 3. Able to relate history 
+without difficulty.  
+-cranial nerves: II-XII intact  
+-motor: normal bulk, strength and tone throughout. No abnormal 
+movements noted.  
+Psychiatric:  appropriate affect
+
+ACCESS: [X]PIV []CVL site ______
+
+FOLEY: []present [X]none 
+
+TRACH: []present [x]none  
+
+PEG:[]present [X]none  [ ]site C/D/I 
+
+COLOSTOMY: :[]present [X]none  [ ]site C/D/I 
+
+At discharge:
+vitals: temp: 97.4, HR: 72, BP: 120/60; Sat: 94% RA.
+Gen: Obese, well-appearing male in NAD. Oriented x3. Mood, 
+affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM, OP benign.
+Neck: Supple, full ROM.  JVP of ** cm.  No cervical 
+lymphadenopathy.  No carotid bruits noted.
+CV: RRR with normal S1, S2.  No M/R/G.  No S3 or S4.
+Chest: Respiration unlabored, no accessory muscle use. CTAB 
+without crackles, wheezes or rhonchi.
+Abd: Normal bowel sounds. Soft, NT, ND. No organomegaly or 
+masses.
+Ext: WWP.  Digital cap refill <2 sec.  No C/C/E.  Distal pulses 
+intact radial 2+, DP 2+, ___ 2+. 
+Skin: Healing rash on right side of upper face.  Black necrotic 
+area in mid-forehead; crusted lesions on thighs, inside left 
+arm.
+Neuro: CN II-XII grossly intact. No pronator drift. No 
+cerebellar signs. Normal gait. Normal language.
+
+ 
+Pertinent Results:
+LABS: 
+Hematology 
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct 
+___ 07:55    6.5 5.00 14.7 41.9 84 29.4 35.0 13.6 252 
+DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas 
+___ 07:55    67.8   23.6 5.2 2.9 0.5     
+BASIC COAGULATION ___, PTT, PLT, INR) Plt Ct 
+___ 07:55    252 
+ 
+Chemistry 
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+                         11 0.8 140 4.3 ___ 
+
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase 
+TotBili DirBili IndBili 
+___ 07:55    25 25 155   96   0.3 0.1 0.2 
+CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd ___ 
+___ 07:55    6.8 4.3 2.5 9.6 3.4 1.7     
+PROTEIN AND IMMUNOELECTROPHORESIS PEP IgG IgA IgM IFE 
+___ 07:55    NO SPECIFI1 827 237 51 NO MONOCLO2 
+
+NO SPECIFIC ABNORMALITIES SEEN
+HX ___ LAMBDA NOTED
+INTERPRETED BY ___, MD
+
+NO MONOCLONAL IMMUNOGLOBULIN SEEN
+INTERPRETED BY ___, MD
+
+ 
+ 
+ 
+Miscellaneous 
+  FREE KAPPA AND LAMBDA, WITH K/L RATIO 
+___ 07:55    Test    
+ 
+
+Urine  
+Chemistry 
+URINE CHEMISTRY Hours Creat TotProt Prot/Cr 
+___ 07:55    RANDOM 165 25 0.2 
+OTHER URINE CHEMISTRY U-PEP IFE 
+___ 07:55    NEGATIVE F1 TRACE MONO2 
+.
+  
+BONE MARROW 
+BONE MARROW SPECIAL STAINS & FLOW CYTOMETRY ___ 
+___ 12:55    DONE DONE 
+.
+___
+    \  /
+11.0/35\250
+.
+138|103|11
+4.1|26 |1.8\ 128
+Of note creatinine = 1.0 on admission on ___
+HCT = 39 on admission
+.
+Urine culture: no growth to date
+EKG:
+
+.
+
+LAST ECHO:
+
+.
+
+CXR: Chest PA/L: ___
+No evidence of intrathoracic disease. Expansile lytic lesion of 
+the right fourth rib appears stable compared ___ ___. No acute bony abnormality. 
+.
+CT abd w/o contrast:
+Both kidneys are normal. No hydronephrosis or hydroureter. 
+Multiple lytic bone lesions are again identified compatible with 
+the patient's history of multiple myeloma. No osteomyelitis.
+
+.
+
+CT SCAN:
+
+.
+
+BLOOD/URINE CULTURE: []pending []positive:
+
+.
+
+OTHER DIAGNOSTICS:
+Bone marrow bx ___
+DIAGNOSIS:  
+HYPOCELLULAR MARROW FOR AGE WITH MATURING TRILINEAGE 
+HEMATOPOIESIS.
+.
+
+___ 07:20AM BLOOD WBC-7.7 RBC-4.12* Hgb-11.9* Hct-35.0* 
+MCV-85 MCH-28.9 MCHC-33.9 RDW-13.6 Plt ___
+___ 02:00AM BLOOD WBC-12.2*# RBC-3.87* Hgb-11.3*# Hct-32.5* 
+MCV-84 MCH-29.2 MCHC-34.8 RDW-13.2 Plt ___
+___ 07:20AM BLOOD Neuts-75.6* Lymphs-16.9* Monos-5.0 
+Eos-2.2 Baso-0.4
+___ 07:08AM BLOOD Neuts-74.6* Lymphs-17.0* Monos-4.7 
+Eos-3.2 Baso-0.5
+___ 07:20AM BLOOD Neuts-75.6* Lymphs-16.9* Monos-5.0 
+Eos-2.2 Baso-0.4
+___ 06:00AM BLOOD Neuts-76.2* Lymphs-17.3* Monos-5.6 
+Eos-0.6 Baso-0.3
+___ 07:20AM BLOOD Plt ___
+___ 07:20AM BLOOD ___ PTT-25.8 ___
+___ 02:00AM BLOOD Plt ___
+___ 02:00AM BLOOD ___ PTT-26.3 ___
+___ 07:20AM BLOOD ___
+___ 06:00AM BLOOD ___
+___ 07:20AM BLOOD ___ ___
+___ 07:15AM BLOOD ___ ___
+___ 07:20AM BLOOD Glucose-101* UreaN-10 Creat-1.4* Na-141 
+K-4.4 Cl-103 HCO3-28 AnGap-14
+___ 02:00AM BLOOD Glucose-147* UreaN-10 Creat-1.6* Na-135 
+K-3.3 Cl-102 HCO3-24 AnGap-12
+___ 07:20AM BLOOD ALT-17 AST-18 LD(LDH)-209 AlkPhos-78 
+TotBili-0.2
+___ 02:00AM BLOOD ALT-45* AST-40 AlkPhos-77 TotBili-0.3
+___ 07:20AM BLOOD Calcium-8.9 Phos-4.3 Mg-2.0 UricAcd-4.5
+___ 02:00AM BLOOD Calcium-8.4 Phos-2.1* Mg-1.8
+___ 06:15AM BLOOD TotProt-5.9*
+___ 06:15AM BLOOD PEP-HYPOGAMMAG IgG-709 IgA-205 IgM-79
+___ 06:15AM BLOOD Vanco-14.8
+___ 05:30PM BLOOD Vanco-18.0
+   
+DIRECT ANTIGEN TEST FOR VARICELLA-ZOSTER VIRUS (Final ___: 
+
+POSITIVE FOR VARICELLA ZOSTER. 
+Viral antigen identified by immunofluorescence. 
+
+Chest XRay ___ Suspicious area of consolidation in the 
+right lower lung and linear atelectasis. Multiple lytic lesions 
+involving the ribs on the right side are redemonstrated. 
+
+CT head ___ 1. No evidence of acute intracranial 
+abnormalities or frontal osteomyelitis.  
+MRI would be more sensitive for intracranial infection or 
+frontal 
+osteomyelitis, if clinically indicated. 
+2. Mucosal thickening in the imaged paranasal sinuses without 
+evidence of 
+fluid to suggest acute sinusitis. The maxillary sinuses are not 
+fully imaged. 
+3. Fluid within bilateral mastoid air cells without evidence of 
+osseous 
+erosion to definitively suggest infection. Please correlate 
+clinically. 
+
+Renal USS ___ No evidence of hydronephrosis, renal calculi, 
+or renal mass. Both kidneys at upper limits for size which may 
+reflect patient body habitus.  
+
+ 
+Brief Hospital Course:
+___ year old male with MM s/p allogenic stem cell transplant in 
+___ with recent evaluation which was negative for any 
+evidence of recurrence who presents with fevers at an OSH and 
+has now developed a cough along with a crusted lesion in the 
+___ his forehead and two new papulous lesions.  He has 
+stopped taking prophylactic acyclovir and bactrim on ___.  
+He was transferred from an OSH for further evaluation.
+.
+Disseminated Herpes Zoster: Patient presented with vesicular 
+rash in left V1 distribution, fevers, two new umbilicated 
+lesions inside left arm.  Overnight, he also developed 
+erythematous, raised lesions inside his thighs, as well as pain 
+in a dermatomal distribution across his right flank.  ID and 
+dermatology were consulted.  He was initialyl started on 
+antibiotics and high dose acyclovir.  DFA was positive was VZV. 
+Chest X-ray showed evidence of left lung base consolidation.  
+Patient was treated with high dose acyclovir and levofloxacin.  
+His fevers and rash improved, and pain resolved.  He completed a 
+course of levofloxacin in hospital.  Once all lesions had 
+crusted over, he was transitioned to PO valacyclovir.  
+Amitryptiline was started as prophylaxis for post-herpetic 
+neuralgia.  The patient will continue taking valacyclovir for a 
+further 9 days and then transition to prophylactic acyclovir.
+.
+Right flank pain: Patient reported right flank pain in a 
+dermatomal distribution, worsening over the firs two nights of 
+admission.  Pain appeared superficial, could be elicited by 
+light touch.  U/A, renal ultrasound were negative for any 
+evidence of renal pathology.  He was started on gabapentin and 
+amitryptiline for neuropathic pain, as well as dilaudid, and the 
+pain improved significantly.  At the time of discharge, the 
+patient had no flank pain.
+.
+Eye erythema: Left eye was erythematous on presentation.  
+Eyeleid swollen adn erythematous.  Ophthalmology was consulted, 
+but did not feel that the eye was directly involved by zoster 
+ophthalmicus or other infection.  Erythema more likely related 
+to eyelid inflammation.  As the facial rash improved, the red 
+eye too resolved.
+.
+Acute kidney injury: Creatinine was 1.6 on admission, likely due 
+to vancomycin toxity due to supratherapeutic dosing at OSH.  ___ 
+also exacerbated by volume depletion (FeNA 0.48).  Patient was 
+hydrated at 125 ml/hr, and vancomycin was discontinued.  
+Creatinine was trending down and had improved to 1.4 on the day 
+of discharge.
+.
+Hypertension:
+continued nifedipine 60 mg qd; continued metoprolol.
+.
+Depression: Continued home dose duloxetine.
+ 
+Medications on Admission:
+cymbalta 20 mg bid
+Procardia 60 mg po qd
+MVT qd
+Lopressor 25 mg bid
+Folic acid 1 mg po qd
+ Omeprazole 20 mg qd
+pseudoephedrine
+heparin SQ 5000 IU bid
+Zosyn 3.375 gm IV q 8 hrs
+Vancomycin 2 gm IV q 12
+dilaudid 0.8 mg IV 1 3 hours prn 
+ 
+Discharge Medications:
+1. multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. nifedipine 60 mg Tablet Extended Release Sig: One (1) Tablet 
+Extended Release PO DAILY (Daily).
+Disp:*30 Tablet Extended Release(s)* Refills:*2*
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+4. duloxetine 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+5. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+6. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*30 Tablet(s)* Refills:*0*
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day) as needed for constipation.
+Disp:*90 Capsule(s)* Refills:*2*
+8. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO BID (2 
+times a day) as needed for constipation.
+Disp:*500 ml* Refills:*0*
+9. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for prophylaxis against post-herpetic 
+neuralgia.
+Disp:*90 Tablet(s)* Refills:*0*
+11. valacyclovir 500 mg Tablet Sig: Two (2) Tablet PO Q8H (every 
+8 hours).
+Disp:*27 Tablet(s)* Refills:*0*
+12. oxycodone 5 mg Tablet Sig: ___ Tablets PO every ___ hours as 
+needed for pain.
+Disp:*20 Tablet(s)* Refills:*0*
+13. acyclovir 400 mg Tablet Sig: One (1) Tablet PO three times a 
+day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Disseminated Herpes Zoster
+Secondary: Multiple myeloma; post-allogeneic stem cell 
+transplant.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.  You were admitted with a rash, back 
+pain and fevers.  Diagnostic tests revealed that you had 
+disseminated shingles (herpes zoster).  We treated you with 
+acyclovir and pain medications, and your symptoms improved.
+
+We made the following changes to your medications:
+Started VALACYCLOVIR: please take one pill every 8 hours for 9 
+more days.  After nine days, please continue taking ACYCLOVIR, 
+one pill every eight hours.
+Strted AMITRYPTILINE: please take one tablet daily for 90 days.  
+This will help prevent nerve pain following zoster infection.
+Started OXYCODONE: Please take one tablet up to every 6 hours as 
+needed for pain.
+Started SENNA, SODIUM DOCUSATE and LACTULOSE for bowel movment.
+Started NIFEDIPINE.
+Stopped PSEUDOEPHEDRINE.
+ 
+Followup Instructions:
+___

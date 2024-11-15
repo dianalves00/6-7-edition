@@ -1,0 +1,279 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodine Containing Agents Classifier / Nitroglycerin / Codeine / 
+Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever, cough, and dyspnea
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ man with history of recurrent stage IV NSCLC, currently 
+C4D8 vinorelbine, presenting with shortness of breath and cough.
+
+Mr. ___ was initially diagnosed with stage IA NSCLC, 
+adenocarcinoma with squamous features, in ___ and underwent 
+resection.  He was then diagnosed with a second stage IB NSCLC 
+in ___ that was resected.  In ___ he was found to have 
+recurrent metastatic disease and began therapy with vinorelbine 
+in ___.  He was admitted to ___ in ___ with 
+COPD exacerbation and at that time was started on Spiriva and 
+Advair.  Despite this he has continued to have dyspnea on 
+exertion and cough productive of white sputum since that time.  
+He has received a flu vaccine this year.
+
+He presented to the ED today after developing a fever to 102 at 
+home and feeling more short of breath.  He reports being unable 
+to sleep last night due to dyspnea and continues to have a cough 
+productive of white sputum.  He also experienced some chest 
+tightness this morning that has resolved.  His grandchildren, 
+who live in the apartment upstairs from him, have been sick.  In 
+the ED temperature 98.8 HR 78 BP 108/58 RR 24 O2 sat 97% 2Lnc.  
+CT torso showed a new opacity in the right upper lung concerning 
+for infection.  There were no abdominal abnormalities noted.  He 
+was treated with levofloxacin and admitted.
+
+Mr. ___ also complained of new right lower quadrant 
+abdominal pain.  This pain is not associated with eating, 
+nausea, diarrhea, constipation, or bloody stools, urinary 
+retention or dysuria.  He also has experienced an intermittent 
+bifrontal headache.  There is no photophobia, nausea, vision 
+changes, or dizziness/lightheadedness.
+
+ROS:
+GEN:  +fevers, chills, night sweats
+HEENT:  no vision changes, loss of hearing, dysphagia
+CV:  +chest pain today
+RESP:  +cough, +shortness of breath, + 2pillow orthopnea, no PND
+GI:  +abdominal pain, no nausea, vomiting, diarrhea, 
+constipation, heartburn, hematochezia, melana
+GU:  no dysuria, hematuria, hesitancy, or change in frequency or 
+nocturia
+SKIN:  no rashes, lesions
+NEURO: no weakness, paresthesias, numbness, +headaches - 
+bifrontal, dizziness
+MUSCULOSKELETAL:  +diffuse arthralgias and myalgias 
+
+ 
+Past Medical History:
+1.  NSCLC - as above
+2.  COPD
+3.  hypertension
+4.  hypercholesterolemia
+5.  gastritis
+6.  pulmonary hypertension
+7.  h/o colon polyps
+8.  benign prostatic hypertrophy -?t/p ?TURP
+9.  osteoarthrtisis
+10. s/p bilateral knee replacements ___
+11. s/p hernia repair
+12. s/p thyroidectomy for what is reported as a Hurthle
+cell carcinoma of the thyroid - ?___
+
+ 
+Social History:
+___
+Family History:
+No history of lung or other malignancy
+Mother d. ___
+Father d. at young age, killed in the army
+Two brothers - one had asthma and has passed away.  The other 
+had a benign lung mass removed.
+ 
+Physical Exam:
+T 98.9 HR 70  BP 114/64  RR 20  99%2Lnc
+GEN:  alert and oriented x3, comfortable, no acute distress
+HEENT:  PERRL, anicteric, conjunctiva pink, oropharynx without 
+lesion or exudate, moist mucus membranes
+LYMPH:  no anterior/posterior cervical, occipital, 
+supraclavicular, or axillary adenopathy
+CARDIOVASCULAR:  PMI nondisplaced, regular rate and rhythm 
+without murmurs, rubs, or gallops
+LUNGS:  bilateral wheezes and bibasilar crackles R > L, breath 
+sounds throughout, no dullness or percussion
+ABDOMEN:  obese, soft, nontender to palpation, distended with 
+normal active bowel sounds.  no masses.  no hepatosplenomegaly 
+by percussion or palpation, dilated superficial veins
+EXTREMITIES:  no edema; venous stasis changes present
+SKIN:  no rashes, petechia, lesions, or echymoses
+NEURO:  A&Ox3, cranial nerves II-XII intact, strength ___ 
+throughout grossly
+ 
+Pertinent Results:
+Labs on Admission:
+___ 11:50AM BLOOD WBC-16.6* RBC-5.18 Hgb-15.2 Hct-45.1 
+MCV-87 MCH-29.3 MCHC-33.6 RDW-14.9 Plt ___
+___ 11:50AM BLOOD Neuts-82.8* Lymphs-12.7* Monos-3.6 
+Eos-0.4 Baso-0.6
+___ 11:50AM BLOOD Glucose-83 UreaN-15 Creat-1.1 Na-140 
+K-4.4 Cl-102 HCO3-28 AnGap-14
+___ 11:50AM BLOOD CK-MB-4 cTropnT-<0.01
+___ 11:50AM BLOOD TSH-1.4
+  
+CXR ___: 
+1. Increased opacity in the right upper lung, concerning for 
+infection. 
+2. Expected post-left upper lobectomy and right upper lobe wedge 
+resection 
+change. 
+  
+Chest, Abdomen, Pelvis CT ___:
+1. No evidence of pulmonary embolus or dissection. 
+2. New scattered opacities in the right upper lobe with 
+peribronchial 
+thickening concerning for infection. 
+3. Stable hilar mass, mediastinal lymphadenopathy, and 
+attenuation of the 
+right upper lobe bronchus. 
+4. Dilation of the right main pulmonary artery suggestive of 
+pulmonary 
+hypertension. 
+5. No evidence of intra-abdominal or intra-pelvic metastatic 
+disease. 
+  
+KUB ___:  Nonspecific bowel gas pattern.
+ 
+Brief Hospital Course:
+___ man with metastatic NSCLC, C4D8 vinorelbine, admitted with 
+fever, cough, and dyspnea.  Hospital course by problem:
+  
+1. FEVER, COUGH, DYSPNEA:
+Pt was diagnosed with pneumonia based on CXR and CT findings 
+with new right upper lobe opacity and air bronchograms.  He was 
+given Albuterol and Ipratropium inhalers and Levofloxacin 750mg 
+PO q48 hours based on renal function.  He received a 5-day 
+course of Levofloxacin for PNA while in the hospital.  Blood 
+cultures were negative and sputum cultures were contaminated.  
+His symptoms improved during this hospitalization.  He was 
+discharged with an appointment for outpatient pulmonary rehab 
+and an appointment with a pulmnologist.  He was discharged on 
+home oxygen has his ambulatory oxygen saturation was < 88%.
+  
+2. CONSTIPATION:
+Pt had a CT scan which showed no pathology for his abdominal 
+pain.  He was constipated during this admission and KUB showed 
+non-specific bowel gas pattern.  He was given a soap suds enema 
+prior to discharge which was effective.  He was continued on 
+colace and senna.
+  
+3. NSCLC:
+CT of the chest showed stable disease.  He will follow-up with 
+his primary oncologist for further treatment options.
+  
+4. HYPERTENSION: continued on Atenolol and Lisinopril
+  
+5. HYPERCHOLESTEROLEMIA: continued on Atorvastatin
+  
+6. HYPOTHYROID: continued on levothyroxine
+ 
+Medications on Admission:
+albuterol neb q4hours prn shortness of breath
+atenolol 25mg daily
+Lipitor 10mg daily
+Celexa 20mg daily
+Robitussin DM TID prn cough
+Advair 250mcg-50mcg 1puff INH BID
+Atrovent neb q6hour prn shortness of breath
+Lasix 20mg daily
+levothyroxine 100mcg daily
+lisinopril 40mg daily
+lorazepam 0.5mg BID prn anxiety
+Zofran 8mg q8hr prn nausea
+Compazine 10mg q8hr prn nausea
+Spiriva 18mcg INH daily
+Ambien ___ qhs prn sleeplessness
+aspirin 81mg daily
+Tylenol prn pain
+
+ 
+Discharge Medications:
+1. Oxygen
+Home Oxygen @ 2LPM via nasal cannula conserving device for 
+portability
+2. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+3. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Citalopram 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Fluticasone-Salmeterol 250-50 mcg/Dose Disk with Device Sig: 
+One (1) Disk with Device Inhalation BID (2 times a day).  
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+7. Levothyroxine 100 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+8. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+9. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+10. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+11. Dextromethorphan-Guaifenesin ___ mg/5 mL Syrup Sig: ___ 
+MLs PO Q6H (every 6 hours) as needed for cough.  
+12. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer 
+Inhalation Q6H (every 6 hours).  
+13. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+14. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+15. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+16. Lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO Q8H 
+(every 8 hours) as needed.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Community-Aquired Pneumonia
+2. COPD
+3. Non-Small Cell Lung Cancer
+4. Constipation
+
+Secondary Diagnoses:
+5. Hypertension
+6. Hypercholesterolemia
+7. Hypothyroidism
+
+ 
+Discharge Condition:
+afebrile, hemodynamically stable, O2 saturation 98% on 2L NC
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with shortness of breath and 
+were found to have a pneumonia.  You were treated with 
+antibiotics.  Your symptoms only slightly improved.  You also 
+had some abdominal distention and were given medictions for your 
+bowels.
+
+You have already completed a course of antibiotics and do not 
+need additional antibiotics.  You were discharged with a 
+prescription for outpatient pulmonary rehab and an appointment 
+to see a pulmonologist.
+
+You should call your doctor or return to the hospital with any 
+fevers > 100.4, chills, night sweats, worsening of your 
+shortness of breath, nausea, vomiting, abdominal pain, 
+constipation, leg swelling, skin rashes or any other symptoms 
+that concern you.
+ 
+Followup Instructions:
+___

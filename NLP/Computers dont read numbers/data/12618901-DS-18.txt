@@ -1,0 +1,221 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Epistaxis
+
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Pt is a ___ y/o M with PMHx of HTN, HLD, hypothyroidism, stage IV 
+colon CA currently C11 FOLFOX, as well as recent PE ___ on 
+coumadin, who is admitted with epistaxis in the setting of 
+supratherapeutic INR.
+
+Pt reports that epistaxis initially began yesterday evening 
+after blowing his nose. He presented to ___ for scheduled chemo 
+and was referred to their urgent care clinic. There, physician 
+uses silver nitrate to cauterize the bleeding. He then had a 
+small gauze pack placed in the left nares. However, while at 
+___, the patient became diaphoretic, dizzy, and had 
+a systolic blood pressure of 70. He was also noted to have a 
+hemoglobin drop from 11 to 9. He was given IV fluids and 
+transferred to the emergency department. He did not have his 
+usual chemotherapy. He does report some dizziness and 
+lightheadedness at that time, but he had not eaten or drank 
+anything since this morning.
+
+In the ED, the inital plan was to obs overnight without ENT 
+consult given that bleeding had stopped. However, the patient 
+developed recurrent bleeding in the ED, spitting up bright red 
+blood and clots. His Hct was also noted to drop to 25.5. ENT 
+consulted and evaluated the patient in the ED, patient given Vit 
+K. FFP ordered but not yet given. 
+
+ED Course:
+Initial VS: 98.0 110 ___ 100% RA Pain ___
+Labs significant for Hct 27.4 -> 25.5. INR 8.4.
+Imaging: none
+Meds given: Vitamin K 10 mg IV, 3L NS
+VS prior to transfer: 97 136/78 16 97% RA Pain ___
+
+On arrival to the floor, the patient reports spitting up an 
+additional small amount of blood en route across the street. He 
+also reports a dark stool. Denies any current lightheadedness, 
+dizziness, chest pain, heart palpitations.
+
+ROS: As above. Denies headache, lightheadedness, dizziness, sore 
+throat, sinus congestion, chest pain, heart palpitations, 
+shortness of breath, cough, nausea, vomiting, constipation, 
+urinary symptoms, muscle or joint pains, focal numbness or 
+tingling, skin rash. The remainder of the ROS was negative.
+
+ 
+Past Medical History:
+HTN
+Hypothyroid
+HLD
+Obesity
+Allergic rhinitis
+Pulmonary embolism
+Stage IV colon cancer, currently C11 FOLFOX 
+
+ 
+Social History:
+___
+Family History:
+He has one brother, age ___ and one sister age ___. He is unsure 
+if they have had colonoscopies. He has not discussed his own 
+diagnosis with them. His father died at age ___ of "liver 
+cancer", does not know any further details. His mother alive at 
+age ___. He has no children.
+ 
+Physical Exam:
+PHYSICAL EXAM: 
+VS - 99.5 138/79 94 16 100%RA
+GEN - Alert, NAD
+HEENT - NC/AT, OP clear, no visible epistaxis, MMM
+NECK - Supple, no JVD
+CV - RRR, no m/r/g
+RESP - CTA B
+ABD - S/ND, BS present, healed midline incision, mild diffuse 
+TTP without rebound or guarding
+EXT - Trace BLE edema, no calf tenderness
+SKIN - No apparent rashes
+NEURO - Non-focal
+PSYCH - Calm, appropriate
+
+ 
+Pertinent Results:
+___ 03:46PM BLOOD WBC-2.3* RBC-2.75* Hgb-8.0* Hct-25.0* 
+MCV-91 MCH-29.2 MCHC-32.2 RDW-17.8* Plt ___
+___ 04:35AM BLOOD WBC-2.7* RBC-2.54* Hgb-7.2* Hct-23.6* 
+MCV-93 MCH-28.5 MCHC-30.7* RDW-18.1* Plt ___
+___ 04:35AM BLOOD ___ PTT-39.6* ___
+___ 02:44PM BLOOD ___ PTT-58.2* ___
+___ 04:35AM BLOOD Glucose-89 UreaN-25* Creat-0.8 Na-144 
+K-3.7 Cl-112* HCO3-26 AnGap-10
+___ 04:35AM BLOOD Calcium-7.8* Phos-2.1* Mg-1.___SSESSMENT & PLAN: ___ y/o M with PMHx of HTN, HLD, 
+hypothyroidism, stage IV colon CA currently C11 FOLFOX, as well 
+as recent PE ___ on coumadin, who is admitted with epistaxis 
+in the setting of supratherapeutic INR
+
+# Epistaxis / Acute Blood Loss Anemia / Coagulopathy: Pt 
+presenting with epistaxis in the setting of supratherapeutic 
+INR. S/p silver nitrate and surgicel. Seen by ENT in the ED. 
+Epistaxis largely resolved at this point. Pt is now s/p 10 mg IV 
+vitamin K. 2 u FFP given.  Hgb down to 7.2 and he received 1 u 
+RBC on ___ as he dropped significantly and may require ongoing 
+anticoagulation.  His post transfusion hgb 8.  Instructions re: 
+packing in d/c instructions: absorbable, does not need 
+prophylacitc antibiotics, will see ent for f/u in 2 weeks.  INR 
+on ___.   Patient will get INR checked at ___ 
+clinic on ___ and if INR<2 can resume coumadin but at lower 
+dose (avoid doses of 7.5-10mg) to keep INR close to ___ rather 
+than higher.  Not sure why his INR rose so quickly: no recent 
+antibiotics or diet changes.  He did describe some dark stools 
+but in context of swallowing some of the blood from epistaxis.   
+
+
+# H/o PE: see above, plan to resume coumadin without bridge once 
+inr checked at ___ clinic on ___.
+# Stage IV Colon CA: C11 FOLFOX. Followed by Dr. ___ at ___.
+
+# HTN:
+- resume anti-htn on discharge
+# Hypothyroidism:
+continue levothyroxine
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 88 mcg PO DAILY 
+2. Lorazepam 0.5 mg PO Q6H:PRN nausea 
+3. Multivitamins 1 TAB PO DAILY 
+4. Ondansetron 8 mg PO Q8H:PRN nausea 
+5. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+6. Simvastatin 20 mg PO DAILY 
+7. Warfarin 7.5 mg PO DAILY16 
+8. lisinopril-hydrochlorothiazide ___ mg oral daily 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+epistaxis
+blood loss anemia acute
+coagulopathy 
+chronic pulm emboli and colon cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+you were hospitalized for a serious nose bleed that required 
+packing of your nose and treatment with blood transfusion, 
+reversal of your inr with vitamin k and plasma
+
+The nasal packing placed today will dissolve on its own in ___
+days. The patient does not require antibiotics for this packing.
+Do not be alarmed if nasal secretions are brown tinged as this 
+is
+due to discoloration from this dressing.
+- Continue epistaxis precautions x2 weeks. (Avoid nose blowing.
+Sneeze with the mouth open. Avoid vigorous activity, straining,
+or heavy lifting.)
+___
+If the patient redevelops a nosebleed: 
+1. Spray three sprays of Afrin in each nostril. 2. Apply 
+pressure
+to the outside of the nose (over the flexible end of the nose)
+for 30 minutes and lean forward so that the patient does not
+swallow blood.  Hold constant, firm pressure for the entire
+duration without "peeking" to see if it has stopped as this will
+likely result in repeated bleeding.  If the patient continues to
+have a nose bleed or if the bleeding is very rapid or excessive,
+please have patient present to the nearest emergency department
+emergently for medical evaluation or if the patient is
+hospitalized page Otolaryngology. 
+___
+In order to decrease the risk for future nosebleeds, we 
+recommend
+the following strategies:
+- Avoid aspirin or other similar medications, unless medically
+necessary
+- If the patient is on Coumadin or other blood thinners, we
+recommend tight management to avoid excessive blood thinning
+which can cause recurrent bleeding. This patient will likely
+require reversal of his INR given the extreme elevation.
+- If the patient has elevated blood pressure, keeping the blood
+pressure controlled will decrease the risk for future bleeds.
+- Avoid trauma to the nose.  This includes irritation from
+exploring digits (nose picking) and excessive nose blowing.  If
+you sneeze or cough, do so with a widely open mouth to avoid
+excessive pressure buildup in your nose.
+- - Maintain nasal moisture by using a room humidifier at night,
+especially during the dry winter months will keep the nose moist
+and less susceptible to bleeding. Use nasal saline mist, two
+sprays to each nostril at least four times daily. 
+
+ 
+Followup Instructions:
+___

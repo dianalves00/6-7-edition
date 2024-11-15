@@ -1,0 +1,231 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Multiple pelvic fractures
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo F with PMH of HTN and glaucoma who presents from OSH with 
+pelvic fracture. Patient sustained a mechanical fall early this 
+morning after tripping and falling on edge of carpet in her 
+bedroom. Immediately experienced severe right pelvis pain. 
+Denies head strike or LOC. At OSH, patient had negative CT head. 
+She was found to have pelvic fracture for which she was 
+transferred to ___.
+
+In the ED, initial vital signs were 97.2, 99, 114/66, 18, 99% 
+RA. Labs were remarkable for WBC 15.5 and H/H 9.6/32.4. 
+Otherwise, labs were unremarkable. Plain film pelvis showed 
+non-displaced fractures of inferior pubic rami, left superior 
+pubic ramus, and minimally displaced fracture of right sacrum. 
+Orthopedics was consulted and recommended pain control, ___, 
+weight-bearing as tolerated, and follow-up in Orthopedics Clinic 
+in 1 week. Patient was admitted to Medicine for pain control.
+
+On the floor, patient denies pain. She corroborated above 
+history. Reports that morphine worked well for pain. She denies 
+fevers, chills, chest pain, abdominal pain, nausea, vomiting, 
+diarrhea, constipation, and urinary symptoms.
+ 
+Past Medical History:
+- Hypertension
+- Glaucoma
+ 
+Social History:
+___
+Family History:
+None
+ 
+Physical Exam:
+ADMISSION EXAM
+
+General: Well-appearing elderly female in no distress
+HEENT: NCAT, sclera anicteric, MMM, oropharynx clear
+Neck: Supple, JVP not elevated, no LAD
+CV: RRR, nl S1/S2, no MRG
+Lungs: CTAB anteriorly
+Abdomen: Soft, NTND, bowel sounds present
+Ext: Warm, well-perfused, trace peripheral edema
+Neuro: CN II-XII intact, moving lower extremities, strength 
+testing limited by hip pain, sensation fully intact
+Skin: No concerning lesions
+
+DISCHARGE EXAM
+
+Vitals: 97.9, 104-130/59-69, 97, 18, 97% on RA
+General: Well-appearing elderly female in no distress
+HEENT: NCAT, sclera anicteric, MMM, oropharynx clear
+CV: RRR, nl S1/S2, no MRG
+Lungs: CTAB, no wheezes/rales/rhonchi
+Abdomen: Soft, NTND, bowel sounds present
+Ext: Warm, well-perfused, trace peripheral edema
+Neuro: MAE, answers questions appropriately
+Skin: No concerning lesions
+
+ 
+Pertinent Results:
+ADMISSION LABS
+
+___ 12:19PM BLOOD WBC-15.5* RBC-3.47* Hgb-9.6* Hct-32.4* 
+MCV-93 MCH-27.7 MCHC-29.7* RDW-13.0 Plt ___
+___ 12:19PM BLOOD Neuts-87.7* Lymphs-7.8* Monos-3.8 Eos-0.2 
+Baso-0.4
+___ 10:06AM BLOOD ___ PTT-32.8 ___
+___ 10:06AM BLOOD Glucose-118* UreaN-21* Creat-0.9 Na-137 
+K-5.0 Cl-101 HCO3-24 AnGap-17
+___ 10:10AM BLOOD Lactate-2.0
+___ 10:10AM BLOOD Hgb-11.7* calcHCT-35 O2 Sat-76
+
+PERTINENT LABS
+
+___ 12:50PM BLOOD ALT-10 AST-15 AlkPhos-78 TotBili-0.3
+___ 12:50PM BLOOD Iron-22*
+___ 12:50PM BLOOD calTIBC-224* Ferritn-295* TRF-172*
+
+DISCHARGE LABS
+___ 07:30AM BLOOD WBC-11.1* RBC-3.61* Hgb-10.3* Hct-33.2* 
+MCV-92 MCH-28.5 MCHC-31.1 RDW-13.2 Plt ___
+___ 06:41AM BLOOD Glucose-103* UreaN-15 Creat-0.7 Na-137 
+K-4.2 Cl-104 HCO3-27 AnGap-10
+
+IMAGING
+
+Plain film pelvis (___): 1. Non-displaced fractures of the 
+inferior pubic rami bilaterally. 2. Non-displaced fracture of 
+the left superior pubic ramus. 3. Minimally displaced fracture 
+of the right sacrum. 
+
+CT abdomen/pelvis (___): 1. Bilateral inferior pubic rami 
+fractures, left superior pubic ramus fracture, and right sacral 
+ala fracture. 2. Small amount of blood in along the pelvic 
+sidewalls, anterior to the bladder, and in the presacral space. 
+3. Thickening cecum and adjacent lymphadenopathy, very 
+concerning for malignancy.
+
+ 
+Brief Hospital Course:
+___ yo F with PMH of HTN and glaucoma who presents from OSH with 
+pelvic fracture.
+
+ACTIVE ISSUES
+
+# Multiple pelvic fractures: Due to mechanical fall. Evaluated 
+by Orthopedics and surgical intervention is not indicated. 
+Admitted to Medicine for pain control. Patient's pain was 
+controlled with standing Tylenol. She did not require oxycodone 
+but did take Tramadol for further pain control though she 
+complained that it made her sleepy. Physical therapy was 
+consulted and recommended rehabilitation placement.
+
+# Leukocytosis: Resolving. Most likely in the setting of pelvic 
+fracture. Leukocytosis stabilized at ~11. 
+
+# Anemia: Hct 32.4 on admission. Unclear baseline. Concern for 
+acute blood loss anemia in the setting of her multiple pelvic 
+fractures or iron-deficiency anemia from probable colon cancer. 
+Iron studies showed mixed picture, both iron deficiency and 
+anemia of inflammation. Hct stable on discharge without active 
+signs of bleeding.
+
+# Cecal thickening: Found on CT abdomen/pelvis. Very concerning 
+for malignancy per final report. Discussed with patient. 
+Recommended colonoscopy for further evaluation. Patient elected 
+to discuss with PCP as outpatient. PCP's office also notified of 
+CT scan findings and concern for malignancy.
+
+CHRONIC ISSUES
+
+# Hypertension: Continued home lisinopril and amiloride.
+
+# Glaucoma: Continued home timolol and latanoprost.
+
+TRANSITIONAL ISSUES
+- Discharge vital signs: T 97.9 BP 104-130/59-69 P 97 R 16 O2Sat 
+97% RA
+- Started standing Tylenol and Tramadol as needed for pain
+- Vital signs per routine
+- CBC in ___ days for resolving leukocytosis, hematocrit. 
+otherwise labs per routine
+- Physical therapy
+- Weight bearing as tolerated
+- Needs follow-up with PCP on discharge from facility given 
+concerns for cecal malignancy
+- follow-up with Orthopedics
+- Emergency contact: ___ (daughter) ___
+- Code: Full (confirmed)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amiloride HCl 5 mg PO DAILY 
+2. Lisinopril 20 mg PO DAILY 
+3. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 
+4. Timolol Maleate 0.5% 1 DROP BOTH EYES DAILY 
+
+ 
+Discharge Medications:
+1. Amiloride HCl 5 mg PO DAILY 
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 
+3. Lisinopril 20 mg PO DAILY 
+4. Timolol Maleate 0.5% 1 DROP BOTH EYES DAILY 
+5. Senna 17.2 mg PO HS 
+6. Docusate Sodium 100 mg PO BID 
+7. Acetaminophen 1000 mg PO Q8H 
+8. TraMADOL (Ultram) 25 mg PO Q6H:PRN pain 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary diagnosis: Fall with pelvic fracture
+
+Secondary diagnoses:
+- Anemia
+- Hypertension
+- Glaucoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you while you were a patient at 
+___. You came to us with a 
+pelvic fracture after your fall. Our orthopedic surgeons 
+recommended physical therapy and rehab. We are sending you to a 
+rehab facility so that you can build up your strength and heal 
+your fracture.
+
+While you were here, we got a CT scan of your abdomen and 
+pelvis. This showed some bleeding from your pelvic fracture. It 
+also showed some thickening in the first part of your colon that 
+is concerning for a tumor. Please discuss colonoscopy with your 
+PCP, who we informed of these results while you were here. 
+
+We wish you all the best. 
+ 
+Followup Instructions:
+___

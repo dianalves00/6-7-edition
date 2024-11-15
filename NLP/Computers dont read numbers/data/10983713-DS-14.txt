@@ -1,0 +1,262 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dizziness, nausea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+none.
+
+ 
+History of Present Illness:
+___ yo F w/ PMHx of ESRD ___ polycystic kidney disease and HTN, 
+on peritonial dialysis since ___, p/w with 2 day h/o of 
+cloudy/foul smelling urine, N/V, dizziness, HA, and blurred 
+vision. Patient performs peritoneal dialysis 4x/day at home and 
+goes into ___ Dialysis ___ in ___ ___ for 
+monitoring. During past week, patient has been approximately 1L 
+negative each day due to the time protocol that she is on (1500 
+in, ___ out each time). Yesterday, after dialysis, 
+patient's home BP measured to be in ___ and EMS was called. 
+Patient had some chicken soup and EMS found patient to have SBP 
+of 118. Of note, patient had not noticed any redness or 
+discharge with dialysis catheter site on abdomen during this 
+period. No fever/chills, CP, SOB, palpitations, abd pain, 
+constipation, diarrhea. Patient did have 
+.
+Upon arrival to ED, VS: 98.9 80 120/84 16 97%, no orthostatic 
+hypotension but + orthostatic dizziness. EKG showed NSR, TWF in 
+lateral leads. A 1L NS bolus was given, along with Tylenol 1g 
+for HA, with good relief. U/A showed many bacteria, >182WBC, lg 
+leukocyte esterase and pt was treated with 1g IV Ceftriaxone. 
+CXR showed no acute cardiopulmonary process, a small granuloma 
+in RUL, & mild spurring in thoracic spine. FAST US showed sm 
+fluid in splenorenal recess c/w peritoneal dialysis. 
+.
+Upon arrival to floor, patient's VS: 98.9/98.0 136/92 77 16 
+100%RA. She reports that all of her sx have resolved and that 
+she currently feels much better. ROS otherwise negative.
+
+ 
+Past Medical History:
+1. Adult Polycystic Kidney Disease
+2. Hypertension
+3. ESRD on PD
+4. Uterine Prolapse
+5. Grannuloma on CXR (3mm, calcified)
+6. Anemia
+ 
+Social History:
+___
+___ History:
+Patient's mother had ___ c/by ESRD requiring dialysis  
+Patient's daughter has ___ but has had no complications.  
+
+ 
+Physical Exam:
+Admission PHYSICAL EXAMINATION
+VITALS: 98.0  136/92  77  16  100%RA
+GENERAL: WDWN in NAD. Alert and oriented. No central or 
+peripheral cyanosis; no jaundice, no palor.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Oropharynx clear.
+NECK: Supple; no JVD; no LAD.
+CARDIAC: RRR, normal S1, S2; no S3, S4. No m/r/g.
+LUNGS: CTAB, no wh/r/rh. Respirations unlabored, no accessory 
+muscle use.
+ABDOMEN: +BS. Soft, NTND, no rebound, no gaurding. No HSM or 
+tenderness. Catheter site with very mild erythema but c/d/i.
+GU: No foley
+EXTREMITIES: WWP, no cyanosis, no edema. 2+ pulses.
+SKIN: No rashes, bruising, lesions.
+NEURO: CN2-12 intact; strength ___, sensation/cerebellar fxn 
+intact.
+
+==================================================
+Discharge PE:
+VITALS: 98.0/97.6  137/86  76  16  99%RA
+GENERAL: WDWN in NAD. Alert and oriented. No central or 
+peripheral cyanosis; no jaundice, no palor.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Oropharynx clear.
+NECK: Supple; no JVD; no LAD.
+CARDIAC: RRR, normal S1, S2; no S3, S4. No m/r/g.
+LUNGS: CTAB, no wh/r/rh. Respirations unlabored, no accessory 
+muscle use.
+ABDOMEN: +BS. Soft, NTND, no rebound, no gaurding. No HSM or 
+tenderness. Catheter site with very mild erythema but c/d/i.
+GU: No foley
+EXTREMITIES: WWP, no cyanosis, no edema. 2+ pulses.
+SKIN: No rashes, bruising, lesions.
+NEURO: CN2-12 intact; strength ___, sensation/cerebellar fxn 
+intact.
+
+ 
+Pertinent Results:
+Admission Labs: 
+___ 01:30PM BLOOD WBC-8.2 RBC-3.93* Hgb-11.2* Hct-32.8* 
+MCV-84 MCH-28.5 MCHC-34.2# RDW-17.0* Plt ___
+___ 01:30PM BLOOD Neuts-80.1* Lymphs-14.7* Monos-3.8 
+Eos-0.9 Baso-0.5
+___ 01:30PM BLOOD Glucose-93 UreaN-76* Creat-6.2*# Na-130* 
+K-3.1* Cl-91* HCO3-21* AnGap-21*
+___ 08:45PM BLOOD Osmolal-294
+
+___ 02:30PM URINE Color-Straw Appear-Hazy Sp ___
+___ 02:30PM URINE Blood-SM  Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-LG
+___ 02:30PM URINE RBC-12* WBC->182* Bacteri-MANY Yeast-NONE 
+Epi-3
+___ 02:30PM URINE Mucous-RARE
+___ 02:34PM URINE Hours-RANDOM UreaN-203 Creat-72 Na-44 
+K-14 Cl-30 TotProt-45 Phos-20.9 Prot/Cr-0.6*
+___ 02:34PM URINE Osmolal-203
+
+___ 04:17AM ASCITES WBC-13* RBC-1* Polys-9* Lymphs-37* 
+Monos-48* Eos-1* Macroph-5*
+___ 04:17AM ASCITES TotPro-0 Glucose-790 LD(LDH)-4 
+Albumin-LESS THAN 
+
+Discharge Labs:
+___ 11:30AM BLOOD WBC-8.9 RBC-4.65 Hgb-13.0 Hct-38.8 MCV-84 
+MCH-28.0 MCHC-33.5 RDW-16.9* Plt ___
+___ 11:30AM BLOOD Neuts-87.7* Lymphs-8.0* Monos-3.4 Eos-0.6 
+Baso-0.3
+___ 11:30AM BLOOD Glucose-81 UreaN-67* Creat-5.1*# Na-136 
+K-3.1* Cl-96 HCO3-22 AnGap-21*
+
+CXR (___): Cardiac silhouette and vascularity are normal. 
+There is a small granuloma in the right upper lobe. Otherwise, 
+lungs and pleural spaces are clear. Mild spurring is present 
+along the thoracic spine. 
+IMPRESSION: No evidence for active disease. 
+
+ 
+Brief Hospital Course:
+___ yo w ESRD on home PD 4x/day ___ adult polycystic kidney dz & 
+HTN presents with hypotension, dizziness in setting of UTI and 
+increased fluid removal from PD over the course of the last 
+week.
+.
+Active Issues:
+1. Hypotension - likely ___ UTI, decreased PO intake, and 
+vomiting. Patient's BP have been stable since admission. Treated 
+with antibiotics, sent home on Cipro 250mg PO daily (renally 
+dosed). Urine cultures, blood cultures, and peritoneal cultures 
+all pending, NGTDx1 day, dialysis RN to follow; Nephrology team 
+to contact her and get that set up. 
+.
+2. Hyponatremia - resolved, likely self-limited due to 
+infection, hypovolemia.
+.
+3. ESRD - appreciate renal recomendations. Cont' PD: 4x/day, 3hr 
+exchange, 2L, 1.5% Dextrose in PD solution while in hospital. 
+Will need dialysis nurse to follow up on culture data obtained 
+here (urine, blood, peritoneal fluid). Dr. ___ to follow as 
+outpatient.
+.
+4. Granuloma found on CXR since ___. PCP ___ need to 
+follow up on this finding with proper reimaging or other 
+clinical evaluation.
+.
+INACTIVE/CHRONIC ISSUES
+.
+HTN: continue amlodipine 5 daily
+.
+# Code: Full (discussed w pt)
+.
+.
+___ Tests: 
+Urine, blood, peritoneal cultures - pending, NGTDx1day. RN from 
+___ clinic will follow. Nephrology team communicated this 
+to RN.
+.
+.
+Transitional issues: see above
+-On ciprofloxacin 250mg PO daily (renally dosed)x14 days to end 
+on ___ for UTI. Patient will f/u PCP & Dr. ___ 1 
+week.
+ 
+Medications on Admission:
+1. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO QMOWEFR 
+(___).  
+2. gentamicin 0.1 % Cream Sig: One (1) Appl Topical 1X (ONE 
+TIME) as needed.  
+3. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+dose PO DAILY (Daily).  
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+5. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1) 
+Tablet PO once a day.  
+6. sodium bicarbonate 650 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+7. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. calcium acetate 667 mg Capsule Sig: Two (2) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+
+ 
+Discharge Medications:
+1. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO QMOWEFR 
+(___).  
+2. gentamicin 0.1 % Cream Sig: One (1) Appl Topical 1X (ONE 
+TIME) as needed.  
+3. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1) 
+dose PO DAILY (Daily).  
+4. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).  
+5. ferrous sulfate 325 mg (65 mg iron) Tablet Sig: One (1) 
+Tablet PO once a day.  
+6. sodium bicarbonate 650 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+7. amlodipine 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. calcium acetate 667 mg Capsule Sig: Two (2) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+9. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 14 doses: please take once a day, to end on 
+___ for a total of 14 days.
+Disp:*14 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Urinary Tract Infection
+Dehydration
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at the ___ 
+___. You were admitted to the hospital with 
+symptoms of dizziness, nausea, vomiting and headache. We believe 
+you were dehydrated and also found you to have a urinary tract 
+infection, which we are treating with antibiotics. You will need 
+to continue antibiotics (Ciprofloxacin) for 13 more days, last 
+dose ___. You will also need to follow up with your primary 
+care physician and your nephrologist in the next week to follow 
+up with your hospitalization.
+
+You are to 
+START ciprofloxacin 250mg by mouth daily, to end on ___.
+Please continue your other medications as prescribed.
+
+ 
+Followup Instructions:
+___

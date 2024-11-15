@@ -1,0 +1,174 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Obstructed peritoneal dialysis catheter.
+ 
+Major Surgical or Invasive Procedure:
+Peritoneal dialysis catheter repositioning (___).
+
+ 
+History of Present Illness:
+This is a ___ year-old woman with ESRD due to DM1 on dialysis 
+since ___, switched to peritoneal dialysis last year and under 
+evaluation for pancreas and kidney transplant. She is dialyzed 
+daily at home and reports a malfunctioning PD catheter x1 week. 
+She was otherwise asymptomatic without complaints. The patient 
+underwent catheter repositioning today with good flow. She is 
+being transferred from surgery to medicine for overnight 
+monitoring.
+
+Speaking with her this afternoon, she has mild nausea (possibly 
+from Dilaudid recieved in the PACU) and mild abdominal pain. She 
+otherwise feels okay, and she is sleeping in bed, in no apparent 
+distress or discomfort, when I arrive to examine her.
+ 
+Past Medical History:
+1. DM1 for ___ years complicated by nephropathy, retinopathy, and 
+neuropathy with multiple hospitalizations for hypoglycemia, 
+currently undergoing transplant evaluation for pancreas and 
+liver
+2. ESRD due to DM1 
+3. Hypertension
+4. Bilateral cataract surgeries and vitrectomies
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+VS: T 98.2, BP 210/90, HR 82, RR 18, satting 100% 2L
+BS: 125-66-137
+GEN: NAD, sleeping comfortably when I arrive to room, wakes to 
+voice, alert and oriented x3
+HEENT: EOMI, PERRL
+NECK: Supple, no JVD 
+CV: Reg rate, normal S1, S2. 
+CHEST: Clear breath sounds bilaterally  
+ABD: Dressings clean, dry, intact; apprpriate abdominal 
+tenderness
+EXT: No lower extremity swelling
+SKIN: No rash
+ 
+Pertinent Results:
+Labs at Admission:
+___ 12:45AM BLOOD WBC-7.3 RBC-3.87* Hgb-11.4*# Hct-34.7*# 
+MCV-90 MCH-29.3 MCHC-32.7 RDW-15.2 Plt ___
+___ 12:45AM BLOOD Neuts-60.1 ___ Monos-5.6 Eos-4.0 
+Baso-0.6
+___ 03:17AM BLOOD ___ PTT-29.5 ___
+___ 12:45AM BLOOD Glucose-110* UreaN-81* Creat-15.5*# 
+Na-138 K-4.5 Cl-103 HCO3-22 AnGap-18
+
+Labs at Discharge:
+___ 06:15AM BLOOD WBC-6.7 RBC-3.65* Hgb-10.7* Hct-32.7* 
+MCV-90 MCH-29.5 MCHC-32.8 RDW-15.1 Plt ___
+___ 06:15AM BLOOD Glucose-201* UreaN-72* Creat-14.9* Na-137 
+K-4.8 Cl-104 HCO3-18* AnGap-___ ___ year-old woman with past medical history of ESRD due to DMI 
+on dialysis since ___, switched to peritoneal dialysis last 
+year and under evaluation for pancreas and kidney transplant. 
+She presented today with an obstructed PD catheter and is now 
+s/p repositioning of catheter, transferred to medicine service 
+for overnight monitoring.
+
+Overnight she underwent peritoneal dialysis with no 
+complications. Her pain was controlled with low doses of 
+morphine, changed to tylenol at time of discharge. She was 
+continued on her outpatient medicines for end-stage renal 
+disease and hypertension. For diabetes management, we continued 
+her home Lantus dose and used humalog sliding scale with qid 
+fingersticks.
+
+She was kept on a diabetic diet, with subcutaneous heparin and a 
+bowel regimen for prophylaxis. At time of discharge she was 
+tolerating pos with adequate pain control.
+
+Her code status throughout this admission was full code.
+ 
+Medications on Admission:
+Calcium Acetate 1334 TID WITH MEALS
+Epogen 10,000 units WEEKLY
+Lasix 40 mg PO DAILY
+Lantus 15 units ___
+Novolog sliding scale
+Lisinopril 5 mg PO DAILY
+Renagel 800 mg PO TID WITH MEALS
+Lanthanum 1000 mg PO TID
+Metoprolol 50 mg PO BID
+Aspirin 81 mg PO DAILY
+Vitamin B complex PO DAILY
+Folic acid 1 mg PO DAILY
+Latanoprost 0.005 % Drops 1 gtt ___ DAILY
+Travoprost 0.004 % Drops 1 gtt ___
+ 
+Discharge Medications:
+1. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+4. Travoprost 0.004 % Drops Sig: One (1)  Ophthalmic ___ (once a 
+day (at bedtime)).  
+5. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. B Complex Vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+9. Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+10. Insulin Aspart  Subcutaneous
+11. Insulin Glargine 100 unit/mL Cartridge Sig: Fifteen (15) 
+UNITS Subcutaneous at bedtime.  
+12. Epogen 10,000 unit/mL Solution Sig: One (1)  Injection once 
+a week.  
+13. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Occluded peritoneal dialysis catheter
+.
+Secondary Diagnoses:
+End-stage renal disease on peritoneal dialysis
+Diabetes mellitus type I with end-organ damage
+Hypertension
+
+ 
+Discharge Condition:
+Vital signs stable. Afebrile.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because the peritoneal 
+dialysis catheter was blocked. You went to the operating room 
+where the catheter was repositioned. It is now functioning 
+properly and you underwent dialysis during admissioon without 
+issue.
+.
+There were no changes to your medicines.
+.
+Please call your doctor if you have fever, abdominal pain, or if 
+you encounter any problems with the dialysis catheter.
+ 
+Followup Instructions:
+___

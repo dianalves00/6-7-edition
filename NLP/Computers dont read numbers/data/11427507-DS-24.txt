@@ -1,0 +1,313 @@
+ 
+Name:  ___          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___: Coronary angiogram
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo F with a sig PMHx of CAD s/p CABG 
+LIMA-LAD, SVG-OM, SVG-PDA in ___, s/p PCI with DES to SVG-OM in 
+___ who presents with chest pain. 
+
+The patient was in her usual state of health until 3 days prior 
+to admission, when she began experiencing intermittent chest 
+pain radiating to her arms b/l. The pain is non exertional, non 
+pleuritic or positional, and lasted ___ hour -1 hour in 
+duration. Over the course of the past 3 days, she remembers 3 
+episodes of chest pain that occurred spontaneously. The episodes 
+resolved initially without intervention, however the last 2 
+episodes,required SL NG X2, which alleviated her symptoms 
+slightly. She denied any associated dyspnea, diaphoresis, 
+abdominal pain, n/v, presyncope or syncope. Of note, the patient 
+states that she has worsening acid reflux, which is 
+characterized by burning throat pain. She states that this pain 
+was not like her current pain. She denies any fevers, chills, 
+leg swelling, cough, congestion.  
+
+Given that her pain was similar to her prior MI, she presented 
+to ___ for further evaluation.
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY
+====================
+1. CARDIAC RISK FACTORS
+- Diabetes, Insulin dependent
+- Hypertension
+- Dyslipidemia
+
+2. CARDIAC HISTORY
+- CAD, inferior wall MI ___, CABG:  LIMA-LAD, SVG-OM,
+SVG-PDA in ___. Symptoms: chest pressure, LUE/jaw
+discomfort. SVG-OM DES 11.10.
+
+3. OTHER PAST MEDICAL HISTORY
+- GERD
+- Obstructive sleep apnea, intolerant to CPAP
+- Depression
+ 
+Social History:
+___
+Family History:
+Has a ___ son with unknown type of congenital heart 
+disease.  Father with MI, age ___, CABG, PPM, deceased in ___ 
+from melanoma.  Three siblings, one brother with sudden cardiac 
+death after MI age ___.  Older sister with silent MI.
+ 
+Physical Exam:
+Physical Exam on Admit:
+=======================
+- Initial vitals:
+T 98.1 HR 64 BP 200/79 RR 18 SPO2 98% RA
+- Exam: 
+Head: Normocephalic and atraumatic
+Eyes: PERRL, EOMi
+Lungs: CTAB
+Cardiac: RRR, no murmur
+Abdomen: Soft, nontender, nondistended
+GU: No CVA tenderness
+Musculoskeletal: No obvious deformities of limbs
+Extremities: no ___ edema
+Neurologic: Awake, alert, moves all extremities. Speech fluent.
+Dermatologic: Skin is warm and dry
+
+ 
+Pertinent Results:
+Labs on Admit:
+==================
+___ 10:35PM 
+WBC-10.2* RBC-4.26 Hgb-12.5 Hct-38.0 MCV-89 MCH-29.3 MCHC-32.9 
+RDW-13.0 RDWSD-42.4 Plt ___
+Neuts-56.7 ___ Monos-9.1 Eos-2.2 Baso-0.3 Im ___ 
+AbsNeut-5.77 AbsLymp-3.17 AbsMono-0.92* AbsEos-0.22 AbsBaso-0.03
+___ PTT-132.7* ___
+Glucose-67* UreaN-12 Creat-0.7 Na-142 K-4.1 Cl-102 HCO3-28 
+AnGap-12
+Calcium-9.8 Phos-3.5 Mg-1.7
+%HbA1c-8.1* eAG-186*
+
+___ 10:35PM cTropnT-<0.01
+___ 07:21AM CK-MB-4 cTropnT-<0.01
+___ 07:21AM CK(CPK)-118
+___ 05:00PM cTropnT-<0.01
+
+Results:
+====================
+- EKG (___): HR 57 bpm. PR 178ms. normal axis. TWI III, aVF. 
+ST
+depression V6. IVCD. Unchanged from prior.
+
+CXR (___): FINDINGS:  Lungs are clear without focal 
+consolidation.  There is no evidence of pulmonary edema large 
+pleural effusion or pneumothorax.  There is mild cardiomegaly.  
+Patient is status post median sternotomy with multiple surgical 
+clips projecting over the mediastinum.  The osseous structures 
+are unremarkable. 
+.
+Coronary angiogram ___:
+Coronary Anatomy
+Coronary Description
+LM
+The left main coronary artery is calcified, without significant 
+disease.
+LAD
+The left anterior descending coronary artery is calcified, with 
+mid subtotal occlusion after D1.
+Circ
+The circumflex coronary artery is with diffuse 60% proximal and 
+mid occlusion. OM1 is small caliber
+with diffuse 50-60% proximal.
+RCA
+The right coronary artery is with mid ___ occlusion.
+LIMA-LAD
+A LIMA-LAD is widely patent.
+SVG-OM
+A saphenous vein graft to the OM is widely patent.
+SVG-RPDA
+A saphenous vein graft to the RPDA is widely patent. is widely 
+patent
+Complications: There were no clinically significant 
+complications.
+Findings
+ Three vessel coronary artery disease.
+ Widely patent grafts.
+Recommendations
+ Maximize medical therapy.
+
+ 
+Brief Hospital Course:
+Assessment: ___ year old woman with a PMH of CAD s/p CABG and PCI
+here with unstable angina.
+
+Plan: 
+#unstable angina/CAD: 
+Troponins negative and EKG w/o change, however chest
+pressure persists. Initially thought angina but coronary 
+angiogram did not show any significant change from prior, with 
+LIMA and 2 SVGs patent. Patient feels that this may be more 
+severe GERD and she was encouraged to take ranitidine 75 mg at 
+night in addition to her omeprazole and sulcrafate. Increase 
+activity decrease calorie consumption as outpt to
+promote weight loss. Recommended cardiac rehab.
+
+#GERD: states that UA coincided with worsening GERD which she
+experiences as throat burning. She has undergone several
+gastrointestinal studies including esophageal manometry which
+demonstrated a 4 cm hiatal hernia. She had an pH esophageal
+study which showed appropriate acid suppression.
+-MOM and TUMs PRN
+-Continue home Omeprazole 40mg and sulcrafate. Start ranitidine 
+150 mg at night.
+
+Chronic Issues:
+---------------
+
+#HTN: SBP 200 in ED currently 101-149. Suspect BP in ED d/t
+pain/anxiety. Restarted lisinopril metoprolol at discharge.
+
+#Diabetes: Poorly controlled. Discussed with patient.
+Hgb A1c 8.1 on admit. Is prescribed Januvia but has not yet
+started. Metformin should be held for 48 hours post discharge. 
+As noted above encouraged exercise in cardiac rehab.
+
+#DLD: Last lipids ___ TC94.TG126. Continued Atorvastatin 80mg 
+and fish oil.
+
+#Depression: stable. Continued fluoxetine
+
+#Obstructive Sleep apnea: intolerant to cpap
+Has seen RD for dietary education
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+2. Fish Oil (Omega 3) 1000 mg PO BID 
+3. trospium 20 mg oral BID 
+4. Metoprolol Succinate XL 100 mg PO DAILY 
+5. MetFORMIN (Glucophage) 1000 mg PO BID 
+6. Docusate Sodium 100 mg PO BID 
+7. Psyllium Powder 1 PKT PO TID:PRN constipation 
+8. Mometasone Nasal Spray  (*NF*) 100 mcg Other DAILY 
+9. Atorvastatin 80 mg PO QPM 
+10. dulaglutide 0.75 mg/0.5 mL subcutaneous Q weekly 
+11. Multivitamins 1 TAB PO DAILY 
+12. Isosorbide Mononitrate (Extended Release) 180 mg PO DAILY 
+13. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+14. Sucralfate 1 gm PO QID 
+15. Omeprazole 40 mg PO BID 
+16. Calcium Carbonate 1500 mg PO DAILY 
+17. Aspirin 81 mg PO DAILY 
+18. Loratadine 10 mg PO DAILY 
+19. FLUoxetine 40 mg PO DAILY 
+20. Cyanocobalamin 1000 mcg PO DAILY 
+21. Vitamin D 1000 UNIT PO DAILY 
+22. Isosorbide Mononitrate (Extended Release) 30 mg PO QPM 
+23. Lisinopril 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ranitidine 150 mg PO QHS  
+2.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 80 mg PO QPM  
+5.  Calcium Carbonate 1500 mg PO DAILY  
+6.  Cyanocobalamin 1000 mcg PO DAILY  
+7.  Docusate Sodium 100 mg PO BID  
+8.  dulaglutide 0.75 mg/0.5 mL subcutaneous Q weekly  
+9.  Fish Oil (Omega 3) 1000 mg PO BID  
+10.  FLUoxetine 40 mg PO DAILY  
+11.  Isosorbide Mononitrate (Extended Release) 180 mg PO DAILY  
+12.  Isosorbide Mononitrate (Extended Release) 30 mg PO QPM  
+13.  Lisinopril 20 mg PO DAILY  
+14.  Loratadine 10 mg PO DAILY  
+15.  Metoprolol Succinate XL 100 mg PO DAILY  
+16.  Mometasone Nasal Spray  (*NF*) 100 mcg Other DAILY  
+17.  Multivitamins 1 TAB PO DAILY  
+18.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+19.  Omeprazole 40 mg PO BID  
+20.  Psyllium Powder 1 PKT PO TID:PRN constipation  
+21.  Sucralfate 1 gm PO QID  
+22.  trospium 20 mg oral BID  
+23.  Vitamin D 1000 UNIT PO DAILY  
+24. HELD- MetFORMIN (Glucophage) 1000 mg PO BID  This medication 
+was held. Do not restart MetFORMIN (Glucophage) until ___ 
+morning
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Chest pain
+Coronary artery disease
+Diabetes on insulin
+Depression
+Hyperlipidemia
+GERD
+Hypertension
+Obstructive sleep apnea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with chest pain. Your electrocardiogram and 
+cardiac enzymes (lab work) did not show any signs of heart 
+attack. You had a cardiac catheterization that revealed no 
+change in your heart artery blockages.  It is possible that your 
+symptoms could be because of worsening GERD.
+
+Instructions regarding activity restrictions and care of the 
+access site are included with your discharge information.  
+
+Please continue your current medications with the following 
+changes:  
+- continue Aspirin 81mg daily, lifelong.  
+- Continue nitroglycerin as needed for chest pain. Take 1 tab 
+under the tongue as needed for chest pain. You may repeat this 
+every 5 mintues for continued chest pain for a TOTAL OF 3 DOSES. 
+If chest pain persists after 3 doses, call ___. MAKE SURE YOU 
+LIE DOWN IF YOU NEED TO TAKE THIS MEDICATION.  
+- start taking ranitidine 150 mg at night, this might help with 
+your heartburn. 
+
+  It is strongly recommended that you attend a cardiac rehab 
+program in the near future. A referral form was provided to you 
+that lists the locations of these programs. Please bring this 
+with you to your follow up visit with your cardiologist, and 
+they will inform you when it is safe to begin a program. 
+ 
+ If you have any urgent questions that are related to your 
+recovery from your hospitalization or are experiencing any 
+symptoms that are concerning to you and you think you may need 
+to return to the hospital, please call the ___ HeartLine at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner.  
+
+ It has been a pleasure to have participated in your care and we 
+wish you the best with your health!  
+
+ Your ___ Cardiac Care Team  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,227 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Acetaminophen / Levofloxacin / Oxycodone / Latex / 
+Motrin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ F PMHx interstitial lung disease thought to be ___ 
+sarcoidosis, COPD/asthma who presents with SOB x 2d. Patient 
+reports that for the last 2d prior to admission, she has had 
+gradual worsening symptoms of SOB and nonproductive cough. SOB 
+is present at both rest and exertion, and is not associated with 
+any fevers, chills, chest pain, palpitations, nausea, 
+diaphoresis. As a result, she has been using her home O2 
+continuously for the last 2 days (normally just uses it for 
+sleep and with significant exertion). She reports these symptoms 
+are very similar to prior COPD exacerbation ___. As symptoms 
+continued to worsen, she presented to ___ for further 
+evaluation.  
+.  
+In ___ ED, intial VS were 96.6 107 131/86 16 93% (uncertain 
+how much O2 she was on). Exam was notable for diffuse expiratory 
+wheezes. Portable CXR showed baseline diffuse interstitial lung 
+process a question of a LUL consolidation; repeat PA and lateral 
+did not show any e/o consolidation. EKG showed sinus rhythm at 
+93bpm unchanged from prior. Labs were notable for WBC 7.7 (10.6 
+eos), Cr 0.8, d-dimer 355. Patient was given duonebs but 
+remained at 89% on 3LNC. She was given azithromycin 750mg PO, 
+methylprednisolone 125mg and was admitted to medicine for 
+further management. Vitals prior to transfer were 144/78 85 98.1 
+18 99%. Access was PIV 18g x1.  
+.  
+On the floor reports feeling a little bit better but still SOB.  
+
+.  
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied Denied chest pain, palpitations. Denied 
+nausea, vomiting, diarrhea, constipation or abdominal pain. No 
+recent change in bowel or bladder habits. No dysuria. Denied 
+arthralgias or myalgias.  
+ 
+Past Medical History:
+Left Breast Cancer s/p resection, chemo/XRT 
+Hyperlipidemia  
+Tobacco abuse  
+Asthma  
+Allergic rhinitis
+ 
+Social History:
+___
+Family History:
+Brother and sister with Sarcoidosis. 
+ 
+Physical Exam:
+Vitals: 98.7 149/84 101 24 100 3L  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: reduced air movement w/ diffuse wheezing  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ 
+Pertinent Results:
+___ 01:00PM   GLUCOSE-101* UREA N-11 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-103 TOTAL CO2-30 ANION GAP-11
+___ 01:00PM   estGFR-Using this
+___ 01:00PM   CALCIUM-8.7 PHOSPHATE-3.0 MAGNESIUM-2.1
+___ 01:00PM   WBC-7.7 RBC-4.61 HGB-13.7 HCT-41.4 MCV-90 
+MCH-29.8 MCHC-33.2 RDW-14.6
+___ 01:00PM   WBC-7.7 RBC-4.61 HGB-13.7 HCT-41.4 MCV-90 
+MCH-29.8 MCHC-33.2 RDW-14.6
+___ 01:00PM   NEUTS-52.2 ___ MONOS-7.1 EOS-10.6* 
+BASOS-0.9
+___ 01:00PM   PLT COUNT-258
+
+___ CXR PA  & LAT
+Final Report
+FINDINGS:  Again seen is diffuse interstitial abnormality with 
+predominance in
+the upper lobes consistent with patient's known history of 
+sarcoidosis.  The
+previously seen opacity at the left base is no longer present 
+and was likely
+due to artifact.  There is no definite focal consolidation, 
+pleural effusion
+or pneumothorax.  Cardiomediastinal silhouette is unchanged.  
+Bony structures
+are intact.
+ 
+IMPRESSION:  Diffuse interstitial lung disease with an upper 
+lobe predominance
+consistent with patient's known history of sarcoidosis without 
+definite
+worsening.  No focal opacity.
+ 
+Brief Hospital Course:
+This is a ___ year old woman with a history of  interstitial lung 
+disease thought ___ sarcoidosis, COPD/asthma, active smoker ___ 
+cigarettes/day) presenting with shortness of breath most likely 
+due to her uncontrolled asthma.
+
+#asthma/COPD exacerbation- She initially presented with 
+shortness of breath and a non-productive cough. Initially her O2 
+sats were 89% on 3L NC. A CXR showed diffuse interstitial lung 
+disease without evidence of worsening from prior imaging. She 
+was found to have relative eosinophilia but no leukocytosis. She 
+was treated with albuterol and ipratropium nebs, oral 
+prednisone, and PO azithromycin for 5 days over the course of 
+the hospitalization her O2 sats improved to 97-99% on RA and 
+90-94% while ambulating. She was discharged on a prednisone 
+taper and the last 2 days of her azithromycin course. She did 
+not require oxygen on discharge, but was encouraged to use her 
+home oxygen as needed. 
+
+During the hospitalization, she was seen by the pulmonology team 
+during who recommended DLCO evaluation as an outpatient, but who 
+believed that her current symptoms were likely due to her poorly 
+controlled asthma. Key triggers include continued smoking, 
+environmental allergens, and 50 lb weight gain over the past few 
+years. The patient is scheduled to follow up with an allergist. 
+The patient is also scheduled to follow up with her 
+pulmonologist Dr. ___. 
+
+#GERD- The pulmonology team recommended treatment with 
+omeprazole 20 mg QD to treat a possible GERD etiology for her 
+cough.
+
+#smoking- Encouraged smoking sensation and offered nicotine 
+patches during hospitalization.
+ 
+Medications on Admission:
+- albuterol sulfate nebs prn  
+- albuterol inhaler prn  
+- fluticasone 50mcg spray BID  
+- fluticasone-salmeterol 500 mcg-50 mcg BID  
+- montelukast 10mg daily  
+- tiotropium 18 mcg daily  
+- nicotine 14 mg/24 hour Patch 24 hr daily  
+ 
+Discharge Medications:
+1. PredniSONE 20 mg po daily Duration: 1 Days 
+RX *prednisone 10 mg As directed tablet(s) by mouth once a day 
+Disp #*10 Tablet Refills:*0
+2. PredniSONE 10 mg  po  daily Duration: 2 Days Start: After 20 
+mg tapered dose. 
+3. PredniSONE 5 mg po daily Duration: 2 Days Start: After 10 mg  
+tapered dose. 
+4. Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN dyspnea, wheezing 
+5. Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 (One) capsule(s) by mouth three times a 
+day Disp #*30 Tablet Refills:*2
+6. Fluticasone Propionate NASAL 1 SPRY NU BID 
+7. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+8. Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 (One) capsule(s) by mouth once a day Disp 
+#*30 Tablet Refills:*2
+9. Montelukast Sodium 10 mg PO DAILY 
+10. Tiotropium Bromide 1 CAP IH DAILY 
+11. Nicotine Patch 14 mg TD DAILY 
+RX *nicotine 14 mg/24 hour Apply one patch daily. Do not smoke 
+while wearing patch. once a day Disp #*30 Each Refills:*0
+12. Azithromycin 250 mg PO Q24H Duration: 4 Days 
+RX *azithromycin 250 mg 1 (One) tablet(s) by mouth once a day 
+Disp #*1 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Uncontrolled asthma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure taking care of you during your 
+hospitalization. You came to ___ because of worsening 
+shortness of breath and cough. We believe that these issues were 
+likely due to an asthma exacerbation. You were treated with 
+ipratropium and albuterol nebulizers, prednisone, and 
+antibiotics. Your symptoms have improved after these treatments. 
+Your ambulatory oxygenation was good at discharge. However, feel 
+free to use your home oxygen in case you feel like you need it.
+
+The following changes were made to your medications:
+--START taking Singulair 10mg once a day at night-time
+--START taking prednisone for the next 5 days through ___ take 
+20mg for 1 day until ___, then 10mg for 2 days until ___, then 
+5mg for 2 days until ___.
+--START omeprazole 20mg every day
+--START tessalon perles 100 mg as needed for cough up to 3 times 
+a day.
+--START Nicotine patch for smoking cessation.
+
+Please continue all other medications as previously prescribed.
+ 
+Followup Instructions:
+___

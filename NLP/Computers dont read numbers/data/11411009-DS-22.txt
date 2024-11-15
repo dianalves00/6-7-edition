@@ -1,0 +1,292 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Veno___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ESRD here for kidney transplant
+ 
+Major Surgical or Invasive Procedure:
+___ deceased donor renal transplant
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ y/o female with a history of ESRD ___ HTN now
+on hemodialysis who presents for a deceased donor renal
+transplant.She is currently dialyzing through a left forearm AV
+fistula (___) which is currently functioning well(her 
+last
+session was AM on ___. This was notable a systolic of >190
+in spite of antihypertensives. She was previously on peritoneal
+dialysis(twice from ___ and did not experience any
+complications from this. At baseline she makes less than once 
+cup
+of urine daily and voids 2 times per day.
+
+Currently, the patient reports that she feels well. She
+denies any other recent changes to her health. In particular,
+she denies fevers, chills, sweats, malaise, fatigue, recent 
+blood
+transfusions, recent illness or hospitalizations or recent sick
+contacts. She denies dyspnea at rest or with exertion,chest 
+pain,
+orthopnea,paroxysmal nocturnal dyspnea, abdominal pain, nausea,
+vomiting, hematemesis, hematochezia, or melena. She denies
+dizziness,orthostasis, weakness, exercise intolerance, or 
+wheeze.
+
+ROS:
+10 point review of systems was performed. Pertinent positive and
+negative findings are discussed in the HPI. 
+ 
+Past Medical History:
+- Chronic hypertension - Since age ___. Been worked up at ___ 
+("kidneys,  MRI") without secondary causes found per PCP's note
+- Asthma - no intubations
+.
+Surgical History: hernia repair as infant
+                  Laft arm AV fistula
+
+ 
+Social History:
+___
+Family History:
+-Mother:  died during C-section when pt was age ___
+-Maternal grandmothers, uncles, aunts with HTN
+-___ GM, aunt with brain cancer
+-Maternal G aunt and mat GM with breast ca
+-Father: overall healthy, no known medical history
+ 
+Physical Exam:
+Exam on Admission:
+VITALS: ___ 1159 Temp: 97.7 BP: 190/123 R Sitting HR: 90 
+RR:
+18 O2 sat: 99% O2 delivery: Ra 
+GENERAL APPEARANCE: lying in bed, appears comfortable and in 
+NAD.
+CV: RRR
+RESP: No respiratory distress or accessory muscle usage. Lungs
+clear to auscultation in all lung fields posteriorly.
+GI: Bowel sounds present throughout. Abdomen is soft, NT, 
+notable
+for previous PD cath scars.
+EXTREMITIES: well-perfused, acyanotic. No pitting edema
+noted in bilateral lower extremities. Good R femoral pulse
+NEURO: A&Ox4. Moves all extremities appropriately. Sensation
+grossly intact. 
+PSYCH: Very anxious, but otherwise well.
+.
+Exam at Discharge:
+24 HR Data (last updated ___ @ 2352)
+    Temp: 98.1 (Tm 98.2), BP: 138/83 (124-184/76-115), HR: 68
+(62-75), RR: 18 (___), O2 sat: 100% (97-100), O2 delivery: Ra,
+Wt: 172.3 lb/78.16 kg
+
+Fluid Balance (last updated ___ @ ___)
+  Last 8 hours  Total cumulative -1310ml
+    IN: Total 240ml, PO Amt 240ml
+    OUT:  Total 1550ml, Urine Amt 1550ml
+  Last 24 hours  Total cumulative -1890ml
+    IN: Total 715ml, PO Amt 660ml, IV Amt Infused 55ml
+    OUT:  Total 2605ml, Urine Amt 2605ml
+
+GENERAL: [x ]NAD  [x ]A/O x 3  
+CARDIAC: [x ]RRR  
+LUNGS:   [x ]no respiratory distress  
+ABDOMEN: [x ]soft  [x ]appropriately tender [ x]nondistended  [ 
+x]no rebound/guarding  
+WOUND: [x ]CD&I  [x ]no erythema/induration 
+EXTREMITIES: [ x]no CCE  Fistula + Bruit/thrill
+
+ 
+Pertinent Results:
+Labs on Admission: ___
+WBC-7.3 RBC-3.86* Hgb-11.9 Hct-35.8 MCV-93 MCH-30.8 MCHC-33.2 
+RDW-13.2 RDWSD-44.5 Plt ___ PTT-33.3 ___
+Glucose-89 UreaN-13 Creat-3.2*# Na-137 K-4.5 Cl-97 HCO3-26 
+AnGap-14
+ALT-8 AST-11 AlkPhos-81 TotBili-0.7
+Albumin-4.9 Calcium-9.3 Phos-3.0 Mg-2.0
+TSH-2.9
+PTH-161*
+HBsAg-NEG HBsAb-POS HBcAb-NEG IgM HBc-NEG
+HCG-<5
+HIV Ab-NEG
+HCV Ab-NEG
+HBV VL-NOT DETECT HCV VL-NOT DETECT
+.
+Labs at Discharge: ___
+WBC-8.9 RBC-2.71* Hgb-8.6* Hct-24.9* MCV-92 MCH-31.7 MCHC-34.5 
+RDW-13.8 RDWSD-46.1 Plt ___
+Glucose-110* UreaN-28* Creat-1.4* Na-138 K-4.2 Cl-103 HCO3-21* 
+AnGap-14
+Calcium-8.8 Phos-2.6* Mg-1.5*
+tacroFK-8.___ hx ESRD ___ HTN on HD (___) who now presents for 
+deceased donor kidney transplant.Patient was taken to the OR 
+with Dr ___.
+There were no intra-op complications reported.
+.
+Induction immunosuppression was standard solumedrol to 
+prednisone complete at day 5 taper. MMF 1 gram BID which was 
+well tolerated. Tacro started on the evening of POD 1. Tacro 
+level slow to increase, so received thymo 100 mg x 4 doses. She 
+did not require hemodialysis.
+.
+Hypertension was difficult to control initially, multiple 
+medication changes and adjustments were required, and then 
+control was much better. Patient has been requested to check 
+several times daily at home and the outpatient coordinator has 
+been made aware to check in with patient. Occassionally the BP 
+has decreased ionto the 120's systolic and she has felt 
+lightheaded and weak.
+Weight was still up from admission by about 5 kg, but minimal 
+edema noted.
+.
+Creatinine was 1.4 on day of discharge, Urine output was greater 
+than 2 liters daily.
+The incision is clean dry and intact, mild sensitivity but no 
+evidence of hematoma in the lower right quadrant.
+.
+She is tolerating a regular diet, ambulatory without assist and 
+had return of bowel function.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO HS 
+2. Calcitriol 0.25 mcg PO 3X/WEEK (___) 
+3. CloNIDine 0.1 mg PO DAILY 
+4. Eplerenone 25 mg PO DAILY 
+5. etelcalcetide 5 mg/mL injection 3X/WEEK given at HD 
+6. Labetalol 600 mg PO TID 
+7. Lisinopril 40 mg PO DAILY 
+8. Omeprazole 40 mg PO DAILY 
+9. Prochlorperazine 10 mg PO Q8H:PRN Nausea/Vomiting - First 
+Line 
+10. Spironolactone 25 mg PO DAILY 
+11. Ulipristal 30 mg PO DAILY:PRN emergency contraception 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+Maximum 6 of the 500 mg tablets daily  
+2.  CARVedilol 25 mg PO BID  
+3.  Ciprofloxacin HCl 500 mg PO Q24H Duration: 1 Dose 
+take 1 hour prior to ureteral stent removal by urologist  
+4.  Docusate Sodium 100 mg PO DAILY:PRN Constipation - First 
+Line  
+5.  Mycophenolate Mofetil 1000 mg PO BID  
+6.  NIFEdipine (Extended Release) 60 mg PO DAILY 
+Do not take until ___  
+7.  Nystatin Oral Suspension 5 mL PO QID  
+8.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+No driving if taking this medication, taper as tolerated  
+9.  Senna 8.6 mg PO QHS:PRN Constipation - First Line  
+10.  Sodium Polystyrene Sulfonate 15 gm PO DAILY:PRN elevated 
+potassium 
+take only when instructed by the transplant coordinator  
+11.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+12.  Tacrolimus 9 mg PO Q12H  
+13.  ValGANCIclovir 900 mg PO DAILY  
+14.  CloNIDine 0.1 mg PO BID  
+15.  Omeprazole 40 mg PO BID  
+16.  Prochlorperazine 10 mg PO Q8H:PRN Nausea/Vomiting - First 
+Line  
+17. HELD- Calcitriol 0.25 mcg PO 3X/WEEK (___)  This 
+medication was held. Do not restart Calcitriol until Instructed 
+by transplant clinic
+18. HELD- Ulipristal 30 mg PO DAILY:PRN emergency contraception  
+This medication was held. Do not restart Ulipristal until 
+Instructed by transplant clinic
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ESRD now s/p deceased donor kidney transplant
+HTN
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call the transplant clinic at ___ for fever of 
+101, chills, nausea, vomiting, diarrhea, constipation, inability 
+to tolerate food, fluids or medications, yellowing of skin or 
+eyes, increased abdominal pain, incisional redness, drainage or 
+bleeding, dizziness or weakness, decreased urine output or dark, 
+cloudy urine, swelling of abdomen or ankles, weight gain of 3 
+pounds, pain/burning/urgency with urination, or any other 
+concerning symptoms.
+.
+Bring your pill box and list of current medications to every 
+clinic visit.
+.
+***You will need to have labs drawn on ___, then twice 
+weekly as requested by the transplant coordinator, with results 
+to the transplant clinic (Fax ___ . CBC, Chem 10, AST, 
+ T Bili, Trough Tacro level, Urinalysis
+.
+ On the days you have your labs drawn, do not take your 
+Tacrolimus until your labs are drawn. Bring your Tacro with you 
+so you may take your medication as soon as your labwork has been 
+drawn.
+.
+Please measure and record your urine output in the urinal 
+provided until you are instructed by the transplant clinic that 
+you can stop. Bring the record with you to your transplant 
+clinic follow up visits
+.
+Check your blood pressure twice a day. Report values greater 
+than 180 or less than 110 to the transplant clinic. 
+You have several new medications and adjusted doses.
+.
+Follow your medication card, keep it updated with any dosage 
+changes, and always bring your card with you to any clinic or 
+hospital visits.
+.
+You may shower. Allow the water to run over your incision and 
+pat area dry. No rubbing, no lotions or powder near the 
+incision. You may leave the incision open to the air. The 
+staples are removed approximately 3 weeks following your 
+transplant.
+.
+No tub baths or swimming
+.
+No driving if taking narcotic pain medications
+.
+Avoid direct sun exposure. Wear protective clothing and a hat, 
+and always wear sunscreen with SPF 30 or higher when you go 
+outdoors.
+.
+Drink enough fluids to keep your urine light in color. Your 
+appetite will return with time. Eat small frequent meals, and 
+you may supplement with things like carnation instant breakfast 
+or Ensure.
+.
+Do not increase, decrease, stop or start medications without 
+consultation with the transplant clinic at ___. There 
+are significant drug interactions with anti-rejection 
+medications which must be considered in medication management 
+following transplant.
+.
+Consult transplant binder, and there is always someone on call 
+at the transplant clinic with any questions that may arise
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,411 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Demerol
+ 
+Attending: ___
+ 
+___ Complaint:
+Cardiac Arrest
+ 
+Major Surgical or Invasive Procedure:
+Intubated
+Hemodialysis continued
+ 
+History of Present Illness:
+___ y/o M w/ ESRD (___ HD), CAD stents EF 20%, ICD on coumadin 
+for h/o LV thrombus noted on cath report of ___, has recently 
+noted lead fracture on admission to ___ of early ___ 
+after having been unresponsive s/p external AED shock but 
+negative ICD interrogation, --repair disrupted by elevated INR.
+
+Last night, patient found by Mother to be in CP/SOB with 
+?shaking on floor and non-responsive to mother's commands, EMS 
+(per report, 20 min for ems arrival) noted WCT and intubated, 
+CPR, epinephrine with intermittent ROSC but AED advised no 
+shocks. In BID ___, was pulseless with wide complex 
+tachycardia, treated for hyperkalemia (?spurious result of 11, 
+truly 4.5-5), ABG 7.26/33/123 on 50% and glucose 59, got epi x1, 
+shock 200j with ROSC therafer.  No pressors/fluids required.  
+SBP 100-120 at that time, with HR in 80's.  Then transferred to 
+___ for further evaluation
+ 
+On arrival to the ___ ED he was described as awake and moving 
+all 4 extremeties, so he was not placed on the cooling protocol. 
+His initial vital signs were 97.5 62 ___ 100%. He was 
+sedated was prn versed. A repeat K was 5 and lactate 7.4 with pH 
+7.27. His EKG was interpreted as LBBB unchanged from priors. TTE 
+w/EF 25% and 3+ TR.
+
+On arrival to MICU, patient was tolerating vent w/o difficulty.  
+GCS status not suitable for cooling protocol.  Patient started 
+on amio gtt after loading dose and EP consulted.  Patient 
+extubated w/o difficulty this ___ - now on NRB. Renal awaiting 
+cardiac clearence prior to initiation of HD.
+.
+Prior to transfer to CCU, patient was extubated, on NRB w/ T 
+96.7, HR 73, BP120/75, HR 85, RR 19, 98%.  
+ 
+Past Medical History:
+1. Heart disease:  
+- s/p Anterior MI (___) with tPA and rescue PCI of LAD  
+--> ___ biliary stent placed in ostial LAD  
+--> 4.0x22mm in proximal LAD  
+--> 4.0x15mm in mid LAD  
+- s/p MI (___)  
+- ICD placed in ___ with Pacemaker/ICD generator change on 
+___  
+- PCI (___)
+--> LMCA: free of disease  
+--> LAD: patent previously placed stents with 20% ISR in the 
+proximal segment  
+--> LCX: free of flow limitations  
+- s/p Cardiac arrest (___)  
+- EF 20% and LV thrombus  
+2. Hypertension  
+3. Hyperlipidemia: ___: TC 177; LDL 103; HDL 54  
+4. End-stage renal disease:  
+- s/p basilic vein brachial artery AV fistula  
+5. h/o line sepsis  
+.  
+CARDIAC HISTORY: 
+CABG: none
+Percutaneous coronary intervention: as above
+Pacemaker/ICD placed: as above
+
+___ TTE: The left atrium is markedly dilated. The right 
+atrium is markedly dilated. No atrial septal defect is seen by 
+2D or color Doppler. The estimated right atrial pressure is 
+___. There is mild symmetric left ventricular hypertrophy. 
+The left ventricular cavity is severely dilated. There is severe 
+global left ventricular hypokinesis (LVEF = 20 %). The basal 
+lateral wall moves best and the remaining segments are 
+akinetic.. No masses or thrombi are seen in the left ventricle. 
+There is no ventricular septal defect. The right ventricular 
+cavity is markedly dilated with moderate global free wall 
+hypokinesis. There is no mass/thrombus in the right ventricle. 
+The aortic root is mildly dilated at the sinus level. The aortic 
+arch is mildly dilated. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+regurgitation. There is no aortic valve stenosis. The mitral 
+valve leaflets are mildly thickened. There is no mitral valve 
+prolapse. Mild (1+) mitral regurgitation is seen. The tricuspid 
+valve leaflets are mildly thickened. Moderate to severe [3+] 
+tricuspid regurgitation is seen. There is severe pulmonary 
+artery systolic hypertension. There is no pericardial effusion. 
+ 
+.  
+ETT: per notes, myoview in ___ fixed anterior and inferior 
+defects, extending to the apex
+.  
+CARDIAC CATH: 
+___ LHC/RHC (pre-op for Tx eval): 1. Selective coronary 
+arteriography of this right dominant system revealed 
+angiographic evidence of no significant flow limiting coronary 
+artery disease. The LMCA was free of disease. The LAD had patent 
+previously placed stents with 20% ISR in the proximal segment. 
+The CFX was free of flow limitations. 
+2. Left ventriculography was not performed due to the presence 
+of LV 
+thrombus. 
+3. Hemodynamic evaluation demonstrated normal right and left 
+heart 
+filling pressures with not pulmonary HTN and preserved cardiac 
+index. 
+4. Right femoral arteriotomy site was successfully closed with a 
+___ 
+angioseal closure device. 
+Filling Pressures: RA mean 6; RV ___ PA ___ PCWP 
+___ CI 3.3; SVR 1075; PVR 48
+
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+(although ___ did have CAD) or sudden death. 
+
+ 
+Physical Exam:
+VS: 96.7  60-70s  120/75 R: 19 Sat 100% on 40% FIO2
+Gen: tall, white male, sedated but ___
+HEENT: EOM intact, AT/NC, equal pupils 
+Pulm: coarse breath sounds, no crackles
+CV: S1/S2 w/diamond shaped murmur heard loudest at apex; JVP to 
+angle of jaw; no rubs or gallops  
+Abd: umbilical well healed scar; soft, NT/ND; no HSM 
+Ext: no edema; palpable DP pulses bilaterally  
+Neuro: MS sedated, ___ and follows commands 
+intermittently; pupils equally round, R facial droop but 
+bilaterally elevates eyebrows; ___ L>R; ___ hand grasp and 
+dorsi/plantarflexion; hyperreflexia of knee, biceps brachi 
+bilaterally; 
+
+ 
+Pertinent Results:
+___ 05:28AM   PH-7.27* COMMENTS-GREEN TOP
+___ 05:45AM   WBC-15.9*# RBC-3.06* HGB-10.0* HCT-32.0* 
+MCV-105* MCH-32.7* MCHC-31.2 RDW-16.2*
+___ 05:45AM   CK-MB-4
+___ 05:45AM   cTropnT-0.06*
+___ 05:28AM   GLUCOSE-100 LACTATE-7.4* NA+-140 K+-5.0 
+CL--95* TCO2-24
+
+___ NCCT
+COMPARISON: CT head of ___. 
+  
+FINDINGS: Study is limited by motion artifact degrading multiple 
+axial slices 
+at the vertex and skull base. Some of the axial slices at the 
+vertex were 
+subsequently repeated. Despite limitations as described above, 
+there is no 
+evidence of acute hemorrhage, mass lesion, shift of normally 
+midline 
+structures, hydrocephalus, or evidence of major territorial 
+infarct. The 
+gray-white matter differentiation appears preserved. The major 
+intracranial 
+cisterns are preserved. 
+  
+The extra-calvarial soft tissues are unremarkable. The 
+visualized paranasal 
+sinuses and mastoid air cells appear clear. 
+  
+IMPRESSION: Moderately limited study. While no evidence of major 
+territorial 
+infarct is identified, given patient's status of cardiac 
+pacemaker, a CT 
+perfusion is recommended if continued concern for infarction is 
+present. 
+
+___ TTE
+The left atrium is elongated. The right atrium is markedly 
+dilated. The estimated right atrial pressure is ___. There 
+is mild symmetric left ventricular hypertrophy. The left 
+ventricular cavity is severely dilated. There is severe global 
+left ventricular hypokinesis (LVEF = ___ %). The right 
+ventricular cavity is moderately dilated with moderate global 
+free wall hypokinesis. There is abnormal septal motion/position 
+consistent with right ventricular pressure/volume overload. The 
+ascending aorta is mildly dilated. The aortic valve leaflets (3) 
+appear structurally normal with good leaflet excursion and no 
+aortic regurgitation. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Mild (1+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. Moderate to severe [3+] tricuspid regurgitation is 
+seen. There is moderate pulmonary artery systolic hypertension. 
+Significant pulmonic regurgitation is seen. There is no 
+pericardial effusion. 
+
+IMPRESSION: Dilated and hypertrophied left ventricle with severe 
+global hypokinesis. Dilated and hypokinetic right ventricle. 
+Moderate to severe tricuspid regurgitation. Moderate to severe 
+pulmonary hypertension. 
+
+Compared with the report of the prior study (images unavailable 
+for review) of ___, the left ventricle is more dilated. 
+The other findings are similar.
+ 
+Brief Hospital Course:
+___ male with PMHx CAD, cardiac arrest s/p ICD placement, and 
+EF 20% presenting with metabolic derangements and cardiac 
+arrest. Appears to have developed AFlu/Atach then became 
+acidotic/hyperkalemic w/evolution to VFib that was not detected 
+by ICD, possibly b/c the acidemia decreased the sensitivity. 
+.
+# Cardiac Rhythm: The etiology for his cardiac arrest was 
+initially unclear but included hyperkalemia vs ischemic. Because 
+three sets of cardiac enzymes were never elevated, it was 
+believed that this was not due to ACS. After further review of 
+OSH records, it was proposed that he went int atrial 
+flutter/atrial tachycardia which led to hypoperfusion 
+w/development of acidosis and consequent hyperkalemia leading to 
+evolution into ventricular fibrillation. It was initially 
+thought that his ICD did not detect this event because of 
+decreased sensitivity of the leads in the setting of acidemia, 
+but further evaluation by the electrophysiology team concluded 
+that the ICD lead anomaly was unrelated to the incident. In his 
+recent admission from 2 ___ ago, ICD interrogation showed normal 
+sensing function but malfunction of the generator lead; however, 
+it was not fixed because of an inability to correct his elevated 
+INR. Therefore, during this admission, the goal was to correct 
+the lead. In the mean time, he was maintained on his amiodarone 
+and lopressor and was in NSR with his baseline LBBB.
+
+After being transferred to the cardiology floor, ICD revision 
+was planned but the patient developed thrombophlebitis of the 
+right arm on the evening prior to transfer.  He was started on 
+cephalexin and an ultrasound demonstrated thrombus throughout 
+the course of the cephalic and in the basillic vein to the mid 
+arm.  He was later sent to interventional radiology for PICC 
+placement proximal to the clot but nonocclusive, soft thrombus 
+was then identified in his brachial vein of the right arm.  Note 
+that the left arm holds his AV fistula.  
+
+Because the procedure could not be performed while the patient 
+had an ongoing infection with possible vascular involvement, it 
+was postponed until the patient completed his antibiotics.  He 
+was also instructed to restart anticoagulation with warfarin.  
+He will be contacted by the ___ clinic for readmission.
+
+# CAD/Ischemia: His cardiac enzymes had an MB index of less than 
+5% over three sets so he ruled out ACS. He complained of MSK 
+pain over his precordium which was treated with analgesics. He 
+was maintained on ASA and an ACE inbitior was initiated.  He was 
+continued on his home meds (without the ACEi) at the time of 
+d/c.
+.
+# Pump: Although clinically the patient did not complain of 
+dyspnea and on physicial exam he did not have crackles nor 
+peripheral edema, it was known that he had a dilated CMP. Given 
+the setting of his cardiac arrest, we repeated a TTE which 
+showed a stable low EF with worsening left ventricular 
+dilatation and no thrombus. 
+
+# Hyperkalemia/ESRD: His admission K was 5.7 and initially he 
+was not HD as there was no clear indication. He was treated with 
+kayexelate PRN over his first night and his K was maintained 
+around 5.5. He underwent a mini HD session on ___ which was 
+tolerated well, w/a post HD potassium of 4.9. His EKG remained 
+w/o signs of hyperkalemia and he was treated with HD as per 
+renal; he was maintained on his baseline renal meds. 
+
+# Neuro: He was initially ___ but sleepy and confused, 
+unaware of year, location nor president; on exam, had 
+hyperreflexia and positive ___ concerning for upper motor 
+neuron injury; it was unclear whether there may be a Sz 
+component as father also has ?___. Neuro saw pt the night of his 
+admission and felt he had diffuse encephalopathy but perhaps a 
+focal lesion on R given hyperreflexia L>R. NCCT was done which 
+was unremarkable. The patient had a trial of low dose diazepam 
+w/decrease in myoclonus. The morning after, neuro felt there was 
+improvement in the myoclonus and needed only observation.
+
+# Anemia/INR: Has long-standing anemia likely ___ ESRD with an 
+elevated MCV; Vitamin B12 and folate were normal and iron 
+studies were c/w anemia of chronic disease. His Hct remained 
+stable. His INR was elevated at admission to 1.8 and in his 
+recent admission, it was this intractable INR that had prevented 
+him from getting an ICD lead revision. He did not respond to low 
+dose vitamin K. A relativelly recent US and CT of the abdomen 
+had not shown any liver lesions although he did have a 
+chronically elevated AlkPhos but exhibited normal albumin 
+levels. Per renal, he was to begin EPO. 
+.  
+# FEN: renal diet
+.
+# Prophylaxis: Heparin SQ, bowel regimen
+.
+# Code:  FULL CODE
+.  
+# Communication: Contact ___, Mother, 
+___
+
+ 
+Medications on Admission:
+1. Aspirin 81 mg daily  
+2. B Complex Vitamins daily  
+3. Folic Acid 1 mg daily  
+4. B Complex-Vitamin C-Folic Acid 1 mg daily  
+5. Metoclopramide 5 mg QIDACHS  
+6. Sevelamer HCl 800 mg TID
+7. Simvastatin 40 mg daily  
+8. Metoprolol Succinate 75 mg daily  
+9. Ascorbic Acid ___ mg daily  
+10. Zolpidem 5 mg Tablet PO QHS:PRN insomnia  
+11. Docusate Sodium 100 mg Capsule BID  
+12. Senna 8.6 mg Tablet 1 - 2 PO BID:PRN  
+13. Amiodarone 200 mg daily  
+
+ 
+Discharge Medications:
+1. Docusate Sodium 50 mg/5 mL Liquid Sig: Two (2)  PO BID (2 
+times a day).  
+2. Senna 8.6 mg Tablet Sig: ___ Tablets PO BID (2 times a day) 
+as needed for constipation.  
+3. Sevelamer HCl 800 mg Tablet Sig: One (1) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+4. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+5. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+7. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+8. Cephalexin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours) for 7 days: Last day is ___.
+Disp:*21 Capsule(s)* Refills:*0*
+9. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr 
+Sig: ___ (75) mg PO once a day.  
+11. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+Three (3) Adhesive Patch, Medicated Topical DAILY (Daily): 
+Please leave on for 12 hours, off for 12 hours.
+Disp:*20 Adhesive Patch, Medicated(s)* Refills:*2*
+12. Oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed.
+Disp:*30 Tablet(s)* Refills:*0*
+13. Warfarin 2.5 mg Tablet Sig: One (1) Tablet PO once a day.  
+14. Metoclopramide 5 mg Tablet Sig: One (1) Tablet PO qidachs.  
+15. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO at bedtime as 
+needed for insomnia.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Cardiac arrest (ventricular tachycardia)
+Venous thrombophlebitis
+Intracardiac device evaluation
+Costochondritis
+.
+Secondary:
+End stage renal disease
+Coronary artery disease
+Myocardial infarction
+Dilated Cardiomyopathy  
+Hypertension  
+Hyperlipidemia 
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted because you had a cardiac arrest.  We 
+ressucitated you and corrected abnormalities in your blood 
+chemistries that may have caused your arrest.  While you were 
+here, we also evaluated your pacemaker.  We determined that it 
+will ultimately require a revision.  We also diagnosed you with 
+inflammation and clots in the veins of your right arm.  For 
+this, we are giving you antibiotics.  After completing treatment 
+with the antibiotics, you will undergo the revision of your ICD. 
+ You will be contacted by Dr. ___ within the next 
+few days for scheduling.
+. 
+Please take all of your medications as prescribed. Please keep 
+all of your follow-up appointments.  Continue taking coumadin.  
+Continue taking cephalexin (antibiotic) for seven days as 
+prescribed. Last day will be ___
+.
+Please call your doctor or return to the hospital if you 
+experience fevers, chills, sweats, chest pain, shortness of 
+breath or anything else of concern.
+
+ 
+Followup Instructions:
+___

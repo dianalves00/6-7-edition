@@ -1,0 +1,254 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___
+ 
+Chief Complaint:
+Clots in stool
+
+ 
+Major Surgical or Invasive Procedure:
+Colonoscopy ___
+
+ 
+History of Present Illness:
+ Ms. ___ is a ___ female with past medical history
+notable for afib on coumadin, Aortic valve replacement, breast
+cancer s/p mastectomy and renal cancer s/p partial nephrectomy
+who presents with clots in stool after colonoscopy with
+polypectomy on day prior to admission
+
+___ has a history of ileocecal valve adenoma which was
+removed at ___ in ___. She represented as expected for every 
+___
+years for another colonoscopy and polypectomies, which was done
+on ___.
+Patient reports evening after getting home, had a jellow and
+later that night had 6 episodes of rectal bleeding with clot. 
+She
+had left sided abd pain which resolved with BM. She was asked to
+come to the ED given bloody bowel movements
+
+She reports being lightheaded while bending over to clean up the
+floor (as she missed a couple of runs to the bathroom) and in
+this setting, fell over and striked her face with no LOC. +
+lightheadedness, + fall with face strike with no LOC. This 
+caused
+a swelling or bruising around left eye. She hasn't been on
+warfarin in >1 week
+
+In the ED
+- Initial vitals: 97.6 HR 85 BP 110/64 RR 16 O2 sat 100% on RA
+- Exam notable for bruise around left eye
+- Labs
++ CBC: WBC 10.3 Hgb 9.0, Plt 148
++ Chem 10: Na 139 K 4.2 Creat 0.8
+- Imaging: None (CT head wasn't done given INR of 1.3) and no
+symptoms
+- Patient was given metoprolol tartrate
+- GI/ERCP was consulted and recommend repeat colonoscopy after
+admission
+
+On transfer, vitals were 97 129/78 16 99% on RA
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+- Atrial fibrillation
+- Aortic valve replacement ___ (due to aortic regurgitation)
+- R breast cancer (s/p mastectomy in ___
+- Papillary renal cancer (s/p partial nephrectomy ___ 
+- HLD
+- Appendectomy in ___
+- Osteoarthritis
+
+ 
+Social History:
+___
+Family History:
+Brother died of oesophageal cancer, No other known history of 
+maligancy
+ 
+Physical Exam:
+Admission physical exam
+___ 1305 Temp: 98.7 PO BP: 126/83 HR: 55 RR: 16 O2 sat: 
+100%
+O2 delivery: RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round, bruise around left side 
+of
+eye
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+
+Discharge physical exam
+___ 0659 Temp: 97.5 PO BP: 106/61 HR: 88 RR: 16 O2 sat: 98%
+O2 delivery: RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round, bruise around left side 
+of
+eye
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: Right breast s/p mastectomy with silicon implantation.
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+
+ 
+Pertinent Results:
+Admission labs
+================
+___ 02:45AM BLOOD WBC-13.2* RBC-3.13* Hgb-10.0* Hct-30.2* 
+MCV-97 MCH-31.9 MCHC-33.1 RDW-13.1 RDWSD-46.3 Plt ___
+___ 02:45AM BLOOD Glucose-107* UreaN-9 Creat-0.8 Na-139 
+K-4.2 Cl-106 HCO3-20* AnGap-13
+___ 07:00AM BLOOD Calcium-7.9* Phos-2.3* Mg-1.5*
+
+Discharge labs
+================
+___ 10:20AM BLOOD WBC-8.6 RBC-2.83* Hgb-9.0* Hct-27.0* 
+MCV-95 MCH-31.8 MCHC-33.3 RDW-13.3 RDWSD-46.2 Plt ___
+___ 07:00AM BLOOD ___ PTT-26.6 ___
+___ 07:00AM BLOOD Glucose-90 UreaN-4* Creat-0.5 Na-142 
+K-3.8 Cl-110* HCO3-21* AnGap-11
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with past medical history 
+notable for afib on coumadin, Aortic valve replacement, breast 
+cancer s/p mastectomy and renal cancer s/p partial nephrectomy 
+who presents with clots in stool after colonoscopy with 
+polypectomy on day prior to admission
+
+# Anemia
+# BRBPR: Patient presented with complaints of bloody bowel 
+movements with clots after recent colonoscopy with polypectomy. 
+Hgb was 12.3 on ___ and down trended to as low as 7.6. 
+Patient received no units of blood but discharge Hgb was 9.0. 
+Etiology was likely post-procedural bleeding which has been 
+solved with colonoscopy and endoclips. She will need a repeat 
+colonoscopy in 3 months with Dr ___.
+Hold Coumadin for the next 8 days (consider restart after CBC 
+recheck and on ___
+
+# Afib
+# Aortic valve replacement (due to aortic regurgitation): 
+Overall has been stable. Will maintain on tele. Metoprolol held 
+in the setting of likely GI bleed. Coumadin being held for ~ 8 
+days after discharge. Aspirin restarted.
+
+# Fall: of note patient also had a fall at home in the setting 
+of cleaning up from being unable to reach bathroom on time and 
+bending over. Though not anticoagulated, she had a pretty bad 
+bruise on the left side of her eye. CT head was reassuring.
+
+CHRONIC/STABLE PROBLEMS:
+# R breast cancer s/p mastectomy: stable
+
+# Papillary renal cancer s/p partial nephrectomy: stable and
+creatinine is stable
+
+TRANSITIONAL ISSUES
+=======================
+- Please re-check CBC within 1 week of discharge
+- Holding Coumadin. Consider re-initiation of Coumadin ~ 8 days 
+after discharge on ___
+- Will need repeat colonoscopy with Dr ___ in ~ 3 months
+
+>30 minutes spent on discharge planning and coordination
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Warfarin 4 mg PO DAILY16 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Simvastatin 10 mg PO QPM 
+5. Fish Oil (Omega 3) 1000 mg PO BID 
+6. Vitamin D 800 UNIT PO DAILY 
+7. Alendronate Sodium 70 mg PO QFRI 
+
+ 
+Discharge Medications:
+1.  Alendronate Sodium 70 mg PO QFRI  
+2.  Aspirin 81 mg PO DAILY  
+3.  Fish Oil (Omega 3) 1000 mg PO BID  
+4.  Metoprolol Succinate XL 25 mg PO DAILY  
+5.  Simvastatin 10 mg PO QPM  
+6.  Vitamin D 800 UNIT PO DAILY  
+7. HELD- Warfarin 4 mg PO DAILY16  This medication was held. Do 
+not restart Warfarin until ___
+8.Outpatient Lab Work
+GI bleed ICD 10 K92.2
+CBC check (Hgb and Hct) (Last hgb ___ was 9.0). Fax to 
+Name: ___. Fax: ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Anemia
+Atrial fibrillation
+Aortic valve replacement due to aortic regurgitation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were admitted due to concern for GI bleed. You had a 
+colonoscopy and an endoclip was placed at the site of bleeding. 
+Your blood count was stable afterwards and we were reassured you 
+were not bleeding (your discharge Hemoglobin was 9.0)
+
+Please follow up with your doctors ___ 1 week after discharge 
+to check your blood count and ensure you keep being stable.
+
+Please DO NOT TAKE COUMADIN for the next 8 days. OK to restart 
+after you see your doctor and blood count is rechecked.
+
+You will need repeat colonoscopy with Dr ___ in ~ 3 months. 
+Please ensure you do not forget this.
+
+It was a pleasure being part of your care.
+
+Your ___ team
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,613 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim DS / Phenothiazines / Morphine / Compazine / Effexor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, diarrhea
+ 
+Major Surgical or Invasive Procedure:
+Biopsy of abdominal wall subcutaneous nodule
+
+ 
+History of Present Illness:
+The patient is a ___ woman with a history of multiple 
+myeloma now presenting for worsening diarrhea and fevers over 
+the last several days. The patient is s/p 3 cycles combination 
+of Velcade (last dose ___ and Decadron to which she has had 
+a good response. Patient was scheduled to have ___ cycle earlier 
+this week on ___, but was held due to tachypnea. She was 
+placed on ___ugmentin and Eyrthromycin for possible 
+pneumonia.
+ 
+___ presented to clinic ___ (yesterday) complaining of 
+chills,
+ongoing nausea, and diarrhea. Stool sample was sent from her
+rehab per pt report. She reported "all day" diarrhea ___.
+Temp increased to 100.0 in clinic. She recently completed ___ugmentin and Eyrthromycin for possible pneumonia.
+
+Of note, patient had multiple rounds of radiation this month to 
+her L hip for treatment of a myelomatous bony lesion.
+
+Patient has a history of groin pain. MRI ___ revealed multiple 
+myelomatous lesions of the left proximal femur and acetabulum. 
+Given her concerning symptoms, she went for a CT of Torso w/out 
+contrast today (___). Wet read shows 2 masses in her L pelvis. 
+Fianl read is pending.
+
+___ currently endorses a dry cough, sweats during the day, 
+though
+otherwise she reports no SOB, wheezing, congestion, sore throat,
+sinus pressure. She reports some abdominal cramping does occur 
+just before her bowel movements. She reports her groin pain is 
+unchanged and continues to deny lower back pain and denies any 
+other new pains.
+She denies bleeding, bruising or rash.
+ 
+Past Medical History:
+Multiple Myeloma- Admitted ___ for back pain, Skeletal 
+survey consistent with myelomatous disease in conjunction with 
+elevated SPEP and B2 microglobulin.  Blood viscosity was normal. 
+ Bone marrow biopsy on ___ confirmed diagnosis, showing 
+hypercellularity with involvement by plasma cell dyscrasia.  
+Presented with ___ to Cr 
+of 3.3 on admission, likely from myelomatous light chain 
+glomerular injury as outlined below.  Received bortezomib 
+(Velcade) on ___, and ___.  Radiation oncology was 
+
+consulted and delivered XRT to L1 vertebra during this admission 
+
+fractionated into ten 300 cGy treatments for a total dose of 
+3000 cGy. 
+ Chronic low back pain, spinal stenosis
+ HTN
+ HLD
+ NIDDM
+ GERD, reflux esophagitis
+ Obesity
+ migraine headaches
+ depression
+ DVT (with pulmonary embolism, has ___ IVC filter due 
+to poor anticoagulation).  
+ Hiatal hernia
+ s/p choleystectomy 
+ s/p hysterectomy, BSO
+ s/p L4-L5 laminectomy
+ s/p right perional craniotomy for clipping of an anterior 
+communicating artery aneurysm (___)
+ 
+Social History:
+___
+Family History:
+Most of family history is unavailable since patient was a foster 
+child.  Denies significant family history of cardiovascular 
+disease, early MI, arrhythmia or sudden cardiac death.  Denies 
+family history of malignancy.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+T- 100.3, HR- 84, BP-149/73, RR- 18, O2 sat 98RA, Fingerstick 
+103
+GENERAL - Alert, oriented to self, location, my name.  Does not 
+know the year.  No acute distress.  Does not remember going to 
+radiation treatments, does remember she has myeloma.  
+HEENT - PERRLA, EOMI, MMM, no thrush
+NECK - Supple, no JVD appreciated
+CARDIOVASCULAR - RRR, ___ systolic murmur loudest at the LUSB, 
+no r/g
+LUNGS - dec breath sounds at R base. Breathing unlabored, no 
+accessory muscle use, 
+ABDOMEN - BS normoactive, soft, ND.  No tenderness to deep 
+palpation
+EXTREMITIES -  2+ pitting edema up to ankles, 2+ pulses, no 
+c/c/e.  Ecchymoses present at PIV sites.
+SKIN - No rashes.
+NEUROLOGICAL - CN ___ grossly intact. Moving all four limbs 
+spontaneously.  Follows commands.
+ACCESS: Tunneled line in double-lumen Power Port-A-Cath in right
+
+DISCHARGE PHYSICAL EXAM
+PHYSICAL EXAM: 
+Tm 99.4 Tc 98.5 BP ___ P ___ P ___ R 16 O2 sat 
+94-99%RA
+Last febrile 100.5 @ 7PM ON ___
+GENERAL - Alert, appropriate
+HEENT - PERRLA, EOMI, MMM, no thrush.  No new ulcers
+NECK - Supple
+CARDIOVASCULAR - RRR, ___ systolic murmur loudest at the LUSB
+LUNGS - Breathing unlabored, no accessory muscle use. Trace 
+crackles bilaterally.
+ABDOMEN - BS normoactive, soft, ND.  Mild tenderness to 
+palpation in all quadrants, no rebound or guarding.  Nodular 
+masses in subcutaneous tissue, bruising at sites of SQ 
+injections, presacral mass decreased
+EXTREMITIES -  Trace edema bilateral lower extremity edema, 2+ 
+pulses, no c/c/e.  Ecchymoses present at PIV sites. 
+SKIN - No rashes.  Ecchymosis on left flank.
+NEUROLOGICAL - CN ___ grossly intact. Follows commands.
+
+ACCESS: Tunneled line in double-lumen Power Port-A-Cath in right
+Mild ecchymosis around port-a-cath, no fluctuance
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 02:20PM   WBC-5.6 RBC-3.19* HGB-10.8* HCT-31.5* MCV-99* 
+MCH-33.9* MCHC-34.3 RDW-16.2*
+___ 02:20PM   NEUTS-75* BANDS-1 LYMPHS-14* MONOS-6 EOS-2 
+BASOS-0 ___ METAS-1* MYELOS-1* NUC RBCS-2*
+___ 02:20PM   UREA N-12 CREAT-0.9 SODIUM-138 POTASSIUM-3.7 
+CHLORIDE-102 TOTAL CO2-28 ANION GAP-12
+___ 02:20PM   CALCIUM-8.9 PHOSPHATE-3.3 MAGNESIUM-1.8
+___ 02:20PM   ALT(SGPT)-16 AST(SGOT)-67* LD(___)-949* ALK 
+PHOS-178* TOT BILI-1.0
+
+DISCHARGE LABS
+___ 06:32AM BLOOD WBC-1.3* RBC-2.61* Hgb-8.3* Hct-23.8* 
+MCV-91 MCH-31.9 MCHC-35.1* RDW-18.1* Plt Ct-86*
+___ 06:32AM BLOOD Neuts-60 Bands-4 ___ Monos-4 Eos-1 
+Baso-1 Atyps-2* Metas-1* Myelos-0
+___ 06:32AM BLOOD Hypochr-1+ Anisocy-2+ Poiklo-1+ 
+Macrocy-1+ Microcy-1+ Polychr-NORMAL Ovalocy-OCCASIONAL Tear 
+Dr-1+
+___ 06:32AM BLOOD ___ PTT-43.9* ___
+___ 06:32AM BLOOD Glucose-113* UreaN-8 Creat-0.5 Na-139 
+K-3.6 Cl-103 HCO3-30 AnGap-10
+___ 06:32AM BLOOD ALT-14 AST-25 LD(LDH)-224 AlkPhos-264* 
+TotBili-1.0
+___ 06:32AM BLOOD Albumin-3.3* Calcium-7.7* Phos-3.4 Mg-1.___hest/Abdomen/Pelvis without Contrast
+Unread
+My wet read- no acute pulmonary process, 2 masses in pelvis, 
+each approx 2-3 cm in diameter
+
+Pelvic MRI ___  
+FINDINGS: Small amount of free fluid within the pelvis is likely
+physiologic. 
+The bladder appears unremarkable. The visualized portions of the
+small and large bowel loops in the pelvis show no abnormality.
+Multiple subcutaneous injection sites are also noted in the 
+lower
+abdomen. Degenerative changes are seen about the pubic 
+symphysis.
+Muscle atrophy is present about the hip joints. Heterogeneous
+signal within the visualized portion of the lumbosacral spine 
+(T1
+hypointense and STIR hyperintense) is compatible with the
+patient's known diagnosis of multiple myeloma. Multiple T1
+hypointense, STIR hyperintense lesions are seen about the
+proximal femur and femoral neck as well as in the left 
+acetabulum
+and left ischium, the extent of lytic lesions within the left
+acetabulum is concerning for 
+pathologic fracture risk, although no evidence of such exists at
+this time. 
+IMPRESSION: Within the limits of the imaging sequences acquired,
+multiple myelomatous lesions of the left proximal femur and
+acetabulum placing the risk at increased risk for pathologic
+fracture. 
+
+___ ___ IMPRESSION:  No evidence of deep venous thrombosis 
+in the bilateral lower 
+extremities. 
+
+___ ECHO  IMPRESSION: Suboptimal image quality. The basal 
+inferolateral segment is probably hypokinetic. Mild mitral 
+regurgitation.
+
+Protein Electrophoresis    
+  ABNORMAL BAND IN SLOW GAMMA REGION
+IDENTIFIED PREVIOUSLY, BY IFE, AS MONOCLONAL
+IGG KAPPA
+NOW REPRESENTS, BY DENSITOMETRY, ROUGHLY
+21% (1300 MG/DL) OF TOTAL PROTEIN
+INTERPRETED BY ___, MD
+___ 1747* ___ mg/dL
+Immunoglobulin A 24* 70 - 400 mg/dL
+Immunoglobulin M 11* 40 - 230 mg/dL
+
+___ ___ IMPRESSION:  No evidence of deep venous thrombosis 
+in the bilateral lower 
+extremities. 
+
+___ ECHO  IMPRESSION: Suboptimal image quality. The basal 
+inferolateral segment is probably hypokinetic. Mild mitral 
+regurgitation.
+
+___ CYTOLOGY OF CORE BIOPSY:
+NEOPLASTIC CELLS PRESENT,
+ consistent with plasmacytoma.
+
+___ CXR:  No acute cardiopulmonary process
+
+___ CT abd/pelvis:  
+The lung bases demonstrate bilateral small nonhemorrhagic 
+pleural 
+effusions which have slightly increased in size since prior 
+chest CT.  There is adjacent compressive atelectasis.  A 
+punctate ground-glass nodule is again seen in the base of the 
+left lower lobe (2B:3).  There are no new nodules or masses 
+seen.  There is no pneumothorax.  The imaged portion of the 
+heart is unremarkable.  Hypoattenuation of the blood pool may 
+relate to anemia.  A 
+central catheter tip is only partially imaged.  Calcified 
+plaques along the right hemidiaphragm are redemonstrated. 
+  
+Evaluation of the intra-abdominal contents is limited by the 
+lack of IV contrast.  The liver appears nodular in contour, 
+concerning for underlying intrinsic liver disease.  There is 
+evidence of portal hypertension with mild perisplenic and 
+perihepatic ascites and splenomegaly measuring 14.8 cm in the 
+craniocaudal dimension.  The pancreas and adrenal glands are 
+grossly unremarkable.  There is no hydronephrosis or 
+nephrolithiasis noted within the kidneys.  Scattered 
+retroperitoneal lymph nodes do not meet CT size criteria 
+for lymphadenopathy.  The stomach, large and small bowel are 
+normal without evidence for obstruction.  Evaluation of vessel 
+patency is again limited by the lack of contrast.  An infrarenal 
+inferior vena cava filter is noted. 
+  
+PELVIS:  The bladder and rectum are normal.  The uterus is not 
+easily identified.  The previously seen presacral mass is no 
+longer visualized.  While some asymmetry of the piriformis 
+musculature persists, no identifiable infiltrative mass is 
+visualized.  There is no pelvic lymphadenopathy.  A trace amount 
+of free fluid is present. 
+  
+BONES AND SOFT TISSUES:  Throughout the subcutaneous fat, there 
+are multiple, fairly dense well-defined nodules, with the 
+largest measuring 2.8 x 1.9 cm (2:50) which has slightly 
+increased in size.  A nodule in the left posterior soft tissue 
+has slightly decreased in size (2:37). The overall number of 
+these nodules appears unchanged. Calcifications overlying the 
+gluteus muscles may relate to injection granulomas.   
+  
+There are innumerable lytic lesions throughout the spine and 
+other bones.  A superior endplate deformity of L1 has not 
+progressed since the prior CT.  There is mild anterolisthesis of 
+L4 on L5 which is unchanged.  Prior resection of lower lumbar 
+posterior elements is again noted.  There are partially healed 
+fractures involving the left ischial tuberosity and a non-united 
+pathologic fracture involving the left posterior ninth rib. 
+  
+IMPRESSION: 
+1.  Widespread osseous metastatic lesions which are grossly 
+unchanged from 
+prior. 
+  
+2.  Significant decrease in size of a presacral soft tissue 
+mass. 
+  
+3.  Persistent numerous subcutaneous nodules which are known 
+sites of myeloma 
+involvment, some of which have increased and others which have 
+decreased in 
+size. 
+
+___ DUPPLEX DOPPLER ABD/PELVIS 
+1.  Cirrhotic liver, without focal lesions or biliary dilation. 
+Splenomegaly 
+and small ascites. 
+2.  Patent hepatic vasculature. 
+
+PROTEIN ELECTROPHORESIS 
+Myeloma labs sheet entries for ___:
+IgG: 1246. IgA: 32*. IgM: 14*. PEP: ABNORMAL B (IGG KAPPA; 11%
+(600 MG/DL) OF TOTAL PROTEIN).
+Light chains: 61 kappa, 4 lambda, 15 kappa/lambda ratio
+Protein Electrophoresis    
+  ABNORMAL BAND IN SLOW GAMMA REGION
+IDENTIFIED PREVIOUSLY, BY IFE, AS MONOCLONAL
+IGG KAPPA
+NOW REPRESENTS, BY DENSITOMETRY, ROUGHLY
+21% (1300 MG/DL) OF TOTAL PROTEIN
+INTERPRETED BY ___, MD
+___ 1747* ___ mg/dL
+Immunoglobulin A 24* 70 - 400 mg/dL
+Immunoglobulin M 11* 40 - 230 mg/dL
+
+PATHOLOGY
+___ CYTOLOGY OF CORE BIOPSY:
+NEOPLASTIC CELLS PRESENT,
+ consistent with plasmacytoma.
+
+RELEVANT NEGATIVE MICROBIOLOGY
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+INPATIENT 
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+INPATIENT 
+___ STOOL C. difficile DNA amplification 
+assay-FINAL INPATIENT 
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+INPATIENT 
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+INPATIENT 
+___ STOOL C. difficile DNA amplification 
+assay-FINAL INPATIENT 
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+INPATIENT 
+___ STOOL C. difficile DNA amplification 
+assay-FINAL; FECAL CULTURE-FINAL; CAMPYLOBACTER CULTURE-FINAL 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+___ 
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+___ 
+
+OTHER RELEVANT LABS
+___ 06:00AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE HAV Ab-NEGATIVE IgM HBc-NEGATIVE
+___ 05:40AM BLOOD calTIBC-225* Ferritn-471* TRF-173*
+___ 06:00AM BLOOD GGT-217*
+
+PENDING STUDIES
+___ 02:37PM BLOOD CERULOPLASMIN-PND
+___ 02:37PM BLOOD ___
+___ 06:00AM BLOOD ALKALINE PHOSPHATASE ISOENZYMES-PND
+___ 02:37PM BLOOD ___
+___ 06:00AM BLOOD AMA-PND
+___ 02:37PM BLOOD Smooth-PND
+ 
+Brief Hospital Course:
+___ woman with a history of stroke/dementia and multiple 
+myeloma (IgG Kappa) who presented from rehab with worsening 
+diarrhea, fevers, and LDH >1000.  She has completed 3 cycles of 
+velcade/decadron (last dose ___, and has been receiving 
+radiation this month to her L hip for treatment of a myelomatous 
+bony lesion.  She was supposed to receive a dose of 
+velcade/decadron on ___, but due to feeling feverish with a 
+cough, dose was held and augmentin and erythromycin were 
+initiated for possible PNA. She returned to clinic ___ still 
+feeling unwell. CT Torso revealed no acute pulmonary process, 
+but there are lung nodules. Incidentally, there was a 4X5mm soft 
+tissue mass in the pre-sacral area. She was found to have 
+elevated LDH>1000 on admission, which is likely due to a soft 
+tissue masses.  Biopsy of an abdominal wall nodule was confirmed 
+to be plastmacytoma, so she was started on Cycle one of 
+Velcade/Decadron/Cyclophosphamide on ___ for progressive 
+disease.
+
+On arrival, pt was placed on broad spectrum Abx, but these were 
+discontinued due to low suspicion for infectious process.  C. 
+diff and stool studies were negative, as with multiple blood and 
+urine cultures. 
+
+# Multiple Myeloma (IgG Kappa):  Patient presented with 
+worsening disease after 3 cycles of velcade/decadron.  She has 
+lytic lesions in the left acetabulum, multiple subcutaneous 
+plasmacytomas (the likely cause of her elevated LDH on 
+admission, which trended down with VCD), and protein 
+electrophoresis showed increased IgG kappa.  She is s/p 3 cycles 
+of velcade and Day 1 of VCD was ___.  She developed 
+transfusion-dependent pancytopenia and Day 8 was held starting 
+on ___, and she was given neupogen until her counts recovered. 
+ She apparently had good response to VCD as the presacral mass 
+decreased on repeated imaging and her LDH trended down.
+We continued prophylaxis with atovaquone and acyclovir.  
+
+# Pancytopenia - The patient developed pancytopenia in the 
+setting of chemotherapy, and received blood and platelet 
+tranfusions.  Chemotherapy was held as described above, and her 
+counts remained stable without transfusions.  She was given 
+neupogen until her counts recovered.  On the day of discharge, 
+her ANC was 832, so she was given one dose of neupogen 300mcg.
+ 
+# Lytic bone lesion left acetabulum and proximal femur - MRI 
+showed lytic bony lesions placing her at high risk for 
+fractures.  Orthopedic surgery and physical therapy were 
+consulted, and recommended that she continue partial 
+weight-bearing with a walker and use a TLSO brace.
+
+# Fever - patient had low grade temperatures throughout the 
+hospitalization but no infectious source was identified.  She 
+was placed on broad spectrum antibiotics while neutropenic, but 
+antibiotics were discontinued on ___ and she remained afebrile 
+but had low grade temperatures around 99.5F.  Fevers are most 
+likely medication-related or associated with multiple myeloma.
+
+# Diarrhea - Patient has chronic diarrhea of unclear etiology.  
+No infectious sources identified, repeated C. diff testing was 
+negative.  Diarrhea may be related to local radiation treatment 
+or antibiotics.  TTG was negative, suggesting against celiac 
+disease, but IgA is also low, so celiac disease cannot be ruled 
+out.
+
+# Elevated alk phos / Intrinsic liver disease? - Patient had 
+elevated alk phos and GGT (thought likely related to bone 
+turnover) but CT imaging showed hetereogeneity of the liver 
+parenchyma suggestive of intrinsic liver disease.  After 
+discussion with liver specialists, we obtained duplex ultrasound 
+which showed patent hepatic vessels.  Hepatitis panel was 
+negative.  Iron studies not suggestive of hemochromatosis.  She 
+likely has well-compensated cirrhosis from non-alcoholic steatic 
+hepatitis, given that her other LFTs and her coags were within 
+acceptable ranges.  Several studies are still pending upon 
+discharge, including fractionated alkaline phosphatase, blood 
+ceruloplasmin, ___, AMA, anti-smooth muscle 
+Ab.  She should be seen by liver specialists as an outpatient 
+for follow-up.
+
+Chronic / stable issues
+# Dementia - Patient has likely vascular dementia, and memory 
+loss secondary to a remote stroke.  On some days, she is able to 
+state her diagnosis but other days she was unable to recount the 
+events of the past day.  She did not seem to have insight into 
+her disease.
+
+# DVT s/p IVC filter in ___
+
+# Fluid overload / weight gain - The patient developed fluid 
+overload in setting of receiving IVF for diarrhea and fevers, 
+which improved with PO lasix.
+
+# Hypertension - We continued home metoprolol and lisinopril.  
+Aspirin was held for thrombocytopenia.
+
+# Hyperlipidemia -We continued home simvastatin
+
+# NIDDM - We stopped home glipizide and kept her on an insulin 
+sliding scale while in house, she developed hyperglycemia in the 
+setting of dexamethasone as part of her VCD.
+
+#GERD - We continued home omeprazole
+
+#Depression - We continued home fluoxetine
+
+#Back Pain - We continued home short and long acting oxycodone 
+regimen.
+
+# ACCESS: Tunneled line in double-lumen Power Port-A-Cath in 
+right
+# PROPHYLAXIS:  Heparin SQ, Omeprazole
+- Pain with- home pain regimen 
+- Nausea with: scheduled zofran, prn olanzapine
+- Bowel - standing colace/senna, miralax prn, hold for diarrhea
+# CODE: Confirmed Full
+# EMERGENCY CONTACT: daughter ___ (health care proxy)
+# DISPO:  Has a private bed at ___ of ___, ambulates 
+with walker, needs assistance with personal care / ADLs
+
+# CAPACITY EVALUATION / GUARDIANSHIP - She was seen by 
+psychiatry (Dr. ___ and deemed to have no capacity to 
+make medical decisions as she is unable to express consistent 
+choices and appreciate how medical info applies to her 
+condition.  She seems to have a component of denial.  The 
+patient's daughter is her health care proxy but she has not been 
+involved during this hospitalization.  Social work is attempting 
+to contact her daughter and request a transfer of health care 
+proxy status to a legal guardian.
+
+TRANSITION OF CARE
+- Follow-up to be arranged with liver specialists regarding 
+intrinsic liver disease
+- Follow-up with Dr. ___ to outline course of treatment for 
+multiple myeloma
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Gabapentin 300 mg PO Q24H 
+3. Metoprolol Tartrate 50 mg PO BID 
+Hold for HR<55, SBP<95 
+4. Simvastatin 5 mg PO DAILY 
+5. Acyclovir 400 mg PO Q8H 
+6. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN dyspnea 
+7. Atovaquone Suspension 1500 mg PO DAILY 
+8. Oxycodone SR (OxyconTIN) 60 mg PO Q12H bone pain from 
+multiple myeloma 
+hold for sedation or RR < 12 
+9. OxycoDONE (Immediate Release)  ___ mg PO Q3H:PRN 
+breakthrough pain 
+Hold for sedation.
+Hold for RR < 12. 
+10. traZODONE 25 mg PO HS:PRN insomnia 
+hold for oversedation or RR<12 
+11. Lisinopril 10 mg PO DAILY 
+Hold for SBP <95 
+12. Fluoxetine 10 mg PO DAILY 
+13. Vitamin D 800 UNIT PO DAILY 
+14. Omeprazole 40 mg PO DAILY 
+15. Furosemide 20 mg PO DAILY 
+16. GlipiZIDE XL 5 mg PO DAILY 
+17. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+18. Ondansetron 4 mg PO Q8H:PRN nausea 
+19. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+20. Docusate Sodium 100 mg PO BID 
+21. Bisacodyl 10 mg PO DAILY:PRN constipation 
+22. Acetaminophen 650 mg PO Q6H:PRN fever 
+ 
+Discharge Medications:
+1. Acyclovir 400 mg PO Q8H 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN dyspnea 
+3. Docusate Sodium 100 mg PO BID 
+Hold for diarrhea 
+4. Fluoxetine 10 mg PO DAILY 
+5. Gabapentin 300 mg PO Q8H 
+6. Ondansetron 4 mg PO Q8H nausea 
+7. Lisinopril 10 mg PO DAILY 
+Hold for SBP <95 
+8. Metoprolol Tartrate 50 mg PO BID 
+Hold for HR<55, SBP<95 
+9. Omeprazole 40 mg PO DAILY 
+10. OxycoDONE (Immediate Release)  ___ mg PO Q3H:PRN 
+breakthrough pain 
+Hold for sedation.
+Hold for RR < 12. 
+11. Oxycodone SR (OxyconTIN) 60 mg PO Q12H bone pain from 
+multiple myeloma 
+hold for sedation or RR < 12 
+12. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+13. Simvastatin 5 mg PO DAILY 
+14. Vitamin D 800 UNIT PO DAILY 
+15. Senna 1 TAB PO BID constipation 
+Hold for diarrhea 
+16. Bisacodyl 10 mg PO DAILY:PRN constipation 
+17. OLANZapine (Disintegrating Tablet) 5 mg PO DAILY:PRN nausea 
+refractory to ondansetron 
+18. Glargine 20 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+19. Heparin Flush (10 units/ml) 5 mL IV PRN line flush 
+20. Heparin Flush (100 units/ml) 5 mL IV PRN DE-ACCESSING port 
+21. Atovaquone Suspension 1500 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:  Multiple myeloma, plasmacytoma
+SECONDARY:  Chronic diarrhea, diabetes mellitus, transaminitis
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: partial weight bearing OOB daily with TLSO, Amb 
+with SW and Close S- ___ A and vc for ___
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure caring for you during your hospitalization.  
+You were hospitalized for fevers and diarrhea, for which you 
+received a short course of IV antibiotics.  Thorough evaluation 
+of possible infectious causes of your fever did not reveal any 
+clear source of infection so the antibiotics were stopped.  A CT 
+scan of your abdomen revealed several masses under the skin.  A 
+biopsy was performed, which revealed that you have small cancers 
+called plasmacytomas, which is likely related to progression of 
+multiple myeloma.  Because of this, you started chemotherapy, 
+which you tolerated well.  You received blood and platelet 
+transfusions when your blood counts dropped because of 
+chemotherapy.
+
+TRANSITION OF CARE
+- It is very important you keep the follow-up appointments we 
+have made for you below
+- Follow-up to be arranged with liver specialists regarding 
+intrinsic liver disease
+- Follow-up with Dr. ___ / ___ to outline 
+course of treatment for multiple myeloma
+ 
+Followup Instructions:
+___

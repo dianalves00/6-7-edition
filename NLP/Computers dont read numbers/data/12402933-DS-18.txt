@@ -1,0 +1,317 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hypoxia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year ___ speaking man w/ hx of DM, ESRD on HD who 
+presents with intermittent hypoxia
+.
+Patient was recently admitted to ___ for hypoxia and was 
+initially thought to have pneumonia, covered broadly for HCAP 
+(had prior ICU admission requiring biPAP). He was later thought 
+to have volume overload/bronchitis, abx were narrowed to 
+levofloxacin, and he completed 7-day course today. He was sent 
+to the ED form rehab
+this morning for CTA to rule out PE due to his hypoxia. 
+.
+Patient presents today with his daughter, who reports that 
+patient has had oxygen desaturation into the ___ at rehab 
+intermittently since starting HD. Hypoxic events are not 
+precipitated by identifiable causes, no relation to exertion, 
+eating, position. Pt appears short of breath during these times 
+and responds to oxygen (2L) with saturations climbing to mid 
+___. Patient also has had productive cough for past week, not 
+worse with lying down or post-prandial, but patient is unclear 
+of sputum color. Reports chills upon transport but none prior. 
+Denies fevers, chest pain, pain on inspiration, orthopnea, PND, 
+calf pain, asymmetric lower extremity edema, sick contacts. At 
+baseline, patient has mild abdominal distention and lower 
+extremity edema in between HD sessions that resolves after. He 
+uses a cane for walking and has mild dizziness when going from 
+sitting to standing, worse after HD. Pt also reports occasional 
+tightness in the abdomen, unrelated to eating.       
+.
+In the ED, initial vital signs were T 97.9 HR 74 BP ___ RR 16 
+O2 94% on 2L NC. He underwent EKG, CXR, and CTA, which was 
+negative for PE. His labs were notable for troponin of 0.16 
+(consistent with baseline, 0.12-0.14 in recent admission), WBC 
+8.6, HCt 30.7 (baseline), glucose 214, Cr 6.0 (5.4-6.2 on 
+previous admission), lactate 2.1. On transfer, vital signs were 
+T 98.1 HR 67 BP 109/42 RR 22 O2 96% on 2L NC. 
+.
+Currently patient is comfortable on 2 L and remains so on RA. He 
+has no complaints 
+.  
+ROS: Denies fever, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, chest pain, abdominal pain, 
+nausea, vomiting, diarrhea, constipation, BRBPR, melena, 
+hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+DM (diabetes mellitus), type 2 with nephropathy & retinopathy
+Hyperkalemia  
+Hypertension goal BP (blood pressure) < 130/80  
+OBESITY UNSPEC  
+HYPERCHOLESTEROLEMIA  
+CHRONIC KIDNEY DISEASE, STAGE V (SEVERE)  
+ESOPHAGEAL REFLUX  
+TOBACCO DEPENDENCE  
+PROSTATIC HYPERTROPHY, BENIGN 
+ 
+Social History:
+___
+Family History:
+Brother  ___ Onset; heart disorder 
+
+ 
+Physical Exam:
+VS - Temp 97.9, BP 117/80 , HR 70 , R 18, O2-sat 97% on 2L, 
+94-95% on RA, FSBG 98  
+GENERAL - well-appearing man, comfortable, NAD 
+HEENT - NC/AT, EOMI, sclerae anicteric, MMM, OP clear  
+NECK - supple, JVP 8cm, no carotid bruits  
+LUNGS - crackles at bilateral bases R>L, no wheezes, good air 
+movement, resp unlabored, no accessory muscle use  
+HEART - RRR, no MRG, nl S1-S2  
+ABDOMEN - NABS, mildly distended abdomen, soft, no masses or 
+HSM, no rebound/guarding  
+EXTREMITIES - WWP, no edema, 2+ peripheral pulses (radials, DPs) 
+ 
+SKIN - no rashes or lesions  
+LYMPH - no cervical or supraclavicular LAD  
+NEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ proximal muscles throughout, sensation grossly intact 
+throughout,  
+.  
+
+ 
+Pertinent Results:
+___ 11:00AM BLOOD WBC-8.6 RBC-3.15* Hgb-10.6* Hct-30.7* 
+MCV-98 MCH-33.7* MCHC-34.5 RDW-12.9 Plt ___
+___ 04:51AM BLOOD WBC-8.2 RBC-3.00* Hgb-10.0* Hct-28.1* 
+MCV-94 MCH-33.5* MCHC-35.7* RDW-13.1 Plt ___
+___ 11:00AM BLOOD Neuts-70.3* Lymphs-16.5* Monos-8.6 
+Eos-3.3 Baso-1.2
+___ 11:00AM BLOOD Glucose-214* UreaN-49* Creat-6.0* Na-138 
+K-4.6 Cl-95* HCO3-29 AnGap-19
+___ 04:51AM BLOOD Glucose-125* UreaN-62* Creat-7.4*# Na-134 
+K-4.5 Cl-92* HCO3-29 AnGap-18
+___ 11:00AM BLOOD cTropnT-0.16*
+___ 08:54AM BLOOD Calcium-8.9 Phos-6.3*# Mg-2.5
+___ 11:35AM BLOOD Lactate-2.1*
+.
+CXR ___: FINDINGS: Frontal and lateral views of the chest 
+were obtained. Large bore 
+right-sided central venous catheter terminates at the cavoatrial 
+
+junction/proximal right atrium. No pleural effusion or 
+pneumothorax is seen.  
+The cardiac silhouette remains mildly enlarged. The mediastinal 
+and hilar 
+contours are stable. No definite focal consolidation is seen. 
+.
+CTA ___:
+ 
+Preliminary ReportThe thyroid gland is unremarkable. There is no 
+axillary or mediastinal 
+Preliminary Reportlymphadenopathy by CT size criteria. The heart 
+and great vessels are 
+Preliminary Reportunremarkable. There are minimal left anterior 
+descending coronary artery 
+Preliminary Reportcalcifications. Also noted are mitral annular 
+calcifications. There are mild 
+Preliminary Reportcalcifications within the aortic arch. A 
+right-sided dialysis catheter 
+Preliminary Reportterminates with its tip deep in the right 
+atrium. No pericardial effusions 
+Preliminary Reportare present. 
+  
+Preliminary ReportThe pulmonary arteries are patent down to the 
+subsegmental level. 
+  
+Preliminary ReportThe lungs show diffuse bibasilar atelectasis, 
+but no nodules, effusions, or 
+Preliminary Reportconsolidations are present. The descending 
+thoracic aorta shows evidence of 
+Preliminary Reportulcerated soft plaque (4:117). No effusions 
+are present. The aorta is mildly 
+Preliminary Reportectatic measuring upto 45 mm at the level of 
+the main pulmonary artery. 
+  
+Preliminary ReportAlthough this examination was not intended for 
+subdiaphragmatic evaluation, 
+Preliminary Reportthe partially imaged abdomen shows 
+cholecystectomy clips, but is otherwise 
+Preliminary Reportunremarkable. 
+  
+Preliminary ReportOSSEOUS STRUCTURES: 
+  
+Preliminary ReportThe visible osseous structures show no 
+suspicious lytic or blastic lesions or 
+Preliminary Reportfractures. There is mild anterior osteophyte 
+formation of the lower thoracic 
+Preliminary Reportspine. 
+  
+Preliminary Report
+IMPRESSION: 
+Preliminary Report1. No pulmonary embolism or pneumonia. 
+Preliminary Report2. Right-sided dialysis catheter terminates 
+with its tip deep within the 
+Preliminary Reportright atrium 
+
+ 
+Brief Hospital Course:
+#HYPOXIA: Pt reportedly intermittently hypoxic to ___ and ___. 
+There was concern for PE at rehab and patient sent for CTA. CTA 
+negative so PE unlikely. No obvious pneumonia or fluid overload 
+on CXR or CT.  Most likely etiology is a poor O2 saturation 
+recording on the monitor secondary to his finger clubbing and 
+nail fungus.  When the pulse oximeter was adjusted his sats 
+improved.  An additional portable pulse oximeter was used and 
+showed stable oxygen saturations on room air without desat.  
+.
+#CKD: Pt currently undergoes HD on T, Th, and S. Cr 6.0 on 
+admission, stable from previous admission.  He received dialysis 
+on ___ which was uncomplicated.  His amlodipine was held to 
+allow more blood pressure room to remove fluid
+.
+# DM:  Continued lantus and sliding scale
+.
+#HTN: Stable.  Held amlodpine on discharge, but maintained home 
+lasix
+.
+#ANEMIA: Stable from previous admissions. Received ferrous 
+gluconate during HD
+.
+Transitional Issues:
+-Pt is DNR/DNI
+ 
+Medications on Admission:
+2. Duonebs q4hr prn
+3. Miralax daily
+4. Trazadone 25mg qHS prn insomnia
+5. B complex 1 tab daily
+6. Folic acid 1 tab daily
+7. Vitamin C 250mg daily
+8. Biscodyl PR prn
+9. Fleet enema prn
+10. Acetaminophen 650mg q4hr prn pain
+11. Amlodipine 5mg daily (stopped on ___
+12. Calcitriol 0.25mcg every other day
+13. Vitamin ___ ___ weekly on ___
+14. Milk of magnesia prn
+15. Lasix 40mg PO daily
+16. Percocet ___- 1 tab PO q4hr prn pain
+17. Senna qHS
+18. Colace liquid PO qHS
+19. Remeron 15mg PO qHS
+20. Amlodipine 2.5mg PO daily
+21. PhosLo 667mg- 2 tab PO TID with meals
+22. Humalog insulin sliding scale
+23. Lantus 40U daily 
+.  
+
+ 
+Discharge Medications:
+1. DuoNeb 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for 
+Nebulization Sig: One (1) neb Inhalation every four (4) hours as 
+needed for shortness of breath or wheezing.  
+2. polyethylene glycol 3350 17 gram Powder in Packet Sig: One 
+(1) Powder in Packet PO DAILY (Daily) as needed for 
+constipation.  
+3. trazodone 50 mg Tablet Sig: 0.5 Tablet PO HS (at bedtime) as 
+needed for insomnia.  
+4. B complex vitamins     Capsule Sig: One (1) Cap PO DAILY 
+(Daily).  
+5. folic acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Vitamin C 250 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. bisacodyl 5 mg Tablet Sig: One (1) Tablet PO once a day as 
+needed for constipation.  
+8. Fleet Enema ___ gram/118 mL Enema Sig: One (1) enema Rectal 
+once a day as needed for constipation.  
+9. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO every four 
+(4) hours as needed for pain.  
+10. calcitriol 0.25 mcg Capsule Sig: One (1) Capsule PO EVERY 
+OTHER DAY (Every Other Day).  
+11. ergocalciferol (vitamin D2) 50,000 unit Capsule Sig: One (1) 
+Capsule PO once a week: On ___.  
+12. Milk of Magnesia 400 mg/5 mL Suspension Sig: Five (5) ml PO 
+once a day as needed for constipation.  
+13. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+14. Percocet ___ mg Tablet Sig: One (1) Tablet PO every four 
+(4) hours as needed for pain.  
+15. senna 8.6 mg Tablet Sig: One (1) Tablet PO HS (at bedtime).  
+
+16. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO at 
+bedtime.  
+17. mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+18. B complex-vitamin C-folic acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+19. calcium acetate 667 mg Capsule Sig: Two (2) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+20. Lantus 100 unit/mL Solution Sig: Forty (40) units 
+Subcutaneous once a day: at breakfast.  
+21. insulin lispro 100 unit/mL Solution Sig: dose per sliding 
+scale units Subcutaneous four times a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+HYPOXIA
+
+Secondary Diagnosis:
+END STAGE RENAL DISEASE
+DIABETES MELLITUS
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the ___ from ___ to ___ for 
+low oxygen levels and concern for a possible blood clot in your 
+lungs. A scan was done of your chest, which did not show a blood 
+clot in your lungs, and your oxygen levels were monitored and 
+remained normal. You are now doing well. Thank for allowing us 
+to participate in your care. 
+
+Medication changes:
+Please STOP amlodipine 2.5 mg
+
+Please CONTINUE all of your other home medications   
+ 
+Followup Instructions:
+___

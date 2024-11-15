@@ -1,0 +1,418 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lytic Skull Lesions, Metabolic Encephalopathy
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old Male who presents with confusion and lytic lesions 
+from ___. At the OSH he was admitted due to 
+progressive confusion, visual hallucinations and bizarre 
+behavior. He had several weeks of URI symptoms before this, 
+thought to be bronchitis and treated with amoxicillin. He has 
+been afebrile since presentation to ___. The workup at 
+___ had a negative UA, Chest xray suggesting right 
+suprahilar infiltrate vs mass. Chest CT shows question of 
+post-obstructive pneumonia; he was started on Moxifloxacin on 
+___. A head CT to work up the confusion demonstrated a bony, 
+lytic lesion in the calvarium with extradural soft tissue 
+component (palpable on exam) which radiologists felt was very 
+suspicious for a metastatic lesion. The patient maintains the 
+lesion has been there "since ___ when he was hit on the head 
+by a flagpole.
+
+His delirium reportedly improved, but the hospitalist reported 
+that his sleep wake cycle is still "off." The family requested 
+transfer to ___ for additional workup of lesion, although 
+unclear why this was for inpatient workup. Of note, during his 
+admission he was transfused 2 units for Hct 26 (in ___ Hct 
+was 28) with appropriate hct bump. Guiaiac negative.  
+
+Upon arrival to the ___ Medicine floor he reports ___ year of 
+worsening dyspnea on exertion. No ___ edema. No LOA 
+or weight loss.
+ 
+Past Medical History:
+Coronary artery disease -s/p OM and RCA stents ___ at ___ 
+___
+Right Bundle Branch Block
+Atrial flutter since ___, s/p ablation ___  
+Benign Hypertension
+Hyperlipidemia
+COPD  
+GERD  
+Peptic Ulcer Disease
+Tonsillectomy ___ years ago  
+Glaucoma
+ 
+Social History:
+___
+Family History:
+Brother died at ___ of pancreatic cancer. Father died at ___ of 
+prostate cancer. One sister alive and healthy at ___, other 
+sister deceased (unclear of cause of death). Hi 2 biological 
+children died at birth. No family history of lung cancer
+ 
+Physical Exam:
+ROS:
+GEN: - fevers, - Chills, - Weight Loss
+EYES: - Photophobia, - Visual Changes
+HEENT: - Oral/Gum bleeding
+CARDIAC: - Chest Pain, - Palpitations, - Edema
+GI: - Nausea, - Vomitting, - Diarhea, - Abdominal Pain, - 
+Constipation, - Hematochezia
+PULM: - Dyspnea, - Cough, - Hemoptysis
+HEME: - Bleeding, - Lymphadenopathy
+GU: - Dysuria, - hematuria, - Incontinence
+SKIN: - Rash
+ENDO: - Heat/Cold Intolerance
+MSK: - Myalgia, - Arthralgia, - Back Pain
+NEURO: - Numbness, - Weakness, - Vertigo, - Headache, + 
+Encephalopathy
+ 
+ADMISSION PHYSICAL EXAM:
+VSS: 98.2, 138/80, 64, 20, 93%
+GEN: NAD
+Pain: ___
+HEENT: EOMI, MMM, - OP Lesions, soft tissue mass occipital 
+region
+PUL: feint basilar crackles
+COR: RRR, S1/S2, - MRG
+ABD: NT/ND, +BS, - CVAT
+EXT: - CCE
+NEURO: CAOx3, Non-Focal
+
+DISCHARGE PHYSICAL EXAM:
+Vitals: T98.4  BP: 135/55 P: 72 RR: 20 O2: 91%RA  
+General: Alert, oriented x3, appropriate, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, no cervical LAD  
+Lungs: CTAB, no rhonchi, rales, wheezes
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, no edema  
+Neuro: non-focal
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 06:40AM BLOOD WBC-12.4* RBC-4.96 Hgb-11.0* Hct-37.2* 
+MCV-75* MCH-22.2* MCHC-29.6* RDW-18.3* Plt ___
+___ 09:45PM BLOOD WBC-12.1* RBC-4.84 Hgb-10.6* Hct-36.0* 
+MCV-74* MCH-21.9* MCHC-29.5* RDW-18.2* Plt ___
+___ 06:40AM BLOOD Neuts-74* Bands-4 Lymphs-6* Monos-9 Eos-3 
+Baso-0 ___ Myelos-2* Promyel-1* Plasma-1*
+___ 09:45PM BLOOD Neuts-82* Bands-2 Lymphs-13* Monos-3 
+Eos-0 Baso-0 ___ Myelos-0 NRBC-1*
+___ 06:40AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-1+ 
+Macrocy-NORMAL Microcy-1+ Polychr-NORMAL Ovalocy-OCCASIONAL 
+Target-OCCASIONAL Envelop-OCCASIONAL
+___ 09:45PM BLOOD ___ PTT-29.3 ___
+___ 06:40AM BLOOD Glucose-100 UreaN-21* Creat-1.1 Na-136 
+K-4.5 Cl-96 HCO3-29 AnGap-16
+___ 09:45PM BLOOD Glucose-138* UreaN-23* Creat-1.2 Na-138 
+K-4.3 Cl-99 HCO3-35* AnGap-8
+___ 06:40AM BLOOD CK(CPK)-115
+___ 09:45PM BLOOD ALT-41* AST-29 CK(CPK)-89 AlkPhos-81 
+TotBili-0.8
+___ 06:40AM BLOOD CK-MB-3 cTropnT-<0.01
+___ 09:45PM BLOOD CK-MB-3
+___ 09:45PM BLOOD TotProt-5.8* Albumin-3.3* Globuln-2.5 
+Calcium-8.4 Phos-3.5 Mg-2.2 Iron-30*
+___ 09:45PM BLOOD calTIBC-215* Ferritn-580* TRF-165*
+___ 09:45PM BLOOD PEP-NO SPECIFI
+___ 06:40AM BLOOD Digoxin-0.9
+___ 01:58AM URINE Color-Yellow Appear-Clear Sp ___
+___ 01:58AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-6.0 Leuks-NEG
+___ 01:58AM URINE Hours-RANDOM TotProt-7
+
+MICRO:
+___ 1:58 am URINE CULTURE: STAPHYLOCOCCUS, COAGULASE 
+NEGATIVE.    10,000-100,000 ORGANISMS/ML.. 
+
+STUDIES:
+___ CT Head w/o contrast ___ second read at 
+___: There are no previous studies available for comparison, 
+and this examination is interpreted in tandem with the enhanced 
+MR examination.  Corresponding to the findings on that 
+examination is an extensive lytic, destructive process involving 
+the right paramedian occipital bone with transgression of both 
+its inner and outer tables and residual bony spicules with a 
+"permeative" appearance. This process measures up to 3.5 cm in 
+overall transverse dimension (3:18). Better-demonstrated on the 
+accompanying examination is the uniform, slightly 
+hyperattenuating (measuring up to 43 ___ soft tissue component, 
+extending intracranially in the right paramedian extradural 
+space overlying that parieto-occipital pole. This process also 
+encases and appears to expand the subjacent segment of the 
+superior sagittal sinus, significantly better- demonstrated on 
+the MR. ___ process extends superficially, where it is 
+apparently confined by the galeal periosteum, with no definite 
+extension into the immediately overlying subcutaneous fat. Other 
+than the residual bone, there is no definite abnormal 
+calcification associated with any of the components of this 
+process. No similar lesion is identified elsewhere in the 
+calvaria or in the skull base. There is no intra- or extra-axial 
+hemorrhage and the midline structures are in the midline. As on 
+the MR, there is moderately severe global atrophy with evidence 
+of the sequelae of chronic small vessel ischemic disease in 
+periventricular white matter. There is no finding to suggest 
+acute vascular territorial infarction. Again demonstrated is 
+evidence of previous ocular lens surgery, with no other orbital 
+abnormality. 
+  
+IMPRESSION: 
+1. Markedly abnormal appearance to the right paramedian 
+occipital bone which demonstrates an extensive lytic, 
+destructive process with both intra- and extracranial soft 
+tissue component. The intracranial portion extends to involve 
+the extradural space overlying the right occipital pole, and to 
+encase and likely involve the underlying superior sagittal 
+sinus. This component is better- evaluated on the current 
+enhanced MR examination. 2. As on the MR study, there is no 
+definite evidence of thrombosis of the principal dural venous 
+sinuses, elsewhere. 3. Moderately severe global atrophy and 
+sequelae of chronic small vessel 
+ischemic disease. 
+
+___ CT Chest w/ CONTRAST ___ second read by 
+___: Right upper lobe opacity with consolidation and 
+satellite peribronchial nodules, accompanied by a right pleural 
+effusion, with the morphology that is highly suggestive of 
+infectious disease. This is supported by smaller infectious foci 
+in the remaining lung. Subtle, mainly perifissural scars, as 
+described above. Moderate coronary calcifications and aortic 
+tortuosity. Slightly increased number of mediastinal lymph 
+nodes, but no pathologic lymph node enlargement.  No evidence of 
+airway obstruction. 
+ 
+___ MRI with and w/o Contrast (___): 1. As on the prompting 
+OSH NECT, there is a markedly abnormal appearance to the right 
+paramedian occipital bone, with an extensive soft tissue process 
+which has replaced the diploic marrow space with both extradural 
+intracranial and, likely, subperiosteal extracranial 
+involvement. Of note, all components demonstrate slow diffusion. 
+2. The process encases and infiltrates the subjacent segment of 
+the superior sagittal sinus, which appears expanded and invaded 
+by the enhancing soft tissue. The remainder of this as well as 
+the remaining principal dural venous sinuses appear patent, with 
+no cerebral edema or other evidence of venous hypertension. 3. 
+No other calvarial lesion identified. 4. Moderately severe 
+global, particularly central, atrophy and sequelae of chronic 
+small vessel ischemic disease.
+ 
+COMMENT: The constellation of findings, taken in concert with 
+the extensive
+lytic appearance on CT, is most concerning for a hypercellular 
+neoplastic
+process, such as plasmacytoma/multiple myeloma or primary 
+lymphoma of bone.
+The overall appearance would be somewhat unusual for metastatic 
+"solid" tumor. The sequela of remote trauma, akin to the 
+so-called "growing fracture"(leptomeningeal cyst), occasionally 
+seen after trauma in pediatric patients, would be most unusual 
+with this appearance. 
+
+DISCHARGE LABS:
+
+___ 06:05AM BLOOD WBC-13.4* RBC-4.99 Hgb-10.9* Hct-36.0* 
+MCV-72* MCH-21.9* MCHC-30.3* RDW-18.0* Plt ___
+___ 06:05AM BLOOD ___ PTT-29.4 ___
+___ 06:05AM BLOOD Glucose-102* UreaN-20 Creat-1.0 Na-139 
+K-4.3 Cl-99 HCO3-32 AnGap-12
+___ 06:05AM BLOOD ALT-31 AST-29 LD(LDH)-257* AlkPhos-76 
+TotBili-0.9
+___ 06:40AM BLOOD PSA-2.___. Lytic Skull Lesion- Pt was transferred from OSH primarily for 
+w/u of incidental finding of lytic lesion in posterior calvarium 
+w/ superimposed soft tissue mass. Pt maintained he has had the 
+soft tissue prominence in that area since ___ when he was hit 
+on the head by a flagpole. OSH films were reviewed by ___ 
+radiologists who were also concerned about possible malignancy, 
+though felt that MRI would be the optimal study to further 
+characterize. Patient was seen by the neurosurgery service who 
+did not feel there was an urgent need to biopsy and recommended 
+MRI and outpatient follow up. MRI was performed and showed 
+markedly abnormal appearance to the right paramedian occipital 
+bone, with an extensive soft tissue process which has replaced 
+the diploic marrow space with both extradural intracranial and, 
+likely, subperiosteal extracranial involvement. Of note, all 
+components demonstrate slow diffusion, concerning for 
+malignancy- particularly solitary plasmacytoma, multiple 
+myeloma. Work up in house also included SPEP, UPEP which were 
+negative and in the setting of normal renal function and calcium 
+made myeloma seem unlikely. PSA was checked and wnl. CT Chest 
+was reviewed and was negative for any masses or lymphadenopathy. 
+Pt and family opted to follow up with neurosurgery closer to 
+their home so they were given CDs of all studies and instructed 
+to follow up with pt's PCP ___. Dr. ___ was 
+contacted by telephone and informed of hospitalization and pt's 
+desire to have NSG f/u closer to home, which he was amenable to 
+arranging.
+
+2. Metabolic Encephalopathy- Was likely secondary to an 
+infectious process, specifically pt's pneumonia. By arrival in 
+our facility, patient was alert and oriented x3, attentive, and 
+completely appropriate. He was monitored for further delirium 
+but did not show any signs of it and was discharged at his 
+baseline. 
+
+3. CAD Native Vessel- Was continued on home Beta-Blocker, 
+Statin, ASA.
+
+4. Benign Hypertension- Was continued on home metoprolol and 
+lasix.
+
+5. Atrial Flutter- S/p ablation. Patient no longer on 
+dabigatran. Was in sinus with RBBB during this admission. Was 
+continued on home regimen of metoprolol, digoxin, and 
+dronedarone and remained in sinus rhythm. Digoxin level was 
+checked and w/in therapeutic range.
+
+6. Pulmonary Hypertension- Was continued on lasix.
+
+7. Iron Deficiency Anemia- Has a h/o of thalassemia trait, but 
+also with h/o iron deficiency and pt noted is not compliant w/ 
+supplementation ___ constipation. Manual differential in house 
+showed early cell forms (myelocytes, promyelocytes, plasma 
+cells) that warrant further work up by hematology w/ potential 
+bone marrow biopsy, particularly given known lytic lesion. This 
+can be pursued as an outpatient. Pt's hct remained stable during 
+hospitalization and he was discharged on iron, colace and senna. 
+Iron studies showed iron of 30, TIBC 215, ferritin 580.
+
+8. Pneumonia- Pt was started on moxifloxacin on ___ at OSH for 
+CAP. There was initial concern there for post-obstructive 
+pneumonia. CT chest was reviewed by ___ radiologists who did 
+not feel there was any evidence of mass or post-obstructive 
+pneumonia. He was continued on levofloxacin and discharged to 
+complete a 7 day course of antibiotics. 
+
+Full Code
+ 
+Medications on Admission:
+Home Medications: [confirmed with wife]  
+Aspirin 81 mg daily  
+Pradaxa 150 mg b.i.d. (no longer on this medication)  
+Dronedarone 400mg BID  
+Digoxin 0.125 mg daily  
+Metoprolol tartrate 25 mg daily  
+Furosemide 40 mg daily  
+Simvastatin 40 mg daily  
+Xalatan daily  
+Potassium chloride 20 mEq daily  
+Multivitamin  
+Iron (not compliant)  
+Vitamin D  
+ 
+Transfer Medications: [per transfer summary]  
+Aspirin 81 mg daily  
+Dronedarone 400mg BID  
+Digoxin 0.125 mg daily  
+Metoprolol tartrate 25 mg daily  
+Furosemide 40 mg daily  
+Simvastatin 40 mg daily  
+Xalatan 1 drop daily  
+Potassium chloride 20 mEq daily  
+Moxifloxacin 400mg PO daily (started ___  
+Ferrous sulfate 650 mg daily
+ 
+Discharge Medications:
+1. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. dronedarone 400 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+3. digoxin 125 mcg Tablet Sig: One (1) Tablet PO once a day.  
+4. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS (at 
+bedtime).  
+8. potassium chloride 10 mEq Tablet Extended Release Sig: Two 
+(2) Tablet Extended Release PO once a day.  
+9. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+10. cholecalciferol (vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+11. ferrous sulfate 300  mg (60 mg iron) Tablet Sig: Two (2) 
+Tablet PO DAILY (Daily).  
+12. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+13. senna 8.6 mg Tablet Sig: One (1) Tablet PO at bedtime as 
+needed for constipation.
+Disp:*30 Tablet(s)* Refills:*0*
+14. levofloxacin 750 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*3 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Pneumonia
+Lytic lesion of calvarium
+
+Secondary:
+HTN
+COPD
+Atrial fibrillation/flutter
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were transferred to the ___ 
+for evaluation of a lesion on your skull and treatment of a 
+pneumonia. You were seen by the neurosurgery service who 
+recommended an MRI of your head which was done while you were in 
+the hospital. It is very important that you follow up with a 
+neurosurgeon for further evaluation of this lesion. Your primary 
+care physician ___ help arrange this. You were treated with 
+antibiotics for your pneumonia.
+
+We made the following changes to your medications:
+- please take LEVOFLOXACIN for your pneumonia- you will complete 
+this medication after your dose on ___
+- you may take colace and senna to help with your constipation
+
+Please continue taking your other medications as you were 
+previously and follow up with your primary care doctor as below. 
+Dr. ___ will arrange for neurosurgery follow up for 
+evaluation of your skull lesion.
+
+It was a pleasure taking care of you at the ___. We wish you a 
+speedy recovery.
+ 
+Followup Instructions:
+___

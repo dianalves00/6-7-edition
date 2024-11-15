@@ -1,0 +1,364 @@
+ 
+Name:  ___          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+HD MTX C8, C2 Temodar
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ is a
+___ ___ female with a history of DLBCL with
+known CNS involvement. She is s/p 6 cycles R-mini-CHOP and 7
+cycles of HD-MTX and presents for cycle 8 of high dose
+methotrexate as part of her CNS disease treatment. During her
+most recent admission from ___, there was concern
+for progressive leptomeningeal disease given worsening
+neurological symptoms. Given this, following her C7 of HD MTX, 
+in
+consultation with neuro-oncology, she received C1 of
+Temozolamide. Now presents for C8 HD MTX/C2 Temodar.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY (PER OMR):
+==================================
+Patient was in ___ until ___ when she began to experience
+fatigue, poor appetite and night sweats. Associated 20 lb weight
+loss over the last month. She was living in ___ at the 
+time
+of sx onset,and moved to ___ in ___ to visit her
+daughters. In ___, she was hospitalized at ___ for
+dizziness, palpitations, diarrhea and was found to have
+lymphocytosis and diffuse LAD on PE. CT chest at that time
+demonstrated mediastinal, axillary, subpectoral, abdominal,
+pelvis LAD c/f lymphoma. She was discharged with plan to follow
+up with Dr. ___ outpatient work up of ? lymphoma.
+
+On outpatient follow up (___) the patient was found to have
+leukocytosis w/ lymphocytic proliferation felt to be ___s a hyperbilirbuinemia (tbili 5, dbili 5), alk phos 936 
+and
+uric acid of 7.6. Plan was to have LN biopsy on ___.
+
+However, patient presented to ___ on ___ w/ HA and 
+facial
+tingling associated on the right. Was transferred to ___ for
+further Mx on ___.
+
+CT chest/abd/pelvis at ___ on ___ demonstrated
+retroperitoneal, mesenteric and bilateral inguinal
+lymphadenopathy, concerning for lymphoma, unchanged compared to
+outside CT of the abdomen/pelvis from ___ along with
+splenomegaly. CT chest demonstrated extensive mediastinal and
+axillary lymphadenopathy. CT neck demonstrated mildly enlarged,
+symmetric, bilateral neck lymph nodes and enlarged bilateral
+palatine tonsils. 
+
+- ___: Rt axillary LN biopsy was found to be c.w DLBCL, CD10
+pos with MUM1 pos in only subset. C.w DLBCL-GC subtype.
+Cytogenetics demonstrated 95% of the metaphase right axillary
+lymph node cells examined had a complex abnormal karyotype with 
+a
+translocation involving chromosomes 3 and 14 that FISH has
+confirmed has resulted in rearrangement of the BCL6 gene, 6q-,
+trisomy 12, and other chromosome aberrations.
+- ___: BM biopsy c/w DLBCl involvement.
+- ___: MRI head demonstrated Homogeneous enhancement along the
+left dura with associated high FLAIR signal. No signal
+abnormalities are seen on the T1, T2, GRE or diffusion weighted
+sequences suspicious for CNS involvement of lymphoma.
+- ___: CSF demonstrated lymphoma with BCL-6 rearrangement and
+deletion. 
+- ___: Rcd R-CHOP with 50% reduction in dose of Doxorubicin due
+to elevated TB.
+- ___: Rcd 1 dose of IT MTX.
+- ___: Rcd 8gm/m2 MTX. Course c.b prolonged mucositis and
+febrile neutropenia and rash. Finally discharged on ___. 
+- ___: Seen in clinic again. Admittted for another cycle of HD
+MTX 8 gm/m2. Tolerated it well without any complications.
+- ___: Rcd cycle 2 of R-CHOP with Neulasta. Tolerated it well
+without any complications.
+- ___: Admitted for overnight observation with headache 
+and
+weakness. Ct head neg for bleeds. No e.o infection found.
+- ___: Admitted for cycle 3 of HD-MTX. Rcd it on ___.
+Tolerated well without complications.
+- ___: Rcd cycle 3 of R-CHOP with Neulasta. Tolerated it well
+without any complications
+- ___: Admitted with febrile neutropenia, mucositis, inability
+to swallow/eat and fatigue. Remained in the hospital on TPN for 
+2
+weeks and discharged on ___ after she rcd cycle 4 of chemo. Pt
+could not receive cycle 4 of HD-MTX on day 14 of cycle 3 of
+R-CHOP.
+- ___: MRI head showed decrease in dural thickening and
+enhancement since the MR of ___. Calvarial signal
+intensity unchanged concerning for persistent lymphoma. 
+- ___: PET demonstrated CR.
+- ___: Rcd R-mini-CHOP in house due to grade 4 
+mucositis/febrile
+neutropenia.
+- ___: Rcd Neulasta with Cipro. 
+- ___: Rcd modified dose of HD-MTX (5 gm/m2) due to grade 4
+mucositis in the last cycle. This was dose # 4. Course again
+complicated by mucositis which resolved with conservative 
+measures.
+- ___: Rcd R-mini-CHOP cycle 5 in the hospital just before
+discharge.
+- ___: Cycle 5 HD MTX given at 4gm/m2, dose reduced due to
+persistent mucositis.
+- ___: Rcd R-mini-CHOP cycle 6 with Neulasta support.
+- ___: Rcd cycle 6 of HD-MTX also at 4 gm/m2. Tolerated well
+without any complications.
+- ___: PET demonstrated no e.o systemic disease.
+- ___: MRI brain demonstrated interval mild improvement in
+leptomeningeal and osseous disease. No new abnormalities.
+
+PAST MEDICAL HISTORY:
+=====================
+- GERD
+- Palpitations
+
+ 
+Social History:
+___
+Family History:
+Patient is unaware of her family history or whether or not she 
+has a history of cancer in the family.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=========================
+VS: TC 98.9 137/79 109 18 98%RA
+WT: 116 LBS
+GEN: Pleasant woman, in no distress, lying in bed.
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: no respiratory distress, clear to auscultation
+bilaterally; no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender/non-distended, +bowel sounds.
+EXT: WWP, no lower extremity edema, erythema or tenderness. 
+NEURO: A&Ox3, good attention and linear thought, CN II-XII
+intact. Strength ___ on upper extremities and ___ on lower
+extremities. Sensation to light touch intact. 
+SKIN: No significant rashes or lesions.
+ACCESS: Right POC without erythema, tenderness or discharge.
+
+DISCHARGE PHYSICAL EXAM:
+VS: T 98.1 BP 146/67 HR 98 RR 18 SpO2 99 RA 
+GEN: Pleasant woman, in no distress, lying in bed.
+HEENT: Anicteric, PERLL, OP erythema mottling evolving.
+Ulceration on inside of Right upper check resolving. No sinus
+tenderness. 
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: no respiratory distress, clear to auscultation
+bilaterally; no crackles, wheezes, or rhonchi.
+ABD: Soft, non-tender/non-distended, +bowel sounds.
+EXT: WWP, no lower extremity edema, erythema or tenderness. 
+NEURO: A&Ox3, good attention and linear thought, grossly 
+nonfocal
+SKIN: No significant rashes or lesions.
+ACCESS: Right POC without erythema, tenderness or discharge.
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 01:20PM BLOOD WBC-2.4*# RBC-4.52 Hgb-13.5 Hct-40.8 
+MCV-90 MCH-29.9 MCHC-33.1 RDW-15.8* RDWSD-51.8* Plt ___
+___ 01:20PM BLOOD Neuts-73* Bands-0 ___ Monos-6 Eos-1 
+Baso-0 ___ Myelos-0 AbsNeut-1.75 AbsLymp-0.48* 
+AbsMono-0.14* AbsEos-0.02* AbsBaso-0.00*
+___ 01:20PM BLOOD UreaN-14 Creat-0.5 Na-141 K-3.6 Cl-98 
+HCO3-29 AnGap-14
+___ 01:20PM BLOOD ALT-23 AST-23 LD(LDH)-341* AlkPhos-80 
+TotBili-0.3
+___ 01:20PM BLOOD Calcium-9.1
+
+DISCHARGE LABS:
+
+___ 12:00AM BLOOD WBC-12.4*# RBC-3.61* Hgb-10.6* Hct-31.4* 
+MCV-87 MCH-29.4 MCHC-33.8 RDW-15.9* RDWSD-49.7* Plt ___
+___ 12:00AM BLOOD Neuts-61 Bands-2 Lymphs-10* Monos-26* 
+Eos-0 Baso-0 ___ Metas-1* Myelos-0 AbsNeut-7.81* 
+AbsLymp-1.24 AbsMono-3.22* AbsEos-0.00* AbsBaso-0.00*
+___ 12:00AM BLOOD Glucose-96 UreaN-17 Creat-0.5 Na-139 
+K-4.3 Cl-96 HCO3-27 AnGap-16
+___ 12:00AM BLOOD ALT-25 AST-22 LD(LDH)-576* AlkPhos-86 
+TotBili-0.2
+___ 12:00AM BLOOD Albumin-3.8 Calcium-9.0 Phos-4.2 Mg-2.0
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ 
+___ female with history of DLBCL with known CNS 
+involvement s/p 6 cycles R-mini-CHOP 8 cycles of HD-MTX and now
+C2 of Temodar.
+
+ACUTE ISSUES:
+#DLBCL with CNS Involvement: She completed 6 cycles R-mini-CHOP
+and 8 cycles of HD-MTX. She is in systemic remission, however,
+she still has evidence of disease in her brain and progression
+based on symptoms above and in most recent CSF. She was started
+on IV Dexamethasone 4mg BID on ___ for symptom control. Her
+dose was tapered down to 2mg daily outpatient and this was
+continued on admission. We attempted to wean steroids, but
+headache worsened, so now back on 2 mg daily of dex. Now
+s/p C2 Temodar.
+-Temozolamide 200mg IV daily (___), patient written 
+for
+prescription outpatient, however with evolving mucositis plan 
+for
+IV administration in-house. will look into suspension options 
+for
+future cycles to take at home as does not tolerate pills well 
+regardless of mucositis sx.
+-remain on 2mg dex daily
+-Restart PJP ppx for now (Bactrim)
+-neupogen began ___ for neutropenia (likely chemo related) off 
+as of ___ with count recovery
+-Follow up appointment to be arranged with Dr. ___, 
+___ or sooner if issues arise
+
+# Myalgias, concern for ILI: 
+- respiratory precautions
+- influenza negative
+- respiratory viral panel with insufficient sample, repeat PCR
+___ PND will f/u
+
+# dyspnea on exertion: states worsened over last few days,
+EKG/CXR WNL. ambulatory sat WNL. likely due to deconditioning
+although can not exclude PE in setting of oncologic risk and
+decrease motility
+-CTA to r/o PE--neg
+-monitor sx/sx
+-consider echo and/or stress testing outpatient for further w/u 
+if worsening sx Per daughter, her baseline dyspnea on exertion 
+has been the same to her
+
+#mucositis: stable. supportive care/pain
+meds prn. if unable to take pills will change to IV's as able.
+on IV temodar inhouse ___.
+
+#Dysphagia/Voice Hoarseness: Significantly improved since last
+discharge, now able to tolerate regular diet. Low threshold for
+ENT/SLP consultations if worsening sx.
+
+#Neurological Symptoms [Headache, Tinnitus > L, Blurred Vision]:
+Ongoing symptoms, have not worsened since discharge on ___,
+attributed to CNS involvement of her lymphoma. She received
+HD MTX followed by 5 days of Temozolomide as above. 
+
+CHRONIC/STABLE ISSUES:
+======================
+#Bilateral Hip/Leg pain: currently resolved. Started on ___
+She has had no recent trauma or injury that preceded the event.
+No exacerbating factors. Took Tylenol at home with good effect.
+Her gait is stable and she can weight bear. She has no fevers,
+back pain, numbness, tingling, new rashes or changes in bowel
+habits so less likely occult hip fracture/lumbar radiculopathy.
+Her steroid use increases the risk for osteonecrosis so will
+obtain a plain x-ray first for evaluation. X-ray showed minimal
+asymmetric right greater than left hip osteoarthritis. There was
+no evidence of fracture or dislocation 
+-Continue supportive pain management with Oxycodone/Tylenol PRN
+-If worsens, consider further imaging with MRI
+
+#GERD: Continue famotidine resumed omeprazole since MTX 
+clearance.
+
+#Constipation: Stooling daily, continue Colace and Senna PRN
+
+CORE MEASURES:
+==============
+ACCESS: POC
+DVT PPX: Lovenox 40mg daily, hold if platelets < 50K
+GI PPX: Famotidine BID
+BOWEL: Colace and Senna PRN
+PAIN: Oxycodone/Tylenol PRN
+CODE: Full Code (confirmed)
+COMMUNICATION: Patient
+EMERGENCY CONTACT HCP: ___ (daughter) ___
+DISPO: home with services
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Docusate Sodium 100 mg PO TID:PRN constipation 
+2. Senna 8.6 mg PO BID:PRN constipation 
+3. Acyclovir 400 mg PO Q12H 
+4. Artificial Tear Ointment 1 Appl BOTH EYES QHS 
+5. Artificial Tears Preserv. Free ___ DROP BOTH EYES Q4H:PRN dry 
+eye/irritation 
+6. Dexamethasone 2 mg PO DAILY 
+7. Famotidine 20 mg PO Q12H 
+8. Omeprazole 40 mg PO DAILY 
+9. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+10. FoLIC Acid 1 mg PO DAILY 
+11. Lidocaine Viscous 2% 15 mL PO TID:PRN mouth soreness 
+12. Maalox/Diphenhydramine/Lidocaine ___ mL PO QID:PRN mouth 
+soreness 
+13. OxyCODONE (Immediate Release) 2.5 mg PO Q6H:PRN Pain - 
+Moderate 
+14. Sodium Bicarbonate 1300 mg PO ASDIR 
+15. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Famotidine 20 mg PO Q12H  
+2.  famotidine 2.5 mL oral BID  
+3.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+4.  Acyclovir 400 mg PO TID  
+5.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+6.  Artificial Tear Ointment 1 Appl BOTH EYES QHS  
+7.  Artificial Tears Preserv. Free ___ DROP BOTH EYES Q4H:PRN 
+dry eye/irritation  
+8.  Dexamethasone 2 mg PO DAILY  
+9.  Docusate Sodium 100 mg PO TID:PRN constipation  
+10.  FoLIC Acid 1 mg PO DAILY  
+11.  Lidocaine Viscous 2% 15 mL PO TID:PRN mouth soreness  
+12.  Maalox/Diphenhydramine/Lidocaine ___ mL PO QID:PRN mouth 
+soreness  
+13.  Omeprazole 40 mg PO DAILY  
+14.  OxyCODONE (Immediate Release) 2.5 mg PO Q6H:PRN Pain - 
+Moderate  
+15.  Senna 8.6 mg PO BID:PRN constipation  
+16.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+lymphoma
+CNS lymphoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to receive HD Methotrexate and Temodar 
+chemotherapy. You tolerated this well and will be discharged 
+home.  You will follow up in the clinic as stated below. It was 
+a pleasure taking care of you.
+ 
+Followup Instructions:
+___

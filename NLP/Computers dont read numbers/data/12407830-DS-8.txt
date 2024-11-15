@@ -1,0 +1,239 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ F with know hx of cirrhosis, portal hypertension, esophgeal 
+varices w/ banding, T1DM, and HTN, who presents with sub-sternal 
+chest pain for a duration of approximately 30 minutes. The 
+patient describes being in the shower and having jaw pain. She 
+has had this in the past, and she knew that she was going to 
+have chest pain. A few minutes later she began to have chest 
+pain, sub-sternal, dull, moderate in intensity. It was not 
+associated with dyspnea, nausea or vomiting. She laid down for a 
+while and the pain susbsided, but was not completely resolved. 
+Then she went to her GI doctor's office and her blood pressure 
+was 193/76. She was given one SL NTG without complete resolution 
+of the pain. She was sent to the ED for further workup.
+.
+She denies recent fevers or chills, abdominal pain or 
+palpitations. She admits to getting this chest pain when walking 
+up stairs, but sometimes at rest. She also reports occasional 
+dyspnea on exertion.
+.
+In the ED her vitals signs were T 98.7  HR 74  BP 159/60  RR 20  
+O2sat 100/2L NC. She was given 325mg ASA and SL NTG x1 and was 
+pain-free on transport to the floor. EKG was NSR at a rate of 
+76, no ST elevation or ischemic changes, similar to previous 
+from ___.
+.
+On the floor she was feeling well with no chest pain. She 
+remains on supplemental O2 until she is ruled out for MI. She is 
+pain free and is hungry. An EKG was performed and was unchanged 
+from the ED.
+ 
+Past Medical History:
+cryptogenic liver cirrhosis
+portal hypertension
+esophageal varices 
+T1DM-poorly controlled
+S/p lense replacement 
+thrombocytopenia
+hemorrhoids
+HTN
+retinopathy
+hearing loss 
+ 
+Social History:
+___
+Family History:
+Daughter with ___, brother with throat cancer, sister with 
+lung cancer, mother with "abdominal" cancer  
+
+ 
+Physical Exam:
+VS: T 98.2  HR 74  BP 142/64  RR 18  O2sat ___ NC. 
+General: Awake, alert, NAD, pleasant, appropriate, cooperative, 
+does not speak ___, was able to communicate with daughter 
+___, EOMI, no scleral icterus, MMM, no lesions noted in 
+OP  
+Neck: supple, no significant JVD or carotid bruits appreciated  
+Pulmonary: Bibasilar fine inspiratory rales, adequate air 
+movement, upper airways clear
+Cardiac: RR, nl S1 S2, no murmurs, rubs or gallops appreciated
+Abdomen: soft, NT, protuberant, normoactive bowel sounds, no 
+masses or organomegaly noted, liver edge not palpated
+Extremities: 2+ edema to ___ up to knees, 2+ radial, DP pulses 
+b/l, compartments soft
+Skin: no rashes or lesions noted.  
+Neurologic: Alert, oriented x 3. Cranial nerves II-XII intact. 
+Normal bulk, strength and tone throughout. No abnormal movements 
+noted. No deficits to light touch throughout. No nystagmus, 
+dysarthria, intention or action tremor.
+ 
+Pertinent Results:
+___ 04:40PM   PLT COUNT-135*
+___ 04:40PM   NEUTS-63.7 ___ MONOS-5.0 EOS-3.2 
+BASOS-0.7
+___ 04:40PM   WBC-4.8 RBC-3.59* HGB-10.0* HCT-30.2* MCV-84 
+MCH-28.0 MCHC-33.2 RDW-14.3
+___ 04:40PM   ALBUMIN-3.8
+___ 04:40PM   CK-MB-NotDone
+___ 04:40PM   cTropnT-<0.01
+___ 04:40PM   LIPASE-28
+___ 04:40PM   ALT(SGPT)-33 AST(SGOT)-55* CK(CPK)-74 ALK 
+PHOS-119* TOT BILI-0.3
+___ 04:40PM   estGFR-Using this
+___ 04:40PM   GLUCOSE-236* UREA N-22* CREAT-0.9 SODIUM-133 
+POTASSIUM-5.4* CHLORIDE-103 TOTAL CO2-24 ANION GAP-11
+___ 05:58PM   POTASSIUM-5.3*
+___ 05:45AM BLOOD WBC-4.6 RBC-3.45* Hgb-9.4* Hct-29.4* 
+MCV-85 MCH-27.4 MCHC-32.1 RDW-14.6 Plt ___
+___ 05:45AM BLOOD Glucose-198* UreaN-20 Creat-0.9 Na-137 
+K-4.2 Cl-103 HCO3-25 AnGap-13
+___ 05:45AM BLOOD CK(CPK)-47
+___ 05:45AM BLOOD CK-MB-NotDone cTropnT-<0.01 proBNP-298
+.
+.
+Imaging: 
+___ CXR: Exam is limited due to patient body habitus and 
+poor inspiratory effort. Given these limitations, no definite 
+focal consolidation, pneumothorax, pneumonia, or effusion/edema. 
+Mild streaky atelectasis is noted within the retrocardiac 
+region. Right upper lobe and right hila granulomas is stable. 
+Atherosclerotic calcifications are noted within the aortic arch 
+and descending aorta. Included portion of the upper abdomen 
+appears unremarkable. 
+ 
+Brief Hospital Course:
+A/P: ___ F with know hx of cirrhosis, portal hypertension, 
+esophageal varices w/ banding, IDDM, and HTN, who presents with 
+chest pain for a duration of approximately 30 minutes, resolved 
+in the ED with NTG. R/o for AMI by EKG and 2 sets neg CE. 
+.
+#Chest pain, sub-sternal: These episodes have happened ___ 
+times, per family, sometimes at rest, sometimes with ambulation, 
+so there is a question that she might have worsening cardiac 
+disease. The patient was ruled out for MI by 2 sets of negative 
+cardiac enzymes, and the proBNP not elevated (298). There is 
+question of medication compliance as the patient's BP has been 
+elevated recently. It is recommended that the patient have an 
+outpatient stress test MIBI through her PCP.
+.
+#DM type 2 - insulin dependent: There is question of poor 
+compliance as evidenced by HgbA1c at >9.0, and the patient and 
+family describing altered dosing regimen depending on the 
+patient's status. She explains that there are times where she 
+thinks there is too much insulin, which makes her "feel bad". At 
+times she takes less than is prescribed.
+.
+#HTN: We continued her home dose of lisinopril.
+.
+#Cryptogenic liver disease: We continued her home dose of 
+propranalol. The patient's daughter states that the patient only 
+takes it BID, as opposed to TID.
+.
+The patient remained stable throughout her course. She was 
+discharged with strict instructions for follow-up and symptom 
+surveillance. Her son was spoken with at length and agrees with 
+plan. He will try to encourage adherence.
+
+ 
+Medications on Admission:
+lisinopril 5 mg once a day
+omeprazole 20 mg once a day
+propranolol 10 mg 3 times a day
+NPH insulin 40 units in the morning and 30 units in the evening.
+Lasix 40 qd - started ___
+NTG SL, prn chest pain - started ___
+ 
+Discharge Medications:
+1. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+2. Propranolol 10 mg Tablet Sig: One (1) Tablet PO TID (3 times 
+a day).  
+3. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+Tablet(s) 
+5. NitroQuick 0.3 mg Tablet, Sublingual Sig: One (1) tablet 
+Sublingual q 5 minutes as needed for chest pain: ___ take 3 over 
+15 minutes, and then call ___ if pain persists.
+Disp:*60 tablets* Refills:*3*
+6. Humulin N 100 unit/mL Suspension Sig: 42 units in AM and 
+___ units in ___ units Subcutaneous 42 units in the AM and 
+___ units in the ___.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Chest pain, NOS
+
+Secondary diagnoses:
+T2DM - insulin dependent
+HTN
+cirrhosis
+portal HTN
+esophageal varices
+
+ 
+Discharge Condition:
+Good, VSS, pain free, ambulating, voiding, tolerating diet
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for chest pain.  Two sets of 
+cardiac enzymes showed no sign you were having a heart attack 
+and your EKG was unchanged from before.  Your chest xray did not 
+show any sign of pneumonia or heart failure.  Your pain was most 
+likely related to acid reflux, but it could also be related to 
+heart disease.
+.
+Please follow up with your PCP within one week - earlier is 
+better. You will probably need to have a repeat stress test as 
+an outpatient to look at your heart function. It is extremely 
+important that you follow up with your PCP, as you could have a 
+life-threatening problem that needs treatment.
+.
+Your medications were not changed, but you need to take ALL of 
+them EXACTLY as prescribed. The medications do not work properly 
+or may be harmful to you if you do not use them as directed, 
+especially your blood pressure medications and insulin. Your 
+blood sugar in the hospital was high, and it is important that 
+you do not alter your dose at home because you do not have 
+adequate control over it at this time.
+.
+You should call your PCP urgently or return to the ED if you 
+experience worsening shortness of breath, chest pain, or any 
+other concerning symptoms. You were given a prescription for 
+nitroglycerine to put under your tongue when you have chest 
+pain. Please take this medication if you have more chest pain 
+and return to the Emergency Department right away if your pain 
+is not resolved with nitroglycerine, especially if it is before 
+you meet with your PCP.
+.
+All of these instructions were related to your son, ___. He 
+will help you follow up with the outpatient instructions.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,742 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+heparin / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chief Complaint: Respiratory failure, Pneumonia
+ 
+Major Surgical or Invasive Procedure:
+Intubated at OSH
+___ Bronchoscopy
+___ upper endoscopy
+___ Extubation
+CVVH
+transesophageal echocardiogram 
+
+ 
+History of Present Illness:
+___ yo woman with past medical history of COPD with continued 
+tobacco use and history of previous intubation on home steroids, 
+h/o Legionaires Disease, heart murmur, hypertension, 
+hypothyroidism, heparin-induced thrombocytopenia s/p right BKA 
+and left transmetatarsal amputation ___ ___ who presented to 
+___ BID on ___ with dysnpnea, cough, wheezing, and chest 
+pain. She had a recent admission on ___ with dysnpnea cough 
+and wheezing for COPD exaccerbation and laryngitis and recieved 
+IV steroids, albuterol, and levaquin. She was discharged on 5 
+day course of levofloxacin against medical advice and her 
+influenze and blood cx was negative, sputum not sent. She 
+starting feeling much worse and came back to ___ on ___. 
+She was initially started on prednisone given concern for COPD 
+exaccerbation. Her CXR showed a RUL infiltrate and at that time 
+started on levofloxacin. On ___ gentamcicin and clindamycin were 
+added. Her white cell count continued to climb to a peak of 19.2 
+on ___. Vancomcyin was started on ___ due to lack of clinical 
+improvement. ___ the morning of ___ she had an episode vomiting 
+associated with worsening respiratory distress, satting 89-92% 
+on 100% nonrebreather with labored breathing. Patient began to 
+tire from breathing and she was intubated.  She had a fiberoptic 
+bronchoscopy due to hemoptysis which showed right lung edema and 
+thin secretions without frank blood or evidence of hemorrhage. 
+Aztreonam and flagyl on ___ prior to transfer to ___. Pt was 
+eventually found here to have MRSA pneumonia with cavitary 
+lesions and likely aspiration ___ the setting of witnessed 
+vomiting at OSH. Patient was initially covered broadly with 
+vanc, aztreonam (given pcn allergy), flagyl, and azithromycin. 
+When sputum cx indicated MRSA, antibiotics were narrowed to 
+vancomycin. Blood cultures from ___ also indicated MRSA 
+bacteremia. Pt had a TTE that was suboptimal, and will need TEE 
+to rule out endocarditis. Patient was successfully extubated on 
+___ and O2 sat has been 93-96% on RA. During her ICU course, 
+she also had acute renal failure and was on CVVH for management 
+of her volume status. Her renal function improved and CVVH was 
+stopped ___. Pt is transferred to the floor for further 
+treatment and arrangement of TEE.
+
+Upon arrival to the floor, Pt's vitals: 
+98.6F, 118/67, 90, 18, 95% 3L.
+
+Pt reports that she is feeling much better but continues to have 
+a significant cough productive of thick dark yellow secretions. 
+Also reports generalized weakness and diffuse edema. Reports 
+constipation.
+ 
+Past Medical History:
+COPD with history of intubation and continued tobacco use
+Legionnaires disease
+Heart murmur of unclear etiology known to Pt since ___
+Hypertension
+Hypothyroidism
+h/o Heparin induced thrombocytopenia c/b leg ischemia and 
+amputations
+
+Surgical History:
+Right below-the-knee amputation (___) with phantom pain
+Left transmetatarsal amputation (___) with phantom pain
+Left Achilles tendon repair (___)
+Hernia repair (___)
+C-section x4
+ 
+Social History:
+___
+Family History:
+Father - pulmonary fibrosis
+Mother - hypertension
+ 
+
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM
+General- Intubated and sedated. 
+HEENT- PERRLA, sclera anicteric, MMM, yellowish discharge from 
+eyes  
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Decrased breath sounds right side ___ way from base and 
+at left base
+CV- Irregularly irregular, tachycardic, normal S1 + S2, II/VI 
+systolic murmur.  
+Abdomen- Distended, soft, non-tender, hypoactive bowel sounds 
+present
+GU- foley ___ place
+Ext- R BKA and L transmetatarsal amputation with cool 
+extremities, no clubbing, cyanosis or edema. Left subclavian and 
+left arterial line.  
+Neuro- Not repsonive to pain or voice commands. 
+
+Discharge exam:
+Vitals- Tm 99.7F, Tc 99.2F, 102-124/61-69, 96-101, ___, 96% 
+4L.
+I/1.5L, O/4.3L, net neg 2.8L
+General- elderly appearing woman ___ no acute distress ___ bed
+HEENT- Sclera anicteric, MMM, oropharynx clear
+Lungs- CTAB with no wheezes, rales, rhonchi
+CV- RRR, Nl S1, S2, ___ systolic murmur
+Abdomen- soft, NT/ND bowel sounds present, no rebound tenderness 
+or guarding, no organomegaly  
+GU- foley ___ place
+Ext- no edema ___ bilateral upper arms, no edema ___ hands or 
+bilateral lower extremities. L metatarsal amputation, R BKA.
+Neuro- A&O x name, ___, date. CNs2-12 intact, ___ strength ___ 
+bilateral upper extremities, sensation normal.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 09:36PM BLOOD WBC-16.9* RBC-3.82* Hgb-11.6* Hct-38.4 
+MCV-101* MCH-30.4 MCHC-30.3* RDW-14.9 Plt ___
+___ 09:36PM BLOOD Neuts-73* Bands-12* Lymphs-5* Monos-3 
+Eos-0 Baso-0 Atyps-2* Metas-3* Myelos-2*
+___ 09:36PM BLOOD ___ PTT-32.1 ___
+___ 12:39PM BLOOD ___
+___ 07:20PM BLOOD Ret Aut-1.1*
+___ 12:40PM BLOOD FDP-80-160*
+___ 09:36PM BLOOD Glucose-139* UreaN-28* Creat-2.0* Na-128* 
+K-6.5* Cl-98 HCO3-23 AnGap-14
+___ 09:36PM BLOOD ALT-25 AST-46* CK(CPK)-152 AlkPhos-78 
+TotBili-0.7
+___ 03:03AM BLOOD ALT-43* AST-156* LD(LDH)-949* AlkPhos-75 
+TotBili-1.0
+___ 02:02PM BLOOD Lipase-5
+___ 09:36PM BLOOD CK-MB-2 cTropnT-0.01
+___ 03:03AM BLOOD CK-MB-2 cTropnT-0.01
+___ 09:36PM BLOOD Calcium-5.8* Phos-8.2* Mg-1.7
+___ 01:52AM BLOOD Hapto-328*
+___ 03:08PM BLOOD Osmolal-267*
+___ 09:36PM BLOOD Cortsol-108.6*
+___ 01:20AM BLOOD Cortsol-89.0*
+___ 03:45PM BLOOD 25VitD-12*
+___ 11:56AM BLOOD HIV Ab-NEGATIVE
+___ 09:43PM BLOOD Type-ART pO2-59* pCO2-94* pH-6.97* 
+calTCO2-23 Base XS--13
+___ 09:43PM BLOOD Lactate-2.3* K-6.2*
+___ 09:43PM BLOOD freeCa-0.91*\
+
+PERTINENT MICROBIOLOGY
+___ Blood cx negative
+___ SPUTUM
+   GRAM STAIN (Final ___: 
+      ___ PMNs and <10 epithelial cells/100X field. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ CLUSTERS. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+   RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                    
+_______________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+___ Blood cx
+   Blood Culture, Routine (Final ___: 
+      STAPH AUREUS COAG +. 
+         Consultations with ID are recommended for all blood 
+cultures
+         positive for Staphylococcus aureus, yeast or other 
+fungi. 
+         FINAL SENSITIVITIES. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+   Anaerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___. ___ @ ___, 
+___. 
+      GRAM POSITIVE COCCI ___ CLUSTERS. 
+___ Sputum AFB X 3 negative
+___ Blood cx negative
+___ Blood cx negative
+___ Blood cx negative
+___ Blood cx negative
+___ C diff negative
+___ BAL
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+   RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      STAPH AUREUS COAG +.    10,000-100,000 ORGANISMS/ML.. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ (___). 
+
+___ Cryptococcal antigen negative
+___ Sputum cx
+___ 12:00 pm SPUTUM      Source: Endotracheal. 
+   GRAM STAIN (Final ___: 
+      ___ PMNs and <10 epithelial cells/100X field. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+   RESPIRATORY CULTURE (Preliminary): 
+      Commensal Respiratory Flora Absent. 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+      STAPH AUREUS COAG +.    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+___ Sputum Cx
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      2+   ___ per 1000X FIELD):   MULTIPLE ORGANISMS 
+CONSISTENT WITH     
+                                    OROPHARYNGEAL FLORA. 
+   RESPIRATORY CULTURE (Final ___: 
+      RARE GROWTH Commensal Respiratory Flora. 
+      STAPH AUREUS COAG +.    SPARSE GROWTH.  OF TWO COLONIAL 
+MORPHOLOGIES. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___-___ ___. 
+
+
+___ Blood cx X 2 no growth final
+
+IMAGING
+OSH CT Chest w/ Contrast ___
+Findings: Comparison with ___ chest radiograph. Respiratory
+motion limits fine lung detail. Dense lateral right upper lobe 
+and
+extensive right lower lobe pulmonary consolidations noted. 
+Associated
+right parapneumonic effusion, superimposed on underlying COPD. 
+No
+dominant mass or pulmonary nodules demonstrated; the 
+consolidations
+could easily obscure an underlying malignancy. The 
+tracheobronchial
+tree is grossly normal given limitations of this exam. No 
+obvious
+axillary, mediastinal or hilar mass or adenopathy is seen.
+Atherosclerotic disease of the thoracic aorta.
+Visualized upper abdomen significant only for the presence of 
+layering
+gallstones.
+Conclusion: Extensive dense right upper and lower lobe 
+pneumonia.
+
+RUQ Ultrasound ___
+Gallbladder is identified. Within the fundus there our 
+gallstones.
+Largest one measures 2.5 cm. Gallbladder wall is not thickened. 
+No
+pericholecystic fluid. Common duct 4 mm. No dilated intrahepatic
+ducts. Sagittal dimension right lobe of the liver approximately 
+17 cm.
+No focal lesions seen within it. Spleen measures 8.5 cm 
+sagittally. No
+ascites. Right kidney measures 10.9 x 4.5 x 5 cm. No stones or 
+obstruction. Left kidney measures 9.9 x 5.2 x 5.4 cm. No stones 
+obstruction. There is a 2 cm midpole cyst. Intrahepatic IVC 
+unremarkable. Proximal aorta visualized unremarkable. Mid and 
+distal ureter obscured due to gas. Pancreas not seen secondary 
+to gas. However, the patient did have a CT scan of the chest and 
+included by the upper abdomen on ___ ___ the pancreas is 
+unremarkable.
+Impression:
+1. Cholelithiasis. No evidence of ductal obstruction
+
+CXR ___
+Interval worsening of right lung pneumonitis now with 
+near-complete
+opacification of the right mid and lower lung zone. Perihilar 
+left
+lower lobe infiltrate now more apparent. ETT ___ place; distal 
+end of
+the tube lies 4 cm above the carina ___ satisfactory position. No
+evidence of CHF.
+Impression: Worsening bilateral pneumonitis, right > left. 
+Aspect
+replacement of ETT.
+
+___ TTE
+Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. Due to suboptimal technical 
+quality, a focal wall motion abnormality cannot be fully 
+excluded. Overall left ventricular systolic function is normal 
+(LVEF = 70%). Right ventricular chamber size and free wall 
+motion are normal. The aortic valve is not well seen. There is 
+mild aortic valve stenosis. The mitral valve leaflets are mildly 
+thickened. There is moderate thickening of the mitral valve 
+chordae. Mild (1+) mitral regurgitation is seen. There is 
+moderate pulmonary artery systolic hypertension. There is no 
+pericardial effusion. 
+IMPRESSION: Suboptimal image quality. No definite vegetations 
+seen
+
+___ Bronchoscopy
+Copious, thick, purulent secretions from the RUL, RML and RLL 
+which were suctioned. There were minimal, scattered secretions 
+___ the left lung. There was no evidence of endobronchial 
+lesions. 
+
+___ RUQ u/s
+1.  Dilated gallbladder containing echogenic stones and sludge.  
+There is no gallbladder wall edema but pericholecystic fluid is 
+present.  ___ the right clinical setting the findings are 
+concerning for acute cholecystitis. 
+2.  There is mild central intrahepatic biliary duct dilation, 
+dilation of the common bile duct to 0.8 cm, and dilation of the 
+pancreatic duct to 4 mm, concerning for possible obstruction of 
+the distal common bile duct. No 
+choledocholithiasis ___ the visualized CBD.  If necessary, 
+further evaluation can be performed with MRCP. 
+
+___ EGD
+Abnormal mucosa ___ the esophagus
+Ulcers ___ the stomach body
+Food ___ the stomach
+Normal mucosa ___ the whole duodenum
+Foreign body ___ the esophagus
+Otherwise normal EGD to third part of the duodenum
+
+___ Chest CT w/o contrast
+1.  Small cavitary pulmonary lesions interspersed with larger 
+areas of 
+consolidation and ___ opacities, a pattern of infection 
+typically seen with Klebsiella. 
+2.  Endotracheal tube terminates 1.4 cm above the carina. 
+3.  Small bilateral pleural effusions. 
+4.  Enlarged mediastinal lymph nodes are likely reactive.   
+5.  Moderately severe centrilobular emphysema. 
+
+___ Imaging CHEST PORT. LINE PLACEM 
+FINDINGS:  ___ comparison with study of ___, there has been 
+placement of a left subclavian PICC line that extends into the 
+mid portion of the SVC. Bilateral pulmonary opacifications 
+persist.  The endotracheal and nasogastric tubes have been 
+removed.
+
+IMAGING: 
+Echo ___
+No spontaneous echo contrast or thrombus is seen ___ the body of 
+the left atrium or left atrial appendage. Overall left 
+ventricular systolic function is normal (LVEF>55%). Right 
+ventricular chamber size and free wall motion are normal. There 
+are complex (up to 7 mm) atheroma ___ the descending thoracic 
+aorta. There are three aortic valve leaflets that are moderately 
+thickened. There are filamentous strands (0.3 cm) on the aortic 
+side of the aortic leaflets consistent with Lambl's excresences 
+(normal variant). ___ addition, a very small (0.2 cm) mobile 
+echodensity is seen attached to the ventricular side of the 
+aortic valve (non-coronary cusp, best seen ___ clip 24) 
+suggestive of a vegetation. No aortic valve abscess is seen. 
+Aortic stenosis is present (not quantified). No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. No mass or vegetation is seen on the mitral valve. 
+Mild (1+) mitral regurgitation is seen. The tricuspid valve 
+leaflets are mildly thickened. No masses or vegetations are seen 
+on the pulmonic valve, but cannot be fully excluded due to 
+suboptimal image quality. There is no pericardial effusion. 
+IMPRESSION: Very small aortic valve vegetation without aortic 
+regurgitation. Normal biventricular global systolic function. 
+Aortic stenosis present. Mild mitral regurgitation.
+
+Discharge labs:
+
+___ 07:05AM BLOOD WBC-10.4 RBC-2.69* Hgb-7.8* Hct-24.8* 
+MCV-92 MCH-29.0 MCHC-31.4 RDW-14.6 Plt ___
+___ 07:05AM BLOOD Glucose-75 UreaN-11 Creat-0.8 Na-136 
+K-4.2 Cl-98 HCO3-29 AnGap-13
+___ 07:05AM BLOOD Calcium-7.7* Phos-4.4 Mg-1.7
+___ 07:04AM BLOOD Vanco-7.0*
+___ 10:00AM URINE Color-Yellow Appear-Hazy Sp ___
+___ 10:00AM URINE Blood-TR Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-MOD
+___ 10:00AM URINE RBC-14* WBC-73* Bacteri-FEW Yeast-FEW 
+Epi-<1 TransE-___ yo woman with past medical history of COPD with continued 
+tobacco use and history of previous intubation, h/o Legionaires 
+Disease, and heparin-induced thrombocytopenia presents from OSH 
+with hypoxemic respiratory failure secondary to aspiration found 
+to have severe R-sided MRSA pneumonia, bacteremia, and 
+endocarditis.
+
+# MRSA pneumonia: likely aspiration ___ the setting of witnessed 
+vomiting at OSH. Patient was intubated at OSH on ___ and 
+successfully extubated at ___ on ___. Patient was initially 
+covered broadly with vanc, aztreonam (given pcn allergy), 
+flagyl, and azithromycin. When sputum cx indicated MRSA, 
+antibiotics were narrowed to vancomycin. Blood cultures from ___ 
+also indicated MRSA bacteremia. Patient is to be continued on 
+vancomycin for a 4 week course from first negative blood 
+cultures (day 1: ___. TTE with suboptimal imaging and no 
+evidence of definitive vegetations. Pt has severe R > L MRSA 
+pneumonia w/ small cavitary lesions on lungs. Pt was 
+successfully extubated ___ and reportedly had O2 sat 93-96% 
+on 3L. Pt was previously on vancomycin and clindamycin, but 
+clindamycin was discontinued on ___. Pt continues to have 
+MRSA ___ sputum cultures as recently as ___. Vancomycin 
+trough elevated at 33 at dosage of 1g iv q12h. Dosage was 
+adjusted to vancomycin 1g iv q24, which was low and vancomycin 
+increased to 1g iv q12h on day of discharge. Pt will need 6 week 
+course from first negative blood culture (___), ending ___ 
+given endocarditis (see below). Pt will need a repeat vancomycin 
+level on ___ drawn at 7AM (30 minutes prior to AM 
+dose). Pt's goal vancomycin trough is ___. Her vancomycin 
+dosing may need to be adjusted to maintain this level. Please 
+draw CBC with differential, BUN, Cr, AST, ALT, and vancomycin 
+trough on ___ and then every week on ___ and fax results 
+to ___ ___ ID nurses). ICD9 424.90 Endocarditis, 
+___ MRSA pneumonia. Her oxygen should be weaned as tolerated 
+(baseline O2 sat likely 92% due to COPD).
+
+# MRSA bacteremia, endocarditis: Pt had one blood culture 
+positive for MRSA on ___. Multiple blood cultures since then 
+have been negative. Pt does have murmur on exam, which she 
+reports has been known since ___ but not investigated. Given 
+MRSA bacteremia, concern for possible endocarditis. TTE showed 
+no evidence of definitive vegetations, but with suboptimal 
+windows. TEE on ___ showed a "very small" aortic valve 
+vegetation. Pt's treatment course therefore extended to 6 weeks 
+after last negative blood culture (___).
+
+# electrolyte abnormalities: Pt had derangements ___ her 
+electrolytes with hypokalemia, hypocalcemia, hypomagnesemia. 
+Most likely due to massive diuresis. PTH normal. Vitamin D level 
+low at 16. Pt was given vitamin D 50,000 units x 2 during this 
+admission and started on 1000 units daily. Pt also required 
+large amounts of repletion of potassium (oral), calcium (IV), 
+and magnesium (IV). Her urine output has stabilized, so she is 
+less likely to have electrolyte derangements, but would 
+recommend checking potassium, calcium, and magnesium on ___ and 
+repleting as necessary. Pt is currently on standing calcium 
+1000mg po TID, which may be tapered if she no longer requires 
+calcium repletion.
+
+# Septic Shock: resolved. Secondary to MRSA pneumonia and high 
+grade bacteremia. Patient required 2 pressors on admit (neo and 
+levo) and was also placed on sodium carbonate drip given severe 
+acidosis with pH 6.97. She had been started on stress dose 
+steroids at OSH which was continued but tapered over her 
+hospital course.
+
+# Anemia: Normocytic. Pt had anemia throughout hospital stay. 
+DIC labs were negative. Likely secondary to anemia of chronic 
+disease and iatrogenic secondary to numerous blood draws. 
+Patient initially had coffee ground NGT output on admit. EGD on 
+___ had no evidence of clean based ulcers thought to secondary 
+to NGT with no evidence of active bleeding. Pt was given 2 x 
+pRBC transfusion on ___. 24 hour NGT holiday initiated. No 
+further coffee ground NGT output. Patient was transitioned from 
+IV protonix to po pantoprazole 40mg po BID, which she should 
+continue for at least 2 months, then taper to 40mg po daily for 
+___ months. Retic count is high, iron is low, ferritin is high, 
+transferrin low so suggestive of combination of iron deficiency 
+and anemia of chronic disease. Haptoglobin is high, so no 
+evidence of hemolysis. Stool guaiac negative on ___. She was 
+given 1 x pRBC on ___. Pt also received ferric gluconate 
+125mg iv x 1 on ___. Discharge Hct 24.8, which is 
+up-trending. She was started on oral iron supplementation along 
+with increased bowel regimen given her prior history of 
+constipation.
+
+# massive edema, fluid overload: resolved. Pt was reportedly 
+transferred to ___ after having received 8L fluids, and while 
+___ ___ MICU over 12 days, Pt's net fluid balance was positive 
+5.7L, for a total of 13.7L over 14 days. Pt had diuresis over 
+several days with massive output of ___ with furosemide 20mg iv 
+___ daily. Her edema has completely resolved and is felt to be 
+euvolemic. proBNP initially 5345, now proBNP 1428. Pt was not 
+discharged with any diuretics.
+
+# Biliary obstruction/gallstones: resolved. Initially felt to be 
+cholestasis of sepsis, with RUQ showing gallbladder with sludge 
+and stones, no wall thickening but there is surrounding fluid, 
+gallbladder enlarged (5cm)compared to CT on ___, CBD dilated 
+8mm, pancreatic duct dilated 4mm. Per ERCP, likely 
+choledocholithiasis w/o cholangitis or pancreatitis with known 
+gallstones. Pt's LFTs have normalized.
+
+# weakness: Pt had marked weakness ___ her extremities. Most 
+likely due to combination of deconditioning from her long 
+hospitalization and possibly ICU myopathy. Also compounded by 
+severe fluid overload and edema. Weakness has improved markedly 
+with diuresis, which is complete, and physical and occupational 
+therapy, which she will need to continue at ___.
+
+# h/o HIT, DVT prophylaxis: Heparin contraindicated for DVT 
+prophylaxis. Further anticoagulation was held ___ the setting of 
+sepsis and severe illness. As patient began to clinically 
+improve and CVVHD was discontinued, patient was to be started on 
+half dose fondaparinux per hematology recommendations but 
+patient refused. She was advised of the risks of not receiving 
+anticoagulation especially with her prolonged immobilization. 
+Pneumoboot remained on left leg throughout hospital stay. 
+Patient requested that outpatient hematologist be contacted 
+prior to beginning fondaparinux. She was reassured the 
+outpatient hematologist agreed with administration of 
+fondaparinux. Her current dose of fondaparinux is 2.5 mg SC 
+DAILY, which she should continue as long as her mobility remains 
+below her baseline.
+
+# Metabolic disturbances, hyperkalemia and acidosis: resolved. 
+Potassium peaked to 6.8 at OSH with EKG changes of peaked T 
+waves. Likely secondary to extracellular shift of potassium 
+secondary to her metabolic and respiratory acidosis. Could also 
+be due to her acute renal failure as well as malignant 
+hyperthermia. Adrenal insufficiency was less likely given less 
+than 3 week course of steroids. Patient was initially placed on 
+sodium bicarbonate drip and administered calcium gluconate, D50, 
+insulin but eventually required CVVHD resulting ___ resolution of 
+hyperkalemia and acidosis. 
+
+# Renal Failure: resolved. Likely ___ the setting of ATN 
+secondary to septic shock. Patient underwent CVVHD ___ for 
+a total of 5 days. As renal function improved, dialysis was 
+discontinued. Patient subsequently had good UOP, likely 
+secondary to post ATN diuresis. Her creatinine remained normal 
+at 0.7-0.8 throughout the rest of her admission.
+
+# Phantom limb pain: After extubation, fentanyl drip was 
+discontinued and patient was restarted on home dose tramadol 
+with the addition of oxycodone 5mg po q6hrs with lidocaine patch 
+PRN for breakthrough pain with good pain control.
+
+# nutritional supplementation: ___ gm sodium /Heart healthy diet 
+with Ensure Plus and 1 pck beneprotein TID per nutrition 
+consult.
+
+# Conjunctivitis: Concern for bacterial conjunctivitis given 
+purulent yellowish discharge from eyes. Patient completed 7 day 
+course of erythromycin ointment.
+ 
+# Hypothyroidism: Patient was taking levothyroxine 88mcg PO 
+daily at home. She was administered half dose IV levothyroxine 
+during hospital course and then transitioned to po after NGT 
+replaced.  
+
+# Hypertension: her home amlodipine and hctz were held initially 
+due to sepsis but not restarted due to normotension off these 
+medications with BP 100s-110s/60s-70s. These may be started as 
+an outpatient if she becomes hypertensive.
+
+# COPD: Although difficult to assess given likely pneumonia, 
+patient did notappear to to have a COPD exaccerbation. Patient 
+completed a steroid taper (steroids were initially started at 
+OSH). She was also maintained on albuterol PRN. Patient was 
+restarted on tiotropium and advair and transitioned to home 
+medications (see attached).
+
+# anxiety: Pt reports taking lorazepam 1mg po tid. Have 
+decreased to lorazepam 0.5mg po tid prn here with no complaints. 
+Pt uses ___ daily.
+
+TRANSITIONAL ISSUES
+-Pt's vancomycin level was low at dosage of 1g iv q24h and was 
+increased to 1g iv 12hrs on ___. She will need a repeat 
+trough on ___ to ensure her vancomycin is at therapeutic with 
+goal ___.
+-Pt will need CBC with differential, BUN, Cr, AST, ALT, and 
+vancomycin trough on ___ and then every week on ___ and 
+fax results to ___ ___ ID nurses). ICD9 424.90 
+Endocarditis, ___ MRSA pneumonia.
+-She will have follow-up ___ infectious disease clinic
+-Repeat potassium, calcium, and magnesium levels suggested for 
+___ with repletion as needed
+-Hypertension medications were stopped and may be restarted as 
+needed
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Levothyroxine Sodium 88 mcg PO DAILY 
+2. Amlodipine 5 mg PO BID 
+3. TraMADOL (Ultram) 50 mg PO BID 
+4. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing 
+5. budesonide-formoterol 160-4.5 mcg/actuation inhalation Daily 
+6. Tiotropium Bromide 1 CAP IH DAILY 
+7. Lorazepam 1 mg PO TID 
+8. QUEtiapine Fumarate 25 mg PO QHS:PRN insomnia 
+9. Dulera (mometasone-formoterol) 100-5 mcg/actuation inhalation 
+Daily 
+10. Daliresp (roflumilast) 500 mcg oral Daily 
+11. PredniSONE 30 mg PO DAILY 
+12. Gabapentin 600 mg PO TID 
+13. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing 
+
+ 
+Discharge Medications:
+1. Gaviscon (Al hyd-Mg tr-alg ac-sod bicarb;<br>aluminum 
+hydrox-magnesium carb) 80-14.2 mg oral 2 tabs QID 
+2. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+3. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 2 
+puffs bid 
+4. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation 2 puffs bid 
+5. Albuterol Inhaler 2 PUFF IH Q6H 
+6. Tiotropium Bromide 1 CAP IH DAILY 
+7. TraMADOL (Ultram) 50 mg PO BID 
+8. Gabapentin 600 mg PO TID 
+9. Levothyroxine Sodium 88 mcg PO DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+11. DuoNeb (ipratropium-albuterol) 0.5 mg-3 mg(2.5 mg base)/3 mL 
+inhalation q4 hrs PRN wheezing, dyspnea 
+12. Docusate Sodium 200 mg PO BID 
+13. Lorazepam 0.5 mg PO Q8H:PRN anxiety 
+14. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+15. Calcium Carbonate 1000 mg PO TID 
+16. Lidocaine 5% Patch 1 PTCH TD QAM 
+17. Pantoprazole 40 mg PO Q12H 
+18. Polyethylene Glycol 17 g PO DAILY constipation 
+hold for diarrhea 
+19. Senna 8.6 mg PO BID constipation 
+hold for diarrhea 
+20. Vancomycin 1000 mg IV Q 12H 
+last day ___. Fondaparinux 2.5 mg SC DAILY 
+22. OxycoDONE (Immediate Release)  5 mg PO Q8H:PRN breakthrough 
+pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*90 Tablet Refills:*0
+23. Aspirin EC 81 mg PO DAILY 
+24. Outpatient Lab Work
+Please draw CBC with differential, BUN, Cr, AST, ALT, and 
+vancomycin trough on ___ and then every week on ___ and 
+fax results to ___ ___ ID nurses). ICD9 424.90 
+Endocarditis, ___ MRSA pneumonia
+25. Vitamin D 1000 UNIT PO DAILY 
+26. Ferrous GLUCONATE 324 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+MRSA pnemonia
+MRSA bacteremia
+MRSA endocarditis (small aortic valve vegetation)
+Acute kidney injury (resolved)
+fluid overload (resolved)
+
+Secondary:
+Chronic Obstructive Pulmonary Disease
+Hypertension
+Hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because you had severe sepsis. 
+You were treating ___ the intensive care unit, and you were found 
+to have a severe pneumonia (MRSA). You also had an infection of 
+your blood stream and your heart valve, and you will need to 
+continue antibiotics for 4 more weeks. You will also need 
+physical and occupational therapy to regain your strength. You 
+will have several labs checked at the skilled nursing facility, 
+which will be followed by our infectious disease physicians.
+ 
+Followup Instructions:
+___

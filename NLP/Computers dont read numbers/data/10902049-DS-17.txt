@@ -1,0 +1,251 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Remicade / Prednisone / Vancomycin / Cipro Cystitis / Flagyl / 
+Ferric Gluconate / Dilaudid / 6mercaptopurine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+labial swelling/pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with the past medical history 
+Crohn's disease status post multiple surgeries rectovaginal 
+fistula, osteoporosis, discectomy and anemia with iron infusions 
+who presents to ___ in ___ for fever and chills. 
+Patient was transferred to ___ for surgical evaluation for 
+labial collection. Patient reports that she was in her usual 
+state of health until ___ when she developed fevers of 
+103 and chills. She presented to ___ in ___ 
+there she was found to have an elevated CRP and reported new 
+labial lesion that she thought was secondary to shaving. Patient 
+reported that labial lesion increased in size, lactate of 3.2, 
+CRP on admission was 32.3 that increased to 78.7 on discharge. 
+There she was given Cipro, Flagyl, Bactrim. Patient was seen by 
+general surgery and colorectal surgery. She underwent a CT scan 
+that demonstrated transverse staying sigmoid, rectal segment 
+with circumferential wall thickening and diffuse thickening of 
+the vulva. At the level of the rectum there is enhancing mucosa 
+with questionable curvilinear enhancing mucosa extending 
+ventrally to the adjacent ventral vulva there is a focal 
+collection at the right inferior labia of gas with surrounding 
+high attenuation. These findings were concerning for a 
+rectovaginal fistula, which is known and chronic for the past ___ 
+years per the patient, and extensive inflammatory changes with 
+an the vulva with a question of stool versus abscess in the 
+right labia.
+
+On my evaluation tonight, patient denies significant pain 
+swelling or warmth in the labial area. She reports having 
+numerous episodes of diarrhea with the last being at 330. She 
+states that it was tested for C. difficile and was negative. She 
+also reports one episode of rectal bleeding yesterday that she 
+attributes to anal hemorrhoids. ROS: Pertinent positives and 
+negatives as noted in the HPI. All other systems were reviewed 
+and are negative. 
+ 
+Past Medical History:
+Iron deficiency anemia with infusions monthly
+Osteoporosis
+Rectovaginal fistula
+Hernia
+Crohn's
+Discectomy
+Component separation surgery
+Hernia resection
+ 
+Social History:
+___
+Family History:
+Father has had an MI, mother breast cancer. No IBD in the 
+family.  
+
+ 
+Physical Exam:
+ADMISSION:
+=========
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation, stage IV
+hemorrhoid, L labial with area of induration and nodule 2 cm. No
+erythema or warmth. 
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+The patient was examined on the day of discharge. 
+ 
+Pertinent Results:
+ADMISSION/SIGNIFICANT LABS: 
+========================
+___ 06:45AM BLOOD WBC-2.2* RBC-3.60* Hgb-10.9* Hct-33.3* 
+MCV-93 MCH-30.3 MCHC-32.7 RDW-14.2 RDWSD-48.3* Plt ___
+___ 06:45AM BLOOD Glucose-97 UreaN-7 Creat-0.8 Na-146 K-3.6 
+Cl-110* HCO3-25 AnGap-11
+___ 06:45AM BLOOD CRP-60.5*
+___ 06:50AM BLOOD CRP-46.1*
+
+MICRO:
+======
+None
+
+IMAGING/OTHER STUDIES: 
+====================
+MRI Pelvis ___
+ FINDINGS: The rectum shows persistent wall thickening and is 
+relatively hyperintense on T2 weighted images with prominent 
+mucosal as well as serosal enhancement including adjacent 
+inflammatory changes, altogether suggesting active proctitis. 
+The T2 weighted and contrast enhanced images suggest the 
+likelihood of a patent tract which extends from the 12:00 
+position of the upper third anus to the perineal body very 
+slightly to the left of midline anterior to the anus (05:26 
+through 28). Exact exit point is uncertain, assuming a patent 
+fistula is present, but this seems to terminate most likely 
+slightly posterior to the introitus or at its margin. This is 
+perhaps better delineated than on the remote prior pelvic MR but 
+seems to represent the same finding. Labia majora show 
+peripheral edema, left greater than right (04:18), but no 
+abscess is found or other solid or cystic discrete lesion. Large 
+external hemorrhoids noted about the anal verge. The uterus and 
+adnexae are unremarkable. Bladder appears normal. No 
+lymphadenopathy. Trace ascites is within physiological range. 
+Major vascular structures appear widely patent. There are no 
+marrow signal intensities appear normal. IMPRESSION: Finding 
+suggesting a fistula between the anus and perineum. Active 
+proctitis. No fluid collection.
+
+LABS ON DISCHARGE: 
+================
+___ 06:50AM BLOOD WBC-2.9* RBC-4.25 Hgb-12.9 Hct-39.9 
+MCV-94 MCH-30.4 MCHC-32.3 RDW-14.2 RDWSD-47.9* Plt ___
+___ 06:50AM BLOOD Glucose-81 UreaN-8 Creat-0.8 Na-142 K-4.1 
+Cl-105 HCO___ AnGap-___ with history of fistulizing Crohn's disease presents for 
+further evaluation of left labial swelling in the setting of 
+fevers and elevated CRP, with concern for possible rectovaginal 
+fistula. 
+
+# Labia swelling: 
+No concern for abscess or superinfected cyst on exam. Evaluated 
+by Gynecology who agree and do not feel surgical intervention is 
+indicated at this time, but rather follow up with her outpatient 
+gynecologist in ___ weeks. MRI Pelvis obtained and notable for 
+fistula between anus and perineum without drainable fluid 
+collection as well as evidence of active proctitis (see next). 
+
+# Fistulizing Crohn's Disease:
+MRI Pelvis notable for  fistula between anus and perineum, thus 
+patient started on augmentin BID per GI recs. Her home 
+non-formulary prednisilone was substituted with equivalent dose 
+of oral prednisone inpatient. Weekly MTX was held on discharge 
+pending further instruction from her outpatient 
+gastroenterologist due to leukopenia. 
+
+# Leukopenia: 
+WBC 2.2, ANC 1.7K, with lymphopenia on differential. Thus, 
+likely related to MTX. On discharge MTX is on hold pending 
+instructions from her gastroenterologist, who evaluated the 
+patient during her hospitalization. 
+
+# Diarrhea:
+Started at OSH in the setting of multiple antibiotics and 
+resolved with discontinuation upon arrival to ___. 
+
+# BRPBR: 
+Patient with one episode of BRBPR overnight on admission without 
+associated HD instability of H/H drop. Resolved spontaneously. 
+Patient with significant hemorrhoids on exam, which is the 
+presumed source of her bleeding episode. 
+
+> 30 mins spent on discharge planning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. prednisoLONE 6 mg oral DAILY 
+2. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Mesalamine 1500 mg PO BID 
+5. Mesalamine 1000 mg PO DAILY (MIDDAY) 
+6. Methotrexate 15 mg SC 1X/WEEK (___) 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth twice a day Disp #*60 Tablet Refills:*0 
+3.  FoLIC Acid 1 mg PO DAILY  
+4.  Mesalamine 1500 mg PO BID  
+5.  Mesalamine 1000 mg PO DAILY (MIDDAY) 
+this medication is listed as a home med. pls continue taking.   
+6.  prednisoLONE 6 mg oral DAILY  
+___ instructions
+Do not take your methotrexate until Dr. ___ you to 
+do so. 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# proctitis
+# Fistulizing Crohn's disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege to care for you at the ___ 
+___. You were admitted for further evaluation of 
+vaginal (labial) swelling with associated fevers. You had a MRI 
+that demonstrated proctitis (inflammation of the end of the 
+colon near the anus) and an ongoing fistula that was not 
+significantly different from prior. Luckily, there was no 
+abscess (infectious collection) that we needed to drain 
+surgically. 
+
+After discharge you should continue to take the new antibiotic 
+Augmentin twice a day, likely for several weeks, but Dr. ___ 
+will determine the proper course. You should also HOLD your 
+methotrexate dose this ___ until instructed otherwise. These 
+are the only two medication changes, you should take all other 
+medicines as previously prescribed. Please follow up with all 
+appointments as detailed below.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team 
+ 
+Followup Instructions:
+___

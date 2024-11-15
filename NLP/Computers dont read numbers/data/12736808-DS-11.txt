@@ -1,0 +1,341 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+SOB, new HF
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Cath
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:  
+___ year old male with DM2, smoking history, hyperlipidemia and 
+PVD who presented to ___ on ___ with acute 
+shortness of breath. Found to be in a new rapid afib by EMS and 
+was hypoxic. CXR showed bilateral infiltrates and CHF. Was 
+started on nebulizers, steroids and IV Levaquin.  He was felt to 
+have a combination of COPD exacerbation and rapid AF resulting 
+in a CHF exacerbation, acute coronary syndrome and possible 
+pneumonia. WBC was 25.1 on admission.  Echo demonstrated a new 
+low EF of 35% and moderate to severe mitral insufficiency. 
+Troponin trend of 0.055>10.300 on ___ at 645am.  BNP was >3000 
+___ at 643 am. He converted to sinus rhythm ___. He is 
+currently on a heparin gtt.  IV Vancomycin added to Levaquin now 
+for question of pneumonia.  Patient is afebrile and blood 
+cultures have been negative x 2. Wbc on ___ is 14. Currently on 
+RA with o2 sats 96% ra. Lungs sound dim.  Has been diuresed with 
+IV Lasix. Has not had any chest pain and is wearing nitro  
+paste.
+
+At baseline he endorses shortness of breath with 10 to 15 
+minutes, of exertion.  
+
+Vitals on transfer:  hr 101 sinus tachy, temp at 515 98.4, rr 
+24, bp 144/85, o2 sat 96% r/a
+Ht:  5 feet 8 inches
+Wt: 130 lbs
+
+REVIEW OF SYSTEMS:  
+Negative except as indicated above.
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+=====================
+1. CARDIAC RISK FACTORS  
+- NIDDM Diabetes II with complications  
+- Smoking history
+- Dyslipidemia 
+ 
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+
+3. OTHER PAST MEDICAL HISTORY  
+- Peripheral vascular disease - claudication (no procedures) 
+- "wheezing during allergy season"
+- Subclavian steal syndrome - low BPs on left upper extremity. 
+- osteoporosis 
+- inguinal hernia
+- diverticulosis
+ 
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:
+================  
+Has family history of CAD. 2 brother's suffered myocardial 
+infarction, one passed away at ___. Living brother has congenital 
+heart disease, peripheral vascular disease, and pacemaker 
+implantation. 
+
+ 
+Physical Exam:
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect 
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple with JVP of *** cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills, 
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+ 
+Pertinent Results:
+___ 10:16PM   GLUCOSE-162* UREA N-21* CREAT-1.1 SODIUM-138 
+POTASSIUM-3.7 CHLORIDE-97 TOTAL CO2-24 ANION GAP-17*
+___ 10:16PM   estGFR-Using this
+___ 10:16PM   CK-MB-5 cTropnT-0.31*
+___ 10:16PM   CALCIUM-9.8 MAGNESIUM-2.1
+___ 10:16PM   WBC-12.7* RBC-4.72 HGB-12.3* HCT-39.2* MCV-83 
+MCH-26.1 MCHC-31.4* RDW-15.0 RDWSD-45.6
+___ 10:16PM   PLT COUNT-214
+___ 10:16PM   ___ PTT-60.9* ___
+___ 06:35AM BLOOD WBC-10.8* RBC-4.54* Hgb-12.4* Hct-38.2* 
+MCV-84 MCH-27.3 MCHC-32.5 RDW-15.1 RDWSD-46.5* Plt ___
+___ 06:20AM BLOOD WBC-10.6* RBC-4.63 Hgb-12.5* Hct-38.8* 
+MCV-84 MCH-27.0 MCHC-32.2 RDW-15.1 RDWSD-46.0 Plt ___
+___ 03:04AM BLOOD WBC-13.6* RBC-4.71 Hgb-12.7* Hct-39.2* 
+MCV-83 MCH-27.0 MCHC-32.4 RDW-15.2 RDWSD-46.3 Plt ___
+___ 10:16PM BLOOD WBC-12.7* RBC-4.72 Hgb-12.3* Hct-39.2* 
+MCV-83 MCH-26.1 MCHC-31.4* RDW-15.0 RDWSD-45.6 Plt ___
+___ 06:35AM BLOOD Plt ___
+___ 06:35AM BLOOD ___
+___ 02:50PM BLOOD PTT-43.7*
+___ 06:20AM BLOOD Plt ___
+___ 10:30AM BLOOD PTT-37.8*
+___ 03:04AM BLOOD Plt ___
+___ 03:04AM BLOOD ___ PTT-59.6* ___
+___ 10:16PM BLOOD Plt ___
+___ 10:16PM BLOOD ___ PTT-60.9* ___
+___ 06:35AM BLOOD Glucose-116* UreaN-31* Creat-1.0 Na-141 
+K-3.7 Cl-103 HCO3-24 AnGap-14
+___ 06:20AM BLOOD Glucose-150* UreaN-28* Creat-1.0 Na-140 
+K-4.0 Cl-102 HCO3-25 AnGap-13
+___ 03:04AM BLOOD Glucose-158* UreaN-20 Creat-1.1 Na-139 
+K-3.9 Cl-94* HCO3-26 AnGap-19*
+___ 10:16PM BLOOD Glucose-162* UreaN-21* Creat-1.1 Na-138 
+K-3.7 Cl-97 HCO3-24 AnGap-17*
+___ 10:16PM BLOOD estGFR-Using this
+___ 06:20AM BLOOD ALT-24 AST-22 LD(LDH)-230 AlkPhos-58 
+TotBili-0.9
+___ 03:04AM BLOOD CK-MB-5 cTropnT-0.30*
+___ 10:16PM BLOOD CK-MB-5 cTropnT-0.31*
+___ 06:20AM BLOOD TotProt-6.2* Calcium-9.5 Phos-2.6* Mg-2.4 
+Iron-35*
+___ 03:04AM BLOOD Mg-2.2
+___ 10:16PM BLOOD Calcium-9.8 Mg-2.1
+___ 06:20AM BLOOD calTIBC-290 Ferritn-299 TRF-223
+___ 06:20AM BLOOD PEP-AWAITING F ___ FreeLam-15.3 
+Fr K/L-1.1 IFE-PND
+___ 06:20AM BLOOD HIV Ab-NEG
+___ 06:20AM BLOOD
+___ 06:35AM BLOOD
+___ 06:20AM BLOOD
+___ 03:04AM BLOOD
+___ 10:16PM BLOOD
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with DM2, smoking history, 
+hyperlipidemia and PVD who presented to ___ on ___ 
+with acute shortness of breath ___F, new CHF 
+exacerbation, and NSTEMI.
+
+#New systolic HF, non-ischemic.
+Echocardiograms in the hospital demonstrated an ejection 
+fraction of 35% and 30%. Prior to transfer, he was diuresed with 
+20mg IV boluses of lasix. His initial BNP was elevated to > 
+3000. He was treated for ACS (discussed below), and cardiac 
+catheterization revealed distal LCX disease, but otherwise, no 
+ischemic disease to account for the degree of HF, consistent 
+with non-ischemic cardiomyopathy. TSH normal, HIV negative, 
+ferritin normal, SPEP/UPEP negative. Possible etiology could be 
+tachy-myopathy from AFwRVR (discussed below). However, remained 
+in sinus during entire hospitalization at ___, and repeat 
+echocardiogram while in sinus rhythm revealed EF 30%. He was 
+started on metoprolol and ACE-I.
+
+#NSTEMI, type II
+Patient initially presented with chest pain and a troponin bump 
+to 10.3 at OSH. Arrived on heparin gtt and nitro paste. Given 
+new HF, there was concern for type I NSTEMI, so he was taken for 
+cardiac cath. Cardiac cath revealed 80% lesion in distal LCX, 
+which was not intervened upon, and which did not account for 
+degree of HF (discussed above). It was likely type II NSTEMI in 
+setting of AFwRVR and HF exacerbation. He was started on aspirin 
+and beta blocker, and continued on statin.
+
+#Atrial fibrillation with RVR
+Presented to OSH with acute onset AFwRVR. He was given 
+metoprolol and diuresed, and was in sinus rhythm at time of 
+transfer. He was kept on heparin gtt, and then transitioned to 
+apixaban for anticoagulation.
+
+#Mitral regurgitation, functional
+At OSH, TTE revealed mod-severe MR. ___, this was in setting 
+of Afib and volume overload. Repeat TTE in normal sinus rhythm 
+and euvolemia revealed mild-moderate MR.
+
+#COPD
+Received a course of steroids at ___ for possible 
+exacerbation. This was discontinued at ___. Was continued on 
+singulair 10mg qpm and albuterol.
+
+#PVD
+Following catheterization via the right femoral area he 
+developed a cold right lower limb. Pulses were difficult to 
+palpate but were detected on Doppler by vascular surgery. 
+Arterial study was done and revealed bilateral SFA and tibial 
+disease. Patient is requesting a follow up with a vascular 
+surgeon regarding his peripheral vascular disease and is 
+provided the phone number.
+
+#Subclavian steal syndrome
+Has history of subclavian steal syndrome. During 
+catheterization, R groin access was used and contrast was 
+injected revealing complete occlusion of the subclavian artery.
+
+=====================
+TRANSITIONAL ISSUES
+=====================
+[ ] Recommend follow up electrolytes at appointment on ___ 
+given that the patient is newly started on lisinopril.
+[ ] New diagnosis of non-ischemic cardiomyopathy and AFwRVR - 
+plan for follow up with cardiology.
+[ ] Euvolemic on discharge, no diuretic given. Continue to 
+monitor weight and volume status and add diuretic if needed.
+[ ] Continue to titrate lisinopril to blood pressure and 
+metoprolol to HR in ___.
+[ ] Patient requests follow up with vascular surgeron regarding 
+his peripheral artery disease and may be amenable to surgery 
+(reports he previously declined).
+[ ] Continue to discuss smoking cessation (patient requested 
+nicotine patches at discharge).
+[ ] Patient has significant weight loss and should undergo any 
+age-appropriate cancer screening that he has not yet received 
+(ie lung CT, colonoscopy, etc).
+
+#NEW MEDS: 
+- ASA 81
+- lisinopril 20 qd
+- metoprolol XL 100 qd
+- nicotine patch
+- atorvastatin 80mg qd
+
+#CHANGED MEDS: none
+#DICONTINUED MEDS: none
+
+Discharge weight: 57.9 kg
+Discharge creatinine: 1
+Code status: DNR/DNI
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob;wheezing 
+2. MetFORMIN (Glucophage) 500 mg PO DAILY DM II 
+3. Simvastatin 40 mg PO QPM CAD 
+4. Vitamin D 1000 UNIT PO DAILY 
+5. Calcium Carbonate 500 mg PO DINNER 
+6. Fish Oil (Omega 3) 1000 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*3 
+2.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+4.  Lisinopril 20 mg PO DAILY 
+RX *lisinopril 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+5.  Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+6.  Nicotine Patch 21 mg TD DAILY 
+RX *nicotine 21 ___ patch on skin every 24 hours 
+Disp #*28 Patch Refills:*0 
+7.  Albuterol Inhaler 2 PUFF IH Q6H:PRN sob;wheezing  
+8.  Calcium Carbonate 500 mg PO DINNER  
+9.  Fish Oil (Omega 3) 1000 mg PO BID  
+10.  MetFORMIN (Glucophage) 500 mg PO DAILY DM II  
+11.  Simvastatin 40 mg PO QPM CAD  
+12.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: new systolic heart failure
+Secondary: atrial fibrillation with rapid ventricular response, 
+type II NSTEMI
+
+ 
+Discharge Condition:
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+
+ 
+Discharge Instructions:
+Dear ___
+
+___ was a pleasure taking care of you at the ___ 
+___!
+
+WHY WAS I IN THE HOSPITAL?
+==========================
+You were in the hospital because your heart went into a rhythm 
+known as atrial fibrillation. You also had new heart failure 
+(poor pumping function of the heart).
+
+WHAT HAPPENED IN THE HOSPITAL?
+==============================
+You had a cardiac catheterization, which showed you did not have 
+a big blockage in the artery to your heart. You did not have a 
+heart attack. You also had an echocardiogram that showed that 
+your heart wasn't pumping well (heart failure). We put you on 
+medications to help with this. You also had an abnormal heart 
+rhythm (atrial fibrillation). We put you on a blood thinner to 
+prevent stroke that be caused by the abnormal heart rhythm.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+================================
+Your medications and appointments are below. Please take your 
+medications every day. We recommend that you stop smoking. 
+Please weigh yourself daily and call your doctor if you have 
+>5lb weight gain in 1 week or >3lb weight gain in 1 day.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+ Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

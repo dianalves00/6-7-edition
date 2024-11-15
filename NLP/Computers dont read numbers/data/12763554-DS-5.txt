@@ -1,0 +1,387 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain and Fevers 
+ 
+Major Surgical or Invasive Procedure:
+Pericardiocentesis and pericardial drain placement ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ w/ PMH of ___ and no known 
+cardiac disese who presents with 2 weeks of chest pain, 
+intermittent fevers, and night sweats. Pt. had been in his usual 
+state of health until 2 weeks prior to presentation to PCP's 
+office. Pt. had noted at this time a ___ day hx. of chest pain 
+worsened with deep inspiration, when lying down or leaning 
+forward. He took his temp at home and it ranged between 99.5 - 
+101.1. On exam he was found to have a signficant friction rub 
+with sinus tachycardia, diffuse ST elevations, and PR 
+depressions on EKG. Labs revealed WBC 7.6, normal H/H and plts 
+with negative CXR. He was placed on a regimen of NSAIDS PRN for 
+chest pain. He continued to have chest pain and chills and 
+followed up with his PCP's office on ___ continuing to 
+complain of CP despite NSAIDs. Pt. had an urgent TTE on ___ 
+which revealed early tamponade w/ mod-large pericardial 
+effusion; palpable pulsus paradoxicus (subtle) and increased 
+HJR, JVP ~7 cm. Following results of TTE, pt. presented 
+immediately to ___ for further management. In ED, initial 
+Vital Signs 99.2, 118, 127/64, 18, 99% on RA. He was then sent 
+to the cath lab for pericardiocentesis, where ~700 cc's of 
+serosanguinous fluid were drained, and a pericardial drain was 
+left in place. On arrival to the CCU, he was comfortable and 
+felt about the same as he did on admission.  
+Pt does note that he has had these symptoms off and on for the 
+past ___ years. He does report a similar episode of this pain in 
+___, but at that time he was treated for H. Pylori infection. 
+he has undergone autoimmune workup in the past that has been 
+negative. Has never had a clinically evident episode of 
+pericarditis before.  
+REVIEW OF SYSTEMS:  
+On review of systems, pt. denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. Denies exertional buttock or calf pain. 
+All of the other review of systems were negative. (+) orthopnea 
+but denies DOE, lightheadedness, shortness of breath, weight 
+gain, or extremity swelling.  
+
+ 
+Past Medical History:
+- ___ disease - Previously pt. of Dr. ___ 
+actively being managed at this time (looking for new 
+neurologist)  
+- Hx. of pneumonia  
+- Erectile Dysfunction  
+- Osteoarthritis  
+- Episodic memory loss  
+- BPH (benign prostatic hyperplasia)  
+- Obstructive sleep apnea  
+- Hx. of chronic L5/S1 radicular pain ___ left paracentral disk 
+herniation with left foraminal disk bulging at L5-S1.  
+- Hx. of elevated PSA  
+- Hx. H Pylori infection - s/p prevpac ___  
+- Depression  
+
+ 
+Social History:
+___
+Family History:
+Significant for family history of colonic polyps and 
+___ disease. No family history of early MI, arrhythmia, 
+cardiomyopathies, or sudden cardiac death.  Mother had CAD, 
+stroke.  Other family members with HTN ; otherwise 
+non-contributory.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+
+VS: T= 99.3, HR 124 Sinus, BP 146/84, RR 19, O2sat= 98% 
+Pulsus paradoxus = 5 mm Hg 
+___:  Appears stated age, NAD
+HEENT:  Mucous membranes moist, oropharynx clear, PERRLA, no 
+Neck:  JVD at 8 cm
+CV:  RRR, tachy, S1 S2 auscultated, no murmurs, no pericardial 
+friction rub
+Lungs:  Cracles at bilateral bases, L>R
+Abdomen:  Soft, NT ND +BS
+GU:  Deferred
+Ext:  No ___ edema
+Neuro:  No evidence of chorea, AOx3, grip strength ___ in UEs 
+bilat, gait deferred
+Skin:  No rash, slightly flushed
+PULSES:  2+ ___
+
+DISCHARGE PHYSICAL EXAM:
+========================
+
+VS: 98.1 131/79 96 18 96% ___:  Appears stated age, NAD
+HEENT:  Mucous membranes moist, oropharynx clear, PERRLA, no 
+Neck:  JVP non-elevated
+CV:  RRR, S1 S2 auscultated, no murmurs, no pericardial friction 
+rub
+Lungs:  CTAB
+Abdomen:  Soft, NT ND +BS
+GU:  Deferred
+Ext:  No ___ edema
+Neuro:  No evidence of chorea, AOx3, grip strength ___ in UEs 
+bilat, gait deferred
+Skin:  No rash
+PULSES:  2+ ___
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 11:45AM BLOOD WBC-15.2* RBC-4.40* Hgb-11.9* Hct-36.7* 
+MCV-83 MCH-27.1 MCHC-32.5 RDW-15.3 Plt ___
+___ 11:45AM BLOOD ___ PTT-26.5 ___
+___ 11:45AM BLOOD Glucose-87 UreaN-11 Creat-1.0 Na-138 
+K-3.9 Cl-101 HCO3-31 AnGap-10
+___ 11:45AM BLOOD proBNP-383*
+___ 11:45AM BLOOD Calcium-9.0 Phos-2.9 Mg-2.0
+___ 11:52AM BLOOD Lactate-0.8
+
+PERTINENT LABS:
+===============
+
+___ 11:45AM BLOOD proBNP-383*
+___ 11:45AM BLOOD cTropnT-<0.01
+___ 01:30PM OTHER BODY FLUID WBC-3200* ___ Polys-47* 
+Lymphs-46* Monos-0 Eos-1* Macro-6*
+___ 01:30PM OTHER BODY FLUID TotProt-5.1 Glucose-75 
+LD(LDH)-115 Amylase-22 Albumin-2.8
+
+PERTINENT IMAGING/STUDIES:
+==========================
+
+Echo ___ (Pre-pericardiocentesis): 
+Conclusions
+Overall left ventricular systolic function is low normal (LVEF 
+50%). The right ventricular free wall thickness is normal. Right 
+ventricular chamber size is normal with borderline normal free 
+wall function. There is a large pericardial effusion. The 
+effusion appears circumferential. There is significant, 
+accentuated respiratory variation in mitral/tricuspid valve 
+inflows, consistent with impaired ventricular filling.  
+
+Echo ___ (Post-pericardiocentesis):
+Conclusions  
+Left ventricular wall thickness, cavity size, and global 
+systolic function are normal (LVEF = 60%). The right ventricular 
+free wall thickness is normal. Right ventricular chamber size is 
+normal. with borderline normal free wall function. There is 
+abnormal diastolic septal motion/position consistent with right 
+ventricular volume overload. There is a small pericardial 
+effusion. The effusion is echo dense, consistent with blood, 
+inflammation or other cellular elements. There are no 
+echocardiographic signs of tamponade. 
+
+Compared with the prior study (images reviewed) of ___, 
+the pericardial effusion is now much smaller.   
+
+Echo ___: 
+Conclusions
+Left ventricular wall thickness, cavity size, and global 
+systolic function are normal (LVEF>55%). Right ventricular 
+chamber size is normal with mild global free wall hypokinesis. 
+There is abnormal diastolic septal motion/position consistent 
+with right ventricular volume overload. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. There is a small circumferential pericardial effusion. 
+The effusion is echo dense, consistent with blood, inflammation 
+or other cellular elements. There are no echocardiographic signs 
+of tamponade.
+
+IMPRESSION: Small circumferential pericardial effusion without 
+echocardiographic evidence of hemodynamic compromise. Mildly 
+hypokinetic right ventricle with signs of volume 
+overload.Compared with the prior study (images reviewed) of 
+___, the findings are similar.  
+
+Echo ___:
+Conclusions  
+Left ventricular wall thicknesses and cavity size are normal. 
+Overall left ventricular systolic function is low normal (LVEF 
+55%). Right ventricular chamber size is normal with mild global 
+free wall hypokinesis. There is abnormal septal motion/position. 
+The aortic valve leaflets (?#) appear structurally normal with 
+good leaflet excursion. There is no aortic valve stenosis. No 
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. There is a small (<1cm), circumferential 
+pericardial effusion. The effusion is echo dense, consistent 
+with blood, inflammation or other cellular elements. There is a 
+suggestion of pericardial tethering to the left ventricle and 
+early constriction cannot be excluded. There are no 
+echocardiographic signs of tamponade. 
+
+IMPRESSION: Low-normal global left ventricular systolic 
+function. Mild right ventricular free wall hypokinesis. Small, 
+echodense pericardial effusion without echocardiographic signs 
+of tamponade. Cannot exclude early constriction.
+
+Suggestion of pericardial tethering and constriction may be 
+better evaluated with cardiac MRI.
+
+Compared with the prior studies (images reviewed) of ___ 
+and ___, the pericardial effusion appears slightly smaller 
+in size. Biventricular function appears less vigorous, 
+particularly less vigorous than the echocardiogram of ___. 
+  
+
+CXR ___:
+IMPRESSION: No acute cardiopulmonary process.
+
+PERTINENT MICRO/CYTOLOGY:
+=========================
+
+___ 1:30 pm FLUID,OTHER      PERICARDIAL. 
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary): 
+
+___ 1:30 pm FLUID RECEIVED IN BLOOD CULTURE BOTTLES
+      PERICARDIAL. 
+
+   Fluid Culture in Bottles (Preliminary):    NO GROWTH. 
+
+DISCHARGE LABS:
+===============
+
+___ 07:50AM BLOOD WBC-17.0* RBC-4.73 Hgb-12.4* Hct-40.1 
+MCV-85 MCH-26.1* MCHC-30.8* RDW-15.4 Plt ___
+___ 05:10AM BLOOD Glucose-99 UreaN-12 Creat-0.9 Na-139 
+K-3.8 Cl-102 HCO3-26 AnGap-15
+___ 05:10AM BLOOD Calcium-8.6 Phos-3.8 Mg-2.1
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ w/o prior cardiac hx who presented w/ 2 
+weeks of chest pain and periodic fevers/chills, found to have 
+pericardial friction rub and EKG changes c/w pericarditis, also 
+w/ moderate pericardial effsion.
+
+ACTIVE ISSUES:
+==============
+
+# Pericarditis:
+The patient has had similar symptoms on and off for the past ___ 
+years and has undergone workup for autoimmune pericarditis in 
+the past that has been negative (Anti-ds DNA <12, SM AB 
+negative, RNP AB negative, Anti-RO negative, Anti-La negative, 
+RF negative).  On this most recent exacerbation, he had 
+fever/chills and progressive CP that worsened with inspiration.  
+On exam, he was hemodynamically stable and with a pulsus 
+paradoxus of 5mmHg.  He had a pericardial friction rub and EKG 
+with diffuse ST elevations nad PR depressions.  He was started 
+on Colchicine and Naproxen, which he tolerated well.  He was 
+discharged on these medications and instructed to call his 
+physician should be develop GI upset or diarrhea.
+
+# Pericardial effusion:
+Echo on admission revealed a large concentric pericardial 
+effusion with early tamponade physiology.  Pericardiocentesis 
+was performed and drained ~700 cc's of serosanguinous fluid.  A 
+Pericardial drain was left in place.  Echo the next day revealed 
+no significant reaccumulation, and the drain was pulled.  
+Pericardial fluid studies were sent and were ultimately 
+unrevealing of an etiology; viral pericarditis was presumed.  No 
+organisms were isolated on culture.  Follow-up echo on the day 
+of discharge showed no significant reaccumulation but did show 
+suggestion of pericardial tethering and restrictive physiology.  
+
+
+CHRONIC ISSUES:
+===============
+
+# ___ Disease:
+This was not an active issue during this hospitalization.
+
+# Depression:
+The patient was continued on his home doses of Bupropion and 
+Sertraline.
+
+# BPH: 
+This was not an active issue during this hosptialization.
+
+TRANSITIONAL ISSUES:
+====================
+
+- Will need f/u w/ PCP ___ ___ days (Dr. ___ and repeat EKG 
+at that time
+- Discharged on 4 weeks of Colchicine and Naproxen
+- Echo on the day of discharge revealed suggestion of 
+pericardial tethering with possible early restrictive 
+physiology.  This should be followed-up on at his follow-up 
+visit with Cardiology in 3 weeks (to be scheduled). 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO BID 
+2. BuPROPion (Sustained Release) 300 mg PO QAM 
+3. Sertraline 200 mg PO DAILY 
+4. vardenafil 20 mg oral PRN prior to sex 
+5. Ibuprofen 800 mg PO TID:PRN chest pain 
+
+ 
+Discharge Medications:
+1. BuPROPion (Sustained Release) 300 mg PO QAM 
+2. Omeprazole 20 mg PO BID 
+3. Sertraline 200 mg PO DAILY 
+4. Acetaminophen 650 mg PO Q6H:PRN pain 
+RX *acetaminophen 650 mg 1 tablet extended release(s) by mouth 
+every six (6) hours Disp #*40 Tablet Refills:*0
+5. Colchicine 0.6 mg PO BID 
+RX *colchicine [Colcrys] 0.6 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+6. vardenafil 20 mg oral PRN prior to sex 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+#Acute pericarditis
+
+SECONDARY
+#___ disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to take care of you at ___ 
+___. You were admitted because you had inflammation 
+and fluid around your heart, a condition called pericarditis.  
+We drained the fluid and started you on medications to decrease 
+the inflammation in the lining around your heart.  You improved 
+and are now ready to safely go home. 
+
+If you experience diarrhea while taking colchicine, you should 
+call your doctor, as this can be a side effect of this 
+medication.  Do not stop taking this medication without speaking 
+with your doctor first.  If you notice any blood in your stool 
+or develop abdominal pain, call your doctor as well.
+
+Please make sure to continue taking your medications as 
+prescribed. 
+Remember to follow-up as indicated below. 
+We wish you a quick and complete recovery.
+
+Your ___ Team.
+ 
+Followup Instructions:
+___

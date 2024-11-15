@@ -1,0 +1,300 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Levaquin / Neurontin / Neomycin / Ciprofloxacin / Percocet / 
+Perfume Ht52
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest tightness/warmth
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ female with known CAD with bare metal stent in ___ 
+and another one in ___, bilateral coronary artery stenosis s/p 
+thrombectomy, hypertension, hyperlipidemia, chronic renal 
+insufficiency, post-herpetic neuralgia intercostal neuralgia, 
+scoliosis, and sacroiliac joint pain. At physical therapy this 
+morning the patient was not feeling well, and developed a 
+feeling of hotness in a band across her chest, she had a brief 
+episode of blurry vision but denies headache, dizziness, 
+confusion, slurred speech, pain that radiated to shoulder or 
+back, abdominal pain, nausea, vomiting or shortness of breath. 
+She went home and took two SL nitro without relief. She then had 
+a bowel movement and felt markedly improved but came to the 
+hospital anyway. She notes that on the way to the hospital she 
+experienced shaking, but was not hot and thinks this was most 
+likely due to anxiety. She has no recent travel (went to ___ 
+in ___, leg pain. Two days ago she switched from protonix to 
+omeprazole, but otherwise has had no medication changes. Of 
+note, patient was off ___ from ___ prior to procedure 
+at pain clinic. 
+ 
+Past Medical History:
+#Intercostal neuralgia T9,  
+#Sacroiliac joint syndrome,  
+#Post-herpetic neuralgia, followed by pain clinic, most recent 
+intervention ___: Left T9 cryoneurolysis, Right sacroiliac 
+joint injection, Left supraorbital nerve blocks. ___, during which time she underwent cryoablation of her L5 and 
+S1 medial branches as well as a left supraorbital nerve block. 
+Past interventions included cryoablation of her intercostal 
+nerves, trigger point injections, and left supraorbital nerve 
+blocks.  
+#S/P left carotid endarterectomy by Dr. ___ in the past.  
+She has bilateral 60-69% stenosis unchanged on ___.  
+# stenosis in the ___ beyond the origin with chronic abdominal 
+pain with eating.  
+#CAD s/p bare metal stent to D1 in ___  
+#Hypertension  
+#HyperlipidemiaCAD  
+#Childhood asthma/seasonal allergies  
+#Chronic Anemia  
+#Chronic renal insufficiency with baseline creatinine 1.4-2.1  
+#Osteoporosis  
+#Arthritis  
+#Left Rotator Cuff Repair  
+#Bilateral Cataract Surgery  
+#Removal of a benign right breast lumps  
+#Chronic intermittent diarrhea  
+#Nocturnal leg cramps  
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+General: Thin female, alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear.  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, ___ holosytolic 
+murmur heard best at LUSB.  
+Abdomen: soft, non-tender, non-distended, bowel sounds +.  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema .  
+.  
+
+ 
+Pertinent Results:
+___ 12:51PM BLOOD WBC-9.9 RBC-3.67* Hgb-12.0 Hct-34.2* 
+MCV-93 MCH-32.7* MCHC-35.1* RDW-13.5 Plt ___
+___ 12:51PM BLOOD Neuts-77.9* Lymphs-15.1* Monos-3.9 
+Eos-2.8 Baso-0.3
+___ 12:51PM BLOOD Glucose-80 UreaN-36* Creat-1.4* Na-141 
+K-4.5 Cl-104 HCO3-24 AnGap-18
+___ 12:51PM BLOOD CK(CPK)-112
+___ 12:51PM BLOOD cTropnT-<0.01
+
+EXAMINATION: PA and lateral chest radiographs. 
+  
+COMPARISONS: Comparison to PA and lateral chest radiographs from 
+___ and CTA chest from ___. 
+  
+FINDINGS: The lungs are clear. There is no evidence of pneumonia 
+or 
+congestive heart failure. There is bilateral apical pleural 
+thickening that is unchanged from prior examinations dating back 
+to ___. There is a prominent nipple shadow in the right 
+lung field. The mediastinal and cardiac contours are stable in 
+appearance. There is no evidence of pleural effusions or 
+pneumothorax. There is severe S-shaped scoliosis. There is no 
+evidence of new fractures. 
+  
+IMPRESSION: No evidence of pneumonia. 
+
+___ 07:00AM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 07:21PM BLOOD CK-MB-NotDone cTropnT-<0.01
+___ 07:00AM BLOOD CK(CPK)-78
+___ 07:21PM BLOOD CK(CPK)-94
+___ 01:15PM BLOOD %HbA1c-PND
+ 
+Brief Hospital Course:
+In the ED, initial vs were: T: 97.3 P:70 BP:133/58 RR:17 O2 sat 
+100%RA. EKG showed new Q in lead III. Troponin <0.01, CK 112. 
+Creatinine was at baseline 1.4.  
+.
+# Chest Pain: Patient with risk factors for ACS including 
+hypertension, hyperlipidemia, vascular disease and known CAD. 
+However, cardiac enzymes negative and EKG with a new q wave in 
+III which is non-specific. However, chest pain as described is 
+very atypical for cardiac chest pain in distribution and quality 
+and it was relieved by bowel movement/eating and not relieved by 
+SL nitrogen. This is most consistent with GI (patient recently 
+swithched from protonix to omeprazole and may have missed a day 
+or two and the pain was improved with bowel movement and 
+eating), musculoskeletal pain (though not reprodouceable), 
+anxiety (patient's dog died 10 days ago and she has been 
+depressed and crying), vagal (given feeling of warmth and 
+general weakness in the setting of stress and hunger). Her 
+visual change is concerning for TIA, but there are no other 
+neuro symptoms. Acute MI is less likely but needs to be ruled 
+out given her history and risk factors.  She was observed 
+overnight, 2 sets of enzymes came back negative and repeat EKG 
+was unchanged.  She was monitored on telemetry, continued on 
+___, BB, ACE, statin, had no more episodes of chest pain 
+and was discharged the following day back on protonix. 
+.  
+# Hypertension:  Continued home dose of HCTZ, atenolol, 
+lisinopril and nifedipine  
+.  
+# Hyperlipidemia: Continued statin  
+.  
+# Chronic Pain:  Continue home regimen of cyclobenzaprine prn, 
+tylenol prn.  
+.  
+# Chronic Diarrhea:  Loperamide as needed.  
+  
+
+ 
+Medications on Admission:
+AMOXICILLIN - 500MG Capsule - 4, 1HR PREDENTAL  
+ATARAX - 25MG Tablet - ONE TID, AS NEEDED  
+ATENOLOL - 25MG Tablet - ONE EVERY DAY  
+ATORVASTATIN [LIPITOR] - (Dose adjustment - no new Rx) - 40 mg  
+Tablet - 2 Tablet(s) by mouth  
+CELEBREX - ___ Capsule - ONE EVERY DAY  
+CLOPIDOGREL [___] - (Prescribed by Other Provider) - 75 mg  
+Tablet - 1 Tablet(s) by mouth once a day pt to stop 7 days prior 
+ 
+to procedures  
+CYCLOBENZAPRINE [FLEXERIL] - (Prescribed by Other Provider) - 10 
+ 
+mg Tablet - 1 Tablet(s) by mouth as needed for prn  
+EPIPEN - 0.3MG/0.3 Pen Injector - AS DIRECTED  
+FLUOROURACIL [EFUDEX] - (Prescribed by Other Provider) - 5 %  
+Cream - take as directed as needed  
+HCTZ - 25 MG - ONE EVERY MORNING  
+LIDOCAINE [LIDODERM] - 5 % (700 mg/patch) Adhesive Patch,  
+Medicated - take as directed daily as needed  
+LISINOPRIL - 10MG Tablet - ONE EVERY DAY  
+MECLIZINE [ANTIVERT] - (Prescribed by Other Provider) - 25 mg  
+Tablet - 1 tablet three times a day as needed  
+NITROQUICK - 0.4MG Tablet, Sublingual - AS DIRECTED  
+PROCARDIA XL - 60MG Tab,Sust Rel Osmotic Push 24hr - ONE EVERY  
+DAY  
+PROTONIX - 40MG Tablet, Delayed Release (E.C.) - TAKE ONE TABLET 
+ 
+DAILY.  
+PROVENTIL - 90MCG Aerosol - 2 PUFFS QID, AS NEEDED  
+RISEDRONATE [ACTONEL] - (Dose adjustment - no new Rx) - 35 mg  
+Tablet - 1 Tablet(s) by mouth weekly  
+___ - 100MG Tablet Sustained Release 12 hr - ONE BID, AS  
+NEEDED  
+TYLENOL/CODEINE ___ Tablet - ONE TABLET BY MOUTH Q 6 
+ 
+HOURS AS NEEDED FOR PAIN  
+ZETIA - 10MG Tablet - TAKE ONE TABLET DAILY.  
+ASPIRIN - (Prescribed by Other Provider) - 325 mg Tablet,  
+Delayed Release (E.C.) - 1 Tablet(s) by mouth once a day  
+COMPRESSION STOCKINGS - Misc - WEAR AS DIRECTED  
+
+ 
+Discharge Medications:
+1. Atenolol 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily) as needed for pain.  
+4. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO 
+DAILY (Daily).  
+5. Hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed for itching.  
+6. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Nitroglycerin 0.3 mg Tablet, Sublingual Sig: One (1) Tablet, 
+Sublingual Sublingual PRN (as needed) as needed for chest pain.  
+
+8. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+9. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation Q6H (every 6 hours) as needed for shortness of 
+breath.  
+10. Theophylline 100 mg Tablet Sustained Release 12 hr Sig: One 
+(1) Tablet Sustained Release 12 hr PO Q12H (every 12 hours) as 
+needed for SOB/Asthma.  
+11. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+12. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+13. Ferrous Sulfate 325 mg (65 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+14. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day) as needed.  
+15. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+16. Loperamide 2 mg Capsule Sig: One (1) Capsule PO QID (4 times 
+a day) as needed for diarrhea.  
+17. Alum-Mag Hydroxide-Simeth 200-200-20 mg/5 mL Suspension Sig: 
+___ MLs PO QID (4 times a day) as needed for abdominal 
+pain/gas.  
+18. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) 
+Tablet Sustained Release PO DAILY (Daily).  
+19. Amoxicillin 500 mg Tablet Sig: One (1) Tablet PO once a day 
+as needed for dental work: take one hour before dental work.  
+20. Celebrex ___ mg Capsule Sig: One (1) Capsule PO once a day.  
+
+21. EpiPen 0.3 mg/0.3 mL Pen Injector Sig: One (1) injection 
+Intramuscular as directed.  
+22. Fluorouracil 5 % Cream Sig: One (1) application Topical as 
+directed.  
+23. Meclizine 25 mg Tablet Sig: One (1) Tablet PO three times a 
+day as needed for dizziness.  
+24. Actonel 35 mg Tablet Sig: One (1) Tablet PO once a week.  
+25. Atorvastatin 80 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+26. Celecoxib 200 mg Capsule Sig: One (1) Capsule PO daily ().  
+27. Ferrous Gluconate 325 mg (37.5 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Atypical Chest Pain
+h/o CAD s/p stent x2
+Hypertension
+Anxiety
+Hyperlipidemia
+Chronic pain
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+You came to the hospital with chest tightness.  We did blood 
+tests that did not show any evidence of heart damage or heart 
+attack.  You were seen by your cardiologist who recommended 
+outpatient stress test.  Your chest pain was improved with bowel 
+movement and eating which makes us think the chest pain was 
+related to your GI system and possibly worsened by the stress of 
+your recent loss of your dog.
+.
+We made no changes in your medications.
+.
+Please follow up with your primary care doctor and with your 
+cardiologist as below.  
+.
+If you have worsening chest pain, shortness of breath, 
+confusion, slurred speech, nausea, vomiting, diarrhea, fevers, 
+chills or any other symptoms that are concerning to you please 
+call your doctor or come to the emergency room.
+ 
+Followup Instructions:
+___

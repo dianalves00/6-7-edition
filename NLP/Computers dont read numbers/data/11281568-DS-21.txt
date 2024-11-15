@@ -1,0 +1,365 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Dilantin / Sulfa (Sulfonamide Antibiotics) / morphine / abacavir
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+R PICC
+
+ 
+History of Present Illness:
+___ with complex medical hx, nonverbal at baseline w/ trach 
+mask, AIDS (last CD4 ___, VL < 20 in ___ w/ history 
+of poor compliance on ART, recurrent c.diff, toxoplasmosis in 
+___ c/b seizures, recurrent c.diff and multiple prior episodes 
+of PCP ___/ multiple admissions in ___, including for: 
+Toxoplasmosis and CMV Pneumonitis, MRSA PNA, and recent 
+admission for MDR UTI in ___, transfer from ___ to ___ 
+to ___ for increased respiratory distress, fever, hypoxia.
+
+Per ___ notes, CXR ___ for ? respiratory complaints, started on 
+BID augmentin and tamiflu with no infiltrate seen on ___ 
+facility ___ mild pulm edema for which 20mg lasix given. Was 
+going to be initially transferred to ___ this evening, but per 
+EMS concern was diverted to ___, where basic workup showed 
+fever to 101.7, normal white count, UA suggestive of UTI, 
+thorough trach suctioning with good effect, 325 tylenol liquid, 
+CXR without rads read.
+
+PE reveals pt at baseline O2 on trach mask with tachypnea, equal 
+b/l lung sounds w/ R basilar crackles, noncommunicative, moving 
+arms to voice. No TTP abdomen.
+
+In the ED, initial vitals: 
+- 99.8 96 108/69 44 97% 15L trach mask 
+- initial labs: H/H 12.4/36.4, WBC 7.9, BUN/Cr ___, lactate 
+1.2, U/A with large leuks, + nitrites, few bacteria
+- patient given 1g IV Vanc, 2g cefepime, 1L NS 
+- CXR with diffuse bilateral opacification, appears c/w prior 
+from ___
+- ED physical exam: PE reveals pt at baseline O2 on trach mask 
+with tachypnea, equal b/l lung sounds w/ R basilar crackles, 
+noncommunicative, moving arms to voice. No TTP abdomen.
+
+On arrival to the MICU,  vitals were:  T:98.6 BP:103/56 P:94 
+R:23 O2:98% on 50% by trach mask.  Patient was comfortable in 
+bed.  
+
+Review of systems:  
+(+) Per HPI, also reported right thigh pain, SOB, nausea.  10 
+point review of systems otherwise negative unless noted above.  
+ 
+Past Medical History:
+- HIV/AIDS (last CD4 count of 182 and HIV VL of 25 as  
+of ___ with h/o poor compliance on ART)  
+- CNS toxoplasmosis in ___ and again in ___ treated with  
+pyrimethamine, clindamycin and leucovorin which was completed  
+___  
+- Multiple PCP PNAs  
+- CMV/HSV pneumonia based on BAL from ___ treated with  
+valganciclovir until ___  
+- Lymphocytic interstitial PNA; dx in ___ and attributed to  
+untreated HIV. Treated with 60mg prednisone (unknown course) and 
+
+intitiation of HAART  
+- COPD on home ___  
+- s/p trach and PEG for chronic hypoxic respiratory failure  
+- History of seizures (attributed to history of Toxoplasmosis)  
+- Chronic diarrheal illness  
+- History of a ___ burr hole  
+- Appendectomy
+ 
+Social History:
+___
+Family History:
+Both parents had congestive heart failure.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=============================
+Vitals- T:98.6 BP:103/56 P:94 R:23 O2:98% on 50% by trach mask  
+GENERAL: Laying in bed in NAD 
+HEENT: NC/AT, sclera anicteric  
+NECK: trachostomy tube in place
+LUNGS: Ronchorous breath sounds throughout
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, ___, bowel sounds present, no 
+rebound tenderness or guarding, PEG tube in place 
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+NEURO: Follows commands, ___, able to lift both legs at 
+the hips 
+ 
+
+DISCHARGE PHYSICAL EXAM:
+================================
+ 
+Pertinent Results:
+ADMISSION LABS:
+========================
+___ 02:35AM BLOOD ___ 
+___ Plt ___
+___ 02:35AM BLOOD ___ 
+___
+___ 03:24AM BLOOD ___ ___
+___ 02:35AM BLOOD ___ 
+___
+___ 02:35AM BLOOD ___
+___ 02:35AM BLOOD ___
+___ 11:18AM BLOOD ___ 
+___ Base ___
+___ 11:45AM BLOOD ___ O2 ___
+___ 05:40AM URINE ___ Sp ___
+___ 05:40AM URINE ___  ___ 
+___
+___ 05:40AM URINE ___ 
+___
+
+DISCHARGE LABS:
+=========================
+___ 04:27AM BLOOD ___ 
+___ Plt ___
+___ 04:27AM BLOOD ___ ___
+___ 04:27AM BLOOD ___ 
+___
+___ 04:27AM BLOOD ___
+
+IMAGING:
+=========================
+ECG ___: Sinus rhythm. Likely ventrical axis. Compared to 
+the previous tracing  of ___ previously described inferior 
+myocardial infarction is no longer noted. R wave regression in 
+the precordial leads is not seen on today's tracing. TRACING #1 
+
+ECG ___:  Sinus rhythm. Right axis deviation. Compared to 
+tracing #1 there are no significant changes. TRACING #2 
+
+CXR ___: 
+IMPRESSION: Focal opacity at the right lung base concerning for 
+pneumonia.  Diffuse background interstitial lung disease, 
+potentially caused by chronic underlying infection.
+
+CXR ___:
+IMPRESSION:  
+The new right PICC line terminates at the upper to mid SVC. No 
+pneumothorax. 
+
+MICRO:
+==========================
+OTHER BODY FLUID VIRAL, MOLECULAR FluAPCR  FluBPCR 
+___ 03:59                  NEGATIVE NEGATIVE 
+
+___ 7:55 am SPUTUM     Site: ENDOTRACHEAL
+      Source: Endotracheal. 
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+
+   RESPIRATORY CULTURE (Final ___: 
+      SPARSE GROWTH Commensal Respiratory Flora. 
+      PSEUDOMONAS AERUGINOSA.    MODERATE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     2 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------     4 I
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+   FUNGAL CULTURE (Preliminary): 
+      YEAST. 
+
+___ 12:24 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Reported to and read back by ___ @ 10:50, 
+___. 
+      CLOSTRIDIUM DIFFICILE. 
+         Positive for toxigenic C. difficile by the Illumigene 
+DNA
+         amplification.            (Reference ___. 
+
+Urine Cx Mixed flora x2
+Blood Cx NGTD x3
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of AIDS 
+complicated by multiple infections and resulting aphasia, 
+chronic respiratory failure requiring trach/PEG, recurrent 
+c.diff, admitted ___ to MICU with acute on chronic 
+respiratory failure secondary to pseudomonas PNA, treated with 
+cefepime, course complicated by recurrent cdiff treated with PO 
+vancomycin, now improved to baseline and ready for discharge
+
+# Acute on Chronic Respiratory Failure / Acute Pseudomonas 
+Pneumonia  - Patient noted to tachypneic, CXR concerning for RLL 
+pneumonia. Patient was started empirically on vancomycin and 
+cefepime for pneumonia. Sputum culture grew pseudomonas. Patient 
+planned for 14 day course, last day ___. Infusing via R PICC 
+placed during admission. Resolved to home O2 trach mask of 35%, 
+discharged. 
+
+# C Diff Colitis - Frequent BM after initiation of Cefepime, h/o 
+significant c diff, found to have C diff test positive.  Per 
+previous ID notes, will plan to treat with PO Vanco during 
+Cefepime course and extend an additional 2 weeks (last day 
+___. Please hold Cholestyramine until PO Vanco course 
+completed as it binds Vanco in the gut.
+
+# Right leg pain: Pt with chronic R thigh pain. Prior plain film 
+showed he is s/p fixation in bilateral hips, with some evidence 
+of osteonecrosis. Seen by ortho during previous admission who 
+recommended against MRI (would not change management) and felt 
+surgery was not indicated. Was recommended that he follow up 
+with ortho as outpatient, however, no ortho notes in system 
+after last discharge. Continued home pain regimen.
+  
+# HIV: Last CD4 count of 182 in ___ and HIV VL <20 as of ___. 
+Continued home ___ 1 tab daily, Darunavir 
+800 mg PO DAILY, RiTONAvir 100 mg PO daily. Continued home 
+atovaquone and azithromycin prophylaxis.  
+
+# H/o SVT. On metoprolol from hx of SVT while inpatient ___. 
+Continued metoprolol tartrate 50mg BID.
+
+# Chronic respiratory failure s/p trach: HZumidified trach mask 
+and suctioning as needed, back on last O2 requirement at 
+discharge of 35% trach mask, continue weaning at rehab. 
+Continued home albuterol/ipratropium nebs prn.
+
+# Chronic abdominal pain: Continue home hyoscyamine, holding 
+cholestyramine.
+ 
+# Seizure history: Continue home Keppra 1250mg PO BID.
+
+# Depression/Anxiety/Insomnia: Continued citalopram and ativan.
+
+Transitional Issues:
+# Full Code
+# Communication:  ___, HCP ___
+-Cont Cefepime, planned 14d course, last day ___
+-Cont PO Vanco through Cefepime course and an additional 14 days 
+afterwards, last day ___
+-Stopped Cholestyramine as it can bind PO Vanco, can be 
+restarted after treatment ends
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg NG Q6H:PRN pain 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB 
+3. ___ Hydrox.-Simethicone 30 mL NG QID:PRN upset 
+stomach 
+4. Atovaquone Suspension 1500 mg NG DAILY 
+5. Azithromycin 1200 mg PO 1X/WEEK (FR) 
+6. Bisacodyl 10 mg PR HS:PRN constipation 
+7. Calcium Acetate 1334 mg NG DAILY 
+8. Cholestyramine 4 gm PO DAILY 
+9. Darunavir 800 mg PO DAILY 
+10. ___ (Truvada) 1 TAB PO DAILY 
+11. Hyoscyamine 0.125 mg PO BID 
+12. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN sob 
+13. LeVETiracetam 1250 mg PO BID 
+14. Lorazepam 0.25 mg NG Q6H:PRN anxiety 
+15. Metoprolol Tartrate 50 mg PO BID 
+16. RiTONAvir 100 mg NG DAILY 
+17. Acidophilus (L.acidoph & 
+___ acidophilus) 175 mg via 
+___ BID 
+18. Fleet Enema ___AILY:PRN constipation 
+19. Milk of Magnesia 30 mL NG Q6H:PRN constipation 
+20. TraZODone 25 mg PO HS:PRN sleep 
+21. Citalopram 10 mg PO DAILY 
+22. OxycoDONE (Immediate Release)  2.5 mg PO Q8H:PRN pain 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg NG Q6H:PRN pain 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB 
+3. ___ Hydrox.-Simethicone 30 mL NG QID:PRN upset 
+stomach 
+4. Atovaquone Suspension 1500 mg NG DAILY 
+5. Azithromycin 1200 mg PO 1X/WEEK (FR) 
+6. Bisacodyl 10 mg PR HS:PRN constipation 
+7. Calcium Acetate 1334 mg NG DAILY 
+8. Citalopram 10 mg PO DAILY 
+9. Darunavir 800 mg PO DAILY 
+10. ___ (Truvada) 1 TAB PO DAILY 
+11. Hyoscyamine 0.125 mg PO BID 
+12. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN sob 
+13. LeVETiracetam 1250 mg PO BID 
+14. Lorazepam 0.25 mg NG Q6H:PRN anxiety 
+RX *lorazepam 0.5 mg 0.5 (One half) tablet(s) by mouth every 6 
+hours Disp #*30 Tablet Refills:*0
+15. Metoprolol Tartrate 50 mg PO BID 
+16. OxycoDONE (Immediate Release)  2.5 mg PO Q8H:PRN pain 
+RX *oxycodone 5 mg 0.5 (One half) tablet(s) by mouth every 8 
+hours Disp #*30 Tablet Refills:*0
+17. RiTONAvir 100 mg PO DAILY 
+18. TraZODone 25 mg PO HS:PRN sleep 
+19. Acidophilus (L.acidoph & 
+___ acidophilus) 175 mg via 
+___ BID 
+20. Fleet Enema ___AILY:PRN constipation 
+21. Milk of Magnesia 30 mL NG Q6H:PRN constipation 
+22. CefePIME 2 g IV Q8H 
+23. Vancomycin Oral Liquid ___ mg PO Q6H 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: Pneumonia, C diff colitis
+Secondary: HIV, Respiratory failure s/p Tracheostomy
+
+ 
+Discharge Condition:
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you during your stay at ___. 
+You were admitted for respiratory distress and you were found to 
+have pneumonia. You will need to take antibiotics for 14 days. 
+In addition, you were started on antibiotics to prevent 
+clostridium dificile infection. You will need to take this 
+second antibiotic for 14 extra days after completion of the 
+antibiotics for the pneumonia in order to prevent the 
+clostridium dificile from worsening.
+
+___ MDs
+ 
+Followup Instructions:
+___

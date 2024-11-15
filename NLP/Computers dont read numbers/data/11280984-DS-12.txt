@@ -1,0 +1,306 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abnormal labs
+ 
+Major Surgical or Invasive Procedure:
+NONE
+ 
+History of Present Illness:
+___ with history of HCV cirrhosis c/b HCC s/p OLT ___ who was 
+sent in from clinic after she was noted to have new ___ on 
+outpatient labs.  
+The patient is undergoing outpatient workup for a new 
+leukocytosis seen since about ___, with a hematology 
+appointment today. Labs were drawn and showed a Cr of 1.9 from 
+1.1 on ___. The patient was also seen by dermatology for a 
+facial rash attributed to ___, present for several months.  
+In the ED, initial vitals were 0 96.5 57 162/89 20 100% RA.  
+Labs notable for WBC 22 (75.9%Lymphs). BUN 46, Cr 1.9. ALP 121. 
+other studies including hepatic panel, tacro level within normal 
+limits.  
+She was given 1L NS.  
+Patient reports she has been feeling well recently aside from 
+one isolated episode of emesis ___ after eating a piece of 
+pizza. Her husband and her dog also vomited after eating this 
+pizza. This episode was self-limited.  
+On the floor, patient reports she feels fine. A little 
+dry/dehydrated which she attributes to drinking less water the 
+past few days despite increasingly cold weather. Otherwise no 
+complaints.  
+ 
+Past Medical History:
+peptic ulcer disease, hepatitis C cirrhosis, alcoholic
+cirrhosis (sober since ___, infertility, L tenth rib fx,
+deviated septum
+
+PSH: splenectomy ___ trauma (horseback riding injury), 2 C/S,
+laparoscopy for infertility, s/p multiple fertility treatments,
+deviated septum repair, s/p R knee surgery, s/p spiral fx L
+tib/fix
+
+ 
+Social History:
+___
+Family History:
+significant for diabetes, HTN, CHF. Brother recently diagnosed 
+with renal cancer
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+VS: 98.2 143/86 p61 R20 98%RA  
+General: in NAD, pleasant  
+HEENT: EOMI, MMM, PERRL, no icterus or pallor  
+Neck: Supple  
+CV: ___ systolic ejection murmur, regular rate and rhythm  
+Lungs: Clear to auscultation bilaterally  
+Abdomen: Soft, nontender, nondistended. Well healed surgical 
+scar. No flank tenderness  
+Ext: No edema  
+Neuro: AAOx3. No focal deficits  
+Skin: Roseacea to face  
+
+DISCHARGE PHYSICAL EXAMINATION:  
+VS: 97.8 108/66 63 18 97%RA  
+General: in NAD, pleasant  
+HEENT: EOMI, MMM, PERRL, no icterus or pallor  
+Neck: Supple  
+CV: ___ systolic ejection murmur, regular rate and rhythm  
+Lungs: Clear to auscultation bilaterally  
+Abdomen: Soft, nontender, nondistended. Well healed surgical 
+scar. No flank tenderness  
+Ext: No edema  
+Neuro: AAOx3. No focal deficits  
+Skin: Roseacea 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:10PM   GLUCOSE-94 UREA N-44* CREAT-1.5* SODIUM-134 
+POTASSIUM-4.2 CHLORIDE-102 TOTAL CO2-21* ANION GAP-15
+___ 07:10PM   WBC-20.5* RBC-3.59* HGB-11.5* HCT-35.8* 
+MCV-100* MCH-32.1* MCHC-32.2 RDW-14.2
+___ 07:10PM   NEUTS-17* BANDS-0 LYMPHS-73* MONOS-3 EOS-1 
+BASOS-0 ATYPS-6* ___ MYELOS-0
+___ 07:10PM   PLT SMR-NORMAL PLT COUNT-212
+___ 12:45PM   GLUCOSE-89
+___ 12:45PM   UREA N-46* CREAT-1.9* SODIUM-140 
+POTASSIUM-4.6 CHLORIDE-103 TOTAL CO2-25 ANION GAP-17
+___:45PM   estGFR-Using this
+___ 12:45PM   ALT(SGPT)-33 AST(SGOT)-27 LD(___)-151 ALK 
+PHOS-121* TOT BILI-0.4
+___ 12:45PM   ALT(SGPT)-33 AST(SGOT)-27 LD(LDH)-151 ALK 
+PHOS-121* TOT BILI-0.4
+___ 12:45PM   TOT PROT-7.5
+___ 12:45PM   ALBUMIN-4.2 CALCIUM-9.8 PHOSPHATE-4.0 
+MAGNESIUM-2.0
+___ 12:45PM   PEP-AWAITING F IgG-1621* IgA-212 IgM-144
+___ 12:45PM   tacroFK-5.7
+___ 12:45PM   WBC-22.0* RBC-3.86* HGB-12.7 HCT-37.7 MCV-98 
+MCH-32.8* MCHC-33.5 RDW-13.2
+___ 12:45PM   NEUTS-17.8* LYMPHS-75.9* MONOS-5.0 EOS-0.4 
+BASOS-1.0
+___ 12:45PM   HOS-SENT
+___ 12:45PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 12:45PM   PLT SMR-NORMAL PLT COUNT-233
+___ 12:45PM   CD5-DONE CD16-DONE CD23-DONE CD56-DONE 
+CD45-DONE ___ KAPPA-DONE CD2-DONE CD7-DONE 
+CD10-DONE CD19-DONE CD20-DONE LAMBDA-DONE CD16/56-DONE
+___ 12:45PM   CD3-DONE CD4-DONE CD8-DONE
+___ 12:45PM   IPT-DONE
+
+DISCHARGE LABS
+___ 05:23AM BLOOD WBC-16.0* RBC-3.32* Hgb-10.4* Hct-32.6* 
+MCV-98 MCH-31.4 MCHC-32.0 RDW-13.8 Plt ___
+___ 05:23AM BLOOD Glucose-95 UreaN-34* Creat-1.1 Na-139 
+K-4.5 Cl-110* HCO3-21* AnGap-13
+___ 05:23AM BLOOD Calcium-8.3* Phos-3.6 Mg-1.8
+___ 08:17AM BLOOD tacroFK-8.3
+
+STUDIES
+___ RENAL US
+IMPRESSION: 
+NONOBSTRUCTING RIGHT KIDNEY STONES. OTHERWISE UNREMARKABLE. NO 
+HYDRONEPHROSIS.
+ 
+___: IMMUNOPHENOTYPING-PB
+INTERPRETATION
+Immunophenotypic findings show a T cell dominant profile with an 
+expanded population of CD8(+)CD57(+) T cells.
+Review of peripheral smear shows 63% large granular lymphocytes 
+(LGLs); based on absolute lymph count on concurrent CBC of 
+16,195 per uL, calculated absolute LGL count is 10,203 per uL.
+The differential diagnosis includes a neoplastic versus reactive 
+LGL pproliferation, therefore the sample will be sent for 
+molecular analysis for further characterization and the results 
+reported separately.
+ 
+Brief Hospital Course:
+___ with history of HCV cirrhosis c/b ___ s/p OLT ___ who was 
+sent in from clinic after she was noted to have new ___ on 
+outpatient labs. Patient was transfused 2 L of NS and her 
+creatinine trended down from 1.9 --> 1.1 in 24 hrs. She was 
+instructed to take daily weight and call her doctor if her 
+weights changed by more than 3lbs in either direction. 
+Leukocytosis is stable and she will follow up with hematology as 
+outpatient. Pt will follow up in transplant clinic, PCP, 
+___ and Cardiology. 
+
+ACUTE ISSUES
+
+# Acute Kidney injury - DDx includes prerenal from dehydration, 
+and appears responsive to IVF. No evidence of obstruction. 
+Continued IVF overnight and considered evaluation for other 
+causes (vasculitis, glomerulonephritis, etc.) in the AM if not 
+improved. Cr improved to 1.1 at time of discharge. Restarted 
+Lasix at discharge and held lisinopril. Instructed patient to 
+weigh herself every day and call her doctor if she loses or 
+gains over 3 lbs. 
+
+# Post liver transplant: continue tacrolimus with a goal trough 
+of ___ for now. Patient will follow up in Transplant Clinic 
+after discharge from the hospital. 
+
+CHRONIC ISSUES
+
+# Leukocytosis: predominantly lymphocytes. The concern for PTLD 
+with CLL phenotype was raised. EBV and CMV viral load negative, 
+and CT-chest, abdomen, pelvis without lymphadenopathy or 
+lesions. Will await the opinion of patient's outpatient 
+hematologist.  
+
+# Hepatitis C: Last viral load negative. Outpatient followup. 
+ 
+# Aortic stenosis: ___ 0.9. Stable and asymptomatic. Follow with 
+annual ECHO  
+- continue metoprolol 25mg BID  
+
+# Rosacea - Written for topical treatment by dermatology. Have 
+not yet written her home topical meds, pending final derm note 
+from visit.  
+
+# HTN: Held lisinopril and lasix given ___. Restarted Lasix at 
+discharge. 
+  
+# ANXIETY/DEPRESSION: Cont home ativan and citalopram  
+
+# GERD: home famotidine PRN  
+
+# INSOMNIA: continue home ambien with caution. Reduced her dose 
+from 10mg to 5mg  
+
+TRANSITIONAL ISSUES
+-pt will have creatinine drawn on ___ (ordered by 
+hematologist)
+-pt instructed to do daily weights and notify phyisician if 
+weight changes in either direction by >3lbs
+-pt will continue on Lasix since she has severe aortic stenosis 
+and is at high risk of fluid overload; pt will need follow up 
+with cardiologist regarding her severe AS
+-we stopped the patients Lisinopril. She should hold the 
+lisinopril until she sees her transplant attending and pending 
+her creatinine level on ___
+-pt has blood pressure cuff at home; instructed to take her 
+blood pressure daily; If systolic blood pressure ___ number) is 
+greater than 160 she was instructed to call the transplant 
+clinic to send a message to Dr. ___. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Triamcinolone Acetonide 0.1% Ointment 1 Appl TP BID:PRN skin 
+3. Lorazepam 0.5 mg PO TID:PRN anxiety 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. Docusate Sodium 100 mg PO BID 
+6. Senna 8.6 mg PO BID 
+7. Famotidine 20 mg PO PRN heartburn 
+8. Tacrolimus 2 mg PO Q12H 
+9. sulfacetamide sodium-sulfur ___ % (w/w) topical BID 
+10. Furosemide 20 mg PO DAILY 
+11. Multivitamins 1 TAB PO DAILY 
+12. Citalopram 20 mg PO DAILY 
+13. minoxidil 2 % topical ASDIR 
+14. FoLIC Acid 1 mg PO DAILY 
+15. Zolpidem Tartrate 10 mg PO QHS 
+
+ 
+Discharge Medications:
+1. Citalopram 20 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Lorazepam 0.5 mg PO TID:PRN anxiety 
+5. Metoprolol Tartrate 25 mg PO BID 
+6. Multivitamins 1 TAB PO DAILY 
+7. Senna 8.6 mg PO BID 
+8. Tacrolimus 2 mg PO Q12H 
+9. Zolpidem Tartrate 10 mg PO QHS 
+10. Famotidine 20 mg PO PRN heartburn 
+11. Furosemide 20 mg PO DAILY 
+12. minoxidil 2 % topical ASDIR 
+13. sulfacetamide sodium-sulfur ___ % (w/w) topical BID 
+14. Triamcinolone Acetonide 0.1% Ointment 1 Appl TP BID:PRN skin 
+
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: Dehydration/Acute Kidney Injury
+SECONDARY: s/p HCV cirrhosis c/b HCC s/p OLT ___ aortic 
+stenosis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ was a pleasure to take part in your care during your stay at 
+___. You came into the hospital after your clinic blood tests 
+showed a rise in creatinine (measure of your kidney function). 
+When you arrived you were found to be dehydrated and given 2 
+liters of fluid through the IV. You kidney funtion (creatinine) 
+returned to a normal level. You were discharged home. You will 
+need to have this blood test rechecked on ___. You 
+will follow up with your primary care physician, ___, 
+the ___ and with your cardiologist. 
+
+You are on a medication called Lasix for your heart. This 
+medication prevents you from becoming fluid overloaded, which 
+can cause you to become short of breath and have leg swelling. 
+You should weigh yourself every day. If you notice a change in 
+weight greater than 3 lbs (decrease or increase) you should call 
+your doctor. Your Lisinopril (blood pressure medication) was 
+held during your hospital stay. You will not take this 
+medication after leaving the hospital. You should take your 
+blood pressure daily. If the systolic pressure ___ 
+number/bigger number) is greater than 160, please call the 
+transplant clinic and leave a message for Dr. ___. His team 
+will contact you about continuing the medication. 
+
+Thank you for allowing us to participate in your care during 
+your stay in the hospital. 
+
+Sincerely, 
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,322 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+High fevers at home
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo gentleman with a long-standing history of metastatic 
+melanoma, s/p multiple resections and treatments, recently on an 
+experimental ctx protocol who presents from home with complaints 
+of high fevers. Initially, after receiving the experimental 
+medication, he developed a full body rash and reports "his skin 
+was hot to the touch." The rash started on ___ and he stopped 
+the medication for several days.  He then resumed the medication 
+at a lower dose. The rash resolved. He denies any associated 
+tongue swelling, shortness of breath, wheezing.  He was on 8 
+pills daily of the medication and decreased to 6 pills.  He 
+stopped the medication on ___. 
+
+He first noted feeling fatigued worse than baseline on ___. He 
+then developed fevers associated with chills, no sweats, to 103 
+at home on ___, and again spiked on ___ to 101. He also had 
+somewhat decreased appetite and decreased po intake.  His 
+oncology service was then contacted, and recommended that the 
+patient come to ___ for additional evaluation. He initially 
+declined, but ultimately presented to the ___ ED for further 
+care. 
+
+In the ED, blood cultures were drawn, and the patient was 
+started empirically on cefepime for neutropenic fever (WBC 1.3 
+65 percent neutrophils). UA negative, CXR without evidence of 
+focal PNA, LFTs were noted to be uptrending. He was then 
+admitted to the hospitalist medicine service.  
+
+Today, he reports back pain per his baseline (has known mets--> 
+spine). He reports that he may have had one stool looser than 
+usual once in ED overnight.  Denies any chest pain, shortness of 
+breath, cough, sputum production. Reports normal bowel 
+movements, no abdominal pain, nausea, vomiting, or diarrhea. No 
+headaches or visual changes. No new adenopathy. No sore throat. 
++Mild myalgias a few days ago, now resolved. No known tick 
+bites. No jaundice. Has had foul smelling urine for a few days. 
+No dysuria or hematuria.  
+ 
+Past Medical History:
+Metastatic melanoma, mets to spine, liver, and kidneys (dx ___
+Anxiety
+s/p laminectomy and cervical fusion
+s/p multiple resections 
+
+Past Oncologic History:
+Mr. ___ was diagnosed with a 1.45 mm thick,
+___ level IV melanoma from his lower back in ___.  He
+underwent wide local excision and bilateral inguinal negative
+sentinel lymph node biopsies. He developed left inguinal
+recurrence in ___, undergoing completion left inguinal lymph
+node dissection on ___ with pathology revealing melanoma
+in four of nine nodes with extracapsular extension.  He received
+radiation therapy to the left inguinal region completing in
+___.  He began interferon off protocol in ___ with
+therapy discontinued on ___ due to radiation colitis.  In
+___, he underwent biopsy of a right clavicular lesion by Dr.
+___ a 0.45 mm thick, ___ level III melanoma.  He
+underwent wide local excision in ___.  In ___, he had
+biopsy of a left mandible skin lesion revealing a ___ level
+III, 0.51 mm thick melanoma with three mitoses per mm2.  On
+___, he underwent wide local excision and sentinel lymph
+node biopsy by Dr. ___ with no residual 
+melanoma
+at the primary site, but one of three lymph nodes showed a
+microscopic deposit of melanoma.  He underwent modified left 
+neck
+dissection on ___ with no melanoma noted in seven
+additional nodes.  In ___, he underwent biopsy of a new
+right chest wall skin lesion by Dr. ___ metastatic
+melanoma not seen at the margin without an epidermal component
+and two mitoses per mm2.  It was unclear whether this 
+represented
+an in-tranist metastasis from his right clavicle melanoma or an
+epidermatrophic metastasis. He underwent right chest wide local
+excision and right axillary sentinel lymph node biopsy by Dr.
+___ on ___.  There was no evidence of residual
+melanoma in the chest or in the sentinel lymph node.  Staging
+scans were negative and he began GM-CSF off protocol on
+___, completing 13 cycles in ___. Torso CT in
+___ revealed new small bilateral pulmonary nodules and an
+abnormal right kidney. CT guided biopsy of the right kidney on
+___ confirmed metastatic melanoma. He began the Phase I/II
+RAF 265 trial on ___. Therapy was held on C1W4, ___, due 
+to visual problems, fatigue and anorexia. 
+
+ 
+Social History:
+___
+Family History:
+noncontributory, no melanoma
+
+ 
+Physical Exam:
+VS: 99.8  98.6 110/70 88 16 98% on RA ___
+Gen: Awake, alert, oriented x 3, NAD, pleasant
+HEENT: PERRL, EOEMI, anicteric sclerae. Mild thrush on upper 
+gingiva, dry MM. Good dentition. No sinus tenderness. 
+Neck: Supple, no LAD
+Resp: CTA-B, no WRR
+CV: RRR, normal S1, S2
+Abd: Soft, non-distended, +BS, non-tender
+Back: No CVAT
+Ext: Warm and well perfused
+Skin: No rashes, no suspicious lesions, no jaundice
+Psych: Non-anxious, normal affect
+ 
+Pertinent Results:
+___   LACTATE-1.2
+___   GLUCOSE-107* UREA N-17 CREAT-1.3* SODIUM-136 
+POTASSIUM-3.5 CHLORIDE-100 TOTAL CO2-28 ANION GAP-12
+___   ALT-120* AST-80* LD-244 ALK PHOS-412* TOT BILI-1.7*
+___   LIPASE-146*
+___ WBC-1.3* RBC-3.77* HGB-10.7* HCT-31.7* MCV-84 MCH-28.4 
+MCHC-33.8 RDW-15.5
+___  NEUTS-65.7 ___ MONOS-5.8 EOS-4.4* BASOS-0.6
+___  ___ PTT-28.2 ___
+___ 08:20PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 08:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-75 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-SM UROBILNGN-12* PH-6.5 
+LEUK-NEG
+___ 08:20PM URINE  ___ BACTERIA-NONE YEAST-NONE 
+___
+
+___ 07:55AM BLOOD WBC-1.0* RBC-3.52* Hgb-9.9* Hct-29.4* 
+MCV-84 MCH-28.2 MCHC-33.8 RDW-15.3 Plt Ct-90*
+___ 07:55AM BLOOD Neuts-62 Bands-2 Lymphs-16* Monos-11 
+Eos-7* Baso-1 Atyps-1* ___ Myelos-0
+___ 07:55AM BLOOD Hypochr-OCCASIONAL Anisocy-OCCASIONAL 
+Poiklo-1+ Macrocy-NORMAL Microcy-OCCASIONAL Polychr-OCCASIONAL 
+Ovalocy-OCCASIONAL Burr-OCCASIONAL
+___ 07:55AM BLOOD Plt Smr-LOW Plt Ct-90*
+___ 07:55AM BLOOD ___ ___
+___ 07:55AM BLOOD Glucose-93 UreaN-14 Creat-1.2 Na-135 
+K-3.6 Cl-100 HCO3-26 AnGap-13
+
+___ 07:55AM BLOOD ALT-111* AST-56* LD(LDH)-216 AlkPhos-382* 
+TotBili-1.6*
+___ 07:55AM BLOOD Lipase-77*
+
+___ 10:40 pm BLOOD CULTURE Pending
+___ 9:42 pm BLOOD CULTURE Pending
+
+#CXR ___: No focal infiltrate, no effusions
+#CT CHEST W/CONTRAST Study Date of ___ 12:14 ___ 
+No acute changes from prior. Prelim/Final read still PENDING 
+
+___ 06:40AM BLOOD WBC-3.1*# RBC-3.71* Hgb-10.3* Hct-31.4* 
+MCV-85 MCH-27.8 MCHC-32.9 RDW-14.8 Plt ___
+___ 06:40AM BLOOD Neuts-76.5* Bands-0 Lymphs-13.8* 
+Monos-6.3 Eos-2.8 Baso-0.5
+___ 06:40AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ 
+Macrocy-NORMAL Microcy-1+ Polychr-NORMAL Schisto-OCCASIONAL Tear 
+___ Ellipto-1+
+___ 06:40AM BLOOD Plt Smr-LOW Plt ___
+___ 06:40AM BLOOD ___
+___ 06:40AM BLOOD Glucose-83 UreaN-12 Creat-1.5* Na-134 
+K-3.4 Cl-98 HCO3-28 AnGap-11
+___ 06:40AM BLOOD ALT-94* AST-39 LD(LDH)-217 AlkPhos-424* 
+TotBili-1.7*
+___ 06:40AM BLOOD Calcium-9.0 Phos-3.2 Mg-1.___ yo man with metastatic melanoma, on experimental chemotherapy 
+protocol, with fatigue, fevers at home to 103, neutropenia, ___, 
+LFT abnormalities, and fevers in hospital to 100.8. 
+
+# Neutropenic fevers: the patient reported having fevers for 2 
+days prior to admission.  We started him on zosyn IV for broad 
+gram negative coverage including pseudomonas.  The patient had 
+no clear signs of infection on exam, had a negative UA, a 
+negative CXR, and a negative CT chest/abdomen/pelvis.  The 
+patient's WBC count decreased from 1.3 to 1.0 in under 24 hours 
+(ANC 854 to 640).  He was also pancytopenic.  After discussing 
+with the patient's oncology team, we administered a single dose 
+of neupogen. We continued to monitor vitals and CBC levels 
+closely.  His ANC elevated to 1200 on hospital day 2.  He also 
+had 2 documented fevers to 100.8F. Since his ANC elevated, the 
+patient was feeling better, and has very good follow up plan, he 
+was discharge to home.  He was instructed to take his 
+temperatures q8h at home and after any chills.  Blood cultures 
+were pending upon discharge.  He will follow up at his local 
+hospital in ___ to check a CBC on ___ and the 
+results will be sent to the ___.  Depending on the CBC 
+results, he will receive a dose of neupogen as needed.  
+
+# Acute renal failure: Creatinine levels were elevated at 1.3 
+from baseline normal. After administration of IV fluids, 
+creatinine normalized indicating volume depletion likely from 
+decreased po intake.  His creatinine levels increased on HD 2 
+and we administered IV fluids before discharge and instructed 
+him to remain hydrated at home. 
+
+# Elevated LFTs: the increase was moderate, yet new. According 
+to his experimental chemotherapy study team, elevated LFTs are 
+not a common side effect of this medication.  There was no 
+change in appearance of the liver on CT abdomen compared to 
+previous imaging. We felt that this elevation was secondary to 
+the medication since his LFTs appeared to be trending up after 
+initiation of this treatment. We monitored his LFTs daily and 
+held the medication during his stay. 
+ 
+# Metastatic melanoma: the patient is currently on an 
+experimental chemotherapy protocol. We discussed his care with 
+his oncology team.  As above, he received one dose of neupogen 
+for neutropenia that was likely due to the experimental 
+medication.  His oncology team will follow up with him next 
+week.  
+
+# Oral thrush: the patient had white plaque on his gingiva. It 
+was unlikely to be systemic. We treated him with nystatin oral 
+rinse. 
+
+# Pain control: we continued administering his outpatient 
+regimen. The patient did not require additional dosing. 
+
+# Anxiety: we continued administering his home medication 
+lorazepam for sleep.
+
+ 
+Medications on Admission:
+Lorazepam 1 mg po q 8 hours for sleep
+Morphine SR 30 mg po q 12 hours
+Morphine 30 mg po q 6 hours prn
+Benadryl 25 mg po q 6 hours prn
+Plexicon, experimental ctx, for 1 month. Dr ___ 
+RN
+ 
+Discharge Medications:
+1. Lorazepam 1 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for anxiety.  
+2. Morphine 30 mg Tablet Sustained Release Sig: ___ Tablet 
+Sustained Releases PO Q12H (every 12 hours) as needed for pain.  
+
+3. Morphine 30 mg Tablet Sig: One (1) Tablet PO three times a 
+day as needed for pain.  
+4. Diphenhydramine HCl 25 mg Capsule Sig: ___ Capsules PO Q6H 
+(every 6 hours) as needed for itching.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1) Neutropenic fever
+2) Elevated liver function tests, likely from medication
+3) Melanoma, metastases to liver, kidneys, bone
+4) Dehydration
+5) Oral thrush
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were hospitalized because you had fevers up to ___.  With 
+your medical history, you are at risk for becoming ill with 
+fevers from infections. We ran several tests to look for an 
+infection since you did not have any symptoms or signs to 
+indicate a clear source. These tests included a chest x-ray, 
+blood studies, and a CT study to image your chest, abdomen, and 
+pelvis.  
+Your chest x-ray, CT scan, and urine tests did not show any sign 
+of infection.  The blood test results were still not final when 
+you were discharged.  Throughout this time, we made sure to give 
+you IV antibiotics. You did not have a fever while you were in 
+the hospital and were feeling well.  We also saw that you were 
+dehydrated and gave you IV fluids. It is likely that your fever 
+may be due to the drugs.
+.
+IT IS IMPORTANT THAT IF YOU HAVE A FEVER>101 please call your 
+oncologist.
+
+We also found that your blood tests were low and liver tests 
+were slightly high.  After speaking with your oncology team, we 
+thought that these changes might be caused by the experimental 
+medication you have been taking.  You had not taken this 
+medicine since ___.  
+
+Since your blood levels started to go down, we gave you a dose 
+of medication that works to increase blood levels.  
+
+You also had oral thrush, a type of yeast infection of the 
+mouth, so we gave you a medicated mouth rinse to treat this. 
+
+During this hospitalization, we made some changes to your 
+medications:
+) STOPPED Plexicon, your current treatment. Your oncology team 
+will decide to restart or stop this medication after you leave 
+the hospital.  
+
+We continued to give you the medications you take at home for 
+pain and sleep.    
+
+We recommend that you follow up with your oncology team to 
+discuss this hospitalization and further treatment. There are 
+appointments that have been made for you. 
+ 
+Followup Instructions:
+___

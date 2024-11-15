@@ -1,0 +1,273 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Compazine / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+lymphoma
+ 
+Major Surgical or Invasive Procedure:
+___ placement
+
+ 
+History of Present Illness:
+___ year old female with aggressive B cell
+lymphoma with features of DLBCL and Burkitts and involvement of
+the liver and pancreas. Patient s/p cycle6 of da-EPOCH,
+dose level 3, and is s/p C2 R-ICE. The plan is for
+autologous stem cell transplant if her disease can be 
+controlled.
+Her sister is not a match, but her brother is now willing to be
+typed.
+
+ 
+Past Medical History:
+PAST HEMATOLOGIC HISTORY:  
+- ___ CT A/P revealing: Large mass involving the pancreatic 
+tail with large cystic central portion, which invades the 
+spleen. Several liver ill-defined liver lesions are visualized, 
+suggestive of metastatic disease
+- ___ EUS with FNA revealed: large, heterogenous and 
+ill-defined mass was seen of the pancreatic tail measuring at 
+least 5.03cm. Left lobe of the liver revealed two large 
+hypoehoic liver lesions concerning for metastatic disease
+- ___ FNA biopsies revealed: Atypical lymphoid population 
+with necrosis
+Final dx: high grade B cell lymphoma, features intermediate 
+between large B cell lymphoma and Burkitt lymphoma, Bcl-6 and 
+CD10 pos, Ki-67 >95%, C-MYC 80% pos. 
+PET scans reveal residual disease going into cycle 6, therefore 
+planned R-ICE at next admit, with auto or allo 
+
+Chemotherapy:
+C1 da-EPOCH-R dose level 1 ___
+C2 da-EPOCH-R dose level 1 ___
+C3 da-EPOCH-R dose level 1 ___
+C4 da-EPOCH-R dose level 1 ___
+C5 da-EPOCH-R dose level 2 ___
+C6 da-EPOCH-R dose level 3 ___
+C1 R-ICE ___
+
+PAST MEDICAL/SURGICAL HISTORY:  
+- Schizophrenia, previously on clozaril and currently on haldol. 
+Lives in the community by herself with help from family.
+- Glucose Intolerance
+- Mesenteric venous thrombosis
+- splenic infarcts and microabscess
+- chronic cough
+- History of rheumatic fever
+- Status-post tubal ligation
+ 
+Social History:
+___
+Family History:
+- Mother with carcinoid, uterine cancer 
+- Father died of metastatic cancer
+ 
+Physical Exam:
+Tmax 98.8 now 98.0 BP 82/50 HR 67 spO2 96%RA
+admit weight: 143.3 current weight: 145.2 I: 2L O: 1.0 1BM
+
+Physical Exam:
+Gen: WDWN NAD A&Ox4
+HEENT: oropharynx moist no lesions
+neck: supple
+CV: RRR no m/r/g
+LS: CTA
+Abd: soft NT -HSM +BS
+Extr: no edema
+Skin: no rash
+Neuro: nonfocal
+M/S ___ equal strength ___
+Access: L PICC c/d/i
+
+ 
+Pertinent Results:
+___ 12:01AM BLOOD WBC-4.8# RBC-2.83* Hgb-8.2* Hct-25.4* 
+MCV-90 MCH-29.0 MCHC-32.3 RDW-17.1* Plt Ct-99*
+___ 12:30PM BLOOD WBC-1.7* RBC-2.89* Hgb-8.2* Hct-25.0* 
+MCV-87 MCH-28.3 MCHC-32.7 RDW-16.7* Plt ___
+___ 12:01AM BLOOD Neuts-93.8* Lymphs-3.6* Monos-1.5* 
+Eos-1.0 Baso-0.1
+___ 12:30PM BLOOD Neuts-85.5* Lymphs-6.3* Monos-5.7 Eos-1.4 
+Baso-1.1
+___ 12:01AM BLOOD Glucose-147* UreaN-10 Creat-0.4 Na-134 
+K-3.7 Cl-100 HCO3-26 AnGap-12
+___ 12:01AM BLOOD ALT-26 AST-27 LD(LDH)-176 AlkPhos-121* 
+TotBili-0.4
+___ 12:30PM BLOOD ALT-28 AST-26 LD(LDH)-149 AlkPhos-125* 
+TotBili-0.5
+___ 12:01AM BLOOD Albumin-3.7 Calcium-8.6 Phos-2.7 Mg-2.0
+___ 12:30PM BLOOD Albumin-4.2 Calcium-9.0 Phos-3.1 Mg-1.___ year old female with aggressive B cell
+lymphoma with features of DLBCL and Burkitts and involvement of
+the liver and pancreas. Patient s/p cycle6 of da-EPOCH,
+dose level 3, and is end-cycle C2 R-ICE. The plan is for
+autologous stem cell transplant if her disease can be 
+controlled.
+Her sister is not a match, but her brother is now willing to be
+typed.
+
+C2D6 RICE
+
+# lymphoma: CT scans are grossly unchanged, although, concern
+re:recent splenic tenderness (___) and recurring
+splenomegaly.
+
+# vancomycin extravasation: resolved
+
+#Fever: unclear etiology. FN on admission. blood/urine cx neg to
+date. question secondary to disease?
+-Stopped doxycycline at admit. 
+-started cefe/vanc at admit, d/c'd ___.
+-started ___ secondary to abd pain and persistent spikes on 
+___,
+no longer neutropenic. 
+-added vanc on ___ due to persistent spikes, vanc trough low,
+increased dose ___.
+-Place PICC despite fevers in < 24h
+-IgG 492
+-plan to continue ertapenem/vanco indefinately through this
+cycle. Will explore home infusional services. Vanco currently at
+BID dosing, will check trough ___ ___.
+-switch to ertapenem prior to d/c on ___ AM for ___
+
+#Abd pain. currently resolved-CT scan of torso, chest non acute
+small pleural effusion and small LNs to monitor yearly. CT abd
+persistent disease ___. 
+
+#lumbago: improved on lidoderm initially, worsened with activity
+yesterday. Lumbar MRI new L1 compression fx, pain management 
+with
+lidoderm oxy prn.
+
+# cough: improved.  likely allergic rhinitis. has seen ENT/pulm.
+cough gets better with chemotherapy and associated steroids.
+Viral resp swabs neg. Continue montelukast, rhinocort, 
+combivent,
+anti-allergy medication (uses zyrtec at home, allegra ordered
+here), tessalon perles, robitussin a-c.
+
+# Mesenteric vein thrombus. Lovenox 60mg BID until plt < 50k,
+then daily dosing. 
+
+# Splenic infarction: During prior ___ ___ 
+admission, patient was found to have splenic infarcation due to 
+progression of known hepatosplenic thrombotic phenomenon for 
+which her Lovenox was converted to BID dosing. 
+
+# Schizophrenia: Symptoms currently controlled with haldol 10mg
+daily, klonopin 1mg QHS, sertraline 100mg daily. Sister is
+caregiver and will help her outpatient once discharged. Follows
+with outpt psychiatrist.
+
+# Hypothyroidism: continue levothyroxine.  
+
+# Overactive bladder. To continue tolterodine 2mg BID in house 
+as prior. Using long acting prep at home, unavailable here.
+
+# Prophylaxis: 
+-viral: acyclovir 
+-PCP: atovaquone
+
+# F/E/N: replace electrolytes prn. IVF as ordered.
+# Access: L PICC
+# code status: Full
+# dispo: home, f/u outpatient ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acyclovir 400 mg PO Q8H 
+2. Atovaquone Suspension 1500 mg PO DAILY 
+3. ClonazePAM 0.5 mg PO DAILY 
+4. Docusate Sodium 100 mg PO BID 
+5. Doxycycline Hyclate 100 mg PO Q12H 
+6. Haloperidol 10 mg PO DAILY 
+7. Levothyroxine Sodium 50 mcg PO DAILY 
+8. Montelukast 10 mg PO DAILY 
+9. Pantoprazole 40 mg PO Q24H 
+10. Senna 8.6 mg PO BID 
+11. Sertraline 100 mg PO DAILY 
+12. Simethicone 40-80 mg PO QID:PRN bloating/gas 
+13. Cetirizine 10 mg oral daily 
+14. Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H 
+15. Tolterodine 4 mg PO DAILY 
+16. Filgrastim 300 mcg SC Q24H 
+17. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+18. Enoxaparin Sodium 60 mg SC DAILY 
+19. Maalox/Diphenhydramine/Lidocaine 30 mL PO QID 
+
+ 
+Discharge Medications:
+1. Vancomycin 1250 mg IV Q 12H 
+RX *vancomycin 500 mg 2.5 tabs IV twice a day Disp #*120 Vial 
+Refills:*0
+2. ertapenem 1 gram injection daily Duration: 4 Weeks 
+RX *ertapenem [Invanz] 1 gram 1 gram IV daily Disp #*30 Vial 
+Refills:*0
+3. Acyclovir 400 mg PO Q8H 
+4. Atovaquone Suspension 1500 mg PO DAILY 
+5. ClonazePAM 0.5 mg PO DAILY 
+6. Docusate Sodium 100 mg PO BID 
+7. Filgrastim 300 mcg SC Q24H 
+8. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+9. Haloperidol 10 mg PO DAILY 
+10. Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H 
+11. Levothyroxine Sodium 50 mcg PO DAILY 
+12. Maalox/Diphenhydramine/Lidocaine 30 mL PO QID 
+13. Montelukast 10 mg PO DAILY 
+14. Pantoprazole 40 mg PO Q24H 
+15. Senna 8.6 mg PO BID 
+16. Sertraline 100 mg PO DAILY 
+17. Simethicone 40-80 mg PO QID:PRN bloating/gas 
+18. Tolterodine 4 mg PO DAILY 
+19. Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine [Lidoderm] 5 % (700 mg/patch) 1 patch every 12 
+hours daily Disp #*30 Patch Refills:*0
+20. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 6 hours as 
+needed Disp #*180 Tablet Refills:*0
+21. Cetirizine 10 mg oral daily 
+22. Enoxaparin Sodium 60 mg SC Q12H 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Lymphoma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to receive chemotherapy. You tolerated this 
+well. You will continue two antibiotics at home and ___ will be 
+visiting you to help you with your line care and antibiotic 
+treatment. You will follow up in clinic twice weekly, your next 
+follow up is next ___ as stated below. Please do not 
+hesitate to call in the interm with any questions or concerns, 
+especially if you develop fevers.
+ 
+Followup Instructions:
+___

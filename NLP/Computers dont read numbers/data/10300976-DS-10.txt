@@ -1,0 +1,254 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+foot pain
+ 
+Major Surgical or Invasive Procedure:
+Toe amputation
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with a PMH of DM2 (on insulin),
+HTN/HLD, Hx of stroke, GERD, Prostate CA s/p XRT, Hx of L ___ 
+toe
+amputation in ___, but otherwise generally healthy sent in
+from ___ clinic with likely L ___ toe osteomyelitis,
+erythema and edema of entire left leg.  He presented to clinic
+with a new wound of the left second toe. Patient and family 
+first
+noticed new wound last ___ but they believe it has been
+present for longer. He reports pain in the leg for the past 3
+days. Patient has noticed some drainage but denies any 
+purulence.
+His only symptom at this moment is increased pain. He overall
+feels well, he denies any fevers, chills, nausea, vomiting, and
+his PO intake has been normal.   
+   
+In the ED, initial VS were 97.8 75 150/66 18 100% RA.  Labs
+notable for no leukocytosis or left shift, BUN/Cr ___
+(baseline Cr 1.0-1.2), lytes WNL, Lactate 1.3.  Arterial duplex
+studies were performed (report pending).  LENIs were performed
+and were negative for LLE DVT.  CXR was performed and revealed
+RLL opacity concerning for pneumonia.  Foot XRs were performed
+and showed cortical irregularity concerning for acute
+osteomyelitis.  L ___ toe wound culture was obtained; no PMNs
+were seen but GPCs in pairs and clusters were seen on gram 
+stain.
+BCx were collected x2, the patient was started on vancomycin and
+was admitted.  
+
+On arrival to the floor, the patient was comfortable and had no
+complaints.  Of note, he denied any cough, shortness of breath,
+or sputum production.
+
+ROS: A 10-point review of systems was performed and was negative
+with the exception of those systems noted in the HPI. 
+
+ 
+Past Medical History:
+HTN
+hyperlipidemia
+GERD
+hyperparathyroidism
+"congentital retinal anomaly"
+cataracts
+DM, poor control
+stroke
+sciatica
+Anemia
+B12 deficiency
+Prostate cancer s/p external beam radiation and Zomeda
+melanoma resected from the left leg
+ 
+Social History:
+___
+Family History:
+- Daughter with diabetes. No family history of stroke.
+ 
+Physical Exam:
+VITALS:  98.7 PO 158 / 76 72 18 95 Ra 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs.  Left lower extremity
+with moderate amount of pitting edema to the knee, no edema on
+the R.  No calf tenderness.  Toe dressing not taken down;
+clean/dry/intact.  ___ are not palpable on the L.
+SKIN: No rashes or ulcerations noted on exposed skin
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 11:40AM BLOOD WBC-7.8 RBC-4.15* Hgb-11.1* Hct-35.9* 
+MCV-87 MCH-26.7 MCHC-30.9* RDW-12.7 RDWSD-39.9 Plt ___
+___ 06:55AM BLOOD WBC-7.5 RBC-3.87* Hgb-10.3* Hct-33.3* 
+MCV-86 MCH-26.6 MCHC-30.9* RDW-12.6 RDWSD-39.4 Plt ___
+___ 11:40AM BLOOD Glucose-125* UreaN-34* Creat-1.2 Na-141 
+K-4.3 Cl-102 HCO3-26 AnGap-13
+___ 11:40AM BLOOD Calcium-8.7 Phos-3.6 Mg-2.4
+___ 11:50AM BLOOD Lactate-1.3
+
+CXR:
+IMPRESSION: 
+ 
+Right lower lobe opacity, worrisome for pneumonia.  Recommend 
+followup to
+resolution.
+
+art duplex:
+IMPRESSION: 
+ 
+Poor quality study.  Color Doppler flow seen in the left 
+posterior tibial and
+left peroneal artery, with poor characterization of the left 
+anterior tibial
+artery.
+ 
+RECOMMENDATION(S):  Consider alternative imaging modality to 
+further
+characterize distal left lower extremity arteries as clinically 
+indicated
+
+ABI:
+IMPRESSION: 
+ 
+Evidence of arterial occlusive disease the distal lower 
+extremities
+bilaterally.
+Compared to prior in ___ findings are similar.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with a PMH of DM2 (on insulin), 
+HTN/HLD, Hx of stroke, GERD, Prostate CA s/p XRT, Hx of L ___ 
+toe amputation in ___, sent in from ___ clinic with 
+acute osteomyelitis of the L ___ toe.
+
+Acute L ___ toe osteomyelitis:
+PVD:
+Supported by ulcer probing to bone on exam and finding of 
+cortical irregularity on XR.  Podiatry following, s/p toe 
+amputation ___. Path and micro pending on discharge.  Podiatry 
+felt that they got good margins as they amputated well beyond 
+infected area.  ABI and NIAS reviewed and no interventions 
+required at this time.  Podiatry felt comfortable with discharge 
+home on a short course of antibiotics and will review the final 
+pathology on follow up.  He was discharged on Augmentin x7 days, 
+with wound care.  He may follow up with vascular as well pending 
+his wound healing for angiogram,
+ 
+Abnormal CXR:
+Patient is completely without pulmonary symptoms to suggest 
+pneumonia; he is afebrile and without a leukocytosis or 
+neutrophilia, no cough. 
+- Repeat CXR in 6 weeks to assess for resolution; if persists, 
+would obtain CT chest. PCP ___. 
+
+Type II Diabetes Mellitus with vascular complications
+Outpatient A1Cs in the ___ range, appropriate for someone his 
+age.  FSBG well controlled on slightly lower home lantus dose
+- reduced lantus to 8units, will resumed home dose on DC given 
+adequate FSBG 
+
+Anemia of chronic disease
+Stable from prior, likely anemia of inflammation
+
+Hypertension 
+- amlodipine/lisinopril
+- Resumed Lasix on DC
+
+Overactive bladder
+- hold home trospium (non formulary), resumed on DC
+
+Hypothyroidism:
+- Continuedd home Levothyroxine Sodium 25 mcg PO DAILY 
+
+Dyslipidemia
+- Continued atorvastatin 
+
+Cardiovascular prevention / PVD / Hx of stroke
+- hold full-dose aspirin, resumed on DC
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. amLODIPine 7.5 mg PO DAILY 
+2. Aspirin 325 mg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Atorvastatin 40 mg PO QPM 
+5. Furosemide 20 mg PO DAILY 
+6. trospium 20 mg oral DAILY 
+7. Glargine 10 Units Bedtime
+8. Levothyroxine Sodium 25 mcg PO DAILY 
+9. Cyanocobalamin 1000 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 7 Days 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth twice a day Disp #*12 Tablet Refills:*0 
+3.  Glargine 10 Units Bedtime 
+4.  amLODIPine 7.5 mg PO DAILY  
+5.  Aspirin 325 mg PO DAILY  
+6.  Atorvastatin 40 mg PO QPM  
+7.  Cyanocobalamin 1000 mcg PO DAILY  
+8.  Furosemide 20 mg PO DAILY  
+9.  Levothyroxine Sodium 25 mcg PO DAILY  
+10.  Lisinopril 40 mg PO DAILY  
+11.  trospium 20 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+acute left toe osteomyelitis
+PVD
+DM2
+Anemia
+HTN
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted for an infection in your left foot.  Your toe 
+was amputated by podiatry with good result.  You were also seen 
+by the vascular team.  It will be important to follow up as 
+scheduled with the Podiatrists, continue wound care of your 
+foot, and take all medications as prescribed
+ 
+Followup Instructions:
+___

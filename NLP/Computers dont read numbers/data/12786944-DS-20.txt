@@ -1,0 +1,444 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Fish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lower back pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old male with PSC cirrhosis on the transplant list, 
+portal vein thrombosis, leukocytoclastic vasculitis, and recent 
+admission for chostrochondritis is admitted from clinic for back 
+pain.    
+.  
+He was discharged on ___, and the patient notes that by 
+___ he had developed back pain, that was more severe than his 
+usual baseline. He notes the pain as "throbbing" in the center 
+of his back that radiates around laterally.  It does not radiate 
+one direction in particular. He notes he has been having regular 
+bowel movements (increased his lactulose recently).  He denies 
+any association of the pain with food, no N/V.  No dysuria, 
+hematuria.  He has been radiating normally.  He has had some 
+occasional chills, but no fevers, not worsening recently, and no 
+cough.  No blood in his stool.  He notes his rash has worsened 
+recently, so his prednisone was increased.  He has had two 
+peracenteses within the last two days (once yesterday) that were 
+negative. The pain continues.  He has been calling clinic and 
+PCP frequently requesting pain medication. He states "I like 
+that morphine."  He denies any weakness, and denies 
+incontinence.  He notes chronic dyspnea on exertion that has not 
+changed recently.
+.
+A review of systems is otherwise negative
+
+ 
+Past Medical History:
+- Cirrhosis c/b ascites, encephalopathy SBP, and bleeding 
+esophageal varices, on transplant list  
+- Primary sclerosing cholangitis, dx ___  
+- portal vein thrombosis, on warfarin, dx ___  
+- failed TIPS attempt ___  
+- History of UGIB in ___  
+- HCV: by history, had positive HCV with HCV VL in ___, but on 
+follow up cleared HCV spontaneously  
+- Horseshoe kidney w/intermittent renal insufficiency  
+- Distant history of polysubstance abuse  
+- History of dysphagia with normal barium swallow on ___  
+- Typical Angina  
+- Chostrochondritis ___
+- Depression  
+- Back pain  
+- Sleep apnea  
+
+ 
+Social History:
+___
+Family History:
+No pertinent family history, including PSC, liver disease, or 
+other gastrointestinal disease. (Has identical twin brother 
+without above conditions). Grandfather with diabetes.  
+
+ 
+Physical Exam:
+Adm:
+Vitals: 97.3 120/79 HR 68, O2 sat not recorded.  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera icteric, MMM, OP clear  
+Lungs: Clear b/l  
+CV: RRR, no excess sounds appreciated.
+Abdomen: Distended, non-tender to palpation, not tense. +CVA 
+tenderness (equal b/l)
+Ext: Warm, 2+ edema to the knees B/L
+Back: no obvious deformity. Tenderness to palpation over all 
+lumbosacral vertebrae.
+Skin: palmar erythema, b/l petichiae over lower extremities, 
+non-palpable
+Neuro: Str ___ b/l.  Sensation intact to light touch bl.  
+Gait:  Ambulates well with cane.
+.
+Discharge:
+VS: Afebrile. VSS, HR ___.
+General: Alert, oriented, no acute distress  
+HEENT: Sclera icteric, MMM, OP clear  
+Lungs: Clear b/l  
+CV: RRR, no excess sounds appreciated.
+Abdomen: Distended, non-tender to palpation, not tense. 
+Ext: Warm, 2+ edema to the knees B/L
+Back: no obvious deformity. Tenderness to palpation over all 
+lumbosacral vertebrae. Significant pain when twisting upper 
+torso (both directions)
+Skin: palmar erythema, b/l petichiae over lower extremities, 
+non-palpable, non-tender
+Neuro: Str ___ b/l.  Sensation intact to light touch bl.  No 
+asterixis
+Gait:  Ambulates well with cane (baseline)
+
+ 
+Pertinent Results:
+Adm labs:
+
+___ 03:45PM BLOOD WBC-12.9* RBC-3.92* Hgb-10.5* Hct-32.7* 
+MCV-83 MCH-26.9* MCHC-32.3 RDW-24.2* Plt Ct-87*
+___ 03:45PM BLOOD Neuts-90.2* Lymphs-7.1* Monos-2.2 Eos-0.4 
+Baso-0.1
+___ 03:45PM BLOOD ___ PTT-30.2 ___
+___ 03:45PM BLOOD Glucose-199* UreaN-24* Creat-1.1 Na-130* 
+K-5.2* Cl-94* HCO3-26 AnGap-15
+___ 03:45PM BLOOD ALT-94* AST-102* AlkPhos-296* 
+TotBili-5.5*
+___ 03:45PM BLOOD Albumin-4.0 Calcium-9.0 Phos-3.7 Mg-2.0
+.
+
+___ 03:45PM BLOOD ___ PTT-30.2 ___
+___ 06:00AM BLOOD ___ PTT-32.7 ___
+___ 06:30AM BLOOD ___ PTT-35.0 ___
+.
+___ 06:00AM BLOOD C3-59* C4-7*
+___ 06:00AM BLOOD CRP-28.4*
+___ 06:00AM BLOOD Lipase-52
+___ 06:00AM BLOOD ESR-5
+.
+
+___ 03:33PM ASCITES WBC-295* RBC-1265* Polys-31* Lymphs-38* 
+Monos-22* Mesothe-7* Other-2*
+___ 03:33PM ASCITES TotPro-0.2 Glucose-157 LD(LDH)-50 
+Albumin-0.2
+.
+___ 06:19PM URINE Color-Yellow Appear-Clear Sp ___
+___ 06:19PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG
+___ 06:19PM URINE RBC-<1 WBC-<1 Bacteri-FEW Yeast-NONE 
+Epi-0
+___ 06:19PM URINE CastHy-5*
+___ 06:19PM URINE Hours-RANDOM UreaN-698 Creat-75 Na-29 
+K-53 Cl-53 TotProt-8 Prot/Cr-0.1
+.
+MICRO:  ALL NGTD AT TIME OF DISCHARGE
+___ FLUID RECEIVED IN BLOOD CULTURE BOTTLES 
+Fluid Culture in Bottles-PRELIMINARY INPATIENT 
+___ PERITONEAL FLUID GRAM STAIN-FINAL; FLUID 
+CULTURE-PRELIMINARY; ANAEROBIC CULTURE-PRELIMINARY INPATIENT 
+___ BLOOD CULTURE Blood Culture, NGTD 
+___ BLOOD CULTURE Blood Culture, NGTD
+.
+Imaging:
+Images:  
+___ Lumbo-sacral plain films: There are five non-rib-bearing 
+vertebral bodies. Vertebral body heights are relatively flat and 
+slightly bullet-shaped. No frank compression fracture is 
+detected. Disc heights are preserved, except for mild narrowing 
+at L1 through L3. No spondylolisthesis is detected. Mild facet 
+arthrosis is present.  Compared with ___ and allowing for 
+technical differences, I doubt significant interval change. 
+Rounded density overlying the upper left SI joint likely 
+represents a bridging osteophyte. 
+  IMPRESSION: No acute fracture detected in the lumbar spine. 
+Background degenerative changes are similar to ___ 
+.
+___ CT Abdomen:
+1. No signs of bleeding are identified. 
+2. Liver cirrhosis with secondary portal hypertension signs that 
+include splenomegaly and portosystemic shunts and ascites. 
+3. Stable portal vein thrombus. 
+.
+___ CXR: Known right aortic arch with correspondent asymmetry 
+of the 
+mediastinum. No pathologic process in the lung parenchyma, 
+notably no 
+pneumonia. No evidence of pleural effusions 
+.
+Discharge labs:
+
+___ 06:30AM BLOOD WBC-13.7* RBC-3.66* Hgb-9.7* Hct-31.3* 
+MCV-86 MCH-26.6* MCHC-31.0 RDW-24.5* Plt Ct-76*
+___ 06:30AM BLOOD Neuts-84* Bands-0 Lymphs-4* Monos-8 Eos-4 
+Baso-0 ___ Myelos-0
+___ 06:30AM BLOOD Hypochr-3+ Anisocy-2+ Poiklo-1+ 
+Macrocy-2+ Microcy-1+ Polychr-NORMAL Target-OCCASIONAL 
+Bite-OCCASIONAL
+___ 06:30AM BLOOD ___ PTT-35.0 ___
+___ 06:30AM BLOOD Glucose-141* UreaN-17 Creat-0.9 Na-130* 
+K-4.7 Cl-96 HCO3-25 AnGap-14
+___ 06:30AM BLOOD ALT-112* AST-112* AlkPhos-263* 
+TotBili-4.9*
+___ 06:30AM BLOOD Calcium-8.7 Phos-2.1* Mg-2.1
+ 
+Brief Hospital Course:
+SUMMARY:  ___ year old male with PSC cirrhosis on the transplant 
+list, portal vein thrombosis, leukocytoclastic vasculitis, and 
+recent admission for chostrochondritis admitted from clinic for 
+back pain. 
+.  
+# Back pain:  Extensive work-up negative, with no evidence of 
+fracture, infection.  No neurological compromise to suggest cord 
+involvement.  Most likely to be musculoskeletal sprain/strain 
+given clinical picture, including positional nature, improvement 
+with lidoderm patch and heat packs, and chronically distended 
+abdomen which likely causes increased strain on his lower back.  
+ 
+.
+# Leukocytosis:  This was a new finding for the patient.  An 
+infectious work-up was negative, incluidng UA, BCx, CXR, and 
+ascites negative for SBP.  Most likely to represent 
+glucocorticoid effect, and should be followed up as an 
+outpatient.  Pain was managed with oxycodone, heat packs, 
+lidoderm patches (12 hours on, 12 hours off), and tylenol.  
+Standing tylenol was stopped for LFT elevations beyond baseline.
+.
+#PSC cirrhosis: Complicated by portal vein thrombosis, varices, 
+refractory ascites, SBP.  500cc paracentesis done on ___ 
+negative for SBP.  Continued Ciprofloxacin for SBP prophylaxis; 
+lactulose, rifaximin, ursodiol, and cholestryramine.  Regarding 
+diuretics, spironolactone was continued, but lasix was stopped, 
+and torsemide started.  This change was made due to possibility 
+of lasix leading to the patient's leukocytoclastic vasculitis 
+(see below).  
+.
+#Portal vein thrombosis: On coumadin: INR subtherapeutic on 
+admission:
+INR 1.7 --> given 2mg
+INR 1.6 --> given 3mg
+INR 1.9 --> given 2mg
+Next INR due ___.
+.  
+#Petichiae: Patient with leukocytoclastic vasculitis.  It is 
+possible that the petichiae this admission are secondary to 
+thrombocytopenia and liver disease, however could not exclude 
+LCV.  The patient's LCV has been refractory to prednisone, with 
+recurrence of the lesions when dose gets to 25mg daily.  
+Rheumatology was consulted, and recommended a slower taper (40mg 
+x1wk; 35mg x1wk; 30mg x1wk; 25mg x1wk, etc).  They did not feel 
+a biologic steroid-sparing agent was indicated, in this patient 
+with chronic liver disease.  It was felt on a previous admission 
+that cephalosporins were the triggering medication.  After a 
+review of the literature, lasix is another potential culprit 
+medication.  Subsequently, lasix was stopped and torsemide 
+started for diuresis.  Other etiologies like cryoglobulinemia, 
+ANCA + vasculitidies were ruled out on previous admission.  It 
+was not felt by the primary team or by rheumatology that there 
+was any connection between the vasculitis and the back pain.  
+C3, C4, ESR, CRP were checked and were at patient's baseline.  
+Given the patient's potential reaction to lasix, Pentamadine was 
+used for PCP ___ (1 dose given on ___ in lieu of 
+bactrim.
+.
+# ___:  Patient had transient elevation in creatinine that 
+improved back to baseline Cr 0.8-0.9 without significant 
+intervention.  FeUrea 42% was not particularly suggestive of 
+either pre-renal or intrinsic renal cause.
+.
+# Transaminitis: Chronic, secondary to PSC.  LFTs were increased 
+beyond patient's baseline this admission, but stable at the time 
+of discharge.  Likely medication effect, and will need outpt 
+follow-up.
+.
+# Hyponatremia: Patient was placed on a PO fluid restriction, 
+and sodium was stable at the time of discharge
+.
+# Thrombocytopenia: likely splenic sequestration. Stable.
+# Anemia:  Chronic and stable. No evidence for blood loss during 
+this admission.
+# Depression: continued citalopram.
+# GERD: Continued PPI
+.  
+===========  
+TRANSITIONAL ISSUES:
+-Lasix stopped; torsemide started 
+-Lidocaine patches started 
+-lactulose increased
+-LFTs and WBC need to be trended closely following this 
+admission
+-Slow prednisone taper, starting at 40mg daily and tapering by 
+5mg each week 
+___ INR 1.7 --> given 2mg
+___ INR 1.6 --> given 3mg
+___ INR 1.9 --> given 2mg
+Next INR due ___. Goal INR ___ for portal vein 
+thrombosis
+-Confirm ciprofloxacin dosing for SBP prophylaxis
+ 
+Medications on Admission:
+Cholestyramine Light 4 gram twice daily  
+Ciprofloxacin 250mg daily 
+Citalopram 40mg daily 
+Cyclobenzaprine 5mg qHS 
+Furosemide 80 mg daily
+Gabapentin 200mg three times daily 
+Ketoconazole 2% cream twice daily PRN rash 
+Lactulose 30 TID
+Prochlorperazine 5mg every 6 hours PRN nausea
+Midodrine 10mg three times daily 
+Zofran 4mg daily 
+Oxycodone ___ every ___ hours PRN pain 
+Pantoprazole 40mg daily 
+Prednisone 40mg daily
+Rifaximin 550mg twice daily 
+Spironolactone 200mg daily 
+Sucralfate 1 gram four times daily 
+Trazodone 50mg qHS 
+Viscous lidocaine 2% 1mL three times daily PRN mouth pain 
+Simethicone 80mg four times daily PRN gas  
+Ursodiol 500mg three times daily 
+Coumadin 2mg WThF; 1mgSaSu
+Calcium 500mg daily 
+Magnesium oxide 400mg twice daily 
+Multivitamin chewable daily 
+ 
+Discharge Medications:
+1. cholestyramine (with sugar) 4 gram Packet Sig: One (1) Packet 
+PO BID (2 times a day).  
+2. ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours).  
+3. citalopram 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+4. cyclobenzaprine 10 mg Tablet Sig: 0.5 Tablet PO HS (at 
+bedtime) as needed for muscle spasm.  
+5. torsemide 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+6. gabapentin 100 mg Capsule Sig: Two (2) Capsule PO Q8H (every 
+8 hours).  
+7. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO QID (4 
+times a day): To ensure ___ bowel movements daily, take extra 
+dose(s) if you are confused.  
+8. prochlorperazine maleate 5 mg Tablet Sig: One (1) Tablet PO 
+every six (6) hours as needed for n/v.  
+9. midodrine 5 mg Tablet Sig: Two (2) Tablet PO TID (3 times a 
+day).  
+10. ondansetron 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO once a day as needed for n/v.  
+11. oxycodone 5 mg Tablet Sig: Three (3) Tablet PO Q4H (every 4 
+hours) as needed for pain: Do not drive, operate machinery, or 
+consume alcohol while taking this medication.
+Disp:*30 Tablet(s)* Refills:*0*
+12. prednisone 20 mg Tablet Sig: Two (2) Tablet PO once a day 
+for 4 days: Take 40mg for 4 more days, then decrease total daily 
+dose by 5mg per week.  
+13. prednisone 5 mg Tablet Sig: qs Tablet PO According to taper: 
+Start at 40mg for 4 more days, then decrease total dose by 5mg 
+weekly.
+Disp:*60 Tablet(s)* Refills:*0*
+14. rifaximin 550 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+15. spironolactone 100 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+16. sucralfate 1 gram Tablet Sig: One (1) Tablet PO QID (4 times 
+a day).  
+17. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for insomnia.  
+18. ursodiol 250 mg Tablet Sig: Two (2) Tablet PO TID (3 times a 
+day).  
+19. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable 
+Sig: One (1) Tablet, Chewable PO DAILY (Daily).  
+20. magnesium oxide 400 mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+21. multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+22. pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+23. simethicone 80 mg Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO QID (4 times a day) as needed for gas.  
+24. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day) as needed for pain: Do not take more than 2 grams 
+per day.  
+25. lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+Two (2) Adhesive Patch, Medicated Topical DAILY (Daily): 12 
+hours on, 12 hours off (you should not have any patch on for 12 
+hours per day).
+Disp:*45 Adhesive Patch, Medicated(s)* Refills:*2*
+26. warfarin 2 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___: Please check your INR on ___ and re-dose per their 
+recommendations.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Musculoskeletal back strain/sprain causing severe pain
+Primary sclerosing cholangitis
+Cirrhosis
+Portal vein thrombosis
+Leukocytoclastic Vasculitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Ambulates with cane.
+
+ 
+Discharge Instructions:
+You were admitted for back pain.  It is likely that this pain is 
+caused by an injury to the muscles of your lower back.  It is 
+important to exercise daily, which is key in the healing process 
+(which may take several weeks).  In addition to the lidoderm 
+patches (12 hours on, 12 hours off each day) you should use 
+heating pads to help with the pain.
+.
+We also did a paracentesis and removed the fluid from your 
+belly.
+.
+Please follow-up with your outpatient physicians as scheduled 
+below
+.
+Please note the following medication changes:
+-STOP TAKING LASIX
+-START TAKING TORSEMIDE (this is also a water pill, we are 
+changing this medication because lasix can occasionally cause 
+your type of skin rash)
+-START using lidoderm patches - please make sure you use them as 
+prescribed - 12 hours on, then 12 hours off.
+-INCREASE lactulose to 4 times daily to make sure you have ___ 
+bowel movements daily
+-TAKE PREDNISONE ACCORDING TO THE FOLLOWING:
+-40mg for 4 more days (until ___
+-On ___, take 35mg for 1 week
+-Then take 30mg for 1 week
+-Then 25mg for 1 week
+-Then 20mg for 1 week
+-Then 15mg for 1 week
+-Then 10mg for 1 week
+-Then 5mg for 1 week and speak with your outpatient team
+.
+Please take 2mg coumadin daily and check your INR on ___ and 
+follow their recommendations regarding further dosing.
+ 
+Followup Instructions:
+___

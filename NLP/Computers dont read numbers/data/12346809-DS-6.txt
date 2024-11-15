@@ -1,0 +1,305 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Darvon / Darvocet A500 / Iodine-Iodine Containing / 
+Penicillins / Tegretol
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain s/p EGD and variceal banding 
+ 
+Major Surgical or Invasive Procedure:
+EGD on ___ ___. 
+
+ 
+History of Present Illness:
+___ with decompensated NASH cirrhosis, history of non hodgkin's 
+lymphoma with liver metastases s/p autologous stem cell 
+tranaplant presenting with chest pain s/p prophylactic 
+endoscopic band ligation yesterday. 5 bands were placed for 
+large esophageal varices with high risk stigmata. Pt says chest 
+pain started in PACU post procedure, and continued at home, not 
+relieved by home omeprazole or oxycodone, worsened by attempting 
+to take p.o. Denies prior episodes, pleuritic component. Has had 
+some mild nausea. 
+ 
+No SOB, no fevers/chills. Pt has had chest pain in the past, 
+more left sided and different than this current pain, and she 
+had a normal stress test in ___.  
+ 
+ACS was ruled out based on EKG and negative cardiac enzymes. 
+Labs were notable for ALT/AST 41/57, HCT 34.1. She was seen by 
+hepatology in ED, with ddx esophageal spasm, r/o perforation. CT 
+chest was negative for esophageal perforation and she was 
+admitted for pain control.  
+
+This morning, pt reports sternal chest pain ___ that worsens 
+with eating. Pain has stayed the same in severity.  
+ 
+  
+ 
+Past Medical History:
+PMH: 
+stage IV large cell non-Hodgkin's lymphoma with mets to the 
+liver in ___ for which she received a stem cell transplant, 
+insulin-dependent DM, 
+esophageal varices stage III, 
+degenerative joint disease, 
+NASH cirrhosis
+
+PSH: 
+lumbar laminectomy in ___, coccygectomy in ___, cervical 
+fusion in ___, BSO in approximately ___, lap-> open 
+cholecystectomy in ___, tonsillectomy in ___.
+ 
+Social History:
+___
+Family History:
+Mother had hepatitis C and died from cirrhosis.  Father had 
+testicular cancer at an elderly age and died from a stroke.  
+There is significant
+diabetes in her family history.
+
+No family history of colon cancer or IBD
+
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+Vitals: T: 98 BP: 90/49 P: 81 R: 18 O2: 97%  
+General: in moderate distress given chest pain, pt with Rt 
+ptosis, A&Ox3, no respiratory distress,   
+HEENT: MMM, NCAT, no pharyngeal erythema/exudate    
+Neck: distended neck veins, supple, no LAD
+Lungs: CTAB, no wheezes, crackles, or rhonchi, no crepitus in 
+the anterior chest wall
+CV:  RRR, no m/r/g, +S1/S2
+Abdomen: distended, hepatomegaly, +BSx4, fluid wave present. 
+Ext: no edema
+Neuro: Rt ptosis, CN II-XII intact, sensory and motor intact 
+globally
+
+PHYSICAL EXAM ON DISCHARGE:
+
+Vitals: T: 98.7 BP: 95/54 P: 88 R: 18 O2: 98%  
+General: NAD, A&Ox3, no respiratory distress,   
+HEENT: MMM, NCAT, no pharyngeal erythema/exudate    
+Neck: distended neck veins, supple, no LAD
+Lungs: CTAB, no wheezes, crackles, or rhonchi, no crepitus in 
+the anterior chest wall
+CV:  RRR, no m/r/g, +S1/S2
+Abdomen: distended, hepatomegaly, +BSx4, fluid wave present. 
+Ext: no edema
+Neuro: Rt ptosis, CN II-XII intact, sensory and motor intact 
+globally
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+___ 11:15PM   cTropnT-<0.01
+___ 08:34PM URINE  HOURS-RANDOM
+___ 08:34PM URINE  GR HOLD-HOLD
+___ 08:34PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 08:34PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 05:30PM   GLUCOSE-196* UREA N-8 CREAT-0.6 SODIUM-137 
+POTASSIUM-4.1 CHLORIDE-96 TOTAL CO2-29 ANION GAP-16
+___ 05:30PM   estGFR-Using this
+___ 05:30PM   ALT(SGPT)-41* AST(SGOT)-57* ALK PHOS-208* TOT 
+BILI-1.0
+___ 05:30PM   LIPASE-47
+___ 05:30PM   cTropnT-<0.01
+___ 05:30PM   ALBUMIN-3.7
+___ 05:30PM   WBC-4.6 RBC-4.05* HGB-11.5* HCT-34.1* MCV-84# 
+MCH-28.5 MCHC-33.9 RDW-14.4
+___ 05:30PM   NEUTS-57.2 ___ MONOS-9.4 EOS-4.2* 
+BASOS-0.7
+___ 05:30PM   PLT COUNT-117*
+
+LABS ON DISCHARGE:
+___ 07:10AM BLOOD WBC-3.3* RBC-3.68* Hgb-10.4* Hct-31.7* 
+MCV-86 MCH-28.3 MCHC-32.9 RDW-15.2 Plt Ct-83*
+___ 07:10AM BLOOD Plt Ct-83*
+___ 07:10AM BLOOD Glucose-78 UreaN-7 Creat-0.6 Na-139 K-3.5 
+Cl-102 HCO3-30 AnGap-11
+___ 07:10AM BLOOD ALT-28 AST-38 AlkPhos-174* TotBili-1.5
+___ 07:10AM BLOOD Calcium-8.4 Phos-3.2 Mg-2.0
+___ 08:36AM BLOOD %HbA1c-6.9* eAG-151*
+
+IMAGING: 
+CT ABD ___:
+1.  Circumferential thickening about the lower esophagus may 
+represent mural
+thickening from esophagitis versus esophageal varices, but 
+assessment is
+limited on this non-contrast exam. No pneumomediastinum, fluid 
+collection, or
+adjacent stranding in the fat planes around the lower esophagus 
+to suggest
+perforation. Given that the study is limited by the lack of oral 
+contrast and
+since there is no obvious gross esophageal perforation, further 
+assessment
+with an esophagram using barium oral contrast could be performed 
+if clinical
+concern persists in this patient with iodinated contrast 
+allergy. 
+2.  Fluid in the upper esophagus increases the risk of 
+aspiration.
+3.  6 mm nodule in the right upper lobe was not present in ___. 
+ Follow up in
+6 months is recommended with nonenhanced chest CT.
+
+CXR ___:
+No acute cardiopulmonary abnormality including no definite 
+evidence of
+pneumomediastinum.
+
+ 
+Brief Hospital Course:
+___ with decompensated NASH cirrhosis, history of non hodgkin's 
+lymphoma with liver metastases s/p autologous stem cell 
+tranaplant presenting with epigastric pain following endoscopic 
+band ligation of esophageal varices.  
+ 
+ACUTE DIAGNOSES: 
+#) Epigastric pain: Most likely due to esophageal spasms. 
+Improving with IV dilaudid and lidocaine viscous. ACS was ruled 
+out based on negative EKG and cardiac enzymes. Non-contrast CT 
+did not show any evidence of perforation. PE not concerning for 
+crepitus or respiratory distress.  Gastrografin esophagogram was 
+entertained but never done since pain improved with bowel rest 
+and pain medications. 
+  
+#) Decompensated NASH cirrhosis c/b varices: s/p prophylactic 
+endoscopic band ligation with 5 bands placed. Pt was made NPO 
+given risk for perforation. Carafate and omeprazole was 
+continued. However, when pain improved and pt reported dyspnea, 
+we resumed diuretics at home dose including torsemide and 
+spironolactone. Repeat EGD was recommended in 3 weeks.  
+   
+#) New pulmonary nodule: seen on CT chest on ___ and repeat CT 
+in 6 months was recommended. Pt was aware of this finding. She 
+has undergone PET scan recently and it was negative for active 
+malignancy. Pt to follow up in 6 months.   
+
+CHRONIC ISSUES:
+#) DM type II on insulin pump: last A1C 6.9%. Pt on insulin pump 
+in addition to metformin at home. ___ consult was obtained 
+and recommended reducing basal dose to 2.5 from 3.5 given pt on 
+NPO. Metformin was held through hospitalization. 
+  
+#) Non-hodgkins lymphoma: s/p chemotherapy, autologous 
+transplant.  
+
+TRANSITIONAL ISSUES:
+[] repeat EGD in ___
+[] repeat chest CT in 6 months given new pulmonary nodules 
+[] f/u low blood counts, including plt, WBC, anemia 
+[] f/u with endocrinologist regarding insulin pump settings 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Onglyza (saxagliptin) 2.5 mg Oral daily 
+2. Rifaximin 550 mg PO BID 
+3. MetFORMIN (Glucophage) ___ mg PO DAILY 
+4. Vitamin D 400 UNIT PO DAILY 
+5. Spironolactone 100 mg PO BID 
+6. Torsemide 10 mg PO BID 
+7. Nadolol 40 mg PO BID 
+8. Ursodiol 300 mg PO DAILY 
+9. Cyclobenzaprine 10 mg PO BID:PRN pain 
+10. Levothyroxine Sodium 50 mcg PO DAILY 
+11. Omeprazole 40 mg PO DAILY 
+12. Diazepam 2 mg PO DAILY prn anxiety 
+13. Sucralfate 1 gm PO QID 
+14. Ondansetron 4 mg PO Q6 prn  
+15. DiphenhydrAMINE 50 mg PO HS:PRN itching 
+16. Lactulose 100-120 mL PO DAILY 
+17. Magnesium Oxide 800 mg PO BID 
+
+ 
+Discharge Medications:
+1. Cyclobenzaprine 10 mg PO BID:PRN pain 
+2. Diazepam 2 mg PO DAILY prn anxiety 
+3. DiphenhydrAMINE 50 mg PO HS:PRN itching 
+4. Lactulose 100-120 mL PO DAILY 
+5. Levothyroxine Sodium 50 mcg PO DAILY 
+6. Magnesium Oxide 800 mg PO BID 
+7. Nadolol 40 mg PO BID 
+8. Omeprazole 40 mg PO DAILY 
+9. Rifaximin 550 mg PO BID 
+10. Spironolactone 100 mg PO BID 
+11. Sucralfate 1 gm PO QID 
+12. Torsemide 10 mg PO BID 
+13. Ursodiol 300 mg PO DAILY 
+14. Vitamin D 400 UNIT PO DAILY 
+15. MetFORMIN (Glucophage) ___ mg PO DAILY 
+16. Ondansetron 4 mg PO Q6 prn  
+17. Onglyza (saxagliptin) 2.5 mg Oral daily 
+18. Insulin  Pump SC (Self Administering Medication)Insulin 
+Lispro (Humalog)
+
+Basal Rates:
+  Midnight - midnight:  2.5 Units/Hr
+Meal Bolus Rates:
+  Breakfast = 1:2
+  Lunch = 1:2
+  Dinner = 1:2
+  Snacks = 1:2
+High Bolus:
+  Correction Factor = 1:10
+  Correct To ___ mg/dL
+
+MD has ordered ___ consult
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ACUTE DIAGNOSES:
+1. chest pain
+2. esophageal varices
+3. ___ cirrhosis 
+
+CHRONIC DIAGNOSES: 
+1. diabetes 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you here at the ___ 
+___. 
+
+You presented to us with chest pain after undergoing an 
+esophagogastroduodenoscopy (EGD) and banding of your esophageal 
+varices. We ruled out cardiac causes of chest pain based on 
+negative EKG and cardiac enzymes. We ruled out esophageal 
+perforation by doing a CT scan of your chest which was negative 
+for any evidence of perforation. Thus, we think your chest pain 
+was most likely due to spasms after the procedure. Your pain was 
+managed with dialudid and lidocaine. We advanced your diet 
+further based on your tolerance and appetite. 
+
+Please take your medications as instructed. Please follow up 
+with your primary care physician and GI doctors as ___. 
+ 
+Followup Instructions:
+___

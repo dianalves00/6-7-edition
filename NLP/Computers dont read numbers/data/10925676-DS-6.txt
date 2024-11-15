@@ -1,0 +1,215 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo male with history of reactive arthritis and asthma 
+presented to the ED with syncope. He had just finished eating 
+pizza with mango and pulled pork from a new restaurant they 
+tried when he felt that the sides of his face were becoming 
+flushed. Of note, he has had four prior episodes of vasovagal 
+syncope and is anxious about any new symptoms. These vasovagal 
+episodes have always been previously in the setting of alcohol, 
+whereas he does not report alcohol last night. As a result, he 
+went to the bathroom to wet his face and saw that his eyes were 
+red. He thought that he might have been having an allergic 
+reaction so asked his wife for benadryl. However, he then "zoned 
+out" and his head went to the right side with his eyes also 
+deviated to the right. His wife reported "unsettled breathing". 
+He was "out of it" for ___ seconds but then came to. He was 
+sweating and confused for about a minute after he woke up. He 
+felt fatigued and out of it. He reports remembering almost the 
+event with the exception of passing out. His wife reports he was 
+not responsive during this time. He denies CP, SOB, LH, 
+dizziness prior to passing out. There was no tongue biting, 
+drooling, or incontinence during the event. His wife reports 
+that his eyes have been darting around since the event.  
+He has felt fatigued over the past few days. He reports that his 
+reactive arthritis has been worse over the past 10 days with 
+discomfort in his hands, feet, hips and back. He normally does 
+not have neck pain but his neck has been stiff on both sides. He 
+denies recent travel or sick contacts.  
+He was awake when EMS arrived. They reported a BP of 70/30 
+without a palpable radial pulse. They put him on stretcher in 
+reverse trendelenberg and his BP went up to 110s.  
+ 
+Initial VS in the ED 98.3 86 139/73 16 97%. Labs notable for a 
+negative trop x 1, glucose 121, HCT 38.5, but 45% lymphocytes. 
+An EKG done in the ED showed a NSR at 78, with an S wave in II, 
+but normal PR, QRS, and QTc intervals, without evidence of WPW. 
+A CXR prelim read show no acute cardiopulmonary process. Patient 
+was given 1.5 L NS. VS prior to transfer 97.9 71 125/80 18 97% 
+on RA.  
+ 
+On the floor, he denies any current symptoms except for fatigue. 
+ 
+Review of systems: He has been feeling "hazy" the last couple of 
+days, but believes this to be hay fever, otherwise negative 
+unless noted above.  
+ 
+
+ 
+Past Medical History:
+Past Medical History:  
+-Reactive Arthritis with primary involvement of his hands  
+-Hypertension for the past ___ years, unclear what initial workup 
+was done  
+-GERD  
+-Asthma  
+-s/p Appendectomy 
+ 
+Social History:
+___
+Family History:
+Family History: No family history of sudden death in the young 
+or cardiac dz; mom has hx of brain aneurysm. Father with 
+___. Sister with MS.
+ 
+___ Exam:
+VS - Temp 98.0F, BP 104-130/55-74, HR 59-91, R 16, O2-sat 96% RA 
+ 
+General: well appearing male in NAD
+HEENT: PERRL pupils bilaterally 1.5 to 1mm, EOMI, mucus 
+membranes moist, sclera anicteric
+Neck: supple, no JVD, no lymphadenopathy, no thyromegaly  
+CV: RRR, no murmurs, 2+ distal pulses
+Lungs: Nonlabored breathing, CTAB
+Abdomen: +BS, soft, nontender, nondistended
+GU: Deferred
+Ext:  WWP, no edema, no calf swelling/tenderness
+Neuro: A&Ox3, CN III-XII grossly intact, motor ___ throughout,  
+sensation intact, terminal nystagmus bilaterally
+Skin: No rashes, tan
+
+ 
+Pertinent Results:
+___ 09:00PM   ___ PTT-26.1 ___
+___ 09:00PM   WBC-5.4 RBC-4.34* HGB-13.1* HCT-38.5* MCV-89 
+MCH-30.2 MCHC-34.0 RDW-13.2
+___ 09:00PM   NEUTS-46.8* LYMPHS-45.1* MONOS-4.5 EOS-3.1 
+BASOS-0.4
+___ 09:00PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 09:00PM   cTropnT-<0.01
+___ 09:00PM   GLUCOSE-121* UREA N-15 CREAT-1.0 SODIUM-136 
+POTASSIUM-3.9 CHLORIDE-101 TOTAL CO2-24 ANION GAP-15
+___  07:35AM   cTropnT-<0.01
+___  07:35AM   TSH 3.7
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo male with history of 4 prior vasovagal 
+syncopal episodes, HTN, asthma, and reactive arthritis, presents 
+with syncope precipitated by anxiety and heart palpitations vs. 
+possible right head and eye deviation during the episode and 
+question of post-ictal state.
+
+ACTIVE ISSUES:
+
+# Syncope:
+Loss of consciousness was most likely vasovagal syncope in the 
+setting of prior vasovagal episodes and report of anxiety/ 
+palpitations precipitating the event. Orthostatic vitals were 
+taken and demonstrated HR increased >20bpm  and he was given IVF 
+repletion.
+Because of concern for seizure given head and eye deviation and 
+possible post-ictal state/ confusion, he underwent 20 minute EEG 
+which was normal. He had a head CT/CTA which showed "Normal head 
+CTA.  No evidence of aneurysm."
+Work-up of cardiac causes of syncope included normal ECGs, 
+negative troponins x2, no murmur on exam, and confirmation of 
+history of normal echo with PCP in ___. Continuous cardiac 
+monitoring on telemetry was normal.
+   
+INACTIVE ISSUES:
+
+#Reactive Arthritis
+He required tylenol for joint pain during the hospitalization. 
+We continued his home dose of sulfasalazine and ibuprofen.
+
+#GERD
+He had no abdominal pain or heart burn, and we continued his 
+home dose of PPI.
+
+#Asthma
+He had no shortness of breath or wheezing during this 
+hospitalization and did not require albuterol.
+
+TRANSITIONAL ISSUES:
+
+#Hypertension
+Treated with Lisinopril and is likely primary. The flushing and 
+sweating prior to episode and young age were concerning for 
+secondary HTN, so serum metanephrines were sent and were pending 
+at time of discharge. Lisinopril was continued and his blood 
+pressures were <140/80. Please follow up serum metanephrines at 
+next PCP ___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. NexIUM *NF* (esomeprazole magnesium) 40 mg Oral Daily 
+2. Lisinopril 40 mg PO DAILY 
+hold for SBP <100, HR <60 
+3. SulfaSALAzine_ 1000 mg PO BID 
+4. ProAir HFA *NF* (albuterol sulfate) 90 mcg/actuation 
+Inhalation q4h prn sob 
+5. Ibuprofen 600 mg PO BID 
+
+ 
+Discharge Medications:
+1. Lisinopril 40 mg PO DAILY 
+2. SulfaSALAzine_ 1000 mg PO BID 
+3. Ibuprofen 600 mg PO BID 
+4. NexIUM *NF* (esomeprazole magnesium) 40 mg Oral Daily 
+5. ProAir HFA *NF* (albuterol sulfate) 90 mcg/actuation 
+Inhalation q4h prn sob 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Vasovagal syncope
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were admitted to the hospital for loss of consciousness. 
+While you were here, we did several tests to look for the cause 
+of this symptom.
+You received ECGs, which test your heart's rate and rhythm, and 
+they were normal. We spoke to your PCP's office and they have an 
+echocardiogram on file from ___ which showed normal 
+anatomy and function of your heart. 
+You also had a head CT angiogram that was normal with no 
+evidence of aneurysm or lesions.
+You also had an EEG, which looks at your brain waves, that was 
+normal.
+Given these test results and your clinical presentation, the 
+most likely cause of the loss of consciousness is vasovagal 
+syncope.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,242 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PLASTIC
+ 
+Allergies: 
+codeine / aspirin / Tylenol-Codeine #3
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Recurrent right flank hernia
+
+ 
+Major Surgical or Invasive Procedure:
+EXPLORATION RIGHT FLANK WOUND; REMOVAL INFECTION SUTURE; HERNIA 
+REPAIR
+
+ 
+History of Present Illness:
+___ year old female who has a recurrent right flank hernia and is 
+here today for surgical repair.
+ 
+Past Medical History:
+GERD, umbilical hernia s/p repair x4, lumbar disc herniation
+ 
+Social History:
+___
+Family History:
+CAD (father) 
+
+ 
+Physical Exam:
+Physical exam per ___ progress note:
+___ 0730 Temp: 97.7 PO BP: 104/71 HR: 66 RR: 18 O2 sat: 96%
+O2 delivery: RA 
+___ Total Intake: 2845ml PO Amt: 1230ml IV Amt Infused:
+1615ml 
+___ Total Output: 1260ml Urine Amt: 1260ml 
+GEN: A&Ox3, NAD, resting comfortably  
+HEENT: NCAT, EOMI, sclera anicteric  
+CV: RRR  
+PULM: no respiratory distress  
+ABD: soft, NT, ND, no rebound or guarding  
+EXT: warm, well-perfused, no edema  
+PSYCH: normal insight, memory, and mood  
+RIGHT FLANK: Incision shows mild sanguinous drainage, stable 
+from
+postop. Incision is intact. Appropriate pain ___.
+No evidence of hernia recurrence.
+
+ 
+Pertinent Results:
+___ 8:45 am SWAB      RIGHT FLANK SUTURE. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+ 
+Brief Hospital Course:
+The patient was admitted to the plastic surgery service on 
+___ and had an EXPLORATION RIGHT FLANK WOUND; HERNIA REPAIR 
+removal infected suture and mesh.  The patient tolerated the 
+procedure well. 
+ .
+ Neuro: Post-operatively, the patient received IV pain 
+medication with good effect and adequate pain control. When 
+tolerating oral intake, the patient was transitioned to oral 
+pain medications. She was given acetaminophen, IV Toradol and 
+oxycodone on POD#1 but still felt pain was too intense.  The 
+oxycodone was switched to dilaudid which patient found better 
+pain control with.
+ .
+ CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored.
+ .
+ Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored.
+ .
+ GI/GU: Post-operatively, the patient was given IV fluids until 
+tolerating oral intake.  Her diet was advanced when appropriate, 
+which was initially tolerated well. Patient was getting ready to 
+discharge home on POD#2 when she suddenly became nauseous and 
+had 600cc of emesis.  Patient was kept another night for 
+observation.  She was sent for a KUB which showed nonobstructive 
+bowel gas pattern and no evidence of acute abdominal 
+abnormality. Labs were all normal.  She was put back to a clear 
+liquid diet overnight which she tolerated well.  On POD#3, the 
+patient was given a dose of reglan and produced a very large 
+bowel movement.  She was maintained on a bowel regimen. Intake 
+and output were closely monitored. 
+ .
+ ID: Post-operatively, the patient was started on IV cefazolin, 
+then switched to PO cefadroxil for discharge home. The patient's 
+temperature was closely watched for signs of infection. 
+ .
+ Prophylaxis: The patient received subcutaneous heparin during 
+this stay, and was encouraged to get up and ambulate as early as 
+possible. 
+ .
+ At the time of discharge on POD#3, the patient was doing well, 
+afebrile with stable vital signs, tolerating a regular diet, 
+ambulating, voiding without assistance, and pain was well 
+controlled. Right flank incision intact and covered with 
+occlusive dressing.  No evidence of hematoma.  Patient without 
+nausea.
+ 
+Medications on Admission:
+Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze  
+Hydrochlorothiazide 12.5 mg PO DAILY  
+Omeprazole 20 mg PO DAILY  
+Tizanidine 4 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  cefaDROXil 500 mg oral BID 
+RX *cefadroxil 500 mg 1 capsule(s) by mouth twice a day Disp 
+#*28 Capsule Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*14 Capsule Refills:*0 
+4.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every ___ hours 
+Disp #*40 Tablet Refills:*0 
+5.  Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*20 Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*14 Tablet Refills:*0 
+7.  Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze  
+8.  Hydrochlorothiazide 12.5 mg PO DAILY  
+9.  Omeprazole 20 mg PO DAILY  
+10.  Tizanidine 4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1) Right flank wound
+2) Poor pain control
+3) emesis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Personal Care: 
+ 1. You may leave the occlusive dressing on over your incision 
+until your follow up appointment with Dr. ___.
+ 2. You may shower daily. No baths until instructed to do so by 
+Dr. ___. 
+ 3. Wear your abdominal binder.
+ . 
+ Activity: 
+ 1. You may resume your regular diet. 
+ 2. DO NOT lift anything heavier than 5 pounds or engage in 
+strenuous activity until instructed by Dr. ___. 
+ . 
+ Medications: 
+ 1. Resume your regular medications unless instructed otherwise 
+and take any new meds as ordered. 
+ 2. You may take your prescribed pain medication for moderate to 
+severe pain. You may switch to Tylenol or Extra Strength Tylenol 
+for mild pain as directed on the packaging. 
+ 3. Take prescription pain medications for pain not relieved by 
+tylenol.  
+ 4. Take Colace, 100 mg by mouth 2 times per day, while taking 
+the prescription pain medication. You may use a different 
+over-the-counter stool softener if you wish. 
+ 5. Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber. 
+ . 
+ Call the office IMMEDIATELY if you have any of the following: 
+ 1. Signs of infection: fever with chills, increased redness, 
+swelling, warmth or tenderness at the surgical site, or unusual 
+drainage from the incision(s). 
+ 2. A large amount of bleeding from the incision(s) or drain(s). 
+
+ 3. Separation of the incision.
+ 4. Severe nausea and vomiting and lack of bowel movement or gas 
+for several days.
+ 5. Fever greater than 101.5 oF 
+ 6. Severe pain NOT relieved by your medication. 
+ . 
+ Return to the ER if: 
+ * If you are vomiting and cannot keep in fluids or your 
+medications. 
+ * If you have shaking chills, fever greater than 101.5 (F) 
+degrees or 38 (C) degrees, increased redness, swelling or 
+discharge from incision, chest pain, shortness of breath, or 
+anything else that is troubling you. 
+ * Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+ 
+Followup Instructions:
+___

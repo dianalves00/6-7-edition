@@ -1,0 +1,325 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cough, flu like symptoms
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is an ___ yo woman with DM2, CAD, ___ p/w 1 day productive 
+cough (thick, yellow sputum) that kept her up at night, back 
+pain, CP with cough, HA, nausea, inc SOB (has chronic dyspnea). 
+She denies fevers, chills, does acknowledge sore throat, hoarse 
+voice, sob with minimal exertion/conversation, feeling wheezy, 
+frontal HA. She has midline chest pain mostly with coughing but 
+occasionally with deep breath as well. She denies palpitations, 
+nausea, vomiting, abdominal pain, diarrhea, constipation, 
+melena, brbpr, dysuria, hematuria, mylagias, arthralgias, rash, 
+leg swelling, nasal congestion. She has orthopnea (3 pillow) 
+that is stable over time but last night had to sleep upright due 
+to the cough (though did not really sleep at all). She denies 
+PND. She has not had any known ill contacts (has been around 
+children, grandchildren but all reportedly healthy) or recent 
+travel (has only been out to store). She denies prolonged 
+immobility (has chronic leg and back pain that limits ambulation 
+but still 'plays with grand kids' and no long car rides 
+recently). She did get a seasonal flu shot but not H1N1 this 
+year. She does not feel the albuterol neb in ED helped 
+significantly but the supplemental oxygen seems to.
+
+In the ED: VS: 99.4 82 161/75 32 98% on RA->93% on RA->98 on RA 
+3L NC. Baseline 96% on RA. She got 1L NS, albuterol neb, tylenol 
+and osteltamivir.
+
+ROS: 10 point review of systems negative except as noted above.
+ 
+Past Medical History:
+Type II DM
+diastolic CHF
+CAD, s/p angioplasty
+chronic dyspnea, restrictive defect on pft's and decreased DLCO
+right diaphragm paralysis
+hypertension
+hyperlipidemia
+osteoporosis
+chronic back pain
+ 
+Social History:
+___
+Family History:
+One son with type 1 diabetes.
+ 
+Physical Exam:
+VS: T 99.5 HR 79 BP ___ RR 30 Sat 98% 3L NC->97% 2L NC
+Gen: Well appearing woman in mild respiratory distress, 
+tachypneic, some use of accessory muscles to breath, appears 
+younger than stated age
+Eye: extra-occular movements intact, pupils equal round, 
+reactive to light, sclera anicteric, not injected, no exudates
+ENT: mucus membranes moist, no ulcerations or exudates
+Neck: no thyromegally, JVD: flat
+Cardiovascular: regular rate and rhythm, normal s1, s2, no 
+murmurs, rubs or gallops
+Respiratory: Clear to auscultation bilaterally, no wheezes, 
+rales or rhonchi, slightly decreased right base
+Abd: Soft, non tender, non distended, no heptosplenomegally, 
+bowel sounds present
+Extremities: No cyanosis, clubbing, edema, joint swelling
+Neurological: Alert and oriented x3, CN II-XII intact, normal 
+attention, sensation normal, speech fluent, DTR's 2+ patellar
+Integument: Warm, moist, no rash or ulceration  
+Psychiatric: appropriate, pleasant, not anxious
+Hematologic: no cervical or supraclavicular LAD
+ 
+Pertinent Results:
+=====================
+LABORATORY RESULTS
+=====================
+On Admission:
+WBC-18.0*# RBC-4.99 Hgb-13.0 Hct-41.8 MCV-84 RDW-15.4 Plt ___
+---- Neuts-82.8* Lymphs-9.4* Monos-5.6 Eos-1.9 Baso-0.3
+___ PTT-23.6 ___
+Glucose-129* UreaN-17 Creat-1.1 Na-141 K-4.7 Cl-101 HCO3-31 
+ALT-12 AST-20 CK(CPK)-76 AlkPhos-73 TotBili-0.5
+Lipase-34
+CK-MB-NotDone cTropnT-<0.01
+Albumin-4.5 Calcium-10.4* Phos-3.8 Mg-1.9
+Lactate-1.2 K-5.0
+
+===============
+MICROBIOLOGY
+===============
+Direct Influenza Antigen Test: Negative for influenza A or B
+Sputum Gram Stain and Culture: Uninterpretable due to extensive 
+upper respiratory contamination
+
+================
+OTHER RESULTS
+================
+ECG On Presentation ___: NSR 79, nl axis (-7), 1st degree av 
+block (PR 206)-old, nl qrs, nl qtc, QW III, aVF (old), no acute 
+ST-T changes.
+
+Chest Radiograph (___)
+IMPRESSION: No acute cardiopulmonary abnormality. Chronic 
+elevation of the
+right hemidiaphragm with associated right basilar linear 
+atelectasis.
+
+Chest Radiograph (___)
+IMPRESSION: No acute cardiopulmonary abnormality. Chronic 
+elevation of the
+right hemidiaphragm with associated right basilar linear 
+atelectasis.
+
+ 
+Brief Hospital Course:
+___ yo woman with CAD, chronic diastolic CHF, and restrictive 
+pulmonary disease presenting with worsened dyspnea on exertion 
+and cough.
+
+1) Reactive Airway Disease: The patient initially presented with 
+worsening respiratory symptoms and mild hypoxia in the context 
+of a presumed upper respiratory tract infection and significant 
+wheezing and diminished air movement.  She carries no diagnosis 
+of asthma or COPD and previous PFT's have shown primarily a 
+restrictive defect, but she has a history of significant 
+second-hand smoke exposure in her children and late husband.  
+Despite reporting minimal improvement to a single albuterol 
+nebulizer in the emergency department when placed on standing 
+ipratroprium and albuterol nebulizers (then inhalers) her 
+symptoms began to improve.  Lung sound improved on exam and 
+wheezes diminished.  On her second hospital day (after a second 
+chest radiograph failed to show an infiltrate) she was started a 
+burst of forty milligrams of prednisone daily to be continued 
+for five days.  She was also started on a five day course of 
+azithromycin for possible bronchitis/element of COPD 
+exacerbation given increased sputum.  At the time of discharge 
+her chest tightness and dyspnea had improved and she was satting 
+96% on room air.  
+
+2) Viral Syndrome: The patient presented with congestion, 
+headache, and generalized fatigue all consistent with a viral 
+URI.  Though she was not having impressive fevers and remained 
+afebrile in the hospital she did receive one dose of oseltamavir 
+empirically in the ED before influenza was ruled out by an 
+adequate DFA specimen.  After influenza was excluded she was 
+managed symptomatically with benzonatate cough suppressants to 
+suppress cough.  
+
+3) Chronic Diastolic Heart Failure: The patient appeared 
+euvolemic throughout her hospitalization.  She was continued on 
+her home ASA, furosemide, lisinopril, and metoprolol.  
+
+4) Coronary Artery Disease: The patient had no concerning ECG 
+changes and her symptoms always were far more suggestive a 
+respiratory etiology of her symptoms.  She was continued on her 
+home aspirin, statin, and beta blocker in the hospital. 
+
+5) Type II Diabetes melitus: The patient was continued on her 
+home mix insulin at reduced doses given poor PO intake in the 
+hospital and covered with insulin sliding scale with reasonable 
+control of her blood pressures.  
+
+6) Anemia: She was noted to become progressively more anemic 
+throughout her hospitalization though the fall was minor. Stool 
+was guaiac negative (performed once); this warrants further 
+outpatient workup.
+
+7) Sleep: The patient has insomnia at baseline for which she 
+uses acetaminophen with diphenhydramine.  This was held in the 
+hospital given the high risks associated antihistamines 
+triggering delirium in the elderly. 
+
+8) Hypertension: Her amlodipine was held given very well 
+controlled blood pressures (but lisinopril, isosorbide, Lasix, 
+metoprolol were continued). Amlodipine should be re-added if 
+needed as an outpatient. 
+
+The patient was continued on her home lisinopril, and metoprolol 
+for hypertension with good control.  Her calcium and vitamin D 
+for osteoporosis were similarly continued as was her omeprazole 
+for GERD.  She continued to receive oxycodone-APAP for her back 
+pain issues as she uses this at home.  She tolerated a 
+full/diabetic diet prior to discharge.  She received SC heparin 
+for DVT prophylaxis.  She was DNR with an understanding she 
+would accept brief intubations for reversible causes. 
+ 
+Medications on Admission:
+Pt unable to verify, daughter ___ helps her with meds, 
+attempted to call ___, no answer:
+ALENDRONATE 70 mg Tablet by mouth weekly
+AMLODIPINE 5 mg by mouth once a day
+CYCLOBENZAPRINE 5 mg by mouth twice a day as needed - does not 
+think she takes this
+Furosemide 20 mg daily
+ISOSORBIDE MONONITRATE [IMDUR] SR 60 mg by mouth once a day
+LISINOPRIL 40 mg by mouth once a day
+METOPROLOL TARTRATE 150 mg twice a day
+NITROGLYCERIN 0.4 mg prn for chest pain
+OMEPRAZOLE 20 mg by mouth twice a day
+OXYCODONE-ACETAMINOPHEN ___ mg 2 Tablet(s) by mouth bid prn 
+pain
+SIMVASTATIN 80 mg by mouth once a day
+ASPIRIN 81 mg by mouth once a day
+CALCIUM CARBONATE [CALCIUM 500] by mouth twice a day
+CHOLECALCIFEROL (VITAMIN D3) 1,000 unit by mouth once a day
+INSULIN NPH & REGULAR HUMAN [NOVOLIN 70/30] subcutaneously 20 
+units qam 30units q pm
+tylenol pm 2 tabs qhs prn insomnia
+ 
+Discharge Medications:
+1. Alendronate 70 mg Tablet Sig: One (1) Tablet PO once a week. 
+Tablet(s) 
+2. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Isosorbide Mononitrate 60 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+4. Lisinopril 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+5. Metoprolol Tartrate 50 mg Tablet Sig: Three (3) Tablet PO 
+twice a day.  
+6. Nitroglycerin 0.4 mg Tablet, Sublingual Sig: One (1) tablet 
+Sublingual Q 5 minutes, up to 3*/day as needed for chest pain: 
+Please call your doctor or come to the emergency department if 
+you need to use this medication.  
+7. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+8. Oxycodone-Acetaminophen ___ mg Tablet Sig: Two (2) Tablet 
+PO twice a day as needed for pain.  
+9. Simvastatin 80 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+11. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID (3 times a day).  
+12. Cholecalciferol (Vitamin D3) 1,000 unit Tablet Sig: One (1) 
+Tablet PO once a day.  
+13. Insulin NPH & Regular Human 100 unit/mL (70-30) Suspension 
+Sig: ___ units Subcutaneous twice a day: 20 units QAM
+30 units QPM.  
+14. Azithromycin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 1 days: last dose on ___.
+Disp:*1 Tablet(s)* Refills:*0*
+15. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) 
+Puff Inhalation QID (4 times a day).
+Disp:*1 inhaler* Refills:*2*
+16. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q4H (every 4 hours): please use standing 
+every 4 hours for one week after discharge (except when 
+sleeping).
+Disp:*1 inhaler* Refills:*2*
+17. Benzonatate 100 mg Capsule Sig: One (1) Capsule PO TID (3 
+times a day).
+Disp:*90 Capsule(s)* Refills:*0*
+18. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) 
+for 2 days.
+Disp:*4 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Reactive Airway Disease Exacerbation (Bronchitis vs COPD 
+exacerbation)
+Chronic Restrictive Lung Disease
+Viral Upper Respiratory Tract Infection
+
+Secondary Diagnoses:
+Chronic Diastolic Congestive Heart Failure
+Diabetes
+Coronary Artery Disease
+
+ 
+Discharge Condition:
+Good, Satting 96% on RA with ambulation, less short of breath
+
+ 
+Discharge Instructions:
+You were admitted because you were feeling unwell and had more 
+shortness of breath.  We think this is likely because you had a 
+cold that caused hyperactivity and constriction of your airways. 
+ We treated you with antibiotics, bronchodilators, and started 
+you on a course of steroids and your symptoms improved.  
+
+Your medications have been changed.  You have been started on 
+AZITHROMYCIN, an antibiotic to help treat any element of 
+bacterial infection that may be worsening your shortness of 
+breath.  You will need to continue this medication for two more 
+days after you are discharged.  You were also started on 
+ALBUTEROL and IPRATROPRIUM, two inhalers to help keep your 
+airways open and make you less short of breath.  You should use 
+these on a schedule for the next week and then can use them as 
+needed for shortness of breath or wheezing afterward.  Finally, 
+you were started on a short course of PREDNISONE, a steroid to 
+help cut down on inflammation in your lungs and help your 
+breathing.  You will complete two more days of this medication 
+after discharge.  Finally, we discharged you with a prescription 
+for TESSALON PERLES (BENZONATATE) for cough.  You may also be 
+helped by MUCINEX or MUCINEX-DM two over the counter cough 
+suppressants that you may find less nauseating than cough syrup. 
+ 
+
+You should not take your AMLODIPINE (one of the medications for 
+blood pressure) unless instructed to do so by your physician. 
+
+Please call your doctor or come to the ED if you have fevers, 
+chills, night sweats, chest pain, worsening shortness of breath, 
+or any other concerning changes in your health.   
+ 
+Followup Instructions:
+___

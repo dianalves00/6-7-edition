@@ -1,0 +1,244 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+bee stings / tomatoes / aspirin / acetaminophen / NSAIDS 
+(Non-Steroidal Anti-Inflammatory Drug)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left arm claudication
+ 
+Major Surgical or Invasive Procedure:
+___
+left axillary to brachial artery bypass graft with PTFE
+
+ 
+History of Present Illness:
+This is a ___ year old female who had a traumatic injury to the 
+left brachial artery resulting in subsequent occlusion. She had 
+a stent placed at the site of initial arterial injury but there 
+has been subsequent occlusion. She has been experiencing 
+intermittent pain in the left upper extremity since and it is 
+worse with use of the left upper extremity. She now presents for 
+elective left upper extremity axillary-brachial artery bypass 
+grafting.
+ 
+Past Medical History:
+migraines, copd, dyslipidemia, gerd, type 2 diabetes, hepatitis 
+c, thrombocytopenia, bipolar disorder, polysubstance abuse
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+Discharge exam:
+GEN: alert, orientedx3
+CV: borderline elevated rate, regular rhythm
+Pulm: nonlabored respirations, clear
+Abd: soft, no distention
+Ext: warm, well perfused. 2+ left radial pulse. normal capillary 
+refill left upper extremity
+Incisions: clean, dry, intact, no surrounding erythema
+ 
+Pertinent Results:
+___ 07:40AM BLOOD WBC-9.1# RBC-3.39* Hgb-11.2* Hct-32.5* 
+MCV-96 MCH-33.1* MCHC-34.4 RDW-13.7 Plt Ct-86*
+___ 04:46AM BLOOD WBC-5.8 RBC-3.24* Hgb-10.7* Hct-31.4* 
+MCV-97 MCH-32.9* MCHC-34.0 RDW-13.8 Plt Ct-90*
+___ 04:21PM BLOOD WBC-7.7 RBC-3.61* Hgb-11.7* Hct-35.3* 
+MCV-98 MCH-32.4* MCHC-33.2 RDW-13.6 Plt ___
+___ 04:21PM BLOOD ___ PTT-37.5* ___
+___ 07:40AM BLOOD Glucose-112* UreaN-6 Creat-0.5 Na-136 
+K-3.8 Cl-101 HCO3-29 AnGap-10
+___ 04:46AM BLOOD Glucose-99 UreaN-5* Creat-0.6 Na-139 
+K-3.6 Cl-103 HCO3-26 AnGap-14
+___ 04:21PM BLOOD Glucose-105* UreaN-7 Creat-0.7 Na-140 
+K-3.9 Cl-106 HCO3-27 AnGap-11
+___ 04:46AM BLOOD Calcium-8.3* Phos-3.2 Mg-1.4*
+___ 04:21PM BLOOD Calcium-8.5 Phos-4.1 Mg-1.6
+___ 06:40PM BLOOD Ethanol-NEG Bnzodzp-NEG Barbitr-NEG
+___ 05:39PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-POS amphetm-NEG mthdone-NEG marijua-NEGATIVE
+ 
+Brief Hospital Course:
+The patient was admitted to the Vascular Surgery Service for 
+evaluation and treatment.  On ___, the patient underwent 
+left axillary to brachial artery bypass grafting with PTFE, 
+which went well without complication (reader referred to the 
+Operative Note for details). After a brief, uneventful stay in 
+the PACU, the patient arrived on the floor NPO, on IV fluids and 
+perioperative antibiotics, with a ___ catheter, and IV 
+dilaudid for pain control.  The patient was hemodynamically 
+stable.
+
+Neuro: The patient received IV dilaudid with good effect and 
+adequate pain control.  When tolerating oral intake, the patient 
+was transitioned to oral pain medications. The patient was noted 
+to be somnolent POD1. When aroused she was conversant and 
+answered questions appropriately. Narcotics were held with this 
+sedation. The patient also had slurred speech but a nonfocal 
+neurological exam. Toxicology screen was sent that returned 
+positive for cocaine metabolites. The patient had numerous home 
+medications and other unknown pills in her possession and these 
+were secured outside of her room after a search that was allowed 
+with her permission. She also stated she was not reliably taking 
+her seroquel or neurontin as prescribed so these were held when 
+the patient was somnolent. Her mental status was improved at the 
+time of discharge. SHe was encouraged to discuss with her PCP 
+about her not taking seroquel/neurontin reliably and whether she 
+needed to adjust her dosing accordingly. The addition of a 
+narcotic pain medication and the importance of not taking with 
+other substances was discussed with the patient. SHe was kept on 
+CIWA protocol while inpatient.
+
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored. She was mildly 
+tachycardic likely owing to mild withdrawal.
+
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.
+
+GI/GU/FEN: Post-operatively, the patient was made NPO with IV 
+fluids. Diet was advanced when appropriate, which was well 
+tolerated.  Patient's intake and output were closely monitored, 
+and IV fluid was adjusted when necessary.  Electrolytes were 
+routinely followed, and repleted when necessary. ___ catheter 
+was removed POD1 and the patient subsequently voided without 
+issue.
+
+ID: The patient's white blood count and fever curves were 
+closely watched for signs of infection. Patient was discharged 
+on 5 days bactrim. 
+
+Hematology: The patient's complete blood count was examined 
+routinely; no transfusions were required. Known preopeative 
+thrombocytopenia was demonstrated on laboratory values but no 
+active issues with postoperative bleeding were appreciated 
+requiring intervention.
+
+Prophylaxis: The patient received subcutaneous heparin during 
+this stay; was encouraged to get up and ambulate as early as 
+possible.
+
+Other: social work was consulted given her past history of 
+domestic violence and substance abuse. She felt safe at home and 
+did not express any thoughts of harm to self or others. She did 
+receive materials about substance abuse therapy.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+ 
+Medications on Admission:
+1. Amitriptyline 50 mg PO HS 
+2. Atorvastatin 40 mg PO DAILY 
+3. albuterol prn
+4. Gabapentin 600 mg PO TID 
+5. Omeprazole 20 mg PO DAILY 
+6. QUEtiapine Fumarate 200 mg PO TID 
+7. advair
+8. metformin 250 mg po daily
+ 
+Discharge Medications:
+1. Amitriptyline 50 mg PO HS 
+2. Atorvastatin 40 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*14 Capsule Refills:*0
+4. Gabapentin 600 mg PO TID 
+5. Omeprazole 20 mg PO DAILY 
+6. QUEtiapine Fumarate 200 mg PO TID 
+7. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 5 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*10 Tablet Refills:*0
+8. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+do not drink alcohol, take other substances or drive while 
+taking oxycodone 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*25 Tablet Refills:*0
+9. advair
+10. albuterol prn
+11. metformin 250 mg po qd
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. left brachial artery occlusion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+WHAT TO EXPECT:
+1. It is normal to feel tired, this will last for ___ weeks 
+You should get up out of bed every day and gradually increase 
+your activity each day 
+Increase your activities as you can tolerate- do not do too 
+much right away!
+2. It is normal to have swelling of the arm you were operated 
+on:
+Elevate your arm above the level of your heart (use ___ 
+pillows) every ___ hours throughout the day and at night
+3. It is normal to have a decreased appetite, your appetite will 
+return with time 
+You will probably lose your taste for food and lose some 
+weight 
+Eat small frequent meals
+It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist in wound healing
+To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+MEDICATION:
+Take aspirin as instructed 
+Follow your discharge medication instructions
+
+ACTIVITIES:
+No driving until post-op visit and you are no longer taking 
+pain medications
+You should get up every day, get dressed and walk
+You should gradually increase your activity
+You may up and down stairs, go outside and/or ride in a car
+Increase your activities as you can tolerate- do not do too 
+much right away!
+No heavy lifting, pushing or pulling (greater than 5 pounds) 
+until your post op visit 
+You may shower - no direct spray on incision, let the soapy 
+water run over incision, rinse and pat dry
+Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+
+CALL THE OFFICE FOR: ___
+Redness that extends away from your incision
+A sudden increase in pain that is not controlled with pain 
+medication
+A sudden change in the ability to move or use your arm or the 
+ability to feel your arm
+Temperature greater than 100.5F for 24 hours
+Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions
+ 
+Followup Instructions:
+___

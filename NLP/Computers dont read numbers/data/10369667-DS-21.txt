@@ -1,0 +1,168 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+elevated blood pressure
+ 
+Major Surgical or Invasive Procedure:
+cesarean delivery
+
+ 
+History of Present Illness:
+___ yo G1P1 at 32+0 WGA who was found to have elevated BP in
+the office today and was sent to OB triage for PIH eval.  Denies 
+h/a, vision changes, RUQ pain or epigastric pain.  Denies 
+vaginal bleeding, contractions and leaking of fluid vaginally.  
++FM.
+
+ 
+Past Medical History:
+OB Hx:G1P0
+Gyn Hx: h/o benign breast cyst removed R breast
+PMH: ulcerative colitis
+Surg Hx: breast bx
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+On admission:
+Gen: NAD
+VS: T  98.1   BP  156/96, 163/89, ___, 162/97, 
+160/87     HR   59    RR 18
+CV: rrr w/o m/g/r
+Chest: CTA B
+Abd: gravid, soft, nontender
+Back: - CVAT
+Ext: -edema B
+SVE: deferred
+SSE: deferred
+EFM: 140 ___, mod variability, +accels, no decels, reactive.
+Toco: no contractions
+TAUS today: breech, + fetal cardiac motion seen, BPP ___ (-2
+breatheing), AFI 13.2 
+
+On discharge:
+VS wnl, afebrile
+General: NAD, comfortable
+CV: RRR, no m/r/g
+Lungs: CTAB
+Abdomen: soft, NTND, fundus firm below umbilicus
+Ext: no edema, no tenderness
+
+ 
+Pertinent Results:
+___ 12:09PM BLOOD WBC-11.9* RBC-4.32 Hgb-13.1 Hct-38.4 
+MCV-89 MCH-30.3 MCHC-34.2 RDW-13.9 Plt ___
+___ 12:09PM BLOOD Creat-0.6
+___ 12:09PM BLOOD ALT-19 AST-29 TotBili-0.3
+___ 12:09PM BLOOD UricAcd-5.2
+___ 12:09PM BLOOD BILE ACIDS-
+CHOLIC ACID                   5.3  H              3.1 OR LESS 
+umol/L
+DEOXYCHOLIC ACID              1.5                 7.3 OR LESS 
+umol/L
+CHENODEOXYCHOLIC ACID         3.6                 9.9 OR LESS 
+umol/L
+TOTAL BILE ACIDS              10.4                4.5-19.2 
+umol/L
+     
+___ 12:05PM URINE Color-Straw Appear-Clear Sp ___
+___ 12:05PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 04:30PM URINE pH-6 Hours-24 Volume-2950 Creat-40 
+TotProt-9 Prot/Cr-0.2
+___ 12:05PM URINE Hours-RANDOM Creat-35 TotProt-10 
+Prot/Cr-0.3*
+___ 04:30PM URINE 24Creat-1180 24Prot-266
+
+Pathology:
+___ placenta, 277 g, less than ___ percentile for 
+gestational age of 32 weeks (A-F):
+- Unremarkable fetal membranes and cord.
+- Chorionic villi with increased syncytial knots.
+ 
+Brief Hospital Course:
+This patient is a ___, G1, P0, who presented for 
+evaluation with elevated blood pressure on ___, and was 
+admitted to the ___ service for
+monitoring and a 24-hour urine collection.  A 24-hour urine 
+protein was negative in terms of preeclampsia evaluation; 
+however, she was diagnosed with PPROM on the morning of ___.  
+There was no bleeding to suggest abruption.  Latency antibiotics 
+were started.  In the early morning of ___, the patient 
+developed painful contractions q.5 minutes and was examined and 
+found to be 4 cm dilated, in spontaneous labor. Fetal status was 
+reassuring; however, breech presentation was
+known.  The decision was made to proceed with a primary cesarean 
+section for delivery secondary to breech presentation and 
+spontaneous labor. Primary cesarean section was performed on 
+___. Please see operative report for full details. 
+
+Her post-partum course was complicated by elevated blood 
+pressures to 180s/80-90s. She was started on nifedipine 30 mg CR 
+on ___. Her blood pressures improved. Her post-partum course 
+was otherwise uncomplicated, and she was discharged home on 
+___ with outpatient follow up scheduled. 
+
+ 
+Medications on Admission:
+PNV, mercaptopurine 50mg qd, Canasa 1000mg PR, Lialda 1.2gm 
+delayed release 3 tabs daily.
+
+ 
+Discharge Medications:
+1. Breast pump
+Hospital grade breast pump for maternal infant separation
+2. NIFEdipine CR 30 mg PO DAILY 
+RX *nifedipine [Procardia XL] 30 mg 1 tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*1
+3. Mesalamine (Rectal) 1000 mg PR QHS UC 
+4. Mercaptopurine 50 mg PO DAILY UC 
+5. ___ *NF* (mesalamine) 3 TAB ORAL DAILY UC 
+6. Lia___ *NF* (mesalamine) 3 TAB ORAL DAILY UC 
+7. Ibuprofen 600 mg PO Q6H:PRN Pain 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*45 Tablet Refills:*0
+8. Docusate Sodium 100 mg PO BID:PRN Constipation 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*40 Capsule Refills:*0
+9. Codeine Sulfate ___ mg PO Q6H:PRN pain 
+RX *codeine sulfate 30 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cesarean delivery
+gestational hypertension
+liveborn infant
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+see printed instructions
+ 
+Followup Instructions:
+___

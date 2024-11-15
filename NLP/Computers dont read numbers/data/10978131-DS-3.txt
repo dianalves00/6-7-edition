@@ -1,0 +1,510 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+PICC line placement ___
+
+ 
+History of Present Illness:
+___ with no significant past medical history who presents to 
+emergency room by EMS s/p a fall earlier ___ the day with multple 
+abrasions. Patient states for the last few days she has been 
+increasingly short of breath. It was a mechanical fall. Patient 
+remembers everything. She also states that she's been 
+increasingly more tired. She was triggered hypoxia for 
+non-rebreather. 
+
+___ the ED, Pt states that she felt unwell prior to fall w/ cough 
+"cold", was able to talk ___ full sentences ___ NRB 98% on Fi02 
+100%, but tired prior to transfer and was intubated for hypoxic 
+resp failure. Initial vitals:  98.8 122 128/65 16 92% 15L NRB 
+
+Initial labs were remarkable for a WBC of 4.8, hgb 14.1, plt 
+148, ALT 177, AST 177, AP 63, Tbili 1.5, Alb 3.6, Trop <0.01, Na 
+128, Cl 92, CO3 20, Cr 1.6, gap 17, VBG was 7.47/36/53. 
+
+CT head was negative. CT spine showed degenerative changes, CT 
+chest showed multifocal pna; consolidation of RUL, and 
+spiculated left ground glass and solid nodule. She was given 
+azithromycin, ceftriaxone, vancomycin, unasyn, 1L NS, and 
+duonebs. 
+ 
+Past Medical History:
+Osteopenia
+colonic adenoma
+lichen planus
+carpal tunnel 
+
+ 
+Social History:
+___
+Family History:
+Sister had stage ___ colon cancer ___ late ___  
+Daughter had non ___ lymphoma ___ late ___ (remission after  
+rituximab, exact type uncertain) and also has hemochromatosis  
+
+ 
+Physical Exam:
+PHYSICAL EXAM: on arrival to ICU 
+Vitals: T:98 BP:99/52 P:94 R: 18 FiO2:100 o2 sat 96% peep 5, tv 
+400, rate 18  
+GENERAL: Intubated/sedated 
+HEENT: Sclera anicteric, dry mucous membranes, oropharynx clear. 
+multiple superficial abrasions, no step offs or crepitus, no 
+nasal septal hematoma. pupils 1mm b/l  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: bibasliar decreased breath sounds, crackles throughout
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: see above 
+NEURO:  intubated, sedated, non responsive to painful stimuli on 
+drip
+
+PHYSICAL EXAM ON DISCHARGE
+VS: 98.4 98.4 94 (77-118) 140/83 (120-140s/60-80s) 18 96-99%/2L 
+NC
+General: NAD
+HEENT: PERRL, nose clear, OP w/o lesions
+Neck: supple, no LAD or JVD
+CV: RRR, S1/S2 normal, no MRG
+Lungs: exam improved, w/persistent inspiratory crackles at RML 
+and lower lobes bilaterally 
+Abdomen: +BS, S/NT/ND
+GU: no Foley
+Ext: well perfused, 2+ peripheral pulses 
+Neuro: ___ upper and lower extremity strength ___ all direction 
+except bilateraly upper extremity weakness (___) with abduction 
+>15%. decreased ROM ___ bilateral shoulders.
+Skin: abrasions on face healing
+ 
+Pertinent Results:
+LABS ON ADMISSION: 
+
+___ 01:52PM   ___ TO  PTT-UNABLE TO  ___ 
+TO 
+___ 01:52PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 01:52PM   WBC-4.8 RBC-4.52 HGB-14.1 HCT-39.2 MCV-87 
+MCH-31.3 MCHC-36.0* RDW-13.3
+___ 01:52PM   ALBUMIN-3.6 CALCIUM-8.8 PHOSPHATE-2.4* 
+MAGNESIUM-2.3
+___ 01:52PM   cTropnT-<0.01
+___ 01:52PM   estGFR-Using this
+___ 03:05PM   NA+-131* K+-3.4 CL--94* TCO2-22
+___ 03:39PM   O2 SAT-87
+___ 03:39PM   ___ PO2-53* PCO2-36 PH-7.47* TOTAL 
+CO2-27 BASE XS-2
+___ 06:30PM URINE  MUCOUS-RARE
+___ 06:30PM URINE  HYALINE-3* RBCCAST-9*
+___ 06:55PM   ___ PTT-31.6 ___
+___ 11:47PM   TYPE-ART PO2-169* PCO2-34* PH-7.45 TOTAL 
+CO2-24 BASE XS-0
+___ 11:47PM   LACTATE-1.6
+
+OTHER PERTINENT LABS:
+
+___ 02:52PM BLOOD ALT-738* AST-625* LD(LDH)-501* 
+AlkPhos-380* TotBili-2.0*
+___ 05:20AM BLOOD ALT-495* AST-226* LD(LDH)-277* 
+AlkPhos-319* TotBili-1.2
+___ 02:50AM BLOOD ALT-730* AST-500* LD(___)-502* 
+CK(CPK)-104 AlkPhos-474* TotBili-1.2
+___ 05:40AM BLOOD ALT-481* AST-175* LD(___)-332* 
+AlkPhos-367* TotBili-0.8
+___ 05:01AM BLOOD ALT-374* AST-123* AlkPhos-316* 
+TotBili-0.9
+___ 06:03AM BLOOD ALT-353* AST-129* AlkPhos-336* 
+TotBili-0.9
+___ 06:20AM BLOOD ALT-242* AST-76* AlkPhos-257* TotBili-0.7
+___ 05:01AM BLOOD ___ Ferritn-3138* TRF-126*
+___ 03:27PM BLOOD Hapto-297*
+___ 02:50AM BLOOD ___
+___ 02:52PM BLOOD calTIBC-153* Ferritn-9881* TRF-118*
+___ 04:13AM BLOOD Hapto-256*
+___ 05:01AM BLOOD Triglyc-114
+___ 02:52PM BLOOD IgM HAV-NEGATIVE
+___ 03:11AM BLOOD HBsAg-NEGATIVE HBsAb-POSITIVE 
+HBcAb-NEGATIVE HAV Ab-NEGATIVE
+___ 02:52PM BLOOD AMA-NEGATIVE Smooth-NEGATIVE
+___ 02:52PM BLOOD ___
+___ 03:27PM BLOOD PEP-GROSSLY HE IgG-666* IgA-108 IgM-56 
+IFE-NO MONOCLO
+___ 02:52PM BLOOD IgG-510* IgA-68* IgM-28*
+___ 06:20AM BLOOD Vanco-12.9
+
+LABS ON DISCHARGE:
+
+___ 04:54AM BLOOD WBC-10.4 RBC-3.41* Hgb-10.4* Hct-31.1* 
+MCV-91 MCH-30.7 MCHC-33.5 RDW-14.5 Plt ___
+___ 04:54AM BLOOD Plt ___
+___ 04:54AM BLOOD Glucose-113* UreaN-11 Creat-0.6 Na-139 
+K-4.0 Cl-105 HCO3-25 AnGap-13
+___ 04:54AM BLOOD ALT-206* AST-62* AlkPhos-232* TotBili-0.7
+___ 04:54AM BLOOD Calcium-8.6 Phos-3.1 Mg-2.0
+
+IMAGING:
+
+CHEST (PORTABLE AP) Study Date of ___ 
+Opacities involving the right upper lobe and right middle lobe 
+are not 
+significantly increased. A left lower lobe opacity is improving 
+from the prior study. 
+
+CXR ___: Right PICC ___ the mid SVC.  Multifocal opacities are 
+again demonstrated consistent with pneumonia and left lower lobe 
+collapse.  No pneumothorax. 
+
+CXR ___: There are increasing consolidations ___ the right upper 
+lobe and at both lung bases consistent with known multifocal 
+pneumonia.  No pulmonary edema. No pneumothorax. Overall cardiac 
+and mediastinal contours are stable. Likely small layering 
+effusions. 
+  
+RUQ ___:  
+1. Patent hepatic vasculature. 
+2. Unremarkable appearance of the liver with no biliary 
+dilatation and no 
+gallstones. No splenomegaly. 
+
+CXR ___: There has been no radiographic improvement ___ 
+multifocal consolidation over the past several days.  
+Progressive mediastinal widening is probably due to venous 
+engorgement. No pneumothorax. 
+ET tube and nasogastric tube ___ standard placements 
+respectively. 
+
+CXR ___: As compared to the previous radiograph, the monitoring 
+and support devices are ___ unchanged position. The lung volumes 
+have slightly decreased and there is a new zone of parenchymal 
+opacity at the left lung bases. ___ the appropriate clinical 
+setting, this change could reflect pneumonia.  No other relevant 
+changes are noted. They opacity ___ the right upper lobe is 
+constant ___ severity ___ extent. 
+
+CXR ___: As compared to ___ chest radiograph, multifocal 
+bilateral areas of consolidation and atelectasis predominantly 
+involving the right upper and both lower lobes are remarkable 
+for improvement ___ the left retrocardiac region.  Some of the 
+opacities have a nodular configuration and a dominant left lung 
+nodule has been more fully characterized by chest CT of 1 day 
+earlier. Correlation with that report is recommended. 
+
+CT C-SPINE W/O CONTRAST Study Date of ___  
+No fracture. Degenerative changes and anterolisthesis of C2 on 
+C3 is likely degenerative but no prior available for comparison 
+to document chronicity. Clinical correlation regarding need for 
+additional imaging. 
+
+CT CHEST W/O CONTRAST Study Date of ___ 
+Near complete atelectasis of the bilateral lower lobes. 
+Dependent regions of consolidation ___ the right upper lobe 
+suspicious for infection. Spiculated left sided ground-glass and 
+solid nodule ___ the left upper lobe which is nonspecific but 
+underlying malignancy is possible and followup will be 
+necessary. 
+
+CT HEAD W/O CONTRAST Study Date of ___  
+No acute intracranial process. 
+ 
+___ CXR: Multi focal regions of consolidation particularly at 
+the right mid lung medially. Findings could represent multi 
+focal pneumonia with possible bilateral aspiration. With history 
+of fall, contusion would be possible. Followup will be 
+necessary. 
+
+MICROBIOLOGY:
+
+___ 1:53 pm BLOOD CULTURE
+                            **FINAL REPORT ___
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+___ 2:32 pm BLOOD CULTURE
+                            **FINAL REPORT ___
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+___ 6:30 pm URINE
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML.. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------     1 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+___ 1:10 am MRSA SCREEN      Source: Nasal swab. 
+                            **FINAL REPORT ___
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+
+___ 3:36 am URINE
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, ___
+      infected patients the excretion of antigen ___ urine may 
+vary. 
+
+___ 1:53 am SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      STAPH AUREUS COAG +.    HEAVY GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+___ 8:14 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+___ 8:14 pm BLOOD CULTURE      Source: Line-aline. 
+
+   Blood Culture, Routine (Pending): 
+
+HERPES SIMPLEX VIRUS 1 AND 2 (IGG) 
+  Test                          Result              Reference 
+Range/Units
+HSV 1 IGG TYPE SPECIFIC AB    >5.00  H            
+HSV 2 IGG TYPE SPECIFIC AB    <0.90               
+ 
+                          Value          Interpretation
+                          -----          --------------
+                          <0.90          Negative
+                          0.90-1.10      Equivocal
+                          >1.10          Positive
+
+ 
+ 
+Brief Hospital Course:
+Hospital course: Ms. ___ is a ___ year old woman with a past 
+medical history of osteopenia and carpal tunnel syndrome 
+admitted to the MICU with MRSA pneumonia, requiring intubation 
+and vancomycin, extubated ___, transferred to the floor with 
+___ oxygen requirement. By the time of discharge, she was on 2L 
+NC, and doing well on vancomycin. Patient also with frozen 
+shoulder, likely ___ the setting of intubation and period of 
+prone positioning.
+
+MICU COURSE:
+Pt was intubated, sedated and improved on the vent. Pt was 
+successfully extubated on ___ and had decreasing O2 
+requirements. Pt with copious sputum production and was 
+ambulatory with aid on ___. Pt still with cough but saturating 
+___ 90's on 3L NC. She was started on vancomycin and cefepime. 
+Cefepime was discontinued after 2 days due to the positive 
+sputum culture. Influenza and legionella were negative. 
+Hyponatremia and ___ improved with fluid resuscitation. An 
+incidentally discovered UTI was treated with an additional day 
+of ceftriaxone. Pt did have transaminitis with concommittant 
+elevation ___ alk phos. RUQ US was negative. Per hepatology most 
+likely source is shock liver. Hematology/oncology is consulted 
+___ the setting of leukocytosis with left shift, rising  LFTs, 
+ferritin approaching 10K, and hypogammaglobulinemia to exclude 
+HLH or other underlying hematologic disorder.  Pt is not thought 
+to have HLH. Heme wants to follow as an outpatient. 
+
+Active issues:
+
+#CA-MRSA PNA: Found to have heavy MRSA growth from sputum. 
+Extubated ___ ___ AM, improving overall. Recommended duration 
+of antibiotic therapy ___ days depending on disease severity. 
+Vancomycin level not therapeutic (___) until ___ would prefer 
+to continuing therapy until ___ (10 days therapeutic). On ___, 
+cefepime was added for HCAP coverage when she had increased 
+oxygen requirement; however, it was discontinued on ___ given 
+low suspicion for HCAP once a final CXR read became available.
+
+#Leukocytosis: Resolved. Was likely due to pneumonia. The 
+patient is being appropriately treated with vancomycin for MRSA 
+pneumonia. Urine culture grew e-coli and received 3 days of 
+therapy. 
+
+#Concern for HLH: No cytopenias or evidence of hemophagocytosis 
+on smear. HLH unlikely per hem/onc. Hem/onc recommends trending 
+ferritin/fibrinogen prior to d/c and as outpatient
+
+#Upper extremity weakness: Weakness with shoulder flexion and 
+abduction bilaterally. No explanation of C-spine CT. Most likely 
+represents frozen shoulder versus axillary neuropraxia secondary 
+to prone positioning due to difficult oxygenation. ___ was 
+recommended at discharge.
+
+#Hypogamaglubinemia: Low IgG, IgM, and IgA which is 
+inappropriate ___ the setting of infection. Heme/onc recommended 
+outpatient follow up
+
+#Transaminitis: Improving. Most likely from shock liver per 
+hepatology. ___, AMA, HAV IgM negative. Trend on an 
+outpatient basis.
+
+#UTI: S/p 3 days of treatment.
+
+#Lung Nodule: Will need outpatient followup; spiculated 11 mm 
+somewhat ground-glass and solid opacity seen ___ the left upper 
+lobe  
+
+Transitional issues:
+-MRSA pneumonia coverage (day ___ therapeutic on ___ 
+continue through ___, PICC line placed ___ and should be 
+removed after completion of antibiotics.
+-Spiculated Pulmonary Nodule needs followup 
+-Obtain IgG/IgA/IgM levels as an outpatient as patient may have 
+hypogammaglobulinemia 
+-Trend ferritin and LFTs at PCP follow up (discharge ferritin 
+downtrending to 1270, AST 62, ALT 206, AP 232)
+-Monitor range of motion with frozen shoulder
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fish Oil (Omega 3) 1000 mg PO DAILY 
+2. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -200 unit oral daily 
+3. Amphetamine-Dextroamphetamine XR 30 mg PO DAILY 
+4. BuPROPion (Sustained Release) 300 mg PO QAM 
+5. Tretinoin 0.025% Cream 1 Appl TP QHS 
+
+ 
+Discharge Medications:
+1. Amphetamine-Dextroamphetamine XR 30 mg PO DAILY 
+2. Acetaminophen 500 mg PO Q6H:PRN pain 
+RX *acetaminophen 500 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*20 Tablet Refills:*0
+3. Guaifenesin ER 1200 mg PO Q12H 
+RX *guaifenesin 600 mg 2 tablet(s) by mouth every 12 hours Disp 
+#*60 Tablet Refills:*0
+4. Vancomycin 1000 mg IV Q 12H 
+RX *vancomycin 1 gram 1 g IV every 12 hours Disp #*6 Vial 
+Refills:*0
+5. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -200 unit oral daily 
+6. Fish Oil (Omega 3) 1000 mg PO DAILY 
+7. Tretinoin 0.025% Cream 1 Appl TP QHS 
+8. Sodium Chloride Nasal ___ SPRY NU ONCE Duration: 1 Dose 
+RX *sodium chloride [Sea Soft Nasal Mist] 0.65 % 1 spray three 
+times a day Disp #*1 Spray Refills:*0
+9. BuPROPion (Sustained Release) 300 mg PO QAM 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+MRSA Pneumonia
+Health care associated pneumonia
+Lung nodule
+Transaminitis
+Urinary tract infection
+Hyperferritinemia
+Hypogamaglubinemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance at times
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure taking care of you at ___. You were admitted 
+because you fell; you were found to have a serious pneumonia, 
+which was treated with antibiotics and required intensive care 
+and intubation (a tube to help you breath). By the time of 
+discharge to home with services, your breathing was much 
+improved, and your doctors thought ___ were doing well enough to 
+continue to receive IV antibiotics ___ a setting where you can 
+also work with physical therapists to continue to get better.
+
+We wish you all the best!
+Your ___ Medicine Team
+ 
+Followup Instructions:
+___

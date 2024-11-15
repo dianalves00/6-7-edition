@@ -1,0 +1,296 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ y/o F with recently diagnosed pancreatic Ca, 
+recent PE on lovenox, CAD, CHF, and COPD who was sent from her 
+nursing facility to ___ ED with CC of dyspnea. 
+
+The patient was drinking water in the company of her family 
+today. Noted to be choking on the fluid and then became acutely 
+onset SOB.  
+
+In ED initial VS were 97.4 115 ___ 18 100% Non-Rebreather. 
+Labs were performed showing a normal WBC but with a left shift. 
+Cr of 1.4 (baseline 0.8). A CXR was performed showing 
+significantly increased basal opacities thought to be a 
+combination of effusion and consolidation. An ECG was done 
+showing afib w/ RVR that is new. The patient was started on IVF 
+and vanc/cefepime/flagyl. Her oxygen requirement began to 
+improve and her HR slowed. DNR/DNI status confirmed with family. 
+Admitted to medicine for further management and possible shift 
+towards more palliative focus.
+
+She was reportedly alert and oriented and breathing at a rate in 
+the ___ in the ED, but on arrival to the floor, she was 
+somnolent, minimally responsive and respiratory rate varied from 
+46-60. Systolics in the ___ (range in outpatient 92-110 
+systolic). She was maintaining her sats on 5L NC, but there was 
+concern for deteriorating mental and respiratory status. ABG 
+done on the floor showed pH 7.33 pCO2 65 pO2 210. Unclear 
+baseline pCO2, but has known COPD and last admission pCO2 ranged 
+49-79 (last CO2 after biPAP in 49-54 range). In the setting of 
+acute deterioration, the family actually wanted to reverse her 
+code status and she was transferred to the unit for further 
+management as a full code.  
+ 
+Past Medical History:
+1.  CAD
+2.  CHF (NYHA II) - EF < 20%
+3.  HL
+4.  COPD
+5.  PE and portal vein thrombosis found during admission 
+___, on lovenox 
+6.  DIC duing admission ___
+7.  Open angle glaucoma on 3x eye gtt
+8.  Optic Drusen
+9.  ?mild CKD (historic GFR @Atrius varies ___
+10.  DMII - Diet controlled
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals: afebrile. HR 98. RR 60. SBP 98.
+GENERAL: somnolent, minimally responsive to pain, mumbling, eyes 
+halfway shut but not fully closed. cachectic elderly lady with 
+hair kerchief on, chronically unwell appearing, in mod-severe 
+respiratory distress
+HEENT: AT/NC, anicteric sclera, pink conjunctiva, patent nares, 
+mm dry, nontender supple neck, no LAD, no JVD  
+CARDIAC: regular rate, S1/S2, no murmurs, gallops, or rubs
+LUNG: CTAB, no wheezes, rales, rhonchi, but using accessory 
+muscles, increased WOB
+ABDOMEN: thin, nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: unable to follow commands clearly, no cyanosis, no 
+edema
+PULSES: bounding pulses @ radial  
+NEURO: unable to test CN as patient will not respond to 
+commands. somnolent. oriented to ___, doesn't know year, 
+knows name
+SKIN: cool extremities, no excoriations or lesions, no rashes
+
+ 
+Pertinent Results:
+___ 04:56AM BLOOD WBC-8.2 RBC-3.28* Hgb-9.4* Hct-29.3* 
+MCV-89 MCH-28.6 MCHC-32.0 RDW-15.6* Plt ___
+___ 02:09AM BLOOD WBC-7.8 RBC-2.96* Hgb-8.2* Hct-26.8* 
+MCV-91 MCH-27.7 MCHC-30.6* RDW-15.4 Plt ___
+___ 11:43AM BLOOD WBC-9.4 RBC-3.21* Hgb-9.4* Hct-29.2* 
+MCV-91 MCH-29.3 MCHC-32.2 RDW-15.5 Plt ___
+___ 02:09AM BLOOD Neuts-87.7* Lymphs-10.0* Monos-2.3 
+Eos-0.1 Baso-0
+___ 11:43AM BLOOD Neuts-91* Bands-0 Lymphs-6* Monos-2 Eos-0 
+Baso-0 Atyps-1* ___ Myelos-0
+___ 04:56AM BLOOD ___ PTT-33.3 ___
+___ 02:09AM BLOOD ___ PTT-26.5 ___
+___ 11:43AM BLOOD ___ PTT-32.7 ___
+___ 04:56AM BLOOD Glucose-87 UreaN-54* Creat-1.7* Na-147* 
+K-4.0 Cl-106 HCO3-30 AnGap-15
+___ 02:09AM BLOOD Glucose-111* UreaN-41* Creat-1.5* Na-144 
+K-4.5 Cl-104 HCO3-31 AnGap-14
+___ 11:43AM BLOOD Glucose-166* UreaN-36* Creat-1.4* Na-144 
+K-4.7 Cl-101 HCO3-29 AnGap-19
+___ 04:56AM BLOOD ALT-20 AST-20 AlkPhos-85 Amylase-350* 
+TotBili-0.5
+___ 02:09AM BLOOD CK(CPK)-21*
+___ 11:43AM BLOOD CK(CPK)-26*
+___ 04:56AM BLOOD Lipase-199*
+___ 02:09AM BLOOD CK-MB-2 cTropnT-0.04*
+___ 11:43AM BLOOD cTropnT-0.05*
+___ 04:56AM BLOOD Calcium-9.2 Phos-4.9* Mg-1.8
+___ 02:09AM BLOOD Calcium-9.0 Phos-4.8* Mg-1.8
+___ 07:41AM BLOOD Type-ART pO2-102 pCO2-67* pH-7.35 
+calTCO2-39* Base XS-7
+___ 12:07AM BLOOD Type-ART pO2-80* pCO2-47* pH-7.46* 
+calTCO2-34* Base XS-8
+___ 06:31PM BLOOD Type-ART pO2-210* pCO2-65* pH-7.33* 
+calTCO2-36* Base XS-6
+.
+CXR ___
+IMPRESSION:  Increasing lower lung opacities, left greater than 
+right, likely representing a combination of effusion and 
+consolidation. 
+.
+___ Renal u/s:
+IMPRESSION: 
+1.  Unchanged echogenic kidneys without frank hydronephrosis  
+2.  Incomplete evaluation of known renal cystic lesions due to 
+limited 
+acoustic window 
+3.  Moderate ascites  
+.
+CXR ___:
+ 
+FINDINGS:  In comparison with the study of ___, there is little 
+overall 
+change.  Again there is substantial enlargement of the cardiac 
+silhouette with bilateral layering, pleural effusions and 
+compressive atelectasis at the bases.  Extensive retrocardiac 
+opacification with obscuration of the 
+hemidiaphragm is consistent with volume loss in the left lower 
+lobe.  In the appropriate clinical setting, supervening 
+pneumonia would have to be 
+considered.  Cardiomediastinal silhouette is stable. 
+.
+___ ruq u/s:
+IMPRESSION: 
+1.  Mild left intrahepatic pneumobilia, likely related to recent 
+biliary 
+Wallstent placement. 
+2.  Mild fullness of the right renal collecting system with 
+echogenic renal cortex, incompletely visualized. 
+3.  Small amount of floating gallbladder sludge.  No evidence of 
+
+cholelithiasis or cholecystitis. 
+.
+Microbiology:
+___ MRSA SCREEN MRSA SCREEN-FINAL INPATIENT 
+___ URINE Legionella Urinary Antigen -FINAL 
+INPATIENT 
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+
+ 
+Brief Hospital Course:
+___ y/o F with multiple medical problems including heart failure, 
+COPD, pancreatic cancer who was initially admitted to the ICU 
+with respiratory distress and transitioned to comfort measures 
+only care.  
+.
+#goals of care-Pt with multiple medical problems including 
+severe heart failure, COPD, pancreatic cancer who was admitted 
+with respiratory distress and initially admitted to the oncology 
+service and transferred to the ICU. In the ICU, goals of care 
+conversations were had with the ICU team, oncology, and the 
+patient and her family. All decided that pt would be comfort 
+measures only with focus of care on symptom management (no IV 
+antibiotics, lovenox, blood draws etc). Non essential 
+medications were stopped in the ICU including antibiotics. She 
+was transitioned out of the ICU on ___ evening and given 
+morphine as needed for significant tachypnea. The morning of 
+___ pt was tachypneic, but not following commands or 
+answering questions. Comfort care continued  given significant 
+tachypnea. The patient passed away on ___ at 117pm. Her 
+family/dtr ___ was at the bedside.
+.
+By problem:
+# Pancreatitis: Abdominal guarding on AM of ___. Ischemic bowel 
+was considered but lactate was found to be normal. KUB showed no 
+obstruction. RUQ ultrasound did not show any acute process. 
+Patient was initially  started on Cefepime and Flagyl for 
+empiric treatment of GI infection. Lipase was elevated.
+.
+#. Hypercarbic Respiratory Distress possibly PNA and COPD and 
+likely multifactoral.  At admission differential included 
+asthma/COPD exacerbation, PNA, atelectasis, aspiration.  Given 
+HPI concern for aspiration.  It is possible that she had an 
+aspiration event causing tachypnea and dynamic hyperinflation 
+causing air trapping and increase deadspace resulting in 
+hypercarbic respiratory failure.  She also seemed to have 
+increased pulmonary edema that could be contributing to her 
+dyspnea and poor ventilation.
+.
+#. Afib w/ RVR - New diagnosis. Most likely related to increased 
+sympathetic outflow given acute insult. Repeat EKG showed normal 
+sinus rhythm. Metoprolol was switched to tartrate while she was 
+in the ICU. Lovenox was initially continued for anticoagulation. 
+   
+
+#. ___ -admitted with creatinine of 1.7. Ddx includied CHF 
+excaerbation vs. infection vs. obstruction. Renal u/s 
+unrevealing. Dry on initial exam.
+.
+#. Pancreatic CA - Not a chemo/surgical candidate per oncology. 
+See goals of care above.
+.
+# Bladder mass: at OSH U/S showed polypoid mass arising from the 
+left posterior bladder wall caudal to the left ureterovesical 
+junction measuring 8 x 7 mm x 4 mm and this was suggestive of 
+superficial transitional cell carcinoma of the bladder.
+Renal U/S : negative for hydronephrosis. Cytlogy unclear during 
+admission.
+.
+#. PE/PVT: Initially continued on lovenox. Discontinued in the 
+ICU.
+.
+# CHF: Weights in her outpatient records varied from 92lb to 
+106lb.  She was 98.1lbs in the ICU. CXR and U/S consistent with 
+fluid overload.  Cytology of pleural fluid on last admission was 
+negative for malignancy. This was felt to be related to CHF.
+.
+CHRONIC ISSUES:
+#. Anemia - Presently anemic but near baseline. During last 
+admission it was felt the patient had DIC as partial cause for 
+her anemia. Per notes from atrius she has sicke cell trait 
+leading to mild anemia. Initially continued on Fe 
+supplementation  
+
+#. DMII: Initially on HISS 
+
+#. Glaucoma: Initially continued home Tx  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN Wheezing 
+2. Betaxolol Ophth Susp  0.25% 1 DROP BOTH EYES BID 
+3. Furosemide 40 mg PO DAILY 
+4. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 
+5. Spironolactone 25 mg PO DAILY 
+6. Atorvastatin 20 mg PO DAILY 
+7. Docusate Sodium (Liquid) 100 mg PO BID 
+8. Enoxaparin Sodium 50 mg SC Q24H 
+9. Senna 1 TAB PO BID:PRN Constipation 
+10. Metoprolol Succinate XL 50 mg PO DAILY 
+11. Multivitamins 1 TAB PO DAILY 
+12. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES BID 
+13. Calcium Carbonate 500 mg PO DAILY 
+14. Ferrous Sulfate 325 mg PO DAILY 
+15. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+expired
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+expired
+ 
+Followup Instructions:
+___

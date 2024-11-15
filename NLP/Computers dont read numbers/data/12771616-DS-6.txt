@@ -1,0 +1,418 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is an ___ male with a history of a 
+recent NSTEMI, COPD, atrial fibrillation, diastolic heart 
+failure, aortic stenosis, pacemaker for sick sinus, and a 
+history of endocarditis who presented to ___ after 
+sustaining a fall and developing chest pain. 
+
+Per report, the patient has been having exertional chest pain 
+since the day prior to admission. The patient's chest pain was 
+described as left substernal pressure with radiation to the left 
+arm. 
+
+Of note, the patient was admitted to ___ 
+recently for a bilateral upper lobe pneumonia and an NSTEMI from 
+___ to ___. He was treated with doxycycline and ceftriaxone 
+for the pneumonia and NSTEMI was medically managed. Peak 
+troponin unknown and he did not undergo a cardiac 
+catheterization (unclear).  He presented to the ___ on 
+___ with
+transient confusion that may have been related to sleeping 
+without his CPAP. On ___ he again presented to ___ with 
+wrist pain and found to have calcium pyrophosphate crystals on 
+joint aspirate and started on a few days of prednisone. Called 
+back to the ED on ___ due to Strep growth from joint aspirate 
+that was ultimately thought to be a contaminant. 
+
+Of note, this is at least his ___ hospitalization of ___, 7 of 
+which have been at ___. 
+
+On this presentation at ___, he was found to have an 
+NSTEMI with a Trop-T of 0.19 and a pro-BNP 542. EKG was 
+unremarkable/ unchanged from prior. He was given full dose 
+aspirin, started on a heparin gtt, and was ordered for SL nitro 
+which was not received due to the absence of chest pain. Hip, 
+pelvis and CXR did not reveal fractures. Patient with complaint 
+of some unsteadiness and apparent dysarthria which may be his 
+normal mode of speech given that he is edentulous. TPA was not 
+considered in this patient given that he presented outside of 
+window and CVA waslow on the differential. The patient was 
+subsequently transferred to ___ for further work up.  
+ 
+Upon arrival to the ED at ___, the patient was chest pain free 
+and resting comfortably. His labs returned and were notable for 
+a second Trop-T of 0.19, Lactate 1.4, and INR of 1.2. He was 
+admitted to the cardiology service for further work up.  
+ 
+Upon arrival to the floor, the patient endorsed the above 
+history. He is a difficult historian, but currently denies any 
+chest pain, palpitations, shortness of breath, or lower 
+extremity edema.  
+ 
+Past Medical History:
+ - aortic stenosis s/p TAVR (___ ___
+ - Sick sinus syndrome s/p pacemaker  ___, ___
+ - 3.3cm Abdominal AAA s/p endovascular repair (___)
+ - Atrial fibrillation not on anticoagulation. AC previously 
+discussed with outpatient cardiologist but deferred pending 
+clarification of his care at multiple other hospitals.
+ - Diastolic congestive heart failure 
+ - HTN  
+ - HLD  
+ - COPD  
+ - History of possible endocarditis  
+ - 7mm basilar tip intracranial aneurysm  
+ 
+Social History:
+___
+Family History:
+- Non-contributory  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM  
+ ===================  
+T 98.4, BP 124 / 79, HR 65, RR 18, O2 94 Ra
+General: Tired, elderly man lying in bed speaking to me in no 
+apparent distress. 
+HEENT: Pupils equal and reactive. Moist mucous membranes. 
+Neck : JVP ___
+Cardiac: S1/S2 regular. Distant heart sounds. No obvious 
+murmurs. No S3/S4, rubs. 
+Pulmonary: Bibasilar faint rales less than ___ of the way up 
+lung fields. No use of respiratory muscles. No respiratory 
+distress. 
+Abdominal/GI: Soft. Non-distended. Some epigastric tenderness to 
+palpation. 
+Neuro: A+Ox2, Sensation intact upper and lower extremities, 
+moving all extremities 
+Skin: Multiple seborrheic keratoses  
+
+DISCHARGE PHYSICAL EXAM  
+ ===================  
+24 HR Data (last updated ___ @ 508)
+Temp: 97.6 (Tm 99.1), BP: 112/69 (107-137/64-81), HR: 58 
+(58-75),
+RR: 18 (___), O2 sat: 95% (92-95), O2 delivery: Cpap, Wt: 
+201.1
+lb/91.22 kg  
+General: Tired, elderly man sitting up in a chair speaking to me 
+In no apparent distress. 
+HEENT: Pupils equal and reactive. Moist mucous membranes. 
+Cardiac: S1/S2 regular. Distant heart sounds. No obvious 
+murmurs. No S3/S4, rubs. 
+Pulmonary: Lungs sounded clear with no wheezes, rhales, or 
+rhonchi. No use of respiratory muscles. No respiratory distress. 
+
+Abdominal/GI: Soft. Non-distended. No epigastric tenderness to 
+palpation. 
+Neuro: A+Ox2-3
+Skin: Multiple seborrheic keratoses  
+ 
+Pertinent Results:
+============================
+ADMISSION LABORATORY STUDIES
+============================
+___ 06:30AM BLOOD WBC-8.3 RBC-3.89* Hgb-10.5* Hct-33.7* 
+MCV-87 MCH-27.0 MCHC-31.2* RDW-15.7* RDWSD-49.3* Plt ___
+___ 06:30AM BLOOD ___ PTT-65.8* ___
+___ 06:30AM BLOOD Glucose-118* UreaN-13 Creat-1.2 Na-142 
+K-3.7 Cl-99 HCO3-27 AnGap-16
+
+==========================================
+DISCHARGE AND PERTINENT LABORATORY STUDIES
+==========================================
+___ 06:30AM BLOOD cTropnT-0.19*
+___ 01:03PM BLOOD CK-MB-3 cTropnT-0.16*
+
+___ 06:19AM BLOOD Glucose-135* UreaN-18 Creat-1.2 Na-142 
+K-3.5 Cl-96 HCO3-33* AnGap-13
+___ 06:19AM BLOOD WBC-5.8 RBC-3.67* Hgb-10.1* Hct-31.7* 
+MCV-86 MCH-27.5 MCHC-31.9* RDW-15.3 RDWSD-48.4* Plt ___
+
+===========================
+REPORTS AND IMAGING STUDIES
+===========================
+___ Cardiac Perfusion Test
+TECHNIQUE:  ISOTOPE DATA: (___) 10.5 mCi Tc-99m Sestamibi 
+Rest; (___)
+31.2 mCi Tc-99m Sestamibi Stress; DRUG DATA: (Non-NM admin) 
+Regadenoson; Resting images were obtained approximately 45 
+minutes following the intravenous injection of tracer.
+Stress images were obtained after resting images and 
+approximately 30 minutes following the intravenous injection of 
+tracer.
+
+Imaging protocol: Gated SPECT.
+
+SUMMARY FROM THE EXERCISE LAB:
+For pharmacologic stress 0.4 mg of regadenoson (0.08 mg/ml) was 
+infused  ntravenously over 20 seconds followed by a saline 
+flush.
+ 
+FINDINGS:  Left ventricular cavity size is normal, EDV is 51 mL. 
+
+Rest and stress perfusion images reveal uniform tracer uptake 
+throughout the left ventricular myocardium. 
+Gated images reveal normal wall motion. 
+The calculated left ventricular ejection fraction is 68%.
+IMPRESSION:  1.  Normal myocardial perfusion study.
+
+___ TTE
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color Doppler. The inferior vena 
+cava diameter is normal. There is mild symmetric left 
+ventricular hypertrophy with a normal cavity size. There is 
+suboptimal image quality to assess regional left ventricular 
+function. The visually estimated left ventricular ejection 
+fraction is >=55%. Left ventricular cardiac index is normal 
+(>2.5 L/ min/m2). There is no resting left ventricular outflow 
+tract gradient. The right ventricle was not well seen with 
+normal free wall motion. The aortic sinus diameter is normal for 
+gender with mildly dilated ascending aorta. The aortic arch is 
+mildly dilated. An ___ aortic valve bioprosthesis is 
+present. The effective orifice area index is normal (>=0.85 
+cm2/m2). There is a paravalvular jet of trace aortic 
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. There is trivial mitral 
+regurgitation. The pulmonic valve leaflets are not well seen. 
+The tricuspid valve leaflets appear structurally normal. There 
+is trivial tricuspid regurgitation. Due to acoustic shadowing, 
+the severity of tricuspid regurgitation may be UNDERestimated. 
+The estimated pulmonary artery systolic pressure is normal. 
+There is no pericardial effusion. There is a prominent anterior 
+fat pad.
+
+IMPRESSION: Suboptimal image quality. No large wall motion 
+abnormalities, but given poor image
+quality a small territory of hypokinesis could have been missed. 
+Normal global left ventricular
+systolic function. Grossly normal right ventricular systolic 
+function (poorly visualized). Well
+seated, normal functioning ___ 3 TAVR with normal gradient 
+and trace paravalvular aortic
+regurgitation. Compared with the prior TTE (images reviewed) of 
+___ , image quality is worse and there has been interval 
+placement of ___ 3 TAVR.
+
+============
+MICROBIOLOGY
+============
+None
+
+ 
+Brief Hospital Course:
+=================
+SUMMARY STATEMENT
+=================
+This is an ___ male with a history of a recent NSTEMI, 
+COPD, atrial fibrillation, diastolic heart failure, aortic 
+stenosis s/p bioprosthetic valve replacement (TAVR), pacemaker 
+for sick sinus, and a history of endocarditis who presented to 
+___ after sustaining a fall and developing chest pain and 
+was found to have an NSTEMI and was asymptomatic after arrival 
+and hemodynamically stable. His stress test was negative for 
+ischemia. 
+
+===================
+TRANSITIONAL ISSUES
+===================
+- New Meds: None
+- Stopped/Held Meds: None
+- Changed Meds: None
+- Discharge weight: 91.22 kg (201.1 lb)
+
+- Found to have poor nutrition and recommended for tube feeding, 
+but this was declined by patient. Should have close monitoring 
+of nutrition going forward. 
+- Not anticoagulated for paroxysmal atrial fibrillation. He is 
+higher risk for bleed with known intracranial aneurysm, but 
+risks and benefits of anticoagulation could be discussed with 
+patient and family. 
+- Recommended to have ___ rehabilitation but the patient 
+declined. This is at least his ___ hospitalization of ___ and 
+addressing his goals of care regarding future hospitalizations 
+may be useful. 
+
+====================
+ACUTE MEDICAL ISSUES
+====================
+# NSTEMI 
+# Chest Pain/Dyspnea 
+Presents with several days of chest pain that is mostly at rest. 
+Completely resolved upon arrival to floor. No ischemic changes 
+on ECG. No wall motion abnormalities on TTE from ___ during his 
+last NSTEMI in the setting of PNA. Treated with heparin after 
+troponin elevation was found, however given that his troponins 
+are quickly downtredned, he was chest pain free, his TTE did not 
+show obvious WMA and he has an incracranial aneurysm, heparin 
+was discontinued. A pharmacologic nuclear stress test was a 
+normal study with no evidence of ischemic or scar. He does have 
+known moderate lesions in two vessels from a coronary 
+angiography at the time of his TAVR. 
+- Continue home atorvastatin 80mg, plavix 75mg, ASA 81mg 
+- Continue home metoprolol tartrate 50mg BID 
+
+# Diastolic congestive heart failure 
+On torsemide 40mg daily. Unknown dry weight. He was mildly 
+hypervolemic on presentation. Precipitating cause may have been 
+recent prednisone use for pseudogout or dietary indiscretion. 
+TTE shows well seat ___ 3 valve with preserved EF. After one 
+day of IV diuresis he was again euvolemic and continued on his 
+home torsemide dose. 
+- Torsemide 40mg QD
+- Continue metoprolol 
+
+# Atrial fibrillation 
+In sinus rhythm throughout admission. No history of being 
+anticoagulated, though this had briefly been discussed by his 
+outpatient cardiologist. CHA2DSVASC2 is 4. Slightly higher risk 
+of bleed given known intracranial aneurysm. Will defer to 
+outpatient cardiologist regarding anticoagulation. 
+- AC: Has not been started by outpatient cardiologist, holding 
+for now given intracranial aneurysm 
+- Rate control: Metoprolol tartrate 50mg BID
+
+#Poor PO intake
+Patient reports he has not eaten much recently. He has lost 
+about 40 pounds in ___ years. He was recommended to have tube 
+feeding by nutrition but this was declined by the patient. He 
+needs close monitoring of his nutrition status. He was also 
+found to be high risk of aspiration and a modified food 
+consistency was recommended. He was recommended to go to rehab 
+facility but declined. 
+- Ensure Enlive TID, Magic Cup TID
+- Diet: Ground/Thins
+- Medications: crushed or whole in applesauce 
+
+======================
+CHRONIC MEDICAL ISSUES
+======================
+# HLD: Continued home atorvastatin 80 mg PO QHS 
+
+# COPD: Continued home fluticasone propion-salmeterol 1 inh 
+INHALATION
+BID 
+
+# GERD: Continued home Prilosec 20 mg PO DAILY 
+
+# Sick sinus syndrome s/p pacemaker: Continuous telemetry 
+monitoring 
+
+# Anxiety/Depression 
+- Continued home escitalopram oxalate 5 mg PO DAILY 
+- Continued home alprazolam 1 mg PO BID PRN 
+- Continued home mirtazapine [Remeron] 15 mg PO QHS 
+
+Discharge time 35 min
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Omeprazole 20 mg PO DAILY 
+2. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever 
+3. ALPRAZolam 1 mg PO BID 
+4. Atorvastatin 80 mg PO QPM 
+5. Clopidogrel 75 mg PO DAILY 
+6. Escitalopram Oxalate 10 mg PO DAILY 
+7. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+8. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea 
+9. Mirtazapine 15 mg PO QHS 
+10. GuaiFENesin ER 1200 mg PO BID:PRN cough 
+11. Metoprolol Tartrate 50 mg PO BID 
+12. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+13. Torsemide 40 mg PO DAILY 
+14. Polyethylene Glycol 17 g PO DAILY 
+15. Potassium Chloride 20 mEq PO TID 
+16. olopatadine 0.1 % ophthalmic (eye) DAILY 
+17. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea  
+3.  ALPRAZolam 1 mg PO BID  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 80 mg PO QPM  
+6.  Clopidogrel 75 mg PO DAILY  
+7.  Escitalopram Oxalate 10 mg PO DAILY  
+8.  Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID  
+9.  GuaiFENesin ER 1200 mg PO BID:PRN cough  
+10.  Metoprolol Tartrate 50 mg PO BID  
+11.  Mirtazapine 15 mg PO QHS  
+12.  olopatadine 0.1 % ophthalmic (eye) DAILY  
+13.  Omeprazole 20 mg PO DAILY  
+14.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate  
+15.  Polyethylene Glycol 17 g PO DAILY  
+16.  Potassium Chloride 20 mEq PO TID  
+17.  Torsemide 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+NSTEMI Type II
+Acute heart failure with preserved ejection fraction 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure caring for you while you were admitted to ___ 
+___. 
+
+WHY WERE YOU ADMITTED TO THE HOSPITAL?
+- You were having chest pain and there was evidence of a very 
+small heart attack. 
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+- Your heart attack quickly resolved. We did a stress test that 
+did not show any major blockages in the heart. We did an 
+ultrasound of the heart that showed it was pumping well. 
+- We changed your diet to make you less at risk of having food 
+go into your lungs. 
+- We recommended you go to a rehabilitation facility, but will 
+arrange to have visiting nurses because you decided to go home. 
+
+WHAT SHOULD YOU DO WHEN YOU GO HOME?
+- Carefully review the attached medication list as we may have 
+made changes to your medications. 
+
+Sincerely, 
+Your ___ Care Team
+ 
+Followup Instructions:
+___

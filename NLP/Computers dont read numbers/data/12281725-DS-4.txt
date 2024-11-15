@@ -1,0 +1,256 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+___
+1. Coronary artery bypass graft times 4 (left internal
+    mammary artery to left anterior descending artery, right
+    internal mammary artery to posterior descending artery,
+    and saphenous vein grafts to diagonal and obtuse
+    marginal arteries).
+2. Endoscopic harvesting of the long saphenous vein.
+
+ 
+History of Present Illness:
+___ year old man with dyslipidemia and HTN, c/o exertional chest 
+"burning" s/p abnormal stress test, presented for cardiac 
+catheterization today which showed multivessel diseasea.  
+Cardiac surgery consulted for revascularization evaluation.
+ 
+Past Medical History:
+Hyperlipidemia
+Hypertension
+Ocular hypertension
+Cataract
+Retinal tear
+Open angle glaucoma
+Posterior vitreous detachment
+Meibomitis
+Perygium
+Pinguecula
+ 
+Social History:
+___
+Family History:
+No premature coronary artery disease
+ 
+Physical Exam:
+Pulse:77, NSR Resp: 16   O2 sat:98% on RA Temp: 98.4F 
+B/P  Right:  146/80   Left: 157/74
+ 
+Height:  59in   Weight: 170lbs
+
+General: middle aged man in NAD
+Skin: Warm [x] Dry [x] Intact [x]
+HEENT: NCAT [x] PERRLA [x] EOMI [x]
+Neck: Supple [x] Full ROM [x] JVD: none []
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x] Irregular [] Murmur [] Grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds 
++ [x]
+Extremities: Warm [x], well-perfused [x], Edema: none 
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: 2   Left: 2
+DP           Right: 2   Left: 2
+___           Right: 2   Left: 2
+Radial       Right: TR band in place  Left:2
+
+Carotid Bruit  -  Right:none    Left:none
+ 
+Pertinent Results:
+INTRAOPERATIVE ECHO: Place: ___ Date: 
+Echocardiographic Measurements  
+Results  Measurements  Normal Range  
+Left Atrium - Long Axis Dimension:  *4.2 cm  <= 4.0 cm  
+Left Atrium - Four Chamber Length:  4.9 cm  <= 5.2 cm  
+Right Atrium - Four Chamber Length:  4.6 cm  <= 5.0 cm  
+Left Ventricle - Septal Wall Thickness:  *1.4 cm  0.6 - 1.1 cm  
+Left Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm 
+ 
+Left Ventricle - Diastolic Dimension:  3.5 cm  <= 5.6 cm  
+Left Ventricle - Ejection Fraction:  60% to 65%  >= 55%  
+Left Ventricle - Lateral Peak E':  0.10 m/s  > 0.08 m/s  
+Left Ventricle - Septal Peak E':  *0.08 m/s  > 0.08 m/s  
+Left Ventricle - Ratio E/E':  8  < 13  
+Aorta - Sinus Level:  *3.8 cm  <= 3.6 cm  
+Aorta - Ascending:  3.4 cm  <= 3.4 cm  
+Aortic Valve - Peak Velocity:  1.7 m/sec  <= 2.0 m/sec  
+Aortic Valve - LVOT VTI:  18     
+Mitral Valve - E Wave:  0.7 m/sec     
+Mitral Valve - A Wave:  0.5 m/sec     
+Mitral Valve - E/A ratio:  1.40     
+Mitral Valve - E Wave deceleration time:  *139 ms  140-250 ms  
+TR Gradient (+ RA = PASP):  22 mm Hg  <= 25 mm Hg  
+Findings  
+This study was compared to the prior study of ___.  
+LEFT ATRIUM: Mild ___. 
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. 
+LEFT VENTRICLE: Mild symmetric LVH with normal cavity size. 
+Suboptimal technical quality, a focal LV wall motion abnormality 
+cannot be fully excluded. Overall normal LVEF (>55%). No resting 
+LVOT gradient. 
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+AORTA: Mildy dilated aortic root. Normal ascending aorta 
+diameter. 
+AORTIC VALVE: Mildly thickened aortic valve leaflets. No AS. 
+Mild (1+) AR. 
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MR. 
+___ VALVE: Mildly thickened tricuspid valve leaflets. Mild 
+[1+] TR. Normal PA systolic pressure. 
+PULMONIC VALVE/PULMONARY ARTERY: Pulmonic valve not well seen. 
+PERICARDIUM: Very small pericardial effusion. No 
+echocardiographic signs of tamponade. 
+CONCLUSIONS: 
+The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. Due to 
+suboptimal technical quality, a focal wall motion abnormality 
+cannot be fully excluded. Overall left ventricular systolic 
+function is normal (LVEF>55%). Right ventricular chamber size 
+and free wall motion are normal. The aortic root is mildly 
+dilated at the sinus level. The aortic valve leaflets are mildly 
+thickened (?#). There is no aortic valve stenosis. Mild (1+) 
+aortic regurgitation is seen. The mitral leaflets are mildly 
+thickened. No mitral regurgitation is seen. The tricuspid valve 
+leaflets are mildly thickened. The estimated pulmonary artery 
+systolic pressure is normal. There is a very small pericardial 
+effusion. There are no echocardiographic signs of tamponade. 
+IMPRESSION: Suboptimal image quality. Very small pericardial 
+effusion adjacent to lateral wall. Mild symmetric left 
+ventricular hypertrophy with preserved biventricular cavity size 
+and global/regional systolic function. Mild aortic 
+regurgitation. 
+Compared with the prior study (images reviewed) of ___, 
+regional wall motion abnormalities are not appreciated. Aortic 
+regurgitation is present. The effusion is new.   
+
+___ 06:20AM BLOOD WBC-16.4* RBC-3.76* Hgb-11.2* Hct-33.0* 
+MCV-88 MCH-29.8 MCHC-34.0 RDW-12.9 Plt ___
+___ 06:20AM BLOOD Plt ___
+___ 06:20AM BLOOD Mg-1.9
+
+___ CXR
+In comparison with the study of ___, the chest tube has been 
+removed and there is no definite pneumothorax.  Otherwise, 
+little change in 
+the appearance of the heart and lungs. 
+
+ 
+Brief Hospital Course:
+Mr. ___ was a same day admit and on ___ was brought directly 
+to the operating room where he underwent a coronary artery 
+bypass graft x 4. Please see operative note for surgical 
+details. Following surgery he was transferred to the CVICU for 
+invasive monitoring in stable condition. He had post-operative 
+bleeding with a drop in hematocrit to 28.5 when 2 units of blood 
+were transfused. He remained stable hemodynamically and 
+postoperative bleeding resolved. Later this day he was weaned 
+from sedation, awoke neurologically intact and extubated. On 
+post-op day one he was started on beta-blockers and diuretics 
+and gently diuresed towards his pre-op weight. Later this day he 
+was transferred to the telemetry floor for further care. Chest 
+tubes and epicardial pacing wires were removed per protocol. He 
+was started on Imdur for his radial artery harvest which will 
+continue for 3 months. His creatinue peaked at 2.0 mild ___ 
+currently trending down. His WBC were also elevate but are 
+trending down. Cultures negative. He remains afebrile and his 
+wounds are healing well. Physical therapy worked with patient 
+post-op for assistance with strength and mobility. He was 
+discharged home with services on POD 4 with appropriate 
+follow-up instructions. 
+ 
+Medications on Admission:
+AMLODIPINE - amlodipine 5 mg tablet. one tablet(s) by mouth once
+a day in am -  (Prescribed by Other Provider)
+METOPROLOL SUCCINATE - metoprolol succinate ER 50 mg BID
+LIPITOR 40mg daily
+TRIAMTERENE-HYDROCHLOROTHIAZID - triamterene 75
+mg-hydrochlorothiazide 50 mg tablet. one tablet(s) by mouth once
+a day in am -  (Prescribed by Other Provider)
+Aspirin 81mg po daily
+Multivitamin 1 tab po daily
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. Acetaminophen 650 mg PO Q4H:PRN pain, fever 
+5. Docusate Sodium 100 mg PO BID 
+6. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+RX *isosorbide mononitrate [Imdur] 60 mg 1 tablet extended 
+release 24 hr(s) by mouth once a day Disp #*90 Tablet Refills:*0
+7. Metoprolol Tartrate 75 mg PO TID 
+RX *metoprolol tartrate [Lopressor] 50 mg 1.5 (One and a half) 
+tablet(s) by mouth three times a day Disp #*90 Tablet Refills:*1
+8. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN pain 
+RX *oxycodone-acetaminophen [Percocet] 5 mg-325 mg ___ tablet(s) 
+by mouth every four (4) hours Disp #*40 Tablet Refills:*0
+9. Triamterene-Hydrochlorothiazide 1 CAP PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Coronary artery disease s/p Coronary artery bypass graft x 4
+Past medical history:
+Hyperlipidemia
+Hypertension
+Ocular hypertension
+Cataract
+Retinal tear
+Open angle glaucoma
+Posterior vitreous detachment
+Meibomitis
+Perygium
+Pinguecula
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal 
+Ambulating with steady gait
+Incisional pain managed with 
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+LegLeft - healing well, no erythema or drainage.
+Edema trace
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart 
+
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+Females: Please wear bra to reduce pulling on incision, avoid 
+rubbing on lower edge
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+ 
+Followup Instructions:
+___

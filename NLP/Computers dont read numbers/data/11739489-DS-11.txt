@@ -1,0 +1,420 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lethargy, shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is an ___ man with hx atrial fibrillation, PPM for
+CHB, hypertension, obstructive sleep apnea, CAD status post MI,
+seizure disorder, severe persistent asthma, temporal meningioma,
+who presents for evaluation of respiratory symptoms,
+hyponatremia, aphasic episodes.  So a lot of ___ 
+nodes
+usually like that I mean I do not know if he can also when I was
+ability like everybody-always ___ likes each but that is
+more like a long term effect but I do not know if it can also
+cause
+
+The patient is had about 10 days of chest congestion and cough
+that began after an episode of choking while eating. However, 
+the
+cough is continued. He has been fatigued and weak. His wife
+reports that he has been slightly confused, and they measured a
+T-max of 100.4. Due to these symptoms, the patient presented to
+___ urgent care today; at that visit, his sodium 
+was
+noted to be 125, and in light of his prior seizure disorder, he
+was referred to the ED for further evaluation.
+
+Of note, the patient was recently seen in our emergency
+department for evaluation after a fall. A noncontrast head CT 
+did
+not reveal any acute process. He had a laceration above the left
+eyebrow that was sutured.
+
+Otherwise, he has a history of resected meningioma with an
+associated partial seizure disorder. His wife states that over
+the last few days, his gait is been slightly unsteady, and that
+he has been having episodes of around ___ seconds of aphasia
+without any other focal neurologic deficits.  However, this is
+not her primary concern regarding the changes that he has had 
+for
+the past few days, and she wonders why ___ so focused on 
+this
+specific symptom.
+
+She states he had a temperature to ___ yesterday, otherwise
+does not think he has had any fevers, chest pain, abdominal 
+pain,
+nausea, vomiting, diarrhea, dysuria.
+
+She also notes that he had an episode of hematuria in the
+emergency department, which he has never had before.
+  
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, +Dyslipidemia, +Hypertension  
+
+2. CARDIAC HISTORY:  
+- presented  ___ with NSTEMI/increased troponin.
+Cardiac catheterization on ___ showed no significant 
+obstructive disease, though there was evidence of diastolic 
+dysfunction on hemodynamic measurement. 
+-CABG:  none
+-PERCUTANEOUS CORONARY INTERVENTIONS: none 
+-PACING/ICD:  none
+3. OTHER PAST MEDICAL HISTORY:
+1. Seizure disorder  
+2. L temporal meningioma; resection on ___  
+3. AV node dysfunction - 1st degree AV block 
+4. HYPERTENSION - ESSENTIAL, UNSPEC  
+5. POSITIVE PPD (RPRT DPH)  
+6. Hyperlipidemia LDL goal <100  
+7. CAD (coronary artery disease) s/p MI ___ years ago  
+8. Cognitive dysfunction  
+9. Steroid-induced hyperglycemia  
+10. Mood disorder due to a general medical condition  
+11. Prediabetes  
+12. Abdominal distension  
+13. ASTHMA - intubated x2
+___. GLAUCOMA - PRIMARY OPEN ANGLE 
+15. postherpetic neuralgia - right chest
+16. Ascending aorta dilatation (4.8cm)
+17. CKD
+
+ 
+Social History:
+___
+Family History:
+He doesn't know his family well.
+Mother died in her ___ - ? Cardiac? Was a smoker.
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: Temp: 100.5, BP: 151/56, HR: 85, RR: 20, O2 sat: 93%, O2
+delivery: RA, Wt: 203.92 lb/92.5 kg  
+GENERAL: Sleeping, shivering, appears uncomfortable but NAD
+HEENT: sclera anicteric, MMM
+CARDIAC: regular rate and rhythm, no murmurs, rubs, or gallops
+LUNGS: CTABL, no wheezes, rales, or rhonchi, normal WOB on room
+air
+ABDOMEN: soft, non-tender, non-distended, bowel sounds present,
+no rebound or guarding
+GU: No foley
+EXTREMITIES: warm, well perfused, no cyanosis, trace bilateral
+edema
+NEURO: Awakens to voice, O x2 (did not know location), unable to
+participate further in neurologic exam but face appears 
+symmetric
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: 
+24 HR Data (last updated ___ @ 1119)
+    Temp: 98.2 (Tm 98.6), BP: 148/64 (127-170/64-83), HR: 63
+(63-71), RR: 18, O2 sat: 95% (91-97), O2 delivery: Ra    
+GENERAL:  NAD
+HEENT: sclera anicteric, MMM
+CARDIAC: regular rate and rhythm, no murmurs, rubs, or gallops
+LUNGS: CTAB with no wheezes, rales, or rhonchi, normal WOB on
+room air
+ABDOMEN: soft, non-tender, non-distended, bowel sounds present,
+no rebound or guarding
+EXTREMITIES: warm, well perfused, no cyanosis, trace bilateral
+edema
+NEURO: AxOx3 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 03:45PM BLOOD WBC-9.8 RBC-3.75* Hgb-11.6* Hct-31.8* 
+MCV-85 MCH-30.9 MCHC-36.5 RDW-12.1 RDWSD-37.0 Plt ___
+___ 03:45PM BLOOD Neuts-69.4 Lymphs-16.8* Monos-11.5 
+Eos-1.3 Baso-0.5 Im ___ AbsNeut-6.76* AbsLymp-1.64 
+AbsMono-1.12* AbsEos-0.13 AbsBaso-0.05
+___ 03:45PM BLOOD ___ PTT-31.2 ___
+___ 03:45PM BLOOD Glucose-102* UreaN-16 Creat-1.0 Na-126* 
+K-3.7 Cl-86* HCO3-27 AnGap-13
+___ 03:45PM BLOOD ALT-23 AST-33 CK(CPK)-579* AlkPhos-69 
+TotBili-0.7
+___ 03:45PM BLOOD CK-MB-4 proBNP-441
+___ 03:45PM BLOOD cTropnT-0.03*
+___ 08:45PM BLOOD cTropnT-0.03*
+___ 03:45PM BLOOD Albumin-4.0 Calcium-9.4 Phos-2.8 Mg-1.7
+___ 03:45PM BLOOD Osmolal-259*
+___ 03:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+DISCHARGE LABS:
+===============
+___ 04:59AM BLOOD WBC-5.9 RBC-3.44* Hgb-10.4* Hct-29.7* 
+MCV-86 MCH-30.2 MCHC-35.0 RDW-11.8 RDWSD-37.2 Plt ___
+___ 04:59AM BLOOD Glucose-110* UreaN-11 Creat-0.9 Na-133* 
+K-4.0 Cl-96 HCO3-27 AnGap-10
+___ 04:59AM BLOOD Calcium-8.4 Phos-3.2 Mg-1.9
+
+MICRO:
+======
+___ 8:30 pm BLOOD CULTURE      2 OF 2. 
+
+   Blood Culture, Routine (Preliminary): 
+      GRAM POSITIVE COCCUS(COCCI).    IN CLUSTERS. 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE. 
+         Isolated from only one set in the previous five days. 
+         SENSITIVITIES PERFORMED ON REQUEST.. 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___ (___ ON 
+___. 
+      GRAM POSITIVE COCCI IN CLUSTERS. 
+
+STUDIES:
+========
+CHEST (PA & LAT) ___
+Increased right basilar opacity, new compared to ___ 
+and may 
+reflect developing pneumonia. 
+
+CTA HEAD & CTA NECK ___. Chronic findings on head CT as described on the previous CT 
+of ___.  No acute hemorrhage. 
+2. No significant abnormalities on CT angiography of the head 
+neck.  No 
+evidence of vascular occlusion stenosis or aneurysm greater than 
+3 mm in size. 
+
+ 
+Brief Hospital Course:
+___ man with hx atrial fibrillation, PPM for CHB, 
+hypertension, obstructive sleep apnea, CAD status post MI, 
+seizure disorder, severe persistent asthma, temporal meningioma, 
+who presents for evaluation of respiratory symptoms, 
+hyponatremia, aphasic episodes. 
+
+ACUTE ISSUES 
+============
+# Pneumonia
+# Aspiration 
+Patient had witnessed episode of aspiration about 10 days prior 
+to admission. He then sytemic symptoms as well as shortness of 
+breath. He was seen by speech and swallow and was not felt to be 
+aspirating, but likely is just eating too fast. He was initially 
+started on ceftriaxone and azithromycin for CAP. He was given 
+ceftazidime for one day. He was then transitioned to Unasyn on 
+___ and continued a 5 day course of azithromycin. He was 
+transitioned to Augmentin to complete a course of antibiotics on 
+___. 
+
+# Toxic metabolic encephalopathy 
+Initial concern the patient was either experiencing TIA, stroke, 
+or breakthrough seizure based on reports of 15-second aphasic 
+episodes, however per further discussion with his wife this is 
+not far off of his baseline. His progressive lethargy over days 
+prior to admission was probably secondary to infection and 
+hyponatremia. His mental status improved to near his baseline 
+with treatment of these, however he would likely benefit from a 
+neurocognitive evaluation as an outpatient. 
+
+# Hyponatremia 
+He appared euvolemic with elevated urine sodium and osms most 
+consistent with SIADH in setting of pulmonary illness and 
+possibly AED. His oxcarbazepine was down-titrated as he was 
+started on lacosamide. He subsequently had an improvement in his 
+serum sodium. 
+
+# Seizure disorder 
+Neurology was consulted in the emergency department given 
+initial reports of aphasic episodes. Given his hyponatremia, 
+they recommended tapering off of his oxcarbazepine and starting 
+lacosamide as replacement. He tolerated this well without any 
+recurrence of seizures. His oxcarbazepine was decreased to 300 
+mg TID and then 150 TID for 3 days (___). It should be 
+stopped on ___ and at this point lacosamide can be increased 
+to 150 daily. He continued his Keppra at his former dose. 
+
+# GPC growing in blood culture
+Per Micro lab, ___ bottles from ___ growing 2 species of GPCs.
+One appears to be consistent with alpha-hemolytic strep and
+another may be coag-negative staph. Suspect likely contaminants. 
+
+
+# Hypertension 
+On a complex regimen of losartan, hydralazine, amlodipine, 
+diltiazem, HCTZ and minoxidil at home. These were held on 
+admission with concern for potential decompensation. His 
+losartan, hydralazine, and diltiazem were all added back prior 
+to discharge. 
+
+# Atrial fibrillation
+He continued his home apixaban and management of diltiazem as 
+above. 
+
+CHRONIC ISSUES
+===============
+# CAD status post MI 
+He continued his home atorvastatin. 
+
+# OSA on home BiPAP 
+He continued his home BiPAP. 
+
+# Glaucoma 
+He continued his home meds. 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] He will complete a course of Augmentin on ___. 
+[ ] He would benefit from outpatient neurocognitive testing to 
+assess his baseline level of cognitive impairment. 
+[ ] Several of his home antihypertensives were held upon 
+discharge (amlodipine, HCTZ, and minoxidil). Please assess his 
+blood pressure and add these back as needed.
+[ ] He was hyponatremic, please check a BMP on ___. 
+[ ] Please continue oxcarbazepine 150 mg TID ___ and 
+then STOP. 
+[ ] Please increase lacosamide to 150 mg twice daily on ___. 
+
+CODE: Full 
+CONTACT: ___, wife, ___
+
+Greater than 30 minutes spent on complex discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+2. Diltiazem 30 mg PO TID 
+3. HydrALAZINE 20 mg PO BID 
+4. amLODIPine 10 mg PO DAILY 
+5. HydrALAZINE 10 mg PO QPM 
+6. Montelukast 10 mg PO QPM 
+7. OXcarbazepine 600 mg PO TID 
+8. Atorvastatin 40 mg PO QPM 
+9. Minoxidil 2.5 mg PO DAILY 
+10. Ipratropium-Albuterol Neb 1 NEB NEB Q4H:PRN wheezing, SOB 
+11. Hydrochlorothiazide 25 mg PO DAILY 
+12. Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES TID 
+13. brimonidine 1 DROP BOTH EYES BID 
+14. omalizumab 300 mg subcutaneous Q28Days 
+15. triamcinolone acetonide 0.5 % topical BID 
+16. Apixaban 5 mg PO BID 
+17. Mometasone Nasal Spray  (*NF*) 2 SPRAYS Other DAILY 
+18. Losartan Potassium 100 mg PO DAILY 
+19. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+20. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing 
+21. EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 
+22. LevETIRAcetam 750 mg PO BID 
+23. LevETIRAcetam 1000 mg PO QPM 
+24. Calcium Carbonate 500 mg PO BID 
+25. Loratadine 10 mg PO DAILY 
+26. Multivitamins 1 TAB PO DAILY 
+27. Fish Oil (Omega 3) 1000 mg PO DAILY 
+28. Vitamin D 1000 UNIT PO DAILY 
+29. Ipratropium-Albuterol Neb 1 NEB NEB BID 
+30. Flovent HFA (fluticasone) 220 mcg/actuation inhalation BID 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+Please stop ___.  LACOSamide 100 mg PO BID Duration: 1 Day 
+Increase to 150 BID on ___.  LACOSamide 150 mg PO BID 
+Please start increased dose ___.   
+4.  OXcarbazepine 150 mg PO TID Duration: 1 Day 
+Please stop ___.  Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing  
+6.  Apixaban 5 mg PO BID  
+7.  Atorvastatin 40 mg PO QPM  
+8.  brimonidine 1 DROP BOTH EYES BID  
+9.  Calcium Carbonate 500 mg PO BID  
+10.  Diltiazem 30 mg PO TID  
+11.  Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES TID  
+12.  EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1  
+13.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+14.  Flovent HFA (fluticasone) 220 mcg/actuation inhalation BID  
+
+15.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+16.  HydrALAZINE 20 mg PO BID  
+17.  HydrALAZINE 10 mg PO QPM  
+18.  Ipratropium-Albuterol Neb 1 NEB NEB BID  
+19.  Ipratropium-Albuterol Neb 1 NEB NEB Q4H:PRN wheezing, SOB  
+20.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+21.  LevETIRAcetam 750 mg PO BID  
+22.  LevETIRAcetam 1000 mg PO QPM  
+23.  Loratadine 10 mg PO DAILY  
+24.  Losartan Potassium 100 mg PO DAILY  
+25.  Mometasone Nasal Spray  (*NF*) 2 SPRAYS Other DAILY  
+26.  Montelukast 10 mg PO QPM  
+27.  Multivitamins 1 TAB PO DAILY  
+28.  omalizumab 300 mg subcutaneous Q28Days  
+29.  triamcinolone acetonide 0.5 % topical BID  
+30.  Vitamin D 1000 UNIT PO DAILY  
+31. HELD- amLODIPine 10 mg PO DAILY  This medication was held. 
+Do not restart amLODIPine until you see your doctor. 
+32. HELD- Hydrochlorothiazide 25 mg PO DAILY  This medication 
+was held. Do not restart Hydrochlorothiazide until you see your 
+doctor.
+33. HELD- Minoxidil 2.5 mg PO DAILY  This medication was held. 
+Do not restart Minoxidil until you see your doctor
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pneumonia 
+Hyponatremia 
+Seizure disorder 
+Toxic metabolic encephalopathy 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure being involved in your care!
+
+Why you were hospitalized:
+==========================
+- You had pneumonia, an infection in your lungs. 
+- You had low sodium in your blood. This may have been from one 
+of your anti-seizure medications or from the pneumonia. 
+
+What happened in the hospital:
+==============================
+- You were given antibiotics for a lung infection. 
+- Your anti-seizure medications were changed. 
+
+What you should do when you leave the hospital:
+===============================================
+- Continue to take your medications as prescribed. 
+- Attend all of your follow-up appointments. 
+
+We wish you the best!
+Your ___ Team
+
+ 
+Followup Instructions:
+___

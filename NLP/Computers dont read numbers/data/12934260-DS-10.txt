@@ -1,0 +1,220 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo woman with anxiety, depression, urinary incontinence s/p 
+pelvis stimulator, and recent hospitalization for diarrhea and 
+UTI, who p/w abdominal pain and bloating. The pt was admitted to 
+___ in the end of ___ for diarrhea and UTI and 
+was then discharged to ___. For the past week she 
+has had worsening abdominal pain and has not had a BM for 3 days 
+despite taking senokot and dulcolax. She is passing gas. The 
+abdominal pain is diffuse, but worse in the lower abdomen and 
+radiates to the left flank. Appetite is good and she has been 
+eating/drinking normally. No fevers/chills, N/V, melena, or 
+hematochezia. She notes increased urinary frequency and it feels 
+"hot" when she urinates. 
+
+In the ED inital vitals were: 97.4, 102, 117/89, 22, 98%RA. In 
+triage she reported a "fluttering" sensation in her chest that 
+radiated down her left arm. She had a similar sensation during 
+the ___ admission but reports that a stress test was normal. 
+An EKG in the ED showed sinus rhythm w/o ST/T changes. Troponin 
+nml. She later became unresponsive for a period of minutes which 
+spontaneously resolved, no airway compromise, pt does not 
+remember any details. Labs were notable for lactate 2.9, Mg 1.5, 
+nml trop, nml lipase and LFTs. She was given ASA 325mg, 
+magnesium sulfate 4g, morphine 4mg IV x2. 
+
+ROS: As noted above. Denies headache, dizziness, dysphagia, 
+current CP, SOB, palpitations, nausea, vomiting, arthralgias, or 
+rash. She does report a "tingling" sensation in her hands and 
+feet.
+ 
+Past Medical History:
+1. anxiety  
+2. depression  
+3. OCD  
+4. urinary incontinence s/p pelvic stimulator  
+5. stocking/glove peripheral neuropathy ___ a "nervous 
+breakdown" at work)  
+6. dermatoid ovarian tumors s/p TAH/BSO  
+7. irritable bowel syndrome  
+8. GERD
+9. s/p cholecystectomy ___ 
+ 
+Social History:
+___
+Family History:
+Father - died last year; prostate CA, DM, HTN, CAD
+Mother - has a colostomy (unclear reason)
+ 
+Physical Exam:
+ON ADMISSION:
+Vitals: 97, 134/96, 80, 16, 94%RA  
+General: Tired, uncomfortable when moving 
+HEENT: NC/AT, EOMI, no incterus, +white plaques on tongue, no 
+oral lesions, MMM
+Neck: Supple, no JVD, no LAD, no thyromegaly
+Lungs: CTAB  
+CV: RRR, nml S1/S2, no M/R/G
+Abdomen: NABS, soft, distended but no shifting dullness, TTP 
+diffusely but worse in lower abdomen bilaterally, no 
+guarding/rebound, unable to assess for hepatosplenomegaly  
+Back: +TTP in left flank, no spinal tenderness
+Extrem: warm, dry no edema  
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 08:29PM BLOOD WBC-9.7 RBC-5.06 Hgb-15.1 Hct-44.3 
+MCV-87# MCH-29.8# MCHC-34.1 RDW-13.8 Plt ___
+___ 08:29PM BLOOD Glucose-118* UreaN-7 Creat-0.8 Na-139 
+K-4.3 Cl-100 HCO3-27 AnGap-16
+___ 08:29PM BLOOD cTropnT-<0.01
+___ 06:30AM BLOOD cTropnT-<0.01
+
+DISCHARGE LABS:
+
+___ 07:15AM BLOOD WBC-5.4 RBC-4.82 Hgb-14.5 Hct-42.4 MCV-88 
+MCH-30.0 MCHC-34.1 RDW-13.7 Plt ___
+___ 07:15AM BLOOD Glucose-125* UreaN-4* Creat-0.5 Na-140 
+K-4.5 Cl-102 HCO3-32 AnGap-11
+___ 07:15AM BLOOD Calcium-9.0 Phos-3.8 Mg-1.7
+
+RADIOLOGY STUDIES:
+CT TORSO:
+1. No acute cardiopulmonary process, including no pulmonary 
+embolus, acute 
+aortic syndrome, or pneumonia. Minimal dependent atelectasis is 
+noted. 
+2. No acute intra-abdominal process. There is sigmoid and left 
+colonic 
+diverticulosis, without evidence of diverticulitis or colitis. 
+No abscess, 
+free fluid or free air. 
+
+CT HEAD:
+No acute intracranial process, and no change from ___.
+ 
+Brief Hospital Course:
+___ yo woman with anxiety/depression, recent admission for 
+colitis and UTI, who p/w abdominal pain/bloating in the setting 
+of 3 days w/o a BM. Noted to have chest "fluttering" in the ED 
+and an question of unresponsive episode. 
+
+# CONSTIPATION/ABDOMINAL PAIN: Abdominal pain likely related to 
+constipation. Patient started on miralax, docusate, bisacodyl, 
+senna. She had BM after enema. In ED she did have CT abd/pelvis 
+that showed diverticulosis no evidence of any acute process. In 
+order to maintain regular bowel movements would suggest a high 
+fiber diet, at least 1L of fluids per day and daily miralax and 
+docusate. Would avoid senna, suppositories and other medications 
+that cause urgency. Suspect that patient's multiple 
+depression/anxiety meds could also be contributing to 
+constipation symptoms and might be beneficial having her see her 
+pscyhiatrist to discuss less constipating options.
+
+# ATYPICAL CHEST PAIN: Likely represented anxiety. No e/o 
+ischemia on ECG and neg troponins x 2. No further medical 
+work-up suggested.
+
+# Unresponsive Episode: This was unwitnessed. Pt unable to 
+recall details of this event. Head CT was negative. Normal 
+neurologic exam. No further episodes during this 
+hospitalization.
+
+# Peripheral Neuropathy: Continued gabapentin. As per last outpt 
+neurology note, you can continue to titrate up as patient 
+tolerates to as high as 
+
+# Anxiety/depression: Continue home meds but schedule pt to f/u 
+with outpt pyschiatrist or whomever prescribes psych meds to 
+discuss changing to meds with fewer constipating side effects.
+
+FULL CODE
+FULLY ORIENTED 
+ 
+Medications on Admission:
+1. Fluvoxamine 50 mg daily  
+2. Imipramine 50 mg daily  
+3. Duloxetine 60 mg daily  
+4. Neurontin 500 mg TID  
+5. Vicodin PRN  
+6. Xanax 0.25 TID  
+7. Ambien 10 mg qhs  
+8. Ibuprofen 600 mg BID  
+9. Hydroxyzine 25 mg daily  
+10. Prilosec  
+ 
+Discharge Medications:
+1. fluvoxamine 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. imipramine HCl 25 mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime).  
+3. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+4. gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours).  
+5. hydrocodone-acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q4H (every 4 hours) as needed for pain.  
+6. alprazolam 0.25 mg Tablet Sig: One (1) Tablet PO TID (3 times 
+a day) as needed for anxiety.  
+7. zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+8. ibuprofen 600 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for pain, headache.  
+9. hydroxyzine HCl 25 mg Tablet Sig: One (1) Tablet PO once a 
+day.  
+10. Prilosec  Oral
+11. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  
+PO DAILY (Daily) as needed for constipation.  
+12. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY: Constipation, Atypical Chest Pain
+SECONDARY: Anxiety, Depression, Peripheral Neuropathy
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to the hospital because you were having 
+abdominal pain. We believe your abdominal pain may have been 
+related to constipation. You were able to move your bowels while 
+you were in the hospital. You did have a CT scan of your abdomen 
+which was normal. You were seen by physical therapy who 
+recommend that you return to rehab.
+
+NEW MEDICATIONS:
+Miralax daily
+Docusate sodium daily
+ 
+Followup Instructions:
+___

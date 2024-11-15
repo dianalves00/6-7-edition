@@ -1,0 +1,380 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Anorexia, nausea, vomiting, diffuse pruritus x 1 month, found to 
+have hypertensive urgency
+ 
+Major Surgical or Invasive Procedure:
+Tunneled hemodialysis line placement 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old male with history of diabetes 
+mellitus (last A1c was 6.36% in ___ complicated by 
+nephropathy, retinopathy, s/p PRP (___), HTN, HLD, CKD stage 
+IV s/p RUE AVF placement (___), OSA, MDD, and schizophrenia 
+who presents with anorexia, nausea, vomiting, and diffuse 
+pruritis for 1 month. He has had relatively quick progressive 
+renal dysfunction believed to be secondary to diabetic 
+nephropathy. Patient has had multiple recent admissions related 
+to volume overload. He was seen by his nephrologist, Dr ___ 
+on ___ complaining of these same symtpoms. Dr. ___ 
+___ Mr. ___ to be directly admitted for HD 
+initiation, but he reports that he "had things to take care of." 
+He reports that he is now ready to initiate HD. He denies chest 
+pain, shortness of breath, dysuria, hematuria. He does note 
+increased urine volume after increasing his diuretic. He has 
+noticed a corresponding decrease in his ___ edema. He did not 
+take his medications this morning however. Related to this, he 
+has an occasional "funny" sensation on his right thumb, but no 
+symptoms consistent with steal.  
+
+The patient is additionally reporting orthopnea and paroxysmal 
+nocturnal dyspnea. He denies chest pain, abdominal pain, bowel 
+or bladder changes (although he does note dark urine lately). Pt 
+had AVF placed on ___, which is not yet mature.  
+
+ 
+Past Medical History:
+-CHF/Cardiomyopathy: Mild systolic and severe diastolic 
+dysfunction.  
+-Diabetes  
+-Hypertension  
+-Hypercholesterolemia  
+-CKD, stage 3  
+-Depression/Schizophrenia  
+-OSA  
+ 
+Social History:
+___
+Family History:
+Mother and maternal grandmother had diabetes and both used 
+insulin.  Mother died of cancer. Grandfather (maternal) also has 
+diabetes. Father is alive at ___. He does not know his father's 
+health  status. No early CAD or sudden cardiac death.
+ 
+Physical Exam:
+On admission: 
+Vitals - T: 98.5 BP: 190/94 HR: 80 RR: 16 02 sat: 99%RA  
+Gen: Young man lying comfortably in bed, in no acute distress  
+HEENT: No conjunctival pallor. No icterus. MMM. OP clear. 
+Decreased vision in right eye.  
+NECK: Supple, No LAD. JVP 12. Normal carotid upstroke without 
+bruits. No thyromegaly.  
+CV: RRR. normal S1, loud P2. ___ HSM at ___  
+LUNGS: Crackles bilateral bases. No wheezes. Breathing 
+comfortably.  
+ABD: Nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXT: WWP, 1+ edema bilaterally. Full distal pulses bilaterally.  
+
+No femoral bruits. Right AV fistula in the patient's wrist with 
+a palpable thrill.  
+SKIN: No rashes/lesions, ecchymoses.  
+NEURO: A&Ox3. CN ___ grossly intact. Preserved sensation  
+throughout. ___ strength throughout. ___ reflexes, equal ___.  
+
+On discharge:
+VS - Temp 98.3 BP 174/72 HR 72 RR 18 SpO2 95% RA  
+General: well-appearing, NAD  
+HEENT: MMM, EOMI right, left eye closed without eye patch  
+Neck: Supple. JVP at angle of mandible.  
+CV: RRR, S1/S2, I/VI systolic murmur at left sternal border  
+Lungs: Crackles right base > left base. Good air movement.  
+Abdomen: Obese. Soft, nontender. +BS. No palpable masses.  
+Ext: No cyanosis. Trace edema bilaterally to mid-calf. Bilateral 
+radial pulses 2+, palpable thrill and bruit auscultated over R 
+forearm AV fistula  
+Neuro: CN grossly intact. Vision decreased in right eye (patient 
+states chronic)  
+Skin: Xerosis over bilateral legs. No rashes or other lesions.  
+
+ 
+Pertinent Results:
+On admission:
+___ 12:45PM BLOOD WBC-5.3 RBC-2.72* Hgb-8.0* Hct-26.2* 
+MCV-96 MCH-29.3 MCHC-30.4* RDW-15.0 Plt ___
+___ 12:45PM BLOOD Neuts-72.3* ___ Monos-4.9 
+Eos-4.3* Baso-0.6
+___ 12:45PM BLOOD ___ PTT-34.7 ___
+___ 10:00AM BLOOD UreaN-60* Creat-4.7* Na-144 K-3.7 Cl-105 
+HCO3-26 AnGap-17
+___ 10:00AM BLOOD Calcium-8.3* Phos-4.6*
+___ PPD planted and negative at 72 hours
+
+At discharge:
+___ 06:32AM BLOOD WBC-4.3 RBC-2.77* Hgb-8.3* Hct-25.7* 
+MCV-93 MCH-29.9 MCHC-32.2 RDW-14.1 Plt ___
+___ 06:32AM BLOOD Glucose-127* UreaN-48* Creat-4.7* Na-137 
+K-3.9 Cl-100 HCO3-29 AnGap-12
+
+In the interim:
+___ 06:32AM BLOOD Calcium-8.6 Phos-4.5 Mg-2.0
+___ 12:45PM BLOOD cTropnT-0.47*
+___ 12:45PM BLOOD CK-MB-11*
+___ 01:04PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE
+
+Microbiology:
+Urine culture (___):
+No evidence of deep vein thrombosis in the left upper extremity. 
+ Moderate subcutaneous edema in the arm. 
+
+Imaging:
+ECG ___
+Sinus rhythm. Prolonged Q-T interval. Possible left atrial 
+abnormality. 
+Non-specific inferolateral ST-T wave abnormalities. Compared to 
+the previous tracing of ___ no significant change. 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+74 ___ 54 48 -20 
+
+CXR ___  
+Impression: Severe cardiomegaly with mild pulmonary vascular 
+congestion. Continued elevation of the right hemidiaphragm again 
+raises concern for a subpulmonic effusion. Bibasilar 
+atelectasis.  
+
+CT head without contrast ___  
+Impresion: New hypodensity in the splenium of the corpus 
+callosum, for which MRI is recommended. 
+
+Tunneled dialysis catheter placement ___
+Successful placement of a 15.5 ___ tunneled dialysis line.  
+The tip of the catheter terminates in the right atrium. The 
+catheter is ready for use. 
+
+Neck soft tissue ultrasound ___
+Minimal subcutaneous gas, within expected postprocedural limits. 
+No soft 
+tissue hematoma or abscess identified.  Anechoic area deep to 
+catheter may be artifactual, but if there is continued concern 
+for hematoma, neck CT would be necessary to evaluate. 
+
+Left upper extremity venous ultrasound ___
+No evidence of deep vein thrombosis in the left upper extremity. 
+ Moderate subcutaneous edema in the arm. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with history of end stage renal disease 
+who was admitted for nausea/vomiting/pruritus, as well as 
+hypertensive emergency, with systolic blood pressures up to 
+200-230s upon presentation. He was noted to be in progressive 
+renal failure in urgent need of initiation of hemodialysis. 
+
+ACTIVE ISSUES:
+#Hypertensive emergency: Patient presented with systolic blood 
+pressures up to 223/112 in the ED and troponinemia concerning 
+for end-organ damage, though troponinemia confounded by ESRD. 
+Cardiology evaluated the patient in the ED before admission and 
+felt that there was no need to continue trending cardiac enzymes 
+due to  low suspicion for acute coronary syndrome, advising 
+instead improved blood pressure control. He did not endorse any 
+dizziness, lightheadedness, chest pain, palpitations, or 
+headaches upon presentation, and decreased vision bilaterally 
+was unchanged from baseline and felt to be attributable to 
+bilateral vitreous hemorrhage as below. Over the course of his 
+stay, he was maintained on his home antihypertensive regimen, 
+which included labetalol, hydralazine, lisinopril, and 
+isosorbide, with addition of amlodipine for improved blood 
+pressure control, with systolic blood pressures largely under 
+170s at discharge. 
+
+#End stage renal disease: On admission, patient was endorseing 
+nausea, vomiting, and pruritus likely secondary to uremia. Also, 
+he reported orthopnea and paroxysmal noctural dyspnea presumed 
+to be secondary to volume overload. He was scheduled to have an 
+___ tunneled line placed the morning after admission, as 
+his AV fisula that was placed on ___ was not yet mature. 
+Placement of the left-sided line was uneventful. He received 4 
+sessions of HD in-house, and during each of the last 2 sessions, 
+he had 4L volume taken off. Overall, he tolerated the sessions 
+well. During session #4, his systolic blood pressure rose again 
+to the 200s, and his anti-hypertensives which had not been 
+administered prior to the session were given during dialysis. 
+Systolic blood pressure decreased to 95, and UF was adjusted 
+accordingly. He returned to the floor complaining of dizziness, 
+which self-resolved within ___ hours. PPD placed and hepatitis 
+serologies sent this admission, all of which returned negative. 
+He was placed at an outpatient HD center on a 
+___ schedule. He was discharged on 
+___, and per discussion with renal, would initiate 
+outpatient sessions on ___. He has follow-up 
+scheduled with Dr. ___ his AV fistula; once that has 
+adequately matured, patient's tunneled line can be discontinued. 
+His sevelamer and calcitriol were continued throughout this 
+stay.
+
+#Left upper extremity swelling: Patient did complaint of left 
+upper extremity swelling during this admission, which improved. 
+He did have a left upper extremity ultrasound, which returned 
+negative for DVT. Swelling was thought to be secondary to volume 
+overload in the setting of need for initiation of dialysis.
+
+#Visual changes: Patient reports decreased vision in his right 
+eye, and was noted to have a right vitreous hemorrhage, possible 
+secondary to diabetic retinopathy, on a prior admission. He was 
+transported to the ophthalmology clinic during this admission 
+for follow-up visits, as well as a laser procedure in the right 
+eye. Patient tolerated the procedure well. He has a scheduled 
+laser treatment for his left eye for the week after discharge, 
+which also contains some degree of vitreous hemorrhage. He was 
+instructed not to drive, and was discharged safely to ensure 
+that someone could take care of him considering his visual loss 
+on the right. 
+
+# CT head changes/ splenium hypodensity: Patient received a CT 
+head upon presentation to rule out intracranial hemorrhage/ 
+increased intracranial pressure in the setting of hypertensive 
+emergency. While CT was negative for intracranial hemorrhage, it 
+did reveal a new hypodensity in the splenium of the corpus 
+callosum in the absence of focal neurologic deficits, hence of 
+unclear significance. An MRI could be considered for further 
+work-up; however, the patient was not to receive gadolinium 
+during his initial sessions of hemodialysis due to 
+nephrotoxicity. If further evaluation is necessary in the 
+future, nephrology will need to be consulted before any studies 
+are ordered and obtained. 
+
+INACTIVE ISSUES:
+#Chronic Diastolic heart failure: Last echo demonstrated an EF 
+of 50% and diastolic dysfunction with severe pulmonary 
+hypertension and increased TR/MR. ___ continued his home 
+diuretics of Torsemide and Metolazone during this admission, 
+with continued urine output.
+
+#Hyperlipidemia: Continued home Atorvastatin.
+
+#Anemia: At baseline. Likely iron-deficiency complicated by CKD. 
+We continued iron replacement, and maintained an active type and 
+screen. Patient received 1 unit PRBC this admission, with 
+appropriate response in hemoglobin and hematocrit. 
+
+#Diabetes mellitus type 2: His last A1c 6.3% in ___. 
+Complicated by diabetic retinopathy (likely) and diabetic 
+nephropathy.  Patient was maintained on a humalon ISS in-house. 
+
+TRANSITIONAL ISSUES:
+-Patient will need close follow-up with nephrology at his 
+outpatient dialysis appointments.
+-He has follow-up scheduled at the ___ with Dr. 
+___ his maturity of his fistula/ readiness for use will 
+be assessed at that time.
+-Patient should follow-up with his PCP to optimize blood 
+pressure control regimen.
+-Patient is already being seen in the ophthalmology clinic and 
+being followed for his right eye vitreous hemorrhage, for which 
+he received an initial laser treatment on this admission. Close 
+follow-up is scheduled.
+-MRI is advised for further characterization of corpus callosum 
+lesion noted incidentally on admission CT, with gadolinium 
+contraindicated in the initial sessions of hemodialysis (and 
+perhaps indefinitely) due to nephrotoxicity; there were no clear 
+focal neurologic deficits, with visual changes felt to be 
+attributable to vitreous hemorrhage as above.
+-No pending studies.
+-Code status: Full 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Calcitriol 0.25 mcg PO DAILY 
+4. HydrALAzine 50 mg PO TID 
+5. Isosorbide Dinitrate 40 mg PO TID 
+6. Lisinopril 40 mg PO DAILY 
+7. Ferrous Sulfate 325 mg PO BID 
+8. Vitamin D 50,000 UNIT PO 1X/WEEK (MO) 
+9. Torsemide 60 mg PO DAILY 
+10. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+11. Metolazone 5 mg PO EVERY OTHER DAY 
+12. Labetalol 400 mg PO TID 
+13. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1. Atorvastatin 40 mg PO DAILY 
+2. Calcitriol 0.25 mcg PO DAILY 
+3. Ferrous Sulfate 325 mg PO BID 
+4. HydrALAzine 50 mg PO TID 
+5. Isosorbide Dinitrate 40 mg PO TID 
+6. Labetalol 400 mg PO TID 
+7. Lisinopril 40 mg PO DAILY 
+8. Metolazone 5 mg PO EVERY OTHER DAY 
+9. sevelamer CARBONATE 800 mg PO TID W/MEALS 
+10. Torsemide 60 mg PO DAILY 
+11. Vitamin D 50,000 UNIT PO 1X/WEEK (MO) 
+12. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+13. Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using HUM Insulin
+14. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES: End stage renal disease on hemodialysis
+Hypertensive emergency
+
+SECONDARY DIAGNOSES: 
+Heart failure with preserved ejection fraction
+Hyperlipidemia
+Anemia of chronic kidney disease
+Diabetes mellitus type 2
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you while you were admitted to 
+___ for worsening kidney failure and inititaion of 
+hemodialysis.  You were found to have very high blood pressure 
+at admission, causing your heart to work very hard. We increased 
+your blood pressure medicines, and the interventional 
+radiologists placed a dialysis line because your AV fistula was 
+not mature yet.  You were started on hemodialysis for a total of 
+four sessions during this admission.  
+
+While you were admitted, you saw the ophthalmology doctors for 
+follow/up for your right eye hemorrhage. You were seen in the 
+office on ___ and returned for a follow-up visit on ___ 
+for a second follow-up, as well as a laser eye treatment.
+
+You had a CT scan of your head because we were concerned about 
+your high blood pressure and your vision changes for the past 2 
+months. We also saw a small change in a CT scan of your head, 
+for which we recommend a follow-up MRI.  
+
+Weigh yourself every morning, and please call your MD if your 
+weight goes up more than 3 lbs
+ 
+Followup Instructions:
+___

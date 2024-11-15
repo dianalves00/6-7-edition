@@ -1,0 +1,218 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Biaxin / Levaquin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg Swelling
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is a ___ y/o F with PMH of neuromyelitis optica, DM, GERD 
+and HBV who presents with LLE swelling. Of note the patient was 
+recently admitted to ___ from ___ with leg weakness and 
+numbness and was treated for a flare of her NMO with IV steroids 
+and Rituximab. She was also found to have a UTI and was treated 
+with 2 weeks of Nitrofurantoin. She presents with a two day 
+history of L leg swelling, has history of DVT in same leg. She 
+was sent to ER by neurologist to rule out new DVT. She also 
+reported chest tightness with deep inspiration.  
+.  
+In the ED, vitals were T 98.1, BP 91/57, HR 79, RR 16, O2 98% 
+RA. Ultrasound demonstrated DVT of the left lower extremity 
+involving the  
+common femoral through popliteal veins. CTA demonstrated right 
+lower lobe segmental and subsegmental PE. She was started on a 
+heparin gtt. Admitted to medical service for further management. 
+ 
+
+ 
+Past Medical History:
+1. Neuromyelitis optica, NMO titer negative
+2. HBV core and surface antibody positive, surface antigen
+negative 
+3. GERD
+4. DM.
+5. s/p hysterectomy
+ 
+Social History:
+___
+Family History:
+NC
+
+ 
+Physical Exam:
+Vitals T 96.5, HR 73, BP 91/68, RR 16, O2 98% RA  
+HEENT: NC/AT, moist oral mucosa  
+Neck: supple, no LAD  
+CV: Nl S1/S2, no murmurs/gallops/rubs  
+Lung: CTAB  
+Abd: Soft, nontender, non-distended.  
+Ext: LLE swelling, non-pitting, +TTP posterior calf, unable to 
+lift ext of bed, UE strength ___  
+
+ 
+Pertinent Results:
+___ 07:25PM BLOOD WBC-11.9* RBC-4.44 Hgb-12.6 Hct-35.8* 
+MCV-81* MCH-28.4 MCHC-35.2* RDW-15.5 Plt ___
+___ 07:40AM BLOOD WBC-8.9 RBC-4.33 Hgb-12.1 Hct-35.4* 
+MCV-82 MCH-28.0 MCHC-34.3 RDW-15.6* Plt ___
+___ 07:40AM BLOOD ___ PTT-29.1 ___
+___ 07:40AM BLOOD %HbA1c-PND
+.
+CT OF THE CHEST WITH INTRAVENOUS CONTRAST: 
+1. Right lower lobe segmental and subsegmental pulmonary embolus 
+without 
+complication such as secondary right heart strain or pulmonary 
+infarcts. 
+.  
+2. Unchanged 2-mm right middle lobe pulmonary nodule. A 3-mm 
+right upper 
+lobe pulmonary nodule was not definitely visualized and could be 
+embedded in atelectasis from the prior study. 
+.
+Lower Extremity Ultrasound:  Deep vein thrombosis of the left 
+lower extremity involving the common femoral through popliteal 
+veins. No right DVT and the normal respiratory variability in 
+flow on the right suggests no IVC clot. 
+
+ 
+Brief Hospital Course:
+# DVT/Pulmonary Embolism:  The patinet was found to have a DVT, 
+as well as a segmental pulmonary embolism.  She was 
+hemodynamically stable, without tachycardia, tachypnea, or 
+hypoxia.  Her left leg was swollen, but with dopplerable pulses, 
+was non tense, non painful.  She was started on lovenox as a 
+bridge to coumadin, with a goal INR of ___.  While her 
+anticoagulation should continue for at least 9 months, given 
+that the inciting event of immobility cannot be reversed, and 
+that this occured while on prophylactic fragmin, we would 
+continue the coumadin indefinatly.  She is planned to have her 
+INR checked by her ___ 2 days from discharge, with manegment to 
+be continued by her PCP.  Plan was communicated to PCP.
+.
+# Diabetes:  The patinet was started on insulin while on a 
+prednisone taper, which is now complete.  She had not additional 
+insulin requirments during the hospitalization and her 
+hemoglobin A1C is still pending.  We have reduced her NPH doses 
+in half, to 18units each morning, 5 units at night.  Her finger 
+sticks should be watched closely, with consideration of 
+eliminating insulin versus increasing back to pre-hospitalzation 
+levels.  We have deffered starting aspirin unitl insue resolved.
+.
+# Neuromyeltis Optica:  Had recent flare in early ___, treated 
+with IV steroids with 2 week taper as well as Rituximab. At 
+baseline patient is unable to move ___ since last admission. No 
+evidence of current current fare.  Continued Baclofen.
+.
+# HBV: continue lamivudine.
+ 
+Medications on Admission:
+1. Morphine SR 30 mg q 12 hours  
+3. Gabapentin 300 mg QID  
+4. Lamivudine 100 mg daily  
+5. Pantoprazole 40 mg daily  
+6. Baclofen 10 mg TID  
+7. Percocet ___ BID PRN  
+8. Docusate Sodium 100 mg bid  
+9. Senna 8.6 mg daily prn  
+10. Colace 100mg daily  
+11. Ativan 0.5mg BID  
+12. Fragmin 5,000 Units inj daily  
+13. Insulin NPH 10units SQ HS and 36units SQ breakfast with 
+aspart SS  
+
+ 
+Discharge Medications:
+1. Morphine 30 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO Q12H (every 12 hours).  
+2. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO Q6H (every 
+6 hours).  
+3. Lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+5. Baclofen 10 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+6. Oxycodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q6H (every 6 hours) as needed.  
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+9. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Five (5) 
+units Subcutaneous at bedtime.  
+10. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: 
+Eighteen (18) units Subcutaneous qam.  
+11. Warfarin 2.5 mg Tablet Sig: Two (2) Tablet PO once a day: 
+with dose to be adjusted by your PCP.
+Disp:*60 Tablet(s)* Refills:*2*
+12. Enoxaparin 60 mg/0.6 mL Syringe Sig: One (1)  Subcutaneous 
+Q12H (every 12 hours) for 7 days.
+Disp:*14 doses* Refills:*0*
+13. Insulin Lispro 100 unit/mL Solution Sig: as given by sliding 
+scale  Subcutaneous qACHS.  
+14. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+DVT
+Pulmonary Embolism
+
+Secondary Diagnosis:
+Diabetes
+Neuromyeltis Optica
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You are being discharged from the hospital after an admission 
+for swelling of your left leg.  You were found to have a clot in 
+both your leg and in your lung.  You have been started on a 
+blood thinner to help prevent these clots from getting larger.  
+One blood thinner is know as coumadin, which you will take 
+daily.  We measure the level of this medication looking at a 
+number called INR, which we want to see between 2 to 3.  You 
+will have regular blood checks to make sure level is good, and 
+you dose may need to be adjusted.  Tell any physican prescribing 
+you new medication that you take coumadin, as new medications 
+can interact with coumadin.
+  We are also starting you on an injectable medicine known as 
+lovenox.  You will take this medicine until your coumadin dosing 
+is therapeutic.
+  If you develop any worsening leg swelling, increasing leg 
+pain, a cold leg or change in color, or any other concerning 
+symptoms, you should go to the emergency room.  If you develop 
+any chest pain, shortness of breath, palpitations, you should 
+call your PCP or go to the emergency room.
+.
+  You have been on insulin since being on steroids, which you 
+may no longer need now that you have comleted your prednisone 
+taper.  We have cut the doses of your NPH in half, and your 
+primery care physican should help assess if the NPH can be 
+stopped all together. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,259 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever and flank pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient is a ___ year old female with vesicoureteral reflux 
+and several prior episodes of pyelonephritis who presented to 
+the ED with two days of left-sided flank pain, fevers, and 
+malaise similar to her past episodes of pyelonephritis.  She 
+noted mild back pain on ___ along with a sore throat. She 
+then woke up ___ morning with worsening left-sided back pain, 
+shaking chills, fever to 102, nausea, and emesis x 1.  She was 
+unable to sleep due to the fevers and pain.  She presented to 
+the ED, where she was placed in ED Obs for fluids and 
+Ceftriaxone.  She was initially discharged home with a course of 
+Bactrim, but returned later that evening with persistent fevers 
+to 102.  She denied any dysuria, urinary frequency, abdominal 
+pain, cough, diarrhea, sick contacts, or vaginal discharge. 
+.
+In the ED, initial VS were pain 10, T 102.2, HR 130, BP 136/75, 
+RR 18, and SpO2 99% on RA.  She triggered for tachycardia, but 
+was overall stable appearing. Labs were notable for WBC 21 
+(84%N), normal lactate, UA with 20 WBCs, and Chem7 WNL. Exam was 
+notable for a normal Gyn exam without cervical motion 
+tenderness. Renal U/S was normal. She received NS 6L, CTX, 
+Percocet, Zofran, Acetaminophen, Morphine, and Ibuprofen. Blood 
+and urine cultures were sent (urine from ___ prior to 
+antibiotics was not processed).  Though she initially 
+defervesced, she spiked to 102 again after her second dose of 
+CTX, so was admitted to medicine.
+.
+Currently, she has ___ back pain but appears well.
+.
+REVIEW OF SYSTEMS:  
+(+) per HPI  headache, constipation, nausea
+(-) vision changes, sore throat (now resolved), URI symptoms, 
+hematuria
+
+ 
+Past Medical History:
+# Vesicoureteral Reflux -- diagnosed as young child
+# Pyelonephritis -- several prior episodes, last few worse
+-- most recent episode last ___
+# Recurrent UTIs
+# Migraines -- infrequent auras
+# Appendectomy
+
+ 
+Social History:
+___
+Family History:
+No kidney disease in family.
+# Mother: hypertension
+
+ 
+Physical ___:
+PHYSICAL EXAM ON ADMISSION:
+VS: T 98.4, BP 116/74, HR 99, RR 18, and SpO2 98% on RA
+GENERAL: well appearing
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, moist MM, o/p 
+clear
+NECK: supple, no LAD
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored, 
+no accessory muscle use
+HEART: RRR, no MRG, nl S1-S2
+ABDOMEN: normal bowel sounds, soft, non-tender, non-distended, 
+no rebound or guarding, no masses
+EXTREMITIES: no edema, 2+ pulses radial and dp
+BACK: tender over left flank with associated muscle spasm, no 
+focal collection
+
+PHYSICAL EXAM ON DISCHARGE:
+VS: T 99.9, BP 112/66, HR 83, RR 18, SpO2 97% on RA, Weight 80.8 
+kg
+Gen: Well appearing young female in NAD. Alert and oriented x3. 
+Resting in bed.
+HEENT: PERRL, EOMI, anicteric sclera. MMM, OP benign. Cold sore 
+on right lower lip, no other oral lesions noted.
+Neck: Supple. JVP not elevated.  No cervical lymphadenopathy.
+CV: RRR. Normal S1, S2.  No M/R/G appreciated.
+Chest: Respiration unlabored, no accessory muscle use.  Lungs 
+CTAB.  No wheezes, rhonchi, or rales.
+Back: Mild left CVA tenderness, much less than yesterday.
+Abd: BS present. Soft, NT, ND. No HSM detected.
+Ext: WWP, no cyanosis or clubbing. No ___ edema. Digital cap 
+refill <2 sec.  Distal pulses radial 2+, DP 2+, ___ 2+.
+Skin: No rashes, ecchymoses, or other lesions noted.
+Neuro: Moving all four limbs.
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+___ 04:30PM BLOOD WBC-16.0*# RBC-3.83* Hgb-12.7 Hct-36.8 
+MCV-96 MCH-33.0* MCHC-34.5 RDW-13.3 Plt ___
+___ 04:30PM BLOOD Neuts-91.2* Lymphs-3.5* Monos-5.0 Eos-0.1 
+Baso-0.1
+___ 04:30PM BLOOD Glucose-92 UreaN-11 Creat-0.7 Na-133 
+K-3.7 Cl-100 HCO3-24 AnGap-13
+___ 04:30PM BLOOD Calcium-8.8 Phos-2.1* Mg-1.7
+___ 04:38PM BLOOD Lactate-1.0
+
+LABS ON DISCHARGE:
+___ 06:15AM BLOOD WBC-11.8* RBC-3.28* Hgb-10.7* Hct-31.9* 
+MCV-97 MCH-32.7* MCHC-33.6 RDW-12.9 Plt ___
+___ 06:15AM BLOOD Glucose-86 UreaN-9 Creat-0.6 Na-138 K-3.7 
+Cl-104 HCO3-24 AnGap-14
+___ 06:15AM BLOOD Calcium-8.2* Phos-3.4 Mg-1.8
+
+URINALYSIS:
+___ 04:30PM URINE Color-Straw Appear-Clear Sp ___
+___ 04:30PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM 
+___ 04:30PM URINE RBC-1 WBC-20* Bacteri-NONE Yeast-NONE 
+Epi-1
+___ 04:30PM URINE Mucous-RARE
+___ 04:30PM URINE UCG-NEGATIVE
+
+MICROBIOLOGY:
+# URINE CULTURE (Final ___:
+      ESCHERICHIA COLI.    10,000-100,000 ORGANISMS/ML.
+     SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+IMAGING / STUDIES:
+# RENAL US ___ at 12:44 ___:
+FINDINGS:  The right kidney measures 11.7 cm and the left kidney 
+measures 12.2 cm.  There is fullness of the renal pelves 
+bilaterally, but there is no hydronephrosis, stone, or mass.  
+Renal echogenicity and corticomedullary architecture is within 
+normal limits.  The bladder is moderately well seen and normal 
+in appearance.
+IMPRESSION:  Normal renal ultrasound.
+
+ 
+Brief Hospital Course:
+The patient is a ___ year old female with vesicoureteral reflux 
+and several prior episodes of pyelonephritis who presented with 
+flank pain and high fevers similar to her previous episodes of 
+pyelonephritis.
+
+# Pyelonephritis: She presented with flank pain, fevers, and 
+positive urinalysis concerning for pyelonephritis.  On 
+admission, she met ___ SIRS criteria and had a likely urinary 
+source of infection, meeting the definition of sepsis.  Her 
+initial lactate was normal, and she was hemodynamically stable 
+with improved tachycardia after IV fluids and consistently 
+normal blood pressures.  She presented with a dramatic WBC# of 
+23K, with left shift, but no bandemia, down to 11K on day of 
+discharge. Her Renal ultrasound was reassuringly normal without 
+signs of perinephric abscess.  She did remain febrile for ~36 
+hours, which raised concern for treatment failure with 
+Ceftriaxone.  There was concern she may have a resistant 
+organism, so she was instead treated with Cefepime after 
+admission to the floor.  She received Acetaminophen, Oxycodone, 
+and Ondansetron for symptom control.  Urine cultures eventually 
+grew pan sensitive E coli, and she was discharged on a course of 
+Ciprofloxacin.  Given her recurrent severe urinary tract 
+infections, followup with Urology was arranged to discuss her 
+options to prevent future infections.  Her blood cultures were 
+all negative.  
+.
+# Constipation: She had not had a bowel movement in several days 
+and was started on a fairly aggressive bowel regimen with 
+Colace, Senna, Miralax, and Bisacodyl.
+.
+# Cold Sore: On the day of discharge, she noted a cold sore on 
+her lower lip.  She reported having them fairly frequently and 
+asked for something to treat it, so was provided topical 
+Acyclovir ointment.
+.
+# Transitional Care:
+-- Discharged on a course of Ciprofloxacin 500 mg PO Q12H for 7 
+more days
+-- Arranged new PCP appointment at ___ since she does not have a 
+PCP in the area
+-- Arranged initial visit with Urology to discuss possible VUR 
+treatment options
+-- If no surgical options to treat VUR, consider prophylactic 
+antibiotics
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg PO BID 
+2. Senna 1 TAB PO BID 
+3. Ciprofloxacin HCl 500 mg PO Q12H Duration: 7 Days 
+RX *ciprofloxacin [Cipro] 500 mg 1 tablet(s) by mouth every 
+twelve (12) hours Disp #*14 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pyelonephritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure caring for you during your stay at ___ 
+___.  You were admitted for a kidney 
+infection (pyelonephritis) with high fevers and flank pain.  You 
+were given IV fluids and treated with IV antibiotics during your 
+stay.  Urine cultures grew a type of bacteria called E coli, 
+which was sensitive to all of the antibiotics tested.  Your 
+fevers improved, and you were switched to oral antibiotics to 
+take after discharge.  You will need to complete an additional 
+one week course of these antibiotics after discharge.
+
+Because you do not have a primary care doctor in the area, you 
+were scheduled for an initial visit with a new primary care 
+doctor in the Healthcare ___ clinic at ___.  Because of 
+your frequent urinary tract infections and pyelonephritis, you 
+were also scheduled to see a urologist after discharge.
+
+ 
+Followup Instructions:
+___

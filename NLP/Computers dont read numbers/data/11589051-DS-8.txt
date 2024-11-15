@@ -1,0 +1,210 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hematemesis, N/V/Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ y/o F w/ h/o eosinophilic esophagitis/gastritis, PUD presents 
+with severe nausea, vomiting, abd pain and hematemesis. She has 
+had multiple admission ofr n/v/abd pain but claims that this 
+episode is much worse than before. She has not been able to 
+eat/drink anything. She has had atleast 5 episodes of 
+hematemesis in the last 3 days along with ___. She also says 
+that this time around her epigastric pain is radiating to the 
+back which is unusual for her. She has been feel very weak and 
+dizzy for the past few days.
+.
+ED: Her vitals were stable. Her HCT was stable. She got a CT Abd 
+which did not show free air; however evaluation of the bowel, 
+particularly the posterior wall of the duodenum was limited due 
+to extensive high density barium.
+ 
+Past Medical History:
+eosinophilic esophagitis/gastritis
+Peripheral eosinophilia
+PUD with negative H. pylori
+Anemia NOS
+ 
+Social History:
+___
+Family History:
+Father with ___.  He also has CAD and PVD.  Mother's side of 
+family with breast cancer and ovarian cancer (aunt at age ___.  
+No FH of celiac.  No FH of leukemia, lymphoma, MEN cancers.
+ 
+Physical Exam:
+ROS:
+GEN: - fevers, + Chills, - Weight Loss
+EYES: - Photophobia, - Visual Changes
+HEENT: - Oral/Gum bleeding
+CARDIAC: - Chest Pain, - Palpitations, - Edema
+GI: + Nausea, + Vomitting, + Abdominal Pain, + Hematemesis, + 
+___, - Diarhea
+Constipation, - Hematochezia, Poor Intake x3 days
+PULM: - Dyspnea, - Cough, - Hemoptysis
+HEME: - Bleeding, - Lymphadenopathy
+GU: - Dysuria, - hematuria, - Incontinence
+SKIN: - Rash
+ENDO: - Heat/Cold Intolerance
+MSK: - Myalgia, - Arthralgia, - Back Pain
+NEURO: - Numbness, - Weakness, + dizziness, - Vertigo, - 
+Headache
+.
+PHYSICAL EXAM:
+VS: 97.4, 98/58, 74, 18, 98%/RA, 239 lbs
+GEN: appears in mild distress ___ abdominal pain
+Eyes: PERRLA, EOMI, no conjuctival injection, anicteric
+Neck: supple
+ENT: no sinus tenderness, dry MM, op without exudate or lesions, 
+no supraclavicular or cervical lymphadenopathy
+Respiratory: CTA bilat, no wheeze or crackles
+Cardiovascular: RRR, nl S1, S2; ___ SEM at LUSB
+Gastrointestinal: diffuse tenderness throughout abdomen with 
+maximal tenderness in epigastric and RUQ region. No 
+guarding/rigidity elicited. NABS. No masses or 
+hepatosplenomegaly
+Musculoskeletal/extremities: no cyanosis, clubbing; trace ___ 
+edema
+Skin/nails: warm, no rashes/no jaundice/no splinters
+Neurological: AAOx3.  Cn II-XII intact.  ___ strength 
+throughout.  No focal neurologic deficits
+Heme/Lymph: no cervical or supraclavicular lymphadenopathy
+Back: No CVA tenderness
+ 
+Pertinent Results:
+___ 05:05PM BLOOD WBC-14.0*# RBC-3.91* Hgb-10.7* Hct-32.7* 
+MCV-83# MCH-27.4 MCHC-32.9 RDW-14.8 Plt ___
+___ 05:05PM BLOOD Neuts-39* Bands-0 Lymphs-17* Monos-8 
+Eos-36* Baso-0 ___ Myelos-0
+___ 05:05PM BLOOD Glucose-93 UreaN-11 Creat-0.8 Na-138 
+K-3.5 Cl-104 HCO3-25 AnGap-13
+___ 05:05PM BLOOD ALT-72* AST-284* LD(LDH)-420* 
+AlkPhos-204* Amylase-134*
+___ 05:05PM BLOOD Lipase-600*
+___ 05:05PM BLOOD Albumin-3.8 Cholest-PND
+
+.
+Small Bowel Follow through ___
+Thick folds in the duodenum and jejunum with otherwise 
+unremarkable
+.
+Chest Xray ___
+No pneumothorax or pneumoperitoneum. 
+.
+CT Abdomen ___
+No evidence of free intraperitoneal air. Limited exam due to 
+streak artifact from retained barium from small bowel 
+follow-through performed earlier on the day.
+
+ 
+Brief Hospital Course:
+___ y/o F w/ h/o eosinophilic esophagitis/gastritis, PUD now with 
+worsening n/v/abd pain, hematemesis, melena and acute 
+pancreatitis
+.
+# Acute pancreatitis: with severe epigastric pain radiating to 
+back, leukocytosis, elevated lipase of 600.  Regarding etiology, 
+may involve progression of her eosinophilic GI disease.  No 
+evidence of gallstones.  
+The patient received aggressive IVF, solumedrol 20 mg IV qd, and 
+pain control with complete improvement in her lipase.  Despite 
+her lipase being completely normal for three days, the patient 
+continued to c/o of significant abd pain. Of note, her outpt 
+oxycontin 80 mg po bid had been held.  This was restarted at 20 
+mg po bid, during which the pt was noted to be oversedated, 
+pooling her oral secretions.  
+On day of discharge, pt still c/o abd pain but had tolerated po 
+with completely normal lipase.
+Pt instructed to uptitrate her oxycontin per her PCP but told by 
+me that given our observations of oversedation in the hospital, 
+I did not feel comfortable discharging her on her prior outpt 
+oxycontin dose.
+
+# Upper GI Bleed:  Hct remained stable, per GI, no acute 
+indication for EGD,  Continued on protonix bid. 
+
+IgG Deficiency:  Pt received IVIG 40 gram infusion on ___.  
+Patient to receive monthly infusions.
+
+# Epigastric Pain: uses Oxycodone/Oxycontin.  Please refer to 
+discussion above.
+.
+# Eosinophilic esophagitis/gastritis/enteritis:  Seen by GI and 
+allergy.  Patient started on IV solumedrol 20 mg qd with 
+transition to budenoside po tid on d/c.  Script written by Dr. 
+___ to get insurance coverage for med before the end of the 
+month.
+
+# h/o steroid pyschosis/anxiety d/o- cont Diazepa, Zyprexa, 
+Ambien
+.
+# code- full  
+
+ 
+Medications on Admission:
+DIAZEPAM 5 mg Tablet BID
+OLANZAPINE 2.5 mg
+OXYCODONE
+OXYCONTIN
+PANTOPRAZOLE 80 mg BID
+DOCUSATE 
+FERROUS SULFATE
+ 
+Discharge Medications:
+1. Entocort EC 3 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO three times a day.
+Disp:*90 Capsule, Sust. Release 24 hr(s)* Refills:*2*
+2. IVIG  Sig: One (1) gms  once a month: To be administered 
+Monthly, Last dose ___ was 40 grams.  
+3. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+4. Diazepam 5 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+5. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO twice a day.  
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice 
+a day.  
+7. OxyContin 20 mg Tablet Sustained Release 12 hr Sig: One (1) 
+Tablet Sustained Release 12 hr PO twice a day: NOTE: ___ came in 
+on 80 mg po bid, dose decreased to 20 bid due to pt appearing 
+oversedated (even on lower dose). Outpt titration per PCP.  
+8. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO every ___ hours: 
+Continue outpt oxycodone dosing.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pancreatitis, Acute
+Eosinophilic esophagitis, gastritis, enteritis
+IgG Deficiency
+PUD
+Steroid Psychosis
+Anemia
+ 
+Discharge Condition:
+Vital Signs Stable, Tolerating Po
+ 
+Discharge Instructions:
+Return to ED if having fevers, chills, bloody vomitting, bloody 
+stools.
+ 
+Followup Instructions:
+___

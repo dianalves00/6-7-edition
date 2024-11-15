@@ -1,0 +1,505 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Altered Mental Status
+ 
+Major Surgical or Invasive Procedure:
+Pacemaker placement ___
+
+ 
+History of Present Illness:
+Ms ___ is an ___ F h/o afib who first presented at OSH 
+for acute confusion. This morning, the patient's neighbor went 
+upstairs to wish her Merry Christmas and found her on the couch, 
+altered and not responding appropriately. EMS was called and 
+they noted the patient to be bradycardic to 26 bpm and 
+hypotensive to SBP 50-60s on arrival. She was transported to 
+___, where she was given peripheral levophed, dopamine at 20 
+mcg/kg/min and glucagon. There was no apparent benefit from the 
+glucagon. Labs were notable for leukocytosis to 15.4, Cr 
+2(unknown baseline), INR 2.4, lactate 5.7. CT of the head was 
+obtained in the setting of AMS, which was negative per report. 
+Per report, mental status improved with VS. ECG from the outside 
+hospital was notable for slow atrial flutter, per report. 
+
+In the ED, initial vitals were: T96.0, HR84, BP105/68, RR17, 90% 
+2L NC on dopamine 15 and levophed 0.2
+Exam notable for: AAOx3. RRR, systolic ejection murmur at RUSB, 
+JVP ~8 cm H2O, abdomen soft nontender, nondistended, no 
+peripheral edema.
+Patient adamantly refusing any non-compliance with her beta 
+blocker. States she uses a pill box and thus has not taken any 
+extra dose.
+Labs notable for:
+WBC: 16.8  Hgb: 12.4  Plt: 283 
+139|100| 38      AGap=20 
+------------<113 
+5.1| 19|1.6  
+lactate 1.6
+VBG 7.36/ pCO2 44
+O2Sat: 74 
+UA: neg leuks, mod blood, nitrite neg, protein 30, glu neg, ket 
+neg, RBC 43, WBC 5, bact none, epi <1
+BCx, UCx sent
+Studies notable for: CT head w/o acute process, CXR: Compared to 
+prior examination, there is an placement of a right IJ central 
+venous catheter terminating in the mid SVC, satisfactory. 
+Moderate  cardiomegaly is unchanged. There is central pulmonary 
+vascular congestion with only trace interstitial edema. 
+Otherwise no consolidation is seen. There is no large effusion 
+or pneumothorax. 
+Patient was given: 
+IV DRIP DOPamine 15 mcg/kg/min 
+IV DRIP NORepinephrine 0.24 mcg/kg/min 
+IV Vancomycin (1000 mg ordered)
+Cardiology was consulted and recommended admission to the CCU.
+Vitals on transfer: T97.4, HR112, BP110/81, RR19, 96% RA 
+
+On arrival to the CCU, patient reports no ongoing symptoms, 
+including no chest pain, palpitations, lightheadedness, 
+dizziness, nausea, diaphoresis, presyncope. She confirms the 
+above story and states that this morning she felt dizzy, 
+diaphoretic and weak all of a sudden. She denies any fevers, 
+chills, cough, colds, nausea/vomiting/diarrhea, rashes, dysuria 
+or other symptoms prior to this morning. She reports compliance 
+with her medications. 
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- coronaries
+- pumping function
+- rhythm: afib
+3. OTHER PAST MEDICAL HISTORY 
+-aortic stenosis
+-atrial fibrillation
+-osteopenia
+-gastroesophageal reflux disease
+-dementia
+
+ 
+Social History:
+___
+Family History:
+Mom and brother with 'heart conditions', but patient unsure what 
+kind. No history of pacemaker placement or stroke in the family. 
+MGM with cancer (unclear what type)
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION
+VS: AF HR 107 BP 111/78 RR12 O2 SAT 94% NC
+GENERAL: Well developed, well nourished elderly woman in NAD. 
+Oriented x3 (though does not know president and city ___ is 
+in). Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Erythema around eyes. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma. Oropharynx clear
+NECK: Fleshy neck w/ no obvious masses on palpation. JVP of 7 
+cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. Irregularly irregular heart rhythm. ___ systolic murmur 
+over RUSB, no gallops or rubs 
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+EXTREMITIES: cool all over but distal pulses palpable. No 
+clubbing, cyanosis, or peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+NEURO: Grossly intact strength and sensation bilaterally. CN 
+II-XII grossly intact. 
+
+DISCHARGE PHYSICAL EXAMINATION
+VS: reviewed in ___
+GENERAL: Well developed, well nourished elderly woman in NAD.
+Oriented x3 (though does not know president and city ___ is
+in). Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Erythema around eyes. JVP difficult to assess given habitus. 
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Irregularly irregular heart rhythm. ___ systolic murmur
+over RUSB, no gallops or rubs 
+LUNGS: Respiration is unlabored with no accessory muscle use. No
+crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: cool all over but distal pulses palpable. No
+clubbing, cyanosis, or peripheral edema.  
+SKIN: No significant skin lesions or rashes.    
+NEURO: Grossly intact strength and sensation bilaterally. CN
+II-XII grossly intact.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 03:35PM BLOOD WBC-16.8* RBC-3.98 Hgb-12.4 Hct-37.6 
+MCV-95 MCH-31.2 MCHC-33.0 RDW-12.7 RDWSD-44.0 Plt ___
+___ 03:35PM BLOOD Neuts-86.3* Lymphs-4.4* Monos-7.7 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-14.50* AbsLymp-0.74* 
+AbsMono-1.29* AbsEos-0.01* AbsBaso-0.03
+___ 03:35PM BLOOD ___
+___ 03:35PM BLOOD Glucose-113* UreaN-38* Creat-1.6* Na-139 
+K-5.1 Cl-100 HCO3-19* AnGap-20*
+___ 01:26AM BLOOD Calcium-9.4 Phos-4.8* Mg-2.0
+___ 03:35PM BLOOD TSH-5.5*
+___ 06:16PM BLOOD ___ pO2-44* pCO2-44 pH-7.36 
+calTCO2-26 Base XS-0
+___ 06:46PM BLOOD Lactate-1.6
+
+MICROBIOLOGY
+============
+__________________________________________________________
+___ 3:35 pm Blood (LYME)
+
+                            **FINAL REPORT ___
+
+   Lyme IgG (Final ___: 
+      NEGATIVE BY EIA. 
+           (Reference Range-Negative). 
+
+   Lyme IgM (Final ___: 
+      NEGATIVE BY EIA. 
+           (Reference Range-Negative). 
+      Negative results do not rule out B. burg___ infection. 
+ Patients
+      in early stages of infection or on antibiotic therapy may 
+not produce
+      detectable levels of antibody. 
+__________________________________________________________
+___ 6:40 pm BLOOD CULTURE      SET#2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 6:30 pm BLOOD CULTURE      SET#1. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 3:35 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+DISCHARGE LABS
+==============
+___ 07:35AM BLOOD WBC-9.3 RBC-3.40* Hgb-10.7* Hct-33.1* 
+MCV-97 MCH-31.5 MCHC-32.3 RDW-13.2 RDWSD-46.2 Plt ___
+___ 07:35AM BLOOD Plt ___
+___ 07:35AM BLOOD ___ PTT-31.6 ___
+___ 07:35AM BLOOD Glucose-87 UreaN-13 Creat-0.5 Na-144 
+K-4.2 Cl-106 HCO3-23 AnGap-15
+___ 07:35AM BLOOD Calcium-8.5 Phos-2.5* Mg-1.9
+___ 03:35PM BLOOD TSH-5.5*
+___ 01:26AM BLOOD Free T4-1.0
+
+STUDIES/IMAGING
+===============
+___ Imaging CHEST (PORTABLE AP) 
+Compared to prior examination, there is an placement of a right 
+IJ central 
+venous catheter terminating in the mid SVC, satisfactory.  
+Moderate 
+cardiomegaly is unchanged.  There is central pulmonary vascular 
+congestion 
+with only trace interstitial edema.  Otherwise no consolidation 
+is seen.  
+There is no large effusion or pneumothorax. 
+
+___ Cardiovascular ECHO 
+ The left atrial volume index is severely increased. Mild 
+symmetric left ventricular hypertrophy with normal cavity size, 
+and regional/global systolic function (3D LVEF = 59%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve leaflets are severely thickened/deformed. There is 
+very severe aortic valve stenosis (valve area 0.5 cm2). Mild 
+(1+) aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. There is mild functional mitral stenosis (mean 
+gradient 5 mmHg) due to mitral annular calcification. Moderate 
+(2+) mitral regurgitation is seen. The tricuspid valve leaflets 
+are mildly thickened. Moderate to severe [3+] tricuspid 
+regurgitation is seen. There is moderate pulmonary artery 
+systolic hypertension. There is no pericardial effusion.
+ IMPRESSION: Symmetric LVH with normal global and regional 
+biventricular systolic function. Very severe aortic stenosis. 
+Mild aortic regurgitation. Moderate mitral regurgitation. 
+Moderate to severe tricuspid regurgitation. Moderate pulmonary 
+hypertension.  
+
+___ Cardiovascular EP Procedure Report 
+ Successful implantation of a dual chamber pacemaker.
+ There were no complications.
+
+___ Imaging CHEST (PA & LAT) 
+Hyperinflation is probably due to emphysema.  Moderate 
+cardiomegaly, with 
+particular left atrial enlargement has improved.  Transvenous 
+right atrial and right ventricular pacer leads continuous from 
+the left pectoral generator unchanged in their positions.  There 
+is no pneumothorax or mediastinal widening.  
+Given the simultaneous onset of heterogeneous opacification more 
+pronounced in the right lung on ___, I think it all is 
+attributable to heart failure and pulmonary edema.  Subsequently 
+the multifocal abnormality in the right lung has substantially 
+improved, and small to moderate pleural effusions are stable, 
+but there is now the suggestion of new consolidation at the left 
+lung base, more concerning for pneumonia.  There is no 
+pneumothorax.  
+Indwelling right jugular line ends in the mid to low SVC. 
+
+___ Imaging CTA ABD & PELVIS 
+1. Bilateral femoral, external iliac, and common iliac arteries 
+are patent and without significant calcium burden or tortuosity. 
+
+2. 11 mm left adrenal nodule is not fully characterized on this 
+study, but 
+statistically likely represents an adenoma. 
+3. Pericholecystic fluid, periportal edema, bilateral pleural 
+effusions and subcutaneous edema suggestive of fluid overload. 
+4. Please refer to the separate report of CT chest performed on 
+the same day for description of the thoracic findings. 
+
+___ Imaging CARDIAC STRUCTURE/MORPH 
+1. Aortic valve stenosis without evidence of aortic aneurysm. 
+2. Patent subclavian and common femoral arteries bilaterally 
+with lumen 
+diameter greater than 6 mm. 
+3. Pulmonary parenchymal abnormalities are suggestive of volume 
+overload/pulmonary edema. 
+4. Small to moderate bilateral nonhemorrhagic pleural effusions. 
+
+5. Extensive coronary arterial calcifications. 
+6. Please see separately submitted report of CTA abdomen and 
+pelvis from the same date for findings below the diaphragm. 
+
+___ Imaging UNILAT UP EXT VEINS US  
+Short segment partially occlusive clot within the cephalic vein 
+as it crosses the antecubital fossa.  No evidence of DVT. 
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+==============
+Ms. ___ is an ___ with a history of HTN, HLD, afib 
+here w/ symptomatic bradycardia and hypotension, found to have 
+complete heart block, s/p permanent pacemaker placement on 
+___, noted to have severe AS on ECHO completed while 
+inpatient.
+
+ACUTE ISSUES :
+================
+# Complete heart block
+# Symptomatic bradycardia
+# Atrial fibrillation
+Patient presented with acute onset symptomatic bradycardia with 
+dizziness, hypotension, diaphoresis. She was noted to have 
+complete heart block on ECG on a background of atrial flutter/ 
+fibrillation, prompting CCU admission. She was supported with 
+pressors until a dual chamber pacemaker was placed (___). 
+Etiology remains unclear; possible nodal agent overdose (pt 
+denies) vs infection (leukocytosis on admission, but infectious 
+w/u negative), vs hypothyroidism (TSH elevated at 5.5). After 
+pacemaker placement, patient was restarted on Metoprolol 
+Succinate XL at an increase dose of 200 mg daily and her home 
+Diltiazem ER dose was increased to 240 mg daily. Physical 
+therapy recommended discharge to home with home ___.
+
+# Shock
+On presentation, patient was hypotensive to ___ systolic iso 
+bradycardia and complete heart block. Infectious workup was 
+negative, no focal exam findings. Lactate was initially elevated 
+to 5.4, improved with IVF, and she was weaned off pressors. TTE 
+with symmetric LVH, severe AS, but with normal global and 
+regional biventricular systolic function.
+
+# ___
+Creatinine elevated at 1.6 on admission, likely hypovolemic iso 
+bradycardia from complete heart block. ___ now resolved with 
+fluids and placement of pacemaker. Creatinine on day of 
+discharge 0.5.
+
+# Severe Aortic Stenosis
+Patient asymptomatic, but noted to have severe AS on ECHO ___. 
+Per ECHO, "Severely thickened/deformed aortic valve leaflets. 
+Very severe AS, Mild (1+)AR." While inpatient she was evaluated 
+by the cardiac surgery team and deemed to be a high risk 
+surgical candidate. Patient will undergo outpatient TAVR workup.
+
+# Atrial fibrillation
+CHADS2VASC minimum 5 (age, female, HTN, CHF). Home meds are 
+coumadin, diltiazem and metoprolol. Patient's home Coumadin was 
+initially held and was restarted after pacemaker placement at 
+3mg daily, with goal INR ___. Metoprolol and diltiazem were 
+initially held given hypotension, and restarted prior to 
+discharge at Metoprolol Succinate XL 200 mg daily and Diltiazem 
+ER 240mg daily.
+
+# UTI: 
+Urine culture grew pan sensitive E. Coli infection. Started on 
+Cefepime, transitioned to Macrobid for a total 7 day course, 
+which will end ___.
+
+CHRONIC ISSUES:
+=================
+# Hypertension: 
+Anti-hypertensive medications nitially held in the setting of 
+hypotension, discharged on Metoprolol Succinate XL 200 mg. 
+Diltiazem ER was increased to 240mg daily.
+
+# Dementia: Continued donepezil and memantine.
+
+# HLD: Continued home pravastatin.
+
+TRANSITIONAL ISSUES:
+=====================
+[] Aortic Stenosis:
+Patient will be evaluated by structural heart team as outpatient 
+for further TAVR work up.
+[] Nortriptyline:
+Discuss alternative medication, Nortriptyline was held given 
+potential cardiac interaction.
+
+Discharge weight: 62.5 kg
+Discharge creatinine: 0.5
+
+# Code Status: Full, confirmed
+# CONTACT/HCP: ___, niece, ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Namzaric (memantine-donepezil) ___ mg oral DAILY 
+2. Pravastatin 80 mg PO QPM 
+3. Potassium Chloride 10 mEq PO DAILY 
+4. Metoprolol Succinate XL 100 mg PO DAILY 
+5. Nortriptyline 25 mg PO QHS 
+6. Diltiazem Extended-Release 120 mg PO DAILY 
+7. Warfarin 3 mg PO DAILY16 
+8. Aspirin 81 mg PO DAILY 
+9. Cyanocobalamin 100 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Nitrofurantoin Monohyd (MacroBID) 100 mg PO Q12H Duration: 4 
+Days 
+RX *nitrofurantoin monohyd/m-cryst 100 mg 1 capsule(s) by mouth 
+every 12 hours Disp #*2 Capsule Refills:*0 
+2.  Diltiazem Extended-Release 240 mg PO DAILY 
+RX *diltiazem HCl 240 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+3.  Metoprolol Succinate XL 200 mg PO DAILY 
+RX *metoprolol succinate 200 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Cyanocobalamin 100 mcg PO DAILY  
+6.  Namzaric (memantine-donepezil) ___ mg oral DAILY  
+7.  Potassium Chloride 10 mEq PO DAILY  
+8.  Pravastatin 80 mg PO QPM  
+9.  Warfarin 3 mg PO DAILY16  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+=================
+Complete Heart Block
+Shock
+Acute Kidney Injury
+Severe Aortic Stenosis
+Urinary Tract Infection
+
+SECONDARY DIAGNOSES
+===================
+Atrial Fibrillation
+Dementia
+Hypertension
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+ 
+It was a pleasure taking part in your care here at ___!
+ 
+Why was I admitted to the hospital?
+- You were admitted for confusion and a slow heart rate caused 
+by a problem with the electrical connections of your heart. 
+ 
+What was done for me in the hospital?
+- You were given medications to help your blood pressure and to 
+help your symptoms.
+- A permanent pacemaker was placed in your heart on ___.
+- You had pictures taken of your heart, which showed that your 
+aortic valve has gotten smaller over the years. Members of the 
+"TAVR" team saw you in the hospital to talk to you about the 
+possibility of replacing your valve. 
+- You were treated with antibiotics for an infection in your 
+urine.
+ 
+What should I do when I leave the hospital?
+- Please take all of your medicines and attend all of your 
+follow-up appointments. 
+
+ 
+We wish you the best of luck in your health!
+ 
+Sincerely,
+Your ___ Treatment Team
+ 
+Followup Instructions:
+___

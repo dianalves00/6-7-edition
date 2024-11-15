@@ -1,0 +1,236 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: EMERGENCY
+ 
+Allergies: 
+Sulfa(Sulfonamide Antibiotics) / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+R hip pain
+ 
+Major Surgical or Invasive Procedure:
+Radiation for bone mets
+Lung tissue biopsy
+ 
+History of Present Illness:
+This patient is a ___ year old female with a PMHx of PE and
+stage IV lung cancer with metastasis to the bone, who
+presents with severe R hip pain, which began a few months
+ago but has worsened over the past 2 weeks. The patient
+reports that her stave IV lung CA has metastasized to her
+bone, and is now pressing into the nerves of her R hip. She
+states that she is in unbearable, worsening, severe pain in
+her sacrum and R leg, radiating down to the knee, which
+makes it difficult for her to move or walk. She also reports
+associated numbness and weakness in her R leg, with tingling
+in her B/L toes, which is new over the past month as the
+pain has become more severe. No other parasthesias, no bowel
+or bladder incontinence, no F/C, no N/V/D, no HA, no CP, no
+SOB.
+ 
+The patient reports that she is currently taking 40 mg of
+oxycodone every 6 hours, and 300 mg of oxycontin every 8
+hours for pain, without significant relief. She spoke with
+her oncologist about this pain, who recommended she present
+to the ED for admission and IV pain management. She denies
+any bladder or bowel incontinence, no F/C, no cough, no CP,
+no dyspnea.
+ 
+Past Medical History:
+Dislipidemia
+h/o colon cancer s/p partial colectomy in ___
+adenocarcinoma of lung (stage IV) ___
+premalignant tongue lesion s/p partial resection
+hysterectomy
+alcohol dependence 
+depressive disorder
+ 
+Social History:
+___
+Family History:
+first cousin has lung cancer 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=========================
+HR: 87 BP: 160/80 Resp: 18 O(2)Sat: 100 Normal
+Constitutional: Comfortable
+HEENT: Normocephalic, atraumatic, Extraocular muscles
+intact
+Oropharynx within normal limits
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft, Nontender
+Extr/Back: Severely uncomfortable to slight movement in RLE or 
+general movement. +2 pulses B/L ___. Normal sensation B/L ___.  
+Toes
+downgoing. No saddle anesthesia. Normal distal strength
+Skin: Warm and dry
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Vital signs: stable
+General: Uncomfortable and anxious appearing at times, pleasant
+HEENT: MMM, EOMI   
+LUNG: breathing unlabored
+EXT: Pt able to stand and complete small shuffling steps with
+assistance, has decreased strength in right lower extremity,
+requiring assistance to bend and lift off of bed.  
+NEURO: AAOx3.  
+SKIN: No rashes  
+Neuropsychiatric: Oriented, appropriate with full range of 
+affect
+ 
+Pertinent Results:
+LAB RESULTS: Within normal limits
+
+RELEVANT STUDIES:
+
+- MRI SPINE C/T/L W/O CONTRAST (___):
+1. There are T1 and T2 hypointense sclerotic osseous lesions 
+throughout the entire cervical, thoracic and lumbar spine. In 
+the thoracic spine, at T3 and T12, there are T2 hyperintense 
+enhancing lesions.  Clinical correlation with bone scan or PET 
+scan may yield additional information if clinically indicated. 
+2. Multilevel degenerative changes as described above without 
+evidence of 
+acute compression of the cord or cauda equina. 
+3. L2-3 level, there is a right paracentral disc protrusion, 
+with associated high signal of the disc and marrow edema pattern 
+of the L2 vertebra which may represent traumatic herniation and 
+fracture of the vertebra, although this is difficult to 
+ascertain as there is no loss of vertebral body height where 
+clear fracture line/defect.  Clinical correlation is 
+recommended. CT of the lumbar spine may yield additional 
+information if clinically indicated. 
+
+- BRONCHIAL TISSUE BIOPSY (___): 
+1. PATHOLOGY: Adenocarcinoma, morphologically similar to that 
+seen in the prior pleural biopsy (___), see note.
+2. CYTOLOGY: POSITIVE FOR MALIGNANT CELLS. Consistent with 
+metastatic adenocarcinoma. Polymorphous lymphocytes present 
+consistent with lymph node sampling.
+ 
+Brief Hospital Course:
+___ year old female with stage 4 NSCLC with extensive bone mets, 
+and history of pulmonary emboli on Lovenox, who presents with 
+with worsening right hip pain. Most likely secondary to 
+increased diffuse tumor burden. Has had radiation in the past, 
+which gave her ___ months of relief. During this 
+hospitalization, pain medication regimen was markedly uptitrated 
+(see below), and pt underwent a second round of palliative 
+radiation to the affected area, with great relief. Was 
+discharged home in stable condition on new regimen with pt 
+planning to provide for her own home ___.
+
+TRANSITIONAL ISSUES:
+====================
+- Pain was eventually controlled on a dose of oxycontin at 320mg 
+q8h, plus PO dilaudid ___ q3h prn for breakthrough pain, and 
+gabapentin 300mg q8h. 
+- Pt was seen by rad/onc, who did a PET for mapping and then 
+began pt on a course of palliative radiation to R sacrum/ileum 
+for her R hip pain
+- Pt's insurance required prior authorization for her oxycontin 
+dose, and we had difficulty finding a pharmacy that could fill 
+this prescription. ___ can deliver 1 week's worth 
+before discharge, and pt can return next week for the remainder 
+of this month's supply. After this she can go to the ___ 
+___ for refills.
+- Pt also got an endobronchial biopsy the day before discharge, 
+by Interventional Pulmonology while admitted, in order to be 
+enrolled in a clinical trial. 
+- Has f/u appts w/ outpatient oncologist and w/ the IP team
+- Pt was seen regularly by ___ and is now able to ambulate 
+independently with a walker, including transitions and 
+self-care.
+- Pt has in-home nursing care already due to her partner's 
+healthcare needs
+- Pt has a prescription for a bedside commode as it is difficult 
+for her to make transfers with a lower toilet. 
+
+ 
+Medications on Admission:
+1. OxycoDONE (Immediate Release) 40 mg PO Q6H:PRN pain 
+2. Docusate Sodium 100 mg PO QHS
+3. OxyCODONE SR (OxyconTIN) 120 mg PO Q8H 
+4. Dexamethasone 4 mg PO Q12H 
+5. Enoxaparin Sodium 60 mg SC Q12H 
+6. Lorazepam 0.5 mg PO HS:PRN insomnia/nausea 
+7. Omeprazole 20 mg PO BID 
+8. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+9. Senna 17.2 mg PO HS:PRN constipation 
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+2. Gabapentin 300 mg PO Q8H 
+3. HYDROmorphone (Dilaudid) ___ mg PO Q2H:PRN breakthrough pain 
+Take 1, 1.5, or 2 tablets at a time for breakthrough pain. 
+4. Polyethylene Glycol 17 g PO DAILY Do not take if ___ are 
+having diarrhea or loose stools. 
+5. Docusate Sodium 100 mg PO BID
+6. OxyCODONE SR (OxyconTIN) 320 mg PO Q8H 
+7. Dexamethasone 4 mg PO Q12H 
+8. Enoxaparin Sodium 60 mg SC Q12H 
+9. Lorazepam 0.5 mg PO HS:PRN insomnia/nausea 
+10. Omeprazole 20 mg PO BID 
+11. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+12. Senna 17.2 mg PO HS:PRN constipation 
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Lung adenocarcinoma metastatic to bone
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of ___ at ___.
+
+___ came to us because ___ were having severe pain in your right 
+hip, not responsive to oral pain medication at home. This pain 
+is due to the spread of your lung cancer into your bones, 
+including your right hip area. It took several days and many 
+medication changes and dosing adjustments, but we were finally 
+able to get your pain controlled enough on oral medication to 
+allow ___ to move about your home at a reasonable level.
+
+We have arranged for ___ to go home with a week's worth of your 
+pain medication, and ___ will need to return to the ___ 
+at ___ next week to get the remainder of your month's supply. 
+After this, we will arrange for ___ to be able to pick up your 
+medications at the ___ in the area near your home.
+
+While ___ were here ___ also got radiation for your bone 
+metastases to hopefully help with the pain. ___ also got a lung 
+tissue biopsy by the Interventional Pulmonology doctors in the 
+operating room. This biopsy was taken in order to allow ___ to 
+be enrolled in a clinical trial. ___ are safe to go home now 
+after this procedure, but ___ should know that ___ may cough up 
+blood-tinged secretions for a day or two, and ___ may have a 
+low-grade fever of up to 100.4F due to inflammation caused by 
+this procedure. This is okay, and if this occurs ___ can take 
+tylenol for symptom relief. 
+
+We also have a prescription for ___ to have a bedside commode at 
+home, as have had trouble sitting on a lower level toilet seat. 
+
+We have also scheduled follow-up appointments for ___, as 
+detailed below.
+ 
+Followup Instructions:
+___

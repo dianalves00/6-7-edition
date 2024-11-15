@@ -1,0 +1,519 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+glimepiride
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever,shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+Intubated ___  
+Extubated ___
+ 
+History of Present Illness:
+___ y. M with history of CLL (not on treatment), HTN, CKD
+(baseline Cr of 1.5) who presented on ___ night with fevers 
+to
+103. Initial workup was unremarkable. CXR negative. UA negative.
+He was started on vancomycin/cefepime empirically awaiting
+additional cultures. He has subsequently decompensated and was
+transferred to the ___ for hypoxic respiratory failure.  On
+___, he was on room air. Since that time, he has had rapidly
+progressing hypoxia, requiring titration of NC. Overnight, he
+became more short of breath. Repeat CXR shows new effusion and
+RLL infiltrate. He then became increasingly tachypneic. and was
+placed on 6L NC with nasal CPAP. An ABG on those settings, which
+was definitely arterial, which showed ___. For this, he
+was put on a nonrebreather.  CXR significant for RML infiltrate
+consistent with pneumonia, found to have legionella pneumonia. 
+He
+was intubated on ___, initially requiring paralysis. He 
+was
+treated broadly with vancomycin, cefepime, levaquin. Initially,
+he had high ventilator settings, with high PEEP and FiO2. Given
+his refractory hypoxemia there was a concern for possible shunt
+physiology. . TTE this admission did not demonstrate PFO/ASD, 
+but
+prior TTE demonstrated possible PFO. With the addition of
+Veletri, his oxygenation improved significantly and his
+ventilatory support was weaned. He underwent bronchoscopy on 
+___
+which returned negative for other infectious etiologies. In
+conjunction with infectious disease, he was subsequently 
+narrowed
+to levofloxacin alone with a planned three week course for
+treatment. Given his concurrent acute renal failure, he was
+initiated on CRRT for volume removal. He improved and was
+extubated on ___. He was weaned off levophed on ___. 
+Paralytics
+were d/c'ed on ___. 
+He developed acute anuric renal failure thought to be secondary
+to ATN. Renal ultrasound without abnormalities. He was initiated
+on CRRT on ___ via a right temporary dialysis line. Due to
+concerns that volume overload may be contributing to his
+respiratory failure, volume was removed via CRRT. He had some
+mild hypotension in the setting of fluid removal, for which he
+required intermittent levophed. CRRT ended on ___. At the
+time of his transfer from the ICU to the floor, he was beginning
+to make urine, with a plan for intermittent HD as necessary 
+until
+his kidney function recovered.
+His urine output was as follows:
+___ 400
+___ 150
+___ 200
+___ 100
+___ 200
+___ 200
+___ 325
+His creatinine rose from 1.5 to peak at 4.3.
+In terms of his CLL he had some mild elevations in uric acid
+which was concerning for possible tumor lysis syndrome, although
+his LDH was stable and other electrolytes WNL. He was initiated
+on allopurinol which was later discontinued given his
+deterioration in renal function. He was also given a dose of
+rasbicurase. In conjunction with his outpatient oncologist,
+treatment of his CLL is being considered, but should be deferred
+until the resolution of the acute infection. At the
+recommendation of his oncologist, he should receive IVIG if IgG 
+<
+500, although IgG> 500 as measured this hospitalization.
+He also developed acute toxic metabolic encephalopathy. ___ and
+___, patient had significant anxiety and delirium,
+which was managed with Seroquel (not a home medication).
+Upon call out to the floor he developed a brief episode of
+vertigo when he was placed in ___ to be repositioned
+which resolved upon upright posture. He denied further vertigo 
+at
+the time of examination. He denies chest pain, shortness of
+breath. He is concerned about nausea but denies nausea 
+currently.
+He has a flexiseal in place for loose stool but his cdiff was
+negative. He did not report diarrhea to me. He tells me that his
+breathing is much better. Per RN he ate soup and crackers and 
+has
+a good intake of po fluids. His weight has decreased from 116 kg
+to 105.8. His LOS fluid balance is -5855. He was continued on
+glargine ___s SSI.  Overnight he is maintained on 
+CPAP
+on room air with 12cm H2O pressure. His CPAP machine was
+interrogated by respiratory and he has used it for 8 hours since
+___. 
+.
+A ten point review of systems is otherwise negative except as
+above. 
+.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+Oncologic history: Rai stage I CLL, diagnosed in ___ when
+he was referred to Hematology for evaluation of lymphocytosis. 
+At the time of his diagnosis, flow cytometry revealed a kappa
+light chain restricted B-cell lymphoproliferative process that
+expressed CD20 (dim), CD5, and
+CD23.  Cytogenetics indicated trisomy 12 in ___ nuclei.
+Not yet treated, being monitored.
+
+PAST MEDICAL HISTORY:
+PMH/PSX:
+- CLL, as above
+- Hypertension
+- Hyperlipidemia
+- Type 2 diabetes
+- Sleep apnea
+- Renal insufficiency
+- Obesity
+- Tobacco abuse
+- Depression
+- HSV with recurrent outbreaks on scalp 
+
+ 
+Social History:
+___
+Family History:
+Mother died of ovarian cancer at ___. Father died
+___ ___. Brother alive with ___
+ 
+Physical Exam:
+Exam on transfer out of ICU
+98.7, HR 98, 107/68, 24, 92% on 4L NC
+Last fever ___
+CONS: Mildly diaphoretic, otherwise, NAD. He looks very well
+considering how sick he was described to be. He is not in
+respiratory distress and speaking in full sentences. 
+HEENT: ncat anicteric MMM    
+CV: s1s2 rr no m/r/g  
+RESP: b/l ae no w/c/r  
+GI: +bs, soft, NT, ND, no guarding or rebound  
+flexiseal in place
+MSK:no c/c/e 2+pulses  
+SKIN: no rash  
+NEURO: face symmetric speech fluent. Able to follow commands and
+lift all extremities off of the bed. 
+PSYCH: calm, cooperative  
+LAD: No 
+NECK: NO HJR. JVP could not be assess due to presence of HD line
+on R. 
+
+Discharge exam:
+VS: 98.5, 104 / 71, 96, 95% on RA 
+CONS: very pleasant elderly male sitting up in chair in NAD
+HEENT: MMM,NCAT, EOMI, anicteric sclera   
+NECK: prior temp HD line site covered with dressing without any
+active bleeding, TTP
+CV: RRR, nml S1 and S2, no m/r/g  
+RESP: Lungs largely CTAB, unlabored respirations, speaking full 
+sentences  
+GI: soft, NTND, normoactive bowel sounds
+GU: no flexiseal
+MSK: no c/c/e 2+pulses  
+SKIN: no rash  
+NEURO: AOx3, face symmetric speech fluent. Able to follow 
+commands and lift all extremities off of the bed. No asterixis.  
+HINTS exam negative.
+PSYCH: calm, cooperative 
+
+ 
+Pertinent Results:
+ADMISSION:
+___ 01:26PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 01:26PM URINE  RBC-1 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 01:26PM URINE  HYALINE-1*
+___ 11:17AM   LACTATE-1.2
+___ 11:00AM   GLUCOSE-120* UREA N-32* CREAT-1.9* SODIUM-136 
+POTASSIUM-4.9 CHLORIDE-101 TOTAL CO2-17* ANION GAP-23*
+___ 11:00AM   ALT(SGPT)-8 AST(SGOT)-16 LD(LDH)-415* ALK 
+PHOS-223* TOT BILI-0.4
+___ 11:00AM   LIPASE-14
+___ 11:00AM   ALBUMIN-4.0 URIC ACID-11.1*
+___ 11:00AM   WBC-229.7* RBC-3.94* HGB-10.9* HCT-38.4* 
+MCV-98 MCH-27.7 MCHC-28.4* RDW-17.8* RDWSD-56.0*
+___ 11:00AM   NEUTS-9* BANDS-0 LYMPHS-91* MONOS-0 EOS-0 
+BASOS-0 ___ MYELOS-0 AbsNeut-20.67* AbsLymp-209.03* 
+AbsMono-0.00* AbsEos-0.00* AbsBaso-0.00*
+___ 11:00AM   HYPOCHROM-NORMAL ANISOCYT-1+ POIKILOCY-1+ 
+MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-OCCASIONAL 
+OVALOCYT-OCCASIONAL TEARDROP-OCCASIONAL
+___ 11:00AM   PLT SMR-NORMAL PLT COUNT-188
+___ 10:56AM OTHER BODY FLUID  FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+
+INTERVAL LABS:
+___ 08:07AM BLOOD IgG-1302
+___ 09:51PM BLOOD HIV Ab-Negative
+___ 07:40AM BLOOD HCV Ab-Negative
+___ 01:07AM OTHER BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+___ 02:01PM STOOL NoroGI-NEGATIVE NoroGII-NEGATIVE
+
+___ 07:40AM BLOOD HBsAg-Negative HBsAb-Negative 
+HBcAb-Negative
+
+___ 09:00AM BLOOD Glucose-120* UreaN-95* Creat-5.1* Na-137 
+K-4.6 Cl-94* HCO3-24 AnGap-24*
+___ 09:00AM BLOOD WBC-222.5* RBC-3.24* Hgb-8.6* Hct-30.8* 
+MCV-95 MCH-26.5 MCHC-27.9* RDW-16.2* RDWSD-53.8* Plt ___
+___ 09:00AM BLOOD Calcium-8.7 Phos-9.4* Mg-2.3
+
+IMAGING:
+Bilateral lower extremity ultrasound ___  
+No evidence of deep vein thrombosis in the bilateral upper 
+extremity veins.  Superficial thrombosis in the left cephalic 
+vein (mid to distal forearm) and in the right median cubital 
+vein 
+
+TTE ___
+No atrial septal defect or patent foramen ovale is seen by 2D, 
+color Doppler or saline contrast with maneuvers.
+
+Renal Us
+IMPRESSION: 
+Normal renal ultrasound, noting limited views of the left 
+kidney.
+
+MICROBIOLOGY:
+___ Blood cultures x 2 negative
+___ Urine culture negative 
+
+___ Respiratory culture negative
+
+___ Blood culture negative
+___ Urine culture negative
+___ Urine Legionella urinary antigen POSITIVE
+
+___ 8:36 pm BRONCHOALVEOLAR LAVAGE
+   VIRAL CULTURE: R/O CYTOMEGALOVIRUS (Preliminary): 
+      No Cytomegalovirus (CMV) isolated. 
+
+   CYTOMEGALOVIRUS EARLY ANTIGEN TEST (SHELL VIAL METHOD) (Final 
+___: 
+      Negative for Cytomegalovirus early antigen by 
+immunofluorescence. 
+      Refer to culture results for further information.
+
+___ 8:36 pm BRONCHOALVEOLAR LAVAGE
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      10,000-100,000 CFU/mL Commensal Respiratory Flora. 
+
+   LEGIONELLA CULTURE (Final ___:    NO LEGIONELLA 
+ISOLATED. 
+
+   Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii). 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+___ 8:36 pm Rapid Respiratory Viral Screen & Culture
+   Respiratory Viral Culture (Final ___: 
+      No respiratory viruses isolated. 
+      Culture screened for Adenovirus, Influenza A & B, 
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus.. 
+      Detection of viruses other than those listed above will 
+only be
+      performed on specific request. Please call Virology at 
+___
+      within 1 week if additional testing is needed. 
+
+   Respiratory Viral Antigen Screen (Final ___: 
+      Negative for Respiratory Viral Antigen. 
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3, 
+Influenza A, B,
+      and RSV by immunofluorescence. 
+      Refer to respiratory viral culture and/or Influenza PCR 
+(results
+      listed under "OTHER" tab) for further information.. 
+
+___ MRSA screen negative
+
+___ Blood cultures x 2 pending
+___ Sputum culture negative
+
+___ C. diff negative
+
+___ Mini-BAL 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   RESPIRATORY CULTURE (Final ___:    NO GROWTH, <1000 
+CFU/ml. 
+
+___ Blood cultures x 2 negative
+
+___ Urine culture negative
+
+DISCHARGE:
+___ 06:35AM BLOOD WBC-208.4* RBC-3.13* Hgb-8.5* Hct-30.6* 
+MCV-98 MCH-27.2 MCHC-27.8* RDW-16.6* RDWSD-57.0* Plt ___
+___ 06:35AM BLOOD Glucose-83 UreaN-64* Creat-3.7* Na-138 
+K-4.4 Cl-99 HCO3-24 AnGap-19
+___ 06:35AM BLOOD Calcium-8.6 Phos-5.3* Mg-1.7
+ 
+Brief Hospital Course:
+The patient is a ___ year old male with PMHx CLL, admission for 
+influenza in ___ who was admitted with fevers and 
+tachycardia then developed hypoxic respiratory failure and ARDS 
+found to have Legionella PNA, course further complicated by 
+anuric ___ (now improved).
+
+# HYPOXIC RESPIRATORY FAILURE ___
+# Legionella PNA
+Patient initially required intubation for hypoxic respiratory 
+failure.  Patient found to have RLL infiltrate on chest imaging 
+for which he was initially treated with vanc/cefepime.  However, 
+he was found to have a positive Legionella urine antigen and was 
+subsequently transitioned to levofloxacin.  Per ID consult team, 
+plan is for a total 3 week course of levofloxacin (last day on 
+___.  Patient also developed concurrent acute anuric renal 
+failure, requiring CRRT in the medical ICU and required a single 
+HD session on ___ hypoxia may have also been related to a 
+component of volume overload in the setting of his renal 
+failure.  He has been weaned to RA currently.  
+
+# ACUTE RENAL FAILURE
+The patient developed anuric ___.  ___ felt to be related to 
+septic ATN.  He had no evidence of AIN based on his urine 
+sediment.  Patient required CRRT in the FICU
+for voume overload and rising potassium and last underwent a 
+single session of HD on ___.  Since ___, he began to 
+experience UOP and his renal function has stabilized with clear 
+signs of recovery.  He has been having stable UOP (~1.5L) daily 
+and with stable electrolytes.  Per Renal, he has no further need 
+for HD and will continue outpatient management.  Of note, his 
+PPD is negative.  Will need to be maintained on a low K/Phos 
+renal diet pending further improvement of his renal function; no 
+need for a fluid restriction at time of discharge.  BUN/Cr on 
+day of discharge 64/3.7 (improved from BUN/Cr ___ during this 
+hospitalization).
+
+# Transaminitis
+Patient with persistently and stably elevated alk phos.  He has 
+had no obstructive
+symptoms/abdominal pain concerning for biliary obstruction; FFT 
+is wnl and RUQ US shows no evidence of obstruction.  Likely 
+related to his untreated CLL.
+
+# BPPV
+Resolved.  No focal deficits on neurologic exam so no suspicion 
+for central process at this time.  Resolved at time of 
+discharge.  Meclizine was not administered in the setting of his 
+renal dysfunction. 
+
+# CLL: Not currently on treatment. Initially, some mild 
+elevations in uric acid lead to some concern for tumor lysis 
+syndrome, although his LDH was stable and other electrolytes 
+WNL. He was initiated on allopurinol which was later 
+discontinued given his deterioration in renal function. In 
+conjunction with his outpatient oncologist, treatment of his CLL 
+is being considered, but should be deferred until the resolution 
+of the acute infection. At the recommendation of his oncologist, 
+he should receive IVIG if IgG < 500, although IgG> 500 as 
+measured this hospitalization.
+
+# DIABETES MELLITUS
+Decreased home levemir to 10u QHS given some asymptomatic 
+hypoglycemia earlier during his hospitalization.  His home 
+metformin was held given his renal dysfunction.
+
+# HLD 
+Home statin and gemfibrozil held in the setting of his elevated 
+alk phos.
+
+# DEPRESSION:
+Continued on home venlafaxine
+
+# HTN:
+Home lisinopril held in setting ___
+
+# TOXIC METABOLIC ENCEPHALOPATHY:
+Resolved.  Likely ___ acute illness (Legionella) and metabolic 
+derangements related to renal failure during his ICU 
+hospitalization.  Resolved while on the medical floor.
+
+# DIARRHEA
+Resolved.  Cdiff negative.
+
+***TRANSITIONAL ISSUES***
+- PPD negative
+- Home lisinopril and metformin held in the setting of his renal 
+dysfunction
+- Home gemfibrozil and statin held in the setting of his alk 
+phos elevation (continue to monitor as outpatient)
+- Patient to follow-up with his primary oncologist for ongoing 
+management of his CLL (untreated, not a new diagnosis, WBC has 
+been stably in the 180s-240s over the past year)
+- Patient to follow-up with his new nephrologist Dr. ___ 
+at ___ within 2 weeks
+- Please check Chem10 every 2 days and make sure that all 
+medications are renally dosed (in particular levofloxacin)
+- Anticipated end date of levofloxacin is ___ (total 21 day 
+course)
+- HCP is brother, Dr. ___ (___).
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gemfibrozil 600 mg PO BID 
+2. Insulin SC 
+      Sliding Scale
+Insulin SC Sliding Scale using HUM Insulin
+3. Lisinopril 10 mg PO DAILY 
+4. MetFORMIN (Glucophage) 1000 mg PO BID 
+5. Levemir (insulin detemir) 20 Units subcutaneous QHS 
+6. Viagra (sildenafil) 50 mg oral DAILY:PRN 
+7. Simvastatin 40 mg PO QPM 
+8. Venlafaxine XR 150 mg PO BID 
+9. fluorouracil 0.5 % topical BID:PRN 
+10. Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID:PRN Skin 
+Lesions 
+11. Zolpidem Tartrate 5 mg PO QHS:PRN Insomnia 
+12. Ascorbic Acid ___ mg PO DAILY 
+13. Vitamin D 1000 UNIT PO DAILY 
+14. Cinnamon (cinnamon bark) 500 mg oral DAILY:PRN 
+15. Fish Oil (Omega 3) ___ mg PO DAILY 
+16. Sodium Bicarbonate 650 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID  
+2.  FoLIC Acid 1 mg PO DAILY  
+3.  Levofloxacin 750 mg PO Q48H 
+Last dose on ___  
+4.  Multivitamins W/minerals 1 TAB PO DAILY  
+5.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+6.  Sarna Lotion 1 Appl TP QID:PRN Itch  
+7.  Thiamine 100 mg PO DAILY  
+8.  TraZODone 50 mg PO QHS:PRN insomnia  
+9.  Levemir 10 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+10.  Ascorbic Acid ___ mg PO DAILY  
+11.  Cinnamon (cinnamon bark) 500 mg oral DAILY:PRN  
+12.  Fish Oil (Omega 3) ___ mg PO DAILY  
+13.  fluorouracil 0.5 % topical BID:PRN  
+14.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID:PRN Skin 
+Lesions  
+15.  Venlafaxine XR 150 mg PO BID  
+16.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Septic shock
+Legionella pneumonia
+Acute renal failure
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ for severe pneumonia and required 
+ventilator support. You also developed kidney failure and needed 
+dialysis. You were treated with IV antibiotics and fortunately 
+your pneumonia and kidney failure has improved.  You will need 
+to continue taking an oral antibiotic, levofloxacin, to complete 
+a total 3 week course of treatment of ___ pneumonia.  Your 
+renal failure has improved such that there are no future plans 
+for dialysis.  
+
+Please follow-up with your outpatient providers as instructed 
+below.
+
+Thank you for allowing us to participate in your care.  All best 
+wishes for your health.
+
+Sincerely,
+Your ___ medical team
+ 
+Followup Instructions:
+___

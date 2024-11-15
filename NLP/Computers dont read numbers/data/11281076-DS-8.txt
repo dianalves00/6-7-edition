@@ -1,0 +1,275 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Penicillins / Macrobid / shrimp
+ 
+Attending: ___
+ 
+Chief Complaint:
+Loss of consciousness and right-sided weakness. 
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with atrial fibrillation on
+rivaroxaban who presents with an episode of loss of 
+consciousness
+and left sided weakness. Her daughter states that Ms. ___ came
+over to her house at around 1pm. They were sitting outside, and
+her daughter went inside to make lunch around 115pm. At 130pm,
+she looked outside and saw that Ms. ___ had dropped her glass 
+of
+ice water. Her daughter went outside and found Ms. ___ slumped
+over to the left. She did not respond to voice or light
+stimulation. Her daughter then used more vigorous stimulation,
+and Ms. ___ only groaned but did not open her eyes. EMS was
+called, and when they arrived, Ms. ___ would still only groan 
+to
+vigorous stimulation but would not open her eyes or interact. 
+Her
+daughter feels that during this time, her left arm was weaker 
+and
+more floppy than the right, although they were both slack. In
+addition, she feels that Ms. ___ had a slight left sided facial
+droop, although was not sure because she was lying on that side.
+She was placed in the ambulance and taken to an OSH. During the
+ambulance ride, she was trying to open her eyes, and when they
+reached the OSH, she was more alert. She started saying that she
+was "going to go home" and that her "father was waiting for 
+her",
+but her father has been dead for ___ years. A head CT and labs
+were unremarkable, and she was transferred to ___. En route to
+___, Ms. ___ was acting more appropriately and was basically
+back to herself.
+
+Of note, apparently Ms. ___ had another episode earlier this
+week. Her ___ came into her apartment and found her sitting in a
+chair. She had a difficult time waking her up, but Ms. ___ was
+apparently appropriate when she did and her vitals were within
+normal. Therefore, her daughter was not told about this event.
+ 
+On neuro ROS, the pt denies headache, loss of vision, blurred
+vision, diplopia, dysarthria, dysphagia, lightheadedness,
+vertigo, tinnitus or hearing difficulty. Denies difficulties
+producing or comprehending speech. Denies focal weakness,
+numbness, parasthesiae. 
+ 
+On general review of systems, she has had some diarrhea.
+Otherwise, she denies recent fever or chills. No night sweats or
+recent weight loss or gain. Denies cough, shortness of breath.
+Denies chest pain or tightness, palpitations. Denies nausea,
+vomiting, constipation or abdominal pain. No recent change in
+bowel or bladder habits. No dysuria. Denies arthralgias or
+myalgias. Denies rash. 
+
+ 
+Past Medical History:
+Atrial fibrillation on rivaroxaban, no history of strokes
+Diabetes
+Rheumatoid arthritis
+Hypertension
+Congestive heart failure
+ 
+Social History:
+___
+Family History:
+Mother had a stoke in old age. 
+ 
+Physical Exam:
+General: Awake, cooperative, NAD. 
+HEENT: NC/AT
+Pulmonary: No increased WOB
+Cardiac: RRR
+Abdomen: soft
+Extremities: significant pitting edema of bilateral ___: no rashes or lesions noted. 
+ 
+Neurologic: 
+-Mental Status: Alert, oriented x 3. Attentive, able to name 
+days
+of the week backward without difficulty. Language is fluent with
+intact repetition and comprehension. Normal prosody. There were
+no paraphasic errors. She was able to name both high and low
+frequency objects. Able to read without difficulty. Speech was
+not dysarthric. Able to follow both midline and appendicular
+commands. There was no evidence of neglect. 
+ 
+-Cranial Nerves: 
+II: PERRL 3 to 2mm and brisk. VFF to confrontation.
+III, IV, VI: EOMI without nystagmus. Normal saccades. 
+V: Facial sensation intact to light touch. 
+VII: No facial droop, facial musculature symmetric. 
+VIII: Hearing intact to finger-rub bilaterally. 
+IX, X: Palate elevates symmetrically. 
+XI: ___ strength in trapezii and SCM bilaterally. 
+XII: Tongue protrudes in midline with normal strength 
+ 
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.  
+  Delt Bic Tri WrE FFl  IO IP Quad Ham TA Gastroc 
+L  4    ___   ___   5    5  5     5 
+R  4    ___   ___   5    5  5     5
+ 
+-Sensory: No deficits to light touch, cold sensation, vibratory
+sense.
+ 
+-DTRs: 
+  Bi Tri ___ Pat Ach 
+L 2   2    3    Tr  0 
+R 2   2    3    Tr  0 
+Plantar response was flexor bilaterally. 
+ 
+-Coordination: No intention tremor
+ 
+-Gait: deferred
+ 
+Pertinent Results:
+   
+___ 11:26PM URINE  HOURS-RANDOM
+___ 11:26PM URINE  HOURS-RANDOM
+___ 11:26PM URINE  UHOLD-HOLD
+___ 11:26PM URINE  GR HOLD-HOLD
+___ 11:26PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 11:26PM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 11:26PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-SM 
+___ 11:26PM URINE  RBC-7* WBC-6* BACTERIA-FEW YEAST-NONE 
+EPI-6
+___ 08:37PM   COMMENTS-GREEN
+___ 08:37PM   LACTATE-1.5
+___ 08:00PM   GLUCOSE-115* UREA N-17 CREAT-1.0 SODIUM-139 
+POTASSIUM-3.7 CHLORIDE-100 TOTAL CO2-27 ANION GAP-16
+___ 08:00PM   estGFR-Using this
+___ 08:00PM   ALT(SGPT)-9 AST(SGOT)-17 ALK PHOS-106* TOT 
+BILI-0.6
+___ 08:00PM   cTropnT-<0.01
+___ 08:00PM   ALBUMIN-4.1 CALCIUM-9.7 PHOSPHATE-3.4 
+MAGNESIUM-1.8 CHOLEST-138
+___ 08:00PM   %HbA1c-8.4* eAG-194*
+___ 08:00PM   TRIGLYCER-98 HDL CHOL-63 CHOL/HDL-2.2 
+LDL(CALC)-55
+___ 08:00PM   TSH-2.1
+___ 08:00PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 08:00PM   WBC-5.9 RBC-4.36 HGB-11.4 HCT-36.8 MCV-84 
+MCH-26.1 MCHC-31.0* RDW-15.2 RDWSD-46.5*
+___ 08:00PM   NEUTS-54.0 ___ MONOS-6.6 EOS-2.7 
+BASOS-0.2 IM ___ AbsNeut-3.21 AbsLymp-2.15 AbsMono-0.39 
+AbsEos-0.16 AbsBaso-0.01
+___ 08:00PM   PLT COUNT-152
+___ 08:00PM   ___ PTT-32.0 ___
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o woman with HTN, CHF, DM, and 
+paroxysmal atrial fibrillation who presents from an outside 
+hospital with LOC and R sided weakness. 
+
+#Neuro: upon admission to ___, her neurological exam was 
+non-focal. NCHCT and CT/CTA head/neck did not show acute 
+intracranial abnormality. MRI did not show a stroke but did show 
+diffuse white matter disease likely ___ chronic microangiopathy. 
+She was continued on rivaraoxaban and aspirin per outpatient 
+cardiologist. Differential of her presentation includes seizure 
+given the large burden of white matter disease vs vasovagal 
+syncope (dehydration and immediately drinking a glass of cold 
+water leading to a vagal response) vs toxic-metabolic (?UTI). An 
+extended routine EEG was negative. 
+
+#CV: Ms. ___ had an acute exacerbation her CHF with worsening 
+dyspnea the night of ___ likely ___ going into afib with RVR 
+that was treated with metoprolol. A chest radiograph showed 
+pulmonary vascular congestion. She was diuresed 5L and 
+electrolytes were repleted prn.  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rivaroxaban 15 mg PO DAILY 
+2. Metoprolol Tartrate 12.5 mg PO BID 
+3. Aspirin 81 mg PO DAILY 
+4. Lisinopril 10 mg PO DAILY 
+5. rOPINIRole 2 mg PO BID 
+6. GlipiZIDE XL 5 mg PO DAILY 
+7. Pravastatin 40 mg PO QPM 
+8. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing 
+9. Furosemide 40 mg PO DAILY 
+10. Vitamin D Dose is Unknown  PO 1X/WEEK (___) 
+11. Potassium Chloride 10 mEq PO DAILY 
+12. Gabapentin 200 mg PO TID 
+
+ 
+Discharge Medications:
+1. Lisinopril 10 mg PO DAILY 
+2. Furosemide 40 mg PO DAILY 
+3. Gabapentin 200 mg PO TID 
+4. Metoprolol Tartrate 12.5 mg PO BID 
+5. Potassium Chloride 10 mEq PO DAILY 
+Hold for K > 
+6. Pravastatin 40 mg PO QPM 
+7. Rivaroxaban 15 mg PO DAILY 
+8. rOPINIRole 2 mg PO BID 
+9. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheezing 
+10. GlipiZIDE XL 5 mg PO DAILY 
+11. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+12. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Loss of consciousness
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Neuro: non-focal
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted for loss of consciousness and perhaps left 
+sided weakness that was initially concerning for a transient 
+ischemic attack. Your MRI of your head did not show a stroke but 
+did show extensive white matter disease. Because of this, a 
+seizure workup was also performed. The EEG read was negative for 
+seizures. 
+
+You were also found to have some mild volume overload on your 
+chest x-ray likely from your congestive heart failure. During 
+your second night in the hospital, you had an episode of atrial 
+fibrillation with rapid ventricular rate where you heart rate 
+went into the 150s. This was treated with metoprolol, and you 
+did well. Unfortunately, this likely precipitated a heart 
+failure exacerbation, which caused you to have some trouble 
+breathing thus requiring oxygen. You were diuresed with IV Lasix 
+and did well. 
+
+None of your home medications were changed. Please follow up 
+with your outpatient primary care physician. You will need a set 
+of labs drawn tomorrow to check your potassium level. Please 
+also follow up with your cardiologist.
+
+It was a pleasure taking care of you, and we wish you the best!
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

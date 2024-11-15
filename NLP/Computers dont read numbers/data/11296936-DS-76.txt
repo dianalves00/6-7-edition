@@ -1,0 +1,262 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+Hemodialysis
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with h/o DM2, HTN, ESRD on HD 
+TThS, atrial tachycardia, substance abuse (cocaine), who was 
+admitted with recurrent chest pain. The patient was discharged 
+one week ago after a two day hospitalization for chest pain, 
+which is typically associated with cocaine use. He reports that 
+he has felt unwell since his previous discharge. He reported 
+decreased appetite and poor oral intake, chills, cough 
+productive of green sputum, shortness of breath associated with 
+coughing, nausea, vomiting (nonbloody, nonbilious), and 
+dizziness. He returned to the ED on the day of admission for 
+these symptoms, as well as recurrent lef-sided chest pain and 
+left shoulder pain. He described the pain as ___ and constant 
+with radiation down his left arm. He reported that he had not 
+used cocaine in >1 week.  
+.  
+In the ED initial VS were 100.4 95 142/79 18 100%RA. The patient 
+was given Morphine and Dilaudid for pain control. CK was flat, 
+Trop was at baseline. No EKG changes were noted from prior EKGs. 
+Crackles were noted on pulmonary examination. A CXR was 
+unchanged from prior with small pleural effusion at the right 
+lung base. Patient was treated with Levaquin for presumed PNA, 
+given the fevers and productive cough. Vitals on transfer were 
+98.4 97 131/75 16 98%RA.  
+ 
+Past Medical History:
+- ESRD on HD ___ at ___, ___, 
+___  
+- Type 2 diabetes mellitus c/b peripheral neuropathy  
+- CAD: On review of records, he had demand ischemia in ___ 
+with no flow-limiting stenoses on cardiac cath. MIBI in ___ 
+showed reversible defects inferior/lateral. Baseline troponin 
+0.2-0.4. Cath in ___ - normal coronaries.  
+- Chronic systolic CHF with EF 30% ___ TTE)  
+- Atrial fibrillation/AFlutter s/p ablation ___ h/o atrial 
+tachycardia s/p EPS ___ and ablation x 2. not on coumadin due 
+to history of GIBs.  
+- Hypertension  
+- Dyslipidemia: ___ TC 101, LDL 54, HDL 29, ___ 112  
+- History of GI bleeds: Duodenal, jejunal, and gastric AVMs s/p 
+thermal therapy; diverticulosis throughout colon  
+- Chronic pancreatitis  
+- Possible Hepatitis C infection, HCV Ab + ___, but neg ___ 
+ 
+- GERD  
+- Gout  
+- s/p arthroscopy with medial meniscectomy ___  
+- Depression with multiple hospitalizations due to SI  
+- Polysubstance abuse: crack cocaine, EtOH, tobacco  
+- frequent bouts of chest pain following crack/cocaine use  
+- Erectile dysfunction s/p inflatable penile prosthesis ___  
+- H/o C diff in ___ 
+
+ 
+Social History:
+___
+Family History:
+Mother had ESRD on HD, died from MI at the age of ___. 4 Brothers 
+and 2 sisters, nearly all with DM2.
+ 
+Physical Exam:
+VS: 97.7  97  126/70  18  93%RA
+General: comfortable appearing, sitting on edge of bed
+HEENT: eyes injected, no TM, no LAD
+CV: tachycardic, irregular, normal S1,S2, no M/R/G
+Resp: diffuse, mild crackles
+Abd: S/NT/ND, BS+
+Ext: 2+ pulses; holding left arm tight against body
+ 
+Pertinent Results:
+___ 11:00PM BLOOD  CK-MD-4 cTropnT-0.25*
+___ 06:40AM BLOOD CK-MB-3 cTropnT-0.27*
+___ 03:30PM BLOOD CK-MB-4 cTropnT-0.31*
+
+___ 10:23PM BLOOD WBC-7.8# RBC-3.97* Hgb-11.9* Hct-35.9* 
+MCV-91 MCH-30.1 MCHC-33.2 RDW-15.5 Plt ___
+___ 05:58AM BLOOD WBC-6.7 RBC-3.95* Hgb-11.5* Hct-36.1* 
+MCV-91 MCH-29.0 MCHC-31.8 RDW-15.3 Plt ___
+
+___ 11:00PM BLOOD Glucose-290* UreaN-44* Creat-7.0* Na-132* 
+K-4.5 Cl-91* HCO3-26 AnGap-20
+___ 06:40AM BLOOD Glucose-173* UreaN-46* Creat-7.4* Na-135 
+K-4.3 Cl-96 HCO3-27 AnGap-16
+___ 05:58AM BLOOD Glucose-226* UreaN-22* Creat-4.7*# Na-133 
+K-4.7 Cl-94* HCO3-29 AnGap-15
+
+___ CXR: Stable mild cardiomegaly and small right effusion.
+
+___ EKG: atrial tachycardia @ 91, RBBB, no ST-Twave changes 
+as compared to prior EKG  
+
+ 
+Brief Hospital Course:
+___ year old male with DM2, ESRD on HD, systolic heart failure 
+(EF 28%), hypertension, atrial tachycardia, and cocaine abuse 
+who presents with chest pain, fever and cough. 
+.  
+1. Chest Pain: Patient has had multiple admissions in recent 
+months for similar complaints. EKG consistent with prior. 
+Troponins and CK-MB remained flat. Low suspicion for acute 
+coronary syndrome. Pain may have been secondary to cough in the 
+setting of a viral bronchitis versus musculoskeletal. Pain was 
+controlled with Tramadol.  He was started on ASA 81 mg per day.
+.  
+2. Fever/Cough: Crackles on examination but no evidence of 
+consolidation. CXR revealed stable right lower lobe effusion. 
+Urinary Legionella antigen was negative. Patient received 
+Levaquin once in the ED but this was not continued on the floor. 
+Patient remained afebrile throughout his stay on the floor.  He 
+was given medications for symptomatic relief, and encouraged to 
+refrain from cocaine use.
+.
+3. ESRD: Renal consulted for dialysis during admission as 
+patient was due. He received one HD session. Sevelamer, 
+Cinacalcet, and Nephrocaps. Medications were renally dosed. 
+.  
+4. Atrial Tachycardia: Patient remained tachycardic to low 100s 
+throughout admission. Amiodarone was continued at admission dose 
+of 200 mg daily. Review of records revealed that patient was at 
+one time on Diltiazem Extended Release 360 mg daily. Patient was 
+only on 180 mg daily on admission. Given persistent tachycardia, 
+patient was discharged on Diltiazem Extended Release 360 mg 
+daily. 
+.  
+5. Systolic Heart Failure: Patient was euvolemic to hypovolemic 
+on presentation. Lisinopril was continued. 
+.  
+6. Hypertension: Diltiazem and Lisinopril were continued as per 
+above. Patient normotensive through admission. 
+.  
+7. Diabetes: Patient on Humalog ___ Units four times a day at 
+home. Patient received Humalog insulin sliding scale during 
+admission. 
+.  
+8. Depression:  Sertraline was continued during admission. 
+ 
+Medications on Admission:
+Albuterol ___ q4h prn  
+Amiodarone 200mg PO daily  
+Atorvastatin 20mg PO daily  
+Diltiazem 180mg PO daily  
+Gabapentin 100mg PO qhs  
+Lisinopril 20mg PO daily  
+Pantoprazole 40mg PO daily  
+B Complex-VitaminC-Folic Acid 1mg PO daily  
+Sevelamer 2400mg PO TID  
+Cinacalcet 30mg PO daily  
+Sertraline 50mg PO daily  
+Mupirocin cream TID  
+Senna 1 tab PO BID prn  
+Humalog ___ Units QID
+Diphenhydramine 25mg PO q4-6h prn x 2weeks  (from prior 
+discharge summary of ___
+Zofran 4mg PO BID prn  (from prior discharge summary of ___
+Ibuprofen 400mg PO q8h prn  (from prior discharge summary of 
+___
+Camphor-Menthol lotion QID prn  (from prior discharge summary of 
+___
+Hydroxyzine 25mg PO TID  (from prior discharge summary of ___
+ 
+Discharge Medications:
+1. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q4H (every 4 hours) as needed for 
+SOB/wheezing.  
+2. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Diltiazem HCl 360 mg Capsule, Sustained Release Sig: One (1) 
+Capsule, Sustained Release PO once a day.
+Disp:*30 Capsule, Sustained Release(s)* Refills:*2*
+5. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+6. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+7. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+8. Sevelamer HCl 400 mg Tablet Sig: Six (6) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+9. Nephrocaps 1 mg Capsule Sig: One (1) Capsule PO once a day.  
+10. Cinacalcet 30 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Sertraline 50 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+12. Mupirocin Calcium 2 % Cream Sig: One (1) Appl Topical TID (3 
+times a day).  
+13. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).
+Disp:*30 Tablet, Chewable(s)* Refills:*2*
+14. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID PRN as needed 
+for constipation.  
+15. Camphor-Menthol 0.5-0.5 % Lotion Sig: One (1)  Topical PRN 
+as needed for itching.  
+16. Humalog 100 unit/mL Cartridge Sig: ___ Units Subcutaneous 
+four times a day: Continue according to the sliding scale 
+determined by your PCP.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Chest Pain
+
+Secondary Diagnoses:
+End-Stage Renal Disease
+Atrial Tachycardia
+Hypertension 
+Diabetes (Insulin-Dependent)
+Congestive Heart Failure (Systolic)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___:
+You were admitted to the hospital with chest pain. Tests were 
+performed to look for evidence of damage to your heart. These 
+tests were negative. You were also due for dialysis during this 
+hospitalization and received dialysis during your stay. 
+
+** Please note that you were given Diltiazem Extended-Release 
+180 mg daily during this admission. Looking through prior 
+records it appears that you were on Diltiazem Extended-Release 
+360 mg daily. Your heart rate was very high during this 
+admission. You should start taking Diltiazem Extended-Release 
+360 mg daily following your discharge. Make sure that you only 
+take the 360 mg daily. **
+
+Please keep all outpatient follow-up appointments. 
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___

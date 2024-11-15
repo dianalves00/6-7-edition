@@ -1,0 +1,329 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___
+ 
+Chief Complaint:
+I feel shaky
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Pt is a ___ year old woman who presents to ED from opthomologists 
+office after she began feeling shaky, nauseous and weak. Blood 
+sugar was noted to be 308 and she was sent to the ED. She felt 
+nauseous this morning and did not eat breakfast or take her 
+medications, including her insulin. She notes she has been 
+feeling generally weak for the last month and fatigued for about 
+6 months. She has been taking prednisone daily since a 
+hospitalization in ___ for PNA and new onset AFib. 
+Additionally, she developed sunburn over both feet 5 weeks ago, 
+and developed ulcerating blisters for which she has been taking 
+amoxicillin for the last 5 weeks. She has noted diarrhea with 
+the amoxicillin. She denies recent fevers or chills. She 
+believes her foot blisters are healing and denies pain. No chest 
+pain. Noticed foul smelling urine this morning.     
+.  
+In the ED, initial vs were: T97.9 P 74 BP 150/60 R 18 O2 sat 
+97%2L. UA was notable for likely infection. Labs showed BG 361, 
+anion gap of 21, and positive ketones in the urine, and lactate 
+of 4.6. Patient was given her home insulin dose of 42 units 
+70/30 and 1 g ceftriaxone for presumed UTI. Pt recieved total of 
+2 L IVF's and her BG decreased to 254, gap reduced to 18 and 
+lactate decreased to 4.0. She was transferred to the floor for 
+further management.   
+.  
+Review of systems:  
+(+) Per HPI. Also notes recent weight gain while on prednisone 
+along with fatigue and weakness. 
+(-) Denies fever, chills, or recent weight loss. Denies 
+headache, sinus tenderness, rhinorrhea or congestion. Denied 
+cough, shortness of breath. Denied chest pain or tightness, 
+palpitations. Denied arthralgias or myalgias.  
+ 
+Past Medical History:
+-IDDM c/b retinopathy
+-HTN
+-AFib, diagnosed during hospitalization in ___
+-s/p hysterectomy, rt breast benign tumor removal, and 
+debridement of left foot infection 
+ 
+Social History:
+___
+Family History:
+- 6 children, one daughter died last year from ?complications of 
+hemachromatosis (runs in late husband's side of family)
+- Mother died of complications of diabetes, another brother with 
+DM
+- No known history of cardiovascular disease or stroke
+ 
+Physical Exam:
+FEX ON ADMISSION
+Vitals: T: 98.4 BP: 176/96 P: 86 R: 20 O2:  96%RA 
+General: Pleasant elderly woman. Alert and oriented. Somewhat 
+tremulous but appears comfortable.  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, diffusely enlarged nontender 
+thyroid   
+Lungs: Wet crackles at bases, Nonlabored and speaking in full 
+sentences.  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: Obese, moderately distended. Positive bowel sounds. No 
+fluid shift noted. Non-tender, difficult to evaluate for 
+organomegaly  
+Ext: ___ nonpitting edema of lower extremities. No clubbing or 
+cyanosis. 1+ DP pulses. 2+ radial.
+Neuro: CNs2-12 intact, Strength ___ throughout. No gross sensory 
+loss.
+Skin: Poorly demarcated erythema over bilateral lower 
+extremities up to mid shin. 1-2cm healing ulcer on dorsum of 
+left foot, and smaller 1 cm healing ulcer on dorsum of rt foot. 
+Diffusely dry skin with leathery changes over the waistband area 
+on abdomen on right side.
+
+FEX ON DISCHARGE
+Vitals: T: 97.9 BP: 127/59 P: 73 R: 20 O2:  93%RA 
+General: Pleasant elderly woman. Alert and oriented. 
+Comfortable.
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, diffusely enlarged nontender 
+thyroid   
+Lungs: Wet crackles halfway up bilaterally, mild expiratory 
+wheeze anteriorly. Nonlabored and speaking in full sentences.  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: Obese, moderately distended. Positive bowel sounds. No 
+fluid shift noted. Non-tender, difficult to evaluate for 
+organomegaly  
+Ext: ___ nonpitting edema of lower extremities. No clubbing or 
+cyanosis. 1+ DP pulses. 2+ radial.
+Neuro: CNs2-12 intact, Strength ___ throughout. No gross sensory 
+loss.
+Skin: Poorly demarcated erythema over bilateral lower 
+extremities up to mid shin. 1-2cm healing ulcer on dorsum of 
+left foot, and smaller 1 cm healing ulcer on dorsum of rt foot. 
+Diffusely dry skin with leathery changes over the waistband area 
+on abdomen on right side. 
+ 
+Pertinent Results:
+___ 11:55AM BLOOD WBC-8.8 RBC-4.40 Hgb-14.6 Hct-40.3 MCV-92 
+MCH-33.1* MCHC-36.1* RDW-13.5 Plt ___
+___ 06:30AM BLOOD WBC-7.3 RBC-3.88* Hgb-12.8 Hct-35.0* 
+MCV-90 MCH-33.1* MCHC-36.7* RDW-13.7 Plt ___
+
+___ 03:30PM BLOOD ___ PTT-36.7* ___
+___ 06:30AM BLOOD ___ PTT-36.0* ___
+
+___ 11:55AM BLOOD Glucose-361* UreaN-19 Creat-0.8 Na-136 
+K-3.6 Cl-95* HCO3-24 AnGap-21*
+___ 02:50PM BLOOD Glucose-306* UreaN-17 Creat-0.8 Na-137 
+K-4.1 Cl-98 HCO3-25 AnGap-18
+___ 06:30AM BLOOD Glucose-158* UreaN-11 Creat-0.6 Na-144 
+K-4.2 Cl-105 HCO3-31 AnGap-12
+
+___ 06:30AM BLOOD Calcium-9.1 Phos-3.0 Mg-1.3*
+
+___ 02:59PM BLOOD pO2-78* pCO2-46* pH-7.37 calTCO2-28 Base 
+XS-0 Comment-GREEN TOP
+
+___ 02:59PM BLOOD Glucose-281* Lactate-4.6* Na-137 K-4.2 
+Cl-97*
+___ 05:33PM BLOOD Glucose-254* Lactate-4.0*
+___ 09:04PM BLOOD Lactate-3.4*
+___ 07:27AM BLOOD Lactate-2.1*
+
+___ 02:10PM URINE Color-Yellow Appear-Clear Sp ___
+___ 02:10PM URINE Blood-MOD Nitrite-POS Protein-30 
+Glucose-500 Ketone-40 Bilirub-NEG Urobiln-0.2 pH-5.0 Leuks-NEG
+___ 02:10PM URINE RBC-0 ___ Bacteri-MANY Yeast-NONE 
+Epi-0
+
+___ 2:10 pm URINE     Site: NOT SPECIFIED      OLD S# 
+___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH FECAL
+      CONTAMINATION. 
+ECGStudy Date of ___  11:34:48 AM
+ 
+Atrial fibrillation with a controlled ventricular response. 
+Non-specific
+ST-T wave changes. No previous tracing available for comparison.
+ 
+Read ___.
+ ___
+___
+CXR ___
+
+FINDINGS: Frontal and lateral views of the chest were obtained. 
+There are
+slightly low lung volumes, which accentuate the bronchovascular 
+markings.
+Given this, no focal consolidation, pleural effusion, or 
+pneumothorax is seen. Cardiac and mediastinal silhouettes are 
+unremarkable. There are aortic calcifications.
+IMPRESSION: Low lung volumes which accentuate the 
+bronchovascular markings.
+Given this, no acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+___ year old woman with IDDM and AFib on coumadin who presents to 
+ED from clinic after feeling nauseous, light headed, dizzy and 
+found to have BG of 308.
+
+ACTIVE PROBLEMS
+
+1. High blood sugar: Patient with long history of diabetes and 
+difficult to control BS. Urine was positive for ketones in ED 
+with BG >300 and anion gap of 21. Patient had been feeling 
+nauseated and did not eat or take her insulin on the morning of 
+admission. She was given her home insulin dose of 44 units 70/30 
+along with 2L NS in the ED. On the floor she was continued on 
+home insulin of 42 units 70/30 in the evening along with HISS. 
+BG morning of discharge was 158. K was trended and remained 
+stable.
+
+2. Elevated lactate: Lactate was 4.6 on admission. Etiology was 
+thought to be combination of increased diarrhea, possible UTI, 
+and dehydration due to elevated blood sugar. Patient was given 
+2L normal saline in the ED and an additional liter overnight. 
+Morning of discharge, lactate had trended down to 2.1 and 
+patient felt at her baseline.
+
+3. UTI: UA in the ED showed evidence of infection. She recieved 
+1 dose of ceftriaxone in ED and was transitioned to bactrim DS 
+bid on the floor. She was discharged to complete 5 days of 
+treatment. Urine culture returned after discharge and showed 
+likely fecal contamination.
+
+4. AFib: Patient found to be in atrial fibrillation with good 
+ventricular rate control. She was maintained on home dose of 
+metoprolol tartrate for rate control. She is on coumadin 
+prophylaxis and INR was noted to be 3.7 on admission. Coumadin 
+was held and on day of discharge again noted to be high at 3.8. 
+Patient was instructed to again hold her coumadin dose and was 
+instructed to follow closely with her ___ clinic and PCP.
+
+5. Foot ulcers: Appeared after sunburn 5 weeks ago. Blistered 
+and developed into weeping ulcers on dorsum of feet bilaterally 
+with edema and poorly demarcated erythema. Has been on 
+amoxicillin bid during this time during which patient developed 
+diarrhea. Ulcers were shallow and appeared to be healing well. 
+Did not appear to be clinically infected and amoxicillin was 
+discontinued. Patient was started on bactrim for 5 days as 
+above.
+
+6. Diarrhea: Appears to be side effect of amoxicillin. 
+Considering lack of white count and nonmalignant course, there 
+was low suspicion for CDiff. 
+
+CHRONIC PROBLEMS
+
+1. HTN: Patient was hypertensive on floor night of admission to 
+170's SBP. She had not recieved home meds. She was given her 
+home regimen of amlodipine 10, diovan 160, and metoprolol 
+tartrate 50 bid. She was normotensive day of discharge.
+
+OUTSTANDING STUDIES
+-Blood cultures: No growth to date at time of writing
+
+TRANSITIONAL ISSUES
+-Please check INR and adjust coumadin as needed as patient was 
+supratherapeutic on admission and discharge.
+ 
+Medications on Admission:
+- Metformin 1000bid
+- Gabapentin 100qhs
+- Metoprolol 50 bid
+- Omeprazole 40 bid
+- Torsemide 10 bid
+- Amlodipine 10
+- Diovan 160
+- Warfarin 4mg daily
+- Ativan 0.5 mg prn
+- Insulin 70/30 44 qam and 42 with dinner
+ 
+Discharge Medications:
+1. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+2. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for Insomnia.  
+3. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+4. valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. insulin NPH & regular human 100 unit/mL (70-30) Suspension 
+Sig: ___ (44) units Subcutaneous qam.  
+6. insulin NPH & regular human 100 unit/mL (70-30) Suspension 
+Sig: ___ (42) units Subcutaneous With dinner.  
+7. gabapentin 100 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+8. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+9. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 4 days.
+Disp:*8 Tablet(s)* Refills:*0*
+10. torsemide 5 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+11. metformin 1,000 mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Lactic acidosis
+Hyperglycemia
+Urinary tract infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ because you were feeling weak and 
+shaky at your eye doctor's office. We found that you had high 
+blood sugar along with a urinary tract infection. Additionally, 
+a marker in your blood called lactate was elevated, which is 
+usually an indication that you aren't getting enough blood to 
+your body. We gave you insulin and fluids and your blood sugar 
+and lactate levels came down nicely. Additionally, we gave you 
+antibiotics for your UTI, which you will need to take for four 
+more days. Please note the following changes we have made to 
+your medications:
+
+STOP Amoxicillin
+STOP Prednisone
+START Bactrim DS 1 tab twice daily for 4 more days
+
+Please be sure to check your blood sugar regularly, and let your 
+primary care doctor now if it gets above 300. Please note the 
+following appointment with Dr. ___ have already 
+scheduled. It has been a pleasure taking care of you.
+
+You should discuss with your primary care doctor why you are not 
+on aspirin or a cholesterol medication, if you need these.
+ 
+Followup Instructions:
+___

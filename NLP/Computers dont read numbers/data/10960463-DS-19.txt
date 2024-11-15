@@ -1,0 +1,485 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+nuts / verapamil / Tegretol / lisinopril / Enablex / Lipitor / 
+pravastatin / simvastatin / epinephrine / Demerol / Sulfa 
+(Sulfonamide Antibiotics) / Penicillins / Plaquenil
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness, diarrhea, BRBPR
+ 
+Major Surgical or Invasive Procedure:
+Chest tube insertion by IP on ___ and removal on ___
+Flexible sigmoidoscopy with biopsy by GI on ___
+
+ 
+History of Present Illness:
+___ is a ___ female with recent diagnosis of high grade
+serous ovarian CA w/ erosion into the sigmoid who was recently
+discharged from ___ on ___ where she had presented with a
+large abdominal/pelvic mass following progressive malaise and
+weight loss. She underwent an ultrasound guided biopsy which
+confirmed ovarian CA. Following discharge, she saw Dr. ___ 
+in
+the ___ clinic on ___. She was distended and
+uncomfortable. She had an ultrasound guided paracentesis 
+arranged
+where 4.5 L was drained. She was also referred to medical
+oncology to discuss neoadjuvant chemotherapy given her disease
+bulk.
+
+Patient reports that she had progressive weakness w/ continue
+diarrhea, passing small amounts of watery stools 10 times per
+day. She also had a 4 hours period yesterday evening where she
+passed bright red blood per rectum with associated clots. She
+called the ___ clinic complaining of above symptoms and was
+referred to the ED. 
+
+In the ED, patient was hemodynamically stable. She had
+leukocytosis to 14k w/ thorombocytosis and Hct 38%. She was 
+given
+1 L of IVF. She was seen by gyn oncology consult team who
+recommended medical admission for possible initiation of
+chemotherapy as an inpatient. 
+
+ 
+Past Medical History:
+Only major abdominal surgery is C-section x3
+GERD
+Hypertension
+Stage I malignant melanoma (diagnosed and excised ___
+Microscopic collagenous colitis
+Overactive bladder
+Arthritis, ? of RA vs. lupus
+ 
+Social History:
+___
+Family History:
+No family history of ovarian cancer or breast
+cancer. Father w/ colon polyp (without colon cancer as far as 
+she
+knows) and prostate cancer.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=============================
+VS: ___ 0110 Temp: 97.9 PO BP: 133/75 HR: 83 RR: 18 O2 sat:
+91% O2 delivery: RA 
+GENERAL: Pleasant, lying in bed comfortably
+EYES: Anicteric sclerea, PERLL, EOMI; 
+ENT: Oropharynx clear without lesion, JVD not elevated 
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops; 2+ radial pulses, 2+ DP pulses
+RESPIRATORY: Appears in no respiratory distress, clear to
+auscultation bilaterally, no crackles, wheezes, or rhonchi
+GASTROINTESTINAL: Normal bowel sounds; distended but soft,
+nontender without rebound or guarding; no hepatomegaly, no
+splenomegaly
+MUSKULOSKELATAL: Warm, well perfused extremities without lower
+extremity edema; Normal bulk 
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact
+SKIN: No significant rashes
+LYMPHATIC: No cervical, supraclavicular, submandibular
+lymphadenopathy. No significant ecchymoses
+
+DISCHARGE PHYSICAL EXAM
+========================
+Vitals:
+___ 0706 Temp: 97.6 PO BP: 120/65 HR: 80 RR: 18 O2 sat: 98%
+O2 delivery: RA 
+GENERAL: NAD
+CARDIOVASCULAR: Regular rate and rhythm, no murmurs, rubs, or
+gallops; 2+ radial pulses
+RESPIRATORY: CTAB 
+GASTROINTESTINAL: soft, mild distention, NTTP
+MUSKULOSKELATAL: Warm, well perfused extremities
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact
+SKIN: No significant rashes
+LYMPHATIC: No cervical, supraclavicular, submandibular
+lymphadenopathy. No significant ecchymosis
+EXTREMITIES: WWP
+
+ 
+Pertinent Results:
+ADMISSION LABS
+============================
+___ 12:00PM BLOOD WBC-14.4* RBC-4.50 Hgb-11.5 Hct-38.0 
+MCV-84 MCH-25.6* MCHC-30.3* RDW-15.6* RDWSD-47.8* Plt ___
+___ 12:00PM BLOOD Neuts-83.5* Lymphs-7.4* Monos-6.9 
+Eos-0.9* Baso-0.3 Im ___ AbsNeut-12.01* AbsLymp-1.07* 
+AbsMono-1.00* AbsEos-0.13 AbsBaso-0.05
+___ 12:00PM BLOOD ___ PTT-21.4* ___
+___ 12:00PM BLOOD Plt ___
+___ 12:00PM BLOOD Glucose-123* UreaN-17 Creat-0.7 Na-135 
+K-4.7 Cl-97 HCO3-27 AnGap-11
+___ 07:14AM BLOOD ALT-8 AST-19 AlkPhos-66 TotBili-0.2
+
+MICRO LABS
+============================
+___ 1:00 pm URINE      N. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+___ 10:36 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile PCR (Final ___: 
+      Reported to and read back by ___ AT 
+0619 ON
+      ___. 
+      POSITIVE. 
+         The C. difficile PCR is highly sensitive for toxigenic 
+strains of
+         C. difficile and detects both C. difficile infection 
+(CDI) and
+         asymptomatic carriage. Therefore, positive C. diff PCR 
+tests
+         trigger reflex C. difficile toxin testing, which is 
+highly
+         specific for CDI. 
+
+   C. difficile Toxin antigen assay (Final ___: 
+      NEGATIVE.              (Reference Range-Negative).  
+PERFORMED BY EIA. 
+         This result indicates a low likelihood of C. difficile 
+infection
+         (CDI). 
+
+___ 10:36 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      No E. coli O157:H7 found. 
+
+___ 2:48 pm PLEURAL FLUID      LEFT SIDE PLEURAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___: 
+      MORGANELLA ___.    RARE GROWTH. 
+         Identification and susceptibility testing performed on 
+culture # 
+         ___. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+___ 2:48 pm FLUID RECEIVED IN BLOOD CULTURE BOTTLES
+      LEFT SIDE PLEURAL FLUID. 
+
+                            **FINAL REPORT ___
+
+   Fluid Culture in Bottles (Final ___: 
+      ___.    FINAL SENSITIVITIES. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ___
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___ @ 0400 ON ___ - 
+___. 
+      GRAM NEGATIVE ROD(S). 
+
+   Aerobic Bottle Gram Stain (Final ___:    GRAM NEGATIVE 
+ROD(S). 
+
+___ 8:25 am FLUID RECEIVED IN BLOOD CULTURE BOTTLES
+      PLEURAL FLUID COLLECTED IN BLOOD CULTURE BOTTLE. 
+
+                            **FINAL REPORT ___
+
+   Fluid Culture in Bottles (Final ___:    NO GROWTH. 
+
+***** BCX PENDING *****
+
+___ 8:06 am STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile PCR (Final ___: 
+      NEGATIVE. 
+           (Reference Range-Negative). 
+      The C. difficile PCR is highly sensitive for toxigenic 
+strains of C.
+      difficile and detects both C. difficile infection (CDI) 
+and
+      asymptomatic carriage. 
+      A negative C. diff PCR test indicates a low likelihood of 
+CDI or
+      carriage. 
+
+OTHER FLUID ANALYSIS
+=========================
+___ 02:48PM PLEURAL ___ ___ Polys-60* 
+Lymphs-30* ___ Meso-3* Macro-5* Other-2*
+___ 02:48PM PLEURAL TotProt-2.9 Glucose-135 LD(LDH)-210 
+Cholest-78 proBNP-320
+___ 10:04AM ASCITES TNC-548* RBC-1107* Polys-43* Lymphs-11* 
+___ Macroph-46*
+___ 10:04AM ASCITES TotPro-3.2 Glucose-74 Creat-0.4 
+LD(LDH)-338 Amylase-6 TotBili-0.3 Albumin-1.6
+
+IMAGING
+==========================
+CT ABDOMEN AND PELVIS ___. Extensive intraperitoneal metastasis appears similar to ___.  No new mass is identified. 
+2. 1.9 cm area of hypoenhancement is identified in the upper 
+pole of left 
+kidney.  Please clinically correlate for any pyelonephritis. 
+
+CT CHEST ___
+Increasing left-sided pleural effusion, now moderate in size 
+with substantial left lower lobe atelectasis.  Trace new 
+right-sided pleural effusion. 
+
+CXR ___
+Pigtail catheter has been discontinued.  Left pleural effusion 
+is small, 
+unchanged.  Minimal left apical pneumothorax is unchanged.  
+Right pleural 
+effusion is small to moderate.  Atelectasis in the right lung 
+base is 
+unchanged.  Cardiomediastinal silhouette is stable. 
+
+CTAP ___:
+1. Predominantly stable peritoneal and omental metastases.  2 
+peritoneal 
+nodules in the right lower quadrant are slightly decreased in 
+size.  The 
+conglomerate mass in the pelvis is slightly decreased in size, 
+it compresses 
+the sigmoid colon however there is no evidence of colonic 
+obstruction.  Please 
+note that tumor infiltration into the sigmoid colon cannot be 
+excluded. 
+2. New right moderate pleural effusion, small to moderate left 
+pleural 
+effusion is slightly decreased in size 
+3. Small amount of ascites decreased from prior study 
+
+DISCHARGE LABS
+===========================
+___ 05:47AM BLOOD WBC-5.2 RBC-3.38* Hgb-8.9* Hct-29.0* 
+MCV-86 MCH-26.3 MCHC-30.7* RDW-18.8* RDWSD-58.9* Plt ___
+___ 05:47AM BLOOD Glucose-88 UreaN-7 Creat-0.5 Na-136 K-4.3 
+Cl-96 HCO3-29 AnGap-11
+ 
+Brief Hospital Course:
+This is a ___ yo woman with recent diagnosis of stage IV high 
+grade serous ovarian CA who presented with diarrhea and BRBPR, 
+found to have partial bowel obstruction from sigmoid mass and as 
+well as malignant pleural effusion and ascites. 
+
+#Partial bowel obstruction
+Underwent flex sigmoidoscopy on ___ which demonstrated friable 
+distal sigmoid mass with extrinsic compression of the rectum and 
+sigmoid colon from a pelvic mass. Her diarrhea was thus felt to 
+represent overflow incontinence in the setting of partial distal 
+obstruction. She was managed here conservatively with a course 
+notable for difficult to manage symptoms oscillating between 
+obstruction symptoms and fecal incontinence. For her fecal 
+incontinence, we considered placing a flexiseal but this was 
+deferred in the setting of distal sigmoid mass. A palliative 
+sigmoid stent was also considered but the ERCP team felt it was 
+unlikely to stay in place due to extrinsic compression. She is 
+not a good candidate for diverting colostomy per surgery. 
+Loperamide 2mg once a day calmed her symptoms when they were 
+particularly unbearable (she was sensitive to this medication 
+and higher doses worsened her obstructive symptoms). She 
+continued to have intermittent bleeding from her sigmoid mass, 
+which manifested as some mild BRBPR requiring 2 blood 
+transfusions. On discharge, she was in manageable place with 
+regards to her symptoms. The hope is that ongoing chemo will 
+provide further support by decreasing disease burden. She 
+received cycle 2 ___ in house (___). 
+
+#High grader serous ovarian cancer
+Carboplatin C1D1 on ___, C2 carboplatin/taxol (___). 
+Both cycles were well tolerated.
+
+#Urinary frequency
+Ms. ___ had urinary frequency likely from tumor compression on 
+her bladder on top of her chronic urge incontinence. Her home 
+oxybutynin was avoided in the setting of her partial bowel 
+obstruction. A foley was placed for symptomatic relief but was 
+ultimately removed given infection risk.
+
+#Malignant pleural effusion with superinfection
+Found to have an enlarging left pleural effusion on imaging. IP 
+placed a chest tube with good effect. Cytology was positive for 
+malignant cells consistent with her known ovarian cancer. Her 
+pleural fluid culture grew out morganella, which was somewhat 
+surprising given her lack of infectious symptoms. She completed 
+a 2 week course of ciprofloxacin. Repeat CXR on ___ showed 
+recurrence of bilateral pleural effusion but given absence of 
+respiratory and infectious symptoms, repeat pleural tap was 
+deferred. 
+
+#Malignant ascites
+Underwent therapeutic paracentesis by ___ on ___. Labs and 
+culture were incompatible with SBP. 
+
+#Leukocytosis
+Likely reflects immune response to malignancy vs prednisone txt 
+for rheumatoid arthritis. Her WBC returned to normal prior to 
+discharge. 
+
+#Rheumatoid arthritis
+Continued prednisone 10 mg daily 
+
+Transitional Issues
+===========================
+- CONTINUE miconazole powder 2% 1 appl BID for 7 more days for 
+breast rash (last day ___
+
+[] Per primary oncologist, Ms. ___ will need outpatient BRCA2 
+testing. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 50 mg PO DAILY 
+2. Hydroxychloroquine Sulfate 200 mg PO BID 
+3. PredniSONE 10 mg PO DAILY 
+4. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+5. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+6. LOPERamide 2 mg PO QID:PRN diarrhea 
+7. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Miconazole Powder 2% 1 Appl TP BID 
+RX *miconazole nitrate 2 % 1 application twice a day Disp #*1 
+Bottle Refills:*0 
+2.  Ondansetron 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+RX *ondansetron 8 mg 1 tablet(s) by mouth every 8 hours Disp 
+#*30 Tablet Refills:*0 
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+4.  Atenolol 50 mg PO DAILY  
+5.  LOPERamide 2 mg PO QID:PRN diarrhea  
+6.  Omeprazole 20 mg PO DAILY  
+7.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*50 Tablet Refills:*0 
+8.  PredniSONE 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Stage IV metastatic high grade serous ovarian adenocarcinoma
+
+Secondary diagnosis:
+SVT
+Rheumatic arthritis
+Malignant pleural effusion with superinfection 
+Malignant ascites 
+Urinary frequency from tumor compression and bladder 
+overactivity
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+WHY WAS I ADMITTED?
+- You were admitted for management of a partial bowel 
+obstruction related to your ovarian cancer. 
+
+WHAT WAS DONE WHILE I WAS HERE?
+-You underwent a flexible sigmoidoscopy which showed a large 
+malignant mass in your sigmoid colon. This mass and cancer 
+spread elsewhere in your pelvis was the cause of your 
+diarrhea/obstruction symptoms and bloody stools. Your symptoms 
+were managed with medication, bowel rest, chemotherapy, and 
+blood transfusions as required. 
+
+-You started chemotherapy with carboplatin here on ___. You 
+received a second cycle of chemotherapy on ___.
+
+-You were found to have a large left lung effusion related to 
+your cancer. A chest tube was placed for drainage. You completed 
+a 14 day course of antibiotics for infection noted in your lung 
+fluid fluid. 
+
+-You underwent drainage of fluid accumulating in your abdomen. 
+
+ 
+WHAT SHOULD I DO NOW?
+- You should take your medications as instructed
+- You should go to your doctor's appointments as below
+- You should keep in close contact with your oncologist
+
+We wish you the best!
+- Your ___ Care Team
+
+ 
+Followup Instructions:
+___

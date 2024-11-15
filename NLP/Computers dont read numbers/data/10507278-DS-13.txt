@@ -1,0 +1,247 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cough/Hypotension
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/ dementia and htn who presents with ongoing cough for 3 
+weeks.  Cough began while visiting his daughter in ___, 
+___.  He arrived there on ___, cough began on ___. 
+ ___ was febrile, had general malaise/fatigue, temp taken 
+was 102. He then went to physician in ___ who prescribed him 
+7 day course of QID antibiotic (he and his wife are unsure of 
+which antibiotic it was).  Fevers subsequently resolved, but 
+cough and malaise persisted.  Cough is non-productive, no 
+hemoptysis.  From ___ he flew to ___, went on river 
+boat cruise and flew back this past ___.  He was 
+seen by his PCP, ___, in clinic today, he was found to be 
+hypotensive with systolic in the ___, with rales left mid 
+thorax.  Dr. ___ him to the ER d/t concern for pneumonia. 
+ Of note, ___ wife reports he has had poor PO intake for 
+past 3 weeks since onset of his illness.  He has not had nasal 
+congestion, rhinorrhea, or GERD symptoms with his cough.
+ 
+In the ED, initial vs were: 98.8 73 86/49 18 96% RA.  Triggered 
+for hypotenstion, ___ was given 1L NS with normalization of 
+blood pressures. Labs were remarkable for normal ___ count 
+6.9, H/H 11.4/35.4, BUN/Cr ___, lactate 1.3, negative U/A.  
+CXR was negative for pneumonia.  ___ given 750 mg IV 
+levofloxacin for presumed pna.
+ 
+On the floor, vs were: T97.8 P66 BP102/55 R18 O2 sat 96% RA.  
+___ was resting comfortably in bed, reports ongoing cough, 
+but otherwise without complaints.  
+ 
+ 
+Past Medical History:
+-B12 deficiency
+-Hypertension.  
+-Prostate cancer s/p radical prostatectomy in ___,
+-Bilateral cataracts.  He has had cataract extraction with
+intraocular lens implants bilaterally, performed by Dr. ___.  His most recent procedure was on the right eye on
+___.  His prior procedure was in ___ on the left eye.
+-Dementia, alzheimer's type  
+-Colonic polyps.   colonoscopy at ___ in 
+___.  He had several polyps including an adenoma. 
+ 
+Social History:
+___
+Family History:
+Mother with uterine and breast cancer, sister w/ h/o dementia 
+and was in a memory care unit in her later years
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+====================
+Vitals: T97.8 P66 BP102/55 R18 O2 sat 96% RA.
+General: Skinny elderly male, in NAD, resting comfortably, 
+minimally conversant  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: No rashes or excoriations noted  
+Neuro: A&Ox1, CNII-XII grossly intact, follows commands, moving 
+all extremities
+
+DISCHARGE PHYSICAL EXAM:
+===================
+Vitals: T97.8-98.5 P60 BP96-103/60-65 R18 O2 sat 100% RA.
+General: Thin elderly male, in NAD, resting comfortably
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: No rashes or excoriations noted  
+Neuro: A&Ox1, CNII-XII grossly intact, follows commands, moving 
+all extremities
+ 
+Pertinent Results:
+LABS:
+=======
+___ 02:20PM BLOOD WBC-6.9# RBC-3.57* Hgb-11.4* Hct-35.4* 
+MCV-99* MCH-31.9 MCHC-32.2 RDW-12.4 Plt ___
+___ 07:00AM BLOOD WBC-3.9* RBC-3.20* Hgb-10.0* Hct-32.1* 
+MCV-101* MCH-31.4 MCHC-31.2 RDW-13.0 Plt ___
+___ 02:20PM BLOOD Neuts-74.0* ___ Monos-6.7 Eos-0.4 
+Baso-0.2
+___ 02:20PM BLOOD Glucose-100 UreaN-16 Creat-1.1 Na-134 
+K-3.9 Cl-98 HCO3-26 AnGap-14
+___ 07:00AM BLOOD Glucose-91 UreaN-13 Creat-0.9 Na-140 
+K-4.3 Cl-104 HCO3-31 AnGap-9
+___ 02:20PM BLOOD Calcium-8.6 Phos-3.3 Mg-1.8
+___ 07:00AM BLOOD Calcium-8.6 Phos-2.9 Mg-1.7
+___ 02:23PM BLOOD Lactate-1.3
+___ 03:44PM URINE Color-Straw Appear-Clear Sp ___
+___ 03:44PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+
+IMAGING/STUDIES:
+=============
+CXR (___): FINDINGS: PA and lateral views of the chest were 
+provided.  The lungs are hyper inflated. The lungs are clear 
+bilaterally without focal consolidation, effusion, or 
+pneumothorax.  The cardiomediastinal silhouette is normal.  The 
+imaged bony structures are intact.  No free air is seen below 
+the right hemidiaphragm.  
+IMPRESSION: No acute intrathoracic process.  
+
+MICRO:
+=============
+Blood Culture (___): Negative as of discharge date
+ 
+Brief Hospital Course:
+___ with ongoing cough after being treated with antibiotics for 
+presumed URI while visiting ___, found to be hypotensive in 
+clinic and rales on physical exam, sent to ED due to concern for 
+pneumonia.
+ 
+# Cough: most likely post-viral tussive syndrome.  ___ CXR 
+is without focal consolidation, lungs clear to auscultation, has 
+no ___ count and afebrile, making pneumonia unlikely.  ___ 
+without GERD symptoms, denies nasal congestion or allergies 
+making PND less likely etiologies of cough.  He was given single 
+dose of IV levaquin in the ED.  Given lack of objective findings 
+consistent with pneumonia, was not given antibiotics on arrival 
+to medical ward.  ___ remained afebrile during admission.  
+Was prescribed guafenisen-dextromethorphan prn for cough.
+
+# Hypotension: Hypotensive to ___ and ___ systolic at clinic and 
+in ED. SBPs 120s in ED after IVF.  Given lack of fevers, 
+tachycardia, and no ___ count, ___ did not meet SIRS 
+criteria.  Hypotension unlikely to be related to infection.  
+Most likely related to poor PO intake in setting of ongoing 
+dementia, recent travel, and acute illness and taking home 
+anti-hypertensive medications.  ___ home lisinopril and 
+HCTZ were held during admission.  He was discharged off these 
+medications with plan to reassess at ___ follow ___.  ___ was 
+ambulating well on day of discharge and BPs were improved.
+   
+# Dementia: Alzheimer's type. Continued home donepezil and 
+memantine.
+
+# Chronic diarrhea:  Followed by Dr. ___ in GI clinic for this. 
+ Unclear etiology.  Takes Zenpep at home.  This is non-formulary 
+here.  As he was only hospitalized for one night, he was not 
+given any alternative agents.
+
+# OSA: uses oral appliance at home.  Per wife, has not been 
+using as is lost. Per sleep note from ___, no longer 
+having apneic episodes.  No specific intervention was done 
+during this admission.
+
+Transitional Issues
+=====================
+[ ]discharged off home anti-hypertenives, recommend reassessing 
+need for these on discharge follow-up appointment on ___ 
+with PCP
+ 
+___ on ___:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 10 mg PO DAILY 
+2. Memantine 10 mg PO BID 
+3. lipase-protease-amylase 20,000-68,000 -109,000 unit oral TID 
+4. Donepezil 10 mg PO HS 
+5. Hydrochlorothiazide 25 mg PO DAILY 
+6. Cyanocobalamin 1000 mcg IM/SC MONTHLY 
+
+ 
+Discharge Medications:
+1. Donepezil 10 mg PO HS 
+2. Memantine 10 mg PO BID 
+3. Cyanocobalamin 1000 mcg IM/SC MONTHLY 
+4. lipase-protease-amylase 20,000-68,000 -109,000 unit oral TID 
+5. Guaifenesin-Dextromethorphan 5 mL PO Q6H:PRN cough 
+RX *dextromethorphan-guaifenesin 100 mg-10 mg/5 mL 5 mL by mouth 
+every six (6) hours Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Bronchitis, viral, with persistent cough
+Hypotension
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure caring for you during your admission to ___ 
+___.  You were admitted for 
+evaulation of cough and low blood pressure.  Your cough is 
+likely a post-viral cough.  You have no signs of an acute 
+infection that requires treatment at this time.  Your low blood 
+pressures improved with IV fluids.  The low blood pressures 
+likely occurred due to taking your blood pressure medications in 
+the setting of decreased food/liquid intake.  Your blood 
+pressure medications (hydrochlorothiazide and lisinopril) were 
+stopped while you were in the hospital.  You should not restart 
+these until you follow up with your primary care physician, ___. 
+___.  In addition, it is recommended you drink plenty of 
+fluids when you return to home.  Should you develop fever or 
+shortness of breath, please seek evaluation at a medical 
+facility or at your nearest emergency department.
+
+We hope you continue to feel better.
+- Your ___ Team
+ 
+Followup Instructions:
+___

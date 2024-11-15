@@ -1,0 +1,160 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+vancomycin / cefepime
+ 
+Attending: ___
+ 
+Chief Complaint:
+elective admission for D5 HiDAC
+ 
+Major Surgical or Invasive Procedure:
+PICC placement and removal prior to discharge
+
+ 
+History of Present Illness:
+___ female diagnosed with AML in ___. She has
+trisomy 8 and has the FLT3 ITD mutation. She has a PMH of
+Hodgkins lymphoma, which was diagnosed at ___. She was treated
+at the time with ABVD, MOPO, XRT. 
+
+She was treated with 7+3 (Dauno 60) in ___. Treatment was
+complicated by leukostasis, febrile neutropenia, transaminitis,
+and rash. After discharge, she had a liver biopsy, which 
+revealed drug injury vs early viral infection.
+
+She presents for a cycle of HiDAC as a bridge to planned MUD 
+allo at ___ in approximately ___ weeks.
+
+ 
+Past Medical History:
+Hodgkin's lymphoma at age ___ s/p ABVD (doxyrubicin, bleomycin, 
+vinblastine, dacarbazine), MOPP and radiation
+Hypothyroidism
+Anxiety
+Right chondromalacia patella
+History of HPV
+
+Past Surgical History:
+Breast biopsy
+Port placement for chemotherapy
+ 
+Social History:
+___
+Family History:
+Per pt, family history is positive for heart disease.  OMR also 
+shows family history of:
+HLD, HTN, enlarged prostate (father)
+HLD, anxiety, MVP (mother)
+___
+ 
+Physical Exam:
+GEN:  NAD
+VS: T 98  HR 77  BP 98/60 Resp 18  spO2 99%
+HEENT:  MMM, no OP lesions, no cervical, supraclavicular, or
+axillary LAD
+CV:  Regular, normal S1 and S2 no S3, S4, or murmurs
+PULM:  Clear to auscultation bilaterally
+ABD:  BS+, soft, non-tender, non-distended, no masses, no
+hepatosplenomegaly
+LIMBS:  No edema, no inguinal adenopathy
+SKIN:  No rashes or skin breakdown
+NEURO:  Grossly nonfocal, alert and oriented, PERRLA, no
+nystagmus noted. rapid hand movements intact. romberg neg. 
+tandem
+gait intact.
+
+ 
+Pertinent Results:
+___ 12:15AM BLOOD WBC-6.3 RBC-3.25* Hgb-10.5* Hct-33.1* 
+MCV-102* MCH-32.2* MCHC-31.6 RDW-16.3* Plt ___
+___ 12:00AM BLOOD WBC-6.6 RBC-3.35* Hgb-10.8* Hct-34.4* 
+MCV-103* MCH-32.1* MCHC-31.3 RDW-16.3* Plt ___
+___ 12:15AM BLOOD Neuts-92.7* Lymphs-4.4* Monos-1.3* 
+Eos-1.2 Baso-0.4
+___ 12:00AM BLOOD Neuts-93.3* Lymphs-4.5* Monos-1.4* 
+Eos-0.6 Baso-0.1
+___ 12:15AM BLOOD Glucose-134* UreaN-21* Creat-0.5 Na-139 
+K-4.3 Cl-104 HCO3-29 AnGap-10
+___ 12:00AM BLOOD Glucose-138* UreaN-16 Creat-0.5 Na-139 
+K-4.4 Cl-103 HCO3-28 AnGap-12
+___ 12:15AM BLOOD ALT-168* AST-85* LD(___)-153 AlkPhos-55 
+TotBili-0.3
+___ 12:00AM BLOOD ALT-142* AST-68* LD(___)-176 AlkPhos-62 
+TotBili-0.3
+___ 12:15AM BLOOD Albumin-3.8 Calcium-9.0 Phos-4.1 Mg-2.0
+___ 12:00AM BLOOD Albumin-4.0 Calcium-9.3 Phos-3.6 Mg-2.___ year old female with AML, question treatment related. High
+risk given cytogenetics and FLT3 mutation. Based on insurance
+requirements will have MUD allo at ___. She is admitted for
+cycle 1 day 5 of HiDAC consolidation. 
+
+# AML: cytarabine 1.5g/m^2 over 2 hours every 12 hours D1 D3 D5
+for a total of 6 doses. 
+- 50% dose reduction with known hepatic drug damage
+- Supportive antiemetics with dexamethasone, prochlorperazine, 
+ativan and ondansetron. Provided scripts at ___ d/c.
+- f/u outpatient next ___ or sooner if problems arise.
+
+# conjunctivitis prophylaxis: PDN gtt TID until ___ after last
+cytarabine infusion (continues at home)
+
+# cerebellar toxicity: cerebellar testing to be done prior to
+each dose of cytarabine. Testing has been normal thus far.
+
+# transaminitis: overall improving, thought to be drug injury.
+Monitor labs.
+
+# hypothyroidism: continue home levothyroxine 125mgc daily.
+
+# Prophylaxis: none per Dr ___
+
+# DVT prophylaxis: heparin
+# F/E/N: replace electrolytes prn. IVF as ordered.
+# Access: R PICC d/c prior to discharge
+# code status Full
+# dispo: Home D6 after chemo cycle completes
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 125 mcg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. Lorazepam 0.5-1 mg PO Q4H:PRN nausea anxiety insomnia 
+
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 125 mcg PO DAILY 
+2. Lorazepam 0.5-1 mg PO Q4H:PRN nausea anxiety insomnia 
+3. PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP BOTH EYES TID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+AML
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to receive HiDAC chemotherapy. You tolerated 
+this well with no issues. You will follow up next ___ as 
+stated below. Please do not hesitate to call in the meantime 
+with any questions or concerns.
+ 
+Followup Instructions:
+___

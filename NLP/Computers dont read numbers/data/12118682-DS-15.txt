@@ -1,0 +1,318 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___ Decongestant
+ 
+Attending: ___
+ 
+Chief Complaint:
+Exertional chest pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiogram on ___
+
+ 
+History of Present Illness:
+___ ___ only, patient of Dr. ___, with premature
+3v CAD (LAD 30% ISR, Cx 40-50% stenosis, ostial RCA stent ___
+ISR), HTN, HLD, DM2 presenting as transfer from ___ with
+chest pain c/f unstable angina. 
+
+Discussed with patient and her family, daughter was translating
+per patient preference.  Patient states that pain started on
+___ while she was at rest.  Substernal chest pain, has been
+intermittent since then.  Worsens with exertion.  At times
+relieved by rest, but not reliably.  Radiating down left arm.  
+At
+times is it accompanied by nausea.  On ___, she also had a 
+dry
+cough.  She also states that she feels dizzy when going from
+sitting to standing.  Has not had any falls or loss of
+consciousness.
+
+On review of systems, denies any other concerns including 
+fevers,
+chills, recent cold, unintentional weight loss, shortness of
+breath, hemoptysis, calf pain, lower extremity swelling,
+orthopnea, PND, palpitations.  No vomiting, diarrhea, dysuria,
+abdominal pain.
+
+At ___, she was admitted for telemetry monitoring, 
+serial
+troponins were negative and EKGs were unremarkable.  Her pain 
+was
+relieved with sublingual nitro.  Her flu was negative, her
+d-dimer was normal, and her chest x-ray was reported as clear. 
+Her white count was slightly low at 3.7.  Her other basic labs
+were unremarkable.  Her TSH was low at 0.18, with a normal free
+T4 of 0.94
+
+Although she denied this when I spoke with her, she reported
+fevers, chills to MD at ___, and in setting of cough, 
+she
+was treated with ceftriaxone for bronchitis.  She also reported
+polyuria, polydipsia, urgency, frequency, mild dysuria while she
+was there, which was also covered with ceftriaxone. Urine 
+culture
+was negative. Her A1c was 13% and her initial glucose was 511. 
+
+Despite treatment for suspected URI, her chest pain did not
+resolve, and cardiology at ___ was concerned that she might
+need a CABG and requested that she be transferred here for cath. 
+
+In her discharge summary, it states that she was "stabilized on
+Plavix" however this is not mentioned in any other notes and was
+not listed on her discharge medications.
+
+At ___, several changes were made to her medication list
+including discontinuing her Crestor in favor of atorvastatin 80
+mg, and increasing her Lopressor to 50 mg every 12 hours (from 
+50
+mg daily). 
+
+ 
+Past Medical History:
+Coronary artery disease/angina, S/P stenting of the LAD & RCA
+Hypertension
+Diabetes mellitus
+Dyslipidemia
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.  Daughter has sickle cell trait. Multiple 
+family members with hypertension, DM, hyperlipidemia. Mother had 
+uterine cancer.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VS: ___ 2335 Temp: 98.3 PO BP: 143/84 R Sitting HR: 72 RR:
+16 O2 sat: 97% O2 delivery: ra FSBG: 299 
+GENERAL: Well developed, well nourished, NAD, laying comfortably
+HEENT: sclera anicteric, moist mucous membranes
+NECK: JVP of 4 cm
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. no thrills or lifts.
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use.  Crackles at right base.
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No cyanosis edema.
+SKIN: No significant skin lesions or rashes.
+NEURO: AOx3, ___ only, CNII-XII intact, ___ 
+strength
+x4 extremities 
+
+DISCHARGE PHYSICAL EXAM
+=======================
+24 HR Data (last updated ___ @ 706)
+    Temp: 98.0 (Tm 98.6), BP: 116/73 (116-143/73-84), HR: 73
+(72-73), RR: 16, O2 sat: 95% (95-99), O2 delivery: Ra, Wt: 
+147.05
+lb/66.7 kg  
+GENERAL: NAD, laying comfortably
+HEENT: sclera anicteric, moist mucous membranes
+NECK: no JVD noted at 90 degrees.
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. no thrills or lifts.
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use.  lungs CTA bilaterally.
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No cyanosis edema.
+SKIN: No significant skin lesions or rashes.
+NEURO: AOx3, ___ only, CNII-XII intact, ___ 
+strength
+x4 extremities 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:14AM BLOOD WBC-4.8 RBC-4.51 Hgb-13.2 Hct-38.6 MCV-86 
+MCH-29.3 MCHC-34.2 RDW-12.6 RDWSD-38.6 Plt ___
+___ 12:14AM BLOOD Neuts-48.4 ___ Monos-10.8 Eos-2.9 
+Baso-0.6 Im ___ AbsNeut-2.32 AbsLymp-1.78 AbsMono-0.52 
+AbsEos-0.14 AbsBaso-0.03
+___ 12:14AM BLOOD ___ PTT-33.5 ___
+___ 12:14AM BLOOD Glucose-296* UreaN-16 Creat-0.8 Na-137 
+K-4.5 Cl-105 HCO3-23 AnGap-9*
+___ 12:14AM BLOOD ALT-22 AST-29 LD(LDH)-189 CK(CPK)-38 
+AlkPhos-93 TotBili-0.2
+___ 12:14AM BLOOD Albumin-3.8 Calcium-9.5 Phos-3.7 Mg-1.9
+
+DISCHARGE LABS
+==============
+___ 06:29AM BLOOD WBC-5.4 RBC-4.34 Hgb-12.8 Hct-38.3 MCV-88 
+MCH-29.5 MCHC-33.4 RDW-12.6 RDWSD-40.5 Plt ___
+___ 06:29AM BLOOD Glucose-150* UreaN-18 Creat-0.7 Na-142 
+K-4.3 Cl-109* HCO3-22 AnGap-11
+___ 12:14AM BLOOD CK-MB-<1 cTropnT-<0.01
+
+IMAGING
+=======
+Cardiac Cath ___
+ Normal left and right heart filling pressures.
+ Three vessel coronary artery disease.
+ Three vessel CAD unchanged from before. Negative iFR and IVUS 
+of pRCA do not explain rest
+symptoms.
+
+TTE ___
+Mildly dilated right ventricle with normal global and regional 
+biventricular systolic function. Moderate functional tricuspid 
+regurgitation. EF 59%
+
+ 
+Brief Hospital Course:
+___ yo F ___ only, patient of Dr. ___, with 
+premature 3v CAD (LAD 30% ISR, Cx 40-50% stenosis, ostial RCA 
+stent ___ ISR), HTN, HLD, DM2 presenting as transfer from ___ 
+___ with chest pain and concern for unstable angina. 
+
+CORONARIES: LAD s/p DES (___) w 30% in-stent restenosis, RCA 
+ostial stent w 50% in-stent restenosis, LCX 40-50% ___ 
+___ cath)
+PUMP: HFpEF (ECHO ___
+RHYTHM: sinus 
+
+===============
+ACTIVE ISSUES:
+===============
+# Chest Pain
+# CAD s/p stent x2 w known in-stent restenosis 
+Cardiac cath was done ___ and showed: Normal left and right 
+heart filling pressures. Three vessel coronary artery disease, 
+including distal small om occlusion to small for intervention. 
+Negative iFR and IVUS of pRCA that did not explain rest 
+symptoms. Chest pain was believed to be musculoskeletal vs from 
+small distal OM or microvessel disease. She was initiated on 
+high dose atorvastatin 80mg daily and her metoprolol was 
+switched to metoprolol succinate 50mg daily as titration up of 
+antianginal.
+
+# DM
+very poorly controlled with an A1c of 13%. She was placed on 
+home glargine 33 units before bed and Humalog insulin sliding 
+scale while in house. Held home Trulicity as nonformulary
+
+================
+CHRONIC ISSUES:
+================
+# Hypertension - cont home losartan 
+# Hyperlipidemia - cont high-dose atorvastatin 
+# Depression - cont home citalopram, monitor QTc
+# GERD - cont home ranitidine 
+
+===================
+TRANSITIONAL ISSUES
+===================
+# CODE STATUS: full, presumed
+# CONTACT: ___, HCP/husband, ___
+
+GREATER THAN 30 MINUTES SPENT ON DC PLANNING
+
+[ ] MEDICATION CHANGES:
+-Added: Atorvastatin 80, metoprolol succinate 50
+-Stopped: Metoprolol tartrate (replaced with succinate), 
+rosuvastatin (replaced with atorvastatin)
+
+[ ] FOLLOW-UP LABS:
+-Low TSH noted on admission labs - c/f subclinical 
+hypothyroidism. Should be repeated in outpatient setting
+
+[ ] FOLLOW UP WORKUP FOR CHEST PAIN:
+-No clear coronary etiology for chest pain was determined. Pt 
+would benefit from workup and treatment for likely 
+musculoskeletal etiology vs assessment of improvement with high 
+intensity statin if microvessel disease
+
+[ ] FOLLOW UP DIZZINESS:
+-Pt with intermittent dizziness during hospitalization here, 
+orthostatic vital signs negative for volume depletion. Consider 
+outpatient workup for causes of same.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB, wheezing 
+2. Aspirin 81 mg PO DAILY 
+3. Citalopram 40 mg PO DAILY 
+4. Glargine 33 Units Bedtime
+5. Losartan Potassium 50 mg PO DAILY 
+6. Metoprolol Tartrate 50 mg PO BID 
+7. Topiramate (Topamax) 50 mg PO BID PRN migraine 
+8. Trulicity (dulaglutide) 0 unknown subcutaneous unknown 
+9. Ranitidine 150 mg PO BID 
+10. Rosuvastatin Calcium 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 80 mg PO QPM  
+2.  Metoprolol Succinate XL 50 mg PO DAILY  
+3.  Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB, wheezing  
+4.  Aspirin 81 mg PO DAILY  
+5.  Citalopram 40 mg PO DAILY  
+6.  Glargine 33 Units Bedtime 
+7.  Losartan Potassium 50 mg PO DAILY  
+8.  Ranitidine 150 mg PO BID  
+9.  Topiramate (Topamax) 50 mg PO BID PRN migraine  
+10.  Trulicity (dulaglutide) 0 unknown subcutaneous Frequency is 
+Unknown  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Chest pain with non-obstructive coronary artery disease
+
+SECONDARY DIAGNOSES:
+History of hypertension
+Diabetes mellitus, poorly controlled
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because you were having 
+chest pain
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- You had a cardiac catheterization to look at the blood vessels 
+in your heart
+- There were no blockages to explain your chest pain
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You should continue to take your medications as prescribed. 
+- You should attend the appointments listed below. 
+- Weigh yourself every morning, call your doctor at 
+___ if your weight goes up more than 3 lbs.  
+- Seek medical attention if you have new or concerning symptoms 
+or you develop swelling in your legs, abdominal distention, or 
+shortness of breath at night.  
+- Your discharge weight: 145 lbs. You should use this as your 
+baseline after you leave the hospital.  
+
+We wish you the best!
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

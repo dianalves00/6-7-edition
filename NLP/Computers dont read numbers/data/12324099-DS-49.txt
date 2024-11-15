@@ -1,0 +1,255 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+ none
+ 
+History of Present Illness:
+___ y/o woman with a history of insulin dependent diabetes, end 
+stage renal disease on hemodialysis, and chronic diastolic 
+congestive heart failure with frequent exacerbations resulting 
+in admissions who is presenting to the ___ ICU in respiratory 
+distress.
+.
+She was in fact recently admitted and discahrged on ___ 
+for chest pain and hypotension while at dialysis on ___. 
+Her chest pain at the time was per report in the setting of 
+hypotension and lasted several hours. It resolved with 
+administration of fluids at dialyisis. Her EKG did have 2mm 
+up-sloping ST elevations in V2-V3, but in the absence of current 
+chest pain and in comparison to previous examinations, it was 
+felt not clinically significant.  Her cardiac biomarkers were at 
+baseline, with a CK 38 and troponin 0.18. She was subsequently 
+discharged on the same day of admission.
+.
+She went home, but had an increase in her shortness of breath. 
+She reports that she in fact felt her heart racing at 
+approximetly 10pm. She denies chest pain. She subsequently 
+developed shortness of breath an hour or so later and 
+re-presented to the emergecy department. 
+.
+In the ED she was found to be hypertensive 213/96 and arrived on 
+BiPap from EMS sating 100%. She was placed on nitro gtt and 
+given enalaprilat 0.625mg IV x 1. She was weaned from nitro gtt 
+and placeds on a non-rebreatger. No further BP medications were 
+administered. She developed hypertension again to the 180s 
+systolic and was re-placed on Bi-Pap and nitrogtt. She arrived 
+to the FICU sating 100% on 0.5mcg/kg/min nitroglycerine and 
+BIpap 12 PS with 4PEEP. A blood gas was attempted, but was not 
+succesfull. She had her BiPap removed and was doing well, sating 
+100% on a facemask, but requested that she have her mask put 
+back on as she felt she was not getting enough air with her 
+breaths. This subjective feeling was not corroborated with 
+objective data at the time, and her mask was replaced. 
+.
+
+ 
+Past Medical History:
+# CKD V on hemodialysis; qMWF schedule at ___  
+# DM2 on insulin  
+# HTN  
+# Chronic diastolic CHF (LVEF >75%) with a history of 
+tachycardia-induced acute LVOT obstruction  
+# Hyperlipidemia  
+# PVD s/p bilateral BKAs (left in ___ right in ___  
+# Paroxysmal a-flutter s/p failed ablation with subsequent 
+atrial fibrillation; on warfarin  
+# Chronic nighttime hypoxemia on 3 L/min nc  
+# Secondary hyperparathyroidism  
+# No occlusive coronary disease on cardiac cath ___  
+# Left eye blindness  
+# Mild functional mitral stenosis  
+# GERD  
+# Tobacco abuse-- still smokes ___ PPD as of ___  
+# h/o VRE UTI's  
+# H/o Tibial fracture
+
+ 
+Social History:
+___
+Family History:
+Has a history of longevity with her father dying in his ___ and 
+mother at age ___. 
+ 
+Physical Exam:
+97.3  86  163/72  100% on BiPap ___
+HEENT: JVP difficult to asses while on Bipap
+CV: irregular, s1,s2 soft systolic murmur appreciated
+RESP: bialteral crackles 
+ABD: soft, NT/ND
+EXT: bilateral BKA, no edema in thighs. 
+
+ 
+Pertinent Results:
+Admission labs:
+___ 02:35AM BLOOD WBC-7.9 RBC-3.78* Hgb-11.0* Hct-36.6 
+MCV-97 MCH-29.1 MCHC-30.0* RDW-20.3* Plt ___
+___ 02:35AM BLOOD Neuts-73.5* ___ Monos-3.8 Eos-3.3 
+Baso-0.4
+___ 02:35AM BLOOD ___ PTT-24.5 ___
+___ 02:35AM BLOOD Glucose-259* UreaN-39* Na-140 K-4.3 Cl-98 
+HCO3-25 AnGap-21*
+___ 12:38PM BLOOD CK(CPK)-36
+___ 02:35AM BLOOD cTropnT-0.11*
+ 
+Brief Hospital Course:
+___ y/o woman with insulin dependent diabetes, end stage renal 
+disease on hemodialysis, chornic diastolic heart failure who is 
+admitted to the ___ ICU with respiratory distress.
+.
+ICU course:
+Respiratory distress was thought to be ___ pulmonary edema due 
+to diastolic CHF. Given h/o palpitations, CHF exacerbation could 
+have been caused by a burst of a fib. She was transferred to the 
+ICU on a nitroglycerine gtt which was quickly titrated. She was 
+given HD with 3.5L of fluid taken off. Of note, per renal team, 
+her dry weight is thought to be 46kg. By 2pm on the day of 
+admission to the ICU, bipap was taken off (previously, pt had 
+been reluctant to remove bipap) and she had O2 sat 100% on 4L NC 
+at time of transfer to floor. Rate controlling medications 
+including toprol, amiodarone and verapamil were ordered. 
+However, verapamil was held on evening of floor transfer ___ 
+SBPs 110s-120s after HD.  
+
+Course on medical floor:
+Patient remained stable satting 100% on RA with no further 
+episodes of SOB. She received ultrafiltration on ___ as 
+scheduled. She was discharged satting 100% on RA. She will 
+continue to get HD ___ and UF on ___.
+
+Her INR was low on admission. She was given 2mg coumadin daily 
+(instead of alternating 1mg with 2mg). She was discharged on 2mg 
+daily and will have her INR drawn at HD on ___ (tomorroW) and 
+results faxed to ___ clinic for coumadin dosing 
+as she normally does. At that point she may no longer require 
+the double dose of coumadin and may be able to go back to her 
+home dose.
+ 
+Medications on Admission:
+Toprol Xl 100mg po Qday
+Verapamil 80mg po Q8hours
+Valsartan 160mg po QHS
+Simvastatin 40mg po Qhs
+Amiodarone 200mg po Qday
+Aspirin 81mg po Qday
+Warfarin 2mg po 3x/week, 1mg 4x/week
+Isosorbide mononitrate 30mg po Qday
+Lisinorpil 10mg po Qday
+Albuterol 90mcg IH prn
+Tiotropium 18mcg Ih qday
+folic acid 1mg po Qday
+Sevelamer 800mg po TId w/meals
+Calcium acetate 667mg po TID w/meals
+NPH Insulin 4units SQ BID
+pantoprazole 40mg po Qday
+Brimonidine 0.15% 1 drop BID
+Dorzolamide-Timolol ___ 1 drop BID
+Latanoprost 0.005% QH
+Docusate 100mg po BID
+Acetaminophen prn
+.
+
+ 
+Discharge Medications:
+1. Metoprolol Succinate 100 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+2. Verapamil 80 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).  
+3. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. Simvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+7. Warfarin 1 mg Tablet Sig: ___ Tablets PO once a day: Take 1 
+tablet every other day and take 2 tablets on the other days.  
+8. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+9. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. Tiotropium Bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+11. Amiodarone 200 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+12. Sevelamer HCl 400 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+13. B Complex-Vitamin C-Folic Acid 1 mg Capsule Sig: One (1) Cap 
+PO DAILY (Daily).  
+14. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+15. Dorzolamide-Timolol ___ % Drops Sig: One (1) Drop 
+Ophthalmic BID (2 times a day).  
+16. Latanoprost 0.005 % Drops Sig: One (1) Drop Ophthalmic HS 
+(at bedtime).  
+17. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+18. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic BID (2 
+times a day).  
+19. Albuterol 90 mcg/Actuation Aerosol Sig: ___ Puffs Inhalation 
+Q4H (every 4 hours) as needed.  
+20. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: Four 
+(4) units Subcutaneous twice a day.  
+21. Insulin Lispro 100 unit/mL Solution Sig: As DIR  
+Subcutaneous QACHS: Per sliding scale.  
+22. Outpatient Lab Work
+Please have INR drawn at dialysis ___. Fax result to ___ 
+___ clinic.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Diastolic acute heart failure
+ESRD 
+
+ 
+Discharge Condition:
+the patient was afebrile and hemodynamically stable satting 100% 
+on RA prior to discharge.
+
+ 
+Discharge Instructions:
+Weigh yourself every morning, call MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 2L
+
+You were admitted to the hospital with fluid in your lungs. This 
+
+was probably caused by a fast heart rate. We have given you 
+hemodialysis to take the fluid out of your lungs. You should 
+continue taking all of your medications as prescribed. You 
+should continue getting dialysis 4 times per week - mon, wed, 
+fri, and sat. 
+
+Your coumadin level was a little low. You should take an extra 
+1mg of coumadin (so 2mg daily) until you have your INR checked 
+at dialysis on ___. After that they will tell you how much 
+coumadin to take.
+
+Please come back to the emergency room or call your primary care 
+doctor if you have confusion, fevers, shortness of breath, chest 
+pain, weight gain of more than 3 pounds in one day, leg 
+swelling, pain with urination.
+ 
+Followup Instructions:
+___

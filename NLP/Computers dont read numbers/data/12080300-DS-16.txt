@@ -1,0 +1,418 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamide Antibiotics) / Erythromycin 
+Base / clindamycin / lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+inability to tolerate PO, nausea, and vomiting
+
+ 
+Major Surgical or Invasive Procedure:
+___ G-J tube placement (___) 
+
+ 
+History of Present Illness:
+Mrs. ___ is a pleasant ___ years old Female who presents to
+___ ED for the further evaluation of inability to tolerate PO
+intake associated with nausea and NBNB vomiting. She was 
+recently
+admitted on ___ for nausea/vomiting attributed to ileus
+complicated by her malignant ascites. Patient was to have a
+G-tube placed during the admission however the procedure was
+delayed and the patient left AMA on ___. Since discharge, she
+was attempting gradual increase in PO intake with fluids and
+bland foods but has been unable to keep foods/liquids down. This
+has been refractory to her home oral Haldol and Ativan. Patient
+states she has multiple bowel movements, some loose, and has 
+been
+passing gas from below. She also endorses mild abdominal
+discomfort unchanged from baseline. She denies any fever, 
+chills,
+chest pain, or shortness of breath.
+ 
+In the ED, initial vitals: 98.0 120 114/86 16 98% RA
+
+REVIEW OF SYSTEMS:
+
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI. 
+ 
+Past Medical History:
+PMH: migraines, HTN, depression, PE
+PSH: ___ breast reduction  
+ObGyn: G0, dysmenorrhea, abnormal pap ___  
+
+PAST ONCOLOGIC HISTORY:
+- Pt presented with pelvic pain, irregular menses, infertility
+with endometriosis suspected
+- ___ underwent laparoscopy significant for omental caking
+and peritoneal studding. Biopsy showed low grade papillary 
+serous
+neoplasm most consistent with Mullerian origin
+- ___ underwent optimal debulking with resection of pelvic
+tumor, TAH/BSO, rectosigmoid resection. Pathology showed
+low-grade serous carcinoma arising in association with right
+ovarian serous borderline tumor involving bilateral tubes and
+ovaries, uterus, rectosigmoid, omentum, appendix. There were 
+also
+abdominal nodules at prior laparoscopic port sites that were
+excised with disease involvement.
+- ___ IV carboplatin/paclitaxel C1D1
+- ___ IP port placed
+- ___ IV/IP cisplatin/paclitaxel C1D1 (C2 of chemo overall)
+- ___ IV/IP cisplatin/paclitaxel C2D1 (C3 of chemo overall)
+- ___ IV/IP cisplatin/paclitaxel C3D1 (C4 of chemo overall)
+- ___ BRCA negative
+- ___ IV/IP cisplatin/paclitaxel C4D1 (C5 of chemo overall)
+- ___ IV/IP cisplatin/paclitaxel C5D1 (C6 of chemo overall)
+- ___ CA125 16, up from 13
+- ___ repeat CA125 stable at 16
+- ___ CT AP- enlarged right perirectal lymph node which
+measures 14 x 11 mm, suspicious for disease involvement. 
+- ___ CA125 up to 24, from ___
+- ___ CT AP- right perirectal LN- 1.4 x 1.2 cm, previously
+1.4 x 1.1 cm; Several prominent retroperitoneal lymph nodes are
+similar to the prior study, allowing for differences in
+measurement technique and slice selection.
+- ___ CA125 up to 34 from 24
+- ___ started Anastrozole
+- ___ CT AP shows stable disease
+- ___ CA125 increase to 42 from 22
+- ___ CT AP showed disease progression
+- ___ 6 cycles weekly Taxol 60mg/Carboplatin AUC 2 
+
+- Resumed anastrozole 
+-  ___  disease progression on CT w/ rise in CA125;  New 
+nodule
+at the resection bed and interval enlargement of right
+lower quadrant and anterior abdominal wall metastases 
+-  ___ to present  Gem, ___, Avastin
+-  Cycle 4 - held D8 d/t elevated LFTs
+-  ___ Cycle 5, omitted D8 due to fatigue 
+- ___ - present ___ maintenance
+-  ___  CT  Rising CA 125 prompted CT that shows only very
+slight progression in some areas with other areas of response
+from recent treatment.
+-  ___  Faslodex
+- ___ - C1D1 nivolumab/bevacizumab/rucaparib
+-___ - admission for grade 3 colitis, attributed to 
+nivolumab
+-___ - begin steroid taper 
+-___ - resume rucaparib
+-___ - Admitted for progressive grade 3 rash.
+Rucaparib held;  discharged on prednisone 90mg daily 
+-___ - resume bevacizumab
+-  ___  PE - end of study
+- ___  admitted for transaminitis, liver bx - drug
+effect ?IRAE
+- ___ admitted for cellulitis ___ paracentesis
+ 
+Social History:
+___
+Family History:
+Her mother and father both living in their ___. She has no 
+family history of breast, ovarian, uterine, cervical, vaginal or 
+colon cancers
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals: ___ 0115 Temp: 98.0 PO BP: 134/84 HR: 121 RR: 20 O2
+sat: 98% O2 delivery: RA 
+GENL: pleasant, NAD
+HEENT: NCAT, PERRL, EOMI, sclerae anicteric, dry mucous
+membranes, no ulcers / lesions / thrush
+NECK:  supple, normal range of motion
+CARD: tachycardic; normal S1, S2, no murmurs
+PULM: clear to auscultation bilaterally w/o wheezes / rhonchi /
+rales  
+ABDM: Well-healed midline scar, distended, normoactive bowel
+sounds, firm (this is her baseline), mild diffuse tenderness to
+palpation without rebound
+MSK: no joint swelling or erythema  
+EXTR: warm and well perfused, no edema
+SKIN: warm, dry, no rashes, no jaundice
+PSYCH: non-anxious, normal affect
+GENITOURINARY: No suprapubic tenderness or Foley
+NEURO: Alert and oriented x3, face symmetric, moves all
+extremities, fluent speech
+ACCESS: R Power port
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Vitals: 24 HR Data (last updated ___ @ 2319)
+    Temp: 98.1 (Tm 98.5), BP: 125/86 (118-135/60-93), HR: 74
+(74-79), RR: 18 (___), O2 sat: 98% (97-99), O2 delivery: RA,
+Wt: 119.1 lb/54.02 kg  
+GENL: sitting up in bed, in NAD
+HEENT: NCAT, PERRL, EOMI, sclerae anicteric, MMM; no oral 
+lesions or thrush
+NECK:  supple, normal range of motion
+CARD: RRR; normal S1, S2, no murmurs
+CHEST: R power port
+PULM: clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+ABDM: Well-healed midline scar, distended, normoactive bowel 
+sounds, firm (this is her baseline), mild diffuse tenderness to 
+palpation without rebound. Dressing on perc G-J tube clean, dry, 
+intact. Tubing draining greenish yellow fluid.
+MSK: no joint swelling or erythema  
+EXTR: no peripheral edema
+SKIN: warm, dry, no rashes, no jaundice
+GENITOURINARY: No suprapubic tenderness or Foley
+PSYCH: mildly anxious, speech is clear
+NEURO: Alert and oriented x3, face symmetric, moves all 
+extremities, fluent speech
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 06:30PM   GLUCOSE-81 UREA N-7 CREAT-0.7 SODIUM-138 
+POTASSIUM-4.0 CHLORIDE-97 TOTAL CO2-25 ANION GAP-16
+___ 06:30PM   CALCIUM-9.4 PHOSPHATE-4.0 MAGNESIUM-1.4*
+___ 06:30PM   WBC-2.8* RBC-3.26* HGB-9.3* HCT-29.3* MCV-90 
+MCH-28.5 MCHC-31.7* RDW-15.0 RDWSD-49.6*
+___ 06:30PM   NEUTS-47.2 ___ MONOS-7.1 EOS-0.0* 
+BASOS-0.0 IM ___ AbsNeut-1.32* AbsLymp-1.26 AbsMono-0.20 
+AbsEos-0.00* AbsBaso-0.00*
+
+INTERVAL LABS
+=============
+___ 05:19AM BLOOD WBC-2.0* RBC-3.14* Hgb-9.0* Hct-29.1* 
+MCV-93 MCH-28.7 MCHC-30.9* RDW-15.6* RDWSD-51.4* Plt ___
+___ 04:55AM BLOOD Neuts-27.3* Lymphs-58.3* Monos-14.0* 
+Eos-0.0* Baso-0.0 Im ___ AbsNeut-0.64* AbsLymp-1.37 
+AbsMono-0.33 AbsEos-0.00* AbsBaso-0.00*
+___ 05:19AM BLOOD ___ PTT-26.1 ___
+___ 07:18PM BLOOD Glucose-99 UreaN-5* Creat-0.6 Na-137 
+K-4.1 Cl-99 HCO3-25 AnGap-13
+___ 07:18PM BLOOD Calcium-7.9* Phos-2.4* Mg-2.2
+
+DISCHARGE LABS
+===============
+
+___ 05:00AM BLOOD WBC-11.0* RBC-3.05* Hgb-8.6* Hct-28.3* 
+MCV-93 MCH-28.2 MCHC-30.4* RDW-17.8* RDWSD-53.1* Plt ___
+___ 05:00AM BLOOD Glucose-73 UreaN-22* Creat-0.7 Na-140 
+K-3.6 Cl-99 HCO3-26 AnGap-15
+___ 05:00AM BLOOD Calcium-8.4 Phos-3.0 Mg-1.5* (repleted)
+
+IMAGING
+=======
+___ PORTABLE ABDOMEN
+IMPRESSION:  
+No definite change in gastric jejunostomy tube. 
+
+___
+ABD US 
+IMPRESSION:  
+Small volume ascites, predominantly perihepatic, is amenable to 
+paracentesis if clinically indicated. 
+
+STUDIES/PROCEDURES
+==================
+___ PERC G/G0J TUBE PLACEMENT  
+1. Successful placement of a 16 ___ MIC gastrojejunostomy 
+tube with its tip in the proximal jejunum. 
+2.  Dilated loops of small bowel were noted after jejunal 
+opacification. 
+3.  Paracentesis, with approximately 2200 cc of ascitic fluid 
+drained. 
+
+ 
+Brief Hospital Course:
+Outpatient Providers: TRANSITIONAL ISSUES:
+====================
+#G tube:
+[ ] Keep G tube to gravity during the day. Please connect to 
+suction for 1 hour three times throughout the day, and as needed 
+for bloating/nausea. 
+[ ] Please cap G tube for 1 hour following medications by mouth
+[ ] Patient will follow-up with Interventional Radiology for 
+monitoring and management of G-J tube.
+[ ] If your G tube starts to have bloody output, please stop 
+your apixaban and call your oncologist.
+
+#Nutrition:
+[ ] Please try to keep the tube feeds on for as long as possible 
+throughout the day (at least 12 hours). If you feel that you are 
+doing ok and can try a little more, let your visiting nurse 
+know, and the rate of the tube feeds can be increased. Your goal 
+tube feed rate is 45 ml/hr for 24 hours. 
+[] Please try to take in as many liquids as possible, such as 
+juice, popsicles, or broth. Please avoid caffeinated or 
+carbonated beverages, and alcohol.
+
+# Pulmonary Embolism 
+[ ] Continue apixaban 5mg twice a day (we considered switching 
+to Lovenox, but you were able to tolerate pills again by the end 
+of the hospitalization.) If your G tube starts bleeding, hold 
+the apixaban and call your oncologist. 
+
+# Depression:
+[ ] Continue sertraline at 50mg per day until you see a doctor 
+in clinic and have an EKG to check your QTc interval. If it is 
+stable, you can talk to your doctor about going back up to your 
+100mg dose. 
+
+#CODE: full 
+#CONTACT: ___ 
+Relationship: spouse 
+Phone number: ___ 
+
+PATIENT SUMMARY
+================
+___ is a ___ yo woman with stage IVB low grade, recurrent 
+ovarian cancer with platinum-sensitive recurrent disease, most 
+recently treated with ___ who represented after an AMA 
+discharge with nausea/vomiting, now s/p ___ placement of a G-J 
+tube on ___. 
+
+ACUTE ISSUES:
+=============
+#Nausea/vomiting:
+#Abdominal pain 
+#Partial small bowel obstruction:
+#Severe malnutrition:
+Patient re-presented with nausea/vomiting shortly after an AMA 
+discharge for the same chief complaint. She was afebrile on 
+admission, tachycardic but HD stable. She underwent G-J tube 
+placement on ___ for alleviation of nausea/vomiting, and 2.2L 
+paracentesis intraoperatively. QTc was 560 on admission and 
+QT-prolonging agents were discontinued, particularly Haldol. 
+G-tube was draining well and pt was started on tube feeds 
+through J-tube. Her anti-nausea regimen was titrated daily, with 
+the final regimen including ODT Zofran, PO dexamethasone, ODT 
+Zyprexa, and liquid Tylenol. Patient will go home on trickle 
+tube feeds, supplementing PO as tolerated, and with a gastric 
+suction tube at home prn.
+
+# Recurrent ovarian cancer with platinum-sensitive recurrent 
+disease:
+Pt started treatment on ___ and underwent C1D7 ___ 
+on
+___. WBC 2.1, with ANC of 640 on admission. Counts recovered 
+fully by discharge. 
+
+CHRONIC ISSUES:
+===============
+# Depression
+Sertraline was held in the setting of long QTc, then slowly 
+restarted at a lower dose. On day of discharge, QTc was 429 on 
+___, discharged on 50mg Sertraline.
+
+# PE
+Apixaban was held for procedure, and restarted home dose 5mg BID 
+on ___.
+
+This patient was prescribed, or continued on, an opioid pain 
+medication at the time of discharge (please see the attached 
+medication list for details). As part of our safe opioid 
+prescribing process, all patients are provided with an opioid 
+risks and treatment resource education sheet and encouraged to 
+discuss this therapy with their outpatient providers to 
+determine if opioid pain medication is still indicated. 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. LORazepam 1 mg PO Q6H:PRN nausea and vomiting 
+2. Apixaban 5 mg PO BID 
+3. Cetirizine 10 mg PO DAILY 
+4. Sertraline 50 mg PO DAILY 
+5. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+6. Haloperidol 0.5 mg PO TID:PRN nausea and vomiting 
+
+ 
+Discharge Medications:
+1.  Bisacodyl ___AILY 
+RX *bisacodyl 10 mg 1 suppository(s) rectally daily as needed 
+Disp #*30 Suppository Refills:*0 
+2.  Dexamethasone 4 mg PO BID 
+RX *dexamethasone 4 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  OLANZapine (Disintegrating Tablet) 2.5 mg PO BID 
+RX *olanzapine 5 mg 0.5 (One half) tablet(s) by mouth nightly 
+Disp #*30 Tablet Refills:*0
+RX *olanzapine 5 mg 0.5 (One half) tablet(s) by mouth twice a 
+day Disp #*30 Tablet Refills:*0 
+4.  Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+
+RX *ondansetron 4 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*60 Tablet Refills:*0 
+5.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Second 
+Line 
+RX *polyethylene glycol 3350 17 gram/dose 17 g by mouth once a 
+day Refills:*0 
+6.  Apixaban 5 mg PO BID  
+7.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+8.  Sertraline 50 mg PO DAILY  
+9.Portable gastric suction machine
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Partial small bowel obstruction
+
+SECONDARY DIAGNOSES:
+====================
+Recurrent ovarian cancer 
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+ 
+___ was a pleasure caring for you at ___ 
+___.  
+ 
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted for nausea/vomiting.
+ 
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- A G-J tube was placed to help vent excess gas, as well as to 
+provide tube feeds for nutrition.
+- You were started on tube feeds. 
+- Your EKG (heart rhythm) was monitored. 
+- Your nausea medications were adjusted. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+- Please continue trying to take in as much nutrition as 
+possible, whether by mouth or tube feeds through the J tube.
+
+We wish you the best!  
+ 
+Sincerely,  
+Your ___ Team
+
+ 
+Followup Instructions:
+___

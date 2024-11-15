@@ -1,0 +1,310 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, nausea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+EGD
+
+ 
+History of Present Illness:
+___ F PMHx RNY-gastric bypass in ___ at ___, lap cholecystectomy 
+and C-section, mild intermittent asthma, chronic knee pain on 
+oxycodone, telogen effluvium who presents with nausea, vomiting, 
+failure to thrive. 
+
+Patient reports chronic nausea, which acutely worsened in the 
+last 2 weeks.  In these last two weeks, she developed persistent 
+nausea, vomiting, abdominal pain, and inability to tolerate even 
+small amounts of PO. Abdominal pain is sharp and diffuse with 
+occasional radiation to the back.  She reports pain is worse 
+after eating.  Vomitus is described as bilious.  She does 
+occasionally feel as if food "gets stuck in her chest," and 
+comes right back up after she eats.  She has a bowel movement 
+every ___ days and describes bowel movements as "watery, 
+pebble-like."  In addition to the nausea & vomiting, patient 
+endorses weight loss of ~50 lbs in the last ___ months.  She has 
+been losing large amounts of hair, falling out in clumps, during 
+this time.  She
+endorses worsening edema in the bilateral upper and lower 
+extremities  She endorses more anxiety and stress since the loss 
+of her mother on ___.  She denies HA, vision change, 
+difficulty swallowing, URI sx, chest pain, shortness of breath, 
+dysuria, rashes, joint symptoms.
+ 
+She went to her PCP's office two days prior to admission with 
+these symptoms.  PCP advised her to present to ED but patient 
+did not want to come to hospital at that time.  Rhematologic 
+work-up was sent and the patient was started on PO prednisone to 
+treat for possible inflammatory disorder.  The patient's 
+symptoms
+persisted so she decided to come to the ED on ___.
+
+ED course: 
+--------
+Vitals: Afebrile P 70-90s, BP 100-150/60-90s, RR ___ SPo2 94% 
+or greater
+Exam: TTP palpation in the periumbilical and left lower 
+quadrant. no guarding.
+Labs: 
+UA: repeated d/t dirty sample without clear e/o infection
+HCG negative
+Lactate 3.8--> 2.6
+10.1>11.8/35.6<423 proBNP: ___ Glucose: 148
+4.3 17 0.8
+Liver labs: wnl aside from AP 126, Albumin 2.6 CRP ___
+Meds: Zofran 2x, oxycodone 2x, Morhpine 4x, 1L NS, 1L LR, 
+Valium,
+dilaudid 1x
+Imaging:
+CT abd/pelvis: Mild left hydronephrosis associated with 1.4 cm 
+obstructing stone in the proximal left ureter. No e/o high grade 
+obstruction.
+CXR: Non focal
+Micro: Ucx (2x) Pending
+Impression/Course:
+Seen by bariatric surgery; admit to medicine for workup of
+swelling, hair loss, fatigue recommend nutrition labs. 
+
+ 
+Past Medical History:
+Obesity 
+GERD
+History of gastric bypass 
+Knee pain 
+Tobacco Abuse
+Mild intermittent asthma 
+History of colecystectomy
+ 
+Social History:
+___
+Family History:
+Mother - ___ cancer
+Sister - ___ Cancer
+
+ 
+Physical Exam:
+ADMISSION:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: + temporal wasting, ears and nose without visible erythema,
+masses, or trauma.  + red, dry tongue
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Easy WOB, poor air movement, scattered wheeze
+GI: Abdomen soft, non-distended, non-tender to palpation.  +
+hyper active bowel sounds
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted, + non-pitting edema in
+bilateral hands, 2+ pitting edema to knees bilaterally
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 06:54PM BLOOD WBC-10.1* RBC-3.42* Hgb-11.8 Hct-35.6 
+MCV-104* MCH-34.5* MCHC-33.1 RDW-19.5* RDWSD-73.7* Plt ___
+___ 06:54PM BLOOD Neuts-84.1* Lymphs-14.1* Monos-1.0* 
+Eos-0.1* Baso-0.1 Im ___ AbsNeut-8.45* AbsLymp-1.42 
+AbsMono-0.10* AbsEos-0.01* AbsBaso-0.01
+___ 06:54PM BLOOD Glucose-148* UreaN-11 Creat-0.8 Na-140 
+K-4.3 Cl-106 HCO3-17* AnGap-17
+___ 06:54PM BLOOD ALT-28 AST-20 LD(LDH)-229 AlkPhos-126* 
+TotBili-0.3
+___ 06:54PM BLOOD Lipase-4
+___ 06:54PM BLOOD Albumin-2.8*
+___ 03:52AM BLOOD Lactate-2.6*
+___ 10:59PM BLOOD Lactate-3.8*
+
+IMPORTANT INTERIM RESULTS:
+
+___ 06:54PM BLOOD proBNP-424*
+___ 06:54PM BLOOD TSH-0.61
+___ 03:15PM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG
+___ 06:54PM BLOOD HCG-<5
+___ 06:54PM BLOOD CRP-5.4*
+___ 03:15PM BLOOD HCV Ab-NEG
+
+MICRO:
+***
+
+DISCHARGE LABS:
+___ 10:51AM BLOOD WBC-11.1* RBC-3.31* Hgb-11.1* Hct-35.2 
+MCV-106* MCH-33.5* MCHC-31.5* RDW-18.7* RDWSD-73.9* Plt ___
+
+IMAGING:
+
+CT ABDOMEN/PELVIS ___
+1. Mild left hydronephrosis secondary to a 1.4 cm obstructing 
+stone in the proximal left ureter. 
+2. Postoperative changes of Roux-en-Y gastric bypass with 
+minimally dilated loops of small bowel but no evidence of high 
+grade obstruction. 
+3.  No pneumoperitoneum or free fluid. 
+
+KUB (supine only) ___
+Oral contrast has passed into distal loops of small bowel in the 
+right lower
+quadrant and into the ___.
+
+LENIs ___
+No evidence of deep venous thrombosis in the right or left lower 
+extremity
+veins.  Moderate edema and soft tissue swelling at the level of 
+the calves.
+
+EGD (___): report pending.  Reportedly unremarkable. 
+
+ 
+Brief Hospital Course:
+___ is a ___ female with history of 
+RNY-gastric bypass in ___ at ___, lap cholecystectomy, and 
+C-section, on chronic oxycodone for knee pain, who presents with 
+persistent nausea and vomiting, food intolerance, and weight 
+loss of unclear etiology.
+
+ACUTE/ACTIVE PROBLEMS:
+# Abdominal pain:
+# Acute on chronic persistent nausea, vomiting:
+# History of gastric bypass:
+Ms. ___ presented with abd pain, N/V - which reportedly is 
+chronic but worsened more recently.  ACS/bariatric surg was 
+consulted, and initially there were concerns for mild SBO based 
+on CT scan, however KUB w/ contrast passing into ___ so not 
+really obstructed.  Felt no need for surgery. 
+   Due to persistent pain, GI was consulted and EGD was done 
+without any remarkable findings. Normal mucosa visualized, 
+biopsies taken  Colonoscopy was considered. however, pt 
+expressed desire to have it done as outpt.  Able to tolerate PO 
+(full breakfast) without significant challenges.  
+   Differential included SIBO = less likely celiac, IBD, panc 
+insufficiency.  Stool studies are pending STOOL: HPylori Stool 
+Ag, elastase, calprotectin. BLOOD: celiac serologies, IgA as 
+outpt.  She was ambulating and showed no clear evidence of 
+distress.  She has also ambulated off the floor and been gone 
+for an hour for need to smoke.  Informed that she has to stay in 
+hospital. 
+
+# Lower extremity edema:
+Chronic over last few months, though worsening. Suspect ___ 
+hypoalbuminemia from malnutrition. She has no clear evidence of 
+liver disease. DDx includes cardiac though BNP only mildly 
+elevated (though could be falsely low in setting of obesity) vs. 
+kidney disease - creatinine wnl though has proteinuria vs. 
+venous insufficiency. ___ US in ___ was negative for DVT. TSH 
+0.61. 
+
+# Failure to thrive:
+# Weight loss:
+# Hair loss:
+# Severe malnutrition:
+# Vitamin D deficiency:
+Suspect patient has developed nutritional deficiencies from poor 
+PO intake and persistent nausea and vomiting in the setting of 
+having a prior gastric bypass. Her vitamin D level is 
+significantly low at 7. CBC w/o anemia. TSH normal in ___. 
+CRP was mildly elevated at 5.4. HIV negative. ___ negative.
+
+# Lactic acidosis:
+Suspect ___ dehydration, hypovolemia given poor PO intake and 
+N/V. Improved s/p IVF. She did report fevers at home and CRP is 
+elevated raising possibility of infection. WBC count also 
+elevated though could be from prednisone.
+
+# Hydronephrosis, obstructing ureteral stone
+Incidentally found on CT A/P. Symptoms are not classic for renal 
+colic. Creatinine is normal.  Will need outpatient urology 
+work-up.
+
+# Stress: Due to recent loss of her mother.  Mother passed away 
+last month, patient is having a really hard time adjusting (see 
+PACT note from today for details). Her sister is also ill w/ 
+metastatic ___ cancer, apparently has been admitted to our 
+hospital several times before and ___ is her primary 
+caretaker in addition to patient's ___ daughter.
+
+# Elevated Alk Phos: GGTP elevated.  Hep serologies neg, ___, 
+Anti-Scl neg. 
+Awaiting ___, AMA, ___, anti-LK, IGG subclases, SPEP
+
+#Tobacco abuse: Nicotine replacement provided.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing 
+2. Omeprazole 40 mg PO BID 
+3. Ondansetron ODT 8 mg PO TID 
+4. Fluticasone Propionate 110mcg 1 PUFF IH BID 
+5. OxyCODONE (Immediate Release) 10 mg PO Q4H:PRN Pain - 
+Moderate 
+6. PredniSONE 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 10 Days 
+
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth every twelve (12) hours Disp #*20 Tablet Refills:*0 
+2.  Vitamin D ___ UNIT PO 1X/WEEK (MO,FR)  
+3.  Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing  
+4.  Fluticasone Propionate 110mcg 1 PUFF IH BID  
+5.  Omeprazole 40 mg PO BID  
+6.  Ondansetron ODT 8 mg PO TID  
+7.  OxyCODONE (Immediate Release) 10 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 10 mg 1 tablet(s) by mouth Q4-6H Disp #*6 Tablet 
+Refills:*0 
+8.  PredniSONE 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal pain 
+Partial SBO
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+   It was a pleasure to look after you.  As you know, you were 
+admitted with abdominal pain and concern for small bowel 
+obstruction.  You had multiple tests which revealed that there 
+was no obstruction and you had good passage of content through 
+the whole intestine.   An upper endoscopy was done - which 
+showed no clear abnormalities either.  Multiple blood/stool 
+tests were sent - some of which are pending and can be followed 
+up by your Primary care doctor.
+
+   Please take the Augmentin (antibiotics) as prescribed to see 
+whether this can address a possible small bowel bacterial 
+overgrowth - which can account for most of your symptoms.   
+
+   We wish you well and good health.
+
+Your ___ team 
+ 
+Followup Instructions:
+___

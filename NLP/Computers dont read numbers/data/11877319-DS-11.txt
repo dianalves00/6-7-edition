@@ -1,0 +1,323 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Asmanex Twisthaler
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea, vomiting, diarrhea, and fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ w/ PMH notable for developmental delay, 
+COPD/asthma, s/p total abdominal colectomy for fluminant C-diff 
+in ___, and CHF EF ___ who lives in a group home and is 
+now presenting with nausea, vomiting, diarrhea, and a fever with 
+CXR findings ___ of multifocal opacities consistent with an 
+HCAP pneumonia.
+
+History is limited secondary to patient's developmental delay. 
+Per ED, patient awoke with nausea, vomiting, diarrhea and fever 
+but it is unclear how long he has been unwell. He denies 
+shortness of breath, chest pain, abdominal pain, bloody stool, 
+or urinary symptoms.
+
+In the ED, initials vitals were T102.7 110 140/60 24 93%RA.
+Concerned about a possible infection responsible for the 
+abdominal symptoms, tachycardia, tachypnea, and fever, ED 
+collected the following labs:
+UA: Leuk Tr, Protein Tr, RBC 1, WBC 5, Bacteria none
+Lactate 1.8
+Na: 146 
+CBC: WBC 9.8, 89.6%N; Hct 35.4, MCV102; Plt 154
+Lipid Panel: ALT 9, AST 16, AlkPhos 68, TotalBili 0.2, 
+Lipase: 21
+Albumin 3.6
+-Imaging was also obtained (as noted below), which included a 
+CXR concerning for right upper lobe pneumonia and a second 
+patchy opacity in the left lower lobe that could reflect an 
+additional site of infection.
+-The patient was given PO Acetaminophen 1000 mg and IV 
+Levofloxacin 750 mg before being transfered to the medicine team 
+for further pneumonia work-up and treatment.
+ 
+On arrival to floor initial vitals were T98.1 120/58 76 20 
+100%RA.
+He endorsed vomiting and diarrhea as well as having a headache. 
+He denied chest pain or abdominal pain. 
+ 
+Past Medical History:
+- CHF: EF ___ in ___
+- Asthma
+- COPD
+- Dysphagia/Silent aspiration
+- s/p total abdominal colectomy for fluminant C-diff in ___ 
+with ostomy revision at ___ c/b cardiac arrest while in MICU
+- Mild mental retardation/Developmental Delay
+- Anxiety and Obsessive Compulsive Disorder 
+- Hypertension
+- Chronic constipation
+- Macrocytic Anemia        
+- Colon polyps      
+- GERD
+ 
+Social History:
+___
+Family History:
+No history of developmental delay
+ 
+Physical Exam:
+EXAM ON ADMISSION:
+VS T98.1 120/58 76 20 100%RA 
+GENERAL: Well-appearing elderly man. In no acute distress. Very 
+friendly and fairly cooperative with exam. Conversation limited 
+by developmental delay.
+HEENT: Normocephalic, Sclera anicteric 
+NECK: Nontender, supple neck, no cervical LAD
+CV: Regular rate and rhythm. Normal S1 and S2 appreciated. No 
+murmurs.
+PULM: Difficult to appreciate clarity due to poor inspiratory 
+and expiratory effort. No wheezing.
+ABDOMEN: Ostomy bag in place and clean, slight small area of 
+skin irritation. Nondistended, nontender in all quadrants, no 
+rebound/guarding.
+EXT:Warm and well perfused, 2+ radial and DP pulses, no 
+clubbing, cyanosis or edema. Onychomycosis.
+NEURO: Alert. Oriented to self and the reason he is in the 
+hospital. Affable affect. Expression limited secondary to 
+developmental delay.
+_
+_
+________________________________________________________________
+EXAM ON DISCHARGE:
+VS:  T97.8 123/60 88 18 100%RA
+GENERAL: Well-appearing elderly man. In no acute distress. Very 
+friendly and fairly cooperative with exam. Conversation limited 
+by developmental delay and perseveration.
+HEENT: Normocephalic, Sclera anicteric 
+NECK: Nontender, supple neck, no cervical LAD
+CV: Regular rate and rhythm. Normal S1 and S2 appreciated. No 
+murmurs.
+PULM: Difficult to appreciate clarity due to poor inspiratory 
+and expiratory effort. No wheezing.
+ABDOMEN: Ostomy bag in place and clean, slight small area of 
+skin irritation. Nondistended, nontender in all quadrants, no 
+rebound/guarding.
+EXT:Warm and well perfused, 2+ radial and DP pulses, no 
+clubbing, cyanosis or edema. Onychomycosis.
+NEURO: Alert. Oriented to self and the reason he is in the 
+hospital. Affable affect. Verbal expression limited secondary to 
+developmental delay.
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+___ 07:40AM BLOOD WBC-9.8# RBC-3.46* Hgb-11.6* Hct-35.4* 
+MCV-102* MCH-33.4* MCHC-32.7 RDW-14.1 Plt ___
+___ 07:40AM BLOOD Neuts-89.6* Lymphs-6.0* Monos-3.8 Eos-0.5 
+Baso-0.1
+___ 07:40AM BLOOD Hypochr-1+ Anisocy-1+ Poiklo-NORMAL 
+Macrocy-1+ Microcy-NORMAL Polychr-NORMAL
+___ 07:40AM BLOOD Plt Smr-NORMAL Plt ___
+___ 07:40AM BLOOD Glucose-97 UreaN-20 Creat-0.7 Na-146* 
+K-3.6 Cl-107 HCO3-32 AnGap-11
+___ 07:40AM BLOOD ALT-9 AST-16 AlkPhos-68 TotBili-0.2
+___ 07:40AM BLOOD Albumin-3.6
+___ 07:47AM BLOOD Lactate-1.8
+
+LABS ON DISCHARGE:
+___ 12:53PM BLOOD WBC-8.3 RBC-3.47* Hgb-11.6* Hct-36.6* 
+MCV-105* MCH-33.4* MCHC-31.8 RDW-14.2 Plt ___
+___ 12:53PM BLOOD Glucose-124* UreaN-13 Creat-0.5 Na-144 
+K-3.6 Cl-105 HCO3-31 AnGap-12
+
+MICRO:
+- ___ Urine Culture Prelim: PROTEUS MIRABILIS. PRESUMPTIVE 
+IDENTIFICATION. 10,000-100,000 ORGANISMS/ML. Pan-sensitive. 
+- ___ Blood culture X2: no growth to date
+- ___ Stool:  C. difficile DNA amplification assay: 
+Negative for toxigenic C. difficile by the Illumigene DNA 
+amplification assay. 
+           
+IMAGING:
+- ABDOMEN(Supine and Erect) ___:
+No evidence of bowel obstruction or free intraperitoneal gas.
+- CHEST (PA & LAT) ___:
+Right upper lobe pneumonia. Second patchy opacity in the left 
+lower lobe could reflect an additional site of infection. Follow 
+up radiographs after treatment are recommended to ensure 
+resolution of these findings.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ w/ PMH notable for developmental delay, 
+COPD/asthma, s/p total abdominal colectomy for fluminant C-diff 
+in ___, and CHF EF ___ who lives in a group home and is 
+now presenting with nausea, vomiting, diarrhea, and a fever with 
+CXR findings ___ of multifocal opacities consistent with an 
+HCAP pneumonia. Started Vancomycin 1000 mg IV Q 12H (day 1 - 
+___ and CefePIME 2 g IV Q12H (day 1 - ___ 
+switched to Levofloxacin 750 mg PO to be completed on ___. 
+He should have a repeat CXR in 1 month by his PCP to ensure 
+resolution.     
+
+# Pneumonia, HCAP
+Patient presents with complaints of nausea, vomiting, and 
+diarrhea. Found to be febrile up to 102.7F, tachycardic, and 
+tachypnic. CXR findings of multifocal opcities. Clinical 
+presentation and CXR consistent with pneumonia. Mutifocal 
+opacity in setting of group home. Started Vancomycin 1000 mg IV 
+Q 12H (day 1 - ___ and CefePIME 2 g IV Q12H (day 1 - 
+___. Switched to levofloxacin 750mg PO on ___ to 
+complete 8 day course on ___. Blood culture x2 no growth to 
+date.
+
+# Diarrhea 
+History of total abdominal colectomy for fluminant C-diff in 
+___ with ostomy revision at ___ c/b cardiac arrest while in 
+MICU. Now presenting with diarrhea. Stool C. difficile DNA 
+amplification assay negative.
+
+# Dysphagia/Silent aspiration. Placed on strict diet according 
+to swallow study results: Soft solids, Nectar-thick liquids; 
+meds whole in applesauce, cut/crushed if large; 1:1 supervision 
+when eating; NO STRAW; OOB for all meals, standard aspiration 
+precautions.
+
+#UTI- pan sensitive protease; will continue levofloxacin until 
+___ to complete 7 day course for complicated UTI
+
+# CHF: EF ___ in0 ___. Unclear etiology. Continued home 
+Metoprolol. Unclear why not on an ACE inhibitor. Started on 
+lisinopril 5mg. Not on home diuretics. 
+
+# Asthma: Home Flovent continued. Albuterol nebulizer provided 
+as needed. As a transitional concern, we reccomend switching to 
+Advair and stopping fluticasone. 
+
+# Hypertension. Continued home Metoprolol Tartrate 25 mg PO BID. 
+As a transitional concern, consider switching to metoprolol 
+succinate for its mortality benefits.
+
+## Transitional issues. 
+- Maintain antibiotic regimen of Levofloxacin 750 mg PO daily 
+until ___.
+- Out of concern for aspiration, please monitor diet and food 
+consumption closely. It is important that he follows a diet of 
+soft diet with nectar thickened liquids.
+- Obtain chest x-ray one month after discharge to ensure 
+resolution of pulmonary process.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Clozapine 50 mg PO QAM 
+2. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+3. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea 
+4. Docusate Sodium 100 mg PO BID 
+5. Artificial Tears 1 DROP BOTH EYES BID 
+6. Metoprolol Tartrate 25 mg PO BID 
+7. Vitamin D 1000 UNIT PO QAM 
+8. Aspirin 81 mg PO QAM 
+9. Clozapine 100 mg PO QPM 
+10. Ferrous Sulfate 325 mg PO BID 
+11. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+12. Albuterol 0.5% 3 mL IH Q6H:PRN severe congestion 
+13. Loratadine 10 mg PO QAM 
+14. Acetaminophen 650 mg PO Q4H:PRN pain 
+15. Triamcinolone Acetonide 0.1% Cream 1 Appl TP QPM 
+16. Ketoconazole 2%  1 Appl TP QHS:PRN abd and groin fungal 
+growth 
+17. Divalproex (DELayed Release) 500 mg PO TID 
+18. Ascorbic Acid ___ mg PO BID 
+19. Omeprazole 20 mg PO BID 
+20. Benztropine Mesylate 1 mg PO BID 
+21. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Artificial Tears 1 DROP BOTH EYES BID 
+3. Aspirin 81 mg PO QAM 
+4. Benztropine Mesylate 1 mg PO BID 
+5. Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+6. Clozapine 50 mg PO QAM 
+7. Clozapine 100 mg PO QPM 
+8. Divalproex (DELayed Release) 500 mg PO TID 
+9. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+10. Loratadine 10 mg PO QAM 
+11. Metoprolol Tartrate 25 mg PO BID 
+12. Omeprazole 20 mg PO BID 
+13. Triamcinolone Acetonide 0.1% Cream 1 Appl TP QPM 
+14. Vitamin D 1000 UNIT PO QAM 
+15. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+16. Ascorbic Acid ___ mg PO BID 
+17. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea 
+18. Albuterol 0.5% 3 mL IH Q6H:PRN severe congestion 
+19. Docusate Sodium 100 mg PO BID 
+20. Ferrous Sulfate 325 mg PO BID 
+21. Ketoconazole 2%  1 Appl TP QHS:PRN abd and groin fungal 
+growth 
+22. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+23. Levofloxacin 750 mg PO DAILY Duration: 2 Days 
+Last day ___ 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*4 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Pneumonia, HCAP
+
+Secondary diagnoses:
+CHF: EF ___ in ___
+Asthma
+COPD
+Dysphagia/Silent aspiration
+S/p total abdominal colectomy for fluminant C-diff in ___ 
+with ostomy revision at ___ c/b cardiac arrest while in MICU.
+Mild mental retardation/Developmental Delay
+Anxiety and Obsessive Compulsive Disorder 
+Hypertension
+Macrocytic Anemia             
+GERD
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Hi Mr. ___,
+
+You were brought to the ___ 
+because you were experiencing nausea, vomiting, and diarrhea and 
+you were found to have a fever. A chest x-ray that was completed 
+showed signs indicating that you have a pneumonia. 
+
+To treat your pneumonia we started you on antibiotics and will 
+be sending you home with antibiotics to be taken until ___.
+
+It was a pleasure being involved in your care while you were 
+here. We wish you the best of health and a speedy recovery. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,298 @@
+ 
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dehydration
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with a past medical 
+history significant for hypertension and peripheral neuropathy, 
+who presents after worsening diarrhea.  She has had several 
+weeks of diarrhea. She was followed by Dr. ___ and Dr. 
+___ as an outpatient for her diarrhea and has been treated in 
+the past with budesonide. 
+.
+Over the last 5 weeks, she has noticed that her bowel movements 
+have increased in frequency and volume. She reports having 
+between ___ per day. Her stools are watery, nonbloody. She has 
+becoming increasingly weak with the ongoing diarrhea and 
+presented to her PCP's office today for further evaluation. 
+During her office visit, her systolic blood pressure was in the 
+___ and her heart rate was elevated into the 120s. She was 
+transferred to the ED for further evaluation.
+.  
+In the ED, initial vitals were as follows: T: 97 BP: 116/54 HR: 
+80   RR:18 SaO2 100%. In the ED, she had several episodes of SVT 
+and had a short run of V Tach. She converted spontaneously into 
+normal sinus rhythm. Labs and imaging significant for Mg 1.0 K+ 
+3.6. Stool guaiac was negative. On EKG, she had ST depressions 
+in V3-V4. She had a U/A that revealed WBC 13, mod leukocytes, 
+and many bacteria. In the emergency department, she started ASA 
+325mg. She received a dose of  ciprofloxacin 400mg IV for 
+possible urinary tract infection. She received Magnesium 2gm  IV 
+x 1 and Potassium 20mEq IV x 1. She received 2L of normal 
+saline. 
+.  
+On arrival to the floor, her vital signs were as follows: BP: 
+140/71 HR: 80 RR: 18 SaO2 95%. The patient denies any dizziness, 
+chest pain, shortness of breath or palpitations after transfer 
+to the floor. On review of systems, she denies any prior history 
+of stroke, TIA,  black stools or red stools. She denies recent 
+fevers, chills or rigors. She denies  calf pain. All of the 
+other review of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+palpitations, syncope or presyncope.  
+.
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: (-) Diabetes, (-) Dyslipidemia, (+) 
+Hypertension  
+2. CARDIAC HISTORY:  
+-CABG: None
+-PERCUTANEOUS CORONARY INTERVENTIONS: None 
+-PACING/ICD:  
+3. OTHER PAST MEDICAL HISTORY:  
+- COPD
+- Peripheral neuropathy
+- Hypertension
+- Lymphocytic colitis
+- Depression
+- Duodenal ulcer
+- Tobacco use
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  
+ 
+Physical Exam:
+VS: BP= 140/70 HR= 80 RR= 18 O2 sat= 95% on room air  
+GENERAL: NAD. Oriented x3. Mood, affect are appropriate.  
+HEENT: PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis 
+of the oral mucosa.  
+NECK: supple w/o JVD. 
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, nl S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+LUNGS: Resp were unlabored, no accessory muscle use. CTA b/l no 
+crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, nontender, nondistended, + BS. 
+EXTREMITIES: no peripheral edema.   
+PULSES:  
+Right: Carotid 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ DP 2+ ___ 2+  
+ 
+Pertinent Results:
+LABS:
+.
+___ 07:15PM   GLUCOSE-90 UREA N-12 CREAT-0.9 SODIUM-134 
+POTASSIUM-3.8 CHLORIDE-99 TOTAL CO2-23 ANION GAP-16
+___ 07:15PM   CK(CPK)-41
+___ 07:15PM   cTropnT-<0.01
+___ 07:15PM   CK-MB-3
+___ 07:15PM   CALCIUM-7.3* PHOSPHATE-2.8 MAGNESIUM-1.5* 
+CHOLEST-157
+___ 07:15PM   TRIGLYCER-75 HDL CHOL-85 CHOL/HDL-1.8 
+LDL(CALC)-57
+___ 01:30PM URINE  HOURS-RANDOM
+___ 01:30PM URINE  GR HOLD-HOLD
+___ 01:30PM URINE  COLOR-Straw APPEAR-Hazy SP ___
+___ 01:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-SM 
+___ 01:30PM URINE  RBC-<1 WBC-13* BACTERIA-MANY YEAST-NONE 
+EPI-3
+___ 11:49AM   LACTATE-1.6
+___ 11:35AM   GLUCOSE-98 UREA N-14 CREAT-1.0 SODIUM-134 
+POTASSIUM-3.6 CHLORIDE-93* TOTAL CO2-27 ANION GAP-18
+___ 11:35AM   estGFR-Using this
+___ 11:35AM   CK(CPK)-41
+___ 11:35AM   CK-MB-2 cTropnT-<0.01
+___ 11:35AM   CALCIUM-8.3* PHOSPHATE-3.0 MAGNESIUM-1.0*
+___ 11:35AM   %HbA1c-5.4 eAG-108
+___ 11:35AM   WBC-6.8 RBC-3.37* HGB-12.1 HCT-34.0* MCV-101* 
+MCH-35.9* MCHC-35.5* RDW-14.1
+___ 11:35AM   NEUTS-73.9* LYMPHS-17.8* MONOS-4.3 EOS-3.4 
+BASOS-0.7
+___ 11:35AM   PLT COUNT-282
+___ 11:35AM   ___ PTT-22.6 ___
+.
+IMAGING:
+
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: ___ year old female with a past medical 
+history significant for hypertension and peripheral neuropathy, 
+who presents with increasing diarrhea. Became tachycardic and 
+hypotensive in the emergency department. She was found to have 
+ST depressions in the precordial leads on EKG. 
+.  
+# CORONARIES: Ms. ___ had no complaints of chest pain or 
+shortness of breath during her hostpialization. Her initial EKG 
+demonstrated diffuse T-wave inversions and mild ST depression (~ 
+0.___epression in the precordial leads). Although her 
+initial troponins in the ED were < .01, her EKG changes were 
+concerning for an acute coronary syndrome. Because of her strong 
+risk factors (smoking history, hypertension) for ACS, she was 
+started on a baby aspirin. She was admitted overnight to r/o MI. 
+On hospital day 2, her serial troponins remained negative. Her 
+lipid panel and HgbA1c were as follows: Chol 157 ___ 75 HDL 85 
+LDL 57. She was not started on a statin during her 
+hospitalization. Because the patient had consumed caffeine on 
+the morning of discharged, we decided to complete a 
+pharmacologic stress test as an outpatient. We recommended 
+follow-up with Dr. ___ as an outpatient, if her stress test 
+returned back positive. 
+.  
+# Tacyhcardia: In the ED, she had several episodes of SVT and 
+had a short run of V Tach. She received 2 L of normal saline in 
+the ED. She converted spontaneously into normal sinus rhythm. 
+She had one episode of atrial tachycardia on the inpatient 
+floor. Her tachycardia was mostly likely related to volume 
+depletion after weeks of diarrhea. During her hospitalization, 
+we held her dose of lasix and recommend 
+.  
+# Diarrhea: H/x of lymphocytic colitis. Stools were nonbloody. 
+She had no fevers or leukocytosis since admission. Lactate was 
+1.6. her diarrhea resolved overnight. She had been started on 
+entacort 3mg tid.  C. diff and stool studies were unable to be 
+completed since the patient's diarrhea resolved overnight. 
+.  
+# Urinary Tract infection: U/A in the ED revealed 13 WBCs, mod 
+leukocytes, and many bacteria. She received 1 dose of 
+ciprofloxacin 400mg IV in the ED. She was continued on 
+ciprofloxacin 400mg PO bid. The patient did not complain of 
+dysuria on admission, but the plan was to treat with a three day 
+course of antibiotics. 
+. 
+# Hypertension: SBP were in ___ in the ED. Received 2L of NS. 
+Her SBP remained in the low 100s. She did receive a dose of 
+metoprolol on the day of admission. We restarted her lisinopril 
+20mg in the morning and we continued to hold her dose of lasix. 
+We recommended holding the lasix until her follow-up appointment 
+with Dr. ___.  
+.
+# Peripheral neuropathy: Has a history of bilateral leg numbness 
+and paresthesias from the feet to the knees. She was continued 
+on her home dose of cymbalta.
+.
+# Tobacco use: Received a nicotine patch while she was an 
+inpatient. 
+.
+# Anemia: Hct 34.0 in ED. Baseline Hct ___. MCV is 102. ? 
+whether anemia is related to vitamin deficiency (folate or B12) 
+or alcohol use or chronic blood loss. 
+We checked B12 and folate levels, but these lab values were 
+pending on the day of discharge. These studies should be 
+followed up by her primary care physician. 
+.
+# Depression: stable. She was continued on cymbalta.
+.
+FEN: regular diet, replete lytes prn 
+.  
+ACCESS: PIV's  
+.  
+PROPHYLAXIS:  
+-DVT ppx with SQ heparin
+-Hold bowel regimen in the setting of recent diarrhea. 
+.  
+CODE: Full 
+ 
+Medications on Admission:
+albuterol  1 inhl q4hrs prn 
+budesonide ER 
+Dipheoxylate-atropine 2.5mg-.025mg tab (___) qid prn
+duloxetine 60mg daily
+furosemide 20mg daily
+lisinopril 20mg daily
+metoprolol ER 50mg bid
+ 
+Discharge Medications:
+1. lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours) as 
+needed for shortness of breath.  
+3. budesonide 3 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO TID (3 times a day).  
+4. duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+5. metoprolol tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+6. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+7. ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO twice a 
+day for 3 doses: Total antibiotic therepy is 3 days. Please 
+finish the total course of antibiotics. You only require 3 doses 
+of antibiotics from the day of discharge. .
+Disp:*3 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: 
+Atrial Tachycardia
+Dehydration
+Urinary Tract Infection
+.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+    It was a pleasure taking care of you during your 
+hospitalization. You were admitted after you developed abnormal 
+changes on your EKG that were concerning for a myocardial 
+infarction (or heart attack). During your hospitalization, we 
+checked a series of cardiac biomarkers that remained within 
+normal limits. Therefore, we do not think you had a heart 
+attack. However, we would like you to complete a cardiac stress 
+test as an outpatient. We have placed an order for this test. 
+You will need to call to schedule an appointment. If you have a 
+positive stress test, you need to schedule an appointment with 
+Dr. ___. His office phone number is as follows: ___.
+.
+In addition, during your hospitalization, we also found that you 
+have an abnormal heart rhythm, but we do not think this is 
+life-threatening. We recommend continuing your home medications 
+as prescribed and we encourage you to refrain from smoking. 
+.
+You were also treated for a urinary tract infection during your 
+hospitalization. We started oral antibiotics on the day of 
+admission. You will require a 3 day course of antibiotics. Your 
+last dose of ciprofloxacin is ___. 
+.
+Please resume your home medications. Please hold your home dose 
+of Lasix 20mg until you are evaluated by your primary care 
+physician, ___. Please follow-up with your primary care 
+physician ___ 1 weeks after discharge. Please see appointment 
+details below. 
+ 
+Followup Instructions:
+___

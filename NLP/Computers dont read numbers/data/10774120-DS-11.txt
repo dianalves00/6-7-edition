@@ -1,0 +1,285 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+naproxen / ___ pig
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CC: shortness of breath
+
+Reason for MICU Transfer: severe asthma exacerbation with poor 
+respiratory effort and air movements, as well as changes in 
+mental status
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: Ms. ___ ia a ___ year old female with a past medical 
+history of pulmonary nodules, bronchietctasis and asthma who 
+presented with shortness of breath and concern for asthma 
+exacerbation. She has had several hospitalizations for asthma 
+(last in ___, previously requiring bipap, but has 
+never been intubated. On this admission she reports 4 days of 
+gradually worsening shortness of breath with wheezing. Possible 
+triggers include a friend who also has asthma and was recently 
+hospitalized who she shared a nebulizer machine with, cleaning 
+agents used 6 days prior to admission, smoking of 8 cigarettes 
+about 2 weeks ago. She has had no relief with 3 days of oral 
+prednisone (60mg/50mg/50mg) and multiple albuterol nebulizations 
+at home. She took her Albuterol nebulizer x3 and prednisone 50 
+mg at home this morning, then presented to Dr. ___ 
+where she recieved Combivent nebulizers x2 and 2g of magnesium. 
+Dr. ___ her to the ED.  
+
+Per the patient, this presentation is identical to prior asthma 
+exacerbations. She endorses a cough but denies any sputum 
+production. She denied palpitations, chest pain, fevers or 
+chills, URI symptoms, lower extremity edema or calf pain, prior 
+DVT or PE, headache, change in vision, neck pain, abdominal 
+pain, dysuria, change in bowel movements, or rash. No recent 
+travels. No known immunocompromise.  
+
+She presented to the ED with a respiratory rate of 18, SpO2 98% 
+on room air, in no apparent respiratory distress but with 
+symmetric wheezing. No lower extremity edema or calf pain.  
+ 
+In the ED, initial vitals: 98.6 98 153/15 18 100% neb. In the ED 
+she recieved:  Albuterol 0.083% Neb Soln Today x3, Ipratropium 
+Bromide Neb 2.5mL x2, Azithromycin 500mg x1 IV. Vitals prior to 
+transfer: 98.0 93 148/101 25 98%.
+
+Overnight the team gave her MethylPREDNISolone Sodium Succ 125 
+mg IV Q6H, albuterol nebs Q4 standing, ipratropium Q6h standing, 
+and albuterol Q2hprn. This morning, patient was found to have 
+decompensated, with poor respiratory effort and air movement, as 
+well as changes in mental status suggestive of respiratory 
+distress. Even after 2 albuterol nebs over 45minutes, patient 
+was tripoding, unable to speak more than 3 words at a time, and 
+breathing through pursed lips. Her mental status did improve 
+with the 2 nebs. She was transferred to the ICU for more 
+aggressive management of her asthma, and possible Bipap 
+initiation.
+ 
+ROS: per HPI. No fevers, chest pain, abdominal pain, pain with 
+urinate, joint pain, rashes. 
+ 
+Past Medical History:
+MEDICAL & SURGICAL HISTORY:  
+- Asthma (diagnosed in ___  
+- Brochiectasis  
+- Pulmonary nodules (detected in ___, follow-up CT in ___ 
+showed no progression)  
+- positive PPD
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  Grandmother had asthma. Father had ___, 
+HTN, and died of Stomach cancer. Mother had HTN and uterine 
+cancer. Daughter has ___.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS - Temp 98.1 ___ 98%RA 
+GENERAL - in respiratory distress, speaking only 3 words at a 
+time, pursed lips, tripoding
+HEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, dryMM, OP clear  
+
+NECK - supple, no thyromegaly, no JVD, no lymphadenopathy  
+HEART - borderline tachycardic, reg rhythm, nl S1-S2, no MRG  
+LUNGS - + inspiratory and expiratory wheezes bilaterally, 
+respiration labored, using abdomen and neck muscles, 
++non-productive cough  
+ABDOMEN - soft/NT/ND, no rebound/guarding  
+EXTREMITIES - WWP, no edema, 2+ radial and DP pulses  
+SKIN - no rashes or lesions  
+NEURO - awake, A&Ox3, moving all extremities
+
+DISCHARGE PHYSICAL EXAM
+VS: Tm 98.3 ___ 83 18 98% RA
+PF 275
+GENERAL: NAD, alert, interactive
+HEENT: NC/AT, sclerae anicteric, MMM
+LUNGS: Expiratory wheezing but decreased from prior.  Air 
+movement today is increased since yesterday. 
+HEART: Normal rate, regular rhythm.  No m/r/g
+ABDOMEN: NABS, soft/NT/ND. 
+EXTREMITIES: WWP
+NEURO: awake, A&Ox3
+
+ 
+Pertinent Results:
+ADMISSION LABS
+
+pH 7.36 pCO2 46 pO2 135 HCO3 27 BaseXS 0  Type:Art Lactate:4.0
+
+140  102  15   
+---------------< 129
+4.5  28  0.8  
+
+Ca: 9.3 Mg: 1.9 P: 4.5
+
+MCV 87 
+WBC 9.1 hgb 13.2 hct 41.6 plt 360 
+
+DISCHARGE LABS
+___ 06:13AM BLOOD WBC-16.0* RBC-4.64 Hgb-12.8 Hct-39.7 
+MCV-86 MCH-27.6 MCHC-32.3 RDW-13.9 Plt ___
+___ 06:27AM BLOOD Glucose-83 UreaN-19 Creat-0.8 Na-139 
+K-3.9 Cl-96 HCO3-32 AnGap-15
+___ 06:27AM BLOOD Calcium-8.9 Phos-3.0 Mg-2.1
+    
+IMAGING: 
+___ CXR:
+IMPRESSION:   Subtle opacity overlying the medial right lung 
+base, which most likely reflects overlying breast tissue.  If 
+clinically indicated, could obtain lateral radiograph for 
+further characterization. 
+
+___ CXR:
+CONCLUSION: 
+Minimal left lower lobe opacity is probably due to 
+superimposition of breast tissue.  Standard PA and lateral views 
+may be helpful to exclude a pneumonia in this region, if 
+warranted clinically. 
+
+___ CTA CHEST:
+Prelim read:
+IMPRESSION:
+
+1.    No  pulmonary  embolism.    
+2.    Bronchial  wall  thickening  and  mucoid  impaction with  
+multiple  pulmonary  nodules.    Followup  CT  in  12  months  
+for  pulmonary
+nodules  is  recommended  in  a  high-risk  patient.
+ 
+Brief Hospital Course:
+___ woman with asthma admitted with severe asthma exacerbation. 
+
+
+# Severe asthma exacerbation / hypercarbic respiratory failure:  
+Patient admitted to the floor initially and placed on IV 
+solumedrol with scheduled nebs.  She decompensated overnight on 
+the night of admission and was sent to the MICU where she was 
+started on BiPAP. ___ and her outpatient pulmonologist were 
+consulted; per their recommendations she received 5 day course 
+of azithromycin.  She was continued on BiPAP overnight with wean 
+to face-mask on ___. She continued to have diffuse wheezes 
+throughout on ___ intially requiring continuous nebs. She was 
+then weaned to q2h albuterol nebs and then she was successfully 
+weaned to NC and albuterol nebs were spaced throughout the day 
+on ___. On transfer to the floor, the patient remained 
+diffusely wheezy but with decreased work of breathing and O2 
+sats ranging 96-100% on 4L NC. CXR did not show any clear 
+evidence of pneumonia; she was found to have a patchy opacity in 
+the LLL but this was re-evaluated several times and thought to 
+be actually overlying breast tissue.  She had a CTA which showed 
+no PE, but did have some bronchial thickening and linear 
+atelectasis at the bases.  Her steroids were changed to oral 
+prednisone 60mg daily on ___ with plan for steroid taper by 
+10mg q3days, to be held at 10mg daily.
+
+# Hypertension:  During this admission, she was hypertensive 
+with SBP 170s in the setting of getting albuterol and steroids.  
+She received IV labetalol while in the MICU with good response. 
+Her hypertension improved with decreasing albuterol and steroid 
+requirements. Longer-term antihypertensive therapy was discussed 
+with the patient but introduction of additional medications was 
+deferred at this time per patient's wishes.  On discharge, her 
+blood pressures were ranging 130s-150s.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pulmicort *NF* (budesonide) 180 mcg Inhalation once daily 
+2. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation 
+Inhalation BID 
+3. Albuterol 0.083% Neb Soln 1 NEB IH BID 
+4. Montelukast Sodium 10 mg PO DAILY 
+5. Omeprazole 40 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. Tiotropium Bromide 1 CAP IH DAILY 
+
+ 
+Discharge Medications:
+1. Albuterol 0.083% Neb Soln 1 NEB IH BID 
+2. Montelukast Sodium 10 mg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. Omeprazole 40 mg PO DAILY 
+5. Tiotropium Bromide 1 CAP IH DAILY 
+6. PredniSONE 60 mg PO DAILY 
+7. Vitamin D 800 UNIT PO DAILY steroid treatment 
+RX *ergocalciferol (vitamin D2) 400 unit 2 tablet(s) by mouth 
+daily Disp #*60 Tablet Refills:*0
+8. Calcium Carbonate 1250 mg PO DAILY steroid treatment 
+RX *calcium carbonate 500 mg calcium (1,250 mg) 1 tablet(s) by 
+mouth daily Disp #*30 Tablet Refills:*0
+9. Pulmicort *NF* (budesonide) 180 mcg Inhalation once daily 
+10. Symbicort *NF* (budesonide-formoterol) 160-4.5 mcg/actuation 
+Inhalation BID 
+11. PredniSONE 50 mg PO DAILY Duration: 3 Days 
+Take 3 days: ___ 
+Tapered dose - DOWN 
+12. PredniSONE 40 mg PO DAILY Duration: 3 Days 
+Take 3 days: ___ 
+Tapered dose - DOWN 
+13. PredniSONE 30 mg PO DAILY Duration: 3 Days 
+Take 3 days: ___ 
+Tapered dose - DOWN 
+14. PredniSONE 20 mg PO DAILY Duration: 3 Days 
+Take 3 days: ___ 
+Tapered dose - DOWN 
+15. PredniSONE 10 mg PO DAILY 
+Start ___ and continue until directed by your doctor 
+___ dose - DOWN 
+RX *prednisone 10 mg 6 tablet(s) by mouth daily Disp #*100 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: Asthma exacerbation
+
+SECONDARY: Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+It was a pleasure taking care of you while you were admitted at 
+___.  You were admitted due to an asthma exacerbation.  You 
+were given nebs, intravenous steroids, and antibiotics.  Your 
+exacerbation became so severe that you had to go to the 
+intensive care unit, where you were placed on non-invasive BiPap 
+ventilation for a short period of time.  You were eventually 
+weaned off of this and subsequently weaned off of all 
+supplemental oxygen.  Your steroids were switched to oral and 
+you finished your antibiotic course.  You had a CT scan of your 
+chest which showed no clots and did show some thickening of your 
+bronchioles (airways, consistent with your known lung disease), 
+as well as several nodules that will need to be followed.  You 
+were significantly improved and were discharged.
+
+You will go home with a steroid taper, then will stay on a lower 
+dose of steroids indefinitely until you see Dr. ___.
+ 
+Followup Instructions:
+___

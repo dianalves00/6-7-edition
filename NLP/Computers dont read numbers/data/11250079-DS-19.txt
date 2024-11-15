@@ -1,0 +1,460 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+cefaclor / Penicillins / erythromycin base
+ 
+Attending: ___
+ 
+Chief Complaint:
+altered mental status and sepsis, with
+TEE showing AV and MV vegetations and blood cultures positive 
+for
+serratia. 
+ 
+Major Surgical or Invasive Procedure:
+TEE; Closure aortic root abscess with pericardial patch; Aortic 
+Root Enlargement using 6CM x 8CM Pericardial Patch; Aortic Valve 
+Replacement using 23MM CE Perimount Magna Ease Pericardial 
+Bioprosthesis Aortic Valve (Tissue); Mitral Valve Repair using 
+28MM CE Physio II Annuloplasty Mitral Ring
+
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS: ___ male w/ h/o IVDU and 
+HCV who initially presented to OSH ___ w/ altered mental status. 
+He was accompanied by his brother who reported 4-day history of 
+shoulder pain and unspecified rash. Patient was febrile to 
+101.8, tachycardic to 120s, otherwise hemodynamically stable. 
+Labs were notable for WBC 19, lactate 2.1, Cr 1.5 (baseline 
+1.0), troponin 0.61, NTproBNP of 6600, and transaminitis (AST 
+155, ALT 123, Tbili 1.1, alk phos 107). Utox positive for 
+opioids. EKG with sinus tachycardia; no heart block or ischemic 
+changes. CXR remarkable for bilateral lower lobe infiltration 
+and increased pulmonary vascular markings. CT abdomen with 
+splenomegaly and 2.3 x 1.4 x 1.4 hypoattenuated subcapsular 
+lesion concerning for septic embolus. BCx ___ positive 
+for GNR later speciated as S. marcescens. UCx likewise positive 
+for S. marcescens. TTE initially unremarkable for endocarditis, 
+albeit poorly visualized aortic valve. TEE was therefore 
+pursued, which demonstrated a large, predominant RCC aortic 
+valve vegetation with associated abscess cavity freely 
+communicating with the LVOT and 4+ AR. CTA head without evidence 
+of septic emboli.  
+
+ 
+
+Empiric vancomycin/imipenem initiated for endocarditis. Empiric 
+acyclovir and corticosteroids added for concern for meningitis. 
+HCP deferred LP. Prior to transfer, patient complained of chest 
+pain. Became tachycardic to 140s; pressures dropped to ___. 
+Repeat EKG showed isolated 1mm ST depressions in V4, unchanged 
+from prior study. CTA chest without pulmonary artery filling 
+defect. Required intermittent Haldol for delirium. He was 
+transferred to ___ CCU in anticipation of surgical management.
+
+ 
+
+On arrival to the CCU, patient was unable to participate in 
+interview on account of altered mental status. 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+
+1. CARDIAC RISK FACTORS: none  
+
+ 
+
+2. CARDIAC HISTORY: none  
+
+ 
+
+3. OTHER PAST MEDICAL HISTORY  
+
+-HCV, untreated
+
+-Pyelonephritis
+
+-Nephrolithiasis 
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death.  
+
+ 
+Physical Exam:
+Admission Physical Exam:
+VS: T 99.4 HR 134 BP 127/76 RR 29 O2 97% RA
+GENERAL: distress, disheveled, innumerable tattoos
+HEENT: PERRL, poor dentition, no oropharyngeal lesions
+Neck: supple, no JVD, no LAD
+CV: tachycardiac, reg rhythm, S1, diminished S2, diastolic 
+murmur at LUSB
+PULM: tachypneic, grunting, transmitted upper airway sounds, 
+scattered crackles
+GI: obese, soft, NT, ND, normoactive BS, exam otherwise limited 
+by body habitus
+GU: Foley
+EXT: warm, well perfused, ___ pitting edema to shin bilaterally 
+
+NEURO: awake, inattentive, oriented x1, confused, otherwise 
+non-focal   
+
+Discharge Exam:
+==============
+Vital Signs:
+Tmax: 98.2 Tcurrent: 97.4   B/P: 118/79   HR/Rhythm: 68 SR   
+RR: 18 SaO2: 100% RA             
+Wt: 115.6 (kg)  
+Intake: 1020   Output: 1700
+Physical Examination:
+General/Neuro:  NAD  [x] A/O x3 [x] non-focal [x] 
+Cardiac: RRR [x]  Irregular []  Nl S1 S2 []
+Lungs: scattered rhonchi   No resp distress [x]
+Abd:  NBS [x]Soft [x] ND [x] NT [x]
+Extremities:  no CCE[x]   Pulses: palpable [x]  
+Wounds: Sternal: CDI [x] no erythema or drainage [x]
+                 Sternum stable [x] 
+
+ 
+Pertinent Results:
+Admission Labs:
+==================
+___ 10:39PM   TYPE-ART PO2-81* PCO2-21* PH-7.48* TOTAL 
+CO2-16* BASE XS--4
+___ 10:39PM   GLUCOSE-105 LACTATE-1.5 K+-4.1
+___ 10:39PM   O2 SAT-95
+___ 10:39PM   freeCa-1.13
+___ 10:25PM   GLUCOSE-109* UREA N-29* CREAT-1.1 SODIUM-143 
+POTASSIUM-4.3 CHLORIDE-113* TOTAL CO2-16* ANION GAP-14
+___ 10:25PM   estGFR-Using this
+___ 10:25PM   ALT(SGPT)-24 AST(SGOT)-36 CK(CPK)-46* ALK 
+PHOS-69 AMYLASE-37 TOT BILI-0.7
+___ 10:25PM   LIPASE-36
+___ 10:25PM   CK-MB-7 cTropnT-0.11*
+___ 10:25PM   ALBUMIN-2.2* CALCIUM-7.8* PHOSPHATE-3.9 
+MAGNESIUM-2.5
+___ 10:25PM   VoidSpec-CLOTTED SA
+___ 10:25PM   HCT-UNABLE TO 
+___ 10:25PM   ___ PTT-22.4* ___
+___ 08:43PM URINE  COLOR-Yellow APPEAR-Hazy* SP ___
+___ 08:43PM URINE  BLOOD-MOD* NITRITE-NEG PROTEIN-30* 
+GLUCOSE-NEG KETONE-TR* BILIRUBIN-NEG UROBILNGN-4* PH-6.0 
+LEUK-SM*
+___ 08:43PM URINE  RBC-23* WBC-14* BACTERIA-FEW* YEAST-NONE 
+EPI-0
+___ 08:43PM URINE  RBC-23* WBC-14* BACTERIA-FEW* YEAST-NONE 
+EPI-0
+
+Discharge Labs:
+___ 05:02AM BLOOD WBC-12.7* RBC-3.54* Hgb-10.2* Hct-31.5* 
+MCV-89 MCH-28.8 MCHC-32.4 RDW-14.7 RDWSD-46.5* Plt ___
+___ 05:02AM BLOOD Plt ___
+___ 05:02AM BLOOD Glucose-92 UreaN-16 Creat-0.6 Na-140 
+K-4.6 Cl-104 HCO3-22 AnGap-14
+___ 02:00PM BLOOD ALT-19 AST-31 AlkPhos-57 Amylase-98 
+TotBili-0.5
+___ 05:02AM BLOOD Calcium-8.6 Phos-3.3 Mg-1.9
+
+Imaging:
+ECHO ___
+Prebypass
+ No spontaneous echo contrast is seen in the body of the left 
+atrium or left atrial appendage. No atrial septal defect is seen 
+by 2D or color Doppler. The left ventricular cavity is mildly 
+dilated. Regional left ventricular wall motion is normal. 
+Overall left ventricular systolic function is normal (LVEF>55%). 
+[Intrinsic left ventricular systolic function is likely more 
+depressed given the severity of valvular regurgitation.] Right 
+ventricular chamber size and free wall motion are normal. The 
+number of aortic valve leaflets cannot be determined. An aortic 
+annular abscess is seen. There is no aortic valve stenosis. 
+Severe (4+) aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. No mass or vegetation is seen on 
+the mitral valve. Severe (4+) mitral regurgitation is seen. Due 
+to the eccentric nature of the regurgitant jet, its severity may 
+be significantly underestimated (Coanda effect). There is no 
+pericardial effusion. Dr. ___ was notified in person 
+of the results on ___ at 1015 am. A left pleural effusion 
+is present. Post bypass
+Patient is AV paced and receiving an infusion of Epinephrine, 
+Vasopressin and Norepinephrine. Biventricular systolic function 
+is mildly depressed. LVEF= 45% . Annuloplasty ring seen in the 
+mitral position. It appears well seated. Moderate mitral 
+regurgitation seen. Mean gradient across the mitral valve is 6 
+mm Hg. Bioprosthetic valve seen in the aortic position. It 
+appears well seated. Trivial central aortic insufficiency seen. 
+Mean gradient across the aortic valve is 22 mm Hg. Aorta intact 
+post decannulation.  
+ 
+Radiology Report CHEST PORT LINE/TUBE PLCT 1 EXAM Study Date of 
+___ 
+Final Addendum 
+ADDENDUM  Review of the images has demonstrated that the last 
+radiograph was taken with the right PICC line terminating at the 
+level of low SVC, thus  appropriate and no further repositioning 
+is required. 
+___, MD electronically signed on ___ ___ 
+11:28 AM 
+ 
+Radiology Report CT HEAD W/O CONTRAST Study Date of ___ 
+3:54 ___ 
+FINDINGS:  
+There is no evidence of acute intracranial hemorrhage.  Known 
+enhancing foci of acute infarct concerning for septic emboli 
+demonstrated on prior MRI head of ___haracterized on noncontrast CT examination.  
+No evidence of acute large territorial infarct. 
+There is no evidence of fracture.  There is mucosal thickening 
+of bilateral maxillary sinuses.  There is ossification of the 
+left mastoid air cells.  The visualized portion of the remaining 
+paranasal sinuses, mastoid air cells, and middle ear cavities 
+are clear.  The visualized portion of the orbits are 
+unremarkable. 
+IMPRESSION:   
+1. No evidence of intracranial hemorrhage.  No acute large 
+territory infarct. 
+2. No new enhancing foci of acute infarct concerning for septic 
+emboli 
+demonstrated on prior MRI are not well characterized on 
+noncontrast CT 
+examination. 
+3. No displaced calvarial fracture. 
+   
+___, MD 
+___, MD electronically signed on ___ ___ 7:07 
+___ 
+ 
+___ ___ M ___ ___ Microbiology Lab Results
+                             **FINAL REPORT ___
+   C. difficile DNA amplification assay (Final ___: 
+      Reported to and read back by ___ (___) AT 
+20:12 ON
+      ___. 
+      CLOSTRIDIUM DIFFICILE. 
+         Positive for toxigenic C difficile by the Cepheid 
+nucleic
+         amplification assay.            (Reference 
+Range-Negative). 
+
+   ___ ___ M ___ ___ Microbiology Lab Results
+ ___ 11:30 am TISSUE      AORTIC ROOT ABSCESS. 
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+   TISSUE (Final ___: 
+      Reported to and read back by ___ ___ 
+12:05PM. 
+      SERRATIA MARCESCENS.    MODERATE GROWTH. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+         Piperacillin/Tazobactam test result performed by ___ 
+___. 
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML      
+_________________________________________________________
+                             SERRATIA MARCESCENS
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+   ACID FAST CULTURE (Preliminary):    NO MYCOBACTERIA ISOLATED. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      NO FUNGAL ELEMENTS SEEN. 
+
+ 
+Brief Hospital Course:
+Medical Service work-up:
+ASSESSMENT AND PLAN: ___ male w/ h/o IVDU and HCV 
+admitted to OSH with sepsis found to have aortic valve infective 
+endocarditis c/b 4+ AR and S. marcescens bacteremia; transferred 
+in anticipation of surgical intervention. 
+#) PUMP: aortic valve endocarditis/abscess with 4+ AR, as above  
+ 
+#) RHYTHM: sinus tachycardia 
+#) Sepsis
+#) S. marcecens bacteremia
+#) AV infective endocarditis c/b perivalvular abscess and severe 
+AR: transient hypotension per OSH report, but otherwise 
+hemodynamically stable at present without shock. MAPs acceptable 
+in the absence of diuresis or afterload reduction. Serial BCx 
+speciated as S. marcecens, susceptible to carbapenem. 
+Hematogenous spread via urinary source (i.e., UCx similarly with 
+Serratia and CT abdomen with perinephric stranding) versus 
+needle contamination. Could de-escalate, given susceptibility 
+profile, with mindfulness of listed PCN/cephalosporin allergies. 
+MRSA screen negative. Tentatively planned for Bentall ___. CTA 
+head at OSH without evidence of intracranial septic emboli. We 
+consulted Cardiac Surgery, and Infectious disease. We also 
+treated with meropenam 500mg and per ID we d/c's his vancomycin. 
+We also got fungal blood cultures. The patient was s/p 
+imipenem/cilastatin (___).
+#) Toxic metabolic encephalopathy: hyperactive delirium, 
+requiring pharmacologic restraint. Presume related to 
+bacteremia, as above. No evidence of septic emboli on CTA head. 
+Initially received empiric coverage for meningitis at OSH; LP 
+deferred. UDS positive for opioids, but otherwise negative. 
+Other drug effect or withdrawal conceivable; received trivial 
+amount of BZ at OSH.  We treated with antibiotics as listed 
+above. 
+#) Troponiemia: 0.87 -> 0.84 (___) at OSH. SS chest pain prior 
+to transfer. ___epression in V4 unchanged from prior. 
+NTproBNP 6000; suspect AR-related strain in that regard. We got 
+repeat EKGs and repeated his troponins
+#) ___, non-oliguric: Cr 1.5 (baseline 1.0) -> 1.1 on arrival. 
+Probable transient hypotension/sepsis. Septic emboli and/or 
+immunologic phenomenon in the context of IE conceivable, though 
+no dysmorphic RBCs/casts on UA.  
+#) Coagulopathy: isolated minor ___ prolongation. Probable 
+diminished synthetic function in the context of hypoalbuminemia 
+and seemingly cirrhotic liver. We trended his coagulation 
+factors. 
+#) HCV
+#) Transaminitis: suspect untreated HCV, given nodular hepatic 
+surface and splenomegaly on CT abdomen, suggesting cirrhotic 
+change. 
+#) Opioid use disorder: active IVDU; details uncertain. Will 
+obtain collateral. We consulted ___ for opioid addiction consult.
+Cardiac Surgery Course:
+The patient was brought to the Operating Room on ___ where 
+the patient underwent root enlargement with root patch/AVR 
+#23CE/MVr #28mm ring.  Overall the patient tolerated the 
+procedure well and post-operatively was transferred to the CVICU 
+in stable condition for recovery and invasive monitoring.  He 
+arrived out on Levo/vaso/Epi gtt. He was weaned off all gtts 
+within ___. Remained intubated for few days due to mental 
+status, confusion agitation. Patient was confused pre-op with 
+concern for septic emboli pre-op. He was seen by the neurology 
+service and underwent imaging MRI showed multiple lesions 
+consistent with septic emboli.Continuous EEG has revealed no 
+seizures.
+ He was extubated on POD2, remained very tachypneic with 
+significant resp alkalosis. This was associated with 
+hypertension and tachycardia. In light of drug history 
+withdrawal syndrome was a concern and his narcotics were 
+adjusted to meet his pain needs. Lopressor and Lasix started. 
+Chest tubes and pacing wires were removed per cardiac surgery 
+protocol without difficulty or complications. His menatal status 
+was slow to improve, he was seen by neurology and addiction 
+services. He had a negative head CT. 
+The patient was transferred to the telemetry floor for further 
+recovery.  The patient worked with nursing and was evaluated by 
+the physical therapy service for assistance with strength and 
+mobility.  By the time of discharge on POD 13 the patient was 
+ambulating freely, the wound was healing and pain was controlled 
+with oral analgesics.  The patient was discharged to the 
+___ in good condition with appropriate follow up 
+instructions. He will need to complete a six week course of 
+antibiotics prior to discharge. He may benefit from continued 
+addiction counseling +/- suboxone therapy
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO/PR Q6H:PRN pain or temperature 
+>38.0  
+2.  Aspirin 81 mg PO DAILY  
+3.  Bisacodyl ___AILY:PRN constipation  
+4.  Ciprofloxacin HCl 750 mg PO Q12H 
+last day ___  
+5.  Meropenem 1000 mg IV Q8H 
+last day ___  
+6.  Metoprolol Tartrate 25 mg PO TID  
+7.  OxyCODONE (Immediate Release) 5 mg PO Q12HRS/PRN Pain - 
+Moderate *AST Approval Required*
+RX *oxycodone 5 mg 1 tablet(s) by mouth every twelve (12) hours 
+Disp #*45 Tablet Refills:*0 
+8.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *tramadol 50 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*45 Tablet Refills:*0 
+9.  Vancomycin Oral Liquid ___ mg PO Q6H 
+through ___  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Sepsis/endocarditis s/p root enlargement/root patch 
+w/pericardium/AVR(23 CE tissue)MVr(28 CE ring) 
+C. Diff. positive
+
+Secondary/PMH:
+IVDU-+tox screen at OSH
+-uses suboxone he buys on street
+HCV-untreated
+pyelonephritis
+kidney stones
+
+ 
+Discharge Condition:
+Alert and oriented x3 non-focal
+Ambulating, deconditioned
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema-none
+
+Edema 1+
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+ Please NO lotions, cream, powder, or ointments to incisions
+ Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+ No driving for one month or while taking narcotics. Driving 
+will be discussed at follow up appointment with surgeon- when 
+you will be able to drive
+ No lifting more than 10 pounds for 10 weeks
+ 
+ **Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

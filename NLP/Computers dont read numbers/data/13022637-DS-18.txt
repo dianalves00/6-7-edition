@@ -1,0 +1,227 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Ventral herniorrhaphy ___
+
+ 
+History of Present Illness:
+ 
+HISTORY OF PRESENTING ILLNESS
+ 
+This patient is a ___ year old male who complains of SBO. 
+The patient is a ___ gentleman transferred from ___
+who wear him with a small bowel obstruction. Patient began 
+to have abdominal pain approximately 24 hours ago. Of note 
+he was recently in the hospital with an episode of 
+congestive heart failure. The patient has a ventral hernia 
+as well. He does report some pain around ventral hernia 
+which is improving.
+                       Timing: Gradual
+                      Quality: Crampy
+                     Severity: Moderate
+                     Duration: Hours
+                     Location: Abdomen
+ 
+Past Medical History:
+Past Medical History:
+-COPD
+-Atrial fibrillation
+-CHF with diastolic dysfunction
+-Severe aortic stenosis
+-Psoriasis
+-Renal cancer s/p ablation
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+PHYSICAL EXAMINATION upon admission:  ___
+ 
+ Temp:97.4 HR:97 BP:124/88 Resp:16 O(2)Sat:93 
+ 
+Constitutional: Comfortable
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm, Normal first and 
+second heart sounds
+Abdominal: Soft
+Neuro: Speech fluent
+Psych: Normal mood, Normal mentation
+
+Physical examination on discharge:
+
+vital signs:  t=98, bp=93/68-103/68, hr=91-103, sat 99% RA
+
+General: alert and oriented x 3, speech clear, no tremors
+CV: ns1, s2, -s3, -s4, no murmurs
+LUNGS:  Diminished in bases
+ABDOMEN:  Soft, distended, non-tender
+EXT: Mild pedal edema lower ext. bil.
+
+Wound: abdominal, staples, mild erythema lower incision, no 
+exudate
+ 
+Pertinent Results:
+___ 05:30AM BLOOD Glucose-91 UreaN-17 Creat-0.7 Na-143 
+K-4.2 Cl-104 HCO3-37* AnGap-6*
+___ 06:00AM BLOOD Glucose-87 UreaN-23* Creat-0.9 Na-144 
+K-5.1 Cl-103 HCO3-37* AnGap-9
+___ 05:30AM BLOOD Calcium-7.7* Phos-2.0* Mg-2.1
+___ 06:00AM BLOOD Calcium-8.4 Phos-2.4* Mg-2.2
+___ 04:53PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 04:53PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 LEUK-SM 
+
+___ 06:10AM   SODIUM-140 POTASSIUM-4.9 CHLORIDE-97
+___ 06:22PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-4* PH-7.0 LEUK-TR
+___ 06:22PM URINE  ___ WBC-0 ___ YEAST-NONE 
+EPI-0
+___ 04:10PM   GLUCOSE-133* UREA N-22* CREAT-1.3* SODIUM-137 
+POTASSIUM-4.4 CHLORIDE-94* TOTAL CO2-38* ANION GAP-9
+___ 04:10PM   ALT(SGPT)-33 AST(SGOT)-23 TOT BILI-1.1
+___ 04:10PM   LIPASE-24
+___ 04:10PM   WBC-18.1* RBC-5.78 HGB-16.7 HCT-50.3 MCV-87 
+MCH-28.9 MCHC-33.2 RDW-13.7
+___ 04:10PM   NEUTS-92* BANDS-1 LYMPHS-4* MONOS-3 EOS-0 
+BASOS-0 ___ MYELOS-0
+___ 04:10PM   PLT SMR-NORMAL PLT COUNT-192
+___ 04:10PM   ___ PTT-28.0 ___
+
+___:  EKG
+
+Sinus tachycardia. Early R wave transition. Intraventricular 
+conduction 
+defect of the right bundle-branch block variety. No previous 
+tracing available for comparison
+
+___:
+
+URINE CULTURE (Final ___:    NO GROWTH
+
+ 
+Brief Hospital Course:
+  ___ year old gentleman who presented to the Acute Care Service 
+with abdominal pain.
+Upon admission, he was made NPO and intravenous fluids were 
+administered. A ___ tube and foley catheter were place. 
+After examination, he was reported to have a small bowel 
+obstruction related to a strangulated ventral hernia.
+  
+  He was taken to the operating room on ___ where he 
+underwent an exploratory laparotomy and repair of recurrent 
+ventral hernia.  He tolerated the procedure with minimal blood 
+loss.  His post-operative course has been stable.  His foley 
+catheter and ___ tube were discontinued on POD #2. He 
+is tolerating a regular diet. He has resumed his pre-operative 
+medications including a bowel regimen.  He is currently on 2 
+liters oxygen which he reports that he uses at home because of 
+his history of COPD.  He has had a borderline blood pressure for 
+which he has received additional intravenous fluid. His blood 
+pressure was borderline this morning, but when repeated was 
+normal and his metoprolol was resumed. His EKG done today showed 
+NSR.  He did move his bowels.
+
+  He is being discharged home today with ___ assistance. He has 
+been instructed to follow-up with his primary care provider in 
+the next ___ hours to review medications and discuss resuming 
+coumadin and monitoring of pt/INR.  He will also need to 
+follow-up with his Cardiologist, Dr. ___.  The Acute Care 
+Service will see him in 2 weeks.    
+ 
+Medications on Admission:
+Current Medications:
+Metoprolol XR 25 mg daily, diltiazem SR 240 mg daily, digoxin 
+250
+mcg daily, aspirin 81 mg daily, lasix 60 mg daily, xopenex 0.63
+mg INH QID, albuterol inhaler 2 puffs Q4H PRN SOB, spiriva 1
+capsule INH daily, symbicort 160/4.5 x 2 puffs INH BID, coumadin
+2 mg daily
+ 
+Discharge Medications:
+1. diltiazem HCl 120 mg Capsule, Sustained Release Sig: Two (2) 
+Capsule, Sustained Release PO DAILY (Daily).  
+2. digoxin 250 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. tiotropium bromide 18 mcg Capsule, w/Inhalation Device Sig: 
+One (1) Cap Inhalation DAILY (Daily).  
+4. metoprolol tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+5. acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q8H (every 
+8 hours): as needed for pain.  
+6. furosemide 40 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily).  
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation: hold for diarrhea.  
+9. polyethylene glycol 3350 17 gram/dose Powder Sig: One (1)  PO 
+DAILY (Daily).  
+10. albuterol sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1) inh Inhalation Q4H (every 4 hours).  
+11. miconazole nitrate 2 % Powder Sig: One (1) Appl Topical BID 
+(2 times a day) as needed for rash: apply to rash.
+Disp:*70 grams* Refills:*0*
+12. oxycodone 5 mg Tablet Sig: ___ Tablets PO every ___ hours as 
+needed for pain .
+Disp:*20 Tablet(s)* Refills:*0*
+13. Symbicort 160-4.5 mcg/Actuation HFA Aerosol Inhaler Sig: One 
+(1)  Inhalation bid ().  
+14. Coumadin 2 mg Tablet Sig: One (1) Tablet PO once a day: 
+monitor pt/INR.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+strangulated ventral hernia, small bowel obstruction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent
+Level of Consciousness: Alert and interactive
+Activity Status: Ambulatory - Independent
+
+ 
+Discharge Instructions:
+You are being discharged home after repair of your hernia.  The 
+following is a list of your discharge instructions:
+
+*you may shower
+*walking as tolerated
+*avoid heavy lifting
+*resume your home medications
+*resume your regular diet
+
+Please follow-up in the emergency room or with your primary care 
+provider if you experience the following:
+
+*chest pain
+*abdominal pain
+*abdominal distention
+*nausea/vomitting
+*red, yellow or green drainage from your incision
+*fever
+ 
+Followup Instructions:
+___

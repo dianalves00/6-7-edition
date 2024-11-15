@@ -1,0 +1,357 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Xanax / Tylenol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a a history of recent 
+pneumonia, CAD who presents with dyspnea. She lives in an 
+assisted living facility and she was increasingly short of 
+breath today. She reports shortness of breath at rest and feels 
+that she cannot speak in full sentences. She endorses orthopnea, 
+but usually sleeps on 2 pillows and this has not recently 
+changed. She endorses a non-productive cough today, but denies 
+fevers. Of note, she is s/p a course of levofloxacin for 
+pneumonia. She denies chest pain, nausea, vomiting, abdominal 
+pain, diaphoresis, leg swelling or calf tenderness. She denies 
+dysuria, urgency, frequency.  
+In the ED initial vitals were: HR 132 (rapid afib) BP 150/74 RR 
+28 99% Non-rebreather  
+- Labs were significant for WBC 10.3, Cr 1.9 (unknown baseline), 
+BNP 12337. Lactate 1.1.  
+UA: Leuk est moderate, blood negative, nitrite negative, WBC 7, 
+Bacteria few  
+- Patient was given Diltiazem 20 mg IV for rapid afib and 
+converted to sinus rhythm  
+Vitals prior to transfer were: 97.3 HR 74 136/75 19 95% RA  
+On the floor, she states she is "irritable." Dyspneic with mild 
+exertion.  
+
+ 
+Past Medical History:
+Bipolar d/o  
+H/O UTI  
+H/O AMS  
+CAD  
+CKD (baseline Cr unknown)  
+OA  
+Esophageal stricture  
+Hypertrophic cardiomyopathy  
+Peripheral vascular disease  
+Hypothyroidism  
+HLD  
+HTN  
+Osteoporosis  
+
+ 
+Social History:
+___
+Family History:
+No known family history of early cardiac disease
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals - 97.6 153/94 87 20 95% 2L  
+GENERAL: Somewhat irritable, seated at 30 degrees, speaking in 
+short sentences  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+dry mucous membranes  
+NECK: nontender supple neck, no LAD, JVD to mid neck  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: Bibasilar crackles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+DISCHARGE PHYSICAL EXAM:
+Vitals: T 98.1 BP 162/63 (140s-160s) HR 53 RR 18 O2 97% on 2LNC
+I/O: 540/480 since midnight; 1220/___ -830L yesterday
+weight: 86.6 (bed wt) <- 85.6 <- 86.8 or 85.6 <- 84.7 <- 88.2kg 
+<- 90.7
+tele: sinus rhythm without alarms, HR ___
+GENERAL: alert, dyspneic but speaking in full sentences  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+dry mucous membranes  
+NECK: nontender supple neck, no LAD, JVD wnl
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: crackles at bases bilaterally
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 09:00PM BLOOD WBC-10.3 RBC-3.58* Hgb-11.4* Hct-35.4* 
+MCV-99* MCH-32.0 MCHC-32.4 RDW-14.8 Plt ___
+___ 09:00PM BLOOD Neuts-74.6* Lymphs-17.3* Monos-5.5 
+Eos-2.3 Baso-0.2
+___ 09:00PM BLOOD ___ PTT-27.8 ___
+___ 09:00PM BLOOD Glucose-146* UreaN-31* Creat-1.9* Na-141 
+K-3.7 Cl-105 HCO3-26 AnGap-14
+___ 09:00PM BLOOD cTropnT-<0.01 ___
+___ 07:35AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 07:00AM BLOOD Calcium-9.3 Phos-4.3 Mg-1.9
+___ 09:13PM BLOOD Lactate-1.1
+
+PERTINENT LABS:
+___ 05:25AM BLOOD %HbA1c-5.7 eAG-117
+___ 07:35AM BLOOD Triglyc-103 HDL-35 CHOL/HD-3.2 LDLcalc-56
+___ 07:35AM BLOOD TSH-3.4
+
+DISCHARGE LABS:
+___ 05:25AM BLOOD WBC-10.4 RBC-3.76* Hgb-12.0 Hct-36.4 
+MCV-97 MCH-32.0 MCHC-33.0 RDW-14.8 Plt ___
+___ 05:25AM BLOOD ___ PTT-39.8* ___
+___ 05:25AM BLOOD Glucose-101* UreaN-38* Creat-2.0* Na-140 
+K-3.7 Cl-103 HCO3-28 AnGap-13
+___ 05:25AM BLOOD Calcium-8.8 Phos-3.6 Mg-2.1
+
+INR TREND:
+___ 09:00PM BLOOD ___ PTT-27.8 ___ coumadin 
+5mg
+___ 07:35AM BLOOD ___ PTT-28.5 ___ coumadin 
+5mg
+___ 05:25AM BLOOD ___ PTT-31.5 ___ coumadin 
+2mg
+___ 05:45AM BLOOD ___ PTT-35.2 ___ coumadin 
+held
+___ 05:35AM BLOOD ___ PTT-39.3* ___ coumadin 
+2mg
+___ 05:25AM BLOOD ___ PTT-39.8* ___ coumadin 
+1mg
+
+MICRO:
+___ 09:59PM URINE Color-Straw Appear-Clear Sp ___
+___ 09:59PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-MOD
+___ 09:59PM URINE RBC-0 WBC-7* Bacteri-FEW Yeast-NONE Epi-0
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+EMERGENCY WARD NEGATIVE
+___ URINE URINE CULTURE-FINAL EMERGENCY WARD 
+NEGATIVE
+___ BLOOD CULTURE Blood Culture, Routine-FINAL 
+EMERGENCY WARD NEGATIVE
+
+IMAGING: 
+ECHO ___:
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thicknesses 
+are normal. The left ventricular cavity size is normal. Overall 
+left ventricular systolic function is severely depressed (LVEF= 
+25 %) with global hypokinesis and regional inferior akinesis. 
+There is no ventricular septal defect. Right ventricular chamber 
+size is normal. with mild global free wall hypokinesis. The 
+aortic root is mildly dilated at the sinus level. The ascending 
+aorta is mildly dilated. The aortic arch is mildly dilated. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen. The 
+mitral valve leaflets are mildly thickened. Mild to moderate 
+(___) mitral regurgitation is seen. The tricuspid valve 
+leaflets are mildly thickened. There is moderate pulmonary 
+artery systolic hypertension. There is a trivial/physiologic 
+pericardial effusion. There are no echocardiographic signs of 
+tamponade.  
+ 
+CXR ___: IMPRESSION:  
+Cardiac failure with pulmonary edema and bilateral pleural 
+effusions.  
+ 
+EKG: Not obtained in ED, on floor in NSR with frequent PVCs
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of recent 
+pneumonia, CAD who presents with sudden onset of dyspnea, found 
+to have radiographic evidence of pulmonary edema and elevated 
+BNP consistent with new onset heart failure.  
+
+# Acute CHF with EF 25%: The most likely etiology of her dyspnea 
+is a CHF exacerbation vs. acute presentation given elevated JVD, 
+crackles on exam, and elevated BNP. The precipitant of CHF 
+exacerbation was unclear and unfortunately no records were 
+available in our system. She denies any new medications, 
+troponin was normal in the ED. No known valvular disease, though 
+again no records available in our system. Arrhythmia is high on 
+the differential, particularly as she presented in Afib with RVR 
+to the ED. Her history per nursing home notes is notable for 
+cardiomyopathy and her current presentation may be progression 
+of her underlying cardiac dysfunction. Differential also 
+includes an episode of severe hypertension, renal failure, 
+hyper/hypothyroidism, PVC induced cardiomyopathy or infectious 
+process (pneumonia, UTI). No evidence of pneumonia on CXR but 
+she did have UA concerning for UTI so was started on 
+ciprofloxacin but discontinued when culture returned negative. 
+Patient received lasix 20mg IV on ___, 40mg IV on ___, 40mg IV 
+on ___, 40mg IV lasix x 2 on ___ and switched to 40mg PO on 
+___. Attempts to contact her PCP were made several times but 
+there was no response. Records were requested but only the last 
+progress note from PCP was obtained. Per secretary at ___ 
+office, there were no records of any cardiac work up including 
+echocardiogram or catheterization. Her problem list includes ?MI 
+as well as cardiomyopathy. However, patient was not on any 
+cardiac meds on arrival. She had an echo which showed overall 
+left ventricular systolic function is severely depressed (LVEF= 
+25 %) with global hypokinesis and regional inferior akinesis, RV 
+mild global free wall hypokinesis, Mild to moderate (___) 
+mitral regurgitation, and moderate pulmonary artery systolic 
+hypertension. It was suggested that patient undergo ischemic 
+work up. However, patient declined and insisted on returning to 
+nursing home. She was started on atorvastatin 80mg and aspirin 
+81mg. She was intermittently hypertensive during admission to 
+160s so lisinopril was started at 10mg and uptitrated to 40mg 
+daily. She was started on metoprolol. She was discharged on 40mg 
+lasix PO daily. She should have daily weights checked and follow 
+a low sodium diet. She was admitted on oxygen but weaned off 
+before discharge.
+   
+# Afib with RVR: CHADS2 score= 3. Unclear if this was her first 
+episode. ___ have been precipitant of CHF as above vs 
+precipitated by CHF exacerbation. Broke with diltiazem in the 
+ED. The morning following admission, she went into a fib with 
+RVR into 130s-140s sustained with spikes into 170s. She was 
+started on metoprolol for rate control. She remained in normal 
+sinus rhythm with rates in the 50-60s during admission. She was 
+started on coumadin at a dose of 5mg and when INR increased to 
+INR now 2.2, decreased dose to 2mg daily. INR returned at 3.8 
+___ so held coumadin. Resumed 2mg on ___ and INR increased to 
+3.7 on ___ so decreased dose to 1mg daily going forward. She 
+should have frequent INR checks at ___ home to determine 
+appropriate dose. Continued aspirin 81mg.  
+
+# UTI: Patient presented with dirty UA but asymptomatic. She was 
+started on ciprofloxacin but culture returned negative so DCed 
+ciprofloxacin.
+ 
+# Hypothyroidism: Continued home levothyroxine, TSH wnl
+  
+# CAD: Continued home aspirin. Started on atorvastatin 80mg. BP 
+control with lisinopril and metoprolol.
+
+# Insomnia: Trazodone prn for sleep
+
+# Back pain: received tramadol as needed for pain  
+
+# Code: DNR/DNI  
+# Communication: Patient# Emergency Contact: Proxy name: ___ 
+___ ___ 
+Relationship: Son   - unable to reach during admission, left 
+multiple messages
+
+Transitional:
+- Patient started on 40mg po lasix daily, please monitor weights 
+daily
+- Patient started on lisinopril and uptitrated to 40mg daily for 
+BP control
+- Patient discharged on 75mg metoprolol succinate XL and 
+warfarin 1mg daily for Afib
+- Please check INR on ___ and adjust warfarin dose as 
+needed
+- Patient had new diagnoses of systolic heart failure with EF 
+25% of unclear etiology. It was suggested that she undergo 
+ischemic work up. However, patient declined and insisted on 
+returning to nursing home. She will follow up with cardiolgy as 
+an outpatient
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Enulose (lactulose) 10 gram/15 mL oral PRN 
+2. Levothyroxine Sodium 50 mcg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Bisacodyl 10 mg PO DAILY:PRN constipation 
+5. Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H:PRN 
+dyspnea 
+6. melatonin 3 mg oral PRN insomnia 
+7. TraZODone 25 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Bisacodyl 10 mg PO DAILY:PRN constipation 
+3. Levothyroxine Sodium 50 mcg PO DAILY 
+4. TraZODone 25 mg PO QHS:PRN insomnia 
+5. Atorvastatin 80 mg PO QPM 
+6. Lisinopril 40 mg PO DAILY 
+7. Senna 17.2 mg PO BID:PRN constipation 
+8. Warfarin 1 mg PO DAILY16 
+9. Enulose (lactulose) 10 gram/15 mL oral PRN 
+10. Ipratropium-Albuterol Inhalation Spray 1 INH IH Q6H:PRN 
+dyspnea 
+11. melatonin 3 mg oral PRN insomnia 
+12. Docusate Sodium (Liquid) 100 mg PO BID 
+13. Furosemide 40 mg PO DAILY 
+14. TraMADOL (Ultram) 25 mg PO Q6H:PRN pain 
+RX *tramadol 50 mg 0.5 (One half) tablet(s) by mouth every six 
+(6) hours prn Disp #*30 Tablet Refills:*0
+15. Metoprolol Succinate XL 75 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Acute systolic congestive heart failure
+Paroxysmal atrial fibrillation
+
+Secondary:
+HTN
+CKD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ for shortness of breath and found to 
+have acute congestive heart failure. Your breathing improved 
+with diuretic medication. Please continue to take your lasix and 
+weigh yourself every day and call you doctor if your weight 
+increases by more than 3 lbs or if your shortness of breath 
+worsens. The reason for your heart failure is not clear and you 
+declined further intervention as you wished to go home. Please 
+follow up with your new cardiologist as an outpatient.
+
+You were also noted to occasionally have a rapid irregular heart 
+rhythm so you were started on a medication to slow your heart 
+rate called metoprolol and a blood thinning medication called 
+warfarin to prevent strokes. You will need to have frequent 
+blood draws to check your INR, a marker of how the blood thinner 
+is working. 
+ 
+Followup Instructions:
+___

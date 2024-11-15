@@ -1,0 +1,534 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Wound drainage
+ 
+Major Surgical or Invasive Procedure:
+Lumbar Surgical Wound Irrigation & Debridement (___)
+
+ 
+History of Present Illness:
+HPI: ___ is an ___ male with history pertinent
+for T2DM and lumbar stenosis s/p L4-S1 laminectomy on ___ 
+who
+is now admitted for draining surgical wound. He has had ___
+coming to his residence to change dressings on his right great
+toe and back. For the past several days he has had increasing
+pain and soreness ___ his low back that is exacerbated by walking
+and standing. He finds relief with sitting or lying down. He
+denies any radiation of the pain and denies any numbness or
+tingling. He also denies having any bowel or bladder changes. He
+thinks his wound has been draining for the past several days as
+well. He denies experiencing any fevers, chills, nausea,
+vomiting, weakness, or shortness of breath. He does endorse some
+soreness ___ his right ankle.
+
+Of note, during his last admission he was found to have a 
+blister
+on the plantar surface of his right great toe. Since being
+discharged, he has been evaluated by Podiatry and Vascular
+Surgery and underwent right SFA and proximal peroneal stenting 
+on
+___. He was then prescribed Clopidogrel x30 days followed by
+lifelong ASA 81 mg and statin therapy. Mr. ___ is unsure if 
+he
+is currently taking Clopidogrel, however.  
+
+ 
+Past Medical History:
+PMH/PSH: 
+HLD
+T2DM
+HTN
+CORNEAL TRANSPLANT OS    
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL:
+====================
+Vitals: ___ 2239 Temp: 98.5 PO BP: 160/65 L Sitting HR: 90
+RR: 18 O2 sat: 98% O2 delivery: RA 
+___ ___ FSBG: 302 
+
+General: Elderly gentleman lying ___ bed on his right side ___ no
+acute distress, alert and oriented, answering questions
+appropriately, pleasant affect.
+Resp: Normal respiratory effort on room air.
+CV: Regular rate and rhythm by peripheral palpation.
+
+Right Lower Extremity:
+Gauze dressing removed. There is a large ulcerated wound on the
+plantar surface of the great toe. Skin is macerated and there is
+wet fibrinous exudate within the wound bed. Toe is tender to
+palpation. The foot/ankle is erythematous with some tenderness 
+to
+palpation. 
+
+Back: Midline lumbar incision has ~2 cm open area at superior
+margin with thick green fibrinous exudate, There are two smaller
+areas of dehiscence more inferiorly also with fibrinous green
+exudate. No palpable fluid collection, but thick fluid can be
+expressed from wound. ___ area is tender to
+palpation. 
+
+Sensory:
+___    
+     L2     L3      L4         L5        S1          S2
+   (Groin) (Knee) (Med Calf) (Grt Toe) (Sm Toe) (Post Thigh)
+R    SILT   SILT    SILT       SILT     SILT       SILT 
+L    SILT   SILT    SILT       SILT     SILT       SILT 
+
+Motor:
+___  Flex(L1) Add(L2) Quad(L3)  TA(L4) ___ ___
+R      5       5       5         5      5      5         5      
+L      5       5       5         5      5      5         5
+
+              
+Clonus: No beats
+
+DISCHARGE PHYSICAL:
+===================
+VITALS: 
+___ 0748 Temp: 98.1 PO BP: 151/63 HR: 85 RR: 18 O2 sat: 93%
+O2 delivery: Ra FSBG: 97  
+GENERAL: Lying ___ bed, ___ no acute distress.
+HEENT: NC/AT, PERRLA, cataract L eye, MMM missing teeth
+CARDIAC: RRR nl s1/s2, no mrg
+LUNGS: Bibasilar crackles, no w/r, good air movement
+BACK: No spinous process tenderness. C/d/I dressings on lower
+lumbar region. No surrounding erythema, induration, or
+tenderness. 
+ABDOMEN: S/ND/NT 
+EXTREMITIES: Pulses DP 2+ bilaterally. Bandaged R toe. ___ thin,
+appears deconditioned 
+SKIN: Warm, dry, intact
+NEUROLOGIC: CN2-12 grossly intact. Moving all extremities with
+purpose. Able to answer questions.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 01:11AM BLOOD WBC-8.4 RBC-3.20* Hgb-9.5* Hct-29.3* 
+MCV-92 MCH-29.7 MCHC-32.4 RDW-13.2 RDWSD-43.8 Plt ___
+___ 01:11AM BLOOD Neuts-63.7 Lymphs-16.9* Monos-10.9 
+Eos-6.5 Baso-0.4 Im ___ AbsNeut-5.34 AbsLymp-1.41 
+AbsMono-0.91* AbsEos-0.54 AbsBaso-0.03
+___ 01:11AM BLOOD ___ PTT-39.5* ___
+___ 01:11AM BLOOD Glucose-214* UreaN-23* Creat-1.3* Na-135 
+K-4.8 Cl-96 HCO3-26 AnGap-13
+___ 06:19AM BLOOD Glucose-166* UreaN-18 Creat-1.2 Na-140 
+K-4.9 Cl-102 HCO3-23 AnGap-15
+___ 01:11AM BLOOD AST-18 AlkPhos-124
+___ 01:11AM BLOOD Calcium-8.9 Phos-3.2 Mg-1.9
+___ 01:11AM BLOOD CRP-72.5*
+___ 06:19AM BLOOD CRP-57.8*
+___ 01:53AM BLOOD Type-ART Temp-37 pO2-50* pCO2-30* pH-7.36 
+calTCO2-18* Base XS--6
+
+MICRO:
+======
+___ 3:15 pm SWAB      LUMBAR WOUND DEEP. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+         This isolate is presumed to be resistant to clindamycin 
+based on
+         the detection of inducible resistance . 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------       R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+___ 3:15 pm SWAB      LUMBAR WOUND SUPERFICIAL. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Susceptibility testing performed on culture # ___ 
+___. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+   FUNGAL CULTURE (Preliminary): 
+      NO FUNGUS ISOLATED. 
+      A swab is not the optimal specimen for recovery of 
+mycobacteria or
+      filamentous fungi.  A negative result should be 
+interpreted with
+      caution.  Whenever possible tissue biopsy or aspirated 
+fluid should
+      be submitted. 
+
+___ 12:32 pm SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND SINGLY. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   RESPIRATORY CULTURE (Final ___:    NO GROWTH. 
+___ 11:08 am MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___:    No MRSA isolated. 
+
+IMAGING:
+========
+___ Toe Xray:
+uestionable new fracture of the medial aspect of the proximal 
+had of the
+distal phalanx is demonstrated, not clearly seen on previous 
+examination.  No
+associated soft tissue swelling is seen.  Overall there is 
+decreased bone
+density compared to previous examination from ___. 
+If concern for
+osteomyelitis is present, assessment with MRI is to be 
+considered.
+
+___ CTA Chest:
+1. No evidence of pulmonary embolism or aortic abnormality 
+although
+examination is somewhat limited by motion.
+2. Extensive areas of consolidation with associated moderate 
+right and small
+left pleural effusions.  Findings can represent multifocal 
+pneumonia versus
+asymmetric pulmonary edema.
+3. Moderate right, small left pleural effusions.
+ 
+CXR ___:
+The tip of the endotracheal tube projects at the level of the 
+clavicular
+heads.  A feeding tube extends to the stomach and the tip of an 
+esophageal
+probe projects over the GE junction.  The tip of a right 
+internal jugular
+central venous catheter projects over the cavoatrial junction.
+ 
+Unchanged opacifications are noted throughout the right lung and 
+left lung base consistent with multifocal pneumonia.  No 
+pneumothorax.  Small bilateral pleural effusions are also 
+suspected.  The size of the cardiac silhouette is unchanged.
+
+Renal US ___:
+1. No hydronephrosis.  Simple right renal cyst.
+2. Scant trace ascites incidentally noted ___ the pelvis.
+
+EEG ___:
+This is an abnormal video-EEG monitoring session because of
+diffuse background slowing and disorganization. This is 
+indicative of
+moderate to severe diffuse cerebral dysfunction, which is 
+nonspecific as to etiology. Common causes are infection, toxic 
+and metabolic abnormalities, and medication effects. There were 
+also rare generalized epileptiform discharges, which is 
+indicative of increased predispositions to generalized seizures. 
+This recording captured no pushbutton activations or 
+electrographic seizures. Compared to the prior day's recording, 
+there is mild improvement ___ the background activity and less 
+frequent generalized sharp wave discharges.
+
+CXR ___:
+Comparison to ___.  The patient is rotated.  Moderate 
+cardiomegaly persists.  Stable appearance of the lung 
+parenchymal changes.  No new opacities.  Stable position of the 
+right internal jugular vein catheter.
+
+DISCHARGE LABS:
+===============
+___ 05:39AM BLOOD WBC-15.0* RBC-2.93* Hgb-8.7* Hct-27.3* 
+MCV-93 MCH-29.7 MCHC-31.9* RDW-14.4 RDWSD-47.9* Plt ___
+___ 05:39AM BLOOD Glucose-172* UreaN-32* Creat-1.3* Na-139 
+K-4.4 Cl-101 HCO___ AnGap-___ year old man with a PMH of T2DM, lumbar stenosis s/p L4-S1 
+laminectomy ___ ___ who presented with dehisced surgical 
+wound s/p I&D and closure, wound swabs ___ growing MSSA on 
+antibiotics, course complicated by multifocal pneumonia and 
+respiratory and PEA arrest on ___, status post targeted 
+temperature management.
+
+ACUTE ISSUES:
+-------------
+# Laminectomy wound dehiscence & infection
+Patient presented with dehisced surgical wound from laminectomy, 
+underwent I&D and closure. Wound swabs grew MSSA, ID consulted 
+was ultimately coursed out for 6 weeks of cefepime and Flagyl 
+ending ___.
+
+# Hypoxemic respiratory failure
+# Multifocal pneumonia
+# Diffuse pulmonary edema
+Hospital course, complicated by hypoxemic respiratory failure, 
+respiratory arrest requiring intubation and PEA arrest requiring 
+resuscitation. He was extubated the next day and imaging showed 
+bilateral extensive infiltrates concerning for multifocal 
+pneumonia versus aspiration pneumonia/pneumonitis. He also has 
+significant pulmonary edema. Respiratory status improved 
+markedly with antibiotic therapy and auto diuresis coupled with 
+pharmacologic diuresis. He completed an 8 day course for 
+hospital-acquired pneumonia ending ___. He was on room air at 
+time of discharge breathing comfortably.
+
+# Cardiac Arrest
+Patient had respiratory arrest and PEA arrest on ___. He 
+received 8 minutes of chest compressions before ROSC. TTE showed 
+hypokinesis of the RCA territory, EF55%. He underwent targeted 
+temperature management, no focal neurologic deficits were noted 
+thereafter and no neuroimaging was pursued. Troponin peaked at 
+0.51. No acute ischemic EKG changes were ever noted. Thereafter 
+he was optimized medically.
+
+# T2DM
+# Hyperglycemia
+While on tube feeds at this blood sugar ranged from 200-400 
+despite significant insulin. After discontinuing tube feeds 
+course complicated by a couple episodes of minimally symptomatic 
+hypoglycemia ___ the ___, owing mostly to poor p.o. intake with 
+fluctuating appetite. He was discharged on home oral 
+anti-hyperglycemics but no insulin.
+
+# Wound on right great toe
+# PVD
+Recently (___) evaluated by podiatry and vascular surgery and 
+ultimately underwent right SFA and proximal peroneal stenting. 
+He does have a history of cellulitis and osteomyelitis. Notably 
+CHA ED and imaging concerning for erosions perhaps related to 
+osteomyelitis. Patient and family declined amputation and bone 
+biopsy as recommended by podiatry. He is undergoing long term IV 
+antibiotic treatment for MSSA infection of surgical wound as 
+above. He was discharged on Plavix and ___, with lifelong 
+aspirin thereafter. Wound recs as noted below.
+
+# Nutrition
+After arrest was aspirating, for a period of time was maintained 
+on tube feeds through ___. After passing further speech and 
+swallow test she was transitioned to p.o. Intake was poor but 
+adequate related more to disliking the hospital food.
+
+# Hypertension
+Presented ___ shock ___ setting of infection, cardiac arrest. Was 
+gradually restarted on home medications thereafter.
+
+# Anemia
+Postoperatively had blood loss, ultimately required 1 unit PRBC. 
+thereafter had gradual recovery of blood counts. Discharge 
+hemoglobin approximately 9.
+
+# ___
+Baseline creatinine 1.2, peaked at 3.7, downtrended with 
+diuresis, discharge Cr 1.3. 
+
+====================
+TRANSITIONAL ISSUES:
+====================
+
+#CODE: DNR, ok to intubate
+#CONTACT: ___. Phone number: ___ 
+
+[ ] Continue to monitor foot wound.
+[ ] Continue to monitor blood sugar and adjust insulin as needed
+[ ] Trend CBC for recovery of hemoglobin, resolution of WBC.
+[ ] Repeat urinalysis ___ 1 month.
+[ ] Assess volume status, consider the role of home diuretic.
+[ ] Plavix ends ___
+[ ] Antibiotics (Cefepime / Flagyl) end ___
+
+Discharge BUN/Cr: 32/1.3
+Discharge H/H: 8.7/___.3
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Doxazosin 2 mg PO HS 
+2. Gabapentin 100 mg PO QHS 
+3. MetFORMIN (Glucophage) 1000 mg PO BID 
+4. dorzolamide-timolol 22.3-6.8 mg/mL ophthalmic (eye) BID 
+5. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+6. PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP LEFT EYE DAILY 
+7. amLODIPine 5 mg PO DAILY 
+8. SITagliptin 50 mg oral DAILY 
+9. Atorvastatin 10 mg PO QPM 
+10. Ferrous Sulfate 325 mg PO DAILY 
+11. Melatin (melatonin) 3 mg oral QHS:PRN 
+12. Clopidogrel 75 mg PO DAILY 
+13. Aspirin 81 mg PO DAILY 
+14. Hydrochlorothiazide 25 mg PO DAILY 
+15. Cyanocobalamin 1000 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  CefePIME 1 g IV Q12H 
+RX *cefepime [Maxipime] 1 gram 1 g IV twice a day Disp #*60 Vial 
+Refills:*0 
+2.  Glargine 30 Units Bedtime
+Humalog 4 Units Breakfast
+Humalog 4 Units Lunch
+Humalog 4 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin 
+3.  MetroNIDAZOLE 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0 
+4.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+5.  amLODIPine 5 mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Clopidogrel 75 mg PO DAILY  
+8.  Cyanocobalamin 1000 mcg PO DAILY  
+9.  dorzolamide-timolol 22.3-6.8 mg/mL ophthalmic (eye) BID  
+10.  Doxazosin 2 mg PO HS  
+11.  Ferrous Sulfate 325 mg PO DAILY  
+12.  Gabapentin 100 mg PO QHS  
+13.  Hydrochlorothiazide 25 mg PO DAILY  
+14.  Melatin (melatonin) 3 mg oral QHS:PRN  
+15.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+16.  PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP LEFT EYE DAILY  
+
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Laminectomy wound dehiscence & infection
+Hypoxemic Respiratory Failure
+Multifocal pneumonia
+Acute Kidney Injury
+PEA Arrest
+Type II Diabetes
+SFA/Peroneal arterial insufficiency
+Protein Calorie Malnutrition
+Hypertension
+Toxic Metabolic Encephalopathy
+Anemia of Chronic Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at ___. 
+
+WHY DID YOU COME TO THE HOSPITAL?
+- You came to the hospital because the surgical wound on your 
+back had opened up.
+
+WHAT HAPPENED WHILE YOU WERE HERE?
+- You had surgery to correct the wound. You were also started on 
+antibiotics to treat the wound infection.
+
+- Your heart stopped ___ the hospital and you underwent 
+resuscitation to restart your heart.
+
+- You had a blood vessel ___ your leg that was very narrow so it 
+was opened with a stent.
+
+- You had a lung infection that we treated with antibiotics.
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL?
+- Please continue to take all of your medications as directed, 
+and follow up with all of your doctors. 
+
+Again, it was a pleasure taking care of you!
+
+Sincerely, 
+
+Your ___ Team
+ 
+Followup Instructions:
+___

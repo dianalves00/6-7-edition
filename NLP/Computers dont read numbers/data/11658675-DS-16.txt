@@ -1,0 +1,327 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+fish / Spiriva with HandiHaler / Lithium
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Blocked G tube 
+ 
+Major Surgical or Invasive Procedure:
+___ gastric-tube unclogging
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with PMH of MS, ___ and 
+aspiration presents with Gtube clogged since this AM.  Was 
+clogged 3d ago but successfully flushed. Patient believes 
+medication clogging Gtube is potassium capsule, which has caused 
+complications leading to hospitalization in the past.  Gtube was 
+originally placed due to hx of chronic aspiration pneumonia.  
+Pulmonary symptoms and infiltrates have improved dramatically 
+since Gtube placement.  Today, in ED, tried to unclog it with 
+pressure, soda, and a reamer, all unsuccessful. 
+Otherwise, patient is asymptomatic and has no other complaints.
+
+In the ED, VS: Temp: 98.4 HR: 84 BP: 122/72 Resp: 18 O(2)Sat: 
+95% RA.  Multiple attempts were made to flush the tube to the 
+point that abdomen became distended and patient became 
+uncomfortable with pain and bloating.  ___ was unable to replace 
+G-tube in the ED.  Procedure will be done tomorrow. Patient will 
+be admitted to the hospital for interventional radiology.
+
+On the floor, the patient is comfortable but still has abdominal 
+pain and distension from numerous attempts to flush the tube.  
+He denies nausea/vomiting or diarrhea.
+
+ROS: Denies fever, chills, night sweats, headache, visual 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, nausea, vomiting, 
+diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, 
+hematuria.  
+
+ 
+Past Medical History:
+MS  
+chronic back pain  
+s/p spinal fusion  
+depression  
+bipolar disorder  
+hypothyroidism  
+henia repair  
+multiple spinal compression fractures (thought to be secondary 
+to prednisone use)  
+COPD with 2L NC at home  
+OSA with CPAP at home  
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+non-contributory to ___ drain replacement  
+
+ 
+Physical Exam:
+Admission Physical Exam 
+Vitals: T97.2 BP134/63 HR74 RR20 O2sat 94(RA) 
+GENERAL: NAD, comfortable, appropriate.  
+HEENT: NC/AT, PERRL, EOMI, sclerae anicteric, OP clear 
+HEART: distant heart sounds, RRR, no MRG, nl S1 S2.  
+LUNGS: scattered expiratory wheezes diffusely, transmitted 
+upper airway noises; decreased bs at R base  
+ABDOMEN: hyperactive bowel sounds, obese, Soft/ND, no 
+tenderness; Gtube with small rim erythema, no purulence.  
+EXTREMITIES: WWP, no edema, very tender to palpation
+NEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength  
+
+___ throughout, sensation grossly intact throughout.  
+
+Discharge Physical Exam 
+GENERAL: NAD, comfortable, appropriate.  
+HEENT: NC/AT, PERRL, EOMI, sclerae anicteric, OP clear 
+HEART: distant heart sounds, RRR, no MRG, nl S1 S2.  
+LUNGS: scattered expiratory wheezes diffusely, transmitted 
+upper airway noises; decreased bs at R base  
+ABDOMEN: hyperactive bowel sounds, obese, Soft/ND, no 
+tenderness; Gtube with small rim erythema on surrounding skin 
+EXTREMITIES: WWP, no edema, very tender to palpation
+
+ 
+Pertinent Results:
+Admission Labs 
+___ 06:10AM BLOOD WBC-5.3 RBC-3.79* Hgb-10.8* Hct-33.1* 
+MCV-87 MCH-28.4 MCHC-32.5 RDW-16.0* Plt ___
+___ 06:53PM BLOOD WBC-5.8 RBC-3.90* Hgb-11.1* Hct-34.2* 
+MCV-88 MCH-28.4 MCHC-32.4 RDW-16.0* Plt ___
+___ 06:10AM BLOOD Plt ___
+___ 06:53PM BLOOD Plt ___
+___ 06:10AM BLOOD Calcium-9.4 Phos-4.2 Mg-2.1
+___ 06:56PM BLOOD Glucose-77 Na-138 K-3.7 Cl-97 calHCO3-30
+
+Discharge Labs 
+___ 06:10AM BLOOD WBC-5.3 RBC-3.79* Hgb-10.8* Hct-33.1* 
+MCV-87 MCH-28.4 MCHC-32.5 RDW-16.0* Plt ___
+___ 06:53PM BLOOD Neuts-60.5 Lymphs-17.3* Monos-5.7 
+Eos-16.0* Baso-0.5
+___ 06:10AM BLOOD Plt ___
+___ 06:10AM BLOOD ___ PTT-28.2 ___
+___ 06:10AM BLOOD Glucose-81 UreaN-8 Creat-0.6 Na-139 K-3.8 
+Cl-103 HCO3-30 AnGap-10
+___ 06:10AM BLOOD Calcium-9.4 Phos-4.2 Mg-2.1
+___ 06:56PM BLOOD Glucose-77 Na-138 K-3.7 Cl-97 calHCO3-30
+ 
+Brief Hospital Course:
+Primary reason for hospitalization:
+This is a ___ with h/o esophageal dysmotility, aspiration PNA, 
+G-tube (replaced ___ and ___, ___, COPD, and MS 
+who was admitted for a malfunctioning G-tube likely secondary to 
+clogged potassium capsule.
+
+Active diagnoses:
+#G-tube malfunction:  Likely secondary clogging by potassium 
+pills. The tube was replaced by ___. The patient's home 
+medications were converted to liquid form whenever possible 
+(please see medication list). Potassium solution was pursued by 
+case management and they were successful in gaining insurance 
+coverage for it.
+
+# COPD: Patient required 2L home oxygen, but when hit the floor 
+was 94% on RA.
+Continued on 2L home O2 with sats of 94% and above.  Continued 
+nebs as per home regimen.
+
+# Back pain: Secondary to chronic compression fractures and 
+falls.  While NPO before procedure received IV morphine.  After 
+tube was replaced, home pain regimen was restarted.
+
+# Chronic eosinophilic PNA vs. ___:  Suspected due to 
+chronic pulmonary infiltrates and chronic eosinophilia. 
+Continued azathioprine 150 mg qday (PO=IV), 
+but prednisione was held because conversion to 
+methylprednisolone resulted in too small a dose.
+
+# Hypothyroidism: Continued levothyroxine 25 mcg qday, which is 
+12.5 IV qday 
+
+# OSA: Continued home CPAP.  
+
+# Esophageal dysmotility: Continued Reglan 5 mg (PO=IV) QID
+
+# HLD: Held atorvastatin 10 mg hs while tube was clogged b/c no 
+IV form.
+
+# Depression: Held celexa 30 mg qday while tube was clogged b/c 
+no IV form.
+
+# Bipolar d/o: Held quetiapine 12.5 mg hs prn, trazodone 50 mg 
+hs prn while tube was clogged because no IV form.  
+
+# Osteopenia: Held home Ca + Vit D while tube was clogged b/c no 
+IV form.
+
+Transitional Issues:
+Patient's medications were coverted to liquid form whenever 
+possible.  He returns to ___ to resume his prior 
+regimen of medications and Jevity tube feeds.
+
+ 
+Medications on Admission:
+albuterol sulfate 90 mcg HFA Aerosol Inhaler 2 puffs as needed 
+for shortness of breath or wheezing (Prescribed by Other 
+Provider)      
+atorvastatin [Lipitor] 10 mg Tablet 1 Tablet(s) by G-tube at 
+bedtime       
+azathioprine [Imuran] 50 mg Tablet 3 Tablet(s) by G-tube once a 
+day (Prescribed by Other Provider)         
+citalopram [Celexa] 10 mg Tablet 3 Tablet(s) by G-tube once a 
+day (Prescribed by Other Provider)  ___  (liquid)      
+cyclobenzaprine [Flexeril] 10 mg Tablet 1 Tablet(s) by G-tube 
+twice a day (Prescribed by Other Provider)  ___
+nr fentanyl [Duragesic] 25 mcg/hour Patch 72 hr apply one patch 
+to skin every 72 hours (Prescribed by Other Provider)  
+___       
+gabapentin [Neurontin] 250 mg/5 mL Solution 800 mg by G-tube 
+three times a day (Prescribed by Other Provider) (liquid)       
+glatiramer [Copaxone] 20 mg Kit one subcutaneous injection 
+(20mg) once a day (Prescribed by Other Provider)  ___     
+  
+nr ipratropium-albuterol [DuoNeb] 0.5 mg-3 mg (2.5 mg base)/3 mL 
+Solution for Nebulization 
+1 nebulization treatment every six (6) hours (Prescribed by 
+Other Provider) 
+lactulose 10 gram/15 mL Solution 30 cc by G-tube once a day 
+(Prescribed by Other Provider)  
+levothyroxine 25 mcg Tablet 1 Tablet(s) by G-tube once a day 
+(Prescribed by Other Provider)  
+metoclopramide [Reglan] 5 mg Tablet 1 Tablet(s) by G-tube four 
+times a day (Prescribed by Other Provider) 
+nr morphine 10 mg/5 mL Solution 15 mg by G-tube 5 times per day 
+as needed for pain (Prescribed by Other Provider)   
+potassium chloride 20 mEq Packet 2 Packet(s) by G-tube once a 
+day (Prescribed by Other Provider)  ___  (liquid)     
+prednisone 1 mg Tablet 9 Tablet(s) by mouth once a day 
+quetiapine [Seroquel] 25 mg Tablet 0.5 (One half) Tablet(s) by 
+G-tube at bedtime (Prescribed by Other Provider)  (?suspension)
+trazodone 50 mg Tablet 1 Tablet(s) by G-tube at bedtime 
+(Prescribed by Other Provider)  
+nr zegrid OTC powder 40 mg by G-tube twice a day (Prescribed by 
+Other Provider)  ___
+. 
+[Tylenol] ___ mg Tablet 3 Tablet(s) by G-tube three times a day 
+(Prescribed by Other Provider) (liquid)  
+nr aspirin 81 mg Tablet, Chewable Tablet(s) by G-tube once a day 
+(Prescribed by Other Provider) 
+bisacodyl [Dulcolax] 10 mg Suppository 1 Suppository(s) rectally 
+once a day (Prescribed by Other Provider)  
+calcium carbonate 500 mg calcium (1,250 mg) Tablet 1250 mg by 
+G-tube once a day (Prescribed by Other Provider)  
+cholecalciferol (vitamin D3) [Vitamin D-3] 1,000 unit Tablet, 
+Chewable 1 Tablet(s) by G-tube once a day (Prescribed by Other 
+Provider)  ___
+docusate sodium [Colace] 60 mg/15 mL Syrup 100 mg(s) by mouth 
+twice a day (Prescribed by Other Provider)  ___
+sennosides [senna] 8.6 mg Tablet 1 Tablet(s) by G-tube twice a 
+day (Prescribed by Other Provider)  ___ (liquid)
+
+ 
+Discharge Medications:
+ 
+
+1. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+Two (2) puffs Inhalation every ___ hours as needed for shortness 
+of breath or wheezing.  
+2. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+3. azathioprine 50 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+4. citalopram 10 mg/5 mL Solution Sig: Three (3) solutions PO 
+DAILY (Daily).
+Disp:*450 mL* Refills:*2*
+5. cyclobenzaprine 10 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+6. fentanyl 25 mcg/hr Patch 72 hr Sig: One (1) Patch 72 hr 
+Transdermal Q72H (every 72 hours).  
+7. gabapentin 250 mg/5 mL Solution Sig: Sixteen (16) mL PO Q8H 
+(every 8 hours).
+Disp:*1500 mL* Refills:*2*
+8. glatiramer 20 mg Kit Sig: One (1) injection Subcutaneous once 
+a day.  
+9. ipratropium bromide 17 mcg/Actuation HFA Aerosol Inhaler Sig: 
+Two (2) Puff Inhalation QID (4 times a day).  
+10. lactulose 10 gram/15 mL Syrup Sig: Thirty (30) ML PO DAILY 
+(Daily).
+Disp:*1000 mL* Refills:*2*
+11. levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+12. metoclopramide 10 mg Tablet Sig: 0.5 Tablet PO QIDACHS (4 
+times a day (before meals and at bedtime)).  
+13. morphine concentrate 100 mg/5 mL (20 mg/mL) Solution Sig: 
+Fifteen (15) mg PO five times a day as needed for pain.
+Disp:*150 mL* Refills:*0*
+14. potassium chloride 20 % Liquid Sig: One (1) solution PO once 
+a day: Please give 40mEq in 15mL form.
+Disp:*30 packets* Refills:*2*
+15. prednisone 1 mg Tablet Sig: Nine (9) Tablet PO once a day. 
+Tablet(s) 
+16. quetiapine 25 mg Tablet Sig: 0.5 Tablet PO QHS (once a day 
+(at bedtime)).  
+17. trazodone 50 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for insomnia.  
+18. Zegerid ___ mg Packet Sig: One (1) packet PO twice a 
+day.
+Disp:*60 packets* Refills:*2*
+19. Tylenol ___ mg Tablet Sig: Three (3) Tablet PO three times a 
+day.  
+20. aspirin 81 mg Tablet, Effervescent Sig: One (1) Tablet, 
+Effervescent PO once a day.  
+21. bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+DAILY (Daily) as needed for constipation.  
+22. calcium carb&gluc-vitamin D2 500 mg calcium -200 unit Tablet 
+Sig: One (1) Tablet PO once a day.  
+23. Vitamin D-3 1,000 unit Tablet, Chewable Sig: One (1) Tablet, 
+Chewable PO once a day.  
+24. docusate sodium 60 mg/15 mL Syrup Sig: One Hundred (100) mg 
+PO twice a day.  
+25. Senna Concentrate 8.6 mg Tablet Sig: One (1) Tablet PO twice 
+a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+clogged G-tube
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure taking care of you at ___ 
+___.  You were admitted with a clogged Gtube.  In the 
+ED, they were unable to unclog it, so you were admitted to the 
+medicine service so the interventional radiology team could 
+unclog your tube.  You tube was subsequently successfully 
+unclogged.
+Please note the following changes have been made to your 
+medications:
+- Please change potassium from capsule form to liquid form
+ 
+Followup Instructions:
+___

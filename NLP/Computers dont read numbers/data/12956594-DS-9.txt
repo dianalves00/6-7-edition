@@ -1,0 +1,223 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamide Antibiotics) / Keflex / 
+Erythromycin Base / Tetanus
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain, Nausea, and Vomiting
+Diverticulitis
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Time of Encounter: 23:30pm ___
+
+___ female with history of diverticulitis and hypertension was 
+admitted with diverticulitis and inability to take oral intake. 
+
+She reports that she woke up ___ hours ago with abdominal 
+pain, nausea, and vomiting. She describes her abdominal pain as 
+the following: character is stabbing and like her previous 
+episode of diverticulitis, onset was sudden location is below 
+her umbilicus, duration has been intermittent, and worsened with 
+activity, movement, or sitting or standing for too long. She 
+presented to the ED on ___ at which time a CT abdomen 
+revealed sigmoid diverticulitis. She was eager to leave the 
+hospital and was tolerating oral intake; so she was discharged 
+to complete a course of cipro and flagyl. Since discharge from 
+the ED, she reports that she initially felt better however over 
+the last 12 hours, her symptoms worsened again with increasing 
+nausea, vomiting, and abdominal pain. 
+
+She does note however that she has not been feeling like herself 
+over the last one month. She went to ___ to visit her 
+mother and returned in early ___. Since then, she reports that 
+her bowel movements have been less regular and she has had daily 
+low grade fevers, night sweats, and subjective chills. 
+
+Upon presentation to the ED, temp 98.6, HR 89, BP 140/83, RR 20, 
+and pulse ox 99% on room air. Exam was notable for being tender 
+to palpation in LLQ with no rebound. Guiac exam was negative. 
+She spiked a temperature to 101.7 prior to leaving the ED. Labs 
+were notable for K 5.3 but were grossly hemolyzed. CT Abd/Pelvis 
+from ___ ED visit was notable for acute sigmoid 
+diverticulitis. She was given .5mg IV dilaudid x 2, zofran, 
+cipro, and tylenol. Flagyl was ordered but had not been given 
+yet. 
+
+Review of systems:  
+(+) Per HPI. abdominal pain, nausea, and vomiting  
+(-) Denies pain, fever, chills, night sweats, weight loss, 
+headache, sinus tenderness, rhinorrhea, congestion, cough, 
+shortness of breath, chest pain or tightness, palpitations, 
+constipation, change in bladder habits, dysuria, arthralgias, or 
+myalgias.
+ 
+Past Medical History:
+1. Benign Hypertension
+2. h/o Diverticulitis
+- unsure exactly when but on the order of ___ years ago
+3. s/p TAH in ___ for fibroids
+4. s/p CCY 
+5. s/p Appy
+ 
+Social History:
+___
+Family History:
+Mother - ___ problems, unsure if hypo or hyperthyroid
+Sister - ___ Cancer
+Brother - ___ Cancer 
+ 
+Physical Exam:
+T 99.6 / BP 126/83 / HR 88 / RR 18 / Pulse ox 99% on room air / 
+Weight 224.7 lbs
+Gen: NAD, resting comfortably in bed, speaking clearly, very 
+pleasant
+HEENT: Clear OP, MMM  
+NECK: Supple, No LAD, No JVD  
+CV: RR, NL rate. NL S1, S2. No murmurs, rubs or gallops  
+LUNGS: CTA, BS ___, No W/R/C  
+ABD: hyperactive bowel sounds, soft, tender in RLQ and LLQ with 
+no rebound or guarding 
+BACK: No CVA tenderness
+EXT: No edema. 2+ DP pulses ___  
+SKIN: No lesions  
+NEURO: A&Ox3. Appropriate. CN ___ grossly intact. ___ strength 
+throughout.  Normal coordination. Gait assessment deferred  
+PSYCH: Listens and responds to questions appropriately, pleasant 
+
+ 
+Pertinent Results:
+___ - grossly hemolyzed
+Na 134 / K 5.3 / Cl 99 / CO2 27 / BUN 13 / Cr 1 / BG 89
+ALT 21 / AST 48 / Alk Phos 51 / TB .7 / Alb 3.8 / Lipase 47
+WBC 5.6 / Hct 37.3 / Plt 316
+N 75 / L 17 / M 4 / E 4 / B 1
+
+___ 
+Urine UCG negative
+UA - yellow, clear, 1.022, pH 8, neg urobili, neg bili, neg 
+leuks, trace blood, neg nitr, 30 prot, neg gluc, neg ketones, 
+___ RBCs, ___ WBCs, few bacteria, no yeast, 0 epis
+Lactate 2.2
+
+MICROBIOLOGY:
+___ Blood Cx x 2 pending
+
+STUDIES:
+___ CT Abd/Pelvis - 
+1. Acute sigmoid diverticulitis, with small-to-moderate amount 
+of free fluid within the pelvis, without evidence of a drainable 
+fluid collection. 
+2. Hypodense masses within the right lobe of the liver and dome 
+could 
+represent early developing abscesses, though without 
+organization to be 
+drainable. These are incompletely characterized on this 
+monophasic study.  
+If clinically stable, follow-up with an MRI in ___ days should 
+be performed. 
+
+ 
+Brief Hospital Course:
+___ female with history of diverticulitis and hypertension was 
+admitted with sigmoid diverticulitis. 
+
+1. Sigmoid Diverticulitis 
+Patient's CT abd revealed acute sigmoid diverticulitis, which is 
+consistent with patient's history and exam. Her subacute 
+symptoms over the last month however are somewhat more puzzling. 
+Infection or malignancy are possible. 
+- continue IV cipro / flagyl
+- prn zofran for antiemetics and morphine for pain control
+- NPO with IVF
+- advance diet as tolerated
+- send stool studies 
+- follow-up blood cultures
+- would likely benefit from colonoscopy as an outpatient; she 
+reports having had two colonoscopies in the past but she cannot 
+remember why. 
+- check lactate in the AM
+
+2. Liver Lesions
+Etiology is unclear, would likely benefit from outpatient 
+follow-up. 
+- outpatient follow-up
+
+3. Benign Hypertension: Stable
+- continue beta blocker
+
+4. Obstructive Sleep Apnea: Stable
+- husband to bring CPAP on ___
+
+# FEN: NPO with IVF; replete electrolytes prn 
+# PPx: heparin SC
+# CODE: presumed FULL CODE
+# COMM: Patient; Husband ___ ___
+# ___: pending further improvement in pain and symptoms 
+
+Patient's PCP was contacted by email to alert him of admission. 
+
+In addition to the above summary per the primary medical team, 
+the patient was admitted to the surgical service for management 
+of her diverticulitis. She was kept NPO until her abdominal pain 
+was completely resolved at which point she was advanced to a 
+general diet. Her pain resolved, she was afebrile and she had no 
+leukocytosis throughout her admission, and so was discharged to 
+home with plan to follow up in the clinic to readdress her 
+surgical options, which were explained to the patient during her 
+admission. 
+
+In regards to her identified liver lesions, the patient had a CT 
+that showed two hypodense lesions. These were reexamined using 
+an MRI, which was determined to be consistent with hemangiomas, 
+and so they would not require acute management. 
+ 
+Medications on Admission:
+1. Atenolol 100mg PO daily
+ 
+Discharge Medications:
+1. Atenolol 50 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H (every 
+6 hours) as needed for pain, fever.  
+3. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours): take until prescription finished .
+___ Tablet(s)* Refills:*0*
+4. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day): take until prescription finished.
+___ Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+acute sigmoid diverticulitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please call or come to the Emergency Room if you experience 
+fever >101.5/chills, persistent abdominal pain, nausea, 
+vomiting, diarrhea, or any symptoms of acute concern. 
+
+ 
+Followup Instructions:
+___

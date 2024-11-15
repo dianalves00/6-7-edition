@@ -1,0 +1,252 @@
+ 
+Name:  ___         Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Atripla / Morphine / Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+thoracentesis
+
+ 
+History of Present Illness:
+___ y/o with HIV, Hep C cirrhosis c/w resistent ascites and right 
+hydrothorax s/p at least 6 thoracentesis presents with 
+reaccurent pleural effusions. She was recently admitted from 
+___ to ___ because of dyspnea. She underwent thoracentesis 
+___ and was progressively diuresed but limited by 
+hyponatremia. However complete resolution of the pleural 
+effusion was acheived with Na restriction, aldactone 100mg, 
+Lasix 20mg, and tolvaptan 15mg daily.
+.
+Since discharge, the patient stated that she initially was doing 
+well but began to notice slow weight gain.  She states that her 
+dry weight is 130-132 lb, and that on ___ she had noted her 
+weight to be 137-138 lb.  She states that along with this she 
+began to have worsening dyspnea on exertion with regular 
+activities around the house, coupled with the development of a 
+dry cough.  She also began to have worsened RUQ pain, especially 
+with cough.  This is consistent with the symptoms she states 
+that she usually develops with reaccumulation of hydrothorax.  
+She had good urine output until the weekend.  She states that 
+she has been compliant with all medications, and she states that 
+she has been compliant with her low-sodium diet.
+.
+On ___, she felt that her symptoms warranted medical 
+treatment and was seen at OSH, at which time an x-ray (per her 
+report) was consistent with reaccumulation of fluid.  She was 
+transferred to ___ for further management.
+.
+En route, she developed nausea and vomited x 1 which she 
+attributes to the ambulance ride.  On arrival to the floor, she 
+has no SOB at rest, and no continued nausea.
+.
+ROS: Denies fever, chills, headache, congestion, chest pain, 
+nausea, vomiting, diarrhea, constipation, dysuria.  See HPI.  
+All other systems negative.
+ 
+Past Medical History:
+# Hepatic hydrothorax, s/p thoracentesis x6 (most recent 
+___, complicated by hemothorax once requiring tube 
+thoracostomy  
+# HIV (CD4 475, VL ND ___  
+- diagnosed ___, presumed from IVDU versus sexual transmission 
+from husband, who was long-term IV drug user  
+- started ART due to elevated VL and low CD4 in setting of acute 
+
+illness, per patient not diagnosed with OI  
+# Hepatitis C cirrhosis (HCV VL 1,090,000 ___  
+- diagnosed ___  
+- complicated by ascites, encephalopathy, grade 1 varices, 
+hepatic hydrothorax, elevated AFP without focal liver lesions  
+- on transplant list  
+- has never had variceal bleed
+# h/o necrotizing fascitis ___ (complication of dog bite)
+# Pulmonary nodule, noted ___, 0.7cm
+ 
+Social History:
+___
+Family History:
+Her mother is currently alive and doing well but suffers from 
+high blood pressure and hyperlipidemia. The patient's father 
+reportedly died in ___ from ___ disease and had h/o MI. 
+ 
+ 
+Physical Exam:
+Vitals - T: 97.6 BP: 148/91 HR: 84 RR: 16 02 sat: 97% RA
+Weight: 64 kg (141 lb)
+GENERAL: NAD, AAOx3
+HEENT: NCAT, scleral icterus.  MMM.
+CARDIAC: RRR c ___ SM heard best @ LUSB.
+LUNG: Diminished R-sided breath sounds ___ of the way up.  
+Diminished breath sounds at L base.  Otherwise, no crackles or 
+wheezes noted.
+ABDOMEN: soft, distended, TTP @ RUQ without rebound, guarding, 
+or rigidity.
+EXT: WWP, 2+ pulses, no c/c/e
+NEURO: Grossly intact.
+ 
+Pertinent Results:
+-- discharge labs --
+___ 05:20AM BLOOD WBC-9.6 RBC-2.60* Hgb-9.4* Hct-29.4* 
+MCV-113* MCH-36.2* MCHC-32.0 RDW-22.0* Plt Ct-80*
+___ 05:20AM BLOOD ___
+___ 05:20AM BLOOD Glucose-112* UreaN-15 Creat-1.0 Na-133 
+K-4.1 Cl-99 HCO3-24 AnGap-14
+___ 04:15AM BLOOD ALT-69* AST-116* AlkPhos-219* 
+TotBili-8.6*
+___ 05:20AM BLOOD Calcium-7.7* Phos-2.5* Mg-2.2
+
+CXR ___: As compared to the previous examination, there is a 
+newly occurred extensive right-sided pleural effusion. The 
+effusion occupies more than half of the right hemithorax. The 
+effusion causes atelectasis of the right lung parenchyma and 
+deviation of the mediastinum to the left. 
+
+CXR ___: As compared to the previous radiograph, the 
+right-sided pleural 
+effusion distributes in a slightly different manner. The overall 
+extent of 
+effusion; however, does not appear to have substantially 
+changed.
+
+CXR ___: Right-sided effusion, with obscuration of the 
+hemidiaphragm and underlying collapse and/or consolidation, 
+grossly unchanged compared with ___.
+ 
+Brief Hospital Course:
+# R hydrothorax - Well-established complication of her 
+refractory ascites.  During her last hospitalization, the 
+patient's diuresis, previously limited by hyponatremia, was 
+started and discharged on tolvaptan, which, while in-house, had 
+successfully cleared her pleural effusion.  CXR ___ documented 
+resolution of hydrothorax.
+.
+Urine Na/K ratio of 0.3 on admission with spot urine Na of 17 
+indicates inadequate diuresis on home regimen, with or without 
+dietary compliance.  The patient's description of her diet 
+sounds as though it would be noncompliant but she states that it 
+is low sodium in content.
+.
+Patient received thoracentesis (~1.5 L removed) with resultant 
+symptomatic relief.  Diuretics regimen was uptirated to lasix 40 
+mg qday, aldactone 100 mg qAM, 50 mg qPM, tolvaptan 15 mg po 
+qday; she tolerated this well with stable Na (133-135, 129 on 
+admission) and no elevation in creatinine.  Repeat CXR ___, 
+___ showed mild improvement but no resolution of hydrothorax.  
+Given ongoing continued diuresis and relief of all shortness of 
+breath (including with ambulation), patient was discharged on 
+same regimen.
+.
+# HCV cirrhosis - on transplant list.  MELD 23 on discharge, 24 
+on admission.
+.
+# HIV - HIV VL not detected on ___.
+- continue on her home doses of Truvada and raltegravir
+.
+# malnutrition - continue on low Na, high calorie diet with 
+Ensure TID
+ 
+Medications on Admission:
+1. Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours): Please separate dose time from the calcium by 
+2 hours.  
+2. Clotrimazole 10 mg Troche Sig: One (1)  Mucous membrane five 
+times a day.  
+3. Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet 
+
+PO at bedtime.  
+4. Lactulose 10 gram/15 mL Syrup Sig: ___ MLs PO Q8H (every 8 
+hours): Please titrate to 3 bowel movements daily.  
+5. Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Raltegravir 400 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+
+a day).  
+7. Ascorbic Acid ___ mg Tablet Sig: Two (2) Tablet PO HS (at 
+bedtime).  
+8. Caltrate-600 Plus Vitamin D3 600-400 mg-unit Tablet Sig: One 
+(1) Tablet PO twice a day.  
+9. Furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+10. Tolvaptan 15 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+11. Spironolactone 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+ 
+Discharge Medications:
+1. Ciprofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours).  
+2. Clotrimazole 10 mg Troche Sig: One (1) Troche Mucous membrane 
+QID (4 times a day).  
+3. Emtricitabine-Tenofovir 200-300 mg Tablet Sig: One (1) Tablet 
+PO DAILY (Daily).  
+4. Lactulose 10 gram/15 mL Syrup Sig: ___ MLs PO TID (3 times 
+a day): Please titrate to 3 bowel movements a day.  
+5. Magnesium Oxide 400 mg Tablet Sig: One (1) Tablet PO once a 
+day.  
+6. Raltegravir 400 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+7. Ascorbic Acid ___ mg Tablet Sig: Two (2) Tablet PO QHS (once 
+a day (at bedtime)).  
+8. Caltrate-600 Plus Vitamin D3 600-400 mg-unit Tablet Sig: One 
+(1) Tablet PO twice a day.  
+9. Tolvaptan 15 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+10. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Spironolactone 100 mg Tablet Sig: One (1) Tablet PO QAM 
+(once a day (in the morning)).  
+12. Spironolactone 100 mg Tablet Sig: 0.5 Tablet PO QPM (once a 
+day (in the evening)).
+Disp:*15 Tablet(s)* Refills:*2*
+13. Outpatient Lab Work
+collect on ___
+CBC, Chem 7, LFTs, INR, ___. 
+dx: Cirrhosis
+Fax to Dr ___ ___
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+- Hydrothorax secondary to ascites
+- Cirrhosis secondry to hepatitis C virus
+
+ 
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Ambulatory - Independent
+
+ 
+Discharge Instructions:
+You were admitted to ___ with 
+accumulation of fluid around your right lung.  Fluid was drained 
+from this space with resultant improvement in your shortness of 
+breath. 
+
+Your diuretics regimen was increased in an effort to reduce the 
+rate of reaccumulation of fluid.  You diuresed well on this 
+regimen and will be continued on it as an outpatient.
+
+The following medications have been changed:
+INCREASED furosmide (lasix) to 40 mg once a day
+INCREASED spironolactone (aldactone) to 100 mg in the morning, 
+50 mg at night
+ 
+Followup Instructions:
+___

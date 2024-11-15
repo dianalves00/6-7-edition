@@ -1,0 +1,531 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+morphine / Lipitor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+respiratory distress
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old  with a past medical history of CHF, CAD, AFib on 
+lovenox, right colectomy ___, s/p end ileostomy take down on 
+___ complicated by enterocutaneous fistula formation, multiple 
+pelvic fluid collection s/p ___ drainage. He was seen in clinic 
+earlier today where he was noted to be in respiratory distress.  
+He was given 2 U PRBC over the weekend for anemia followed by a 
+CHF exacerbation requiring IV lasix at his rehab facility.  He 
+improved but did not completely wean off O2. He denies any chest 
+pain or shortness of breath. He was also confused and oriented 
+x1 in clinic.
+
+ 
+Past Medical History:
+PMH: CAD, CHF, afib on lovenox, HL, HTN
+PSH: appy, GB, R colectomy with colostomy, takedown 
+
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+Vitals: 98.1 64 110/54 18 94% 2L 
+Gen: No acute respiratory. A&O to self and year. 
+CV: Regular rate
+Lungs: Clear to ausculation bilaterally
+Abd: Soft. Non-distended. Non-tender to palpation. Midline 
+abdominal
+wound with healthy granulation tissue. Minimal bilious output 
+from
+drains.
+Ext: 1+ edema b/l
+
+ 
+Pertinent Results:
+___ 06:15AM BLOOD WBC-6.3 RBC-3.14* Hgb-9.7* Hct-31.5* 
+MCV-100* MCH-31.0 MCHC-30.9* RDW-17.3* Plt ___
+___ 05:50AM BLOOD WBC-6.2 RBC-3.51* Hgb-10.6* Hct-34.7* 
+MCV-99* MCH-30.1 MCHC-30.4* RDW-16.9* Plt ___
+___ 05:55AM BLOOD WBC-7.1 RBC-3.39* Hgb-10.3* Hct-32.7* 
+MCV-97 MCH-30.4 MCHC-31.5 RDW-16.9* Plt ___
+___ 06:20AM BLOOD WBC-7.7 RBC-3.55* Hgb-11.0* Hct-34.7* 
+MCV-98 MCH-30.8 MCHC-31.5 RDW-16.8* Plt ___
+___ 12:07PM BLOOD WBC-7.4 RBC-3.64* Hgb-11.0* Hct-35.5* 
+MCV-98 MCH-30.3 MCHC-31.1 RDW-16.5* Plt ___
+___ 05:26AM BLOOD WBC-6.4 RBC-3.31* Hgb-10.3* Hct-31.8* 
+MCV-96 MCH-31.0 MCHC-32.3 RDW-16.5* Plt ___
+___ 05:15PM BLOOD WBC-9.8 RBC-3.44* Hgb-10.6* Hct-33.4* 
+MCV-97 MCH-30.8 MCHC-31.8 RDW-16.4* Plt ___
+___ 05:15PM BLOOD Neuts-79.6* Lymphs-11.6* Monos-6.9 
+Eos-1.6 Baso-0.3
+___ 06:15AM BLOOD Plt ___
+___ 05:50AM BLOOD Plt ___
+___ 05:55AM BLOOD Plt ___
+___ 06:20AM BLOOD Plt ___
+___ 12:07PM BLOOD Plt ___
+___ 05:26AM BLOOD Plt ___
+___ 05:15PM BLOOD Plt ___
+___ 11:20AM BLOOD Glucose-114* UreaN-21* Creat-1.0 Na-138 
+K-4.1 Cl-101 HCO3-29 AnGap-12
+___ 07:10AM BLOOD Glucose-100 UreaN-24* Creat-1.0 Na-142 
+K-4.4 Cl-105 HCO3-29 AnGap-12
+___ 12:40PM BLOOD Glucose-99 UreaN-25* Creat-1.0 Na-145 
+K-3.9 Cl-107 HCO3-30 AnGap-12
+___ 05:00PM BLOOD Glucose-98 UreaN-25* Creat-1.1 Na-148* 
+K-3.9 Cl-112* HCO3-29 AnGap-11
+___ 06:10AM BLOOD Glucose-110* UreaN-25* Creat-1.0 Na-152* 
+K-4.4 Cl-116* HCO3-28 AnGap-12
+___ 09:46PM BLOOD Glucose-108* UreaN-25* Creat-1.0 Na-152* 
+K-4.2 Cl-118* HCO3-28 AnGap-10
+___ 06:15AM BLOOD Glucose-122* UreaN-25* Creat-1.1 Na-154* 
+K-3.8 Cl-119* HCO3-27 AnGap-12
+___ 05:50AM BLOOD Glucose-121* UreaN-25* Creat-1.1 Na-149* 
+K-3.9 Cl-116* HCO3-25 AnGap-12
+___ 05:55AM BLOOD Glucose-101* UreaN-25* Creat-1.1 Na-149* 
+K-3.7 Cl-115* HCO3-27 AnGap-11
+___ 06:20AM BLOOD Glucose-137* UreaN-25* Creat-1.0 Na-146* 
+K-3.4 Cl-112* HCO3-27 AnGap-10
+___ 06:20AM BLOOD Glucose-93 UreaN-23* Creat-1.0 Na-150* 
+K-3.7 Cl-115* HCO3-26 AnGap-13
+___ 12:07PM BLOOD Glucose-141* UreaN-27* Creat-1.1 Na-153* 
+K-3.1* Cl-112* HCO3-30 AnGap-14
+___ 05:26AM BLOOD Glucose-80 UreaN-25* Creat-1.0 Na-150* 
+K-3.3 Cl-110* HCO3-29 AnGap-14
+___ 05:26AM BLOOD Glucose-80 UreaN-25* Creat-1.0 Na-150* 
+K-3.3 Cl-110* HCO3-29 AnGap-14
+___ 05:15PM BLOOD Glucose-109* UreaN-32* Creat-0.9 Na-146* 
+K-4.7 Cl-106 HCO3-30 AnGap-15
+___ 05:55AM BLOOD ALT-9 AST-15 AlkPhos-86 TotBili-0.4
+___ 05:15PM BLOOD ALT-13 AST-37 AlkPhos-118 TotBili-0.5
+___ 06:20AM BLOOD ___ 01:20AM BLOOD cTropnT-0.04*
+___ 05:15PM BLOOD cTropnT-0.04*
+___ 11:20AM BLOOD Calcium-8.6 Phos-3.0 Mg-1.8
+___ 07:10AM BLOOD Calcium-8.5 Phos-3.2 Mg-2.2
+___ 12:40PM BLOOD Calcium-8.7 Phos-3.0 Mg-1.6
+___ 06:10AM BLOOD Calcium-8.6 Phos-2.8 Mg-1.8
+___ 05:50AM BLOOD Calcium-8.8 Phos-3.1 Mg-1.8
+___ 05:55AM BLOOD Albumin-2.6* Calcium-8.7 Phos-2.8 Mg-1.8
+___ 06:20AM BLOOD Calcium-8.7 Phos-2.8 Mg-2.1
+___ 12:07PM BLOOD Calcium-8.9 Phos-2.2* Mg-1.8
+___ 05:26AM BLOOD Calcium-8.9 Phos-3.4 Mg-1.9
+___ 05:15PM BLOOD Albumin-2.9*
+___ 03:15PM BLOOD VitB12-324 Folate-16.0
+___ 03:15PM BLOOD TSH-3.1
+
+EXAMINATION:  BILAT LOWER EXT VEINS 
+  
+INDICATION:  ___ year old man with b/l lower extremity swelling, 
+h/o Afib and 
+resp distress  // Please rule out DVT 
+  
+TECHNIQUE:  Grey scale, color, and spectral Doppler evaluation 
+was performed 
+on the bilateral lower extremity veins. 
+  
+COMPARISON:  Bilateral lower extremity vein US ___ 
+  
+FINDINGS:  
+  
+There is normal compressibility, flow and augmentation of the 
+bilateral common 
+femoral, superficial femoral, and popliteal veins. Normal color 
+flow and 
+compressibility are demonstrated in the posterior tibial and 
+peroneal veins. 
+  
+There is normal respiratory variation in the common femoral 
+veins bilaterally. 
+  
+No evidence of medial popliteal fossa (___) cyst. 
+  
+IMPRESSION:  
+  
+No evidence of deep venous thrombosis in the bilateral lower 
+extremity veins. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+EXAMINATION:  CT HEAD W/O CONTRAST 
+  
+INDICATION:  ___ with history of CHF, CAD, AFib on Coumadin, R 
+colectomy 
+(___) an s/p end ileostomy take down (___) c/b EC fistula, 
+multiple pelvic 
+fluid collection s/p ___ drainage now presents with respiratory 
+distress  and 
+altered mental status. 
+  
+TECHNIQUE:  Contiguous axial MDCT images were obtained through 
+the brain 
+without the administration of IV contrast.  Reformatted coronal, 
+sagittal and 
+thin section bone algorithm-reconstructed images were then 
+generated. 
+  
+DOSE:  CTDIvol: ___ MGy 
+DLP: 915 mGy-cm 
+  
+COMPARISON:  Noncontrast head CT from ___. 
+  
+FINDINGS:  
+  
+There is no evidence of acute intracranial hemorrhage, edema, 
+mass effect, or 
+large territorial infarction. 
+  
+Age-related cerebral atrophy is again seen. There is 
+extensivesubcortical, 
+deep, and periventricular white matter hypodensities, which are 
+most likely 
+sequela of chronic small vessel ischemic disease.  Chronic 
+lacunar infarcts 
+are seen in bilateral basal ganglia. 
+  
+The basal cisterns appear patent and there is preservation of 
+gray-white 
+matter differentiation. 
+  
+The visualized bony structures are grossly unremarkable. 
+  
+A mucous retention cyst is seen in the right maxillary sinus. 
+The other 
+paranasal sinuses, mastoid air cells, and middle ear cavities 
+are clear.  The 
+globes are unremarkable. 
+  
+IMPRESSION:  
+  
+No acute hemorrhage, mass effect, or large territorial 
+infarction.  If 
+continued clinical concern, MRI is recommended for further 
+evaluation of acute 
+infarct. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+
+INDICATION:  Atrial fibrillation on coumadin status post right 
+colectomy in 
+___ and recent end ileostomy takedown complicated by an 
+enterocutaneous 
+fistula and multiple pelvic fluid collections. Patient now 
+presents 
+respiratory distress. Evaluate for leak and or strictures. 
+  
+TECHNIQUE:  MDCT axial images were acquired through the abdomen 
+and pelvis 
+without the administration of intravenous contrast. Coronal and 
+sagittal 
+reformations were provided and reviewed. Gastrografin as oral 
+contrast was 
+administered.  Images through the pelvis were repeated 2 
+additional times to 
+allow contrast to pass through the anastomosis. 
+  
+DOSE:  DLP: 2310.89 mGy-cm 
+  
+COMPARISON:  Chest CTA ___bdomen and 
+pelvis ___. 
+  
+FINDINGS:  
+  
+Small bilateral pleural effusions are smaller from 4 days prior. 
+ There is 
+persistent overlying atelectasis. The included portion the heart 
+is mildly 
+enlarged and shows no pericardial effusion. Focal coronary 
+artery 
+calcifications and aortic valve calcifications are mild. 
+  
+Evaluation of the intra-abdominal organs is limited by the lack 
+of intravenous 
+contrast. Within this limitation, the liver, spleen, pancreas 
+and adrenal 
+glands are unremarkable.  The gallbladder surgically absent. The 
+kidneys show 
+no hydronephrosis or nephrolithiasis.  A hypodensity in the 
+posterior left 
+kidney is incompletely evaluated but appears unchanged from ___ and 
+is presumably a simple cyst.  The aorta is normal caliber. 
+  
+An NG tube terminates in the fundus of the stomach. With repeat 
+imaging, oral 
+contrast progresses distal to the ileocolonic anastomosis.  
+There is no 
+extraluminal contrast to indicate a leak.  There may be a small 
+enteroenteric 
+fistula (04:59).  A pigtail catheter is seen within an anterior 
+abdominal 
+fluid collection which now measures 5.3 x 3.7 x 1.8 cm, 
+unchanged from ___.  The catheter appears separate from the bulk of 
+the remaining 
+collection.  There has been near resolution of the pelvic fluid 
+collection 
+with the pigtail drain remaining in situ.  Smaller abdominal 
+fluid collections 
+persist but are unchanged (i.e. 2:60). There is no evidence of 
+an EC fistula.  
+There is a large ventral hernia with loops of nonobstructed 
+bowel. A small 
+amount of abdominal free fluid is present but unchanged in 
+volume. 
+  
+The bladder is collapsed. This Foley balloon appears to be 
+inflated within the 
+prostate and should be repositioned. There is a small, air 
+filled bladder 
+diverticulum (2:71). The rectum is unremarkable. There is no 
+free pelvic 
+fluid. There is no inguinal lymphadenopathy. 
+  
+There are no lytic or blastic osseous lesions in the abdomen or 
+pelvis.  
+Severe to moderate degenerative changes of the lower lumbar 
+spine are again 
+noted.  The bones are demineralized. 
+  
+IMPRESSION:  
+  
+1. Unchanged size of the anterior abdominal fluid collection 
+from ___ with a pigtail catheter slightly removed from the bulk of 
+the remaining 
+fluid. 
+2.  Near resolution of the pelvic fluid collection, this 
+catheter can likely 
+be removed. 
+3. No evidence of leak or EC fistula. 
+4. Decrease in size of bilateral pleural effusions from 4 days 
+prior, now 
+small. 
+5. Foley catheter balloon appears to be inflated within the 
+prostate and 
+should be repositioned. 
+  
+The study and the report were reviewed by the staff radiologist. 
+
+  
+
+ 
+Brief Hospital Course:
+The patient presented to the clinic on ___ and was noted to 
+be in respiratory distress. and admitted to the ED for further 
+management, then transferred to the ward for observation. 
+Neuro: The patient throughout his course remained confused. A 
+___ obtained ___ showed evidence of diffuse atrophy, diffuse 
+white matter small vessel disease and bilateral chronic lacunar 
+infarcts. His exam was notable for disorientation and 
+inattention. Also noted is L>R weakness and a slight flattening 
+of the left nasal labial fold. Per neurology, given the lacunar 
+infarcts seen on ___ and prior MRI, it is likely that the 
+deficits found are related to a prior stroke(s) and may be more 
+apparent with recrudencence in the setting of his acute illness. 
+The strokes would not be expected to cause any change in mental 
+status. However the patient's diffuse white matter disease and 
+atrophy indicate a poor substrate and a predisposition to 
+delirium in the setting of infection and/or other toxic 
+metabolic insults, which appears to be the most likely cause of 
+his current state. Further recommendations are no acute 
+indication for further imaging of the brain as his current 
+deficits can be correlated with prior strokes seen on CT. In 
+addition, avoiding sedating, mind altering medications and 
+disruptions of sleep wake cycle
+CV: The patient has a history of atrial fibrillation currently 
+managed with lovenox ginve his previous upper GI bleeding on 
+POD3 after his colostom take down. During his current hospital 
+course he presented with asymptomatic nonsustained ventricular 
+tachycardia. He was managed with beta blockade (metoprolol 5mg 
+IVq6h and switched to metoprolol 12.5 mg q8h) after the 
+cardiology service was consulted. Per cardiology, the meotprolol 
+dose needs to be tritated up to achieve a HR goal of 60-80. 
+Then, the metoprolol can be converted to long acting. Patient 
+will be seen by Dr. ___ on ___ at ___.
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint. He was started on diuresis with lasix 40 mg IV daily 
+and wean off to 20 mg IV daily. Currently, he has been switched 
+to torsemide 10 mg PO daily.  
+GI/GU/FEN: The patient was initially kept NPO and Promote w/ 
+Fiber @ 80 mL/hr
+___ kcals, 119g protein). He was evaluated by speech therapy 
+at the bed side and reassessed with a video swallow on  ___ which demonstrated no perforations. He was initiated on a 
+puree thin liquid diet, which was well tolerated. In addition, 
+on ___ he started complaining of liquid stools. A new 
+C. diff test was sent off which was negative. Banana flakes were 
+added as a nutrition supplementation following the nutritionist 
+recommendations. Please monitor daily lytes, to mantain a K>4.0 
+and Mg>2.0.
+ID: The patient's fever curves were closely watched for signs of 
+infection. The patient presented with an acute urinary tract 
+infection which is being treated with Linezolid (___). 
+HEME: The patient's blood counts were closely watched for signs 
+of bleeding, of which there were none. He underwnt a bilateral 
+doppler to rule out a clot, which there were none. In addition, 
+he was kept on lovenox 80mg BID during the hospital course and 
+plan is to bridge back to his home dose of coumadin. INR must be 
+watch daily and lovenox needs to be discontinued once INR is 
+therapuetic.
+
+At the time of discharge, the patient was doing well, afebrile 
+and hemodynamically stable. The patient received discharge 
+teaching and follow-up instructions with understanding 
+verbalized and agreement with the discharge plan.
+
+ 
+Medications on Admission:
+Lopressor IV 5q6, Vasotec IV 1.25q6, lovenox SQ 40'',
+protonix IV 40'', lasix IV 20', flagyl IV 500'''
+
+ 
+Discharge Medications:
+1. Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using REG Insulin
+2. Linezolid ___ mg IV Q12H UTI 
+3. Lisinopril 5 mg PO DAILY 
+4. Metoprolol Tartrate 12.5 mg PO TID 
+5. Pantoprazole 40 mg PO Q12H 
+6. Rosuvastatin Calcium 40 mg PO DAILY 
+7. Torsemide 10 mg PO DAILY 
+8. Enoxaparin Sodium 80 mg SC Q12H 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+Lovenox to coumading bridge. DC once INR is therapeutic 
+9. Warfarin 4 mg PO DAILY16 
+Patient in lovenox to coumadin bridge. Please check INR daily 
+and DC lovenox once INR is therapeutic 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. respiratory distress now resolved
+2. non sustained ventricular tachycardia now resolved
+3. status post end ileostomy take down (___) complicated by 
+upper gastrointestinal bleeding, enterocutaneous fistula & 
+multiple pelvic fluid collection status post ___ drainage
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Please ___ your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. ___ or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon.
+
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+
+Incision Care:
+*Please ___ your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water. Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own. 
+Please remove any remaining strips ___ days after surgery.
+
+JP Drain Care:
+*Please look at the site every day for signs of infection 
+(increased redness or pain, swelling, odor, yellow or bloody 
+discharge, warm to touch, fever).
+*Maintain suction of the bulb.
+*Note color, consistency, and amount of fluid in the drain. ___ 
+the doctor, ___, or ___ nurse if the amount 
+increases significantly or changes in character.
+*Be sure to empty the drain frequently. Record the output, if 
+instructed to do so.
+*You may shower; wash the area gently with warm, soapy water.
+*Keep the insertion site clean and dry otherwise.
+*Avoid swimming, baths, hot tubs; do not submerge yourself in 
+water.
+*Make sure to keep the drain attached securely to your body to 
+prevent pulling or dislocation.
+
+General Drain Care:
+*Please look at the site every day for signs of infection 
+(increased redness or pain, swelling, odor, yellow or bloody 
+discharge, warm to touch, fever).
+*If the drain is connected to a collection container, please 
+note color, consistency, and amount of fluid in the drain. ___ 
+the doctor, ___, or ___ nurse if the amount 
+increases significantly or changes in character. Be sure to 
+empty the drain frequently. Record the output, if instructed to 
+do so.
+*Wash the area gently with warm, soapy water.
+*Keep the insertion site clean and dry otherwise.
+*Avoid swimming, baths, hot tubs; do not submerge yourself in 
+water.
+*Make sure to keep the drain attached securely to your body to 
+prevent pulling or dislocation.
+
+PICC Line:
+*Please monitor the site regularly, and ___ your MD, nurse 
+practitioner, or ___ Nurse if you notice redness, swelling, 
+tenderness or pain, drainage or bleeding at the insertion site.
+* ___ your MD or proceed to the Emergency Room immediately if 
+the PICC Line tubing becomes damaged or punctured, or if the 
+line is pulled out partially or completely. 
+DO NOT USE THE PICC LINE IN THESE CIRCUMSTANCES.  Please keep 
+the dressing clean and dry. Contact your ___ Nurse if the 
+dressing comes undone or is significantly soiled for further 
+instructions.
+
+ 
+Followup Instructions:
+___

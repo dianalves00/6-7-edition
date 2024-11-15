@@ -1,0 +1,407 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+arthritis
+ 
+Major Surgical or Invasive Procedure:
+arthrocentesis of left knee
+
+ 
+History of Present Illness:
+___ woman with history of diabetes, hypertension, and 
+osteoarthritis presenting with one month of progressive knee, 
+ankle and hip pain. The pain began in the right knee then 
+migrated to other joints. Currently, the pain is most severe in 
+the right ankle and hip. The patient tried Aleve and Vicodin, 
+then ibuprofen and Vidodin, without relief. The patient 
+underwent steroid injection of the knee in orthopedics clinic on 
+___, which provided some transient relief. The patient was 
+sent in to the hospital by her primary care doctor for further 
+management of her pain.  
+.  
+In the ED, initial vs were: T 97.6 P 85 BP 120/56 R 16 O2 sat 
+100%/RA. Labs were drawn but no medications were given.  
+.  
+On the floor, the patient was without pain at rest but noted 
+severe lower extremity pain with movement. She denied other 
+complaints.  
+.  
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats. Denies headache, 
+dizziness, or lightheadedness. Denies cough, shortness of 
+breath. Denied chest pain or tightness. Denied nausea, vomiting, 
+diarrhea, constipation or abdominal pain. No recent change in 
+bowel or bladder habits. No dysuria. No focal weakness, 
+tingling, numbness, visual changes, difficulty speaking or 
+swallowing, or bowel/bladder incontinence.
+ 
+Past Medical History:
+arthritis  
+DM2  
+hyperlipidemia  
+macular degeneration  
+s/p appendectomy at age ___ or ___  
+G7P4
+ 
+Social History:
+___
+Family History:
+Has family history of arthritis but unsure what type. 
+ 
+Physical Exam:
+Vitals: T 97.7: BP 118/83: P 78: R 20: O2 100%/RA:  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: Supple, no tenderness to palpation of spinous processes  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused. ___ bilateral ankle edema. 2+ distal 
+pulses.  
+Musculoskeletal: Full ROM with no pain throughout upper 
+extremities.  
+-Right hip: Flexion limited to 70 degrees. Not painful with 
+logroll but very tender with internal/external rotation.  
+-Left hip: Flexion limited to 90 degrees. No pain with passive 
+ROM.  
+-Knees: No effusion. Full extension. Flexion limited to 90 
+degrees by pain. Mildly tender bilaterally to palpation along 
+joint line.  
+-Ankles: Very tender in joint line anteriorly. Pain with ROM.  
+Neuro: A+Ox3. CN II-XII intact. Strength ___ throughout upper 
+extremities. Strength testing limited by pain in lower 
+extremities but at least ___ throughout. Sensation intact to 
+light touch in feet.
+ 
+Pertinent Results:
+Admission labs:
+___ 01:30PM BLOOD WBC-13.5* RBC-3.23* Hgb-9.1* Hct-28.0* 
+MCV-87 MCH-28.3 MCHC-32.7 RDW-13.6 Plt ___
+___ 01:30PM BLOOD Neuts-81.5* Lymphs-15.0* Monos-2.8 
+Eos-0.4 Baso-0.3
+___ 07:20AM BLOOD ___ PTT-25.4 ___
+___ 01:30PM BLOOD Glucose-138* UreaN-23* Creat-1.2* Na-129* 
+K-5.6* Cl-99 HCO3-19* AnGap-17
+___ 06:25AM BLOOD ALT-20 AST-18 LD(LDH)-146 AlkPhos-44 
+TotBili-0.2
+___ 07:20AM BLOOD CK(CPK)-416* AlkPhos-49
+___ 01:30PM BLOOD CK(CPK)-485*
+___ 07:20AM BLOOD TotProt-6.5 Calcium-9.8 Phos-5.1* Mg-1.7 
+UricAcd-3.4 Iron-18*
+___ 01:30PM BLOOD ESR-103*
+___ 07:20AM BLOOD calTIBC-352 VitB12-276 Folate-10.5 
+Ferritn-133 TRF-271
+___ 07:20AM BLOOD TSH-4.5*
+___ 04:40PM BLOOD Free T4-0.99
+___ 09:10AM BLOOD PTH-67*
+___ 06:25AM BLOOD Cortsol-25.1*
+___ 07:20AM BLOOD ___
+___ 07:20AM BLOOD RheuFac-10
+___ 07:20AM BLOOD PEP-AWAITING F IgG-516* IgA-84 IgM-28* 
+IFE-PND
+___ 07:20AM BLOOD CYCLIC CITRULLINATED PEPTIDE (CCP) 
+ANTIBODY, IGG-PND
+___ 06:25AM BLOOD Osmolal-274*
+.
+Discharge labs:
+___ 07:30AM BLOOD WBC-12.1* RBC-2.77* Hgb-8.1* Hct-23.8* 
+MCV-86 MCH-29.1 MCHC-33.9 RDW-13.7 Plt ___
+___ 07:30AM BLOOD ___ PTT-26.0 ___
+___ 07:30AM BLOOD Glucose-154* UreaN-27* Creat-1.1 Na-126* 
+K-4.8 Cl-92* HCO3-21* AnGap-18
+___ 07:30AM BLOOD Calcium-9.3 Phos-4.5 Mg-2.0
+.
+Urine studies:
+___ 07:08PM URINE Color-Straw Appear-Clear Sp ___
+___ 07:08PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-TR
+___ 07:08PM URINE RBC-1 WBC-1 Bacteri-NONE Yeast-NONE 
+Epi-<1
+___ 12:02PM URINE Hours-RANDOM Creat-112 Na-28 K-40 Cl-31
+___ 10:13PM URINE Hours-RANDOM TotProt-29
+___ 07:08PM URINE Hours-RANDOM Creat-36 TotProt-40 
+Prot/Cr-1.1* Albumin-24.2 Alb/Cre-672.2*
+___ 12:02PM URINE Osmolal-420
+___ 10:13PM URINE U-PEP-NEGATIVE FOR ___ PROTEIN
+.
+Joint fluid from left knee:
+___ 05:38PM JOINT FLUID ___ RBC-6500* Polys-93* 
+___ ___ 05:38PM JOINT FLUID Crystal-MOD Shape-RHOMBOID 
+Locatio-INTRAC Birefri-POS Comment-c/w calciu
+.
+Microbiology:
+___ Blood cultures x 2: pending
+___ Urine culture: MIXED BACTERIAL FLORA ( >= 3 COLONY 
+TYPES), CONSISTENT WITH SKIN AND/OR GENITAL CONTAMINATION.
+___ Lyme serology: negative
+___ JOINT FLUID  Source: Knee. 
+   GRAM STAIN (Final ___: 
+      2+ ___ per 1000X FIELD): POLYMORPHONUCLEAR LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+   FLUID CULTURE (Preliminary): NO GROWTH. 
+___ Urine culture: pending
+.
+EKG ___: Sinus rhythm. Consider left anterior fascicular 
+block. Since the previous tracing of ___ probably no 
+significant change.
+.
+Imaging:
+.
+CXR PA and lateral ___: Cardiomediastinal contours are 
+normal. The lungs are clear. There is no pneumothorax or pleural 
+effusion. Degenerative changes are in the thoracic spine. 
+IMPRESSION: No evidence of pneumonia. 
+.
+Bilateral hips (AP, LAT & AP PELVIS) and knees (2 views) 
+___: Chondrocalcinosis of the knees, hips and symphysis 
+pubis, with associated osteoarthritis. 
+.
+Bilateral ankles (AP, LAT, and OBLIQUE) ___: No previous 
+images. There is extensive soft tissue swelling about the ankles 
+bilaterally, most prominently about the lateral malleoli, 
+especially on the left. Degenerative changes are seen involving 
+the ankle mortise on the right. Calcaneal spurs are seen 
+bilaterally. No definite fracture is identified. On two views, 
+there is suggestion of a well-corticated opacification adjacent 
+to the base of the fifth metatarsal. This is of uncertain 
+etiology and could be related to previous trauma. If there is 
+serious clinical concern for fracture, cross-sectional imaging 
+would be recommended.
+.
+Bilateral lower extremity venous ultrasound ___: No evidence 
+of DVT in bilateral lower extremities.
+ 
+Brief Hospital Course:
+Assessment and Plan: ___ yo F with history of osteoarthitis 
+presents with rapidly progressive arthritis affecting multiple 
+joints of bilateral lower extremities R>L during past month, 
+found to have pseudogout.
+.  
+# Acute pseudogout: The patient presented with a polyarticular 
+arthritis involving her bilateral ankles, knees, and hips. 
+Rheumatology was consulted. Arthrocentesis of left knee on 
+___ showed rhomboid, positive-birefringent crystals 
+consistent with calcium pyrophosphate deposition disease. Joint 
+fluid WBC ___. Joint fluid gram stain with 2+ PMNs, no 
+microorganisms. The joint fluid culture was pending at the time 
+of discharge. ESR was 103. ___ was negative. Rheumatoid factor 
+was 10 (normal). CCP was pending at the of discharge. Uric acid 
+3.4. Calcium 9.8. Phos 5.1. PTH 67. Lyme serology was negative.
+  The patient was treated with a prednisone taper as follows: 40 
+mg on ___, 30 mg on ___, 20 mg to be given on ___, 
+and 10 mg to be given on ___. The patient was also started 
+on colchicine 0.6 mg PO daily. The patient symptoms began to 
+improve with initiation of steriods. Her pain was controlled 
+with Tylenol and oxycodone. NSAIDS were avoided given 
+hyperkalemia and diabetic nephropathy. Pending studies at the 
+time of discharge included CCP, SPEP, and joint fluid culture.
+.
+# Fever: The patient had a low-grade fever to 100.5 on the night 
+of ___. There was no evidence of infection. Chest x-ray was 
+normal. The patient's urinalysis was equivocal and the patient 
+was without symptoms so no antibiotics were started. Blood and 
+urine cultures were sent and were pending at the time of 
+discharge.
+.
+# Hyperparathyroidism: The patient had PTH 67, with calcium 3.4 
+and phosphate 5.1. This was thought to be secondary 
+hyperparathyroidism given the patient's high phosphorus. This 
+will need to be further evaluated as an outpatient.
+.  
+# Hyponatremia/SIADH: The patient was noted to be hyponatremic. 
+Serum osmolality was 274 . Urine osmolality was 420, consistent 
+with pain. The patient's SIADH was thought to be pain-mediated. 
+There was no evidence of of an intrapulmonary or intracranial 
+process. The patient was treated with a 1200 mL fluid 
+restriction. Her sodium at the of discharge was 128. She will 
+need to have her sodium checked daily until her hyponatremia 
+resolves.
+.  
+# Hyperkalemia: The patient presented with potassium 5.6 and 
+bicarbonate 19. There were no hyperkalemic changes on EKG. 
+Initially, the patient's hyperkalemia was attributed to the 
+patient's candesartan and NSAID use. Candesartan and NSAIDS were 
+stopped. The patient's potassium trended down, reaching 4.8 on 
+the day of discharge. However, her bicarbonate remained low, and 
+it was postulated that she might have a type 4 renal tubular 
+acidosis in the setting of her diabetes. This should be further 
+evaluated as an outpatient after the patient's prednisone taper 
+is complete.
+.  
+# Diabetes mellitus, type 2: The patient takes metformin and 
+glipizide at home. There medications wre held on admission, and 
+the patient was started on an insulin sliding scale. Glargine 7 
+units daily was added due to hyperglycemia. This insulin regimen 
+should be continued at rehab, but the patient should be 
+restarted on her home regimen of metformin and glipizide (and 
+insulin stopped) prior to discharge from rehab.
+.  
+# Elevated CK/Statin-induced myopathy: The patient presented 
+with CK 485. Troponin and MB were not checked, but there were no 
+EKG changes or symptoms to suggest myocardial infarction. The 
+patient's CK elevation was thought to be related to the 
+simvastatin and gemfibrozil that she was taking prior to 
+admission. Simvastatin adn gemfibrozil were stopped, and the 
+patient's CK trended down, reaching 104 on the day of discharge. 
+
+.
+# Hyperlipidemia: Simvastatin and gemfibrozil were held due to 
+elevated CK. Consideration should be given to restarting the 
+patient's statin in the outpatient setting.
+.  
+# Iron deficiency anemia: The patient's hematocrit was 28.0 on 
+admission, down from 29.9 on ___. There was no evidence of 
+bleeding. The patient's hematocrit trended down slightly during 
+her admission to 23.8. This was attributed to extensive 
+phlebotomy for the patient's rheumatology work-up. MCV was 87. 
+Iron studies show iron 18, TIBC 52, ferritin 133, consistent 
+with iron deficiency. B12 was Last colonoscopy ___ was 
+normal. Folate was 10.5. B12 was borderline at 276. The patient 
+was started on iron supplementation and given a vitamin B12 
+injection. A methylmalonic acid level was pending at the time of 
+discharge and will need to be followed up after discharge. 
+Consideration should be given to further work-up of iron 
+deficiency with endoscopy in the outpatient setting.
+.  
+# Subclinical hypothyroidism: The paient's TSH was 4.5, with 
+free T4 0.99. No treatment was initiated.
+.  
+# Code status: DNR/DNI, confirmed with patient  
+.  
+# Communication: Healthcare proxy is son ___ 
+___
+ 
+Medications on Admission:
+candesartan 2 mg daily  
+gemfibrozil 600 mg BID  
+glipizide 5 mg BID  
+metformin 1000 mg BID  
+simvastatin 80 mg QHS  
+aspirin 81 mg daily  
+Ocuvite 2 tabs BID
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO three 
+times a day.  
+3. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain.  
+4. Prednisone 20 mg Tablet Sig: One (1) Tablet PO once, on 
+___ for 1 days.  
+5. Prednisone 10 mg Tablet Sig: One (1) Tablet PO once, on 
+___ for 1 days.  
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+7. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+8. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+9. Colchicine 0.6 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+10. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.  
+11. Polyethylene Glycol 3350 17 gram/dose Powder Sig: Seventeen 
+(17) grams PO DAILY (Daily) as needed for constipation.  
+12. Insulin Glargine 100 unit/mL Solution Sig: Seven (7) units 
+Subcutaneous at bedtime.  
+13. Humalog insulin sliding scale
+Please see attached Humalog insulin sliding scale.
+14. Ocuvite PreserVision     Tablet Sig: Two (2) Tablet PO twice 
+a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+1. acute pseudogout
+2. hyponatremia from syndrome of inappropriate secretion of 
+anti-diuretic hormone (SIADH)
+3. hyperkalemia
+4. elevated creatinine kinase, likely from statin-induced 
+myopathy
+5. iron-deficiency anemia
+.
+Secondary:
+1. diabetes mellitus, type 2
+2. hyperlipidemia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+You came to the hospital with arthritis. You had some fluid 
+removed from your left knee, and this fluid showed crystals from 
+a condition called pseudogout. You were treated with prednisone 
+and colchicine. You symptoms were improving at the time of 
+discharge.
+.
+You were found to have a low sodium. This is caused by a hormone 
+problem called SIADH (syndrome of inappropriate secretion of 
+anti-diuretic hormone). SIADH is sometimes caused by pain, such 
+as your arthritis pain. You were treated with a fluid 
+restriction. You should limit yourself to no more than 1200 mL 
+(5 cups) of fluid daily until your sodium normalizes. You will 
+need to have your sodium level checked daily at rehab until this 
+problem resolves.
+.
+You were found to have a high level of potassium. For this 
+reason, your Atacand(candesartan) was stopped. You should also 
+avoid medications like Aleve, Motrin, naproxen, and ibuprofen.
+.
+You were found to have an elevated level of an enzyme called 
+creatine kinase. This can indicate injury to muscle. In your 
+case, this was likely caused by your cholesterol medications, 
+simvastatin and gemfibrozil. Your creatinine kinase normalized 
+by the time that you were discharged. You should talk to you 
+primary care doctor about restarting simvastatin (without 
+gemfibrozil).
+.
+You were found to be anemic and iron-deficient. You were started 
+on an iron supplement called ferrous sulfate. You should talk to 
+your primary care doctor about your diagnosis of iron deficiency 
+and discuss the need for further evaluation of this with 
+endoscopy.
+.
+There are some changes to your medications.
+START prednisone. Take 20 mg on ___ and 10 mg on ___.
+START colchicine
+START ferrous sulfate (iron)
+STOP Atacand(candesartan).
+STOP ibuprofen, Motrin, Aleve, naproxen and related medications.
+STOP simvastatin.
+STOP gembibrozil.
+STOP metformin and glipizide while at rehab, where your blood 
+sugar will be managed with insulin. You will likely stop taking 
+insulin and restart metformin and glipizide after you leave 
+rehab, but this will be determined by the rehab doctors.
+.
+Follow up as indicated below.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,245 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+ ___ w/ PMHx of HTN, HLD, cholecystectomy who was transferred 
+from OSH for concern for ischemic colitis.
+Pt was well until ___ afternoon when she developed sudden 
+onset of sharp, cramping, severe lower abdominal pain. Pain was 
+so severe that pt collapsed and briefly lost consciousness. She 
+then presented to OSH ED where CT scan showed collpase and 
+thickening of the colon c/w ischemic colitis. Pt was then 
+transferred to ___ for possible surgical management.
+In ED initial vitals were 98.6 66 113/64 20 98%RA. Lactate was 
+1.0 and WBC was normal. Surgery was consulted and recommended 
+medical management. Pt given morphine for pain control, 
+cipro/flagyl for empiric coverage, 2L NS, and was transfered to 
+floor.
+On floor, repeat lactate was 2.1. VS remained stable. This 
+morning, pt says that her pain was greatly improved and is ___ 
+at rest. She reports three large bowel movements yesterday that 
+were blood streaked, but not bowel movements since. Denies 
+nausea, emesis, back pain, CP, SOB, fevers, chills, HA. 
+ 
+Past Medical History:
+Lichen Sclerosis
+Osteoporosis
+HTN
+vitiligo/sundamaged skin
+polyps found on ___ colonoscopy
+GERD
+pancreatitis 
+ 
+Social History:
+___
+Family History:
+___ Cancer, HTN died age ___
+MGM- died age ___
+MGF- died age ___ Hemorrhage
+Father-DM, HTN, Heart Disease died age ___
+Sister-HTN, one with cancer 
+ 
+Physical Exam:
+VITALS: 100.7, 126/64, 70, 20, 97%RA
+GENERAL: Sleepy, but in NAD
+HEENT: PERRL, EOMI
+NECK: no carotid bruits, JVD
+LUNGS: CTAB
+HEART: RRR, normal S1 S2, no MRG
+ABDOMEN: Soft, but extremely tender to palpation in LLQ and 
+around epigastric region no rebound tenderness. BS+
+EXTREMITIES: No c/c/e
+NEUROLOGIC: A+OX3 
+
+DISCHARGE:
+VS 98-98.7 ___ 100-104/48-54 ___ 96-97%RA
+GEN Alert, oriented, no acute distress. thin elderly woman.
+HEENT NCAT MMM EOMI sclera anicteric, OP clear
+NECK supple, no JVD, no LAD
+PULM Good aeration, CTAB no wheezes, rales, ronchi
+CV RRR normal S1/S2, no mrg
+ABD soft ND normoactive bowel sounds, no r/g. Minimal TTP in 
+lower abdomen.
+EXT WWP 2+ pulses palpable bilaterally, no c/c/e
+NEURO motor function grossly normal
+SKIN no ulcers or lesions 
+ 
+Pertinent Results:
+___ 07:00AM BLOOD WBC-5.6 RBC-3.10* Hgb-10.0* Hct-29.9* 
+MCV-96 MCH-32.1* MCHC-33.3 RDW-13.1 Plt ___
+___ 09:03PM BLOOD WBC-9.0 RBC-3.91* Hgb-12.4 Hct-37.7 
+MCV-97 MCH-31.8 MCHC-32.9 RDW-12.9 Plt ___
+___ 07:00AM BLOOD WBC-6.3 RBC-3.02* Hgb-9.5* Hct-29.4* 
+MCV-97 MCH-31.4 MCHC-32.3 RDW-13.0 Plt ___
+___ 09:03PM BLOOD Neuts-89.9* Lymphs-6.5* Monos-3.4 Eos-0.2 
+Baso-0.1
+___ 07:00AM BLOOD Glucose-102* UreaN-5* Creat-0.5 Na-137 
+K-3.0* Cl-108 HCO3-22 AnGap-10
+___ 09:03PM BLOOD Glucose-103* UreaN-26* Creat-0.8 Na-143 
+K-3.6 Cl-109* HCO3-24 AnGap-14
+___ 07:00AM BLOOD ALT-27 AST-22 LD(LDH)-151 AlkPhos-32* 
+TotBili-0.3
+___ 09:03PM BLOOD ALT-36 AST-38 AlkPhos-37 TotBili-0.5
+___ 09:03PM BLOOD Albumin-4.1
+___ 07:20AM BLOOD Calcium-8.1* Phos-3.3 Mg-1.6
+
+___ 09:08PM BLOOD Lactate-1.0
+___ 02:51AM BLOOD Lactate-2.1*
+___ 08:36AM BLOOD Lactate-1.3
+
+CTA abdomen/pelvis ___:
+IMPRESSION:
+1. Large bowel wall-thickening and submucosal edema in the 
+vascular
+distribution of the ___. While there is no apparent stenosis or 
+thrombosis of the ___, proximally, a more distal arterial 
+occlusion cannot be excluded; however, this overall appearance 
+of bowel may also be seen with "low-flow" venous ischemia. 
+Inflammatory and infectious processes also remain differential 
+diagnostic considerations, that might be assessed by 
+colonoscopy.
+2. Periportal edema and small ascites, particularly perihepatic. 
+This may relate to the process, #1, above and/or to volume 
+overload with "third-spacing."
+3. Bilateral simple-appearing renal cysts. 
+ 
+Brief Hospital Course:
+# Colitis - There was initial concern for ischemic colitis that 
+would require surgical intervention. Lactate was 1.0 on arrival, 
+increased to 2.0 several hours later, but repeat lactate was 
+1.3. Patient clinically improved quickly, and surgery was not 
+necessary. Presentation and CTA findings were consistent with 
+ischemic colitis in ___ distribution, but 
+infectious/inflammatory colitis could not be excluded as no 
+occlusion was seen in ___. Ciprofloxacin and flagyl were 
+continued throughout admission and stool studies were sent and 
+pending upon discharge. Patient was without abdominal pain and 
+was tolerating PO.
+
+# Hypotension: Pt was borderline hypotensive with complains of 
+intermittent lightheadedness. Lisinopril was held and IVF @ 
+125cc/hr given. When patient was able to take PO, fluid and salt 
+intake encouraged. BPs returned to normal when patient returned 
+to normal diet and she was no longer lightheadeded.
+
+# Anemia: Patient reported bloody bowel movements, but they 
+ceased after admission. Hemoglobin decreased with hydration from 
+12.4 on admission to a low of 9.5. It rose to 10.0 on day of 
+admission. Transfusion was not required.
+
+# Hypokalemia: Was likely due to GI losses. Resolved with 
+repletion.
+
+# HTN: Lisinopril was held due to borderline hypotension. Pt 
+instructed not to restart his medication until she followed-up 
+with her PCP.
+
+# Hyperlipidemia: Stable. Continued simvastatin, aspirin 81mg. 
+
+# GERD: Stable. Continued omeprazole. 
+
+TRANSITIONAL ISSUES:
+# Outpatient colonoscopy recommended
+# Stool studies are pending upon discharge and must be 
+followed-up.
+# Discuss when to restart lisinopril w/ PCP.
+# Will follow-up with ACS.
+
+ 
+Medications on Admission:
+Preadmissions medications listed are incomplete and require 
+futher investigation.  Information was obtained from webOMR.
+1. Clobetasol Propionate 0.05% Ointment 1 Appl TP DAILY 
+apply to affected area once daily 
+2. Lisinopril 10 mg PO DAILY 
+3. Omeprazole 20 mg PO BID 
+4. Simvastatin 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Omeprazole 20 mg PO BID 
+2. Simvastatin 20 mg PO DAILY 
+3. Clobetasol Propionate 0.05% Ointment 1 Appl TP DAILY 
+apply to affected area once daily 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Colitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were transferred to ___ for evaluation of your 
+abdominal pain. A CT scan of your abdomen done at ___ 
+___ showed inflammation of your colon. The doctors at 
+___ were concerned that you may have had ischemic colitis, 
+which is a condition in which the colon does not get enough 
+blood supply and is damaged. This can occur because of very low 
+blood pressure or because of a clot in the vessels that supply 
+the colon. The doctors at ___ were concerned that you may 
+have needed surgery, so you were sent to ___. The 
+surgeons here did not believe that you needed surgery because 
+you were feeling better. We got another CT scan of your abdomen, 
+which showed that your colon had not suffered more damage; it 
+was unchanged from your CT scan in ___. It also did not show 
+any clots or blockages in the blood vessels that supply your 
+colon. 
+
+It is also possible that the inflammation in your colon is due 
+to infection (infectious colitis), so we gave you antibiotics 
+while you were in the hospital. We also tested your stool for 
+bacteria. The results of your stool tests have not yet returned. 
+We will contact you with these results when they are available. 
+You no longer need to take antibiotics. 
+
+When the inflammation in your colon has resolved, we recommend 
+that you get a colonoscopy. Please discuss the timing of this 
+procedure with your primary care doctor and with the surgeon at 
+your follow-up appointment.
+
+While you were in the hospital, your blood pressure was lower 
+than it normally is, so we stopped your blood pressure 
+medication (lisinopril). You should not restart this medication 
+until talking with your primary care doctor. You should also 
+drink lots of fluids to help keep your blood pressure up.
+
+We made the following changes to your medications:
+1. lisinopril - we stopped this medication.
+
+We have scheduled follow-up appointments for you with your 
+primary care physician and with acute care surgery. If you 
+cannot keep your appointments, please call to reschedule.
+
+It was a pleasure taking part in your care. We wish you a quick 
+recovery and good health.
+ 
+Followup Instructions:
+___

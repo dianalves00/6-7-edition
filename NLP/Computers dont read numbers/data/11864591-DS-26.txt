@@ -1,0 +1,406 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine / Imitrex / Toradol / Aspirin / morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+NA
+ 
+History of Present Illness:
+___ year old female PMH of CVA (paraplegic with neurogenic 
+voiding dysfunction), RA, lupus, possible Crohn's (not 
+consistent pathology on prior admission), chronic abdominal pain 
+(multiple SBOs s/p subtotal colectomy), nephrolithiasis, DM2, 
+anxiety, and depression, narcotics dependence, now s/p SPT 
+replacement on ___ with new onset abdominal symptoms and pain. 
+  
+
+The patient has been having lower abdominal pain and has been 
+having bilateral lower back pain. The patient has intermittent 
+objective fevers to 102 during this time. The patient otherwise 
+is having some chills. The patient states that there has been 
+urine leaking around the suprapubic cath. She went to ___ 
+___ and started on PO ABx for UTI (Keflex). The patient had 
+a CT scan at ___ which was unremarkable, but as she has had 
+continued pain and UTI symptoms. She had an initial lactic of 
+3.0 that improved after fluids. 
+
+Pertinent ED course:
+Initial vitals: T98.5, HR 108, BP 122/97, RR 18, 97% Ra
+
+Exam: redness around suprapubic site with significant 
+tenderness, afebrile during entire ED stay
+
+Relevant labs: 
+BMP: Na 138, K 4.1, Cl 102, HCO3 21, BUN 8, Cr 0.7
+CBC: WBC 12.0, Hgb 11.6, platelets 224
+UA: cloudy with large leuk, mod blood, nitrate positive, protein 
+600, gluc 150, RBC 78, WBC 182, Bact many
+Bcx and ucx pending
+
+Patient was given:
+- Hydromorphone 1 mg x 8
+- NS 2 L
+- Cefepime 2g 
+- Acetaminophen 1 g x2
+- Insulin 
+
+Consult: urology
+ 
+Vitals on transfer: T97.8, HR 102, BP 107/73, RR 16, 98% Ra
+
+Upon arrival to the floor, the patient reports that she is in 
+terrible pain. She says this is significantly worse than pain 
+she has had on prior admissions. She says it is nothing like her 
+admission in ___ for similar complaints.  The patient 
+reports she has had fevers at home up to 102. She says the pain 
+started right after her procedure on ___. It has only gotten 
+worse since then. She notes headache, chills, no rigors, no 
+lightheadedness. She notes the catheter was draining red liquid 
+and now it is clear. Her appetite is decreased and she has had 
+some nausea and vomiting. She states she has been having normal 
+bowel movements and that this does not feel like her prior small 
+bowel obstructions.
+
+She says she has both pain and anxiety right now. She says she 
+takes Xanax up to 3x a day. 
+
+The patient states she knows her medications and doses, but on 
+review of her medications the only thing she is able to share is 
+she is not taking her methotrexate right now because she is 
+worried she is infected. She has confusion surrounding some of 
+her meds including atorvastatin that she said she discontinued, 
+and paroxetine she says she may be taking 2x a day. She says she 
+took all 40 of her oxycodone within the first week or so after 
+her catheter placement.   
+ 
+REVIEW OF SYSTEMS:  
+(+) per HPI
+(-) for chest pain, palpitations, shortness of breath, cough
+
+ 
+Past Medical History:
+ 1. Seropositive rheumatoid arthritis.  
+ 2. ?SLE diagnosed in ___ in the setting of Humira. Never on  
+ hydroxychloroquine. No kidney biopsy or history of nephritis.  
+ 3. ?Crohn's disease complicated by multiple small bowel  
+ obstructions.  
+ 4. CVAs and ?spinal cord infarct in ___ cardiac 
+arrest, resulting in bilateral lower extremity paralysis, atonic 
+bladder now s/p SPT  
+ 5. Diabetes diagnosed at age ___.  
+ 6. Depression.  
+ 7. Insomnia.  
+ 8. Narcotic dependence.  
+ 9. ___ femoral head avascular necrosis  
+ 
+Social History:
+___
+Family History:
+Mother - RA, DM
+Father - CAD, DM, RA
+MGM - RA, DM
+PGM - RA, DM
+Maternal aunt and maternal cousins - breast cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL
+================
+GENERAL: appears distressed, rolling over in bed with complaints 
+of abdominal pain. 
+HEENT: pupils equal and reactive, but small, nonicteric sclera, 
+dry MMM, neck soft without lymphadenopathy 
+CV: normal S1, S2, RRR, no mururs/rubs/gallops
+RESP: clear to auscultation, no wheezes or gallops
+GI/GU: abdomen with normal bowel sounds, non-distended, rigid on 
+exam. Site around supra-pubic catheter has small ~1 cm erythema 
+that dull in color, exquisitely tender to palpation with 
+positive costophrenic tenderness (patient reports abdominal pain 
+w/ test). 
+MSK: cool extremities, 2+ DP, no peripheral edema
+SKIN: no excoriations, rashes noted
+NEURO: does not move legs spontaneously, moves other extremities 
+w/o difficulty. 
+PSYCH: AOx2
+
+DISCHARGE PHYSICAL
+===================
+VITALS: 97.9 PO128 / 74 L Lying 71 1695RA  
+GENERAL: appears more comfortable today
+HEENT: pupils equal and reactive, but small, nonicteric sclera
+MMM, neck soft without lymphadenopathy 
+CV: normal S1, S2, RRR, no mururs/rubs/gallops
+RESP: clear to auscultation, no wheezes or gallops
+GI/GU: abdomen with normal bowel sounds, softer on exam this
+AM, distractible, SPT site looks lcean and dry
+MSK: warm extremities, 2+ DP, trace edema bilaterally
+SKIN: no excoriations, rashes noted
+NEURO: does not move legs spontaneously, no sensation in LEs,
+moves other extremities w/o difficulty. 
+ 
+Pertinent Results:
+ADMISSION 
+=========
+___ 12:15AM BLOOD WBC-12.0*# RBC-4.14 Hgb-11.6 Hct-37.0 
+MCV-89 MCH-28.0 MCHC-31.4* RDW-14.5 RDWSD-47.2* Plt ___
+___ 12:15AM BLOOD Neuts-60 Bands-0 ___ Monos-6 Eos-2 
+Baso-0 Atyps-2* ___ Myelos-0 AbsNeut-7.20* AbsLymp-3.84* 
+AbsMono-0.72 AbsEos-0.24 AbsBaso-0.00*
+___ 12:15AM BLOOD Glucose-179* UreaN-8 Creat-0.7 Na-138 
+K-4.1 Cl-102 HCO3-21* AnGap-15
+
+DISCHARGE
+=========
+___ 07:15AM BLOOD WBC-7.1 RBC-4.01 Hgb-11.4 Hct-35.9 MCV-90 
+MCH-28.4 MCHC-31.8* RDW-14.6 RDWSD-47.2* Plt ___
+___ 07:15AM BLOOD Glucose-106* UreaN-4* Creat-0.6 Na-143 
+K-4.1 Cl-104 HCO3-23 AnGap-16
+___ 07:15AM BLOOD Calcium-9.1 Phos-4.4 Mg-1.7
+
+MICRO
+=====
+___ 1:15 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH FECAL
+      CONTAMINATION. 
+
+___ BCx: NGTD
+
+IMAGING 
+=======
+
+___ KUB
+FINDINGS:
+ 
+There is a moderate amount of gas in the stomach and small bowel 
+loops. Fecal
+material is seen in the rectum. There is marked dilation of the 
+sigmoid colon
+which is increased from prior exam.
+Supine assessment limits detection for free air; there is no 
+gross
+pneumoperitoneum.
+Osseous structures are unremarkable.
+Curvilinear metallic densities are seen again in the right 
+hemiabdomen,
+unchanged from previous studies.
+There are no unexplained soft tissue calcifications or 
+radiopaque foreign
+bodies.
+ 
+IMPRESSION:
+ 
+Marked dilation of the sigmoid colon, increased from prior exam. 
+Consider
+contrast enhanced CT to evaluate for active disease.
+
+___ KUB
+FINDINGS: 
+ 
+A moderate amount of gas is again noted in the stomach and 
+proximal smallbowel. There is interval improvement of the 
+dilated sigmoid colon when compared to the most recent study.  
+Overall, there is a nonobstructive gas pattern. There is no free 
+intraperitoneal air.
+Osseous structures are unremarkable. Curvilinear metallic 
+densities are seen again in the right hemiabdomen, unchanged 
+from the previous study.
+There are no unexplained soft tissue calcifications or 
+radiopaque foreign bodies.
+ 
+IMPRESSION: 
+ 
+Interval improvement of the sigmoid colon dilation.
+
+ 
+Brief Hospital Course:
+___ year old female PMH of CVA (paraplegic with neurogenic 
+voiding dysfunction), RA, lupus, possible Crohn's, chronic 
+abdominal pain (multiple SBOs s/p subtotal colectomy), 
+nephrolithiasis, DM2, anxiety, and depression, now s/p SPT 
+replacement on ___ with new onset abdominal symptoms and pain 
+concerning for complicated UTI. 
+
+ACUTE/ACTIVE PROBLEMS:
+#Sepsis secondary to UTI
+Patient with initial fever, leukocytosis, tachycardia, and 
+recent instrumentation and UA concerning for ongoing urinary 
+tract infection meeting sepsis criteria. Patient has had a 
+multitude of various urinary tract infections previously 
+including proteus and. e-coli. Most recent available culture on 
+admission showed proteus resistant to keflex, started on 
+cefepime to cover for this. Cultures from OSH showed E. Coli in 
+the urine pan sensitive, and mixed flora from suprapubic ostomy 
+swab that were sensitive to quinolone, so patient was switched 
+to levofloxacin and sent home with oral levofloxcain to continue 
+until ___.  Leukocytosis resolved with IVF and Antibiotics.   
+Pt had improvement in symptoms and was tolerating po diet 
+without difficulty by the time of discharge.
+
+#Abdominal pain: 
+#Lower back pain:
+#Opiate related constipation
+Patient has no abnormal findings of air on her OSH CT scan other 
+than some fat stranding around SPT felt consistent with recent 
+replacement. Urology was consulted in ED and during admission 
+and saw no need for any surgical intervention. SPT looked clean, 
+ostomy site with no evidence of active infection. She was given 
+pain control initially with standing tylenol and IV dilaudid, 
+dilaudid PCA. She was converted to PO oxycodone which was 
+tapered down to 5mg q8h on discharge. She had a KUB on ___ 
+which showed dilated sigmoid colon with large stool burden, but 
+received methylnatrexone and had multiple BMs.  Repeat KUB 
+showed improvement in dilation and symptoms improved. She was 
+maintained on an aggressive bowel regimen. Oxybutinin was also 
+added as patient likely having bladder spasm, and gabapentin 
+added for non-opioid pain control to help taper down on opioid 
+dose, given concerns for opioid induced constipation with h/o 
+SBO.   Pt was educated about the importance of avoiding opiates 
+and weaning down off oxycodone as soon as possible.
+
+#Nutrition:
+Patient taking poor PO intake with dry MM on admission. Intake 
+improved over the course of the hospitalization.
+
+#Anxiety: 
+#Psych: 
+#Insomnia 
+Continued trazadone (home is 300 mg nightly, gave 150 mg), paxil 
+continued 40 mg daily, amitriptyline 50mg QHS, continued 
+alpraxolam 0.5 mg BID 
+
+#DM2: 
+Held home metformin 1000 mg BID, started ISS
+
+TRANSITIONAL ISSUSES:
+=====================
+[] Some concern around narcotics use during admission and 
+associated constipation. 
+[] Discharged with 14 pills of 5mg oxycodone
+[] Would check a chem-10 at PCP ___ appointment, magnesium 
+required replacement during admission likely due to multiple BMs
+[] Would likely benefit from connection to a pain management 
+specialist
+[] Uptitrate gabapentin as tolerated, discharged on 300 mg TID 
+[] Patient with intermittent use of methotrexate would benefit
+from outpatient Rheum follow up (previously in system) 
+[] Likely would benefit from GI follow up in ___ clinic 
+(___
+recommended Dr. ___ or Dr. ___ on a
+prior admission)
+[] NEW MEDS: Gabapentin 300mg TID, oxybutynin 5mg BID, 
+levofloxacin 500mg q24h through ___
+# HCP: sister: ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. TraZODone 300 mg PO QHS 
+2. MetFORMIN (Glucophage) 1000 mg PO BID 
+3. PARoxetine 40 mg PO DAILY 
+4. Amitriptyline 50 mg PO QHS 
+5. ALPRAZolam 0.5 mg PO BID 
+6. Glargine 10 Units Breakfast
+Glargine 10 Units Dinner
+7. Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN allergies 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO TID 
+RX *acetaminophen 500 mg 2 capsule(s) by mouth every eight (8) 
+hours Disp #*270 Capsule Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*90 Capsule Refills:*0 
+3.  Gabapentin 300 mg PO TID 
+RX *gabapentin [Neurontin] 300 mg 1 capsule(s) by mouth three 
+times a day Disp #*135 Capsule Refills:*0 
+4.  Levofloxacin 500 mg PO Q24H Duration: 6 Days 
+RX *levofloxacin 500 mg 1 tablet(s) by mouth daily Disp #*5 
+Tablet Refills:*0 
+5.  Oxybutynin 5 mg PO BID 
+RX *oxybutynin chloride 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*90 Tablet Refills:*0 
+6.  OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth twice a day Disp #*14 
+Tablet Refills:*0 
+7.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 1 powder(s) by 
+mouth daily Disp #*45 Packet Refills:*0 
+8.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*90 Tablet Refills:*0 
+9.  Glargine 10 Units Breakfast
+Glargine 10 Units Dinner 
+10.  ALPRAZolam 0.5 mg PO BID  
+11.  Amitriptyline 50 mg PO QHS  
+12.  Fluticasone Propionate NASAL 2 SPRY NU DAILY:PRN allergies  
+
+13.  MetFORMIN (Glucophage) 1000 mg PO BID  
+14.  PARoxetine 40 mg PO DAILY  
+15.  TraZODone 300 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=============
+Complicated urinary tract infection
+
+Secondary Diagnosis
+================
+Abdominal pain
+Opiate induced constipation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+It was a pleasure to take care of you at ___. 
+
+WHY WAS I HERE?
+You were admitted to the hospital because you had been having 
+abdominal pain and had a urinary infection.
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL
+- You were treated with antibiotics for your infection
+- You were given medications to help control your pain
+
+WHAT SHOULD I DO WHEN I GET HOME?
+1) Follow up with your Primary Care Doctor.
+2) Please take all your medications as prescribed
+
+We wish you the best!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

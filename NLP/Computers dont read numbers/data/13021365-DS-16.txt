@@ -1,0 +1,152 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Malfunctioning G Tube
+ 
+Major Surgical or Invasive Procedure:
+Gastrojejunostomy Placement
+
+ 
+History of Present Illness:
+**As obtained from records since patient is non-verbal**
+___ yo M retired otolaryngol___ with history of end-stage 
+Alzheimer's disease, aspiration, MRSA pneumonia, is s/p trach 
+and PEG and presents from ___ with non-functioning 
+PEG tube.
+.
+In the ED, vitals at presentation were T 97.5, BP 144/76, HR 88, 
+RR 18. thoracic surgery evaluated patient in ED and recommended 
+___ conversion of G tube to G-J tube. Patient admitted for this 
+indication.
+
+ 
+Past Medical History:
+Dementia
+Aspiration pneumonia, ? recurrent aspiration 
+Esophageal stricture ? s/p 3 dilations at ___  
+Hiatal hernia  
+Hypertension  
+s/p aortic valve replacement (bovine)
+Hip fracture s/p repair  
+H pylori gastritis  
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+VS: T 96.2, BP 172/100, HR 82, RR 20, O2Sat 96% 5L
+GEN: Patient awake and in NAD, arms in mitt restraints
+HEENT: NC/AT, oral mucosa dry with thick secretions, oropharynx 
+benign
+NECK: Trach in place with copious secretions
+PULM: Coarse breath sounds anteriorly
+CARD: Heart sounds largely obscurred by coarse breath sounds, 
+but no M/R/G appreciated
+ABD: G-tube in place with no exudates or erythema surrounding
+EXT: BLE thin with no edema
+SKIN: No rashes
+NEURO: Non-verbal, does not track eyes to voice, unable to 
+comply with exam
+
+ 
+Pertinent Results:
+___ 12:39PM   WBC-9.6 RBC-3.58* HGB-9.6* HCT-29.8* MCV-83 
+MCH-26.9* MCHC-32.2 RDW-16.9*
+___ 12:39PM   NEUTS-81.2* LYMPHS-13.0* MONOS-3.7 EOS-1.9 
+BASOS-0.2
+___ 12:39PM   PLT COUNT-317
+___ 12:39PM   ___ PTT-31.6 ___
+___ 12:39PM   GLUCOSE-93 UREA N-42* CREAT-1.2 SODIUM-138 
+POTASSIUM-4.3 CHLORIDE-99 TOTAL CO2-30 ANION GAP-13
+.
+
+ 
+Brief Hospital Course:
+The patient is a ___ M with history of end-stage Alzheimer's 
+disease, aspiration, MRSA pneumonia, s/p trach and PEG admitted 
+from ___ with non-functioning PEG tube.
+.
+The patient was evaluated by Thoracic surgery in the ED with 
+recommendation for placement of a gastrojejunostomy tube. He was 
+evaluated by Interventional Radiology and G-J tube placement was 
+performed. He tolerated the procedure without difficulty and was 
+discharged back to ___. No changes to medications were made 
+during his hospitalization.
+ 
+
+ 
+Medications on Admission:
+1) Acetylcysteine 100 mg inhalation twice daily
+2) Bisacodyl suppository 10 mg daily
+3) Docusate 100 mg twice daily per g tube
+4) Enoxaparin 30 mg daily subcutaneously
+5) Ergocalciferol oral drops ___ units once per week (___)
+6) Magnesium hydroxide 30 mL once daily per g tube
+7) Omeprazole 20 mg daiily per g tube
+8) Acetaminophen 650 mg every 6 hours per g tube
+9) Albuterol neb every six hours
+10) Ipratropium neb every six hours
+
+ 
+Discharge Medications:
+1. Acetylcysteine 20 % (200 mg/mL) Solution Sig: One (1) ML 
+Miscellaneous BID (2 times a day).  
+2. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime).  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO twice 
+a day.  
+4. Enoxaparin 30 mg/0.3 mL Syringe Sig: One (1)  Subcutaneous 
+once a day.  
+5. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+6. Acetaminophen 650 mg Tablet Sig: One (1) Tablet PO every six 
+(6) hours.  
+7. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for 
+Nebulization Sig: One (1)  Inhalation Q6H (every 6 hours).  
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+9. Ergocalciferol (Vitamin D2) 50,000 unit Capsule Sig: One (1) 
+Capsule PO once a week.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+1. Gastrostomy Tube Malfunction s/p Gastrojejunostomy Placement
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted with a malfunctioning feeding tube. You were 
+evaluated by Thoracic surgery with recommendation for placement 
+of a gastrojejunostomy tube by interventional radiology. You 
+underwent the procedure without complication and are now being 
+discharged back to your extended care facility. 
+.
+Please take all medicines as prescribed. No changes have been 
+made to your medications. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,291 @@
+ 
+Name:  ___               ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amiodarone / Coumadin
+ 
+Attending: ___
+ 
+___ Complaint:
+shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ year old female with a previous history of 
+sick sinus syndrome (s/p PPM) and atrial fibrillation refractory 
+to pharmacological treatment (s/p PVI in ___ and re 
+intervention in ___. She presented with a 3 day history of 
+dyspnea at rest, dry cough, and an episode of unquantified 
+fever. No symptoms of CHF and other differential diagnoses for 
+dyspnea were found in her review of systems. At her admission, 
+her physical exam was notable for signs of volume overload: high 
+JVP, crackles heard on both bases of her lungs, and lower 
+extremity edema. Also, there was disminished lung sounds heard 
+on her right lower lobe. Vital signs were normal at admission. A 
+chest x ray done at OSH showed pulmonary infiltrates in her 
+right lower lobe. Given the suspicion that the recent PVI could 
+have contributed to her symptoms, the patient was admitted to 
+___ for further management. 
+ 
+Past Medical History:
+Atrial fibrillation ___
+Hyperthyrodism-Thyrotoxicosis vs thyroiditis
+Bilateral carotid artery disease.
+TIA ___ 
+Hyperlipidemia
+Hypertension
+Gastroesophageal reflux disease.
+Hemorrhoids
+
+ 
+Social History:
+___
+Family History:
+She has one brother with atrial fibrillation  s/p pacemaker, and 
+a sister with pacemaker for unknown reason. She also has one 
+brother who passed away suddenty at age ___. Two of her brothers 
+suffer from CAD since a young age. 
+ 
+Physical Exam:
+Admission Exam:
+==================
+VS: 80.4 kg HR 68 A/V paced, BP 124/73. RR 18 SaO2.96.7% in room 
+air. 
+General:  Appears well, NAD, speaking in full sentences, no 
+oxygen requirements. 
+HEENT: MMM, pale conjunctiva, oropharynx is clear.  
+Neck: JVP 2 cm above the right clavicle
+CV:  RRR no m/r/g.
+Lungs: no crackles were heard on this examination, sounds are 
+less heard in the lower right lobe. 
+Abdomen:  Soft, NT, ND.
+Ext:  WWP. Trace edema just above ankles.
+
+Discharge Exam:
+================
+VS: 78.6 kg HR 68-70 A/V paced, BP 91/60 at 23:10 but ranged 
+between ___ overnight. RR 18 93-96.7% RA 
+General:  Appears well, NAD, speaking in full sentences, no 
+oxygen requirements. 
+HEENT: MMM, pale conjunctiva, oropharynx is clear.  
+Neck: JVP 2 cm above the right clavicle
+CV:  RRR no m/r/g.
+Lungs: no crackles were heard on this examination, sounds are 
+less heard in the lower right lobe. 
+Abdomen:  Soft, NT, ND.
+Ext:  WWP. Trace edema just above ankles.
+ 
+Pertinent Results:
+Admission: 
+___ 04:50PM BLOOD WBC-8.6 RBC-3.50* Hgb-10.2*# Hct-30.1* 
+MCV-86 MCH-29.2 MCHC-33.9 RDW-14.5 Plt ___
+___ 04:50PM BLOOD Glucose-110* UreaN-12 Creat-0.9 Na-138 
+K-3.5 Cl-101 HCO3-25 AnGap-16
+___ 04:50PM BLOOD ALT-22 AST-26 LD(LDH)-212 CK(CPK)-82 
+AlkPhos-87 TotBili-1.7* DirBili-0.4* IndBili-1.3
+___ 04:50PM BLOOD CK-MB-2 cTropnT-0.22*
+___ 04:50PM BLOOD Calcium-8.9 Phos-3.0 Mg-1.9
+
+Discharge: 
+___ 06:45AM BLOOD WBC-8.4 RBC-3.28* Hgb-9.4* Hct-27.9* 
+MCV-85 MCH-28.8 MCHC-33.8 RDW-14.6 Plt ___
+___ 06:45AM BLOOD Plt ___
+___ 06:45AM BLOOD
+___ 06:45AM BLOOD Glucose-90 UreaN-13 Creat-0.8 Na-139 
+K-4.1 Cl-105 HCO3-25 AnGap-13
+___ 06:45AM BLOOD ALT-19 AST-22 AlkPhos-79 TotBili-1.4
+___ 06:45AM BLOOD CK-MB-2 cTropnT-0.17*
+___ 06:45AM BLOOD Calcium-8.5 Phos-2.6* Mg-1.8 Iron-PND
+
+Micro:
+Blood cultures ___ at ___: NGTD
+
+Urine culture ___ at ___: 50-100K E coli and Strep (beta 
+hemolytic)
+
+Images/studies
+
+ECG ___: Atrial fibrillation with moderate ventricular 
+response. Compared to tracing #2 
+pacemaker rhythm has now changed to atrial fibrillation. 
+Clinical correlation is suggested.  
+
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ year old female with a history of sick 
+sinus syndrome(s/p PPM) and Afib s/p PVI last year and redo on 
+___ who presented with 3 days of shortness of breath at rest, 
+dry cough, and fever. On admission there were signs that 
+suggested pneumonia (diminished sounds in right lung lower lobe) 
+and pulmonary infiltrates on the right lower lobe. The patient 
+also complained of sudden weight gain, and her physical exam was 
+significant for the presence of bilateral crackles on 
+auscultation of the lungs and lower extremity edema. Lab studies 
+revealed a cardiac enzyme leakage, normocytic normochromic 
+anemia, and hyperbilurrubinemia. 
+
+ACTIVE ISSUES: 
+
+COMMUNITY ACQUIRED PNEUMONIA: One of the patient's complaints 
+was dry cough associated to an episode of fever and chills. The 
+chest X ray revealed pulmonary infiltrates on her right lower 
+lobe. Treatment was started on treatment for community acquired 
+pneumonia with ceftriaxone and doxycycline due to azithromycin's 
+Qtc prolonging effect. The patient's symptoms improved after 
+starting antibiotic therapy, oxygen supplementation was able to 
+be weaned, vital signs were stable, and the patient's general 
+appearance remained well. Transitioned to cefpodoxime prior to 
+discharge for total of 10 day course (___) with 
+doxycycline for 5 day course (___). 
+
+VOLUME OVERLOAD: A major physical exam finding the patient had 
+was lower extrimity edema and bilateral crackles heard on 
+auscultation of the lungs, associated to the fact that the 
+patient noted an acute (in 3 days) weight gain of 6 lbs since 
+prior discharge. Volume overload was felt to be due to recent 
+PVI and patient was diuresed with IV lasix and transitioned to 
+PO lasix for 4 days at discharge. Spironolactone was added on 
+day of discharge for 4 day course to prevent hypokalemia. Will 
+need repeat labs on ___ to ensure stable creatinine and 
+electrolytes. 
+
+E COLI IN URINE: Patient with Ecoli and strep (B hemolytic) 
+50-100K/field on urine culture from ___ on ___. Patient 
+asymptomatic however with fever, could also consider this as 
+source for her fever and symptoms. Is on Ceftriaxone and 
+transitioning to cefpodoxime as above for pneumonia which should 
+also cover these organisms. Will need follow-up of Ecoli
+
+ANEMIA: Patient previously with hematocrit in the high ___ in 
+the recent past including periprocedurally. She had a hct of 29 
+on admission to ___ which decreased mildly to 27.9 prior 
+to discharge. Unclear etiology however without evidence of 
+bleeding. Haptoglobin and LDH normal. Tbili mildly elevated on 
+admission, normalized to 1.4 prior to discharge. Iron studies 
+with low iron and patient started on iron supplementation to be 
+started after finishing doxycycline as outpatient. Will need 
+repeat CBC and further workup as outpatient. 
+
+HYPERBILURIBINEMIA: Indirect hyperbilirrubinemia was found in 
+this hospitalization. Hemolytic anemia was taken into 
+consideration but LDH and haptoglobin are normal. Also total 
+bilirrubin downtrended in a 24 hour follow up. No future studies 
+are needed for this finding. 
+
+Atrial Fibrillation: Seen on EKG on admission. Noted to be AV 
+paced. She was continued on dofetilide for antiarrhythmic 
+effect. Patient also continued on dabigatran, nadalol and 
+aspirin per prior medications. 
+
+Hypertension: Valsartan held on admission due to infection, 
+restarted at discharge. 
+
+Transitional Issues:
+======================
+-Please have repeat chemistries and CBC drawn on ___ with 
+results faxed to her PCP ___ ___
+-Patient to continue lasix and spironolactone for 4 days 
+(___)
+-Continue cefpodoxime and doxycycline for total of 5 day course 
+of doxycycline (___) and 10 day course of cefpodoxime 
+(___)
+-Please have patient start ferrous sulfate 325mg daily on 
+completion of doxycycline course
+-Patient with new anemia on this admission, will need further 
+work-up as outpatient. 
+-Please follow-up iron studies from ___
+-Follow-up blood and urine cultures from ___ drawn ___    
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Dabigatran Etexilate 150 mg PO BID 
+2. Dofetilide 375 mcg PO Q12H 
+3. Nadolol 40 mg PO DAILY 
+4. Valsartan 120 mg PO DAILY 
+5. Aspirin 325 mg PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Dabigatran Etexilate 150 mg PO BID 
+3. Dofetilide 375 mcg PO Q12H 
+4. Nadolol 40 mg PO DAILY 
+5. Omeprazole 20 mg PO DAILY 
+6. Doxycycline Hyclate 100 mg PO Q12H Duration: 5 Days 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*7 Tablet Refills:*0
+7. Furosemide 40 mg PO DAILY 
+RX *furosemide 40 mg 1 tablet(s) by mouth Daily Disp #*3 Tablet 
+Refills:*0
+8. Spironolactone 25 mg PO DAILY 
+RX *spironolactone 25 mg 1 tablet(s) by mouth Daily Disp #*3 
+Tablet Refills:*0
+9. Valsartan 120 mg PO DAILY 
+10. Cefpodoxime Proxetil 200 mg PO Q12H 
+RX *cefpodoxime 200 mg 1 tablet(s) by mouth twice a day Disp 
+#*16 Tablet Refills:*0
+11. Ferrous Sulfate 325 mg PO DAILY 
+Please start on ___ (after completion of doxycycline) 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+Daily Disp #*30 Tablet Refills:*0
+12. Outpatient Lab Work
+Please draw CBC, sodium, potassium, chloride, bicarb, BUN, 
+creatinine on ___ and fax result to Dr. ___ at 
+___.
+ICD-9: 285.9
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+==================
+Right lower lobe pneumonia
+Post-PVI volume overload
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital with new fever, cough and 
+shortness of breath on movement. You were found to have a small 
+pneumonia which we are treating with antibiotics. You will need 
+to continue antibiotics for a total of 8 days (Doxycycline from 
+___ and the cefpodoxime through ___. 
+
+You were also found to have volume overload (increased fluid in 
+your lungs and legs) which is likely related to your recent 
+cardiac procedure (PVI). Your symptoms improved with a diuretic 
+called furosemide (lasix). You should continue to take 
+furosemide and spironolactone (Aldactone) for a total of 5 days. 
+It is important that you have your labs checked on ___ to 
+ensure that your electrolytes and kidney function are normal 
+while taking these medications.
+
+Please continue to take all of your medications as prescribed 
+and follow-up with Dr. ___ your primary care physician 
+as scheduled.
+
+It was a pleasure taking care of you!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

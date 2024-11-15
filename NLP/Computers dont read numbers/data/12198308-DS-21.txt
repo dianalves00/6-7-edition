@@ -1,0 +1,487 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Demerol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+Bronchoscopy
+
+ 
+History of Present Illness:
+This is an ___ yo M with history of mild dementia, possible 
+diastolic dysfunction, who is admitted with subjective shortness 
+of breath. The patient has been complaining to his outpatient 
+provider about dyspnea, cardiac work up has been negative, so a 
+CT chest was ordered. There was no PE, however, there was 
+evidence of a large pulmonary mass with evidence of bony 
+metastasis. He is admitted for further
+work up and evaluation. Of note, the family has requested that 
+they tell the patient on their terms of his diagnosis, so at the 
+time of this admission note, the patient is unaware of the CT 
+findings.
+
+In the ED, initial VS were stable, with respiratory rate < 18. 
+On the floor, the patient continues to be stable with complaints 
+ofmild dyspnea, which he notes is worse with exertion, 
+especially with stair
+climbing. He says this has been going on for months. He also 
+notes a dry cough for about that long. He denies unintentional 
+weight loss, anorexia, nightsweats or other B symptoms. He 
+denies sick contacts, fevers/chills or URI symptoms.
+
+ROS:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denied chest pain or tightness, palpitations. Denied 
+nausea, vomiting, diarrhea, constipation or abdominal pain. No 
+recent change in bowel or bladder habits. No dysuria. Denied 
+arthralgias or myalgias.
+ 
+Past Medical History:
+gastroesophageal reflux disease
+hypercholesterolemia
+s/p LGIB with discovery of large colonic lipoma at hepatic 
+flexure that was removed by right transverse colectomy in ___
+transurethral resection of prostate
+TIA in ___
+Frequent UTI's
+Left shoulder impingement syndrome/full thickness rotator cuff 
+tear
+ 
+Social History:
+___
+Family History:
+strong family history of diabetes mellitus, and 
+hypercholesterolemia. His sister deceased of ___ at age 
+___. Question of renal disease in the family.
+ 
+Physical Exam:
+VS: T 98.6max, 97.3current, BP ___, HR 79 RR 18, 02sat 97% on 
+2L
+GEN: NAD, resting comfortably watching TV in chair, NC 02 on.
+HEENT: Pupils unequel, R, RRL, Left surgical pupil. No 
+injections, no icterus. OP wnl. Neck supple, nontender, no JVD, 
+no bruits.
+PULM: mild dry cough, Bibasilar rales 112 way up back, no focal 
+findings.
+CARD: RRR, s 1, s2 wnl, no mlrlg
+ABD: obese, firm, nontender, BS+, midline surgical scar, old.
+EXT: DP 1 +, 2+pitting edema up to knees
+NEURO: CNII-XI1 intact. A+Ox3, poor memory.
+PSYCH: appropriate affect
+ 
+Pertinent Results:
+___ 01:30PM BLOOD WBC-15.1* RBC-4.32* Hgb-13.1* Hct-38.3* 
+MCV-89 MCH-30.4 MCHC-34.2 RDW-13.9 Plt ___
+___ 06:45AM BLOOD WBC-13.8* RBC-3.98* Hgb-12.1* Hct-35.4* 
+MCV-89 MCH-30.5 MCHC-34.3 RDW-14.5 Plt ___
+___ 05:00AM BLOOD WBC-11.1* RBC-3.83* Hgb-11.5* Hct-34.0* 
+MCV-89 MCH-30.0 MCHC-33.8 RDW-14.4 Plt ___
+___ 01:30PM BLOOD Neuts-54 Bands-9* ___ Monos-11 
+Eos-2 Baso-0 Atyps-1* Metas-3* Myelos-0
+___ 01:30PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-1+ 
+Macrocy-NORMAL Microcy-NORMAL Polychr-1+ Schisto-1+
+___ 01:30PM BLOOD PTT-24.2
+___ 01:30PM BLOOD Plt Smr-LOW Plt ___
+___ 08:00PM BLOOD ___ PTT-24.3 ___
+___ 06:45AM BLOOD Plt ___
+___ 05:00AM BLOOD Plt ___
+___ 01:30PM BLOOD D-Dimer-4038*
+___ 01:30PM BLOOD UreaN-41* Creat-1.4* Na-139 K-4.1 Cl-97 
+HCO3-29 AnGap-17
+___ 06:45AM BLOOD Glucose-90 UreaN-42* Creat-1.4* Na-139 
+K-4.2 Cl-98 HCO3-29 AnGap-16
+___ 05:00AM BLOOD Glucose-106* UreaN-47* Creat-1.3* Na-139 
+K-4.3 Cl-96 HCO3-30 AnGap-17
+___ 01:30PM BLOOD ALT-370* AST-342* CK(CPK)-139 
+AlkPhos-136* TotBili-1.0 DirBili-0.7* IndBili-0.3
+___ 06:45AM BLOOD ALT-394* AST-396* ___ 
+AlkPhos-145* TotBili-1.5
+___ 06:45AM BLOOD Lipase-168*
+___ 01:30PM BLOOD CK-MB-4 cTropnT-0.04* proBNP-146
+___ 01:30PM BLOOD TotProt-6.5 Albumin-4.0 Globuln-2.5 
+Calcium-9.9
+___ 06:45AM BLOOD Albumin-3.9 Calcium-10.0 Phos-4.9* Mg-2.6
+___ 05:00AM BLOOD Calcium-9.6 Phos-4.5 Mg-2.6
+
+___ ECG: Sinus tachycardia. Right bundle-branch block. T 
+wave abnormalities.
+Since the previous tracing of ___ the rate is faster. 
+Clinical correlation
+is suggested.
+
+___ CT-Chest w/contrast, CT-ABD/PELV:
+INDICATION: Shortness of breath, chest pain, malaise, fatigue.
+COMPARISON: None.
+TECHNIQUE: Contrast-enhanced MDCT-acquired axial images of the 
+chest,
+abdomen, and pelvis from the thoracic inlet to the pubic 
+symphysis.
+Multiplanar reformatted images were obtained.
+CT OF THE CHEST WITH INTRAVENOUS CONTRAST: A 4.1 x 2.8 x 3.7 cm 
+mass-like
+consolidation in the posterior right lower lobe, with associated 
+right hilar
+and mediastinal lymphadenopathy is worrisome for malignancy. The 
+largest
+lymph node is located in the lower right paratracheal station 
+(3:28) 3.2 x 3.0
+cm; subcarinal station (3:43) 4.4 x 2.8 cm and right hilum 
+(3:39) 3.1 x 1.9
+cm. There is no pleural or pericardial effusion. Dense 
+atherosclerotic
+calcification is seen involving the aortic arch. The heart size 
+is normal.
+The central pulmonary arteries are opacified normally without 
+evidence of
+filling defect. Attenuation of the subsegmental branches of the 
+right lower
+lobe pulmonary arteries on the early study, which is less 
+conspicuous on the
+delayed images is most likely related to perfusion abnormality 
+resulting from
+compression of the vessel by lymphadenopathy.
+CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST: The liver shows 
+numerous ill-
+defined hypodense lesions scattered throughout the liver, 
+worrisome for
+metastatic disease. The spleen, adrenal glands, and pancreas are 
+normal.
+The kidneys enhance and excrete contrast symmetrically. Numerous 
+hypodensities
+are identified in both kidneys. The largest in the upper pole of 
+the right
+kidney measures 2.3 cm and in the lower pole of the left kidney 
+measures 2.2
+cm and most consistent with cysts; the remainder are too small 
+to
+characterize.
+The intra-abdominal loops of large and small bowel maintain a 
+normal caliber
+without evidence of obstruction. Note is made of a small 
+duodenal
+diverticulum (6:45). Post- surgical changes related to resection 
+of a colonic
+lipoma are identified adjacent to the proximal right colon.
+The abdominal aorta maintains a normal caliber. Aortic 
+atherosclerotic
+calcification is moderate. The celiac axis, SMA, and ___ are 
+patent. There
+is no lymphadenopathy, free air or free fluid.
+CT OF THE PELVIS WITH INTRAVENOUS CONTRAST: The bladder, rectum, 
+and pelvic
+loops of small bowel are normal. The prostate is enlarged and 
+measures 6.5
+cm. There is sigmoid diverticulosis without evidence of 
+diverticulitis. Note
+is made of a fat-containing right inguinal hernia. There is no 
+free fluid or
+lymphadenopathy.
+BONE WINDOWS: No suspicious lytic or sclerotic lesion is 
+identified. Mild
+degenerative changes are seen involving the thoracolumbar lumbar 
+spine.
+ 
+IMPRESSION:
+1. A 4.1 x 2.8 cm mass-like consolidation in the posterior 
+aspect of the
+right lower lobe, with associated right hilar and mediastinal 
+lymphadenopathy
+suggests primary lung malignancy with metastases.
+2. Innumerable ill-defined hypodensities scattered throughout 
+the liver
+consistent with metastatic disease.
+3. No evidence of pulmonary embolus. Slight attenuation of the 
+subsegmental
+pulmonary arteries involving the right lower lobe likely relates 
+to perfusion
+abnormality secondary to compression of the proximal pulmonary 
+artery by
+enlarged lymph nodes.
+4. Numerous hypodense lesions in the kidneys, the largest of 
+which are most
+consistent with cysts. The remainder are too small to 
+characterize.
+5. Post-surgical changes in the region of the proximal right 
+colon,
+consistent with history of resection of colonic lipoma.
+6. Scattered colonic diverticulosis without evidence of 
+diverticulitis.
+
+___ Pathology
+Cytology ReportPRECARINAL LNProcedure Date of ___
+  
+REPORT APPROVED ___
+SPECIMEN ___    ___    PRECARINAL LN
+ 
+SPECIMEN DESCRIPTION: Received bloody specimen in Cytolyt.
+  Prepared 1 ThinPrep slide.
+ 
+CLINICAL DATA: ___ y/o with tobacco abuse, RLL mass and
+  mediastinal lymphadenopathy.
+PREVIOUS BIOPSIES:
+___ SUBCARINAL LN
+REPORT ___. ___
+ 
+___: FNA, Precarinal lymph node:
+
+  POSITIVE FOR MALIGNANT CELLS, consistent with metastatic
+  small cell carcinoma.
+
+___
+Cytology ReportSUBCARINAL LNProcedure Date of ___
+  
+REPORT APPROVED ___
+SPECIMEN ___    ___    SUBCARINAL LN
+ 
+SPECIMEN DESCRIPTION: Received bloody specimen in Cytolyt.
+  Prepared 1 ThinPrep slide.
+ 
+CLINICAL DATA: ___ y/o with tobacco abuse, RLL mass and
+  mediastinal lymphadenopathy.
+REPORT ___. ___
+ 
+___: FNA, Subcarinal lymph node:
+  
+  POSITIVE FOR MALIGNANT CELLS, consistent with metastatic
+  small cell carcinoma.
+  
+  Note: Drs. ___ and ___ were notified of the
+  results via email on ___ by Dr. ___.
+DIAGNOSED BY:
+___, CT(___)
+___, M.D.
+
+___ Pathology
+ytology ReportBRONCHIAL WASHINGSProcedure Date of ___
+  
+REPORT APPROVED ___
+SPECIMEN ___    ___    BRONCHIAL WASHINGS
+ 
+SPECIMEN DESCRIPTION: Received 25ml pink fluid.
+  Prepared 1 ThinPrep slide.
+  BAL RLL specimen.
+ 
+CLINICAL DATA: ___ y/o with tobacco abuse, RLL mass and
+  mediastinal lymphadenopaty.
+PREVIOUS BIOPSIES:
+___ BRONCHIAL BRUSHINGS
+___ SUBCARINAL LN
+REPORT ___. ___
+ 
+___: Bronchial BAL RLL:
+  
+  NEGATIVE FOR MALIGNANT CELLS.
+  
+  Pulmonary macrophages, squamous cells, and bronchial
+  epithelial cells.
+  
+  Note: Drs. ___ and ___ were notified of the
+  results via email on ___ by Dr. ___.
+DIAGNOSED BY:
+___, CT(___)
+___, M.D.
+
+___ ECHO
+Impression:
+The left atrium is elongated. Left ventricular wall thicknesses 
+are normal. The left ventricular cavity size is normal. Left 
+ventricular systolic function is hyperdynamic (EF 80%). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic root is mildly dilated at the sinus level. The aortic 
+valve leaflets (3) are mildly thickened but aortic stenosis is 
+not present. Trace aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. There is no mitral valve 
+prolapse. Trivial mitral regurgitation is seen. There is mild 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. 
+
+___ CT Head: 
+INDICATION: ___ man with new lung mass and likely liver 
+mets, history
+of CVA, TIA symptoms in ___, to evaluate for large mass, mets.
+ 
+COMPARISON: CT of the head done on ___.
+ 
+TECHNIQUE: Non-contrast CT of the head was performed.
+ 
+FINDINGS:
+ 
+There is a small, 0.8 x 1.3 cm hyperdense extra-axial lesion in 
+the right
+inferior frontal lobe, adjacent to the coronal suture, causing 
+mild
+indentation on the adjacent portion of the sylvian fissure. No 
+large area of
+surrounding edema is noted. There is no hyperostosis of the 
+adjacent bone.
+This is not definitely identifiable on the prior study of ___, 
+although a
+subtle focus is not excluded on that study. Prominent areas of 
+ossification
+from the inner table of the frontal bones can represent areas of 
+hyperostosis
+or less likely ossified lesions. (series 2, image 16), slightly 
+more prominent
+on the present study and may relate to the differences in the
+gantry angulation.
+The ventricles and extra-axial CSF spaces are unremarkable. 
+Atherosclerotic
+vascular calcifications are noted in the cavernous carotid 
+arteries. The
+visualized portions of the paranasal sinuses are unremarkable.
+ 
+IMPRESSION:
+1. 0.8 x 1.3 cm hyperdense extra-axial lesion in the right 
+inferior frontal
+region, which can represent a meningioma; other dural-based 
+neoplasms like
+metastasis, or lymphoma. Further evaluation with MR of the head 
+without and
+with IV contrast is necessary, for better assessment and to 
+exclude other
+lesions. Given the lack of history of trauma, hematoma is less 
+likely but not
+completely excluded. No surrounding mass effect.
+ 
+Findings and recommendations were discussed with ___ by Dr. 
+___ on
+___, around 4 p.m.
+ 
+Brief Hospital Course:
+___ year old  male with complaints of dyspnea and malaise, found 
+to have a large mass in the posterior aspect of the right lower 
+lobe with hilar lymphadenopathy and evidence of liver 
+metastasis. He was admitted to the medical service in stable 
+condition. He had evidence of mild fluid overload and underwent 
+gentile diuresis. A bronchoscopy was performed to assess the 
+lung mass.
+
+# Pulmonary mass - likely primary malignancy with evidence 
+already of lymphatic and bony mets. Calcium is stable. Pt 
+underwent bronchoscopy on ___ showing LNs positive for 
+malignant cells consistent with metastatic small cell carcinoma. 
+Given the likely presence of liver metastases, an MRI was 
+ordered, but despite premedication, he was not able to tolerate 
+the procedure. After discussion with his family, an outpatient 
+MRI will be scheduled at a facility with an open MRI. A head CT 
+was performed on ___ to assess for large mets (last HD CT 
+___ and showed a 1. 0.8 x 1.3 cm hyperdense extra-axial lesion 
+in the right inferior frontal region that will need to be 
+further assess on MRI. A cardiac ECHO was also perfomred on 
+___ showing an EF of 80% and no evidence of a pericradial 
+effusion. Followup for his new malignancy was planned with 
+Thoracic Oncology. He continued to have an oxygen requirement in 
+the hospital and home services of supplemental oxygen were 
+arranged.
+
+# Transaminitis - Elevated LFTs on admission. Unclear etiology, 
+but given findings on CT scan, is likely secondary to metastatic 
+invasion of the liver. He had no abdominal pain or tenderness. 
+His LFTs were trended and remained relatively stable over his 
+hospital admission. His statin was held.
+
+# Edema, possibly secondary to diastolic failure, however, his 
+ECHO did not show evidence of failure. He was diuresed with some 
+improvement of his symptoms. He was discharged home on lasix.
+
+# Acute Renal Failure - Baseline creatinine had previously been 
+1.0, and was 1.4 at admission. He did not appear dry and his 
+cardiac ECHO did not show significant failure. He was diuresed 
+gentely, and his Cr improved slightly to 1.3 prior to discharge. 
+He was discharged on a lower dose of lasix and will follow up 
+with his primary care physician.
+ 
+Medications on Admission:
+Travaprost
+Lipitor
+ASA ___
+MVI
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Travatan  Ophthalmic
+4. home oxygen by nasal cannula
+O2 at 2L NC continuous. Titrate as needed for O2Sat > 92. ___ 
+MD for O2 sat < 90. 
+Conserving device for portable.
+5. Lasix 20 mg Tablet Sig: Two (2) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Lung mass
+Acute renal failure
+Hypoxia
+
+ 
+Discharge Condition:
+Stable, for home with services.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because of your symptoms of 
+shortness of breath and because of the findings of a mass on 
+your CT scan of your lungs. The CT scan also showed changes to 
+your liver that may be related to the mass in your lung.
+
+Your blood work showed some worsening of your kidney function, 
+which improved somewhat during your stay. Your diuretics (water 
+pills) were stopped becuase of your kidney function. You were 
+restarted on a lower dose of lasix, and should discuss returning 
+to your regular dose with your PCP.
+
+You had a bronchoscopy in order to diagnose the mass in your 
+lung. The results will take several days and you will need to 
+follow up with Thoracic Oncology to discuss the results.
+
+You also had an echocardiogram to examine your heart function 
+that did not show any heart failure as a cause for your 
+shortness of breath.
+
+You had a head CT-scan which showed a small abnormal finding 
+that needs to be followed up by MRI. You should discuss the 
+scheduling of an outpatient open-MRI with your PCP ___ 
+Thoracic Oncology.
+
+You continued to require oxygen while in the hospital and will 
+need to continue using oxygen at home. Home services for oxygen 
+were arranged for you.
+
+Your lipitor was stopped due to the elevation of your liver 
+blood tests. Please discuss restarting this medication with your 
+PCP at your followup visit.
+
+Please ___ your doctor or go to the ER for:
+-chest pain
+-worsening shortness of breath
+-fever or shaking chills
+-severe HA
+-severe nausea or vomitting
+-changes in mental status or lethargy
+-any new or concerning symptoms
+
+ 
+Followup Instructions:
+___

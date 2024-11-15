@@ -1,0 +1,316 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain, shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+___: Impella removal
+___: 
+1. Coronary artery bypass graft x 5. Total arterial 
+revascularization.
+2. Skeletonized left internal mammary artery sequential grafting 
+to diagonal and left anterior descending artery.
+3. Skeletonized in situ right internal mammary artery graft to 
+obtuse marginal artery.
+4. Left radial artery sequential grafting to posterior 
+descending artery and posterior left ventricular branch.
+5. Endoscopic harvesting of the left radial artery. 
+ 
+History of Present Illness:
+Mr. ___ is a is a ___ year old man with past medical history of 
+hyperlipidemia and hypertension. He presented to presented to 
+his PCP with ___ three day history of shortness of breath and 
+palpitations. An ECG was notable for <1mm elevation in V4, V5 
+prompting ED evaluation. He reported that his symptoms have been 
+coming and going for three days. He states that they came on 
+while driving. He denies relieving factors. He reported that 
+while exercising yesterday he developed additional fatigue and 
+shortness of breath. He was referred to his local ED and was 
+found to have an elevated troponin. A cardiac catheterization 
+revealed multivessel disease and an occluded LAD. This was 
+thought to be the culprit lesion but due its ostial location a 
+stent was thought to be dangerous. An Impella was placed and the 
+patient developed a groin hematoma that improved with a 
+Fem-Stop. He was transferred for cardiology and cardiac surgery 
+consult. 
+ 
+Past Medical History:
+Anxiety
+Coronary Artery Disease
+Hyperlipidemia
+Hypertension
+Kidney Stones
+
+ 
+Social History:
+___
+Family History:
+No premature history of heart disease
+ 
+Physical Exam:
+Admission Physical Exam:
+=======================
+HR: 87 bpm  BP: 106/78  RR: 19  O2 sat: 96% RA
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: Icteric sclera, PERRLA [x] EOMI x[]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______ 
+Abdomen: Soft [x] non-distended [x] non-tender [x] bowel sounds 
++[x]
+Extremities: Warm [x], well-perfused [x]  Edema []
+Varicosities: None [x]
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: Impella site with hematoma  Left: 2+
+DP           Right: 2+  Left: 2+
+___           Right: 2+  Left: 2+
+Radial       Right: 2+  Left: 2+
+
+Carotid Bruit:        Right: none   Left: none
+.
+Discharge Exam:
+98.3
+PO 105 / 69 74 20 98 Ra 
+.
+General: NAD [x]  
+Neurological: A/O x3 [x] non-focal [x] 
+HEENT:  PEERL [x] 
+Cardiovascular: RRR [x]  Irregular []  Murmur [] Rub [] 
+Respiratory: CTA [x]  No resp distress [x]
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm [x]  Edema tr
+Left Upper extremity    Warm [x]  Edema tr
+Right Lower extremity   Warm [x]  Edema tr
+Left Lower extremity    Warm [x]  Edema tr
+Pulses:
+DP             Right: p      Left:p
+___             Right: p      Left:p
+Radial         Right: p      Left:p
+Skin/Wounds: Dry [x] intact [x]
+Sternal: CDI [x] no erythema or drainage [x]
+                 Sternum stable [x] Prevena []
+Upper extremity: Right [] Left [x]  CDI [x]
+
+ 
+Pertinent Results:
+Lab Results:
+==================
+Admission labs:
+___ 09:50PM BLOOD WBC-8.4 RBC-5.36 Hgb-14.1 Hct-42.2 
+MCV-79* MCH-26.3 MCHC-33.4 RDW-13.5 RDWSD-38.5 Plt ___
+___ 09:50PM BLOOD ___ PTT-32.4 ___
+___ 09:50PM BLOOD ___ 09:50PM BLOOD Glucose-122* UreaN-14 Creat-1.5* Na-139 
+K-4.2 Cl-103 HCO3-24 AnGap-12
+___ 09:50PM BLOOD ALT-21 AST-63* LD(LDH)-516* CK(CPK)-290 
+AlkPhos-82 TotBili-2.0* DirBili-0.2 IndBili-1.8
+___ 09:50PM BLOOD CK-MB-24* MB Indx-8.3* cTropnT-0.38*
+___ 09:50PM BLOOD Albumin-4.4 Calcium-9.6 Phos-3.6 Mg-1.9 
+Cholest-277*
+___ 09:50PM BLOOD Hapto-<10*
+___ 10:06PM BLOOD %HbA1c-5.6 eAG-114
+___ 09:50PM BLOOD Triglyc-146 HDL-55 CHOL/HD-5.0 
+LDLcalc-193*
+
+Reports:
+==================
+Transthoracic Echocardiogram ___
+There is suboptimal image quality to assess regional left 
+ventricular function. The visually estimated left ventricular 
+ejection fraction is 35%. The Impella catheter is correctly 
+positioned with respect to the aortic valve. There is no 
+pericardial effusion.
+
+IMPRESSION: Limited study. Moderately depressed left ventricular 
+systolic function with suggestion of relative hypokinesis of 
+anterior, anterolateral, inferolateral segments, and true apex, 
+however suboptimal image quality precludes adequate assessment 
+of extent of left ventricular systolic dysfunction. Impella 
+catheter tip within acceptable distance range, however in some 
+views it appears that it may be abutting the papillary muscles.
+
+Carotid Ultrasound ___
+Right ICA 0% stenosis with mild intimal thickening. Left ICA 0% 
+stenosis.
+
+Transthoracic Echocardiogram ___
+The left atrial volume index is mildly increased. There is 
+normal left ventricular wall thickness with a normal cavity 
+size. There is normal regional left ventricular systolic 
+function. Overall left ventricular systolic function is low 
+normal. Quantitative biplane left ventricular ejection fraction 
+is 51 % (normal 54-73%). Left ventricular cardiac index is low 
+normal (2.0-2.5 L/min/m2). Global longitudinal strain is 
+depressed (-13 %; normal less than -20%) There is Grade I 
+diastolic dysfunction. Mildly dilated right ventricular cavity 
+with normal free wall motion. The aortic sinus diameter is 
+normal for gender with normal ascending aorta diameter for 
+gender. The aortic arch diameter is normal with a mildly dilated 
+descending aorta. The aortic valve leaflets
+(3) appear structurally normal. There is no aortic valve 
+stenosis. There is trace aortic regurgitation. The mitral valve 
+leaflets are mildly thickened with no mitral valve prolapse. 
+There is mild [1+] mitral regurgitation. The pulmonic valve 
+leaflets are normal. The tricuspid valve leaflets appear 
+structurally normal. There is mild to
+moderate [___] tricuspid regurgitation. The estimated pulmonary 
+artery systolic pressure is normal. There is a trivial 
+pericardial effusion.
+
+IMPRESSION: 1) Mild global LV systolic dysfunction with mild 
+regional variation in contractilty suggesting either diffuse 
+cardiomyopathic process or CAD with ischemic stunning in LCX 
+(significant post-systolic contraction suggests viability and 
+stunning rather then myocardial
+infarction - see bull's eye colored in blue). 2) Mild to 
+moderate tricuspid regurgitation in setting of mild RV dilation 
+with normal free wall function.
+.
+
+___ 05:24AM BLOOD WBC-11.2* RBC-2.83* Hgb-7.3* Hct-23.3* 
+MCV-82 MCH-25.8* MCHC-31.3* RDW-13.2 RDWSD-39.8 Plt ___
+___ 02:10AM BLOOD WBC-17.6* RBC-3.09* Hgb-8.2* Hct-25.3* 
+MCV-82 MCH-26.5 MCHC-32.4 RDW-13.5 RDWSD-39.8 Plt ___
+___ 06:30PM BLOOD WBC-21.7* RBC-4.02* Hgb-10.8* Hct-32.3* 
+MCV-80* MCH-26.9 MCHC-33.4 RDW-13.2 RDWSD-38.5 Plt ___
+___ 06:30PM BLOOD ___ PTT-31.3 ___
+___ 05:24AM BLOOD Glucose-100 UreaN-19 Creat-1.4* Na-142 
+K-4.1 Cl-100 HCO3-32 AnGap-10
+___ 02:45AM BLOOD Glucose-139* UreaN-12 Creat-1.2 Na-140 
+K-4.8 Cl-109* HCO3-25 AnGap-6*
+___ 05:24AM BLOOD Mg-1.9
+ 
+Brief Hospital Course:
+He was admitted to ___ on ___ and was transferred to the 
+CCU for further care. He was rapidly weaned from Impella support 
+and the device was subsequently removed. Cardiac surgery was 
+consulted for revascularization. He underwent routine 
+preoperative testing and evaluation. He had an access site bleed 
+in the right groin and arrived with a Femstop in place. He 
+maintained good distal pulses throughout the stay, and 
+definitive hemostasis was achieved at the time of Impella 
+removal. He presented with a creatinine of 1.5 from an unknown 
+baseline. He remained stable and was taken to the operating room 
+on ___ and underwent coronary artery bypass grafting x 5. 
+Please see operative note for full details. He tolerated the 
+procedure well and was transferred to the CVICU in stable 
+condition for recovery and invasive monitoring. 
+ 
+He weaned from sedation, awoke neurologically intact and was 
+extubated on POD 1.  Beta blocker was initiated and he was 
+diuresed toward his preoperative weight. He remained 
+hemodynamically stable and was transferred to the telemetry 
+floor for further recovery. He was evaluated by the physical 
+therapy service for assistance with strength and mobility. By 
+the time of discharge on POD 4 he was ambulating freely, the 
+wound was healing, and pain was controlled with oral analgesics. 
+He was discharged home in good condition with appropriate follow 
+up instructions.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Lisinopril 20 mg PO DAILY 
+3. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin [Aspirin Low Dose] 81 mg 1 tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*1 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth qpm Disp #*30 Tablet 
+Refills:*1 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Docuprene] 100 mg 1 capsule(s) by mouth 
+twice a day Disp #*60 Tablet Refills:*0 
+4.  Furosemide 20 mg PO DAILY Duration: 5 Days 
+RX *furosemide 20 mg 1 tablet(s) by mouth once a day Disp #*5 
+Tablet Refills:*0 
+5.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Severe 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*60 Tablet Refills:*0 
+6.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+Duration: 6 Months 
+continue for 6 months after surgery 
+RX *isosorbide mononitrate 30 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*5 
+7.  Metoprolol Tartrate 37.5 mg PO TID 
+RX *metoprolol tartrate 25 mg 1.5 tablet(s) by mouth three times 
+a day Disp #*150 Tablet Refills:*1 
+8.  Potassium Chloride 20 mEq PO DAILY Duration: 5 Days 
+RX *potassium chloride 20 mEq 1 packet(s) by mouth once a day 
+Disp #*5 Tablet Refills:*0 
+9.  Ranitidine 150 mg PO DAILY 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*1 
+10.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Coronary Artery Disease
+Acute Kidney Injury
+Groin Hematoma
+Non-ST Elevation Myocardial Infarction
+
+Secondary Diagnosis:
+Anxiety
+Hyperlipidemia
+Hypertension
+Kidney Stones
+
+ 
+Discharge Condition:
+Alert and oriented x3 non-focal 
+Ambulating with steady gait
+Incisional pain managed with Dilaudid
+Incisions: 
+Sternal - healing well, no erythema or drainage 
+Edema - trace
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming until cleared by surgeon. Look at 
+your incisions daily for redness or drainage
+Please NO lotions, cream, powder, or ointments to incisions 
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the 
+chart.
+****call MD if weight goes up more than 3 lbs in 24 hours or 5 
+lbs over  5 days****.
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive 
+No lifting more than 10 pounds for 10 weeks
+Encourage full shoulder range of motion, unless otherwise 
+specified
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

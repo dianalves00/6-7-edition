@@ -1,0 +1,420 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ is an ___ year old woman w/PMH HFpEF, mixed severity 
+AS, afib on apixaban, HTN, HLD, CKD III presenting with 
+shortness of breath.
+
+Patient had a recent admission from ___ where she 
+presented with DOE and chest/shoulder discomfort. She was found 
+to be in a heart failure exacerbation with new afib. She was 
+diuresed with IV Lasix with improvement in hre dyspnea. For her 
+afib, she was started on apixaban and amiodarone and underwent 
+DCCV with restoration of sinus rhythm. For her anginal symptoms, 
+she underwent pMIBI which did not show perfusion defects 
+(coronary angiography was deferred due to ___. She was found to 
+have progression in severity of her aortic stenosis during this 
+hospitalization and was evaluated by the TAVR team. TAVR was 
+deferred pending coronary angiography to assess for severe CAD. 
+Notably, the patient's home BP meds were held during this 
+admission due to orthostatic hypotension requiring midodrine 
+thought to be secondary to diuresis. She was not discharged on 
+anti-hypertensives or diuretics.
+
+Since discharge, she has continued to have shortness of breath 
+with exertion with occasional associated chest/shoulder 
+discomfort. This evening when she was walking to the bathroom, 
+she developed acute onset worsening shortness of breath which 
+she describes as feeling wheezy. She initially sat and waited 
+for her breathing to improve, however, when it did not improve, 
+she called EMS. EMS arrived and gave the patient 4x SL 
+nitroglycerin, nitroglycerin paste, 20mg Diltiazem, 40mg IV 
+Lasix and placed her on CPAP for SpO2 82% on room air. 
+
+In the ED,  
+- Initial vitals were: HR 102 BP 132/100 RR 26 SpO2 94% bipap  
+- Exam notable for:  Speaking in ___ word sentences, moderate 
+respiratory distress, tachycardic, irregularly irregular, coarse 
+breath sounds bilaterally with wheezing in LLL, skin warm and 
+dry, no peripheral edema
+- Labs notable for: WBC 11.1 ___ 15158 Cr 1.9 trop 0.08
+- Studies notable for: CXR showing interval worsening of now 
+mild to moderate pulmonary vascular congestion and edema. 
+
+On arrival to the CCU, she states that her breathing is 
+significantly improved. She is not currently having chest pain 
+or shortness of breath. Denies fevers, chills, nausea, vomiting, 
+diarrhea, or dysuria. Per patient's granddaughter, her BPs at 
+home had improved since discharge to the 140s systolic.   
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Hypertension
+- Hyperlipidemia
+- CKD Stage III
+- Obesity 
+- History of tobacco use 
+2. CARDIAC HISTORY  
+- Mild aortic stenosis   
+3. OTHER PAST MEDICAL HISTORY  
+- Polymyalgia rheumatic
+- Osteoarthritis
+- Iron deficiency anemia
+- Spinal stenosis
+- Sleep disorder
+- History of squamous cell carcinoma
+ 
+Social History:
+___
+Family History:
+Mother - HTN, CVA at age ___, died at age ___
+Father - COPD, 3:1 heart block
+Brother - MI x2, first in early ___, died at age ___
+Brother - Died suddenly overnight at age ___
+ 
+Physical Exam:
+ADMISSION EXAM
+=================
+VS:  HR 90 BP 110/67 RR 17 SpO2 94% 3L NC
+GENERAL: Lying in bed, speaking in full sentences, NAD.
+HEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI. 
+
+NECK: Supple. JVP 12cm H2O.  
+CARDIAC: Normal rate, regular rhythm. ___ systolic murmur heard
+best at base.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. Bibasilar rales to mid
+lung fields. 
+ABDOMEN: Soft, non-tender, non-distended. No palpable
+hepatomegaly or splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric. 
+
+DISCHARGE EXAM
+==================
+___ 0716 Temp: 98.4 PO BP: 100/63 HR: 111 RR: 20 O2 sat: 
+91%
+O2 delivery: RA 
+___ Total Intake: 180ml PO Amt: 180ml 
+___ Total Output: 350ml Urine Amt: 350ml 
+GENERAL: Well-appearing elderly woman, sitting in bed 
+comfortably, hard of hearing, wearing hearing-aid, in NAD
+HEENT: NC/AT, EOMI, anicertic sclera, MMM  
+NECK: JVP 11-12cm
+CARDIAC: Irregularly irregular, normal S1/S2, harsh III/VI 
+systolic ejection murmur loudest at upper sternal borders 
+LUNGS: CTAB, no accessory muscle use 
+ABDOMEN: Soft, non-tender, non-distended, active bowel sounds
+EXTREMITIES: no edema
+NEURO: Alert, oriented, moving all extremities with purpose, no 
+facial asymmetry  
+ 
+Pertinent Results:
+ADMISSION LABS
+=================
+___ 12:30AM BLOOD WBC-11.1* RBC-3.56* Hgb-10.4* Hct-33.4* 
+MCV-94 MCH-29.2 MCHC-31.1* RDW-14.6 RDWSD-50.3* Plt ___
+___ 12:30AM BLOOD ___ PTT-30.2 ___
+___ 12:30AM BLOOD Glucose-155* UreaN-60* Creat-1.9* Na-140 
+K-4.9 Cl-102 HCO3-19* AnGap-19*
+___ 12:30AM BLOOD ALT-10 AST-29 CK(CPK)-221* AlkPhos-82 
+TotBili-0.8
+___ 12:30AM BLOOD CK-MB-8 ___
+___ 12:30AM BLOOD cTropnT-0.08*
+___ 04:36AM BLOOD cTropnT-0.16*
+
+RELEVANT STUDIES
+=================
+___ CXR PORTABLE AP:
+Interval worsening of now mild to moderate pulmonary vascular 
+congestion and edema. 
+
+MICROBIOLOGY
+=================
+Urine with e.coli (asymptomatic bacteriuria)
+
+ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+DISCHARGE LABS
+=================
+___ 07:10AM BLOOD WBC-8.9 RBC-3.65* Hgb-10.7* Hct-33.8* 
+MCV-93 MCH-29.3 MCHC-31.7* RDW-14.6 RDWSD-49.4* Plt ___
+___ 07:10AM BLOOD ___ PTT-31.6 ___
+___ 06:25AM BLOOD Glucose-96 UreaN-63* Creat-2.2* Na-142 
+K-4.4 Cl-103 HCO3-23 AnGap-16
+___ 06:25AM BLOOD Calcium-9.0 Phos-3.4 Mg-1.9
+ 
+Brief Hospital Course:
+SUMMARY:
+___ w/ new HFpEF and atrial fibrillation on apixaban (new as of 
+___, low flow/low gradient severe AS, HTN, HLD, and CKD III 
+who presented with shortness of breath, found to have acute 
+hypoxic respiratory failure secondary to pulmonary congestion 
+from a HFpEF exacerbation, with course c/b afib with RVR.
+
+She required one night in the CCU for diuresis and BIPAP. 
+
+Notably, patient was discharged on ___, one day prior to this 
+re-admission, for similar (albeit less severe) symptoms. Due to 
+orthostasis, she was not discharged on a diuretic. Furthermore, 
+she was started on amiodarone s/p successful DCCV for new atrial 
+fibrillation during that admission, though was not discharged on 
+beta blockade due to sinus bradycardia. 
+
+TRANSITIONAL ISSUES:
+Code status: DNR/DNI (reverse for procedures)
+Contact: ___ (Daughter), ___
+Dispo: home with ___, ___
+Discharge weight: 84.7 kg
+Discharge creatinine: 2.2
+
+- Severe aortic stenosis:
+[] Follow up with structural heart team is not yet scheduled
+[] Remaining to ___ for pre-TAVR evaluation:
+1. Needs a left heart catheterization for coronart evaluation
+2. Needs dental clearance/panorex 
+
+- Acute heart failure exacerbation (HFpEF, EF 57%):
+[] Weigh daily; dry weight ~ 84 kg
+[] Initiated Torsemide 5 mg PO daily. Adjust based on follow up 
+weight and serum creatinine
+[] Add low dose ACE-I when able to tolerate from a BP standpoint
+
+- Atrial fibrillation with rapid ventricular response:
+[] Started metoprolol succinate 12.5 mg BID. Adjust as tolerated 
+(note that we split 25 mg to minimize hypotension)
+[] Amiodarone 200 mg BID until ___, then switch to once 
+daily 
+
+- NSTEMI II:
+[] Recent nuclear pharm stress negative. *Needs LHC as noted 
+above. 
+[] Discharged on aspirin 81 mg 
+
+- AoCKD:
+[] Discharge creatinine 2.2
+[] *Please repeat a BMP at follow up. ___ need to adjust 
+Torsemide dosing/frequency pending serum creatinine
+
+- Iron deficiency (ferritin 38):
+[] Received 1 dose of IV ferric gluconate 250 mg on ___
+[] Consider oral iron supplementation at every other day dosing 
+if tolerates
+
+- Hypertension:
+[] Due to soft BPs iso metoprolol and torsemide, we held home 
+chlorthalidone 25, lisinopril 30, amlodipine 2.5, labetalol 100 
+BID
+[] If pressures are able to tolerate, recommend starting low 
+dose ACE inhibitor 
+
+- GERD:
+[] Consider discontinuing home omeprazole 20 mg unless medically 
+indicated
+
+- Osteoarthritis/PMR/Pain:
+[] Dose reduced Gabapentin from 400 mg BID to ___ mg BID, would 
+continue at this dose
+[] Consider weaning off Tramadol to reduce polypharmacy (she did 
+not require any while in house)
+
+- Insomnia:
+[] Consider weaning off Zolpidem to reduce polypharmacy and high 
+risk medications
+
+ACTIVE ISSUES:
+# Acute heart failure exacerbation (HFpEF, EF 57%):
+# Hypoxia:
+# NSTEMI II:
+Pt with new HFpEF, diagnosed on recent admission, presented with 
+shortness of breath and a 4L O2 requirement. proBNP was 15,000. 
+Symptoms improved with BIPAP and 40 mg IV lasix. During this 
+episode, she also had a mild troponin elevation with peak of 
+0.23, and no ECG changes, likely demand in nature. 
+- PRELOAD: Torsemide 5 mg PO daily
+- AFTERLOAD: held iso soft BPs
+
+# Atrial fibrillation with rapid ventricular response:
+CHADS2-VASc of 5, diagnosed on previous admission (___), 
+s/p successful DCCV on ___. She was initiated on amiodarone 
+and apixaban 2.5mg BID. Beta blocker was held at discharge due 
+to sinus bradycardia. During this admission, pt developed afib 
+with rates in the 120s. She was initiated on metoprolol 
+succinate 12.5 mg BID in addition to amiodarone. She was in 
+sinus rhythm at discharge. 
+
+# Severe aortic stenosis:
+From discharge paperwork (___): TTE from ___ w/ normal EF 
+and mild AS. Repeat TTE (___) with ___ 0.5cm2, mean gradient 
+22, peak velocity 3.1m/s. Overall consistent with low gradient 
+aortic stenosis presumed due to hypertrophied LV with small 
+cavity. Evaluated by structural heart team who recommended 
+management of afib and evaluation for CAD. pMIBI negative. RHC 
+consistent with ECHO, showing severe aortic stenosis with mean 
+transvalvular gradient 24 mm Hg, and calculated ___ 0.78 cm2. 
+
+CHRONIC ISSUES:
+# Acute on chronic kidney disease:
+Admission Cr 1.9, discharge creatinine 2.2, up from most recent 
+discharge creatinine 1.7. Likely component of cardiorenal 
+disease. 
+
+# Iron deficiency:
+Mild normocytic anemia with Hb ___. Ferritin 38, suggestive of 
+borderline iron deficiency. Received 1 dose of 250 mg IV ferric 
+gluconate on ___ prior to discharge. 
+
+# Hypertension:
+Continued to hold home Chlorthalidone 25 mg, Labetalol 100 mg 
+bid, Lisinopril 30 mg and amlodipine 2.5 mg throughout admission 
+in light of soft SBPs and renal function. 
+
+# Hyperlipidemia: 
+Cholesterol 177, ___ 101, HDL 48, Chol/HD 3.7, LDLcalc 109. 
+Started Atorvastatin 80 mg QHS during prior admission. 
+
+# Osteoarthritis: 
+Continued home tramadol ___ q6hr:PRN though did not require 
+while inpatient. 
+
+# Polymyalgia rheumatic:
+Gabapentin at 200 mg BID, reduced from 400 mg BID in light of 
+worsening renal function. 
+
+# Insomnia:
+Continued home Zolpidem ___ mg QHS:PRN; generally only required 
+5 mg.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 400 mg PO BID 
+2. Omeprazole 20 mg PO DAILY 
+3. TraMADol ___ mg PO Q6H:PRN Pain - Moderate 
+4. Apixaban 2.5 mg PO BID 
+5. Tobramycin-Dexamethasone Ophth Susp 1 DROP BOTH EYES QID 
+6. Zolpidem Tartrate ___ mg PO QHS:PRN insomnia 
+7. Amiodarone 200 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+once a day Disp #*30 Tablet Refills:*1 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth at bedtime. Disp 
+#*30 Tablet Refills:*1 
+3.  Metoprolol Succinate XL 12.5 mg PO BID 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+twice a day. Disp #*30 Tablet Refills:*1 
+4.  Torsemide 5 mg PO DAILY 
+RX *torsemide 5 mg 1 tablet(s) by mouth once a day. Disp #*30 
+Tablet Refills:*1 
+5.  Gabapentin 200 mg PO BID 
+RX *gabapentin 100 mg 2 capsule(s) by mouth twice a day. Disp 
+#*120 Capsule Refills:*0 
+6.  Amiodarone 200 mg PO BID  
+7.  Apixaban 2.5 mg PO BID  
+8.  Omeprazole 20 mg PO DAILY  
+9.  TraMADol ___ mg PO Q6H:PRN Pain - Moderate  
+10.  Zolpidem Tartrate ___ mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+Acute heart failure exacerbation
+Hypoxia
+
+SECONDARY:
+Atrial fibrillation with rapid ventricular response
+NSTEMI, type II
+Severe aortic stenosis
+Acute on chronic kidney injury
+Iron deficiency anemia
+Hypertension
+Hyperlipidemia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear ___,
+
+You were admitted to ___ 
+because you were short of breath. 
+
+What happened in the hospital?
+- You were given a medication called Torsemide to remove fluid 
+from your lungs
+- You were given a medication called Metoprolol to help slow 
+your heart rhythm. 
+- You felt better and were ready for discharge.
+
+When you go home:
+- We have made several changes to your medication list, so 
+please take them as prescribed.
+- Your AMIODARONE should be taken twice a day UNTIL ___. 
+ON ___, TAKE IT ONLY ONCE A DAY. 
+- Please go to your follow up appointments
+- PLEASE SCHEDULE A DENTAL APPOINTMENT FOR DENTAL CLEARANCE to 
+complete the work up for the dental clearance.
+- You will need to schedule a cardiac catheterization with your 
+cardiologist to complete the work up for the valve surgery
+- Please weigh yourself every morning. If your weight goes up 3 
+pounds, please call your doctor as you may need to take an extra 
+dose of your water pill called Torsemide.
+- If you develop shortness of breath, leg swelling, chest pain, 
+palpitations, or light headedness, please call your doctor or 
+return to the nearest emergency room.
+
+It was a pleasure taking part in your care. We wish you all the 
+best!
+
+Sincerely,
+The cardiology service at ___
+ 
+Followup Instructions:
+___

@@ -1,0 +1,681 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amiodarone
+ 
+Attending: ___
+ 
+___ Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+HISTORY OF THE PRESENTING ILLNESS:  
+This ___ male (___) with past medical
+history of HFpEF (Ef 58%), severe tricuspid regurgitation, CKD 3
+(baseline 1.4-1.5), active basal cell cancer (abdomen, declined
+treatment ___, HTN, Afib on apixaban, and SSS s/p PPM who
+presents with fever. 
+
+He reported possible onset of R-sided abdominal pain last night
+(but denied later on repeat questioning) without nausea, emesis,
+CP, SOB, melena, hematochezia or dysuria. In the ED, he reported
+that he had an episode of diarrhea the day before (although on
+the floor, he also denied this). 
+
+In the ED, initial vitals were:  
+T 102.2  HR 110  BP 135/75  RR 16  O2 Sat 96% RA 
+
+Exam notable for:  
+General: Ill-appearing
+Pulmonary: Bibasilar crackles
+Abdominal/GI: Right upper quadrant and right lower quadrant
+tenderness
+
+Labs notable for:  
+UA positive for large leukocytes, positive for nitrites, 30
+protein, few bacteria, previously grew pan-sensitive 
+pseudomonas.
+Cr 2.1
+Lactate 2.2 -> 1.6 -> 2.7
+CBC: WBC 10.1, Hgb ___, Plt 122
+BNP 2249
+
+Imaging was notable for:  
+
+CT A/P with Contrast ___
+1. Moderate right and small left nonhemorrhagic pleural
+effusions. Cannot exclude overlying infectious process.
+2. No acute findings within the abdomen or pelvis to correlate
+with the patient's symptoms.
+3. Resolution of previously demonstrated colonic wall 
+thickening.
+There is persistent trace subhepatic nonhemorrhagic fluid with
+some haziness of the right-sided mesentery which overall appears
+improved from the prior study. No organized fluid collections.
+4. Interval mild increase in size of a 3.0 cm left pelvic
+sidewall soft tissue density lesion.
+5. Extensive diverticulosis of the bladder, unchanged from the
+prior study and likely related to chronic outlet obstruction.
+
+CXR ___
+1. Increased pulmonary vascular congestion with findings
+concerning for central pulmonary edema, however superimposed
+pneumonia is difficult to exclude.
+2. Interval increase in moderate cardiomegaly.
+
+Patient was given:  
+- IV ceftriaxone 1g at 3AM
+- Apixaban 2.5mg PO
+- Hydroxychloroquine 200mg PO
+- APAP 1g
+- IV ciprofloxacin 400mg
+- PO azithromycin 500mg
+
+Consults: None
+
+VS Prior to Transfer: 
+HR 85  BP 111/58  RR 18  O2 Sat 96% RA 
+
+Upon arrival to the floor, patient reports overall feeling well.
+He endorses that fever started the night before (T=102)
+associated with chills and shivering, but he otherwise had no
+symptoms. Specifically he reported increased urinary frequency
+without dysuria or hematuria. He also reported that he has had
+dyspnea with turning to the side while laying in bed over the
+last day, but he denies cough. He has had no sick contacts. He
+does intermittently cough when he eats.
+
+He reports that about ___ weeks ago, he had a stent placed in 
+his
+left lower extremity vein at the ___
+wound healing. (___). He was prescribed tramadol for
+pain, which he still uses intermittently. He received no
+antibiotics. He has been seen weekly and was last seen this past
+___. He was told that his wound was healing well.
+
+On the floor, he also reports new onset of left back pain. He 
+has
+had some itching on his back recently without rash. He denies 
+any
+headache, blurred vision, or other complaints.
+
+On reviewing his chart, it appears that he has had issues with
+left lower extremity arterial insufficiency and underwent
+angiography and PCI on ___ ___. He was
+to get another procedure in several weeks due to non-healing
+ulcers and pain at rest. 
+
+He also has a history of severe C. diff diarrhea requiring PO
+vancomycin and flagyl. He was most recently treated for C.diff 
+in
+___ when he was admitted for lightheadedness and 
+diarrhea.
+He had a prolonged taper of vancomycin then.
+
+ROS: Positive per HPI. Remaining 10 point ROS reviewed and
+negative  
+ 
+Past Medical History:
+-heart failure with preserved EF
+-severe TR on last ECHO
+-CKD
+-HTN
+-atrial fibrillation
+-SSS s/p PPM
+-colon CA s/p hemicolectomy
+-seronegative RA/CPPD disease
+-macrocytic anemia
+-active hepatitis C
+-iron deficiency 
+-basal cell carcinoma on abdomen (declined treatment ___ 
+-chronic sialoadenitis 
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+========================
+VITAL SIGNS: T 97.6 BP 114 / 66 HR 77 RR 20 O2 Sat 95 2L 
+GENERAL:  Appears comfortable, in no distress. Sitting up in bed
+HEENT:  EOMI. Oral mucosa moist.
+NECK:  No adenopathy. No JVD appreciated but with significant
+regurg from TR.
+CARDIAC:  Regular rate and rhythm, no murmurs.
+LUNGS:  Lungs with crackles at the bases. No wheezes.
+ABDOMEN:  Soft, nontender, nondistended.
+EXTREMITIES:  2+ lower extremity edema. Venous insufficiency.
+Left leg wrapped. Poor pulses appreciated given bandages.
+NEUROLOGIC:  Mood and affect appropriate
+SKIN:  Venous stasis and insufficiency as above.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITAL SIGNS: 
+___ 0859 Temp: 98.3 PO BP: 128/64 HR: 77 RR: 20 O2 sat: 96%
+O2 delivery: RA 
+Weight: 157.8lbs/71.6kg
+
+GENERAL:  Appears comfortable, in no distress. Sitting up in 
+bed.
+HEENT:  EOMI. Oral mucosa moist.
+NECK:  No adenopathy. No JVD appreciated but with significant
+regurg from TR.
+CARDIAC:  Regular rate and rhythm, no murmurs.
+LUNGS:  Lungs with soft crackles at the bases. No wheezes.
+ABDOMEN:  Soft, nontender, nondistended.
+EXTREMITIES:  2+ lower extremity edema extending up to his mid
+shins. Venous insufficiency.
+SKIN:  Venous stasis and insufficiency as above. Multiple
+ecchymosis over extremities in upper and lower extremities and 
+on
+chest. Open skin on bilateral upper extremities.
+
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 01:30AM   WBC-10.1* RBC-3.06* HGB-8.2* HCT-28.1* MCV-92 
+MCH-26.8 MCHC-29.2* RDW-22.4* RDWSD-75.6*
+___ 01:30AM   NEUTS-82.5* LYMPHS-11.1* MONOS-5.9 EOS-0.0* 
+BASOS-0.1 IM ___ AbsNeut-8.30* AbsLymp-1.12* AbsMono-0.59 
+AbsEos-0.00* AbsBaso-0.01
+___ 01:30AM   GLUCOSE-83 UREA N-45* CREAT-2.1* SODIUM-137 
+POTASSIUM-4.6 CHLORIDE-97 TOTAL CO2-25 ANION GAP-15
+___ 01:35AM   LACTATE-2.2*
+___ 01:30AM   LIPASE-29
+___ 01:30AM   proBNP-___*
+___ 06:33PM   PO2-47* PCO2-54* PH-7.32* TOTAL CO2-29 BASE 
+XS-0
+
+MICROBIOLOGY:
+==============
+___    BLOOD CULTUREBlood Culture, Routine-PRELIMINARY 
+{STREPTOCOCCUS GALLOLYTICUS SSP. PASTEURIANUS (STREPTOCOCCUS 
+BOVIS)}; Anaerobic Bottle Gram Stain-FINAL; Aerobic Bottle Gram 
+Stain-FINAL
+
+___ CULTURE-FINAL {PSEUDOMONAS AERUGINOSA}
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+
+   URINE CULTURE (Final ___: 
+      Culture workup discontinued. Further incubation showed 
+contamination
+      with mixed skin/genital flora. Clinical significance of 
+isolate(s)
+      uncertain. Interpret with caution. 
+      PSEUDOMONAS AERUGINOSA.    >100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     2 S
+CIPROFLOXACIN---------     1 S
+GENTAMICIN------------     4 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+S. PNEUMONIAE ANTIGENS,       Not Detected        Not Detected
+URINE         
+
+PERTINENT LABS:
+===============
+CBC Trend
+___ 01:30AM BLOOD WBC-10.1* RBC-3.06* Hgb-8.2* Hct-28.1* 
+MCV-92 MCH-26.8 MCHC-29.2* RDW-22.4* RDWSD-75.6* Plt ___
+___ 06:40AM BLOOD WBC-10.2* RBC-2.87* Hgb-7.8* Hct-27.1* 
+MCV-94 MCH-27.2 MCHC-28.8* RDW-22.6* RDWSD-78.0* Plt ___
+___ 01:10PM BLOOD WBC-7.7 RBC-2.68* Hgb-7.2* Hct-24.4* 
+MCV-91 MCH-26.9 MCHC-29.5* RDW-22.5* RDWSD-75.2* Plt ___
+___ 05:51AM BLOOD WBC-8.4 RBC-2.55* Hgb-6.9* Hct-23.1* 
+MCV-91 MCH-27.1 MCHC-29.9* RDW-22.6* RDWSD-74.9* Plt ___
+___ 05:52AM BLOOD WBC-8.0 RBC-2.81* Hgb-7.7* Hct-25.9* 
+MCV-92 MCH-27.4 MCHC-29.7* RDW-21.7* RDWSD-73.6* Plt ___
+___ 06:30AM BLOOD WBC-6.9 RBC-2.59* Hgb-7.1* Hct-24.0* 
+MCV-93 MCH-27.4 MCHC-29.6* RDW-21.6* RDWSD-72.8* Plt ___
+
+Creatinine Trend
+___ 01:30AM BLOOD Glucose-83 UreaN-45* Creat-2.1* Na-137 
+K-4.6 Cl-97 HCO3-25 AnGap-15
+___ 06:40AM BLOOD Glucose-94 UreaN-53* Creat-2.3* Na-139 
+K-5.0 Cl-99 HCO3-22 AnGap-18
+___ 10:00PM BLOOD Glucose-123* UreaN-74* Creat-3.0* Na-134* 
+K-4.8 Cl-95* HCO3-22 AnGap-17
+___ 06:52AM BLOOD Glucose-98 UreaN-78* Creat-3.2* Na-136 
+K-4.3 Cl-98 HCO3-25 AnGap-13
+___ 05:47AM BLOOD Glucose-107* UreaN-82* Creat-2.7* Na-140 
+K-4.6 Cl-102 HCO3-25 AnGap-13
+___ 06:30AM BLOOD Glucose-119* UreaN-86* Creat-2.6* Na-138 
+K-4.3 Cl-100 HCO3-24 AnGap-14
+
+Lactate Trend
+___ 01:35AM BLOOD Lactate-2.2*
+___ 08:00AM BLOOD Lactate-1.6
+___ 01:23PM BLOOD Lactate-2.7*
+___ 06:33PM BLOOD Lactate-1.6
+___ 06:50AM BLOOD Lactate-1.5
+
+CRP Trend
+___ 06:52AM BLOOD CRP-28.3*
+___ 05:52AM BLOOD CRP-14.4*
+
+DISCHARGE LABS:
+===============
+___ 06:30AM BLOOD WBC-6.9 RBC-2.59* Hgb-7.1* Hct-24.0* 
+MCV-93 MCH-27.4 MCHC-29.6* RDW-21.6* RDWSD-72.8* Plt ___
+___ 06:30AM BLOOD Glucose-119* UreaN-86* Creat-2.6* Na-138 
+K-4.3 Cl-100 HCO3-24 AnGap-14
+___ 06:30AM BLOOD Calcium-8.4 Phos-5.3* Mg-2.5
+
+Imaging/Studies:
+================
+CXR ___
+1. Increased pulmonary vascular congestion with findings 
+concerning for 
+central pulmonary edema, however superimposed pneumonia is 
+difficult to 
+exclude. 
+2. Interval increase in moderate cardiomegaly. 
+
+___ CT A/P with Contrast
+1. No finding in the abdomen/pelvis to explain the patient's 
+symptoms.  
+Bilateral pleural effusions, right greater than left, 
+potentially masking 
+underlying pulmonary process as possible cause for the patient's 
+symptoms. 
+2. Interval resolution of colitis and decrease in ascites, now 
+minimal. 
+3. Slight interval increase in size of left pelvic sidewall 
+lymph node, now 
+measuring 2.8 x 3 cm. 
+4. Stable extensive bladder diverticulosis. 
+  
+___ TTE
+IMPRESSION: Possible vegetation on the tricuspid valve (see clip 
+42). Differential diagnosis
+includes fibrin strand on RV pacer lead. Moderately dilated mild 
+to moderately hypokinetic right
+EMR 2853-P-IP-OP (___) Name: ___ MRN: ___ 
+Study Date: ___ 7:30:00 p. ___
+ventricle. Severe tricuspid regurgitation. Low normal global 
+right ventricular systolic function. At
+least moderate mitral regurgitation. Moderate pulmonary 
+hypertension. Small pericardial
+effusion without evidence for tamponade.
+Compared with the prior TTE (images reviewed) of ___ , 
+possible vegetation seen on the
+tricuspid valve, there is more tricuspid regurgitation, the 
+right ventricle is more dilated and hypokinetic,
+the left ventricle is less vigorous.
+
+___
+1.  Interval improvement of mild pulmonary edema. 
+2.  Unchanged bilateral pleural effusions. 
+3.  No focal consolidation concerning for pneumonia. 
+
+___
+Normal renal ultrasound.  No evidence of hydronephrosis.
+
+ 
+Brief Hospital Course:
+SUMMARY: ___ ___ with PMH HfPEF 58%, TR, CKD III (Cr 1.5), 
+Afib on apixaban, SSS s/p PPM, HTN who presents with fever. +/- 
+abdominal pain, left flank pain. Found to have blood cx growing 
+S. bovis concerning for colon cancer. He was management 
+conservatively given his goals of care, and was discharged to a 
+skilled nursing facility with IV antibiotics.
+
+ACUTE ISSUES
+===================
+#Bacteremia 
+#Sepsis
+#Endocarditis
+He presented with fever and was found to have positive blood 
+cultures growing GPCs (no GNRs). Initially thought to be d/t 
+recent instrumentation for ___ stent placement but now with 
+echo showing vegetation and BCx speciated to s. Bovis. This 
+association is well known to be correlated with colon cancer. 
+Additionally it is possible and highly likely that the lead of 
+the pacemaker is also infected per the echo. Of note, the 
+patient has a history of basal cell cancer which he and his 
+family chose not to pursue treatment for. Additionally, CT scan 
+did not show any colonic pathology, though this was a CTA and 
+not a barium contrast study. urine legionella negative. He 
+received vancomycin and ceftriaxone, but eventually transitioned 
+to IV Ceftriaxone 2g q24hr for a total 4 week course ___ - 
+___. A PICC was placed on ___. Cardiology was consulted and 
+suggested TEE. However, this was not within patient's goals of 
+care, per his daughter. Removal of pacemaker is also not within 
+goals of care. 
+- Pt needs weekly CBC with diff, BUN, Cr, AST, ALT, Tbili, Alk 
+phos and CRP
+
+# Hypoxia- 2L NC
+# Elevated BNP- at baseline
+# Chronic HFpEF
+# Acute decompensated heart failure 
+His normal regimen is Torsemide 40mg daily and, PRN metolazone 
+2.5mg. His BNP on admission was 2200s, at baseline (last BNP 
+also ___ in early ___ but with CXR showed congestion at 
+admission. His weight is 160lb which is similar to his discharge 
+weight of 159lb in ___, during which he was clinically 
+euvolemic. He required O2 intermittently at 2L and was found to 
+have crackles in lung bases, with JVD, and edema extending 
+higher than on admission. CXR with interval improvement of mild 
+pulmonary edema and stable as of ___. His metoprolol was 
+continued for his tachycardia ___ A. fib found on EKG. His 
+Lisinopril and isosorbide mononitrate were held given concern 
+for infection as well as ___.
+
+# ___ on CKD: 
+He has baseline CKD III with Cr 1.2-1.6. Most recent Cr was 1.5 
+in ___, now presenting with Cr 2.3 and increased to 3.2, 
+was 2.6 on day of discharge. This could be secondary to ATN in 
+setting of sepsis (although should be improved by now given 
+normotension while in house) vs. contrast-induced nephropathy 
+(received contrast on ___ vs. obstruction (has required 
+frequent straight caths) vs. cardiorenal syndrome (but not 
+overtly volume overloaded on exam, CXR stable, did not respond 
+well to IV diuresis). A renal U/S showed no hydronephrosis. 
+Intermittent hemodialysis was discussed but the patient 
+determined that was not within his goals of care. Foley catheter 
+was placed on day of discharge for continued urinary retention. 
+He should get a foley trial as an outpatient in about one week 
+with Urology.
+
+Stable issues:
+==============
+#Acute coronary syndrome (Stable, resolved)
+Patient complained of CP radiating to L arm with a pressure like 
+feeling, SOB, and had emesis x1 on day 3 of hospitalization. His 
+sx also improved with NG. Trop elevated to 0.13, then 0.11. CKMB 
+10. EKG with no changes appreciated. Cardiology informed and 
+followed; no heparin drip was indicated given downtrending 
+troponins. He received nitroglycerin sublingual x 3 with some 
+resolution of pain, Aspirin 325mg, and Atorvastatin 80mg for 
+this episode. 
+
+#Pyuria- Stable
+His pyuria, leukocystosis, flank pain, and frequent urination 
+were initially concerning for pyelonephritis. Of note, he was 
+previously pan-sensitive pseudomonas but also note suspicion for 
+chronic colonization. At last admission, pt had urinary 
+frequency but UTI was not treated since he improved with C.diff 
+treatment. His current left back pain seems secondary to MSK 
+strain. CT scan did not show any abdominal pathology and given 
+his relatively normal LFTs, will not continue to trend or 
+evaluate with ultrasound. On exam he has no CVA tenderness and 
+his pain is reproducible by palpation of the upper hip, thus it 
+is most likely to be musculoskeletal. A urine culture did show 
+pseudomonas colonization but without urinary symptoms, 
+antibiotic treatment was deferred.  
+
+# Lactic acidosis (Resolved)
+It peaked to 2.7, improved to 1.6 on recheck without fluids.
+
+# Thrombocytopenia:
+He has multiple ecchymosis over extremities and even truncal 
+area, likely due to triple therapy with aspirin, clopidogrel and 
+Apixaban. Aspirin was discontinued in consultation with his 
+vascular surgeon given his recent lower extremity stent 
+placement. His platelet count on discharge was 118, and multiple 
+ecchymoses with skin tearing and bleeding on the extremities 
+were persistent.
+
+# Anemia: 
+His Hgb is 8.2, baseline around 8. It could be related to CKD 
+with poor EPO production vs anemia of chronic disease. No active 
+bleeding identified. On vitamin B12 although notably his recent 
+Vit B12 level was > ___ in ___ and his anemia is not 
+macrocytic. He has also since been d/c-ed off methotrexate. His 
+home vitamin B12 and folate were continued. He received 1U blood 
+on ___. His discharge Hgb was 7.1, and he may require frequent 
+transfusions.
+
+CHRONIC ISSUES:
+===============
+# Goals of care: 
+DNR/DNI was confirmed ___. He wishes to "go in peace". MOLST 
+form was signed.
+
+# Lower extremity insufficiency- s/p recent stent placement.
+He noted some mild pain related to procedure, His Plavix and 
+apixaban were continued, aspirin d/c'd given above conversation 
+with vascular surgeon.
+
+# SSS s/p Pacemaker
+It was last interrogated by Dr. ___ on ___ and was noted 
+to be functioning well without arrhythmias
+
+# Benign prostatic hypertrophy
+Finasteride was continued. Tamsulosin was added.
+
+# Hx of HCV infection: 
+This was documented on prior discharge summary with plan for 
+Hepatology follow-up. Later, on ___, patient reported to Dr. 
+___ that he wanted to minimize MD appointments 
+and did not want to see Hepatology. "does not want to be treated 
+for his abdominal BCC or hepatitis C, even though he is aware 
+that without treatments, these conditions will likely worsen and 
+negatively impact his death, namely risk of liver failure, 
+invasive cancer, mets, death."
+
+# Health maintenance
+Multivitamin with folate, vitamin D, vitamin B12, atorvastatin 
+were continued
+
+# Rheumatoid arthritis
+His hydroxychloroquine and prednisone 5mg daily were continued. 
+
+Transitional Issues:
+====================
+NEW MEDICATIONS: 
+- IV ceftriaxone 2g every 24 hours
+Start Date: ___
+Projected End Date: ___
+- Tamsulosin
+
+HELD MEDICATIONS: 
+- Blood pressure medications: Lisinopril, isosorbide mononitrate
+ --- Do not restart Lisinopril until ___ improves
+- Diuresis: Torsemide, metolazone (Restart if weight goes up 
+greater than ___ lbs)
+- Potassium tablets
+
+STOPPED MEDICATIONS: 
+- Aspirin (due to increased risk of bleed)
+
+ACCESS: ___
+
+[] Patient is discharged with Foley. Recommend voiding trial in 
+one week with ___ clinic
+[] Antibiotic recommendations-
+NEEDS WEEKLY: CBC with differential, BUN, Cr, AST, ALT, Total 
+Bili, ALK PHOS, and CRP
+ALL LAB RESULTS SHOULD BE SENT TO:
+ATTN: ___ CLINIC - FAX: ___
+[] Patient will follow with ID for final recommendations 
+regarding antibiotic course. The ___ will schedule further 
+follow up (the next follow up is ___ and contact the patient 
+or discharge facility. All questions regarding outpatient 
+parenteral antibiotics after discharge should be directed to the 
+___ R.N.s at ___ or to the on-call ID 
+fellow when the clinic is closed. 
+[] Patient declined dialysis in house. If confusion worsens, 
+consider worsening uremia and palliative care referral or 
+hospice
+
+Code: DNR/DNI
+Proxy name: ___   
+ Relationship: Daughter  Phone: ___ 
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 10 mg PO QPM 
+2. Cyanocobalamin 1000 mcg PO DAILY 
+3. Finasteride 5 mg PO DAILY 
+4. Hydroxychloroquine Sulfate 200 mg PO DAILY 
+5. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+6. Metoprolol Succinate XL 50 mg PO DAILY 
+7. Potassium Chloride 20 mEq PO DAILY 
+8. PredniSONE 5 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Torsemide 40 mg PO DAILY 
+11. Lisinopril 2.5 mg PO DAILY 
+12. Apixaban 2.5 mg PO BID 
+13. MetOLazone 2.5 mg PO PRN volume overload 
+14. Aspirin 81 mg PO DAILY 
+15. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+16. Clopidogrel 75 mg PO DAILY 
+17. FoLIC Acid 1 mg PO DAILY 
+18. TraMADol 50 mg PO QHS:PRN Pain - Severe 
+
+ 
+Discharge Medications:
+1.  CefTRIAXone 2 gm IV Q 24H 
+RX *ceftriaxone in dextrose,iso-os 2 gram/50 mL 2 g once a day 
+Disp #*22 Intravenous Bag Refills:*0 
+2.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth Every night Disp 
+#*30 Capsule Refills:*0 
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+4.  Apixaban 2.5 mg PO BID  
+5.  Atorvastatin 10 mg PO QPM  
+6.  Clopidogrel 75 mg PO DAILY  
+7.  Cyanocobalamin 1000 mcg PO DAILY  
+8.  Finasteride 5 mg PO DAILY  
+9.  FoLIC Acid 1 mg PO DAILY  
+10.  Hydroxychloroquine Sulfate 200 mg PO DAILY  
+11.  Metoprolol Succinate XL 50 mg PO DAILY  
+12.  PredniSONE 5 mg PO DAILY  
+13.  TraMADol 50 mg PO QHS:PRN Pain - Severe  
+14.  Vitamin D 1000 UNIT PO DAILY  
+15. HELD- Isosorbide Mononitrate (Extended Release) 60 mg PO 
+DAILY  This medication was held. Do not restart Isosorbide 
+Mononitrate (Extended Release) until your doctor tells ___ to. 
+___ may not need this anymore.
+16. HELD- Lisinopril 2.5 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until your doctor tells ___ to. ___ 
+may not need this anymore.
+17. HELD- MetOLazone 2.5 mg PO PRN volume overload  This 
+medication was held. Do not restart MetOLazone until ___ gain 
+weight >3lbs or feel short of breath.
+18. HELD- Potassium Chloride 20 mEq PO DAILY  This medication 
+was held. Do not restart Potassium Chloride until ___ take 
+metolazone or torsemide.
+19. HELD- Torsemide 40 mg PO DAILY  This medication was held. Do 
+not restart Torsemide until ___ gain >3lbs or ___ feel short of 
+breath.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+===================
+S. ___ bacteremia
+Acute on chronic heart failure with preserved ejection fraction
+Acute Kidney injury on chronic kidney disease
+
+Secondary Diagnoses:
+====================
+Urinary retention
+Acute coronary syndrome
+Thrombocytopenia
+Anemia
+Pyuria
+Lower extremity vascular insufficiency
+Atrial fibrillation
+Sick sinus syndrome s/p pacemaker
+Benign Prostatic Hypertrophy
+Hx of HCV infection
+Rheumatoid Arthritis
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair with walker use intermittently.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure taking care of ___ at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+- ___ were admitted for a fever
+- ___ were found to be growing bacteria (Strep bovis) in your 
+blood
+
+What happened while I was in the hospital?  
+- ___ received IV antibiotics to treat your blood infection. We 
+placed a PICC line so that ___ can get IV antibiotics when ___ 
+leave the hospital
+- We offered to look at your pacemaker to see if it was 
+infected, but ___ declined
+- We offered a colonoscopy to look for colon cancer (which is 
+often associated with your bacteria) but ___ declined
+- ___ also received diuretic medicines to help remove the fluid 
+in your body.
+- Your kidney function got worse in the hospital. ___ declined 
+dialysis. It was improving slightly on discharge, but we placed 
+a Foley catheter (since ___ cannot urinate on your own). ___ 
+will need to have this catheter in for about a week.
+
+What should I do after leaving the hospital?  
+- ___ will be going to ___
+- ___ should see urology in about one week to see if we can 
+remove your Foley
+- Please take your medications as listed in discharge summary
+- We stopped your diuretics, but if your weight starts to go up 
+(over ___ lbs within ___ days), it is important to restart your 
+diuresis. Discharge weight is 157 lbs.
+
+Thank ___ for allowing us to be involved in your care, we wish 
+___ all the best!  
+
+Sincerely,
+
+Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

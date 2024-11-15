@@ -1,0 +1,508 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Headaches and nausea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ male with hx CAD s/p CABG in ___ on 
+aspirin and Plavix who presents to ___ on ___ 
+with bilateral acute on chronic SDH. Patient reports that 
+approximately 4 weeks ago he attempted to sit in rolling chair 
+when the chair moved from underneath him, patient fell with
++headstrike. No LOC at that time. Patient did not seek medical 
+attention at the time of injury. Patient states that he had 
+ongoing headaches thereafter, alleviated with Tylenol and rest, 
+as well as intermitted nausea without vomiting. Patient reports 
+that in the evening of ___, was experiencing worsening headache 
+that was unrelieved by rest. In the morning of ___, patient
+states that headache was worse and had 1 episode of emesis. 
+Patient presented to ___ ED for evaluation. ___ revealed 
+bilateral acute on chronic SDH. Neurosurgery was consulted for 
+recommendations. 
+
+Patient denies weakness, numbness/tingling, difficulty 
+ambulating, or visual changes
+ 
+Past Medical History:
+Hypertension
+Hypercholesteremia
+Positive PPD
+Lesion RUL lung - followed by CXR
+Coronary artery disease s/p 5v CABG (___), DES+balloon 
+angioplasty ___ 
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ON ADMISSION: ___
+===========================
+Physical Exam:
+
+O:  T: 98.7, BP: 141/57, HR: 51, RR: 18, O2 Sat: 98% RA
+
+GCS at the scene: __unknown___
+
+GCS upon Neurosurgery Evaluation: 15       
+Time of evaluation: 1230
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [x]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: normocephalic, nontraumatic
+Neck: supple, trachea midline
+Extrem: warm and well perfused
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person, place, and date.
+
+Language: Speech is fluent with good comprehension. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2mm
+bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Slight right NLFF. Facial strength and sensation intact
+and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+ON DISCHARGE:
+=========================
+24 HR Data (last updated ___ @ 942)
+    Temp: 97.9 (Tm 98.7), BP: 170/72 (129-171/65-79), HR: 54
+(46-58), RR: 18 (___), O2 sat: 97% (96-99), O2 delivery: Ra   
+General: awake and alert, in no acute distress
+HEENT: NC/AT, sclera anicteric and without injection 
+CV: normal rate, regular rhythm, normal S1 and S2, no m/r/g  
+Lungs: breathing comfortably on room air, CTAB 
+Abdomen: Soft, non-tender, non-distended no r/g/r 
+Ext: WWP, no ___ edema
+Neuro: A&Ox3, PERRL, CNII-XII intact, strength ___ b/l in upper
+and lower extr
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 11:30AM BLOOD WBC-8.5 RBC-4.95 Hgb-14.5 Hct-44.9 MCV-91 
+MCH-29.3 MCHC-32.3 RDW-13.4 RDWSD-43.8 Plt ___
+___ 11:30AM BLOOD Neuts-72.8* Lymphs-17.8* Monos-7.0 
+Eos-1.3 Baso-0.9 Im ___ AbsNeut-6.16* AbsLymp-1.51 
+AbsMono-0.59 AbsEos-0.11 AbsBaso-0.08
+___ 11:30AM BLOOD ___ PTT-32.0 ___
+___ 11:30AM BLOOD Glucose-111* UreaN-16 Creat-1.1 Na-136 
+K-4.8 Cl-99 HCO3-25 AnGap-___
+Bilateral subdural collections overlying the cerebral 
+hemispheres measure up to 9 mm in greatest axial ___ 
+(02:15).  The collections are 
+predominantly hypodense, with areas of hyperdensity, which are 
+predominantly within the left collection.  The sulci of the 
+bilateral cerebral hemispheres are effaced.  There is also 
+effacement of the basilar cisterns and occipital horns of the 
+bilateral ventricles.  There is no evidence of infarction. The 
+visualized portion of the paranasal sinuses, mastoid air cells, 
+and middle 
+ear cavities are clear.  The visualized portion of the orbits 
+are normal. 
+IMPRESSION
+Acute on chronic, bilateral subdural hematomas, with effacement 
+of the basilar cisterns, concerning for downward transtentorial 
+herniation. 
+  
+Head CT ___
+Bilateral subdural collections overlying the cerebral 
+hemispheres measure up to 1.1 cm in greatest axial dimension, 
+previously 0.7 cm (02:16).  The 
+collections are of mixed density, with areas of hyperdensity 
+most notably 
+within the left collection.  Specifically, there has been 
+interval increase in size of the left parietal hyperdense 
+collection, which measures up to 0.9 cm, previously 0.6 cm 
+(02:21). 
+There is effacement of the sulci bilaterally.  The degree of 
+cisternal 
+effacement is probably not significantly changed, when 
+accounting for 
+technical differences in slice selection. 
+The visualized portion of the paranasal sinuses, mastoid air 
+cells, and middle ear cavities are clear.  The visualized 
+portion of the orbits are normal.  
+IMPRESSION:  
+1. Interval increase in size of acute on chronic bilateral 
+subdural hematomas, 
+as detailed above. 
+2. Degree of cisternal effacement, concerning for downward 
+transtentorial 
+herniation, is probably not significantly changed when 
+accounting for 
+technical differences in slice selection. 
+
+Head CT ___
+Mixed attenuation bilateral subdural hematomas are again 
+demonstrated with 
+similar degree of sulcal effacement and mass effect on the 
+ventricles, and 
+partial effacement of the suprasellar cistern.  9 mm hyperdense 
+component in the left parietal region is similar to the most 
+recent previous exam as well. No evidence of involving 
+infarction. 
+The visualized portion of the paranasal sinuses, mastoid air 
+cells, and middle ear cavities are clear.  The visualized 
+portion of the orbits are normal.   
+IMPRESSION:  
+1. Redemonstration of bilateral mixed attenuation acute on 
+chronic bilateral 
+subdural hematomas which are similar in size to the most recent 
+previous 
+examination, with similar degree of associated mass effect and 
+partial 
+effacement of the basal cisterns raising the possibility of 
+descending 
+transtentorial herniation. 
+
+TTE ___
+The left atrial volume index is mildly increased. The right 
+atrium is mildly enlarged. There is apical left
+ventricular hypertrophy with a normal cavity size. There is 
+normal regional and global left ventricular systolic
+function. Overall left ventricular systolic function is 
+hyperdynamic. Quantitative biplane left ventricular
+ejection fraction is 77 % (normal 54-73%). There is no resting 
+left ventricular outflow tract gradient.
+There is Grade I diastolic dysfunction. Normal right ventricular 
+cavity size. Tricuspid annular plane systolic
+excursion (TAPSE) is normal. The aortic sinus diameter is normal 
+for gender with a mildly dilated ascending
+aorta. The aortic arch diameter is normal with a normal 
+descending aorta diameter. There is no evidence for
+an aortic arch coarctation. The aortic valve leaflets (3) are 
+mildly thickened. The mitral valve leaflets appear
+structurally normal with no mitral valve prolapse. There is no 
+mitral regurgitation. The pulmonic valve leaflets
+are not well seen. There is no tricuspid regurgitation. There is 
+a trivial pericardial effusion.
+IMPRESSION: Suboptimal image quality. Apical hypertrophic 
+cardiomyopathy without evidence of
+apical aneurysm. Hyperdynamic global systolic function. No 
+clinically-significant valvular disease
+seen.
+
+DISCHARGE LABS
+___ 04:44AM BLOOD WBC-9.4 RBC-4.07* Hgb-12.0* Hct-36.8* 
+MCV-90 MCH-29.5 MCHC-32.6 RDW-13.2 RDWSD-43.9 Plt ___
+___ 04:44AM BLOOD Glucose-81 UreaN-14 Creat-0.8 Na-138 
+K-4.2 Cl-103 HCO3-24 AnGap-11
+___ 04:44AM BLOOD Mg-2.___RIEF HOSPITAL COURSE
+Mr. ___ presented to ___ ED with complaints of headaches and 
+nausea since an admitted fall >4 weeks ago with headstrike. 
+While in the ED CTH revealed bilateral acute on chronic SDHs for 
+which he was monitored. His course was complicated by a type II 
+NSTEMI in the setting of hypertensive emergency, which was 
+medically managed per cardiology. 
+
+TRANSITIONAL ISSUES
+New Medications:
+Levetiracetam 1000 MG twice a day
+Amlodipine 5MG
+Carvedilol 6.25MG BID
+Oxycodone 5MG daily PRN for breakthrough pain
+
+Changed Medications:
+None
+
+Stopped/Held Medications:
+Clopidogrel
+Metoprolol succinate
+
+[ ] F/u with neurosurgery, also recommended for repeat 
+non-contrast head CT 2 weeks post-discharge
+[ ] Started on levetiracetam for seizure prophylaxis with 7 day 
+course to complete ___
+[ ] F/u blood pressure control and need for medication 
+titration. Amlodipine 5MG started while inpatient. Transitioned 
+from metoprolol succinate to carvedilol 6.25 MG BID with first 
+dose after discharge per discussion with cardiology. Systolic BP 
+should be controlled to at least <160 per neurosurgery, with 
+inpatient cardiology evaluation recommending target range 
+120s-130s
+[ ] Recommended for outpatient cardiac MRI by cardiology
+[ ] Clopidogrel discontinued given SDH and ___ year since most 
+recent PCI. Continued on aspirin
+[ ] Recommended for cardiac rehabilitation referral
+[ ] Patient received oxycodone 5MG for pain while inpatient, 
+which was weaned to q12H PRN for breakthrough prior to 
+discharge. This was weaned to once a day PRN for breakthrough 
+pain on discharge with plan to taper off, and he was provided 
+only 3 tablets. Counseled that if having significantly worsened 
+headaches from prior, he should seek medical evaluation.
+
+#Bilateral subdural hemorrhages s/p fall
+Patient was admitted from the ED for acute on chronic bilateral 
+SDH seen on CT on ___. Initially admitted to the neurosurgery 
+service, transferred to the ___ for close neurological 
+monitoring. Prior to the transfer to the ___ patient was given 
+2 units of platelets given the fact that he was taking Plavix 
+and Aspirin at home. Aspirin and clopidogrel were both held on 
+admission; aspirin subsequently resumed on ___, continued to 
+hold clopidogrel. Patient remained neurologically stable and was 
+made NPO at the time of admission. Patient was started on Keppra 
+1G BID for seizure prophylaxis. On ___ patient underwent a 
+repeat CTH early AM, which revealed slight progression of 
+bilateral SDHs. Patient remained neurologically stable while in 
+the ___ and was transitioned to a regular diet. Patient with 
+increased nausea on ___ afternoon with an episode of emesis. 
+Patient given antiemetics and nausea resolved. Patient able to 
+tolerate a PO diet for dinner on ___. On ___ patient exam 
+remained stable, with good control of headaches, and resolved 
+nausea. Discussions were had with family regarding proceeding 
+with MMA embolization multiple times. Due to the patient's 
+NSTEMI an MMA embolization was offered so the patient could 
+receive anticoagulation however the family declined on ___. A 
+repeat head CT on ___ showed stable status of his subdural 
+hematoma. Neurosurgery recommended BP control to <160 in setting 
+of SDH; in addition to home lisinopril, amlodipine was started 
+prior to discharge. Due to continued blood pressures 
+intermittently ranging up to 170, metoprolol was switched to 
+carvedilol on discharge per discussion with cardiology and 
+neurosurgery. The patient remained clinically stable without any 
+new focal neurological deficits and was discharged with plan for 
+outpatient follow-up.
+
+#Type II NSTEMI in setting of hypertensive emergency 
+#s/p CABG x5 w/ PCI ___
+#HTN, HLD
+Patient is followed by Atrius cardiology who was consulted at 
+the time of patients admission to the ___. Dr. ___ 
+answered the consult who is patient's primary cardiologist. Dr. 
+___ that patient is greater than one year from last 
+cardiac stent placement therefore it is safe to discontinue the 
+Plavix in the setting of bilateral SDHs. Dr. ___ 
+recommended holding the Aspirin 81mg until neurosurgery 
+recommends restarting from a safety perspective with known SDHs. 
+Cardiology was also consulted in the setting of bradycardia. 
+Patient takes home metoprolol succinate 50mg daily and this was 
+initially held while in the hospital if HR was <60 which was 
+daily. His BP was initially controlled while inpatient with prn 
+hydralazine. The cardiologist recommended continuing to hold 
+metoprolol while on bedrest and if his HR normalized when 
+patient mobilizing then resume it at that time. The patient was 
+cleared by neurosurgery to start his Aspirin and the family 
+refused. On the evening of ___ the patient's telemetry alarmed 
+for ST elevation. EKG showed NSR with LVH. PRN hydralazine was 
+ordered for BP parameters given low HR on patient's home 
+metoprolol. Patient was triggered for tachycardia, diaphoresis, 
+and chest pain. EKG at that time was stable and labs WNL. 
+Tachycardia was attributed to recent hydral administration and 
+PRN was switched to Labetalol. Cardiology came to the bedside 
+given symptoms and he was given Nitro and resumed IV metoprolol 
+q6h. At 2am the cycled troponin came back elevated to 0.75. 
+Cardiology came to the bedside again. At this time patient was 
+free of chest pain. Repeat EKG showed t wave inversions. His 
+metoprolol dose was increased and he was given 81mg of aspirin. 
+He was started on a nitro gtt and transferred to the MICU for 
+NSTEMI. Repeat troponin at 6am increased to 0.8. An ECHO showed 
+EF 77%. Troponin trended down to 0.61 and per discussion with 
+cardiology an MMA embolization would allow patient to be 
+anticoagulated if needed from a cardiac standpoint. An MMA 
+embolization was offered to the patient on ___ and the family 
+declined. He was transferred to the floor on ___ for further 
+monitoring of blood pressure. BP remained elevated as discussed 
+above, and amlodipine was started while inpatient; he was also 
+planned to switch from metoprolol to carvedilol 6.25MG BID after 
+discharge for further BP reduction per cardiology 
+recommendation. He was continued on aspirin and discharge, while 
+clopidogrel was held recent bleed and ___ year since last PCI.
+
+This patient was prescribed, or continued on, an opioid pain 
+medication at the time of discharge (please see the attached 
+medication list for details). As part of our safe opioid 
+prescribing process, all patients are provided with an opioid 
+risks and treatment resource education sheet and encouraged to 
+discuss this therapy with their outpatient providers to 
+determine if opioid pain medication is still indicated.
+ 
+Medications on Admission:
+aspirin 81mg QD, Plavix 75mg every other day, lisinopril 20mg 
+BID, metoprolol 50mg ER QD, rosuvastatin 20mg QD, Tylenol PRN
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth once a day Disp #*14 
+Tablet Refills:*0 
+2.  CARVedilol 6.25 mg PO BID 
+RX *carvedilol 6.25 mg 1 tablet(s) by mouth twice a day Disp 
+#*28 Tablet Refills:*0 
+3.  LevETIRAcetam 1000 mg PO BID 
+RX *levetiracetam 1,000 mg 1 tablet(s) by mouth twice a day Disp 
+#*2 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) 5 mg PO DAILY:PRN BREAKTHROUGH 
+PAIN 
+RX *oxycodone 5 mg 1 tablet(s) by mouth once a day Disp #*3 
+Tablet Refills:*0 
+5.  Aspirin 81 mg PO DAILY  
+6.  Lisinopril 20 mg PO BID  
+7.  Rosuvastatin Calcium 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Bilateral acute on chronic SDH
+Hypertensive emergency
+Type II Non-ST elevation myocardial ischemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted for headaches and nausea and were found to 
+have a bleed (subdural bleed) around your brain 
+ 
+What was done for me while I was in the hospital?  
+- You were monitored by the neurosurgery team and had repeat CT 
+scans to monitor your subdural bleed. Your plavix was stopped to 
+prevent further risk of bleeding. 
+- You were evaluated by the cardiology team after you had 
+ischemia (decreased blood flow) to your heart due to high blood 
+pressures. Your blood pressure was controlled with medication.
+- You were offered a procedure known as Middle Meningeal Artery 
+Embolization to help stop the brain bleed, which would allow for 
+anticoagulation to deal with the ischemia of your heart. Per 
+conversations with your family you opted not to have this 
+procedure. 
+
+What should I do when I leave the hospital?  
+ Activity
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+Medications 
+ You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+What You ___ Experience:
+You may have difficulty paying attention, concentrating, and 
+remembering new information.
+Emotional and/or behavioral difficulties are common. 
+Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+Headaches:
+Headache is one of the most common symptoms after traumatic 
+brain injury. Headaches can be long-lasting. 
+Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+More Information about Brain Injuries:
+You were given information about headaches after TBI and the 
+impact that TBI can have on your family.
+If you would like to read more about other topics such as: 
+sleeping, driving, cognitive problems, emotional problems, 
+fatigue, seizures, return to school, depression, balance, or/and 
+sexuality after TBI, please ask our staff for this information 
+or visit ___
+
+Sincerely,  
+Your ___ Care Team  
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Nausea and/or vomiting
+Extreme sleepiness and not being able to stay awake
+Severe headaches not relieved by pain relievers
+Seizures
+Any new problems with your vision or ability to speak
+Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg
+Sudden confusion or trouble speaking or understanding
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

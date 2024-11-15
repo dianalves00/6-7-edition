@@ -1,0 +1,277 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Adenomatous polyp in the proximal transverse colon
+ 
+Major Surgical or Invasive Procedure:
+1. Laparoscopic-assisted extended right colectomy.
+2. Correction of small bowel malrotation.
+3. Umbilical hernia repair.
+(___)
+
+ 
+History of Present Illness:
+___ with newly diagnosed endoscopically unresectable polyp in 
+the transverse colon detected during screening colonoscopy. The 
+pt was asymptomatic at time of scope.  No h/o blood in stool, no 
+melena, no change in calibre of stool, no sense of distention, 
+no change in bowel habits.  No family h/o colon cancer, crohn's 
+disease, ulcerative colitis, uterine cancer or ___ 
+cancers. Colon polyp in transverse colon - is sessile and flat 
+unresectable on colonoscopy.  We discussed that colorectal 
+polyps are the precursors to adenocarcinoma of the colon and 
+rectum and that  surgical or endoscopic removal of the polyp 
+prevents the development of cancer.  We also discussed that some 
+polyps already ___ a malignancy and that this is not 
+diagnosed until after.   We discussed that the reason for this 
+discrepancy is a sampling error during colonoscopic biopsy.  
+Since the polyp is located in the transverse colon we decided to 
+procede with partial colectomy.
+ 
+Past Medical History:
+PMH: PMR, ___ esophagus, HTN, colonic adenoma, osteopenia
+
+PSH:  Venous ligation ? left (___), Cataract extract (left 
+___, right ___, Mohs, ___ stage SCC right eyebrow (___)
+ 
+Social History:
+___
+Family History:
+CAD/PVD - Father, brother
+___ Cancer - Brother    
+Diabetes - Sister (on HD), brother
+___ - sister
+___ - Sister   
+___ - Sister 
+
+ 
+Physical Exam:
+Discharge Physical Exam
+gen: aao, nad
+cv: rrr, no m/r/g
+lungs: cta b/l
+abdomen: soft, appropriately ttp, non distended, dressings c/d/i
+extremeties: no edema, + pulses
+
+ 
+Pertinent Results:
+PACU Labs:
+___ 12:01PM BLOOD WBC-15.1* RBC-4.03* Hgb-13.2 Hct-39.2 
+MCV-97 MCH-32.8* MCHC-33.6 RDW-12.8 Plt ___
+___ 12:01PM BLOOD Glucose-137* UreaN-17 Creat-0.8 Na-142 
+K-3.4 Cl-102 HCO3-23 AnGap-20
+___ 12:01PM BLOOD Albumin-4.3 Calcium-9.9 Phos-3.7 Mg-1.4*
+___ 09:25PM BLOOD Na-135 K-5.1 Cl-104
+___ 09:25PM BLOOD Mg-2.4
+___ 12:01PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 09:25PM BLOOD CK-MB-4 cTropnT-<0.01
+___ 09:25PM BLOOD TSH-0.62
+___ 11:30AM BLOOD CEA-2.6
+
+Labs:
+___ 06:15AM BLOOD Glucose-126* UreaN-10 Creat-0.7 Na-140 
+K-4.0 Cl-104 HCO3-28 AnGap-12
+___ 06:15AM BLOOD WBC-8.1 RBC-3.50* Hgb-11.7* Hct-33.6* 
+MCV-96 MCH-33.3* MCHC-34.7 RDW-12.8 Plt ___
+
+TTE (___): 
+The left atrium is normal in size. The estimated right atrial 
+pressure is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy. The left ventricular cavity size is normal. Overall 
+left ventricular systolic function is normal (LVEF = 65%). There 
+is considerable beat-to-beat variability of the left ventricular 
+ejection fraction due to an irregular rhythm/premature beats. 
+Right ventricular chamber size and free wall motion are normal. 
+The aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. The mitral valve leaflets are mildly 
+thickened. Mild (1+) mitral regurgitation is seen. The pulmonary 
+artery systolic pressure could not be determined. There is no 
+pericardial effusion. 
+
+___ 06:15AM BLOOD WBC-8.1 RBC-3.50* Hgb-11.7* Hct-33.6* 
+MCV-96 MCH-33.3* MCHC-34.7 RDW-12.8 Plt ___
+___ 06:45AM BLOOD Glucose-90 UreaN-15 Creat-0.7 Na-142 
+K-3.6 Cl-100 HCO3-27 AnGap-19
+___ 06:45AM BLOOD Calcium-9.8 Phos-3.0 Mg-1.5*
+ 
+Brief Hospital Course:
+The patient was admitted to the General Surgical Service on 
+___ after laparoscopic-assisted extended right colectomy 
+for endoscopically unresectable adenomatous polyp of the 
+transverse colon. The procedure went well without complication 
+(refer to the Operative Note by Dr. ___ details). In the 
+PACU, the patient went into a fib with RVR and was started on a 
+diltiazem drip. Within 4 hours she converted back to sinus 
+rhythm. However the following evenings she again went in to 
+atrial fibrillation with rapid ventricluar response and was not 
+responsive to multiple doses of iv diltiazem. She was 
+transferred to the unit overnight, and by the morning had 
+spontaneously converted back in to sinus rhythm. She was kept on 
+po diltiazem for 24 hours, and then switched to PO metoprolol. 
+following these episodes she remained in sinus rhythm and stable 
+for the duration of her admission. 
+ 
+Neuro: The patient received morphine PCA with good effect and 
+adequate pain control. Overnight on POD#2, pt was having 
+paranoid delusions, so PCA was discontinued and narcotics were 
+minimized.  When tolerating oral intake, the patient was 
+transitioned to oral pain medications.
+ 
+CV: Her immediate post-operative course was complicated by 
+atrial fibrillation with RVR in the PACU, which was rate 
+controlled with a diltiazem drip. She remained asymptomatic and 
+hemodynamically stable. She spontaneously converted to sinus 
+rhythm approximately after 4 hours of being in atrial 
+fibrillation. The cardiology team was consulted. A TTE showed no 
+abnormalities, and TSH was normal. The patient continued to be 
+monitored on telemetry on the floor, and she remained in sinus 
+rhythm. She was continued on diltiazem PO temporarily, which was 
+discontinued on POD#2. However the following evenings she again 
+went in to atrial fibrillation with rapid ventricluar response 
+and was not responsive to multiple doses of iv diltiazem. She 
+was transferred to the unit overnight, and by the morning had 
+spontaneously converted back in to sinus rhythm. She was kept on 
+po diltiazem for 24 hours, and then switched to PO metoprolol. 
+following these episodes she remained in sinus rhythm and stable 
+for the duration of her admission. 
+
+Pulmonary: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.
+ 
+GI/GU/FEN: Post-operatively, the patient was made NPO with IV 
+fluids. Diet was advanced when appropriate, which was well 
+tolerated.  Patient's intake and output were closely monitored, 
+and IV fluid was adjusted when necessary.  Electrolytes were 
+routinely followed, and repleted when necessary.
+
+ID:  The patient's white blood count and fever curves were 
+closely watched for signs of infection. Overnight on POD#2, pt 
+was having paranoid delusions, and a UA was positive. Pt was 
+started on ciprofloxacin for a UTI. Urine culture showed fecal 
+contamination and she remained on a short course of 
+ciprofloxacin.
+ 
+Endocrine: The pt was restarted on her home prednisone dose for 
+PMR on POD#2. TSH was checked given atrial fibrillation, which 
+was normal.
+
+Hematology: The patient's complete blood count was examined 
+routinely; no transfusions were required.
+ 
+Prophylaxis: The patient received subcutaneous heparin and 
+venodyne boots were used during this stay; was encouraged to get 
+up and ambulate as early as possible.
+ 
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs, and in normal sinus rhythm.  The 
+patient was tolerating a regular diet, ambulating, voiding 
+without assistance, and pain was well controlled.  The patient 
+received discharge teaching and follow-up instructions with 
+understanding verbalized and agreement with the discharge plan.
+ 
+
+ 
+Medications on Admission:
+hydrochlorothiazide (HYDRODIURIL) 25 mg Oral tablet TAKE 1 
+TAB(S) ORALLY ONCE A DAY 
+pantoprazole (PROTONIX) 20 mg Oral tablet,delayed release 
+(___) Take 1 tablet daily 30 mins before first meal of day 
+tretinoin 0.025 % Topical Cream apply once daily 
+predniSONE 1 mg Oral tablet take 2 tabs daily with breakfast 
+MULTIVITAMIN ORAL daily 
+Magnesium 500 mg Oral tablet TAKE 1 TAB(S) ORALLY ONCE A DAY 
+(OTC) 
+Acetaminophen 500 mg Oral Tablet AS DIRECTED - usually takes  
+
+ 
+Discharge Medications:
+1. Acetaminophen 500 mg PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Pantoprazole 40 mg PO Q24H 
+4. PredniSONE 1 mg PO DAILY 
+5. Tretinoin 0.025% Cream 1 Appl TP DAILY 
+6. Ciprofloxacin HCl 500 mg PO Q12H Duration: 1 Day 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth q12hr Disp #*3 
+Tablet Refills:*0
+7. Metoprolol Tartrate 25 mg PO BID 
+RX *metoprolol tartrate 25 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+8. OxycoDONE (Immediate Release)  5 mg PO Q6H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q4-6hr prn Disp #*30 
+Tablet Refills:*0
+9. Magnesium Oxide 500 mg PO DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Unresectable right transverse colon polyp
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the general surgery service following 
+laparoscopic-assisted extended right colectomy for an 
+unresectable right transverse colon polyp. You tolerated the 
+procedure well. Your post-operative course was complicated by 
+new onset atrial fibrillation with rapid ventricular response 
+that was difficult to control. Because of this, you required a 
+short stay in the ICU. You spontaneously converted back to 
+normal sinus rhythm, and were started on metoprolol and given 
+some gentle diuresis with lasix. You remained in sinus rhythm 
+and are now stable for discharge home. 
+
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication.  Also, please take 
+any new medications as prescribed.
+ 
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+ 
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+ 
+Please follow-up with your surgeon as advised.
+ 
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+*If you have staples, they will be removed at your follow-up 
+appointment.
+*If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+
+Please call the general surgery office at ___ (___) 
+or ___ (___) to arrange a follow up appointment 
+with Dr. ___ in ___ weeks.
+ 
+Followup Instructions:
+___

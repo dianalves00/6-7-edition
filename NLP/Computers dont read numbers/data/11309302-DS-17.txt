@@ -1,0 +1,179 @@
+ 
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___ - laparoscopic cholecystectomy
+ 
+History of Present Illness:
+___ a/w pancreatitis with isolated lipase elevation to 140, now 
+c/o abdominal pain with PO intake.  Patient reports having 
+episodes of post-prandial abdominal pain since ___, and 
+was admitted for similar complaints in ___ he declined 
+elective cholecystectomy at that time.  
+
+The current episode started 4 days ago and was a constant severe 
+pain which worsened with movement and radiated to his back.  RUQ 
+ultrasound revealed cholelithiasis without cholecystitis and no 
+evidence of intra or extrahepatic ductal dilatation.  
+
+Last colonoscopy and EGD ___ with 2 colon polyps removed - 
+otherwise WNL.
+
+ 
+Past Medical History:
+Past Medical History:  
+1. CAD s/p NSTEMI and PCI ___  
+2. Paroxysmal atrial fibrillation.  
+3. Cholelithiasis 
+4. Hypertension.  
+5. Dyslipidemia.  
+6. Diabetes mellitus type 2, diet controlled.  
+7. BPH s/p TURP  
+8. Mild Aortic Stenosis  
+9. Multinodular goiter with LML dominant nodule (most recent FNA
+___ benign, followed by endocrine with yearly ultrasounds)  
+.
+Past Surgical History:  Open appendectomy ___ years ago, CABGx4
+
+ 
+Social History:
+___
+Family History:
+Denies
+ 
+Physical Exam:
+On transfer to ACS:
+Vitals:  97.8 97.6 74 117/79 20 98RA
+GEN: A&O, NAD, comfortable and conversant in ___
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+normoactive bowel sounds, no palpable masses, no hernias. 
+Well-healed McBurney incision.
+DRE: normal tone, no gross or occult blood
+Ext: No ___ edema, ___ warm and well perfused
+-
+On Discharge:
+VSS
+Gen - NAD, AOx3,
+Heart - RRR
+Lungs - CTAB
+Abd - soft, appropriately tender, ND; dressings c/d/i
+Extrem - no edema
+
+ 
+Pertinent Results:
+___ 05:25AM   WBC-9.1 RBC-4.91 HGB-15.4 HCT-46.0 MCV-94 
+MCH-31.4 MCHC-33.5 RDW-13.4
+___ 05:25AM   PLT COUNT-191
+___ 05:25AM   LIPASE-140*
+___ 05:25AM   ALT(SGPT)-23 AST(SGOT)-26 CK(CPK)-163 ALK 
+PHOS-55 TOT BILI-0.4
+___ 05:32AM   LACTATE-1.5
+___ 05:25AM   CK-MB-3 cTropnT-<0.01
+---
+___ - RUQ U/S: Cholelithiasis without evidence of acute 
+cholecystitis.
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the medicine service with RUQ 
+abdominal pain.  RUQ ultrasound revealed cholelithiasis without 
+cholecystitis and no evidence of intra or extrahepatic ductal 
+dilatation.  He had an isolated lipase elevation to 140.  He was 
+started on a clear liquid diet which he tolerated, but upon 
+advancing had recurrence of pain.  ACS is consulted for 
+evaluation for inpatient cholecystectomy on ___.  On ___, 
+the patient was pain-free, non-tender on exam, and his lipase 
+was 33.  Prior to surgery, his cardiologist, Dr. ___, was 
+contacted regarding cardiac optimization, and he recommended no 
+changes to the patient's cardiac regimen.  The patient's xarelto 
+was held for 2 days prior to surgery.
+
+On ___ he underwent a laparoscopic cholecystectomy.  He was 
+maintained on sips to clears on the evening of POD 0.  He failed 
+to void and was straight cathed.
+
+On POD1, he tolerated a regular diet, voided, and ambulated 
+independently.  His hematocrit was stable, so his xarelto was 
+restarted, and he received 81 mg of ASA.  He was discharged with 
+PO pain medication and ACS follow-up.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY 
+hold for sbp<100 
+3. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+hold for sbp<100 
+4. Tamsulosin 0.4 mg PO HS 
+5. olmesartan *NF* 5 mg Oral daily 
+hold for sbp<100 
+6. Amlodipine 5 mg PO DAILY 
+7. Rivaroxaban 20 mg PO DAILY 
+8. Crestor 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+2. Aspirin 325 mg PO DAILY 
+3. Crestor 20 mg PO DAILY 
+4. Furosemide 20 mg PO DAILY 
+hold for sbp<100 
+5. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+hold for sbp<100 
+6. olmesartan *NF* 5 mg Oral daily 
+hold for sbp<100 
+7. Rivaroxaban 20 mg PO DAILY 
+8. Tamsulosin 0.4 mg PO HS 
+9. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN severe pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four hours as 
+needed for pain Disp #*20 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+gallstone pancreatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for gallstone pancreatitis and underwent a 
+laparoscopic cholecystectomy.  There were no complications.  You 
+failed to void and had to be straight cathed but succesfully 
+voided after that.
+
+You may shower on ___, the day after discharge.  You should 
+pat the incisions dry.  Do not scrub the incisions or submerge 
+the incisions for at least 7 days.  
+
+Please call your PCP or the ___ clinic if you notice any redness 
+or discharge or increase in pain at any of your incisions.  Also 
+please call if you do not urinate for >24 hours.
+
+You may eat whatever you wish.
+ 
+Followup Instructions:
+___

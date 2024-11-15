@@ -1,0 +1,243 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Bactrim DS / gabapentin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+malaise
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: ___ h/o chronic back pain presents with generalized 
+malaise,
+nonbloody diarrhea, and nonbloody vomiting for the past week. He
+does not have good PO intake at baseline only eating a piece of
+fruit in the morning due to poor appetite, which has been 
+ongoing
+for sometime.  When asked directly he thinks this could be due 
+to
+EtOH use. Despite this he denies weight loss.  He denies sick
+contacts.  
+
+Patient admits to drinking ___ drinks of vodka per day.  He
+denies symptoms of withdrawal in the past but his husband notes
+that if he stops drinking for 1 day he becomes tremulous. 
+Patient denies his EtOH but his partner seems to indicate
+otherwise. 
+
+ROS: as above otherwise 10point ROS negative 
+
+ 
+Past Medical History:
+-HTN: previously on lisinopril, which was stopped due to low
+blood pressure.  He remains on Lasix that he tells me is for
+pedal edema (no history of heart failure)
+-melanoma lower back s/p resection many years ago
+-ORIF ankle
+-GERD
+-h/o polyps with GI bleed: last colonoscopy ___ year ago
+-chronic back pain s/p laminectomy/discectomy.  PCP stopped
+morphine ___ few months ago replacing it with tramadol. 
+ 
+Social History:
+___
+Family History:
+-Mother: died from MDS ___ progression)
+-Father: heart failure 
+ 
+Physical Exam:
+ADMISSION
+
+PHYSICAL EXAM:
+-VS: reviewed, tachycardic and hypertensive  
+-General Appearance: pleasant, diffuse tremors 
+-Eyes: PERLL, EOMI, no conjuctival injection, anicteric, right
+eye discharge 
+-HENT: moist mucus membranes, atraumatic, normocephalic
+-Respiratory: clear b/l, no wheeze 
+-Cardiovascular: RRR, no murmur
+-Gastrointestinal: nontender, nondistended, bowel sounds present
+-GU: no foley, no CVA/suprapubic tenderness 
+-Musculoskeletal: no pedal edema, no joint swelling 
+-Skin: no rash, ulceration, or jaundice noted
+-Neuro: no focal neurological deficits, CN ___ grossly intact
+-Psychiatric: appropriate mood and affect 
+ 
+Pertinent Results:
+ADMISSION
+___ 02:17PM BLOOD WBC-4.3 RBC-3.75* Hgb-13.8 Hct-40.1 
+MCV-107* MCH-36.8* MCHC-34.4 RDW-15.4 RDWSD-61.1* Plt ___
+___ 02:17PM BLOOD Glucose-86 UreaN-5* Creat-1.4* Na-142 
+K-3.0* Cl-91* HCO3-29 AnGap-22*
+___ 02:17PM BLOOD Calcium-9.4 Phos-2.2* Mg-1.3*
+___ 02:17PM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 02:24PM BLOOD Lactate-5.2* K-2.9*
+
+DISCHARGE
+___ 07:36AM BLOOD WBC-4.1 RBC-2.79* Hgb-10.4* Hct-31.7* 
+MCV-114* MCH-37.3* MCHC-32.8 RDW-15.7* RDWSD-66.4* Plt ___
+___ 07:36AM BLOOD Glucose-101* UreaN-12 Creat-1.0 Na-140 
+K-3.7 Cl-97 HCO3-32 AnGap-11
+___ 07:36AM BLOOD Calcium-8.2* Phos-2.9 Mg-2.0
+
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of 
+hypertension, GERD, chronic back pain, CKD 3, alcohol abuse 
+admitted ___ with diarrhea and alcohol withdrawal, 
+treated with valium CIWA, course notable for diagnosis of Cdiff 
+colitis, status post initiation of PO vancomycin with clinical 
+improvement, course otherwise notable for several electrolyte 
+deficiencies requiring repletion, able to be discharged home 
+with services on PO vancomycin
+
+# Alcohol abuse with alcohol withdrawal
+While in the emergency department patient began to withdraw from 
+alcohol, with tachycardia, tremors, sweats, anxiety.  He was 
+admitted and started on a CIWA protocol with valium.  Within his 
+first 24 hours he required > 100mg valium with subsequent 
+improvement in symptom control over the following 48 hours.  He 
+was given thiamine, folate and a multivitamin.  He was seen by 
+social work and expressed an interest in attending AA and 
+quitting.  Remainder of hospital course notable as below.
+
+# Cdiff Colitis 
+Patient initially presented reported diarrhea and emesis.  His 
+symptoms initially were felt to be consistent with a viral 
+enteritis, and at first improved with conservative management.  
+However on hospital day 3 his diarrhea worsened, prompting 
+checking of a Cdiff PCR, which was positive.  Patient was 
+started on PO vancomycin with subsequent improvement in 
+diarrheal symptoms.  Discharged to complete 14 day total course, 
+last day = ___. 
+
+# Hypomagnesemia
+# Hypophosphatemia
+# Hypokalemia
+Patient was noted to have severe electrolyte deficiencies, 
+requiring several rounds of repletion.  Depletion was felt to be 
+related to his chronic alcohol use. 
+
+Type B lactic acidosis
+Presented with lactate > 5 without signs of acute serious 
+infection or tissue hypoperfusion.  Resolved with IV fluids.  
+Felt to be type B lactic acidosis.
+
+# Hematuria
+This admission, patient's UA was notable for microscopic 
+hematuria.  Would consider rechecking as outpatient and consider 
+additional workup. 
+
+# Tobacco abuse
+Counseled on cessation.  Used nicotine patch during inpatient 
+stay.
+
+# Chronic pain
+# Depression
+Continued home duloxetine, trazodone
+
+# Abnormal outpatient labs
+Prior to presenting to emergency department, patient went to 
+___ outpatient lab for outpatient lab drawn.  Results returned 
+during this admission, including FSH, LH, estradiol, 
+testosterone.  See attached laboratory values.  Defer to 
+outpatient ordering provider regarding management. 
+
+Transitional Issues
+- Discharged home with services
+- Patient contemplating quitting drinking alcohol; was seen by 
+social work and was willing to attend AA; 
+- Last day PO vancomycin = ___
+- Noted to have microscopic hematuria this admission; would 
+consider recheck and additional workup if indicated 
+
+> 30 minutes spent on discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. TraZODone 200 mg PO QHS 
+2. Torsemide ___ mg PO DAILY 
+3. Docusate Sodium 100 mg PO DAILY:PRN constipation 
+4. Ferrous Sulfate 325 mg PO BID 
+5. DULoxetine 60 mg oral DAILY 
+6. Cyanocobalamin 100 mcg PO DAILY 
+7. FoLIC Acid 1 mg PO DAILY 
+8. Thiamine 100 mg PO DAILY 
+9. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Vancomycin Oral Liquid ___ mg PO Q6H 
+last day ___ 
+RX *vancomycin 125 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*52 Capsule Refills:*0 
+2.  Cyanocobalamin 100 mcg PO DAILY  
+3.  Docusate Sodium 100 mg PO DAILY:PRN constipation  
+4.  DULoxetine 60 mg oral DAILY  
+5.  Ferrous Sulfate 325 mg PO BID  
+6.  FoLIC Acid 1 mg PO DAILY  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Thiamine 100 mg PO DAILY  
+9.  Torsemide ___ mg PO DAILY  
+10.  TraZODone 200 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# Cdiff Colitis 
+# Alcohol abuse and withdrawal
+# Hematuria
+# Tobacco abuse
+# Chronic pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Mr. ___: 
+
+It was a pleasure caring for you.  You were admitted with 
+diarrhea and signs of alcohol withdrawal.  
+
+You were treated for your alcohol withdrawal and improved over 
+several days.  You were noted to have low electrolytes 
+(potassium, magnesium, phosphate), also likely caused by 
+alcohol.  We gave you back these electrolytes and they are now 
+normal.  
+
+For your diarrhea, you underwent testing that showed you have an 
+infection called C difficile Colitis, a type of bacteria that 
+causes diarrhea.  You were treated with antibiotics and 
+improved.  
+
+You are now ready for discharge.
+
+Of note, during this admission you were found to have blood in 
+your urine.  We have notified your primary care doctor about 
+this.  Please discuss it with them at your next visit. 
+ 
+Followup Instructions:
+___

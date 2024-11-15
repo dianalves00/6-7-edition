@@ -1,0 +1,328 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Tetanus / Gentamicin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, altered mental status, cough, and emesis
+ 
+Major Surgical or Invasive Procedure:
+No major procedures.
+
+ 
+History of Present Illness:
+___ male with PMH of progressive Alzheimer's dementia, 
+HTN/HLD, CAD, PVD, pituitary adenoma currently living at a 
+skilled nursing facility who presents to ___ with fever, 
+altered mental status, and cough. Per his family who is present, 
+yesterday he was noted to have a fever at the facility, altered 
+off baseline, coughing, is breathing through his mouth (not 
+usual) and has vomited yesterday and today. In addition, there 
+were other patients who were ill and being treated for PNA at 
+the nursing facility where the patient resides. Pt WBC was 19.2 
+He received levofloxacin yesterday. Family denies any knowledge 
+of falls, he is not on anticoagulation. Family states that pt 
+was transferred here, because the medical team at the nursing 
+facility was concerned that pt may require IV antibx, which the 
+nursing facility does not offer.
+
+Pt was last hospitalized in ___ for hospital acquired 
+pneumonia, which was treated with vanc/levo/metro and narrowed 
+to levo/metro.
+
+Pertinent ED course (including exam, labs, imaging, consults, 
+treatment):
+- NS 1000 mL IV started
+ 
+REVIEW OF SYSTEMS: deferred as pt is not conversant
+ 
+Past Medical History:
+CAD stent in LCx, EF normal  
+PVD with carotid artery stenosis (severe R, mild L)  
+HTN
+Hyperlipidemia  
+Pituitary macroadenoma - stable, hormone testing normal  
+Cognitive Impairment, Memory Loss (short term) 
+Sleep Disordered Breathing  
+Low back pain with lumbar radiculopathy  
+Left knee replacement  
+Asbestosis exposure with stable Chest CT  
+ 
+Social History:
+___
+Family History:
+His father died at age ___ of unknown causes. 
+Mother died in her ___ of lung cancer.  He has one brother, 
+three
+sisters, one son, and one daughter.  His sister suffered from a
+TIA.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+============================
+VITALS: 99.0 Pediatric Axillary, 141/72 L Lying, 92, 20, 94% Ra 
+GENERAL: NAD, raspy mouth breathing, not opening eyes on 
+command, pulling at covers, nonconversant
+EYES: pink conjunctiva, exam limited by pt's AMS
+ENT: trachea midline, soft neck, no JVD, nonelevated JVP
+CV: distant heart sounds, RRR, no murmurs, rubs, or gallops
+RESP: tachypneic, +coughing and ronchi, no wheezes; exam limited 
+by pt's AMS and moving around/inability sit up
+GI: +BS, nondistended, soft, nontender to palpation in all four 
+quadrants
+MSK: moving all quadrants appropriately
+SKIN: no rashes or lesions
+NEURO: squeezes fingers on command, exam limited by pt's AMS
+PSYCH: exam limited by pt's AMS
+
+DISCHARGE PHYSICAL EXAM:
+=============================
+VS: T 98.5 130/77 92 18 95% RA 
+GENERAL: In no distress, opens his eyes to verbal prompting and
+responds minimally with "yes" or "no"
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, sclera white,
+conjunctiva clear, unable to assess dentition as patient could
+not open his mouth  
+NECK: Nontender supple neck, no LAD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: Shallow breathing, unable to assess for crackles in the
+base as patient was unable to sit up 
+ABDOMEN: nondistended, active bowel sounds, no tenderness to
+palpation, rebound, or guarding, no organomegaly
+EXTREMITIES: No cyanosis, clubbing or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII grossly intact, unable to assess orientation.
+SKIN: Warm, well perfused, no excoriations or lesions, no
+rashes  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==========================
+___ 03:40PM   WBC-15.4* RBC-4.63# HGB-12.2*# HCT-40.5# 
+MCV-88 MCH-26.3 MCHC-30.1* RDW-14.6 RDWSD-46.7*
+___ 03:40PM   ALBUMIN-3.3*
+___ 03:40PM   LIPASE-10
+___ 03:40PM   ALT(SGPT)-10 AST(SGOT)-21 ALK PHOS-286* TOT 
+BILI-0.4
+___ 03:40PM   GLUCOSE-102* UREA N-21* CREAT-1.1 SODIUM-145 
+POTASSIUM-4.4 CHLORIDE-111* TOTAL CO2-21* ANION GAP-17
+___ 03:56PM   LACTATE-1.5
+___ 04:20PM URINE  RBC-4* WBC-13* BACTERIA-FEW* YEAST-NONE 
+EPI-2
+___ 04:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-SM*
+___ 04:20PM URINE  COLOR-Yellow APPEAR-Hazy* SP ___
+___ 03:40PM   ___ PTT-27.8 ___
+___ 03:40PM   PLT SMR-NORMAL PLT COUNT-191
+___ 03:40PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL OVALOCYT-OCCASIONAL
+
+PERTINENT LABS:
+==========================
+___ 08:00AM BLOOD WBC-11.6* RBC-4.17* Hgb-11.2* Hct-37.2* 
+MCV-89 MCH-26.9 MCHC-30.1* RDW-14.6 RDWSD-47.1* Plt ___
+___ 08:00AM BLOOD Glucose-83 UreaN-19 Creat-1.0 Na-150* 
+K-4.0 Cl-114* HCO3-24 AnGap-16
+___ 08:00AM BLOOD Calcium-9.8 Phos-2.2* Mg-2.2
+
+DISCHARGE LABS:
+==========================
+___ 08:05AM BLOOD WBC-9.8 RBC-3.78* Hgb-10.1* Hct-33.0* 
+MCV-87 MCH-26.7 MCHC-30.6* RDW-14.6 RDWSD-46.5* Plt ___
+___ 08:05AM BLOOD Plt ___
+___ 01:55PM BLOOD Na-145
+___ 08:05AM BLOOD Glucose-105* UreaN-17 Creat-1.0 Na-145 
+K-3.5 Cl-111* HCO3-22 AnGap-16
+___ 08:05AM BLOOD Calcium-9.4 Phos-2.5* Mg-2.1
+
+MICROBIOLOGY:
+==========================
+Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN.
+
+URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.
+
+PERTINENT IMAGING/STUDIES:
+==========================
+___ CXR: Increased left lower lobe opacity, worrisome for 
+pneumonia with possible associated left pleural effusion. 
+Aspiration is also in the differential diagnosis.
+ Reticular right base opacity could be due to chronic 
+aspiration, and is
+slightly decreased as compared to the prior study.
+
+ 
+Brief Hospital Course:
+Mr. ___. is an ___ male with PMH of progressive 
+Alzheimer's dementia who presented from SNF with fever, altered 
+mental status, cough and emesis. He had already been empirically 
+started with levofloxacin at his nursing facility but given 
+increasing lethargy, he was transferred to ___ for further 
+management.
+
+ACUTE ISSUES:
+===============================
+# Pneumonia: His presenting symptoms of fever, altered mental 
+status, and confusion were likely related to a pneumonia as 
+confirmed by CXR. There was high suspicion for aspiration 
+pneumonia in setting of Alzheimer's and recent emesis. Swallow 
+team was consulted and found no overt signs or symptoms of 
+aspiration, and he was kept on his prior to admission diet. He 
+was maintained on his outpatient antibiotic regimen 
+(levofloxacin), and his presenting leukocytosis seems to be 
+responding to antibiotics. His family noted that he was at 
+baseline mental status prior to discharge. On levofloxacin 
+antibiotic regimen (start date ___ complete date ___.
+
+#Hypernatremia: Patient was found to have a sodium of 150 mEq/L 
+on ___. Started on D5W 1000 mL at 100 mL/hr. Corrected from 150 
+mEq/L to 145 mEq/L on discharge.
+
+# Progressive alzhemier's dementia: Patient's dementia seems to 
+have worsened significantly over last 6 months. Per family, 
+patient was independent and verbal in ___ but has 
+become increasingly nonverbal over last 6 months. In the week 
+preceding admissionften does not respond. He enjoys reading and 
+still reads articles. He was maintained on outpatient 
+Cyanocobalamin 500 mcg PO DAILY and Donepezil 5 mg PO QHS. 
+
+# Malnutrition: Patient has poor oral intake and is not meeting 
+nutritional goals. At nursing facility he eats pureed foods and 
+thickened liquids, which was continued during this 
+hospitalization alongside supplemental Ensure Enlive and 
+multivitamin with minerals. Per swallow team, he retains a lot 
+of food in his mouth after meals, so it is important to ensure 
+mouth cleared at end of each meal.
+
+CHRONIC ISSUES:
+========================================
+#Elevated alkaline phosphate: Alk phos was elevated to 286 upon 
+admission without elevation of other liver enzymes. Of note, it 
+was previously elevated to 187 during last admission as well in 
+___. It is likely bone origin given lack of transaminitis and 
+patient's history of hyperparathyroidism. His Ca level was 10.2 
+on ___ per outside records. No further management during this 
+hospitalization.
+
+# CAD: Patient has a history of coronary artery disease, s/p LCx 
+DES ___. His most recent echocardiogram in ___ shows 
+mild LVH, LVEF >=55%, mildly dilated ascending aorta (3.6 cm), 
+1+TR, and normal pulmonary artery systolic pressure. He was 
+maintained on outpatient aspirin 81mg daily.
+
+# Pituitary adenoma: CT from ___ showed persistent expansion 
+of the sella with soft tissue consistent with patient's 
+previously diagnosed pituitary macroadenoma. Not actively 
+managed during hospitalization.
+
+#Constipation: Patient did not have any issues with bowel 
+movements during admission and was maintained on outpatient 
+bowel regimen of Docusate Sodium 100 mg PO BID, Senna 8.6, and 
+Polyethylene Glycol 17 g PO/NG DAILY 
+
+==================================
+TRANSITIONAL ISSUES:
+==================================
+[ ] Patient should complete 7-day course of levofloxacin on 
+___.
+[ ] Follow up sodium in ___ days and increase PO free water if 
+mildly rising. If markedly rising, consider D5W infusion if able 
+or transfer for management of hypernatremia if within patient's 
+goals of care.
+[ ] Per swallow team, he retains a lot of food in his mouth 
+after meals, so it is important to ensure mouth cleared at end 
+of each meal.
+
+Na at discharge: 145
+
+#CONTACT: wife  Phone: ___
+- ___
+#CODE: DNR-DNI
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Cyanocobalamin 500 mcg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Donepezil 5 mg PO QHS 
+5. Polyethylene Glycol 17 g PO DAILY 
+6. Senna 8.6 mg PO BID 
+7. Bisacodyl ___VERY 3 DAYS AS NEEDED constipation 
+8. magnesium hydroxide 400 mg/5 mL oral DAILY:PRN constipation 
+
+ 
+Discharge Medications:
+1.  Levofloxacin 750 mg PO DAILY 
+Stop date: ___.  
+2.  Multivitamins W/minerals 1 TAB PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Bisacodyl ___VERY 3 DAYS AS NEEDED constipation  
+5.  Cyanocobalamin 500 mcg PO DAILY  
+6.  Docusate Sodium 100 mg PO BID  
+7.  Donepezil 5 mg PO QHS  
+8.  magnesium hydroxide 400 mg/5 mL oral DAILY:PRN constipation  
+
+9.  Polyethylene Glycol 17 g PO DAILY  
+10.  Senna 8.6 mg PO BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+PRIMARY DIAGNOSIS: 
+========================= 
+Pneumonia (nursing home-associated) 
+ 
+SECONDARY DIAGNOSIS: 
+========================= 
+Progressive Alzheimer's dementia 
+Malnutrition 
+Hypernatremia 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHY WERE YOU ADMITTED?
+- You were admitted for fever, confusion, and cough with 
+vomiting. We diagnosed you with pneumonia.
+
+WHAT WAS DONE FOR YOU IN THE HOSPITAL?
+- You were continued on your oral antibiotics.
+- You did not need to be started on IV antibiotics.
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL?
+- It is important that you complete your antibiotic course (5 
+days, complete on ___.
+
+It was a pleasure taking care of you!
+- Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,260 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+NSAIDS (Non-Steroidal Anti-Inflammatory Drug)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old ___ speaking woman, with
+history of cerebral aneurysm in ___ s/p clipping,
+hypothyroidism, and HTN, presenting with 2 months of 
+intermittent
+chest pain at rest and with exertion. 
+
+History obtained with ___ interpreter. Patient notes that
+episodes of left-sided chest pressure/'pinching' generally last
+several minutes. Patient notes that pain is improved with
+palpation of the chest, though occasionally palpation can
+reproduce pain. Pain can radiate towards back of left side. Some
+associated diaphoresis as well as nausea and SOB. No vomiting.
+While pain can happen at rest, it is worse with exertion, notes
+pain with climbing stairs, bending over, moving around the 
+house.
+Prior to ED, patient was helping set up a party she was
+increasingly having symptoms, worse than typical, so came to the
+ED. Notes palpations during episodes.
+
+Of note, patient was admitted 7 months ago with L shoulder pain,
+was ruled out by trop and EKG for ACS and was found to have
+calcific tendonitis of L shoulder. She had steroid injection in
+___, with improvement in pain. She notes the last two months
+have been of a different type of pain.
+
+In the ED initial vitals were: 97.7 75 146/95 17 100% RA  
+Exam:
+RRR, no murmurs
+lungs clear 
+EKG: NSR at 68, normal intervals, axis, T wave flatterning, no
+acute ST changes or TWI.  
+Labs/studies notable for: 
+Normal electrolytes
+CBC: WBC 8.6, Hgb/Hct 12.9/37.9, plts 315
+Trop T < 0.01 x 3
+Ca/P/Mg within normal limits
+
+CXR:
+IMPRESSION: Mild basilar atelectasis without definite focal
+consolidation. No pulmonary edema. 
+
+Patient was given: 
+PO Aspirin 324 mg
+PO/NG Losartan Potassium 25 mg   
+PO/NG Levothyroxine Sodium 75 mcg   
+SL Nitroglycerin SL .4 mg  
+PO Acetaminophen 1000 mg
+
+Vitals on transfer: HR 66 165/84 16 97% RA  
+
+On the floor patient currently has no chest pain. She notes
+typically has ___ episodes per day for a few minutes each. She
+has no current SOB, nausea, abd pain, dysuria, recent illness,
+fevers/chills, diarrhea, leg swelling. She additionally notes
+that with these episodes she has some blurry vision and
+occasionally headaches.  
+
+REVIEW OF SYSTEMS:  
+Negative aside from as mentioned above
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Hypertension   
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+- calcific tendonitis - left shoulder (h/o frozen shoulder) s/p
+injection in ___
+- history of cerebral aneurysm in ___ status post 
+clipping w/ recovery  
+- hypothyroidism  
+- h/o transaminitis
+ 
+Social History:
+___
+Family History:
+mother: diabetes, liver cancer. father: prostate cancer. sister: 
+
+breast cancer  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VS: 97.6 139/76 80 16 97% RA   
+GENERAL: NAD, Alert and oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. 
+NECK: Supple without elevated JVP   
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills,
+lifts.
+CHEST: Pain with palpation on left side of chest wall. Patient
+says this is more intense than normal pain, and different in
+quality, but also feels like pressure  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. 
+EXTREMITIES: No c/c/e. L shoulder with limited motion, but can
+lift above head, can not externally rotate without pain
+PULSES: Distal pulses palpable and symmetric 
+
+DISCHARGE PHYSICAL EXAM
+======================= 
+VS: AFEBRILE 110-130S/70S 70S 16 97% RA
+GENERAL: NAD, Alert and oriented x3. Mood, affect appropriate.  
+NECK: Supple without elevated JVP   
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills,
+lifts.
+CHEST: unable to reproduce pain on palpation
+LUNGS: CTA b/l
+ABDOMEN: Soft, NTND. 
+EXTREMITIES: No ___ edema
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+
+___ 09:20PM BLOOD WBC-8.6 RBC-4.50 Hgb-12.9 Hct-37.9 MCV-84 
+MCH-28.7 MCHC-34.0 RDW-11.8 RDWSD-35.7 Plt ___
+___ 09:20PM BLOOD Glucose-147* UreaN-14 Creat-0.6 Na-142 
+K-3.6 Cl-100 HCO3-24 AnGap-18
+___ 01:50PM BLOOD ALT-21 AST-18 LD(LDH)-131 AlkPhos-96 
+TotBili-0.4
+___ 09:20PM BLOOD cTropnT-<0.01
+___ 03:45AM BLOOD cTropnT-<0.01
+___ 01:50PM BLOOD cTropnT-<0.01
+___ 01:50PM BLOOD TSH-0.24*
+
+DISCHARGE LABS
+=================
+___ 06:00AM BLOOD WBC-6.0 RBC-4.41 Hgb-12.8 Hct-37.5 MCV-85 
+MCH-29.0 MCHC-34.1 RDW-11.9 RDWSD-36.3 Plt ___
+___ 06:00AM BLOOD Glucose-100 UreaN-11 Creat-0.6 Na-142 
+K-4.1 Cl-102 HCO3-25 AnGap-15
+___ 06:00AM BLOOD Calcium-9.7 Phos-4.7* Mg-2.0
+
+CXR ___
+Mild basilar atelectasis without definite focal consolidation.  
+No pulmonary
+edema.
+
+PMIBI ___
+IMPRESSION:
+1. Normal myocardial perfusion.
+2. Normal left ventricular cavity size and systolic function.  
+ 
+Brief Hospital Course:
+___ woman with a history of cerebral aneurysm in ___, status post clipping w/ recovery, hypothyroidism, HTN, and 
+hx of left frozen shoulder and calcific tendonitis, who 
+presented to the ED with atypical chest pain, admitted for pMIBI 
+study, which was found to be normal. Patient without any chest 
+pain on discharge.
+
+#Chest Pain
+Patient presenting with brief episodes atypical chest pain 
+(often improved with massaging over area) although also at times 
+exertional in nature. Trops negative x3. Patient had a 
+pharmacological stress test which revealed normal myocardial 
+perfusion and ejection fraction. Suspect chest pain likely 
+musculoskeletal in nature.She did not have any further episodes 
+of chest pain while inpatient. 
+
+#Bilateral shoulder pain
+Continued Tylenol as needed for pain
+
+#Iatrogenic hyperthyroidism
+History of hypothyroidism with suppressed TSH during last few 
+results since ___. TSH on admission of 0.24. Decreased 
+levothyroxine from 75mcg to 50mcg daily on discharge.
+
+#Hypertension
+Continued home losartan
+
+TRANSITIONAL ISSUES
+======================
+[]downtitrated levothyroxine to 50mcg. Please check TSH in 6 
+weeks
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 25 mg PO DAILY 
+2. Levothyroxine Sodium 75 mcg PO DAILY 
+3. Acetaminophen ___ mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Levothyroxine Sodium 50 mcg PO DAILY 
+RX *levothyroxine 50 mcg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+2.  Acetaminophen ___ mg PO Q8H:PRN Pain - Mild  
+3.  Losartan Potassium 25 mg PO DAILY 
+RX *losartan 25 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Non-cardiac chest pain
+
+SECONDARY:
+Shoulder Pain
+Iatrogenic hyperthyroidism
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you. 
+
+Why you were admitted?
+ - You were admitted because you were having some pain in your 
+chest and shoulder. 
+
+What we did for you?
+ - You received a stress test for your heart and it was normal. 
+Therefore your chest pain is unlikely to be related to your 
+heart, which is great news.
+ - You did not have any further episodes of chest pain while in 
+the hospital.
+ - Your previous pain may be related to muscle or bone issues.
+ 
+ 
+Followup Instructions:
+___

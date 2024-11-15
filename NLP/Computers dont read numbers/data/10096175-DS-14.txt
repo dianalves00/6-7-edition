@@ -1,0 +1,311 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+latex / amitriptyline / fluoxetine / morphine / piroxicam
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L MCA aneurysm 
+ 
+Major Surgical or Invasive Procedure:
+___ L craniotomy for MCA aneurysm clipping 
+ 
+History of Present Illness:
+___ female previous smoker with no known family history 
+of intracranial aneurysm who was being worked up for a couple of 
+episodes of confusion, and speaking gibberish. In the process of 
+evaluation a left middle cerebral artery aneurysms was 
+identified. The lesion appears to be approximately 6-7 mm in 
+diameter. The patient was seen in the ___ clinic and a 
+long discussion was had with her and her son regarding the 
+natural history of aneurysms as well as potential treatment 
+options of endovascular and surgical management. She underwent 
+angiogram and presents for elective clipping of the MCA 
+aneurysm. 
+
+ 
+Past Medical History:
+MCA aneurysm
+dyslipidemia
+PAF stable on beta blocker
+COPD
+HTN
+Lung mass
+OA
+Lumbar DJD with neurogenic claudication
+TIA
+epilepsy
+T2DM
+ 
+Social History:
+___
+Family History:
+No known family history of intracranial aneurysms. 
+ 
+Physical Exam:
+On Admission: 
+
+Opens eyes: [ ]spontaneous [x]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time Required cues to focus 
+on
+exam/questions. 
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Right    3-2mm                 Left  3-2mm 
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+=============
+ON DISCHARGE:
+=============
+
+Exam:
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x] Place [x] Date
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Right    3-2mm   Left  3-2mm 
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound: L crani: [x]Clean, dry, intact with sutures 
+
+ 
+Pertinent Results:
+Please see OMR for pertinent lab and imaging results. 
+ 
+Brief Hospital Course:
+Ms. ___ presents for elective clipping of the left MCA 
+aneurysm. 
+
+#L MCA aneurysm
+She was taken to the OR on ___ and underwent left craniotomy 
+for aneurysm clipping with Dr. ___. The procedure was 
+uncomplicated. Please see separately dictated operative report 
+by Dr. ___ complete details of the procedure. She 
+tolerated the procedure well. She was extubated in the OR and 
+transferred to PACU for recovery. She remained neurologically 
+stable and was transferred to the neuro step-down unit for close 
+monitoring. She was cleared to resume home Aspirin on POD#7. Per 
+discussion with her PCP's office, Plavix is no longer needed and 
+can be discontinued. 
+
+#Seizures/epilepsy 
+She takes Lamotrigine at home for h/o seizures. On POD#2 (___) 
+she had 3 episodes of unresponsiveness with oxygen desaturations 
+to the ___, lasting about 1 minute. She received 0.5mg Ativan to 
+break the seizure, however her exam remained altered with 
+aphasia after unresponsiveness and oxygen improved with 
+supplemental oxygen. Head CT was stable with postop changes but 
+no acute complication. EEG was placed and captured seizure 
+activity which correlated with unresponsiveness. She was loaded 
+with 2g keppra then 1500mg bid and her lamictal 150mg BID was 
+continued. Her mental status remained altered. Neurology consult 
+was placed for additional AED recommendations and EEG was 
+placed, which was positive for seizure activity. On ___, she 
+became acutely agitated and received 0.5mg Ativan and 0.25mg 
+Haldol, however this agitation was unrelated to seizure. On ___, 
+EEG was read as generalized slowing with frequent epileptiform 
+discharges in temporal region (L > R), without overt seizure 
+activity.
+
+#COPD/Respiratory distress
+She was initially continued on her home COPD inhaler medications 
+without issue. However, during the episode of agitation on ___, 
+she was tachypneic and in respiratory distress, for which ___ 
+was consulted. She was also febrile to 102 and her SpO2 was 92% 
+on RA. A CXR showed mild-moderate pulmonary edema, ABG showed 
+PaO2 of 60. She was started on face mask with 50% FiO2, given 
+20mg IV Lasix, and started on broad spectrum antibiotics to 
+cover for pneumonia. She was transferred to Neuro ICU for 
+complicated respiratory status. In the ICU, she was redosed with 
+20mg IV Lasix, which was continued BID, and she was weaned to 2L 
+NC. 
+
+#Fever
+She was initially started on vancomycin and zosyn when found to 
+be febrile on ___, and it was determined that she should 
+complete a 7 day course of antibiotics. She was transitioned to 
+___ugmentin on ___.
+
+#Hypertension 
+Continue on home medications. She required nicardipine 
+postoperatively but this was weaned off POD#1. She continued to 
+be hypertensive despite IV hydralzine, and amlodipine was 
+increased to 5mg daily. 
+
+ 
+Medications on Admission:
+albuterol sulfate [Ventolin HFA] 2puffs PRN 
+amlodipine 2.5mg daily 
+atenolol 150 mg tablet daily 
+atorvastatin 60mg daily  
+buspirone 10 mg tablet BID PRN 
+clopidogrel 75 mg tablet daily 
+Flovent HFA 110 mcg 2 INH twice a day 
+furosemide 20 mg tablet daily 
+gabapentin 300 mg capsule TID 
+lamotrigine 100 mg tablet BID
+paroxetine 20 mg tablet daily 
+aspirin 325 mg tablet daily 
+cholecalciferol (vitamin D3) 1,000 unit capsule daily 
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 5 Doses 
+
+Please take at: 
+___ and 8pm
+___ and 8pm  
+2.  Bisacodyl 10 mg PR QHS  
+3.  Docusate Sodium 100 mg PO BID  
+4.  LevETIRAcetam 1500 mg PO BID  
+5.  Ondansetron 4 mg IV Q8H:PRN nausea  
+6.  Senna 17.2 mg PO QHS  
+7.  Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath  
+8.  amLODIPine 2.5 mg PO DAILY  
+9.  Aspirin 325 mg PO DAILY  
+10.  Atenolol 150 mg PO DAILY  
+11.  Atorvastatin 60 mg PO QPM  
+12.  BusPIRone 10 mg PO BID:PRN anxiety  
+13.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+14.  Furosemide 20 mg PO DAILY  
+15.  Gabapentin 300 mg PO TID  
+16.  LamoTRIgine 150 mg PO BID  
+17.  PARoxetine 20 mg PO DAILY  
+18.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+L MCA aneurysm 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Elective Aneurysm Clipping
+Call your neurosurgeons office and speak to the Nurse 
+Practitioner if you experience:
+-Any neurological issues, such as change in vision, speech or 
+movement
+-Swelling, drainage, or redness of your incision
+-Any problems with medications, such as nausea vomiting or 
+lethargy
+-Fever greater than 101.5 degrees Fahrenheit
+-Headaches not relieved with prescribed medications
+
+Medications: 
+-Because you had a seizure while you were in the hospital, you 
+are now taking Keppra(Levetiracetam)and will be discharged home 
+with a script to continue on this medication, along with your 
+lamictal. Please follow the instructions to take this new 
+medication. 
+-You may resume your Aspirin 325mg, but please do NOT take your 
+Plavix (clopidogrel)75mg any more.  
+-You also will have a script for an antibiotic (amoxicillin 
+clavulanate) to help with your pneumonia. You have three days 
+remaining on this medication, please take this medication as 
+well. 
+
+Activity:
+-Start to resume all activities as you tolerate  but start 
+slowly and increase at your own pace.
+-Do not operate any motorized vehicle for at least 10 days after 
+your surgery  your Nurse Practitioner can give you more detail 
+at the time of your suture removal.  
+
+Incision Care:
+-Keep your wound clean and dry.
+-Do not use shampoo until your sutures are removed. 
+-When you are allowed to shampoo your hair, let the shampoo run 
+off the incision line.  Gently pad the incision with a towel to 
+dry.
+-Do not rub, scrub, scratch, or pick at any scabs on the 
+incision line.
+-You need your sutures removed 7 to 10 days after surgery
+
+Post-Operative Experiences: Physical
+-Jaw pain on the same side as your surgery; this goes away after 
+about a month
+-You may experience constipation.  Constipation can be prevented 
+by:
+oDrinking plenty of fluids
+oIncreasing fiber in your diet by eating vegetables, prunes, 
+fiber rich breads and cereals, or fiber supplements
+oExercising
+oUsing over-the-counter bowel stimulants or laxatives as needed, 
+stopping usage if you experience loose bowel movements or 
+diarrhea
+-Fatigue which will slowly resolve over time
+-Numbness or tingling in the area of the incision; this can take 
+weeks or months to fully resolve
+-Muffled hearing in the ear near the incision area
+-Low back pain or shooting pain down the leg which can resolve 
+with increased activity
+
+Post-Operative Experiences: Emotional
+-You may experience depression.  Symptoms of depression can 
+include
+oFeeling down or sad
+oIrritability, frustration, and confusion
+oDistractibility
+oLower Self-Esteem/Relationship Challenges
+oInsomnia
+oLoneliness
+-If you experience these symptoms, you can contact your Primary 
+Care Provider who can make a referral to a Psychologist or 
+Psychiatrist
+-You can also seek out a local Brain Aneurysm Support Group in 
+your area through the Brain Aneurysm Foundation
+oMore information can be found at ___
+
+ 
+Followup Instructions:
+___

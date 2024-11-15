@@ -1,0 +1,386 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Confusion
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo man with a history of alcohol abuse 
+who presents from an inpatient alcohol detox program with 
+altered mental status. Patient is unable to recall much of 
+feeling confused, but has only hazy memories of how he was 
+feeling prior to transport or of the ride to the hospital. He 
+denies any recent LH or syncope. Does not believe he had a 
+seizure. Does not believe he has had prior history of alcohol 
+withdrawal or hepatic encephalopathy. Does take lactulose as 
+outpatient. 
+
+In the ED, initial vitals were T 98.2, BP 126/72, HR 82, RR 18, 
+O2sat 99% RA.  He underwent imaging (US abdomen, CT head, CXR) 
+with reports as below. No meds, fluids given.
+
+On arrival to the floor, patient denies feeling confused or any 
+other acute symptoms. VSS stable as below. Would like to watch 
+___ game.
+
+Review of sytems:  Denies fever, chills, night sweats, recent 
+weight loss or gain. Denies headache, sinus tenderness, 
+rhinorrhea or congestion. Denied cough, shortness of breath. 
+Denied chest pain or tightness, palpitations. Denied nausea, 
+vomiting, diarrhea, constipation or abdominal pain. Has 2 BM per 
+day on average on lactulose. Last BM this morning and was 
+normal. No recent change in bowel habits. No dysuria, but 
+increased urinary frequency. Denied arthralgias or myalgias, any 
+new weakness/numbness/tingling. 
+ 
+Past Medical History:
+- ETOH cirrhosis (per patient, no h/o variceal bleed; no h/o HE, 
+no h/o massive ascites; does report peripheral edema controlled 
+with diuretics; believes he is HBV/HCV negative - last 
+documented negative ___ per ___ records)
+- Alcoholism (last drink "two days ago" but has been at 
+___ x 4 days)
+- Traumatic head injury: in coma x 17 days at ___ ___ 
+after falling down stairs
+- Seizure d/o: As above; denies any interim seizures but note 
+from neurologist ___ suggests that patient frequently gets 
+seizures when non-compliant with medications
+- Depression
+- Anxiety
+- Hypertension (on captopril)
+ 
+Social History:
+___
+Family History:
+Both parents died of heart disease, both age ___. Reports his 
+father also had emphysema. Sisters, children in good health.
+
+ 
+Physical Exam:
+VS: T=96.6 ax, BP=158/92, HR=65, RR=20, O2 sat=99% RA
+GENERAL: Disheveled Caucasian man in NAD. Oriented to place 
+___ date ___ month ___ but states 
+day of month is the ___. Able to name ___ as president and 
+___ as VP. Affect somewhat off, but not inappropriate or 
+combative; cooperates with exam.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  
+ 
+NECK: Supple with no JVD.
+CARDIAC: RRR, no M/R/G
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+BACK: No vertebral body, CVA or SI tenderness
+ABDOMEN: Soft, NTND. Small umbilical hernia right at umbilicus, 
+reducible. Liver margin firm/palpable. Spleen not palpable. 
+EXTREMITIES: Bilateral edema with mild pitting to mid-shins. 2+ 
+DP pulses.
+SKIN: No significant telangectasias, jaundice or caput medusae. 
+No palmar erythema. Multiple nails of hands and feet with 
+evidence of onychomycosis. R foot with multiple excoriations on 
+toes, heel, sole.
+NEURO: CN II-XII intact, although patient has trouble following 
+directions for eye movements. Sensation to light touch intact 
+bilaterally. Strength ___ in all major muscle groups except for 
+plantar flexion of toes of right foot, which is impaired (per 
+patient, for ~ 6 weeks). No asterixis. Gait not assessed.
+
+ 
+Pertinent Results:
+Labs on admission:
+___ 12:26PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-4* PH-7.0 
+LEUK-NEG
+___ 12:26PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 12:26PM   PLT SMR-VERY LOW PLT COUNT-69*
+___ 12:26PM   NEUTS-62.6 ___ MONOS-11.1* EOS-3.5 
+BASOS-0.8
+___ 12:26PM   WBC-2.4* RBC-3.30* HGB-11.6* HCT-35.4* 
+MCV-107* MCH-35.1* MCHC-32.7 RDW-14.8
+___ 12:26PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+___ 12:26PM URINE  HOURS-RANDOM
+___ 12:26PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 12:26PM   AMMONIA-61*
+___:26PM   LIPASE-44
+___ 12:26PM   ALT(SGPT)-15 AST(SGOT)-45* ALK PHOS-112 TOT 
+BILI-2.9* DIR BILI-1.3* INDIR BIL-1.6
+___ 12:26PM   estGFR-Using this
+___ 12:26PM   GLUCOSE-106* UREA N-9 CREAT-0.7 SODIUM-137 
+POTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-27 ANION GAP-12
+
+___ ECG: Normal sinus rhythm. Intraventricular conduction 
+delay. Early R wave across the precordium. Q-T interval 
+prolonged for rate. Non-specific ST-T wave abnormalities. No 
+previous tracing available for comparison.  
+
+___ CXR: FRONTAL AND LATERAL VIEWS OF THE CHEST: Lungs are 
+clear with no pneumonia or congestive heart failure. There is no 
+pneumothorax or pleural effusion. Mild irregularity of the 
+left-sided ribs is compatible with old fractures. Heart, 
+mediastinum, and hila are normal. Low thoracic spine vertebral 
+compression deformity is noted, age indeterminate. IMPRESSION: 
+No evidence of acute intrathoracic abnormality. Old left rib 
+fractures and compression deformity of a low thoracic vertebral 
+body, age indeterminate. 
+
+___ Head CT: FINDINGS: There is no evidence of intracranial 
+hemorrhage, edema, masses, mass effect, or acute territorial 
+infarction. Subcortical left frontal lobe hypodensity likely 
+represents encephalomalacia due to chronic vascular infarct. The 
+gray-white matter differentiation is well preserved. The 
+ventricles and sulci are normal in size and configuration. 
+Scattered periventricular white matter hypoattenuation is likely 
+the sequela of chronic small vessel infarction. Aerated 
+secretions in the right maxillary sinus. The mastoid air cells 
+and
+remainder of the paranasal sinuses are clear and well aerated. 
+IMPRESSION: 1. Left frontal lobe hypodensity likely represents 
+encephalomalacia due to 
+chronic vascular infarct.  2. No acute intracranial process. 3. 
+Aerated secretions in the right maxillary sinus.  
+
+___ Abdominal CT with Doppler: FINDINGS: No focal liver 
+lesion is identified. No biliary dilatation is seen and the 
+common duct measures 0.6 cm. Multiple small echogenic foci 
+adherent to the gallbladder wall likely represent small 
+cholesterol polyps. No gallstones are identified. The spleen is 
+again noted to be enlarged measuring 16.2 cm. Mild ascites is 
+identified in the abdomen. DOPPLER EXAMINATION: Color Doppler 
+and pulse-wave Doppler images were obtained. The main portal 
+vein, right portal vein and left portal vein are patent with 
+hepatopetal flow. The main hepatic artery is patent with 
+appropriate arterial waveforms. 
+
+ 
+Brief Hospital Course:
+The following issues were addressed at this admission:
+
+#. Altered Mental Status: The patient's mental status was noted 
+to wax and wane over the course of this admission. At best, the 
+patient was fully oriented to person, place and time but with 
+continued poor insight into his health and addictions. 
+Frequently, the patient was unable to state date or name of 
+hospital correctly and was noted to confabulate. Acute issues 
+that may have contributed to this presentation include hepatic 
+encephalopathy (patient was treated with increasing doses of 
+lactulose and started on rifaximin; he had elevated ammonia 
+level on admission to 61, though never developed asterixis) and 
+alcohol withdrawal (had one episode on hospital day #1 of 
+agitation/nausea/vomiting which resolved with 5 mg PO diazepam). 
+He had a negative CT scan and abdominal ultrasound with Doppler 
+showed normal portal flow. Stool was guaiac-negative and there 
+was no evidence of bleed. However, after review of his medical 
+records including recent progress note from his neurologist and 
+discussion with his family members, it seems that some of his 
+presentation and waxing/waning mental status may be due to his 
+traumatic brain injury. He may also have an element of permanent 
+Korsakoff's psychosis from years of alcohol abuse. He was not 
+noted to have any evidence of seizure during his inpatient stay, 
+although unobserved seizure at outside facility with resulting 
+post-ictal state is also possible.  Patient's mental status 
+dramatically improved with the absence of alcohol and increased 
+lactulose dosing.  Patient was consistently alert and oriented 
+in the days prior to discharge.
+.
+#  Liver disease: The patient's imaging and labs (mildly 
+elevated transaminases and total bilirubin, elevated INR, and 
+thrombocytopenia) are consistent with chronic alcoholic 
+cirrhosis. Elevated MCV and low WBC support chronic alcoholism. 
+HBV and HCV serologies were repeated during this admission and 
+were negative. The patient was continued on his diuretics; 
+lactulose was increased and rifaximin added as above. Patient 
+was scheduled follow up with Dr. ___.  He was unable to 
+name his hepatologist in ___, ___.  He is advised to 
+obtain his medical records from this physician prior to his 
+appointment with Dr. ___ he can remember the name or address 
+of the hepatologist.
+.
+# Alcohol abuse: Patient was actively drinking until checking 
+into ___. According to his family members, 
+although patient expresses a desire to quit drinking, he is 
+unable to do so - he will drink at any opportunity. He was 
+monitored on a CIWA scale and had one potential episode of 
+withdrawal on hospital day #1 as above, but no further episodes. 
+Social work consult was called for coping/support. He was 
+continued on thiamine, folate, and multivitamin. He plans to 
+report to an inpatient alcohol addiction program on day of 
+discharge.
+.
+# HTN: Mildly hypertensive on arrival to floor. BPs were 
+generally well-controlled on home captopril.
+.
+# Pancytopenia: Blood levels were stable while in house. Likely 
+chronic and secondary to cirrhosis and alcoholism as above.
+.
+# Heartburn. The patient complained of frequent heartburn during 
+this admission. He was treated symptomatically with Tums and 
+started on omeprazole.
+.
+# Capacity, self-care. Patient formerly had a guardian, but 
+evidently was able to have guardianship revoked without medical 
+evaluation. On presentation he displayed very poor insight into 
+his condition and has demonstrated an inability to care for 
+himself or manage his finances per his family. Therefore, a 
+psych evaluation was called with resulting recommendation to 
+pursue guradianship for this patient. A family meeting was held 
+to discuss this situation; three of the patient's sisters ___, 
+___ and his two children were present in addition to 
+representatives from social work, medicine and psych services, 
+and case management. His health care proxy (niece ___ and 
+another sister joined the meeting by telephone. His family 
+members expressed great concern for the patient's health and 
+future and believe that he will require a guardian going 
+forward, as well as an ___ facility to help him to care 
+for his medical and psychiatric/addiction needs.  Patient's 
+mental status, however, significantly improved with the abscence 
+of alcohol and with increased lactulose dosing. The days prior 
+to discharge the patient was consistently oriented and expressed 
+greater insight into his health problems.  He recognized the 
+concern for his ability to make decisions but felt confident 
+that if he took his medications as directed and abstained from 
+alcohol that his mental status would not be an obstacle for 
+self-care.  The patient requested information on inpatient 
+alcohol addiction programs and follow up appointments with a new 
+primary care provider and hepatologist.  At this point he was 
+found to have capacity and the pursuit of a guardian was no 
+longer indicated.  The patient was ultimately discharged home 
+with his family who will take him to an inpatient alcohol 
+facility where he has a bed reserved.
+.
+CODE: Full code  
+.
+Contact: States sister ___ is HCP: ___ however ___ 
+___ has recently signed HCP paperwork for admission to 
+___: ___. 
+.
+DISPO: Patient currently homeless. Family agreed to pick him up 
+and take him to an alcohol addiction program.
+ 
+Medications on Admission:
+MEDICATIONS (per ___ records): 
+- Lorazepam 1 mg PO BID (day ___ = ___ got one dose morning 
+of admission)
+- Folic acid 1 mg PO daily 
+- Spironolactone 100 mg PO daily
+- Furosemide 40 mg PO daily
+- Captopril 25 mg PO BID
+- Lactulose 30 ml PO TID
+- Keppra 1000 mg PO BID
+- KCl 10 mEq PO daily
+- Thiamine 100 mg PO daily
+- MVI 1 tab PO daily
+ 
+Discharge Medications:
+1. Spironolactone 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+2. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Levetiracetam 500 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).
+Disp:*120 Tablet(s)* Refills:*2*
+4. Captopril 25 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+5. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+8. Lactulose 10 gram/15 mL Syrup Sig: Sixty (60) ML PO Q3H 
+(every 3 hours).
+Disp:*1 bottle* Refills:*4*
+9. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO QID (4 times a day) as needed for dyspepsia.
+Disp:*60 Tablet, Chewable(s)* Refills:*0*
+10. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: Two (2) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).
+Disp:*60 Capsule, Delayed Release(E.C.)(s)* Refills:*2*
+11. Rifaximin 550 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).
+Disp:*60 Tablet(s)* Refills:*2*
+12. Ferrous Sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO TID (3 times a day).
+Disp:*90 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+- Altered mental status
+- Hepatic encephalopathy
+- Alcohol abuse/withdrawal
+
+SECONDARY:
+- History of traumatic brain injury
+- Seizure disorder
+
+ 
+Discharge Condition:
+Mental Status: alert, oriented x 3, occasional confabulation and 
+distractability
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were transferred to ___ 
+after staff at the ___ found you to be 
+very confused and disoriented. Your confusion is most likely due 
+to a combination of factors, including alcohol, liver disease, 
+and brain injury from your fall ___ years ago. You were treated 
+with lactulose and over the next several days your mental status 
+significantly improved. You can minimize the likelihood of 
+becoming confused in the future by doing the following:
+
+1. Stop drinking ALL alcohol (including alternative sources of 
+alcohol such as mouthwash). This will worsen your liver disease 
+and can lead to falls and other injuries. There are many 
+resources to help you stop drinking alcohol. Please ask your 
+health care providers if you feel you need additional 
+assistance.
+
+2. Take your medications as prescribed. This will help to 
+minimize complications from your liver disease (without the 
+medications, you will ___ develop a dangerous state of 
+confusion called hepatic encephalopathy) as well as from 
+seizures (prolonged seizures deprive the brain of oxygen and can 
+worsen your brain injuries).
+
+We have made the following changes to your medication regimen:
+- INCREASE DOSE of lactulose to 60 ml every ___ hours, or more 
+if needed. *** Please note that it is the number of bowel 
+movements that you have (and NOT the amount of lactulose that 
+you take) that reduces your risk of hepatic encephalopathy. 
+Therefore, if you are not having at least ___ bowel movements 
+per day, you need to increase the amount of lactulose that you 
+take. 
+- BEGIN TAKING rifaximin 550 mg by mouth twice daily (this 
+medication will also help to reduce your risk of hepatic 
+encephalopathy)
+- BEGIN TAKING omeprazole 40 mg by mouth daily (this medication 
+will help to reduce the risk of heartburn)
+ 
+Followup Instructions:
+___

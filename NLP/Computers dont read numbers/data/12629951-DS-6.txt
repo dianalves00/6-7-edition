@@ -1,0 +1,273 @@
+ 
+Name:  ___         Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+exertional chest pain
+
+ 
+Major Surgical or Invasive Procedure:
+___:
+Coronary artery bypass grafting x4 with the left
+internal mammary artery to left anterior descending artery
+and reverse saphenous vein graft to the right acute marginal
+artery, obtuse marginal artery and diagonal artery
+ 
+History of Present Illness:
+___ year old male who began experiencing chest pain with jogging 
+up inclines or playing tennis several months ago that resolves 
+with rest. He was sent
+for a stress echo which demonstrated ischemic EKG changes as 
+well
+as chest pain. Echo portion was normal but deemed suboptimal 
+with
+multiple wall regions not visualized. He was referred for a
+cardiac catheterization and was found to have three vessel
+disease. He is now being referred to cardiac surgery for 
+surgical
+revascularization.
+
+ 
+Past Medical History:
+CAD
+Htn
+Hyperlipidemia
+Diabetes Mellitus
+
+ 
+Social History:
+___
+Family History:
+Premature coronary artery disease- Mother had died
+MI at age ___
+
+ 
+Physical Exam:
+Admit PE:
+Pulse:74 Resp:12  O2 sat:97/RA
+B/P  Right:159/91    Left:160/86
+Height:5'7"   Weight:69.9 kg
+
+General:
+Skin: Dry [x] intact [x]
+HEENT: PERRLA [x] EOMI [x]
+Neck:  Supple [x] Full ROM [x]
+Chest: Lungs clear bilaterally [x]
+Heart: RRR [x]  Irregular []  Murmur [] grade ______
+Abdomen: Soft [x] non-distended [x]x non-tender [x] 
+Extremities: Warm [x], well-perfused [x]  Edema [] _____
+Neuro: Grossly intact [x]
+Pulses:
+Femoral      Right: palp  Left: palp
+DP           Right: palp  Left: palp
+___           Right: palp  Left: palp
+Radial       Right: palp  Left: palp
+
+Carotid Bruit        Right: none   Left: none
+ 
+Pertinent Results:
+STUDIES:
+Cardiac Echocardiogram:Stree Echo ___ ___
+Left Ventricle - Ejection Fraction:   >= 60%   >= 55%   
+Aortic Valve - Peak Velocity:   1.1 m/sec   <= 2.0 m/sec   
+Mitral Valve - E Wave:   0.9 m/sec       
+Mitral Valve - A Wave:   1.0 m/sec       
+Mitral Valve - E/A ratio:   0.90       
+Mitral Valve - E Wave deceleration time:*106 ms   140-250ms      
+
+Conclusions   
+ The patient exercised for 9 minutes 18 seconds according to a
+___ protocol ___ METS) reaching a peak heart rate
+of 172 bpm and a peak blood pressure of 190/60 mmHg. The test 
+was
+stopped because of shortness of breath and chest pain. This 
+level
+of exercise represents a good exercise tolerance for age. In
+response to stress, the ECG showed ischemic ST changes (see
+exercise report for details). There is resting hypertension.
+There were normal blood pressure and heart rate responses to
+stress. 
+ Resting images were acquired at a heart rate of 88 bpm and a
+blood pressure of 150/70 mmHg. These demonstrated normal 
+regional
+and global left ventricular systolic function though of note
+distal inferior wall not visualized. Right ventricular free wall
+motion is normal. Doppler demonstrated no aortic stenosis, 
+aortic
+regurgitation or significant mitral regurgitation or resting 
+LVOT
+gradient. 
+ Echo images were acquired within 45seconds after peak stress at
+heart rates of 153 - 134 bpm. These demonstrated appropriate
+augmentation of all left ventricular segments. There was
+augmentation of right ventricular free wall motion. 
+IMPRESSION: Good functional exercise capacity. Ischemic ECG
+changes in the absence of 2D echocardiographic evidence of
+inducible ischemia to achieved workload. Resting hypertension.
+Normal hemodynamic response to exercise.   
+
+___: Intraop TEE:
+Conclusions  
+Prebypass
+
+No spontaneous echo contrast is seen in the body of the left 
+atrium or left atrial appendage. No atrial septal defect is seen 
+by 2D or color Doppler. There is mild symmetric left ventricular 
+hypertrophy. There is mild regional left ventricular systolic 
+dysfunction with hypokinesia of the apical portion of the 
+anterior septum and septum. Overall left ventricular systolic 
+function is mildly depressed (LVEF= 45-50 %). Right ventricular 
+chamber size and free wall motion are normal. The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. Dr. ___ was notified in person of the results on 
+___ at ___ am
+
+Post bypass
+
+Patient is A paced and receiving an infusion of Phenylephrine. 
+Biventricular systolic function is unchanged. Aorta is intact 
+post decannulation. Rest of examination is unchanged.   
+
+LABS:
+Admit:
+___ 11:26AM BLOOD WBC-10.2* RBC-2.83*# Hgb-8.5*# Hct-25.7*# 
+MCV-91 MCH-30.0 MCHC-33.1 RDW-11.7 RDWSD-38.5 Plt Ct-72*#
+___ 11:26AM BLOOD ___ PTT-31.8 ___
+___ 12:01PM BLOOD Glucose-181* UreaN-8 Creat-0.6 Na-138 
+K-4.2 Cl-110* HCO3-24 AnGap-8
+
+Discharge:
+
+___ 07:20AM BLOOD WBC-9.8 RBC-2.66* Hgb-8.0* Hct-25.2* 
+MCV-95 MCH-30.1 MCHC-31.7* RDW-12.6 RDWSD-43.4 Plt ___
+___ 03:13AM BLOOD WBC-13.1* RBC-2.76* Hgb-8.4* Hct-25.5* 
+MCV-92 MCH-30.4 MCHC-32.9 RDW-12.2 RDWSD-41.0 Plt ___
+___ 03:13AM BLOOD ___ PTT-32.8 ___
+___ 07:20AM BLOOD Glucose-88 UreaN-16 Creat-1.0 Na-138 
+K-5.2* Cl-101
+___ 03:13AM BLOOD Glucose-59* UreaN-20 Creat-1.0 Na-135 
+K-4.3 Cl-95* HCO3-30 AnGap-14
+ 
+Brief Hospital Course:
+Mr. ___ was brought to the Operating Room on ___ 
+where the patient underwent Coronary artery bypass grafting x4 
+(left internal mammary artery to left anterior descending artery 
+and reverse saphenous vein graft to the right acute marginal 
+artery, obtuse marginal artery and diagonal artery).  Overall 
+the patient tolerated the procedure well and post-operatively 
+was transferred to the CVICU in stable condition for recovery 
+and invasive monitoring.  
+POD 1 found the patient extubated, alert and oriented and 
+breathing comfortably.  The patient was neurologically intact 
+and hemodynamically stable, weaned from inotropic and 
+vasopressor support.  Beta blocker was initiated and the patient 
+was gently diuresed toward the preoperative weight.  He remained 
+in the ICU for IV insulin support for hyperglycemia despite 
+increase in his preop home diabetes medications.  ___ was 
+consulted for assistance with management of blood glucose.  He 
+also completed a course of Ciprofloxacin for fevers with +UA.  
+The patient was transferred to the telemetry floor for further 
+recovery.  Chest tubes and pacing wires were discontinued 
+without complication.  The patient was evaluated by the physical 
+therapy service for assistance with strength and mobility.  By 
+the time of discharge on POD 8 the patient was ambulating 
+freely, the wound was healing and pain was controlled with oral 
+analgesics.  The patient was discharged home in good condition 
+with appropriate follow up instructions.
+ 
+Medications on Admission:
+1. Atorvastatin 80 mg PO QPM 
+2. GlipiZIDE 5 mg PO BID 
+3. levemir 45 Units Bedtime
+4. MetFORMIN (Glucophage) 850 mg PO QAM 
+5. MetFORMIN (Glucophage) 1700 mg PO QPM 
+6. Metoprolol Succinate XL 25 mg PO DAILY 
+7. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. GlipiZIDE 5 mg PO BID 
+4. levemir 45 Units Bedtime
+5. MetFORMIN (Glucophage) 850 mg PO QAM 
+6. MetFORMIN (Glucophage) 1700 mg PO QPM 
+7. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+8. HYDROmorphone (Dilaudid) ___ mg PO Q3H:PRN pain 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth q3h Disp #*60 
+Tablet Refills:*0
+9. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+10. Metoprolol Tartrate 12.5 mg PO TID 
+RX *metoprolol tartrate 25 mg 0.5 (One half) tablet(s) by mouth 
+three times a day Disp #*50 Tablet Refills:*0
+11. Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram 1 powder(s) by mouth daily 
+Disp #*30 Packet Refills:*0
+12. Ranitidine 150 mg PO BID 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+13. Furosemide 40 mg PO DAILY Duration: 7 Days 
+RX *furosemide 40 mg 1 tablet(s) by mouth daily Disp #*7 Tablet 
+Refills:*0
+14. Potassium Chloride 20 mEq PO DAILY Duration: 7 Days 
+RX *potassium chloride 20 mEq 1 tablet(s) by mouth daily Disp 
+#*7 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+CAD
+Hypertension
+Hyperlipidemia
+Diabetes Mellitus
+
+ 
+Discharge Condition:
+Alert and oriented x3 nonfocal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Right/Left Leg Incision - 
+healing well, no erythema or drainage
+Edema - trace
+
+ 
+Discharge Instructions:
+Please shower daily including washing incisions gently with mild 
+soap, no baths or swimming, and look at your incisions
+Please NO lotions, cream, powder, or ointments to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics, will be discussed at follow up appointment with 
+surgeon when you will be able to drive
+No lifting more than 10 pounds for 10 weeks
+Please call with any questions or concerns ___
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

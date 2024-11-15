@@ -1,0 +1,259 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Persistent respiratory failure
+ 
+Major Surgical or Invasive Procedure:
+Intubation ___ at ___ 
+ 
+History of Present Illness:
+___ with a history of COPD, nephrolithiasis admitted with 
+pneumonia and acute respiratory failure now s/p lung biopsy with 
+DAD and UIP,  being transferred from ___ for 
+further evaluation. 
+
+The patient initially presented to OSH with subacute SOB for a 
+number of weeks of unclear etiology. On presentation no fever, 
+leukocytosis or elevated pro-calcitonin.  CXR showed multifocal 
+airspace opacities R>L. He initially underwent tx for CAP with 
+azithromycin, CTX and prednisone (unknown dose). Given lack of 
+improvement, he underwent TTE which showed severe pulmonary 
+hypertension. Additionally, he underwent CTA to evaluate for 
+pulmonary embolism, which showed no PE, but was concerning for 
+chronic R sided fibrosis, bronchiectasis, and possible 
+interstitial changes.  Rheum w/u negative per report save for 
+slightly positive ___. 
+
+He underwent VATS with wedge resection for pathologic diagnosis 
+on ___. He was not extubated immediately, and broncoscopy 
+during this time showed an MRSA in bronchial washings. Thus he 
+was initiated on imipenem and linezolid. He was extubated on 
+___ but required reintubation on ___ due to tachypnea and 
+worsening hypoxia. He was started on pulse dose steroids on ___ 
+and continued through the day of transfer (___). Notably, the 
+patient has required multiple vasopressors for hypotension 
+thought to be related to sedation and MRSA VAP. During his stay 
+he also developed new onset atrial fibrillation treated with 
+digoxin. He also had a transaminitis of unclear etiology which 
+resolved by the time of transfer.  
+
+Finally, on ___, final pathology returned on his lung bx which 
+showed diffuse alveolar damage on a background of ususal 
+interstitial pneumonia, concerning for underlying IPF. He was 
+transferred to ___ for pulmonary evaluation. 
+
+Of note, family meeting held on the day of transfer where the 
+patient was made DNR, noting they would not want a trach for 
+long-term vent support. Per further discussion on arrival to 
+___, family reports wanting all resuscitative measures needed, 
+including CPR.
+
+On arrival to the MICU, patient was intubated and 
+hemodynamically stable. Had received rocuronium and versed 
+during ambulance ride for persistently fighting the vent.
+ 
+
+ 
+Past Medical History:
+Nephrolithiasis s/p lithotripsy
+Chronic back pain
+S/P appendectomy
+
+ 
+Social History:
+___
+Family History:
+No family history of lung or autoimmune diseases. 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+================================
+VITALS: T 97.9 HR 108 BP 103/70 O2 sat 95%
+GENERAL: Obese male, intubated and intermittently agitated 
+HEENT: AT/NC, PERRL, anicteric sclera, pink conjunctiva, MMM, 
+good dentition  
+NECK: nontender supple neck, no LAD, no visible JVD  
+CARDIAC: irregular rhythm, S1/S2, no murmurs, gallops, or rubs  
+LUNG: diminished but equal breath sounds with rhonchi 
+bilaterally, no audible wheezes or crackles 
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: Unable to fully assess
+
+DISCHARGE PHYSCIAL EXAM
+=================================
+Deceased
+ 
+Pertinent Results:
+ADMISSION LABS
+=============================
+___ 10:59PM BLOOD WBC-21.9* RBC-4.53* Hgb-13.9 Hct-43.0 
+MCV-95 MCH-30.7 MCHC-32.3 RDW-14.2 RDWSD-49.2* Plt ___
+___ 10:59PM BLOOD Neuts-98* Bands-0 Lymphs-1* Monos-0 Eos-0 
+Baso-0 ___ Myelos-1* AbsNeut-21.46* AbsLymp-0.22* 
+AbsMono-0.00* AbsEos-0.00* AbsBaso-0.00*
+___ 10:59PM BLOOD ___ PTT-25.8 ___
+___ 10:59PM BLOOD Glucose-209* UreaN-31* Creat-0.9 Na-135 
+K-4.8 Cl-96 HCO3-27 AnGap-17
+___ 10:59PM BLOOD ALT-39 AST-32 LD(LDH)-416* AlkPhos-94 
+TotBili-0.6
+___ 10:59PM BLOOD Calcium-8.0* Phos-3.3 Mg-2.1
+___ 04:36AM BLOOD %HbA1c-6.6* eAG-143*
+___ 04:36AM BLOOD Triglyc-199*
+___ 11:09PM BLOOD ___ pO2-49* pCO2-63* pH-7.36 
+calTCO2-37* Base XS-7
+___ 11:09PM BLOOD Lactate-2.6*
+
+MICROBIOLOGY
+===============================
+
+___ 2:15 am URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      YEAST.    10,000-100,000 CFU/mL. 
+
+___ 2:44 am SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      NO MICROORGANISMS SEEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      ENTEROBACTER CLOACAE COMPLEX.    SPARSE GROWTH. 
+         Piperacillin/Tazobactam sensitivity testing performed 
+by ___
+         ___.  cefepime sensitivity testing confirmed by ___ 
+___. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROBACTER CLOACAE COMPLEX
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------  =>64 R
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----       I
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+DISCHARGE LABS
+===============
+___ 03:19AM BLOOD WBC-10.1* RBC-3.53* Hgb-10.9* Hct-33.4* 
+MCV-95 MCH-30.9 MCHC-32.6 RDW-14.6 RDWSD-49.5* Plt ___
+___ 03:19AM BLOOD Plt ___
+___ 03:19AM BLOOD Glucose-103* UreaN-16 Creat-0.7 Na-138 
+K-4.2 Cl-98 HCO3-31 AnGap-13
+___ 03:19AM BLOOD Calcium-7.6* Phos-2.4* Mg-2.___ with a history of COPD, nephrolithiasis initially admitted 
+to ___ with respiratory failure requiring 
+mechanical ventilation with imaging and pathological findings 
+concerning for IPF, with a course complicated by likely MRSA VAP 
+and persistent respiratory failure s/p failed extubation, 
+transferred to ___ for further pulmonary evaluation.  Patient 
+was successfully extubated but required increasingly high levels 
+of supplemental oxygen for support, despite treatment for 
+pneumonia and continued empirical corticosteroids. Goals of care 
+conversation had with patient and family and patient was made 
+DNR/DNI, and with continued clinical decline, care was 
+eventually transitioned to focus on patient comfort (CMO). 
+
+#GOC: No improvement in oxygenation despite HFNC. Patient made 
+DNR/DNI and eventually transitioned to CMO. Required morphine 
+___ mg Q1H:PRN dyspnea/air hunger. 
+
+#Hypoxemic respiratory failure:
+#Diffuse alveolar damage:
+#Biopsy findings consistent with IPF:
+#MRSA VAP
+Biopsy at ___ showed UIP and IPF with a superimposed 
+diffuse alveolar damage, possibly secondary to pneumonia vs. IPF 
+flare. He received multiple antibiotic courses (including CTX, 
+azithro, cefepime, vancomycin, and ciprofloxacin; transferred on 
+linezolid and imipenem) and methylprednisolone burst with 
+subsequent PO prednisone taper. Repeat CT showed findings 
+consistent w/ IPF, UGI. Rheumatolgic work-up negative. Unable to 
+wean off of HFNC. 
+
+#Colitis: Seen on CT. Found to be c.diff colitis. Started on PO 
+vanc. 
+
+#AF:
+New-onset AF after VATS, CHADS2 at least 2. Reported episodes of 
+RVR at OSH requiring digoxin loading. Started on metoprolol for 
+rate control and lovenox for anticoagulation. 
+
+#COPD: Started on duonebs.
+
+#HTN: Held anti-hypertensives given normotension while 
+inpatient. 
+ 
+#Hyperglycemia: No know history of DM; hyperglycemia likely in 
+the setting of pulse dose steroids. Hgb 6.6. On ISS while 
+inpatient. 
+
+Event Note:
+On ___, patient was noted to be increasingly tachypenic and 
+dyspneic with hypoxemia to the ___ despite HFNC/BiPAP. Patient 
+was DNR/DNI at this time. This was presumed to be due to his 
+extensive underlying irreversible lung disease and it was felt 
+that there would be little improvement in his respiratory status 
+with further interventions. Patient's family was called to the 
+bedside and patient was made CMO. He was started on morphine 
+drip with boluses for air hunger/dyspnea eventually leading to 
+his passing with his family at bedside. 
+
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Carvedilol 25 mg PO BID 
+2. Lisinopril 30 mg PO DAILY 
+
+ 
+Discharge Medications:
+Deceased 
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Hypoxemic respiratory failure 
+UIP/IPF
+VAP
+C. diff colitis 
+Atrial fibrillation 
+ 
+Discharge Condition:
+Deceased 
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+___

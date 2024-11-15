@@ -1,0 +1,380 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+morphine / Flagyl / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cardiogenic shock, ___ NSTEMI
+
+ 
+Major Surgical or Invasive Procedure:
+-Endotracheal intubation and extubation
+-Cordis introducer with Swan catheter placement and removal
+-IABP placement and removal  
+ 
+History of Present Illness:
+___ M with known coronary artery disease elective cath ___ 
+(patent stent in pLCx, severe mRCA disease, was revascularized 
+at ___) now is transferred from outside hospital with 
+cardiogenic shock ___ NSTEMI. 
+
+Patient originally presented to ___ with SOB on 
+___. He was initially treated for CAP with antibiotics 
+(vanc/levaquin/aztreonam). However, the patient developed 
+worsening SOB, hypoxia, and was transferred to CCU and started 
+bipap for CHF. He was eventually intubated on ___, difficulty 
+with ventilation, placed on APRV. CXR showed asymmetric 
+pulmonary edema vs multilobar PNA. ECG showed lateral STD, 
+elevated troponin >70 this AM. 
+
+Patient was started on dopamine/neo gtt's and placed on lasix 
+gtt (which was now off after not having significant response). 
+Echo showed 45% EF. He has developed ___ to creatinine 3.6. He 
+also was on heparin gtt. He made 40-50 cc UOP enroute.
+
+In Cath lab at ___:
+RHC PCWP 35, PA 56/35, CI 2.2, mean gradient of 15mmHg, ___ 
+0.9cm2
+Cors: 90% ISR of BMS of LCx, LM ok. pLAD thrombosis 95% lesion, 
+RCA stent patent. NO STENT WAS PLACED. IABP WAS PLACED.
+ 
+Past Medical History:
+-CAD
+-Carotid artery disease
+-Peripheral artery disease
+-HTN
+-HL
+-GERD
+-H/o seizure d/o
+-H/o prostate cancer
+-H/o colonc cancer
+
+PSH:
+-S/p PTCA with stent to the LCx and RCA
+-S/p craniotomy
+-S/p partial colon resection
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  
+ 
+Physical Exam:
+ON ADMISSION:
+Gen: intubated, sedated
+HEENT: PERRLA 
+NECK: supple
+CV: regular rate and rhythm, no murmurs appreciated
+LUNGS: rhonchorous sounds anteriorly
+ABD: soft, nontender, nondistended, BS present
+EXT: cool, no lower extremity edema,
+PULSES: dopplerable DP, ___ bilaterally
+
+ON DISCHARGE:
+VITALS: Tmax 98.6 Tc 98.5 HR 65-69 BP ___ RR ___ 
+SpO2 92-95% RA, Wt 66.3 kg
+I/O: 600/700, 8h NR/NR
+Gen: Well-appearing in NAD
+HEENT: PERRLA, EOMI, MM
+NECK: supple, JVP to 8
+CV: regular rate and rhythm, no murmurs appreciated
+LUNGS: rhonchorous sounds anteriorly, crackles at bilateral 
+bases
+ABD: soft, nontender, nondistended, BS present, R groin site 
+with wound dressing with dried blood
+EXT: warm extremities, no lower extremity edema
+GU: foley in place with yellow urine
+Neuro: CN II-XII intact, moving all extremities, oriented x3
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 07:08PM BLOOD WBC-18.1* RBC-3.56* Hgb-12.1* Hct-33.3* 
+MCV-94 MCH-34.0* MCHC-36.2* RDW-13.9 Plt ___
+___ 07:08PM BLOOD Plt ___
+___ 07:08PM BLOOD ___ PTT-85.8* ___
+___ 07:08PM BLOOD Glucose-178* UreaN-67* Creat-3.3* Na-141 
+K-4.7 Cl-110* HCO3-14* AnGap-22*
+___ 07:08PM BLOOD CK(CPK)-3474*
+___ 07:08PM BLOOD CK-MB-275* MB Indx-7.9* cTropnT-8.75*
+___ 07:08PM BLOOD Calcium-7.6* Phos-5.6* Mg-2.1
+___ 07:17PM BLOOD Type-ART Temp-36.4 pO2-84* pCO2-35 
+pH-7.30* calTCO2-18* Base XS--7 Intubat-INTUBATED
+___ 09:29PM BLOOD Type-MIX
+___ 09:32PM BLOOD Type-ART pO2-68* pCO2-31* pH-7.32* 
+calTCO2-17* Base XS--8
+___ 01:17AM BLOOD Type-ART pO2-82* pCO2-29* pH-7.34* 
+calTCO2-16* Base XS--8
+___ 07:17PM BLOOD Lactate-1.3
+___ 09:29PM BLOOD O2 Sat-59
+___ 09:32PM BLOOD O2 Sat-92
+
+PERTINENT LABS:
+================
+___ 02:17PM BLOOD Glucose-185* UreaN-72* Creat-3.2* Na-140 
+K-4.6 Cl-108 HCO3-19* AnGap-18
+___ 05:40AM BLOOD Glucose-106* UreaN-30* Creat-1.2 Na-139 
+K-3.6 Cl-103 HCO3-25 AnGap-15
+___ 01:10AM BLOOD CK-MB-236* cTropnT-12.64*
+___ 05:33AM BLOOD CK-MB-211* MB Indx-8.5* cTropnT-13.63*
+___ 05:15AM BLOOD CK-MB-62* MB Indx-5.6 cTropnT-8.78*
+___ 04:47AM BLOOD ALT-52* AST-55* AlkPhos-91 TotBili-0.7
+___ 05:00AM BLOOD %HbA1c-5.7 eAG-117
+___ 09:10PM URINE Color-Straw Appear-Clear Sp ___
+___ 09:10PM URINE Blood-TR Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 09:10PM URINE RBC-2 WBC-3 Bacteri-NONE Yeast-NONE Epi-0
+
+DISCHARGE LABS:
+================
+___ 07:15AM BLOOD WBC-8.2 RBC-2.95* Hgb-9.5* Hct-27.2* 
+MCV-92 MCH-32.3* MCHC-35.0 RDW-14.8 Plt ___
+___ 07:15AM BLOOD Plt ___
+___ 07:15AM BLOOD Glucose-113* UreaN-22* Creat-1.3* Na-138 
+K-4.2 Cl-108 HCO3-18* AnGap-16
+___ 04:47AM BLOOD ALT-52* AST-55* AlkPhos-91 TotBili-0.7
+___ 05:15AM BLOOD CK-MB-62* MB Indx-5.6 cTropnT-8.78*
+___ 07:15AM BLOOD Calcium-8.9 Phos-3.7 Mg-1.8
+___ 08:44PM BLOOD Type-CENTRAL VE pO2-42* pCO2-54* pH-7.43 
+calTCO2-37* Base XS-9
+___ 09:54AM BLOOD O2 Sat-65
+___ 09:54AM BLOOD freeCa-1.15
+
+IMAGING:
+================
+ECG (___):
+Sinus rhythm. Prior anteroseptal myocardial infarction, age 
+undetermined. 
+Inferolateral ST-T wave changes, likely due to left ventricular 
+hypertrophy. Cannot exclude ischemia. No previous tracing 
+available for comparison. 
+
+CXR (___):
+ET tube terminates 3.5 cm above Carina. Left IJ CVC terminates 
+in the upper SVC. Inflated IABP is in appropriate position. 
+Moderate to severe pulmonary edema and pleural effusions, 
+probable CHF. 
+
+TTE (___):
+There is mild symmetric left ventricular hypertrophy with normal 
+cavity size. Overall left ventricular systolic function is 
+severely depressed with inferior and inferolateral akinesis and 
+lateral hypokinesis (LVEF= ___ %). The right ventricular 
+cavity is dilated with depressed free wall contractility. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets are severely 
+thickened/deformed. There is severe aortic valve stenosis (valve 
+area <1.0cm2). Trace aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. The tricuspid valve 
+leaflets are mildly thickened. The estimated pulmonary artery 
+systolic pressure is normal. There is no pericardial effusion. 
+
+IMPRESSION: Severe left ventricular systolic dysfunction as 
+described above. Dilated and hypokinetic right ventricle (a 
+catheter is seen to traverse the RV towards the PA). Severely 
+thickened aortic valve with likely severe stenosis - gradients 
+are relatively low due to poor LV systolic dysfunction.  
+
+CXR (___):
+The previous radiograph, there is a minimal increase in extent 
+of the 
+bilateral pleural effusions. Otherwise, the radiograph is 
+unchanged. Moderate cardiomegaly. Bilateral areas of 
+atelectasis.  Moderate pulmonary edema. No pneumonia. No 
+pneumothorax.
+
+CXR (___):
+Lung volumes have improved and previous bibasilar atelectasis 
+and moderate pleural effusions have nearly cleared.  There is 
+the suggestion of new consolidation in the right upper lung, 
+where there was substantial 
+consolidation on ___ raising possibility of recurrent 
+pneumonia, often due to aspiration. Heart is normal size.
+
+Carotid Ultrasound (___):
+Less than 40% stenosis of bilateral ICA. 
+  
+Teeth Panorex (___): pending 
+
+MICROBIOLOGY:
+===================
+-Sputum Cx (___): contaminant
+-Blood Culture, Routine (Final ___: NO GROWTH x 2
+-___ 3:35 pm SPUTUM Source: Endotracheal. 
+GRAM STAIN (Final ___: 
+  >25 PMNs and <10 epithelial cells/100X field. 
+  2+ ___ per 1000X FIELD): GRAM POSITIVE COCCI. IN PAIRS AND 
+CLUSTERS. 
+RESPIRATORY CULTURE (Final ___: SPARSE GROWTH Commensal 
+Respiratory Flora.
+
+ 
+Brief Hospital Course:
+___ M with known coronary artery disease elective cath ___ 
+(patent stent in pLCx, severe mRCA disease, was revascularized 
+at ___) now is transferred from outside hospital with mixed 
+(cardiogenic/septic) shock ___ NSTEMI and presumed pneumonia. 
+
+# Acute hypoxemic respiratory failure: Multifactorial, initially 
+due to pulmonary edema but persisted when swan numbers showed he 
+was adequately diuresed. CXR showed mild bilateral infiltrates 
+and was treated with cefepime for HCAP course. He was also given 
+nebs PRN and continued to be diuresed with Lasix. The patient 
+was weaned to room air at the time of discharge. 
+
+# Cardiogenic shock ___ NSTEMI: Patient presented unstable with 
+NSTEMI. Became hypotensive at OSH cath lab requiring IABP. He 
+was placed on dobutamine and norepinephrine, however was weaned 
+off IABP and pressors. No stent was placed. Patient was seen by 
+cardiac surgery for revascularization and will see Dr. ___ as 
+outpatient with plan for CABG in 1 month. He was continued on 
+ASA, ___, and metoprolol and Plavix. Plavix will need to be held 
+one week prior to CABG. 
+
+# Acute decompensated systolic heart failure: TTE on ___ with 
+EF ___ secondary to ischemic cardiomyopathy. He was diuresed 
+aggressively and was transitioned to PO lasix upon discharge. He 
+was continued on metoprolol and losartan.  
+ 
+# New Paroxysmal Afib: CHADS = 3. Converted to sinus rhythm and 
+was thought to be triggered by ischemia. He was started on 
+amiodarone, continued on metoprolol and was kept on heparin gtt. 
+He was discharged on Apixiban 5 mg PO BID and Metoprolol 
+Succinate 150 mg PO Q12H. 
+
+# Dysphagia: During his hospitalization, there was a concern for 
+aspiration. The patient was evaluated by Speech and Swallow and 
+a video swallow was performed which was unremarkable for 
+oropharyngeal dysphagia, but more concerning for esophageal 
+dysmotility. The patient's diet was changed to regular with thin 
+liquids. The patient was managed on an H2 blocker and will 
+followup with gastroenterology at discharge. 
+
+# Acute Kidney Injury: Baseline Cr 1.2 with admission Cr of 3.6. 
+Etiology most likely pre-renal in setting of hypotension from 
+cardiogenic shock vs cardiorenal from volume overload. After 
+aggressive diuresis, Cr improved back to baseline. 
+
+#Stage II Sacral Decubitus Ulcer: Patient was found to have a 
+decubitus ulcer. Patient was evaluated by the wound nurse with 
+___ precautions given. 
+
+TRANSITIONAL ISSUES:
+[]CODE STATUS: Full 
+[]Discharge to Rehab with TELEMETRY
+[]Patient will need CBC check on ___
+[]Patient discharged on Metoprolol Succinate 150 mg PO Q12H and 
+Apixiban 5 mg PO BID for Afib
+[]Patient will continue Amiodarone taper 200 mg PO BID x 2 weeks 
+(___) followed by 200 mg PO ___ 
+[]Patient discharged on Losartan 50 mg PO ___
+[]Patient discharged on Clopidogrel 75 mg PO ___ need 
+to be held one week prior to CABG 
+[]Patient discharged on Lasix 20 mg PO ___
+[]Consider adding spironolactone when medically optimized
+[]Patient will need Gastroenterology followup to workup of 
+esophageal dysmotility 
+[]Discharge diet: Regular with thin liquids
+[]Discharge Weight: 66.3 kg
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+2. NIFEdipine CR 90 mg PO DAILY 
+3. Cilostazol 100 mg PO BID 
+4. Aspirin 81 mg PO DAILY 
+5. Atorvastatin 80 mg PO QPM 
+6. Clopidogrel 75 mg PO DAILY 
+7. Cyanocobalamin 500 mcg PO DAILY 
+8. FoLIC Acid 0.4 mg PO DAILY 
+9. Metoprolol Succinate XL 100 mg PO QAM 
+10. Valsartan 160 mg PO BID 
+11. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+12. Pantoprazole 40 mg PO Q12H 
+13. solifenacin 10 mg oral QAM 
+14. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+15. Multivitamins 1 TAB PO DAILY 
+16. HydrALAzine 10 mg PO BID 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. Clopidogrel 75 mg PO DAILY 
+4. Metoprolol Succinate XL 150 mg PO Q12H 
+5. Benzonatate 200 mg PO TID 
+6. Cepastat (Phenol) Lozenge 1 LOZ PO Q2H:PRN throat 
+7. Docusate Sodium (Liquid) 100 mg PO BID 
+8. Famotidine 20 mg PO DAILY 
+9. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+10. Furosemide 20 mg PO DAILY 
+11. Ipratropium-Albuterol Neb 1 NEB NEB Q6H 
+12. Amiodarone 200 mg PO BID 
+Amiodarone taper 200 mg PO BID x 2 weeks (___) followed 
+by 200 mg PO ___ 
+ 
+13. FoLIC Acid 0.4 mg PO DAILY 
+14. Cilostazol 100 mg PO BID 
+15. Cyanocobalamin 500 mcg PO DAILY 
+16. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+17. Multivitamins 1 TAB PO DAILY 
+18. Pantoprazole 40 mg PO Q12H 
+19. Losartan Potassium 50 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY:
+Non-ST Elevation Myocardial Infarction (NSTEMI)
+Cardiogenic Shock
+Coronary Artery Disease 
+Acute Systolic Cardiomyopathy
+Atrial Fibrillation
+Heatlh-Care Associated Pneumonia
+Acute Kidney Injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___. You were admitted after a major heart attack and 
+heart failure. You received life support and medical therapy in 
+the cardiac ICU with improvement. The heart problems may have 
+been exacerbated by the stress of your pneumonia, from which you 
+are still recovering. Our cardiac surgeons felt that bypass 
+surgery may be beneficial, and we recommend your breathing 
+status and strength improve before undergoing this procedure.
+
+Please see below for your medication changes. Please take your 
+medications as instructed. Please followup with your primary 
+care physician, ___, and heart surgeon. If you develop 
+any worsening chest pain, shortness of breath, lightheadedness, 
+or lower leg swelling, please medical attention urgently.
+
+Sincerely,
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

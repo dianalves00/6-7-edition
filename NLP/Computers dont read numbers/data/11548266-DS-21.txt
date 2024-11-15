@@ -1,0 +1,172 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+diarrhea
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ yo female with HTN, recent admission to ___ for pneumonia, 
+recently completed levofloxacin therapy, presents with abdominal 
+cramping and diarrhea for about one week.  Symptoms were mild 
+initially, but diarrhea and crampiness worsened over the 
+weekend.  Diarrhea is non-bloosy.  Some subjective chills, no 
+fevers.  No nausea or vomiting.  Appetite diminished.  No sick 
+contacts or potential raw food exposures.  Has some general 
+weakness, but denies presyncope or chest pain.  Given these 
+symptoms, patient was accompanied by granddaughter to ___ ___.
+
+In ___,
+VS:  97.2 86 135/62 20 94% 2L  -> 97% RA
+CT abdomen/pelvis obtained, received morphine and loperamide, 
+along with Flagyl, and was admitted for further evaluation
+
+Upon arrival to the floor, patient noted improved crampiness 
+after medication.  She had an appetite.  She had no other 
+complaints.
+
+ 
+Past Medical History:
+Community acquired pneumonia ___
+Hypertension
+S/p appendectomy
+S/p hemorrhoid surgery
+s/p CCK
+h/o PNA in ___
+ 
+Social History:
+___
+Family History:
+No FH premature coronary disease or sudden cardiac death.
+
+ 
+Physical Exam:
+VS:  97.9  146/76  HR 75  RR 18  93% RA
+General:  elderly woman, appears younger than stated age
+HEENT:  anicteric sclerae, clear oropharynx
+Neck:  no lymphadenopathy
+CV:  irregular rhythm, normal S1, S2, no murmurs
+Pulm: bronchial breath sounds on right, comfortable, good 
+airmovement, no rhonchi or rales
+Abdomen:  soft, moderate tenderness throughout, no rebound or 
+guarding
+
+ 
+Pertinent Results:
+CXR:
+The lungs remain hyperinflated, suggesting chronic obstructive 
+pulmonary disease.  Right basilar opacity is seen which may be 
+due to partial right lower lobe collapse with possible small 
+right pleural effusion.  No  focal consolidation or pleural 
+effusion is seen in the left lung.  There is no evidence of 
+pneumothorax.  Biapical pleural thickening is again seen.  The 
+cardiac and mediastinal silhouettes are stable. The previously 
+questioned nodular opacity projecting anteriorly just above the 
+hilar level on the lateral view is not well seen on the current 
+study and may have been artifactual.  My read:  appears similar 
+to prior
+
+CT abdomen/pelvis:
+1. Diffuse colonic wall edema consistent with pancolitis, which 
+could be infectious, inflammatory or less likely ischemic in 
+etiology.  No evidence of obstruction or toxic megacolon.   
+  
+2.  Stable severe intra and extrahepatic biliary dilatation. 
+  
+3.  Collapse of the right lung lower lobe which is not fully 
+imaged. Cannot exclude an obstructing lesion. Consider 
+nonemergent evaluation with dedicated contrast enhanced chest 
+CT. 
+  
+4. Sub-4 mm left lower lobe pulmonary nodule for which follow up 
+CT in ___ year can be considered to document stability.
+
+URINE  RBC-0 WBC-<1 BACTERIA-NONE YEAST-NONE EPI-<1
+BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-10 
+BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG
+
+PLT COUNT-322
+
+NEUTS-79.8* LYMPHS-10.7* MONOS-3.9 EOS-4.8* BASOS-0.8
+
+WBC-10.4 RBC-4.25 HGB-12.8 HCT-41.0 MCV-97 MCH-30.0 MCHC-31.1 
+RDW-12.3
+
+GLUCOSE-103* UREA N-6 CREAT-0.5 SODIUM-141 POTASSIUM-3.9 
+CHLORIDE-100 TOTAL CO2-31 ANION GAP-14
+
+LACTATE-1.31
+
+C.Diff Positive
+ 
+Brief Hospital Course:
+___ female with hx of recent antibiotics now presenting with 
+abdominal cramps and diarrhea.  
+She was given IVF, placed on flagyl and admitted to the medical 
+floor.  She was found to be c/diff positive.  She had 
+improvement throughout the day with only a few episodes of small 
+amount of loose stool.  She felt that her discomfort was gone.  
+She was eating and drinking well and therefore released as she 
+is cared for by her granddaughter.
+
+She is recommended to see her PCP ___ ___ days. Pcp was emailed 
+regarding this. 
+
+HTN- restarted home medications
+
+Incidentally, the pt was noted to have a LLL pulmonary nodule of 
+4mm.  She may have a repeat CT scan in ___ year.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 5 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU BID 
+4. Metoprolol Succinate XL 200 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Fluticasone Propionate NASAL 1 SPRY NU BID 
+2. Metoprolol Succinate XL 200 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Amlodipine 5 mg PO DAILY 
+5. MetRONIDAZOLE (FLagyl) 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*42 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+C.difficile infection
+
+ 
+Discharge Condition:
+alert, interactive
+ambulatory
+
+ 
+Discharge Instructions:
+You were diagnosed with inflammation in the colon, this is most 
+from C.difficile infection
+By chance, you were noted to have nodule in the lung. Your 
+primary care physician may decide to check a repeat CT scan in 
+the future to be sure that it does not change
+ 
+Followup Instructions:
+___

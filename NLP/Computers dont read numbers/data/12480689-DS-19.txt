@@ -1,0 +1,237 @@
+ 
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+atenolol / cefepime
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever, cough, diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y.o female with h.o Graves disease who presents with reports 
+of fever x3 days, diarrhea (3 episodes) x2 days and dry cough x2 
+days. Pt reports that she was vacationing in ___ during 
+the past few days. She first developed fever 3 days ago and took 
+tylenol x1. She then developed cough and diarrhea (watery and 
+dark brown), +nausea but no vomiting, no melena or brbpr. She 
+reports multiple mosquito insect bites and has been eating alot 
+of seafood. Otherwise denies sick contacts. She reports 
+decreased PO intake, mild fever without paresthesias, focal 
+weakness, visual disturbances or other neurologic red flags. 
+Denies chest pain, sob, palpitations, dysuria, rash. Of note, pt 
+started methimazole 2 months ago.
+.
+IN the ED, pt was given vancomycin, cefepime, tylenol, and 
+ibuprofen. Pt febrile to 102.9. 
+.
+Other 10 pt ROS reviewed and otherwise negative.
+ 
+Past Medical History:
+Graves disease/hyperthyroidism-started methimazole 2 months ago
+ 
+Social History:
+___
+Family History:
+Mother with CAD
+ 
+Physical Exam:
+ADMISSION EXAM
+
+Gen: well appearing, thin woman, NAD
+vitals: T. 98.1 BP 82/48 HR 85 RR 16 sat 99% on RA
+HEENT: ncat eomi anicteric, no oral lesions noted, MMM
+neck: supple, full range of motion, no signs of meningismus
+chest: b/l ae no w/c/r
+heart: s1s2 rr no m/r/g
+abd: +bs, soft, NT, ND, no guarding or rebound
+ext: no c/c/e 2+pulses
+skin: no apparent rash
+neuro: face symmetric, speech fluent, no tremor, moves all 
+extremities
+psych: calm, cooperative
+
+DISCHARGE EXAM
+afebrile, normal VS
+clear oropharynx, no adenopathy
+clear lungs
+normal S1, S2
+no rash
+benign abdomen
+ 
+Pertinent Results:
+___ 03:55PM URINE  HOURS-RANDOM
+___ 03:55PM URINE  UCG-NEGATIVE
+___ 03:55PM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 03:55PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-2* PH-6.0 LEUK-NEG
+___ 03:55PM URINE  RBC-84* WBC-3 BACTERIA-FEW YEAST-NONE 
+EPI-5
+___ 03:55PM URINE  MUCOUS-OCC
+___ 03:52PM   LACTATE-1.2
+___ 03:51PM   GLUCOSE-131* UREA N-13 CREAT-0.6 SODIUM-132* 
+POTASSIUM-3.8 CHLORIDE-100 TOTAL CO2-23 ANION GAP-13
+___ 03:51PM   estGFR-Using this
+___ 03:51PM   WBC-0.6* RBC-3.93* HGB-11.1* HCT-33.9* MCV-86 
+MCH-28.2 MCHC-32.6 RDW-14.3
+___ 03:51PM   NEUTS-2* BANDS-0 LYMPHS-90* MONOS-2 EOS-2 
+BASOS-0 ATYPS-4* ___ MYELOS-0
+___ 03:51PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 03:51PM   PLT SMR-NORMAL PLT COUNT-156
+___ 03:51PM   ___ PTT-30.0 ___
+___ 03:51PM   ___ PTT-30.0 ___
+.
+___ labs-
+TSH 0.01, T4 6.7, FT4 8.21
+.
+CXR ___
+
+Nodular opacity projecting over the lower lung fields, 
+symmetrically
+bilaterally, are likely due to nipple shadows; this can be 
+confirmed with
+repeat with nipple markers. Otherwise, no acute cardiopulmonary 
+process.
+
+CXR ___
+
+New small bilateral pleural effusions with adjacent opacities 
+likely
+atelectasis
+
+EKG ___
+Sinus tachycardia. Baseline artifact. Early R wave transition in 
+the
+precordial leads, probably a normal variant. No previous tracing 
+available for
+comparison.
+
+___ CXR 
+1. No acute cardiopulmonary process.
+2.  Improving tiny bilateral pleural effusions.
+
+___ CT ABD/PELVIS
+1.  No abscess, no definite adenopathy on this abdominal/pelvic 
+examination.
+
+___ CT CHEST WITH CONTRAST
+1.  Enlarged thyroid gland with two nodules in the lower pole of 
+the left lobe
+and isthmus.  These can be further evaluated via ultrasound if 
+indicated.
+2.  No evidence of infection in the chest.
+
+Blood, urine, stool cultures negative
+
+___ 6:46 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   VIRAL CULTURE (Preliminary):    NO VIRUS ISOLATED.
+
+Respiratory viral screen negative
+ 
+Brief Hospital Course:
+___ y.o female with h.o Graves disease who presents with fever, 
+cough, diarrhea, found to have neutropenia. 
+
+# Neutropenic fever: Due to methimazole , possibly worsened by a 
+concomitant viral infection. CXR, CT abd/pelvis and chest were 
+wnl and all cultures remained negative. Diarrhea and cough 
+self-resolved. She was treated with Vancomycin and Cefepime 
+while neutropenic, however switched to vanc/aztreonam when she 
+developed a rash after about a week of treatment, with 
+subsequent resolution of the rash.  Given that she remained 
+afebrile, she was swtiched to oral levofloxacin/clindamycin.  
+Methimazole was stopped and patient's counts slowly improved. 
+___ was over 1300 on day of discharge, and trending up. She will 
+complete one more day of clinda/levofloxacin, with repeat CBC in 
+one week to ensure counts have fully recovered (CBC to be 
+followed up by Dr. ___ ___ hematology). Patient counseled 
+to monitor for any fever, and will contact her PCP if fever 
+develops.
+
+# Grave's disease-last TFTs ___ ___ TSH but appropriate 
+Ft4 (see ___.
+Methimazole and propranolol were initially stopped in the 
+setting of her febrile neutropenia and borderline low blood 
+pressures. Her endocrinologist was notified of her admission and 
+recommended close follow up on discharge for alternative 
+treatment, likely radioactive iodine. Propranolol was restarted 
+for sinus tachycardia and symptoms of graves prior to discharge, 
+at 10 mg TID.
+
+# Anemia- Iron studies consistent with anemia of chronic 
+disease; more acute drop likely secondary to bone marrow 
+suppression. Repeat CBC in one week as an outpatient.
+
+Full code
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Methimazole 10 mg PO BID 
+2. Propranolol 20 mg PO TID 
+
+ 
+Discharge Medications:
+1. Propranolol 10 mg PO TID 
+RX *propranolol 10 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0
+2. Clindamycin 300 mg PO Q6H 
+RX *clindamycin HCl 300 mg 1 capsule(s) by mouth every six (6) 
+hours Disp #*6 Capsule Refills:*0
+3. Levofloxacin 500 mg PO Q24H 
+RX *levofloxacin 500 mg 1 tablet(s) by mouth daily Disp #*1 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Neutropenic Fever- drug induced, from methimazole 
+Grave's disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for evaluation and management 
+of neutropenic fever. It was felt this was caused by 
+methimazole, which was stopped. Your endocrinologist was 
+notified of this change. You initially received IV antibiotics 
+for your fevers but were transitioned to oral antibiotics; a 
+source for your fevers was not found.
+
+Your blood count recoved well, and you will only need one more 
+day of antibiotics
+
+You will no longer take methimazole
+
+You will be taking a lower dose of propranolol.
+
+Please have your blood checked in one week. Dr. ___ has placed 
+the order, and you can go to any ___ lab to have 
+them drawn. Dr. ___ will follow up the result.
+
+Please see below for your follow up appointments.
+ 
+Followup Instructions:
+___

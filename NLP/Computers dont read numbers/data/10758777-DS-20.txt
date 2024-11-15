@@ -1,0 +1,286 @@
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+flank and back pain
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ with h/o transfusion dependent thalassemia, MDS, DM, and 
+asthma who presents with flank pain.  Patient reports acute 
+sever left flank pain that began 2 days ago accompanied by some 
+dry heaves, no fever. At that time, she presented to ED where 
+CTU demonstrated a tiny UVJ stone and UA notable for blood.  She 
+was discharged home with vicodin, and plan for outpatient 
+management. At home, she noted no improvement in her symptoms 
+and when she presented to her regular appointment for blood 
+transfusion yesterday, where she complained of worsening pain 
+and was sent to the ED for evaluation. The patient also notes 
+increased urinary frequency, mild dysuria and occasionally 
+seeing blood in the urine. Also endorses some pain with flexion 
+of her left leg. She has had no fevers, chills, diarrhea, 
+constipation, bleeding, melena or other complaints.
+.
+In ED, initial VS were T96.7, BP172/56, HR 68, RR 18, O2 96%RA.  
+Labs showed elevated cr to 1.6 from ___ yesteday (her previous 
+normal baseline).  Her UA showed RBC's, no WBC's but cultures 
+from the ___ were growing > 100K GNR's.  Ultrasound showed 
+fullness of the left collecting system and a left UVJ stone that 
+was more prominent on exam. The patient was seen by urology in 
+the ED who felt that this was likely UTI w/ stone rather than 
+stone with secondary infection and that stone was an unlikely 
+cause for her renal failure. She was admitted to medicine for 
+management and was given 6mg IV morphine, cipro 400mg IV, flomax 
+0.4mg prior to admission.
+.
+Last VS prior to transfer were: T99, 64 159/47 16 99%RA, 1L in 
+Ed, 18 guage IV. 
+.
+On the floor, the patient reports her pain is well controlled.
+ 
+Past Medical History:
+Anemia ___ beta thalassemia trait
+MDS
+___ thrombocytosis
+H.pylori s/p treatment
+Type 2 diabetes diagnosed ___.
+Asthma.
+Hypertension.
+Osteoporosis.
+Lumbar spinal stenosis.
+Hypercholesterolemia.
+
+PAST SURGICAL HISTORY:
+Status post appendectomy at age ___.
+She has had multiple trigger finger releases.
+Fibroidectomy in the past.
+ 
+Social History:
+___
+Family History:
+She is of ___ background. She never knew her father. Her 
+mother died at age ___ and had a history of thalassemia. 
+ 
+Pertinent Results:
+___ 10:05AM   WBC-18.3* RBC-3.90*# HGB-9.7*# HCT-28.9*# 
+MCV-74* MCH-25.0*# MCHC-33.6 RDW-26.0*
+___ 10:05AM   NEUTS-66 BANDS-8* LYMPHS-12* MONOS-4 EOS-0 
+BASOS-0 ATYPS-1* METAS-6* MYELOS-3* NUC RBCS-9*
+___ 10:05AM   PLT SMR-NORMAL PLT COUNT-157
+___ 10:05AM   ___ PTT-30.1 ___
+___ 10:05AM   GLUCOSE-248* UREA N-31* CREAT-1.1 SODIUM-140 
+POTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-25 ANION GAP-14
+.
+___ 10:20AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-25 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+___ 10:20AM URINE  ___ WBC-0 BACTERIA-FEW YEAST-NONE 
+___
+.
+URINE CX  <10,000 organisms/ml.
+.
+ECG ___: Sinus rhythm. Left ventricular hypertrophy. 
+Non-specific lateral ST-T wave change. Compared to the previous 
+tracing of ___ no diagnostic interim change. 
+ECG ___: Sinus rhythm. Left ventricular hypertrophy by voltage 
+criteria in the limb leads. Otherwise, compared to the previous 
+tracing of ___ there is no major change. 
+.
+CT urogram
+1. Tiny stone in the left ureterovesical junction causing mild 
+left 
+pelviectasis and delayed excretion from the left kidney. 
+Additional 
+non-obstructing stones in the left kidney. 
+  
+2. Renal hyperdense and hypodense cysts, better assessed on 
+recent MRI. 
+  
+3. Splenomegaly without evidence of splenic rupture or 
+subcapsular hematoma. 
+.
+RENAL U/S
+1. Left ureterovesicular junction calculus with mild left 
+pelvicalyectasis, 
+slightly increased when compared to prior exam. Non-obstructing 
+left renal 
+calculi, unchanged.  
+2. Bilateral renal cysts, not significantly changed from prior 
+exams. 
+
+ 
+Brief Hospital Course:
+___ y/o F w/ thalassemia, DM, p/w obstructing renal calculus and 
+___.  
+.  
+#Acute Kidney Injury: 
+Creatinine was elevated from baseline 1.0-1.1 to 1.6 at 
+presentation. Patient appeared mildly volume depleted, but 
+denies any decrease in PO intake or excess losses. She did 
+receive IV contrast on ___ for CTU. Unilateral kidney stone in 
+setting of otherwise normal renal function was considered 
+unlikely to be causing ___. Urine lytes showed pre-renal 
+picture, and patient received IVF bolus. UA showed blood, rbcs 
+and wbcs. Most likely etiology ___ was IV contrast in setting 
+of volume depletion from UTI and kidney stone. Creatinine 
+improved to 1.2 at discharge. 
+.
+# Nephrolithiasis: Patient presented with flank and groin pain, 
+blood in UA and UVJ stone described as "tiny" on CTU. Renal U/S 
+showed interval development of right hydronephrosis. Patient was 
+seen by urology in ED, recommended conservative treatmemt with 
+Flomax and pain control. Patient Patient was treated with IV 
+then PO morphine. UA revealed uric acid crystals, and serum uric 
+acid was elevated at 8.2. Urine pH was low at 5.0. Patient was 
+hydrated and given Bicitra to alkalinize urine. Urology 
+recommended outpatient follow-up, and re-evaluation for 
+cystoscopy if stone not passed by 2 weeks. Patient will continue 
+Flomax and Bicitra at home. She will need repeat serum uric acid 
+after this episode, to determine need for allopurinol. 
+.
+#. UTI/pyelonephritis:
+Initial UA was indeterminate and Ucx was read in error as 
+>100,000 organisms. Repeat UA showed blood, 26 rbc, 61 wbc and 
+few bacteria. Urine cx was negative, however patient had already 
+received antibiotics. She did have right-sided flank pain and 
+dysuria. Considering she is at higher risk for infection and 
+pyelo due to obstructing UVJ stone, she was continued on cipro. 
+In addition, her initial leukocytosis improved after cipro. She 
+will complete a 14 day course for presumed pyelo. 
+.  
+# Thalassemia/Anemia: Hct at baseline. Receives weekly 
+transfusions. Should follow-up with Dr. ___: uric acid 
+level.     
+.  
+# Diabetes: Oral hypoglycemics held during hospitalization. 
+Glyburide-metformin restarted at discharge as renal function was 
+improving. 
+.  
+# Hypertension: Held diovan/HCTZ until evaluated by PCP. 
+Continued amlodipine and nebivalol. Normotensive during hospital 
+course. 
+.  
+# Hypercholesterolemia: continued home medications.
+ 
+Medications on Admission:
+Diovan-HCTZ 320-25mg daily  
+Calcium + Vitamin D  
+Centrum silver  
+Crestor 10  
+Prilosec 20  
+Bystolic 10mg daily  
+Glyburide-Metformin ___  
+Amlodipine 10mg  
+Folic Acid 1mg  
+Procrit 60,000 weekly  
+Fenofibrate 160mg daily  
+Magnesium daily  
+potassium daily  
+ 
+Discharge Medications:
+1. Tamsulosin 0.4 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO HS (at bedtime) for 1 weeks: 
+Please take one capsule at night. Do not take if you feel dizzy 
+or lightheaded before bedtime.
+Disp:*10 Capsule, Sust. Release 24 hr(s)* Refills:*0*
+2. Amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+3. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+4. Rosuvastatin 5 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+5. Multivitamin     Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO DAILY (Daily).  
+7. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+8. Calcium Carbonate 500 mg Tablet, Chewable Sig: Three (3) 
+Tablet, Chewable PO BID (2 times a day).  
+9. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 10 days: Please do NOT take with your Tums.
+Disp:*10 Tablet(s)* Refills:*0*
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+11. Sodium Citrate-Citric Acid ___ mg/5 mL Solution Sig: 
+Thirty (30) ML PO QID (4 times a day) for 4 days.
+Disp:*480 ML(s)* Refills:*0*
+12. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for constipation.  
+13. Morphine 15 mg Tablet Sig: One (1) Tablet PO every ___ hours 
+as needed for pain for 5 days: Please take 1 tablet as needed 
+for pain. Please do not take if you are feeling sedated or feel 
+dizzy.
+Disp:*7 Tablet(s)* Refills:*0*
+14. Fenofibrate Micronized 145 mg Tablet Sig: One (1) Tablet PO 
+daily ().  
+15. Glyburide Micronized-Metformin ___ mg Tablet Sig: One (1) 
+Tablet PO once a day.  
+16. Nebivolol 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Nephrolithiasis
+
+SECONDARY:
+Hypertension
+
+ 
+Discharge Condition:
+The patient was in fair condition at discharge. Her pain was 
+well controlled on morphine, she was tolerating POs, and was 
+able to ambulate without difficulty on room air. Her kidney 
+function was improving and had almost returned to baseline.
+
+ 
+Discharge Instructions:
+It was a pleasure participating in your care the the ___ 
+___. You were admitted to the hospital 
+with worsening pain attributed to a kidney stone on your left 
+side as well as a possible infection of your kidneys. In the 
+hospital, we performed an ultrasound to examine the stone and 
+tested your blood to evaluate your kidney function. We also 
+started you on antibiotics (ciprofloxacin) for your infection 
+and also gave you some new medicines (tamulosin and Bicitra) to 
+help you pass your kidney stone. We managed your pain with 
+morphine. During your stay, your kidney function and pain 
+steadily improved.
+
+During your stay in the hospital - we decided to stop your 
+Diovan-HCTZ because taking this medication makes it difficult to 
+assess kidney function and may make you more prone to forming 
+kidney stones. We are holding this medication at discharge as 
+well. Please see your PCP about restarting this medication or if 
+there are other options to control your blood pressure.
+.
+You may take Tylenol, Motrin or morphine pills for pain. You 
+should continue to strain your urine and monitor for passing the 
+stone.
+.
+Please return to the hospital if you have worsening back and 
+flank pain, more blood in the urine, fevers, chills, 
+nightsweats, nausea, vomiting or other concerning symptoms. 
+Please follow up with Urology in the next week and schedule an 
+appointment with your primary care provider within the next 2 
+weeks. See below for follow-up instructions.
+ 
+Followup Instructions:
+___

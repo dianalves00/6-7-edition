@@ -1,0 +1,265 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___
+ 
+Chief Complaint:
+Nausea and vomiting.
+ 
+Major Surgical or Invasive Procedure:
+___ tunneled HD catheter
+Hemodialysis
+ 
+History of Present Illness:
+___ y.o. M with h/o HTN, CKD, and morbid obesity, presented to ED 
+on ___ with nausea and vomiting x ___ weeks, after being found 
+by PCP to have ___ 250.  Pt had not refilled BP meds.
+
+ROS at the time notable for malaise but no CP, SOB, dizziness, 
+headaches, visual changes, weakness or any other neurological 
+deficits.
+  
+ED course:
+# VS: T 99.3, HR 107, BP 246/154, RR 16, O2sat 100% RA.
+# Meds/IVF: 2L NS, labetalol 20 mg IV x 3, labetalol 100 mg PO x 
+3, 1" nitropaste x 3, acetaminophen 1 gram.
+# Labs/studies:
+--EKG: Sinus rhythem ___, LVH, nl axis, intervals, STE 1 mm V1-3 
+likely early repolarization, TWI I, L, ?LAE.
+--Cr ___P improved to 190/110 upon transfer to 
+the floor, but patient reported a new frontal headache.  BP 
+elevated despite nitro paste Q6H, labetalol 200mg TID, labetalol 
+400mg PO x1, hydralazine 20mg IV x3, furosemide 80mg IV x1.
+
+MICU course: Initial ROS positive for persistent headache; 
+negative for nausea, vision changes, CP, SOB, abdominal pain or 
+edema.  Pt received labetalol gtt and PO.  ___ tunneled 
+catheter received, and pt started HD.
+ 
+Past Medical History:
+Hypertension  
+CRI (baseline CR 5) c/b nephrotic range proteinuria
+Anemia  
+Hyperlipidemia 
+ 
+Social History:
+___
+Family History:
+Mother: HTN  
+Father, died ___: Renal failure, expired on HD
+ 
+Physical Exam:
+Initial PE
+===========
+VS: T 97.9, BP 198/126, HR 84, RR 22, O2sat 100% RA, 341 lbs  
+Gen: obese, lying in bed with eyes closed, cooperative, NAD  
+Heent: OP clear, moist, anicteric, PERRL, EOMI, fundoscopic exam 
+with venous pulsations  
+Neck: supple, no LAD  
+CV: nl S1 S2, rrr, II/VI SEM  
+Lungs: CTAB  
+Abd: obese, soft, NT  
+Ext: no c/c/e  
+Neuro: A&O x3, appropriate, CN II-XII intact to testing, 
+sensations intact, full strength, gait not observed
+
+Subsequent PE upon transfer out of MICU
+========================================
+VS: T afebrile, BP 194/92, HR 105, RR 18, O2sat 100 on RA
+Gen: NAD  
+Heent: NCAT, MMM, OP clear, PERRL, EOMI, neck supple, no LAD
+CV: RRR, S1 S2, no m/r/g noted by this examiner
+Chest: CTAB  
+Abd: Soft, NT, ND, BS+, obese, no HSM
+Ext: No c/c/e  
+Neuro: A&Ox3, CN II-XII intact
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+         9.1
+ 13.5 >------< 121
+        26.2
+
+MCV 82  Neuts 76  Lymphs 17  Monos 3.6  Eos 1.9  Basos 0.2
+
+ 139   104   90
+-----|-----|------< 107
+ 3.6   17    17.6
+
+Ca 8.5  Phos 5.4  Mg 1.8
+
+ALT 17  AST 17  Alk Phos 96  Bili 0.4  Lipase 56
+Serum Tox: negative
+
+UA: large blood, negative nitrite, protein 500, negative 
+leukocytes, RBC ___, WBC ___, Granular ___, Epi ___
+
+Urine Cr 155
+Urine Na 24
+Urine osmolality 314
+
+MICROBIOLOGY:
+=============
+___ 8:38 am URINE      Source: ___. 
+URINE CULTURE (Final ___: 
+      GRAM POSITIVE BACTERIA.    10,000-100,000 ORGANISMS/ML.. 
+         Alpha hemolytic colonies consistent with alpha 
+streptococcus or
+         Lactobacillus sp. 
+
+STUDIES:
+========
+RENAL U.S.  ___ 
+IMPRESSION: Limited study with inability to visualize either 
+kidney. If necessary, noncontrast CT may be performed.
+
+EKG ___
+Sinus rhythm. Left ventricular hypertrophy with ST-T wave 
+changes. 
+The ST-T wave changes are more prominent in leads I and aVL as 
+compared with prior tracing of ___ with the finding of 
+biphasic T waves in 
+leads I, aVL and V6. Followup and clinical correlation are 
+suggested. 
+
+CHEST (PORTABLE AP)  ___ 
+FRONTAL CHEST RADIOGRAPH: The heart is top normal in size. The 
+pulmonary vasculature is normal. The lungs are clear without 
+focal consolidation, pneumothorax, or pleural effusion. The 
+osseous structures are unremarkable.
+IMPRESSION: No acute cardiopulmonary abnormality.
+ 
+Brief Hospital Course:
+___ y.o. M with HTN, CKD admitted with hypertensive emergency and 
+acute on chronic renal failure. 
+
+# Hypertension: SBP was in the 220s on admission. With patient's 
+blood pressure not being well controlled on the floor, he was 
+transferred to the MICU for better BP control with labetalol gtt 
+and hydralazine IV prn. He was transferred back to the floor 
+with SBP from 130s to 170s on labetalol 400 mg PO tid.  His 
+labetalol was increased to 600 mg TID on the medicine floor, and 
+his SBPs ranged from 130-150.  He was discharged with this 
+increased dosage.
+  
+# Acute on chronic renal failure: Renal followed the patient 
+while he was hospitalized.  Ultrafiltration was initiated in the 
+MICU, and a tunnelled HD line was placed. Patient was still 
+making urine. There was no hyperkalemia, encephalopathy, 
+bleeding, or pericarditis.  He received hemodialysis 3 times a 
+week while in the hospital.  Prior to discharge, he was set up 
+with outpatient hemodialysis.  He was unable to get venous 
+mapping prior to discharge, and he will need this as an 
+outpatient.
+
+# Anemia and thrombocytopenia: Hct was in the low ___ during the 
+hospital stay. Hematology was consulted in the setting of 
+concern for hemolysis with elevated LDH and decreased 
+haptoglobin. No concern for TTP.  It was proposed that the 
+anemia might be due to multiple factors including chronic kidney 
+disease and possible hemolysis from shear force from malignant 
+hypertension. His Hct remained stable during hospitalization.  
+An ADAMST13 will need to be followed up as an outpatient.
+
+# UTI: With ___ gram positive alpha hemolytic colonies on 
+UCx.  Pt was started on ciprofloxacin to complete a 7 day course 
+with instructions to hold ciprofloxacin on HD days until HD is 
+completed.  
+  
+# Hyperlipidemia: Continued Statin.
+
+# FEN: Cardiac diet. Repleted lytes prn.  
+
+# PPx: heparin SC  
+  
+# Dispo: Home with outpatient hemodialysis. 
+ 
+Medications on Admission:
+Labetalol 200 mg TID (not taking for 1.5 months)  
+PhosLo 1 tab PO TID with meals (mostly noncompliant)
+
+ 
+Discharge Medications:
+1. Calcium Acetate 667 mg Capsule Sig: Two (2) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*180 Capsule(s)* Refills:*2*
+2. Atorvastatin 20 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+3. Ciprofloxacin 750 mg Tablet Sig: One (1) Tablet PO once a day 
+for 6 days.
+Disp:*6 Tablet(s)* Refills:*0*
+4. Labetalol 300 mg Tablet Sig: Two (2) Tablet PO three times a 
+day.
+Disp:*180 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Malignant Hypertension
+2. End Stage Renal Disease
+.
+Secondary Diagnosis:
+1. Anemia
+2. Thrombocytopenia
+3. Urinary tract infection
+4. Hyperlipidemia
+
+ 
+Discharge Condition:
+Stable.  Better controlled blood pressures.  Afebrile.
+
+ 
+Discharge Instructions:
+You were admitted for very high blood pressures.  You were 
+briefly in the MICU for IV blood pressure medications and then 
+transferred to the medicine floor.  Your blood pressure was 
+closely monitored, and your medications were changed for better 
+control.  The kidney doctors saw ___, and you had hemodialysis 
+while in the hospital. You will need hemodialysis 3 times a 
+week.  This is being set up for you.  You were also seen by the 
+Hematology doctors for your ___ (low blood counts) which was 
+felt to be due to your chronic kidney disease.
+
+Please take your medications as prescribed:
+1. Please take atorvastatin 20 mg daily
+2. Please take Calcium Acetate 1334 mg three times daily with 
+meals
+3. Please take Ciprofloxacin 750 mg daily for 6 more days (on 
+your hemodialysis days, please take this medication after 
+hemodialysis)
+4. Please take labetalol 600 mg three times daily. This is a 
+very important medication to help control your blood pressure.
+
+Please keep all your follow up appointments.  Please make an 
+appointment with ___, RN for possible fistula at ___.
+
+Please follow up with your primary care physician, ___, on 
+___ at 2:15 ___. Call ___ if you need to cancel.
+
+You have an appointment with ___, MD ___ 
+doctor) on ___ at 8 AM.  Please go to ___ ___ 
+floor, Medical ___.  If you need to cancel/reschedule, 
+please call ___.
+
+If you have any of the following symptoms, please call your 
+doctor or go to the nearest ER: fever>101, chest pain, worst 
+headache in your life, sudden double vision or worsening of 
+vision, constant nausea/vomiting, abdominal pain, or any other 
+concerning symptoms.
+ 
+Followup Instructions:
+___

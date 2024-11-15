@@ -1,0 +1,485 @@
+ 
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+left leg wound swelling and erythema 
+ 
+Major Surgical or Invasive Procedure:
+___: 
+1. Incision and drainage left proximal tibia infection.
+2. Removal of antibiotic spacer.
+3. Placement of new antibiotic spacer.
+
+___
+1. Washout and debridement, left proximal tibia fracture.
+2. Insertion of antibiotic cement spacer.
+
+ 
+History of Present Illness:
+___ year old man with a history of stage IV-V CKD, NSCLC s/p 
+chemo/radiation) and CAD s/p PCI, ORIF for left tibial plateau 
+fracture ___ has been complicated by wound dehiscence 
+and infecitons. He was seen in ___ clinic today and instructed 
+to come into ER with concern for wound infection and need for 
+washout. He reports he has been asymptomatic and denies any new 
+pain, drainage from wound site, fevers, chills, n/v. He has been 
+taking pain meds and ABX as directed.  
+
+He was originally admitted ___ to ___ for ORIF of the 
+left tibial plateau fracture and associated LLE compartment s/p 
+left medial fasciotomy ___. Hospital course was complicated 
+by HCAP with 8 days of vancomycin and cefepime, nephrogenic DI 
+due to chronic lithium treatment. He was discharged to rehab due 
+to deconditioning.  
+
+He was then admitted again ___ to ___ for concern for 
+worsening surgical site infection. Ortho evaluation of the wound 
+during this admission was actually stable, and previous 
+management was continued (dry dressing changes daily), TTWB in 
+___, leaving splint in place, continuing subQ heparin until 
+___. During this admission he had acute kidney injury due to 
+urinary obstruction/retention in post-operative state with 
+immobility and medication side-effects. On ___, there was 
+another concern about surgical site infection and patient had a 
+washout and repair of hardware on ___, and flap repair with 
+grafts from the left gastrocnemius and lateral thigh on ___ 
+performed by orthopedics and plastic surgery.  
+
+On ___, patient presented for outpatient f/u. Orthopedic 
+surgery evaluated his wound and thought it looked fine. However, 
+plastic surgery evaluated the wound and thought it was infected. 
+ 
+
+In the ED, initial vitals were: T98, HR 107, BP 137/63, RR 18, 
+98%RA  
+Patient was given morphine, Zofran, and ortho was consulted for 
+I&D. Ortho recommended taking to OR on ___ for I&D.  
+ 
+On the floor, patient reported that he is in his usual state of 
+health with only mild increased pain at the surgical site, and 
+no symptoms of systemic infection such as fevers, chills, 
+headache, fatigue, nausea, dyspnea, poor appetite.  
+
+ 
+Past Medical History:
+___ Left knee-spanning ex-fix, compartment releases  
+___ I&D, ORIF Left lateral tibial plateau fracture  
+___ I&D, Left medial leg wound closure (___) CAD  
+- s/p cardiac catheterization in ___ with PCI to the RCA.  
+Last cardiac catheterization in ___, which revealed no flow  
+
+limiting disease, but the distal LAD was found to be diffusely  
+diseased.  
+-___ s/p chemo/XRT  
+-Hyperlipidemia  
+-Bipolar disorder, seen by psychiatrist every 4 months at the ___ 
+ 
+-Tremor  
+-Parkinsonism  
+-Impaired glucose tolerance  
+-Cluster headaches  
+-Chronic renal failure, baseline creatinine 2.5-3.6, seen by Dr. 
+___  
+-___
+ 
+Social History:
+___
+Family History:
+Mother died of MI @ ___, father died of MI @ ___.  
+ 
+Physical Exam:
+ON ADMISSION: 
+=============
+ Vital Signs: 99.2 BP 154/82, P ___, RR 18 99% RA  
+ GENERAL: awake, alert and fully oriented. Conversant, in NAD.  
+ HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,  
+
+ MMM  
+ NECK: nontender supple neck, no LAD, no JVD  
+ CARDIAC: tachycardic, no murmurs, gallops, or rubs  
+ LUNG: Coarse breath sounds anteriorly, but no rales, wheezing,  
+
+ or rhonchi  
+ ABDOMEN: non-distended, +BS, nontender in all quadrants, no  
+ rebound/guarding, no hepatosplenomegaly  
+ EXTREMITIES: no cyanosis, clubbing or edema, moving all 4  
+ extremities with purpose. Left lower extremity with  
+ post-surgical changes on the lateral aspect of the lower leg,  
+ including scar extending from knee to upper ankle. Along the  
+ course of the proximal aspect of this scar there is one 4in x 3 
+in dehisced surgical ulceration with weepy drainage.  
+ There is yellow granulation tissue at these sites of skin  
+ breakdown, but no purulent discharge.  
+ Lower L lateral leg has a well-healed surgical wound with 
+sutures in place  
+ PULSES: 2+ DP pulses bilaterally  
+ SKIN: warm and well perfused.  
+
+ON DISCHARGE: 
+==============
+Vitals: 98.2 ___ 18 100%RA
+General: Alert, interactive  
+HEENT: Sclera anicteric, clear oropharynx. NG tube in place 
+Lungs: coarse breath sounds, normal respiratory effort
+Abdomen: soft/non distended/NTTP
+CV: Regular rate and rhythm, no murmurs, rubs, gallops  
+Ext: LLE wrapped with ACE. Trace edema appreciated in left foot, 
+warm to touch, wiggling toes and 2+ palpable DP pulses, 
+extremities well perfused. 
+ 
+Pertinent Results:
+ON ADMISSION: 
+==============
+___ 04:50PM BLOOD WBC-8.0 RBC-2.81* Hgb-8.2* Hct-27.1* 
+MCV-96 MCH-29.2 MCHC-30.3* RDW-15.5 RDWSD-54.6* Plt ___
+___ 04:50PM BLOOD Neuts-71.2* Lymphs-14.8* Monos-11.4 
+Eos-1.4 Baso-0.8 Im ___ AbsNeut-5.66 AbsLymp-1.18* 
+AbsMono-0.91* AbsEos-0.11 AbsBaso-0.06
+___ 04:50PM BLOOD Plt ___
+___ 05:51PM BLOOD ___ PTT-52.8* ___
+___ 04:50PM BLOOD Glucose-83 UreaN-41* Creat-3.2* Na-134 
+K-5.0 Cl-107 HCO3-15* AnGap-17
+___ 04:50PM BLOOD Albumin-2.4*
+___ 06:00PM BLOOD Lactate-1.6
+
+IMAGING: 
+========
+LEFT TIB/FIB X RAY ___:
+In comparison to study of ___, there is little 
+change in the 
+appearance of the medial fixation plate about a fracture of the 
+proximal 
+tibia.  No hardware-related complication.  The oblique fracture 
+line is still 
+seen. 
+
+XRAY ___:
+Overall stable appearance of the chest with volume loss 
+involving the right hemi thorax and right hilar opacity.  No 
+focal consolidation identified to suggest infectious process. 
+
+CHEST X RAY ___: 
+Since ___, new NG tube is seen coiled in the upper 
+esophagus.  Small right pleural effusion is identified.  Again 
+seen is the known right perihilar radiation fibrosis, better 
+assessed on prior CT chest.  A right PICC line tip terminates in 
+the low SVC.  The heart size is unchanged. Aortic calcifications 
+are noted.  No pneumothorax. 
+ 
+NASOGASTRIC TUBE PLACEMENT ___
+Successful placement of ___ feeding 
+tube, 
+terminating within the third portion of the duodenum.  The tube 
+is ready to use. 
+
+LEFT TIB/FIB XRAY ___:
+The patient is status post revision surgery with exchange of the 
+previously placed antibiotic spacer device.  A new antibiotic 
+impregnated cement spacer is in-situ along the lateral aspect of 
+the tibial plateau.  A medial fracture plate transfixes an 
+oblique fracture in the proximal tibia.  Ghost tracks related to 
+the prior surgery are again seen.  Subtly increased lucency 
+along the medial femoral condyle is concerning for infection 
+however this is similar in appearance when compared to the prior 
+study. 
+
+CXR Portable ___
+Right PIC line ends in the upper SVC.  Esophageal feeding tube 
+ends in the
+distal stomach.  Right juxta hilar mass is smaller and less in 
+___.  Small
+right pleural effusion persists.  Heart size normal.  Left lung 
+clear. 
+Thoracic aorta is generally large and tortuous but not focally 
+dilated. 
+Fullness in the lower paratracheal station of the mediastinum 
+could be
+adenopathy or venous engorgement, but is unchanged since ___.
+ 
+
+MICRO: 
+========
+___ Blood cx X 2 negative
+___ 3:18 pm TISSUE      LEFT TIBIA BONE #2. 
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+   TISSUE (Preliminary):    NO GROWTH. 
+   ANAEROBIC CULTURE (Preliminary): 
+
+___ 3:11 pm SWAB      LEFT TIBIA #1. 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+   WOUND CULTURE (Preliminary):    NO GROWTH. 
+   ANAEROBIC CULTURE (Preliminary): ___ 3:18 pm TISSUE      
+LEFT TIBIA BONE#1. 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+     NO MICROORGANISMS SEEN. 
+   TISSUE (Preliminary):    NO GROWTH. 
+   ANAEROBIC CULTURE (Preliminary): 
+
+___ 3:18 pm TISSUE      LEFT TIBIA BONE #3. 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+   TISSUE (Preliminary):    NO GROWTH. 
+   ANAEROBIC CULTURE (Preliminary): 
+
+___: Stool c diff negative
+
+DISCHARGE LABS: 
+================
+___ 06:26AM BLOOD WBC-7.0 RBC-2.38* Hgb-7.1* Hct-23.7* 
+MCV-100* MCH-29.8 MCHC-30.0* RDW-17.2* RDWSD-61.8* Plt ___
+___ 06:20AM BLOOD ___ PTT-42.3* ___
+___ 06:26AM BLOOD Glucose-104* UreaN-57* Creat-3.0* Na-145 
+K-4.8 Cl-114* HCO3-18* AnGap-18
+___ 05:55AM BLOOD ALT-0 AST-25 LD(LDH)-246 AlkPhos-153* 
+TotBili-0.2
+___ 06:26AM BLOOD Calcium-9.8 Phos-4.5 Mg-2.4
+___ 06:23AM BLOOD VitB12-955*
+___ 05:54AM BLOOD Hapto-265*
+___ 04:42AM BLOOD calTIBC-121* Ferritn-626* TRF-93*
+___ 06:43AM BLOOD CRP-132.7*
+___ 06:20AM BLOOD CRP-66.5*
+___ 06:51PM BLOOD Lactate-0.9
+___ 06:12AM BLOOD freeCa-1.36*
+ 
+Brief Hospital Course:
+___ year old man with a history of stage IV-V CKD, NSCLC s/p 
+chemo/radiation) and CAD s/p PCI, complicated course with left 
+tibial post-op wound dehiscence, MSSA wound infection and 
+concern for non-healing wound s/p I&D on ___, now on 
+suppressive IV antibiotics.
+
+ACTIVE ISSUES: 
+===============
+# Wound infection vs. dehiscence: Initial clinical exam notable 
+for weepy but non-exudative surgical site, L tib/fib Xray 
+showing little change in the appearance of the medial fixation 
+plate w/ no hardware-related complications. He was taken to the 
+OR on ___ for incision and drainage, which revealed frank pus 
+and further deterioration of soft tissue surrounding surgical 
+site. He was briefly put on IV vanc but on ___ resumed 
+cefazolin 1g q12h in addition to rifampin per previous ID plan. 
+He was taken to the OR on ___ for I&D, removal of wound VAC, 
+and evaluation of flap. It was determined at that time his flap 
+was dusky and the wound was healing poorly, with little chance 
+of source control at that site. At family meeting on ___, the 
+family was informed that his left lower leg was not healing as 
+expected and could require an AKA. Plastic surgery evaluated the 
+patient and, in extended discussion with patient and his family, 
+decision was made to proceed with limb preservation therapy as 
+possible. Decision was made to continue cefazolin and rifampin 
+to complete a 6 week course on ___ then to further evaluate 
+the wound and determine further treatment options. 
+
+# Severe malnutrition: pt was found to have malnutrition and was 
+started on supplementation per nutrition. On ___, he had a 
+nasogastric tube advanced in ___ suite after failed attempt on 
+the floor and was started on tube feeds. He was noted to have 
+nausea and vomiting; however emesis did not have appearance of 
+tube feed residuals. Initially, nepro given but was switched to 
+two cal per family request. However, developed hyperkalemia and 
+had to be switched back to nepro with resolution of 
+hyperkalemia. He was continued on tube feeds until ___ when his 
+nasogastric tube became clogged. It was removed and the patient 
+refused to have a new tube placed. He was subsequently unable to 
+maintain adequate caloric intake, and feeding tube was replaced 
+on ___ with the plan to resume tube feeds at rehab. During the 
+hospitalization he was started on marinol as an appetite 
+stimulant. 
+
+# Nausea management: maintained on Zofran IV and discharged with 
+PO zofran. 
+
+# Hypercalcemia: Patient had corrected Ca ___ and fluctuated 
+back to normal during the hospital course. PTHrp was within 
+normal limits. The most likely cause is hypercalcemia of kidney 
+disease in addition to immobilization and resulting bone 
+breakdown. Resolved by time of discharge. 
+
+# Anemia: Pt had post-op anemia superimposed on anemia of 
+chronic disease and renal disease. He received 1 PRBC for Hgb 
+<7.0 this admission. His hemoglobin on discharge was 7.1.
+
+# Coagulopathy: elevated INR, likely due to nutritional 
+deficiency/poor appetite. He was given 5 mg IV vitamin K before 
+his procedure on ___. INR improved to 1.1 with improved 
+nutrition.
+
+# Pain management:  Initially Tylenol, oxycodone ___ Q4H PRN, 
+flexeril 5 mg PRN. Oxycodone was stopped as his pain improved 
+and that it was making him drowsy and could have possibly been 
+contributing to nausea. Was started on tramadol instead. 
+
+CHRONIC ISSUES:
+===============
+# CKD: Creatinine fluctuated 2.4-3.2 during hospitalization, 
+within recent baseline of ~3 and consistent with stage IV CKD.  
+
+#CAD: Continued home aspirin, metop tartrate 25mg BID while 
+in-house and switched back to 50mg toprol xl on discharge, and 
+statin.  
+
+#Hypertension: Continue home amlodipine, metoprolol
+
+#Bipolar affective disorder: Continue home dose depakote. Pt's 
+depakote level noted to be 8 (50-100 WNL).  Dose was changed to  
+Valproic Acid ___ mg PO QHS. Of note, pt's family expressed 
+strong feelings regarding dose changes, and future changes 
+should be done only in collaboration with pt's family.
+
+***Transitional issues***: 
+==================
+[] OPAT Antimicrobial Regimen and Projected Duration: Cefazolin 
+1 gm IV q 12 h and Rifampin 450 mg PO q 12 h, projected end 
+date: ___. 
+[] Weekly CBC with differential, BUN, Cr, AST, ALT, TB, ALK 
+PHOS, ESR/CRP
+All lab results should be sent to ___ CLINIC - FAX: 
+___. 
+[] Depakote: pt was noted to have a Depakote level of 8 (normal 
+50-100).  Patient was discharged on valproic Acid ___ mg PO QHS 
+.
+[] Left knee flap site with poor wound healing.  Please assess 
+wound/incision daily for signs of infection and/or further 
+breakdown.  Cleanse wound and apply clean, dry dressing daily.  
+Patient should wear knee immobilizer to Left knee when OOB (may 
+remove when lying in bed for comfort) and should not have any 
+ROM to the left knee as it is stressing the incision/wound.  
+This will be re-assessed at Dr. ___ surgery follow up 
+appointment.
+[] recheck CBC on ___. Transfuse 1 unit RBCs if hemoglobin 
+less than 7.
+[] On day of discharge, patient had CXR to confirm NG placement 
+and was found to have a possible consolidation in the left lower 
+lobe not seen on prior CXR. However, clinically there was no 
+evidence of pneumonia; afebrile, no white count, no cough. 
+Should be monitored for any symptoms as outpatient.
+
+FULL CODE - Extended discussions throughout hospitalization with 
+pt and family. Pt is FULL CODE.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Amlodipine 5 mg PO DAILY 
+3. Divalproex (EXTended Release) 1000 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Ondansetron 4 mg PO Q8H:PRN nausea 
+6. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+7. Rosuvastatin Calcium 10 mg PO QPM 
+8. Tamsulosin 0.4 mg PO QHS 
+9. Sodium Bicarbonate 650 mg PO BID 
+10. CefazoLIN 1 g IV Q8H 
+11. Rifampin 450 mg PO Q12H 
+12. Lactobacillus acidophilus 1  tab oral daily 
+13. Acetaminophen 1000 mg PO Q8H:PRN pain 
+14. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+15. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+16. TraZODone 25 mg PO QHS:PRN insomnia 
+17. Senna 8.6 mg PO BID:PRN constipation 
+18. Vitamin D 400 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q8H:PRN pain 
+2. Amlodipine 5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Bisacodyl 10 mg PO/PR DAILY:PRN constipation 
+5. CefazoLIN 1 g IV Q12H 
+tentative end date ___, may need prolonged therapy based on OPAT 
+recommendations 
+6. Rifampin 450 mg PO Q12H 
+tentative end date ___, may need prolonged therapy based on OPAT 
+recommendations 
+7. Rosuvastatin Calcium 10 mg PO QPM 
+8. Senna 8.6 mg PO BID:PRN constipation 
+9. Sodium Bicarbonate 650 mg PO BID 
+10. TraZODone 25 mg PO QHS:PRN insomnia 
+11. Vitamin D 400 UNIT PO DAILY 
+12. Dronabinol 2.5 mg PO BID 
+13. Multivitamins 1 TAB PO DAILY 
+14. TraMADOL (Ultram) 50 mg PO Q12H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth Q12H PRN Disp #*20 
+Tablet Refills:*0
+15. Lactobacillus acidophilus 1  tab oral daily 
+16. Metoprolol Succinate XL 50 mg PO DAILY 
+17. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+18. Ondansetron 4 mg PO Q8H:PRN nausea 
+19. Tamsulosin 0.4 mg PO QHS 
+20. Tube Feeds
+Tubefeeding: Nepro Full strength; 
+Starting rate: 10 ml/hr; Advance rate by 10 ml q6h Goal rate: 40 
+ml/hr
+Residual Check: q4h Hold feeding for residual >= : 200 ml
+Flush w/ 150 ml water q4h
+21. Divalproex (EXTended Release) 1000 mg PO DAILY 
+22. Ipratropium Bromide Neb 1 NEB IH Q6H:PRN wheezing 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnoses: 
+Left leg wound poor healing 
+Anemia 
+Hypercalcemia 
+Severe malnutrition 
+
+Secondary diagnoses: 
+Coagulopathy 
+Chronic kidney disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the hospital because your leg wound was not 
+healing well. You were taken to the operating room on ___ for 
+cleaning out of your wound and repair of your skin flap. There 
+was concern that the wound was healing poorly but you were 
+started on nutrition through a feeding tube and your wound 
+healing improved. 
+
+You were continued on antibiotics cephazolin and rifampin that 
+you will need to take until ___. You were evaluated jointly 
+by the plastic surgery, orthopedics, infectious disease, and 
+medicine. Decision was made to re-evaluate your wound after you 
+complete your antibiotic course to determine further treatment. 
+
+It was a pleasure taking care of you and we wish you the best! 
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

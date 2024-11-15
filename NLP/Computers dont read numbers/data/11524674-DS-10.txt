@@ -1,0 +1,303 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left Arm Pain, Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Pt is a ___ yo ___ man w/ no known PMH but does not 
+follow up with a doctor/does not have a PCP who ___ syncopal 
+event w/ L arm fracture. Per history taken in ED w/ assistance 
+of pt's daughter and son as ___, pt had a drop syncope 
+event, no prodromal state, no preceeding LH/dizziness no CP, and 
+passed out today, falling on L arm, awoke w/out any post-ictal 
+state. Pt reports multiple syncopal events over past year, 
+including 1 approximately ___ year ago, similar drop event where 
+he broke his nose. Per son, was seen by doctor that dx him with 
+an "arrythmia" at that time. No other information about that at 
+this time.  
+ROS: Pt otherwise denies any CP, SOB. Does report progressive 
+weight loss over past couple months, increased weakness.  
+In ED pt AVSS. Labs demonstrate slightly elevated Trop 0.02, CK 
+218, other labs fairly normal. Plain films of L arm demonstrate 
+commminuted fx of humerus. Ortho notified and recommended sling 
+and admit to medicine w/ ortho following. Did not recommend any 
+surgical intervention.  
+Currently pt appears comfortable. Denies any pain  
+
+ 
+Past Medical History:
+unknown/none (given pt does not see physician) 
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals - T 96.1, HR 76, BP 102/50, RR 18, O2 99% RA  
+Gen - awake, alert, NAD, very well appearing.  
+HEENT - MMM, no elevated JVP  
+___ - RRR, no noted m/r/g  
+Lungs - CTA b/l  
+Abd - soft, NT/ND  
+Ext - no ___ edema b/l. L arm in sling w/ large eccymoses in 
+upper arm extending to forearm to edge of hand. More distally 
+looks slightly erythematous, but non-warm, non-tender to 
+palpation. Able to move elbow w/out discomfort, + discomfort w/ 
+moving shoulder joint.  
+
+ 
+Pertinent Results:
+HEMATOLOGY
+___ 06:10PM BLOOD WBC-7.8 RBC-3.97* Hgb-12.4* Hct-36.1* 
+MCV-91 MCH-31.2 MCHC-34.3 RDW-13.7 Plt ___
+___ 05:33AM BLOOD WBC-4.1 RBC-3.29* Hgb-10.2* Hct-30.0* 
+MCV-91 MCH-30.9 MCHC-33.9 RDW-14.1 Plt ___
+___ 05:00AM BLOOD WBC-4.9 RBC-3.33* Hgb-10.3* Hct-30.2* 
+MCV-91 MCH-31.0 MCHC-34.1 RDW-14.3 Plt ___
+
+COAGULATION
+___ 05:28AM BLOOD ___ PTT-29.6 ___
+___ 07:25AM BLOOD ___ PTT-28.6 ___
+___ 05:00AM BLOOD ___ PTT-27.3 ___
+
+CHEMISTRY
+___ 06:10PM BLOOD Glucose-95 UreaN-23* Creat-1.2 Na-136 
+K-4.2 Cl-102 HCO3-25 AnGap-13
+___ 05:33AM BLOOD Glucose-83 UreaN-23* Creat-1.0 Na-137 
+K-4.1 Cl-104 HCO3-26 AnGap-11
+___ 05:28AM BLOOD Glucose-92 UreaN-28* Creat-1.1 Na-132* 
+K-4.1 Cl-101 HCO3-26 AnGap-9
+___ 07:25AM BLOOD Glucose-86 UreaN-25* Creat-1.0 Na-135 
+K-4.6 Cl-104 HCO3-25 AnGap-11
+___ 05:00AM BLOOD Glucose-90 UreaN-26* Creat-1.0 Na-133 
+K-4.5 Cl-104 HCO3-23 AnGap-11
+
+CARDIAC
+___ 06:10PM BLOOD CK(CPK)-218* CK-MB-5 cTropnT-0.02*
+___ 05:33AM BLOOD CK(CPK)-136  CK-MB-5 cTropnT-0.02*
+___ 04:55PM BLOOD CK(CPK)-107  CK-MB-4 cTropnT-0.01
+
+LIVER/BILI
+___ 05:28AM BLOOD ALT-31 AST-55* AlkPhos-231* TotBili-1.9*
+___ 07:25AM BLOOD TotBili-1.8* DirBili-1.0* IndBili-0.8
+___ 05:00AM BLOOD TotBili-2.0* DirBili-1.0* IndBili-1.0
+
+___ 05:33AM BLOOD Calcium-8.8 Phos-3.2 Mg-1.9
+___ 05:28AM BLOOD Albumin-3.1* Calcium-8.7 Phos-3.2 Mg-2.0 
+Iron-66 Cholest-135
+___ 07:25AM BLOOD Calcium-8.8 Phos-2.8 Mg-2.0
+___ 05:00AM BLOOD Calcium-8.9 Phos-3.0 Mg-2.0
+
+IRON STUDIES
+___ 05:28AM BLOOD calTIBC-251* Ferritn-318 TRF-193*
+___ 05:00AM BLOOD VitB12-610 Folate-5.9
+
+LIPIDS
+___ 05:28AM BLOOD Triglyc-57 HDL-40 CHOL/HD-3.4 LDLcalc-84
+
+ENDOCRINE
+___ 05:00AM BLOOD TSH-1.5
+
+SHOULDER XRAY
+FINDINGS: There is a comminuted fracture of the surgical neck of 
+the humerus with an extension to the greater tuberosity. At 
+least three major fracture fragments are identified, however no 
+significant displacement or angulation is noted. Underlying 
+degenerative changes at the glenohumeral joint are present as 
+well. The humeral head remains appropriately located within the 
+glenoid fossa. The acromioclavicular joint is unremarkable. The 
+more distal humerus is intact and the elbow joint is grossly 
+appropriately aligned. The visualized adjacent lung is clear.
+
+IMPRESSION: Comminuted at least three-part fracture of the 
+proximal humerus with no significant displacement or angulation 
+of fracture fragments.
+
+CHEST XRAY
+FINDINGS: There is no consolidation or superimposed edema. A 
+small right pleural effusion is evident. The aorta is tortuous. 
+The cardiac silhouette is enlarged. No pneumothorax is seen. 
+Fracture of the proximal humerus on the left is incompletely 
+evaluated, but details further on the accompanying left shoulder 
+radiographs. No displaced fractures of the ribs or other 
+thoracic structures noted.
+
+IMPRESSION: Small right pleural effusion with underlying 
+cardiomegaly and no acute pulmonary process. Left humeral 
+fracture detail on accompanying left shoulder radiographs.
+
+HEAD CT
+FINDINGS: There is no evidence of hemorrhage, edema, or mass 
+effect. There is marked prominence of the ventricles and sulci, 
+which is consistent with age-related involutional change. There 
+is no evidence on this non-contrast study of acute vascular 
+territorial infarct. Atherosclerotic calcification which is 
+moderate-to-severe is noted within the cavernous internal 
+carotid arteries bilaterally. The visualized paranasal sinuses 
+and mastoid air cells are clear. Peripheral calcifications of 
+the lenses are noted.
+
+IMPRESSION: No hemorrhage or mass effect.
+
+LENIS
+FINDINGS: Duplex evaluation was performed of the right lower 
+extremity veins. There is normal compression and augmentation of 
+the common femoral, superficial femoral, popliteal, posterior 
+tibial, and peroneal veins. There is normal phasicity of the 
+common femoral veins bilaterally.
+
+IMPRESSION: No evidence of right lower extremity deep vein 
+thrombosis.
+
+ABDOMINAL ULTRASOUND
+FINDINGS: Please note, decubitus positioning was unobtainable 
+due to patient's left arm pain. The liver is course and 
+heterogeneous. No liver focal masses are detected. The portal 
+vein is patent, and there is normal hepatopetal flow. The 
+visualized portion of the gallbladder is unremarkable. There are 
+no gallbladder stones detected. There is a small right pleural 
+effusion. The common bile duct is not dilated and measures 
+approximately 2.5 mm. The pancreas is not well visualized. The 
+left kidney measures approximately 7.4 cm and contains an 
+approximately 2-cm simple cyst. The right kidney measures 
+approximately 8.5 cm. There is no evidence of hydronephrosis or 
+stones in either kidney. The spleen measures approximately 8.7 
+cm and is unremarkable. The imaged portion of the aorta is of 
+normal caliber throughout.
+
+IMPRESSION: Coarse heterogeneous liver with no focal masses 
+detected. Otherwise, normal abdominal ultrasound.
+
+ECHOCARDIOGRAM
+The left atrium is mildly dilated. The right atrium is markedly 
+dilated. The estimated right atrial pressure is ___. There 
+is an inferobasal left ventricular aneurysm. Overall left 
+ventricular ejection fraction is normal (LVEF 60%); however, an 
+inferobasal aneurysm is present. The right ventricular cavity is 
+dilated with depressed free wall contractility. There is 
+abnormal diastolic septal motion/position consistent with right 
+ventricular volume overload. There are focal calcifications in 
+the aortic arch. The aortic valve leaflets are moderately 
+thickened. There is mild aortic valve stenosis. Trace aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Moderate (2+) 
+mitral regurgitation is seen. The tricuspid valve leaflets are 
+mildly thickened. Severe [4+] tricuspid regurgitation is seen. 
+There is moderate pulmonary artery systolic hypertension. The 
+main pulmonary artery is dilated. The branch pulmonary arteries 
+are dilated. There is no pericardial effusion.  
+
+ 
+Brief Hospital Course:
+SYNCOPE / FALLS
+The patient's history was suspicious for a cardiac source of 
+syncope. He was ruled out for MI. He was monitored on telemetry 
+which revealed one 5 beat run of non-sustained ventricular 
+tachycardia but concerning arrhythmias. Echocardiogram revealed 
+mild aortic stenosis  and moderate mitral regurgitation with 
+preserved ejection fraction. Given preserved ejection fraction 
+and no concerning events on telemetry, coupled with the fact 
+that these falls were all unwitnessed with questionable history, 
+further cardiac investigation was deferred.
+
+LEFT PROXIMAL HUMERUS FRACTURE
+The patient has fracture on xray and large surrounding hematoma. 
+There was no vascular compromise. He was seen by orthopedics 
+which recommended nonoperative management with sling. He should 
+follow-up with them in 2 weeks.
+
+EARLY SATIETY/ANOREXIA
+The patient had good appetite in the hospital. Abdominal 
+ultrasound showed no mechanical explanation for early satiety. 
+This was felt to be depression or consequence of failing 
+independent living.
+
+ANEMIA
+Iron studies were unremarkable, and this is best explained by 
+extensive hematoma of left arm.
+
+LEFT LOWER EXTREMITY SWELLING
+Ultrasound for DVT was negative.
+
+MENTAL STATUS
+The patient appeared alert and cooperative throughout his stay.
+
+CODE STATUS
+Formal discussion did not take place during this 
+hospitalization. He would benefit from obtaining a primary care 
+provider to discuss goals of care, specifically one trained in 
+geriatrics. He was referred to Healthcare Associates at 
+___. 
+
+Geriatrics was consulted and assisted with discussions regarding 
+making transition from independent to dependent living.
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO TID (3 
+times a day) for 2 weeks.  
+2. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for 2 weeks.  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed.  
+4. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+5. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Atrial Fibrillation
+Left Humerus Fracture
+Anemia, Acute Blood Loss
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+___ were admitted to the hospital with falls.
+___ underwent several studies which showed that ___ had moderate 
+narrowing of one of your heart valves. 
+___ had a fracture of your left arm.
+___ should remain in a sling for ___ weeks. Please follow-up 
+with orthopedics in 2 weeks at your appointment.
+
+Your medications have changed:
+Take full dose aspirin each day
+___ can take tylenol for pain, and oxycodone when needed for 
+severe pain. ___ should also take a stool softner with these 
+medications.
+
+If ___ develop new falls, worsening pain, or any other 
+concerning symptoms, please return to the hospital.
+ 
+Followup Instructions:
+___

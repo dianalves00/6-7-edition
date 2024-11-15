@@ -1,0 +1,335 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Shellfish / Clindamycin / Etodolac
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cellulitis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old man with PMHx of ulcerative colitis 
+(on vedolizumab), IDDM, CHF (LVEF = 45%), CKD IIIb, and HTN who 
+presents with right lower extremity pain, redness, and chills 
+that began suddenly upon waking on ___. He states that he went 
+golfing ___ without any arthropod bite or injury to the right 
+leg, after which he was doing well that night. On the morning of 
+___, he woke up with new onset right lower extremity pain which 
+at first he "thought was arthritis" as well as some chills, at 
+which point he recognized that he had cellulitis. He called his 
+primary care physician, who recommended he come in for 
+evaluation. Mr. ___ states that he has had this pain and 
+chills before when he was immunosuppressed on Humira 
+(adalimumab), and it has come on in the setting of cellulitis 
+requiring IV antibiotics. 
+
+Mr. ___ endorses one episode of "dry heaves" on the morning 
+of ___, with
+resolved nausea and no vomiting. He denies any fevers, chest 
+pain, SOB, abdominal pain, diarrhea, dysuria, hematuria, and 
+lightheadedness/dizziness. He denies any pain with movement of 
+his ankle, knees, or hips.
+ 
+In the ED, initial vital signs were: 98.5 degrees F, 80 BPM, 
+143/52 mm Hg, 18 RR, 98% RA. Exam was notable for R ankle with 
+warmth, swelling. Pain to the
+inferior aspect of the medial malleolus. Labs were notable for: 
+    
+18.1> 9.___.2<155 
+N:83.5 L:8.0 M:7.7 E:0.0 Bas:0.1 ___: 0.7 Absneut: 15.13
+___ Abslymp: 1.45 Absmono: 1.40 Abseos: 0.00 Absbaso: 0.02
+
+___
+4.6252.0
+
+Ca: 8.7 Mg: 1.6 P: 2.9
+
+He had a lower extremity ultrasound that demonstrated no 
+evidence of deep venous thrombosis in the right lower extremity 
+veins. He was given 100mg po doxycycline and 1500mg vancomycin 
+IV and transitioned to the floor, where he continued to be 
+stable and in no acute distress. 
+ 
+Past Medical History:
+- Ulcerative colitis  
+- Diabetes c/b retinopathy  
+- Hypertension  
+- Hyperlipidemia  
+- OSA on CPAP  
+- CKD (baseline Cr~1.3-1.4)  
+- H/o nephrolithiasis  
+- Gout  
+- GERD  
+- ETOH abuse 
+- CHF 
+ 
+Social History:
+___
+Family History:
+Father deceased ___ MI at age ___, h/o DM
+Mother deceased at age ___, h/o nephrolithiasis
+Older brother deceased of ALS
+Older sister deceased of stroke at age ___
+Another brother alive in fair health in his ___
+Another sister alive in good health, ___ yo
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+Vitals- 99.8 156/68 78 18 98 ra 
+GENERAL: AOx3, NAD
+HEENT: Normocephalic, atraumatic.  Pupils equal, round, and 
+reactive bilaterally.  No conjunctival pallor or injection, 
+sclera anicteric and without injection.  Moist mucous membranes, 
+good dentition with dental implants.  Oropharynx is clear.
+NECK: Thyroid non-palpable.  No cervical lymphadenopathy.
+CARDIAC: Regular rhythm, normal rate, no murmurs/rubs/gallops.  
+Difficult to assess for JVD given neck adiposity.
+LUNGS: Clear to auscultation bilaterally w/appropriate breath 
+sounds appreciated in all fields. very mild, bibasilar crackles. 
+No wheezes, rhonchi.
+ABDOMEN:  Normal bowels sounds, non distended, non-tender to 
+deep palpation in all four quadrants. Tympanic to percussion.  
+No organomegaly.
+EXTREMITIES: Right lower extremity with large erythematous patch 
+with poorly-defined borders, moderate induration, and no 
+fluctuance. Bilateral scaling and pigmentation changes on distal 
+lower extremities consistent with venous stasis changes. No 
+clubbing, cyanosis, or edema.  Faint dorsalis pedis pulses
+bilaterally. Passive and active ROM without any pain or 
+limitations in R ankle.
+SKIN: No evidence of ulcers, rash or lesions suspicious for 
+malignancy
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+Vitals: T: 98.0 BP: 126/63 HR: 63 RR: 18 O2: 94% CPAP
+General: Alert, oriented, no acute distress. Sitting 
+comfortably. 
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple
+Lungs: Normal respiratory effort. Clear to auscultation 
+bilaterally, no wheezes, rales, rhonchi.  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops. 
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: Warm, well perfused, 1+ pulses, trace pitting edema to 
+mid-shin bilaterally
+Skin: Mild erythema and edema around right ankle, moderate 
+induration, nontender to palpation, no fluctuance, 
+stable/slightly improved from yesterday. Mild warmth, stable. 
+FROM of ankle without pain. Bilateral scaling and 
+hyperpigmentation extending up to the mid-shin bilaterally R>L 
+c/w venous stasis.
+Neuro: A&Ox3. Moves all extremities with purpose. Ambulates 
+without pain.
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 03:45PM BLOOD WBC-18.1*# RBC-3.10* Hgb-9.9* Hct-30.3* 
+MCV-98# MCH-31.9# MCHC-32.7 RDW-15.5 RDWSD-54.3* Plt ___
+___ 03:45PM BLOOD Neuts-83.5* Lymphs-8.0* Monos-7.7 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-15.13*# AbsLymp-1.45 
+AbsMono-1.40* AbsEos-0.00* AbsBaso-0.02
+___ 03:45PM BLOOD Glucose-123* UreaN-52* Creat-2.0* Na-137 
+K-4.6 Cl-95* HCO3-25 AnGap-17*
+___ 03:45PM BLOOD Calcium-8.7 Phos-2.9 Mg-1.6
+___ 03:45PM BLOOD Lactate-1.6
+
+PERTINENT LABS/MICRO:
+====================
+___ 03:45PM BLOOD WBC-18.1*
+___ 06:23AM BLOOD WBC-8.4
+
+___ 03:50PM URINE Color-Straw Appear-Clear Sp ___
+___ 03:50PM URINE Blood-TR* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 03:50PM URINE RBC-1 WBC-1 Bacteri-FEW* Yeast-NONE Epi-0
+___ 03:50PM URINE CastGr-3* CastHy-3*
+
+___ BCx: NGTD
+___ urine culture: no growth
+
+DISCHARGE LABS:
+==============
+___ 06:07AM BLOOD WBC-6.0 RBC-2.64* Hgb-8.5* Hct-26.3* 
+MCV-100* MCH-32.2* MCHC-32.3 RDW-15.9* RDWSD-56.0* Plt ___
+___ 06:07AM BLOOD Glucose-92 UreaN-43* Creat-2.1* Na-138 
+K-3.6 Cl-97 HCO3-25 AnGap-16
+___ 06:07AM BLOOD Calcium-8.8 Phos-4.0 Mg-1.7
+
+PERTINENT IMAGING:
+================
+___ DVT US:
+No evidence of deep venous thrombosis in the right lower 
+extremity veins.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o man with a history of ulcerative colitis 
+(on vedolizumab and mesalamine), HFrEF, IDDM, CKD IIIb who 
+presented with one day of ___ edema, erythema, elevated WBC to 
+18.1 c/w cellulitis, improved on IV vancomycin and transitioned 
+to amoxicillin/trimethoprim-sulfamethoxazole at discharge.
+
+Acute Medical Issues Addressed:
+# Cellulitis
+Pt presented with one day of ___ swelling, warmth, erythema, and 
+pain. No ulceration, purulence, or evidence of abscess or joint 
+involvement. WBC to 18.1 on admission. ___ negative for 
+DVT. Given comorbid diabetes and immunomodulatory biologic 
+agent, patient started on vancomycin with improvement in pain, 
+swelling and erythema. He was transitioned to 
+amoxicillin/trimethoprim-sulfmethoxazole at discharge with a 
+plan for a 14 day course. Of note, it was believed that the 
+Vedolizumab did not play a role in the development of 
+cellulitis. 
+
+Chronic Medical Issues:
+#ETOH use
+On presentation, pt reported ___ alcoholic beverages nightly 
+without history of withdrawal. Never triggered while on CIWA. 
+
+#Insulin-dependent Diabetes Mellitus
+Continued home Lantus 68 units before breakfast daily in 
+addition to a conservative sliding scale with good glucose 
+control (blood sugars ranged from 118-159).
+
+#Congestive Heart Failure with Reduced Ejection Fraction (LVEF 
+45% ___
+Pt without evidence of volume overload during his stay. Stable 
+on home torsemide 80mg qd. 
+
+#Chronic Kidney Disease (stage IIIb)
+CKD secondary to diabetic nephropathy and hypertension 
+complicated by proteinuria but not on ___ due to 
+hyperkalemia. Also complicated by secondary hyperparathyroidism 
+on cinacalcet. Mild anemia not requiring recombinant 
+erythropoietin. Potassium, H/H, SCr remained stable and at 
+baseline during admission. He received his home cinacacet 60mg 
+and po sodium bicarbonate bid. 
+
+#Hypertension
+Stable on home torsemide 80mg and metoprolol succinate.
+
+#Ulcerative colitis
+Followed by Drs. ___, previously on Humira 
+complicated by multiple infections, currently on mesalamine and 
+vedolizumab. Pt received his home po and pr mesalamine in-house.
+
+#Obstructive sleep apnea
+Continued CPAP.
+
+TRANSITIONAL ISSUES:
+=====================
+[] Medication changes:
+- continue amoxicillin and Bactrim for 12 days (total of 14 day 
+course of treatment (last day ___
+- no other medication changes
+[] Follow up with Dr. ___ Dr. ___ in their ___ 
+clinic on ___. 
+
+# Health care proxy/emergency contact: ___ 
+(significant other), ___ (cell)
+# Code Status: Full, presumed
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sodium Bicarbonate 650 mg PO BID 
+2. Allopurinol ___ mg PO DAILY 
+3. Cinacalcet 60 mg PO DAILY 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Rosuvastatin Calcium 40 mg PO QPM 
+6. Glargine 68 Units Breakfast
+7. Torsemide 80 mg PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. Mesalamine 2400 mg PO BID 
+10. Mesalamine (Rectal) ___AILY 
+11. Fish Oil (Omega 3) Dose is Unknown  PO Frequency is Unknown 
+ 
+Discharge Medications:
+1.  Amoxicillin 500 mg PO Q12H Duration: 12 Days 
+RX *amoxicillin 500 mg 1 capsule(s) by mouth twice daily Disp 
+#*24 Capsule Refills:*0 
+2.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 12 Days 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 1 
+tablet(s) by mouth twice daily Disp #*24 Tablet Refills:*0 
+3.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+4.  Glargine 68 Units Breakfast 
+5.  Allopurinol ___ mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Cinacalcet 60 mg PO DAILY  
+8.  Mesalamine (Rectal) ___AILY  
+9.  Mesalamine 1600 mg PO TID  
+10.  Metoprolol Succinate XL 25 mg PO DAILY  
+11.  Rosuvastatin Calcium 40 mg PO QPM  
+12.  Sodium Bicarbonate 650 mg PO BID  
+13.  Torsemide 80 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Primary: Cellulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___.  
+
+Why did you come to the hospital?  
+- You were admitted because your right ankle was red, swollen, 
+warm, and painful similar to when you have had cellulitis in the 
+past.
+   
+What was done for you in the hospital?  
+- We performed blood tests that revealed that you had an 
+infection (cellulitis)
+- You received antibiotics through your IV which were 
+transitioned to antibiotics that you take by mouth before you 
+went home
+- We performed an ultrasound of your right leg that showed that 
+your symptoms were not due to a clot
+- We spoke to your gastroenterologist Dr. ___ did not 
+think your infection was related to your Vedolizumab therapy.
+
+What should you do once you leave the hospital?  
+- Please continue taking your antibiotics for a total of 14 days 
+(another 12 days)
+- Please continue taking your home medications as prescribed
+- Please follow up with your primary care physician (Dr. ___ 
+and Dr. ___ in one week
+- Please call your doctor if you develop any new symptoms that 
+concern you
+- Please weigh yourself every morning. If your weight goes up by 
+more than 3 lbs, please call your doctor
+
+___ wish you the best!  
+
+Sincerely,
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

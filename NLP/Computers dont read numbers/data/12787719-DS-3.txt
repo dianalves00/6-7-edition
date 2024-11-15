@@ -1,0 +1,304 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PLASTIC
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left breast abscess s/p bilateral breast reduction on ___
+ 
+Major Surgical or Invasive Procedure:
+Bedside I&D left breast ___
+
+ 
+History of Present Illness:
+Pt is a ___ year old female with PMH significant for diabetes 
+presenting to ED with left breast erythema, edema and pain s/p 
+bilateral breast reduction ___.  Pt reports that she has had 
+relatively unremarkable post-op course and was seen in follow up 
+on ___ at which point no evidence of infection was noted. She 
+has been changing her dressings daily with dry dressings after 
+___ services were discontinued by the patient on ___. On 
+___, pt noted increased pain and swelling to left breast. 
+Upon exam she noted increased redness which has continued to 
+progress. She reports bloody drainage from left nipple/areola 
+and thick yellow drainage to bandage. Endorses mild nausea and 
+fevers "in the 100s" at home. Patient has social worker, ___, 
+who accompanied her to ED.
+
+ 
+Past Medical History:
+Mental retardation
+Illiteracy
+Obesity
+Hypertension
+Diabetes 
+Anxiety
+
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+PHYSICAL EXAM:
+Temp: 98.4   HR: 105   BP:124/60     RR: 18    O2 Sat: 98%RA
+GENERAL: NAD, A+O x3
+HEENT: NC, AT, EOMI
+RESPIRATORY    [x] All findings normal
+[ ] CTA/P     [ ] Excursion normal     [ ] No fremitus
+[ ] No egophony    [ ] No spine/CVAT
+[ ] Abnormal findings:
+CARDIOVASCULAR [x] All findings normal
+[ ] RRR    [ ] No m/r/g    [ ] No JVD   [ ] PMI nl  [ ] No edema
+[ ] Peripheral pulses nl    [ ] No abd/carotid bruit
+[ ] Abnormal findings:
+GI             [x] All findings normal
+[ ] Soft    [ ] NT   [ ] ND  [ ] No mass/HSM   [ ] No hernia
+[ ] Abnormal findings:
+GU             [x] Deferred  [ ] All findings normal
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+NEURO          [x] All findings normal
+[ ] Strength intact/symmetric    [ ] Sensation intact/ symmetric
+[ ] Reflexes nl     [ ] No facial asymmetry [ ] Cognition intact
+[ ] Cranial nerves intact   [ ] Abnormal findings:
+MS             [x] All findings normal
+[ ] No clubbing   [ ] No cyanosis   [ ] No edema   [ ] Gait nl
+[ ] No tenderness  [ ] Tone/align/ROM nl   [ ] Palpation nl
+[ ] Nails nl   [ ] Abnormal findings:
+LYMPH NODES    [x] All findings normal
+[ ] Cervical nl      [ ] Supraclavicular nl     [ ] Axillary nl
+[ ] Inguinal nl   [ ] Abnormal findings:
+SKIN         
+[x] Abnormal findings:
+left breast with induration, erythema and increased warmth
+extending from areola laterally to axilla. Area diffusely tender
+to palpation. Exam limited however no drainage could be
+expressed. Right breast soft without erythema, edema. 2 small
+~.5cm areas of dehissence noted along surgical incision under
+breast. Granular tissue noted without exudate.
+
+ 
+Pertinent Results:
+___ 03:50PM URINE  HOURS-RANDOM
+___ 03:50PM URINE  UCG-NEGATIVE
+___ 03:36PM   LACTATE-1.9
+___ 03:24PM   GLUCOSE-414* UREA N-10 CREAT-0.9 SODIUM-133 
+POTASSIUM-5.1 CHLORIDE-96 TOTAL CO2-29 ANION GAP-13
+___ 03:24PM   estGFR-Using this
+___ 03:24PM   WBC-12.4*# RBC-4.03* HGB-9.5*# HCT-30.6*# 
+MCV-76* MCH-23.7* MCHC-31.1 RDW-14.4
+___ 03:24PM   NEUTS-79.0* LYMPHS-13.5* MONOS-6.0 EOS-1.2 
+BASOS-0.3
+___ 03:24PM   PLT COUNT-429#
+. 
+US Left Breast:  A heterogeneous collection with no vascularity
+within or in the periphery measuring approximately 9.2 x 2.6 x 
+5.9 cm located at the 5 o'clock position of the left breast just
+below the surgical wound 
+.
+___ 6:40 pm SWAB      LEFT BREAST. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+
+   WOUND CULTURE (Final ___: 
+      SERRATIA MARCESCENS.    MODERATE GROWTH. 
+         This organism may develop resistance to third 
+generation
+         cephalosporins during prolonged therapy. Therefore, 
+isolates that
+         are initially susceptible may become resistant within 
+three to
+         four days after initiation of therapy.  For serious 
+infections,
+         repeat culture and sensitivity testing may therefore be 
+warranted
+         if third generation cephalosporins were used. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             SERRATIA MARCESCENS
+                             |   
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+IMIPENEM--------------     2 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ 
+Brief Hospital Course:
+The patient was admitted to the plastic surgery service on 
+___ for left breast infection s/p bl reduction ___. A 
+bedside I&D was performed in the ED. A significant amount of 
+purulent drainge was noted and cultures were obtained. The 
+patient tolerated the procedure well. She was started on Unasyn 
+pending culture data. Her left breast wound had wet to dry 
+packings BID and her right breast small open areas had dry 
+sterile dressings QD.  
+.
+Neuro: the patient received PO pain meds with good effect and 
+adequate pain control.  
+.
+CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored.
+.
+Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored.
+.
+GI/GU: Patient was maintained on a diabetic diet during her stay 
+as an inpatient. She was also started on a bowel regimen to 
+encourage bowel movement. Intake and output were closely 
+monitored. 
+.
+ID: Post-I&D, the patient was started on IV unasyn then switched 
+to PO bactrim on ___ when her culture revealed pan-sensitive 
+Serratia marcescens. The patient's temperature was closely 
+watched for signs of infection. 
+.
+Endocrine: A ___ Diabetes consult was requested for 
+assistance with diabetes management.  A1C was 9.8 on ___ and 
+blood glucose elevated (414) on admission.  It was felt that 
+some of the glucose elevation could be due to infection.  
+Metformin was increased and QHS glargine and sliding scale 
+humalog insulin were added.  Finger stick blood sugars came 
+under good control with this regimen.
+.
+Prophylaxis: The patient was encouraged to get up and ambulate 
+as early as possible. 
+.
+At the time of discharge on ___, the patient was doing well, 
+afebrile with stable vital signs, tolerating a diabetic diet, 
+ambulating, voiding without assistance, and pain was well 
+controlled. 
+
+ 
+Medications on Admission:
+1. lisinopril 40mg daily  
+2. pravastatin 10mg daily  
+3. metoprolol succinate 25mg daily  
+4. metformin 500mg BID  
+5. clotrimazole 1% cream apply to skin BID  
+6. mupirocin 2% ointment apply TID to abrasion  
+7. blood sugar dx (one touch ultra test)
+
+ 
+Discharge Medications:
+1. Lisinopril 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily). 
+ 
+2. Metoprolol Succinate 50 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+3. Pravastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day) as needed for constipation.
+Disp:*45 Capsule(s)* Refills:*2*
+5. Lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for anxiety.  
+6. Oxycodone-Acetaminophen ___ mg Tablet Sig: ___ Tablets PO 
+Q4H (every 4 hours) as needed for pain: Max of 12 tabs/day.  
+7. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30) 
+ML PO Q6H (every 6 hours) as needed for constipation.  
+8. Metformin 500 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+9. Sulfamethoxazole-Trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 7 days.  
+10. Insulin Glargine 100 unit/mL Solution Sig: Ten (10) units 
+Subcutaneous at bedtime. units 
+11. Humalog insulin
+Per sliding scale...see attached.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+left breast infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Personal Care: 
+1. You will need to have twice per day moist packing and 
+abdominal pads applied to your left breast daily. Dry dressing 
+changes to your right breast daily. 
+2. Keep dressings clean and dry  
+. 
+Activity: 
+1. You may resume your regular diabetic diet. 
+. 
+Medications: 
+1. Resume your regular medications unless instructed otherwise 
+and take any new meds as ordered. Your diabetic medication was 
+adjusted by the ___ Diabetes Service because your glucose 
+levels were consistently high.  This could have been caused by 
+your infection and your glucose levels may return to normal with 
+the resolution of your infection.  You may not need insulin long 
+term. 
+2. You may take your prescribed pain medication for moderate to 
+severe pain. You may switch to Tylenol or Extra Strength Tylenol 
+for mild pain as directed on the packaging. Please note that 
+Percocet and Vicodin have Tylenol as an active ingredient so do 
+not take these meds with additional Tylenol. 
+4. Take prescription pain medications for pain not relieved by 
+tylenol. 
+5. Take your antibiotic as prescribed. 
+6. Take Colace, 100 mg by mouth 2 times per day, while taking 
+the prescription pain medication. You may use a different 
+over-the-counter stool softerner if you wish. 
+7. Do not drive or operate heavy machinery while taking any 
+narcotic pain medication. You may have constipation when taking 
+narcotic pain medications (oxycodone, percocet, vicodin, 
+hydrocodone, dilaudid, etc.); you should continue drinking 
+fluids, you may take stool softeners, and should eat foods that 
+are high in fiber. 
+. 
+Call the office IMMEDIATELY if you have any of the following: 
+1. Signs of infection: fever with chills, increased redness, 
+welling, warmth or tenderness at the surgical site, or unusual 
+drainage from the incision(s). 
+2. A large amount of bleeding from the incision(s) or drain(s). 
+3. Fever greater than 101.5 oF 
+4. Severe pain NOT relieved by your medication. 
+. 
+Return to the ER if: 
+* If you are vomiting and cannot keep in fluids or your 
+medications. 
+* If you have shaking chills, fever greater than 101.5 (F) 
+degrees or 38 (C) degrees, increased redness, swelling or 
+discharge from incision, chest pain, shortness of breath, or 
+anything else that is troubling you. 
+* Any serious change in your symptoms, or any new symptoms that 
+concern you. 
+ 
+Followup Instructions:
+___

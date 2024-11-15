@@ -1,0 +1,136 @@
+ 
+Name:  ___              ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+wheezing
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ yo with pmh of asthma, osa, noncompliance, awoke at 4am with 
+wheezing, lost his nebulizer, so used inhalers with no relief. 
+had continued coughing, sob, 'feeling tight' and came to ER. 
+reports cough ___ days prior, no other triggers, still smoking. 
+review of OMR notes reveal ?compliance with advair.
+Initial EMS notes report respiratory distress this am, only able 
+to speak in few word sentences, got iv steroids, nebs in ER with 
+improvement. admitted for further treatment and on arrival to 
+floor he was comfortable, able to speak in full sentences, but 
+still felt 'tight'
+ 
+Past Medical History:
+Morbid obesity (> 500 pounds)
+Asthma--states he has been in ICU for asthma but not intubated
+OSA on CPAP
+HTN 
+Schizophrenia
+H/o suicidal attempt (Dr. ___ Mental)
+OA of knees R>L 
+Chronic Microcytic Anemia
+Chronic ___ edema
+ 
+Social History:
+___
+Family History:
+Father with history of heart disease, nature not known
+Mother: ___
+ 
+Physical ___:
+VS T 97.3  bp 153/90  hr 68  rr 24  sat 97% RA
+GEN: obese male, nad, breathing comfortably, speaking in full 
+sentences
+HEENT: obese neck
+RESP: good air movement, but prolonged exp phase with wheeze, no 
+rhonchi
+CV: distant hs
+ABD: obese, nt, +bs no rebound, no gaurding
+EXTREM: chronic ___ edema
+NEURO: alert, calm, non focal
+
+ 
+Brief Hospital Course:
+1. ASTHMA EXACERBATION
+Likely noncompliance with maintenance therapy, +/- recent URI. 
+improved with iv steroids and nebs in the ER. Comfortable upon 
+arrival to floor. His peak flows were 650+ upon arrival to the 
+floor which was at or above his baseline. He was continued on 
+nebulizer treatments q4-6hrs and had marked improvement. He did 
+not require steroid taper. He was discharged to follow up with 
+his primary care provider and ___ for re-ordering of his 
+nebulizer and continued education regarding acute and chronic 
+asthma management.
+-continue nebs, holding steroids for now
+
+2. SCHIZOPHRENIA 
+Admitted noncompliance with medications. He was continued on his 
+last home regimen on abilify and instructed to contact ___ for 
+refills of his prescriptions.
+
+3. DEPRESSION
+Has not taken wellbutrin, says PCP concerned about compliance 
+and risk of improper usage. He displayed no overt signs or 
+symptoms of depression during this brief admission. He was 
+instructed to follow up with ___ clinic and his outpatient 
+providers.
+
+4. TOBACCO USE / DEPENDANCE -he was again counseled to stop 
+smoking, especially in the context of asthma exacerbation 
+requiring hospitalization.  He is in the contemplative phase, 
+still smokes marijuana every 2 weeks or so which could also 
+exacerbate his asthma. He was counseled to stop smoking 
+marijuana.
+
+ 
+Medications on Admission:
+only reports taking 
+advair bid
+albuteral mdi q6hr prn
+
+not taking abilify or wellbutrin
+
+ 
+Discharge Medications:
+1. Advair Diskus 250-50 mcg/Dose Disk with Device Sig: One (1)  
+Inhalation twice a day.  
+2. Aripiprazole 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Albuterol 90 mcg/Actuation Aerosol Sig: One (1)  Inhalation 
+every four (4) hours as needed for shortness of breath or 
+wheezing.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Asthma exacerbation
+schizophrenia
+depression
+
+ 
+Discharge Condition:
+improved, 98% on RA, comfortable, peak flow >650, no wheeze
+
+ 
+Discharge Instructions:
+you were admitted with a flare of your asthma. you improved with 
+iv steroids in the ER, but did not require steroids by mouth. 
+continue taking your advair as prescribed and albuterol as 
+needed. You need to make a follow up appointment with your pcp 
+to ___ acute and chronic asthma management and re-obtain 
+a nebulizer. We discussed and encouraged smoking cessation.
+ 
+Followup Instructions:
+___

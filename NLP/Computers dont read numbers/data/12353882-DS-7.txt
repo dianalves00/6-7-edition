@@ -1,0 +1,363 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Percocet / Codeine / Morphine Sulfate / Latex / 
+hydrocodone-acetaminophen / pravastatin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hemiparesis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo woman with PMH of HTN, HLD, DM and CAD 
+who was found down at home with R sided weakness and aphasia.
+
+Pt lives alone and her nephew was staying with her, and last saw 
+her normal at midnight. They both went to bed and she was found 
+on the ground at 9 am by her home aid who had come in as she 
+normally does. EMS was called and she was brought to the ED. Her 
+head CT showed hypodensity in L basal ganglia. 
+
+ROS: unable to obtain due to global aphasia.
+ 
+Past Medical History:
+CATARACT s/p surgery
+COLON CANCER 
+CORONARY ARTERY DISEASE 
+DEPRESSION 
+GOUT 
+HYPERTENSION 
+INSULIN DEPENDENT DIABETES MELLITUS 
+RENAL INSUFFICIENCY 
+RETINA EYE CARE 
+TEMPORAL ARTERITIS 
+BENIGN POSITIONAL VERTIGO 
+CONDYLOMA ACUMINATA 
+SLEEP APNEA 
+PARTIAL REMOVAL OF THE RIGHT OVARY ___ 
+TAH/LSO ___ 
+CHOLECYSTECTOMY
+ 
+Social History:
+___
+Family History:
+moved from ___ ___ years ago, lives alone and is functionally 
+independent save for her baseline poor vision. Does have home 
+aid who comes in to help with cleaning.
+ 
+Physical Exam:
+Admission exam:
+59 174/60 14 99% RA 
+General: somnolent, arouses to voice/light touch.
+HEENT: NC/AT
+Neck: supple
+Pulmonary: CTABL
+Cardiac: RRR, no murmurs
+Abdomen: protuberant but soft and nontender
+Extremities: no edema, warm to touch.
+Skin: no rashes or lesions noted.
+.
+Neurologic:
+- Mental Status: awakens to voice/light touch easily. Globally 
+aphasic without verbal output, not following commands such as 
+stick out tongue/show thumb/fingers in ___ or Farsi (does 
+squeeze hand on L but does it even without asking). 
+.
+-Cranial Nerves:
+II: pupils post-surgical, irregular and nonreactive. Does not 
+blink to threat on either side. 
+III, IV, VI: looks to left on primary gaze but with voice from 
+the right, does turn to right and looks to right, crosses 
+midline occasionally but does not fully bury sclera to R. 
+V: intact corneals
+VII: R facial droop
+VIII: hearing intact to voice, looks to voice
+IX, X, XI and XII: Unable to test
+.
+-Motor: Normal bulk, decreased tone on R, normal on L. Increased 
+tone in legs bilaterally. No spontaneous movement in RUE/RLE but 
+does withdraw from noxious stimuli. Moves LUE spontaneously and 
+purposefully and moves LLE occasionally as well. 
+.
+-Sensory: withdraws from noxious stimuli in all extremities.
+-DTRs: 
+  Bi Tri ___ Pat Ach
+L  2  2    2    0   0
+R  2  2    2    0   0
+
+Plantar response was flexor on L and extensor on R.
+-Coordination/Gait: unable to test. 
+.
+.
+Discharge exam:
+98.6  97.8  129-201/46-71  60-70  ___  98-100% RA  200s-300s 
+prior to NPH (HS), 123 this AM
+PULM: Lungs are clear at the bases
+MS: Rouses easily to voice if sleeping, global aphasia but 
+understands some commands (better in Farsi). No speech 
+production or mouthing words.
+CN: R NLF flattening
+MOTOR: No spontaneous movement in RUE/RLE but does withdraw from 
+noxious stimuli leg more than arm
+SENSORY: Withdraws to noxious in all extremities
+Otherwise the examination is unchanged from admission.
+ 
+Pertinent Results:
+Stroke labs:
+___ 09:40AM BLOOD %HbA1c-7.1* eAG-157*
+___ 08:50PM BLOOD Triglyc-93 HDL-88 CHOL/HD-2.4 LDLcalc-108
+___ 08:50PM BLOOD TSH-1.1
+.
+General labs:
+___ 09:40AM BLOOD WBC-6.2 RBC-3.04* Hgb-9.8* Hct-31.8* 
+MCV-105* MCH-32.2* MCHC-30.8* RDW-16.3* Plt ___
+___ 10:26AM BLOOD ___ PTT-20.6* ___
+___ 09:40AM BLOOD Plt ___
+___ 09:40AM BLOOD Glucose-112* UreaN-35* Creat-1.2* Na-140 
+K-4.4 Cl-102 HCO3-30 AnGap-12
+___ 08:50PM BLOOD Glucose-91 UreaN-28* Creat-1.1 Na-144 
+K-4.2 Cl-106 HCO3-27 AnGap-15
+___ 09:40AM BLOOD ALT-16 AST-16 AlkPhos-46 TotBili-0.5
+___ 05:05PM BLOOD CK(CPK)-56
+___ 09:40AM BLOOD cTropnT-<0.01
+___ 05:05PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 09:40AM BLOOD Albumin-4.2 Calcium-8.9 Phos-3.9 Mg-2.3
+___ 09:40AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 11:10AM URINE Color-Straw Appear-Clear Sp ___
+___ 11:10AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 11:10AM URINE RBC-<1 WBC-0 Bacteri-FEW Yeast-NONE 
+Epi-<1
+.
+Studies:
+MRI ___
+IMPRESSION:
+1. Left MCA territorial infarct without convincing evidence of 
+hemorrhagic
+transformation.
+2. Focal loss of the flow void of the left MCA with 
+corresponding segmental
+focus of "blooming" susceptibility artifact, likley 
+thrombo-embolic material.
+.
+CTA brain/neck
+ 1. Left MCA territory hypodensity consistent with infarct 
+better evaluated on
+the non contrast CT head and MR head ___.  
+ 
+2. Focal occlusion of the left MCA, extending from its mid-M1 
+segment to its bifurcation, with partial reconstitution of 
+distal branches which are
+attenuated.  
+ 
+3. Heterogeneous thyroid gland with a 1.7 cm lesion within the 
+isthmus which should be further characterized with sonography, 
+as clinically warranted.
+.
+.
+DISCHARGE LABS:
+
+___ 06:45AM BLOOD WBC-5.4 RBC-2.90* Hgb-9.6* Hct-30.3* 
+MCV-105* MCH-33.1* MCHC-31.7 RDW-15.8* Plt ___
+___ 06:45AM BLOOD Plt ___
+___ 06:45AM BLOOD ___ PTT-50.1* ___
+___ 06:45AM BLOOD Glucose-105* UreaN-31* Creat-1.2* Na-143 
+K-3.5 Cl-105 HCO3-29 AnGap-13
+___ 06:45AM BLOOD Calcium-8.8 Phos-4.4 Mg-1.8
+ 
+Brief Hospital Course:
+Mrs. ___ is a ___ year old woman who was brought in after 
+being found down and was subsequently diagnosed with left M1 
+occlusion resulting in a stroke involving mostly the superior 
+division and lenticulostriates. 
+.
+ACTIVE ISSUES
+# Stroke: She was started on heparin as a bridge to warfarin as 
+she had a large thrombus in her left M1 while her inferior M2 
+did appear patent. There was concern that clot might migrate or 
+expand, significantly worsening her stroke. Plan to continue 
+coumadin for 3 months. She was started on atorvastatin and 
+metformin as well given her risk factors (see "labs" above). 
+There was no obvious cardiac source on TTE or carotid source on 
+CTA. She was started on metformin and atorvastatin. Blood 
+pressure regimen was gradually re-introduced after a period of 
+permissive HTN; she is currently on her home regimen except for 
+Diovan, which can be re-introduced as pressures tolerate to a 
+goal systolic of 100-130.
+.
+# INSULIN DEPENDENT DIABETES MELLITUS: Patient was started on 
+metformin given improved kidney function from baseline and 
+utility of weight loss. She was continued on a sliding scale 
+without long-acting initially; her home NPH was resumed on 
+___ and should be titrated to euglycemia. 
+.
+# RENAL INSUFFICIENCY: Admitted with creatinine slightly better 
+than baseline. Appeared to be slightly hypovolemic on ___ so 
+furosemide decreased on ___ from 40 to 30mg daily. Please 
+titrate furosemide to euvolemia.  
+.
+# HTN: HELD isosorbide and Diovan during hospitalization; 
+pressures within acceptable range without this. Atenolol was 
+given at half-dose (12.5mg daily) during hospital stay. Her 
+former home meds may be GRADUALLY resumed if her SBPs are > 140
+.
+INACTIVE ISSUES
+# ANEMIA: At baseline during this hospital stay
+# CATARACT s/p surgery
+# COLON CANCER 
+# CORONARY ARTERY DISEASE 
+# DEPRESSION 
+# GOUT 
+# HYPERTENSION 
+# RETINA EYE CARE 
+# TEMPORAL ARTERITIS 
+# BENIGN POSITIONAL VERTIGO 
+# CONDYLOMA ACUMINATA 
+# SLEEP APNEA 
+# PARTIAL REMOVAL OF THE RIGHT OVARY ___ 
+# TAH/LSO ___ 
+# CHOLECYSTECTOMY 
+.
+TRANSITIONAL ISSUES
+# Stroke: Plan to continue coumadin for 3 months. Please check 
+INR daily until stable in the ___ range. ___ stop heparin drip 
+when INR > 2. Until that time, check PTT q6 hours with a goal 
+PTT 40-60; adjust heparin drip as needed. Follow up with 
+___ as below. 
+.
+# Nutrition: Passed speech and swallow but make sure pt is alert 
+and sitting up at meal times. ___ require maintenance fluids, 
+dietary supplementation.
+.
+# HLD: Follow for signs of discomfort that might indicate 
+myalgias (occurred with pravastatin in the past or elevation in 
+creatinine (check CK); started atorvastatin ___ and has had 
+myalgias with simvastatin in the past. 
+.
+# HTN: HELD Diovan during hospitalization; please resume Diovan 
+as pressures tolerate (goal is now normotension, SBP 100-130). 
+Atenolol was given at half-dose (12.5mg daily) during hospital 
+stay. 
+.
+# CKD: Admitted with creatinine better than baseline; home dose 
+lasix 40 BID but lowered here. Appeared to be slightly 
+hypovolemic on ___ so furosemide further decreased on ___ 
+from 40 to 30mg daily. Please titrate furosemide to euvolemia. 
+.
+# Diabetes: Follow for response on metformin. Continue on 
+sliding scale; increase as needed (she is on her home dose of 
+NPH/Novolin N)
+.
+# Thyroid nodule: Please order follow-up ultrasound for further 
+evaluation of isthmus.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aldara (imiquimod) 5 % topical 3 times per week 
+2. Colchicine 0.6 mg PO EVERY OTHER DAY:PRN gout flare 
+3. Valsartan 160 mg PO DAILY 
+4. Endocet (oxyCODONE-acetaminophen) ___ mg oral TID:PRN pain 
+5. Guaifenesin-Dextromethorphan ___ mL PO HS:PRN cough 
+6. Polyethylene Glycol 17 g PO DAILY constipation 
+7. NovoLIN N (NPH insulin human recomb) 100 unit/mL subcutaneous 
+unknown 
+8. RISperidone 0.5 mg PO HS 
+9. Allopurinol ___ mg PO DAILY 
+10. Atenolol 25 mg PO DAILY 
+11. Clobetasol Propionate 0.05% Cream 1 Appl TP DAILY 
+12. Diazepam 5 mg PO DAILY:PRN muscle spasm 
+13. Fluocinonide 0.05% Cream 1 Appl TP DAILY:PRN scalp itch 
+14. Furosemide 40 mg PO BID 
+15. imiquimod 5 % topical every other day 
+16. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+17. Nitroglycerin SL 0.4 mg SL PRN angina 
+18. PredniSONE 10 mg PO DAILY:PRN gout flare 
+
+ 
+Discharge Medications:
+1. Atorvastatin 40 mg PO DAILY 
+2. Colchicine 0.6 mg PO EVERY OTHER DAY:PRN gout flare 
+3. Diazepam 5 mg PO DAILY:PRN muscle spasm 
+4. Endocet (oxyCODONE-acetaminophen) ___ mg oral TID:PRN pain 
+5. Guaifenesin-Dextromethorphan ___ mL PO HS:PRN cough 
+6. imiquimod 5 % TOPICAL EVERY OTHER DAY 
+7. Nitroglycerin SL 0.4 mg SL PRN angina 
+8. Polyethylene Glycol 17 g PO DAILY constipation 
+9. RISperidone 0.5 mg PO HS 
+10. MetFORMIN (Glucophage) 500 mg PO BID 
+11. Senna 1 TAB PO BID 
+12. Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using REG Insulin
+13. Bisacodyl 10 mg PR HS:PRN constipation 
+14. Dextrose 50% 12.5 gm IV PRN hypoglycemia protocol 
+15. Docusate Sodium 100 mg PO BID 
+16. Glucagon 1 mg IM Q15MIN:PRN hypoglycemia protocol 
+17. Glucose Gel 15 g PO PRN hypoglycemia protocol 
+18. Allopurinol ___ mg PO DAILY 
+19. Atenolol 25 mg PO DAILY 
+20. Furosemide 30 mg PO DAILY 
+21. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+22. Heparin IV 
+No Initial Bolus
+Initial Infusion Rate: 1050 units/hr
+23. Warfarin 7.5 mg PO DAILY16 
+titrate to goal INR ___ 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis: Stroke
+
+ 
+Discharge Condition:
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+Level of Consciousness: Lethargic but arousable.
+Mental status: Aphasic (deficits with speech production outweigh 
+comprehension deficits - can follow simple commands)
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ were admitted to the neurology service at the ___ 
+because of a stroke on the left side of your brain which has 
+interfered with your ability to move the right side of your body 
+and your ability to produce and understand speech. The exact 
+source of the clot is not completely clear, but based on the 
+evidence we have, it would be prudent to give ___ an 
+anticoagulant called coumadin for 3 months. We hope that this 
+will prevent the clot which has blocked off one of your blood 
+vessels from expanding and blocking off nearby vessels which 
+also supply areas of the brain important for speech. 
+
+___ will follow up with Dr. ___ in neurology as dictated 
+below.
+
+Your medication list has changed; your rehab facility will 
+provide ___ an updated list before discharge. 
+ 
+Followup Instructions:
+___

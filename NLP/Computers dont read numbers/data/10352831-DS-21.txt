@@ -1,0 +1,274 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Imipramine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hemoptysis
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year-old non-smoking gentleman with a PMH of 
+CAD s/p CABG (SVG x3 to PDA, OM and LIMA to LAD) in ___ on 
+aspirin and Plavix, HTN, HFpEF, and complete heart block s/p 
+PPM, now admitted after an episode of hemoptysis. Patient was in 
+his USOH until this morning, when he suddenly developed 
+hemopysis at 7:00 am. He cough up blood three times in 
+succession, with total of about ___ tablespoons of dark blood. 
+This has never happened before. He had no lightheadedness before 
+or after this episode.  
+He denies fevers, chills, night sweats, abd pain, N/V/D, CP, 
+SOB. No recent illness, no recent travel, weight loss. No 
+contact with incarcerated people. No change in stool; he 
+specifically denies any dark, tarry stool or BRBPR. Of note, PPD 
+has been negative in the past.  
+In the ED, initial VS were: 98.5 78 124/61 18 100% on RA. Exam 
+notable for +systolic aortic murmur, lungs clear, NT abd. Labs 
+were notable for creatinine of 1.4 and hct of 40. EKG: V-paced 
+at 70, c/w prior. CXR noting left lobe scarring, no acute 
+process. Guaiac was negative. He was started on NS @ 150ml/hr. 
+CT chest with contrast showed old rib fractures and evidence of 
+pulmonary HTN, but no PE or other findings to explain his 
+hemoptysis. He was admitted for likely bronch in the morning 
+with IP aware. VS on transfer: 98.2 71 144/53 18 100%.  
+On arrival to the floor, patient was comfortable. He reports no 
+further episodes  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension  
+2. CARDIAC HISTORY:  
+-CABG: ___ (SV x3 to PDA, OM and LIMA to LAD)
+-PERCUTANEOUS CORONARY INTERVENTIONS:  
+-PACING/ICD:  
+3. OTHER PAST MEDICAL HISTORY: 
+CAD s/p CABG in ___
+Severe major depression w/ history of catatonic features
+Hypothyroidism after treatment for Grave's disease
+HL
+OSA 
+ 
+Social History:
+___
+Family History:
++ fam hx of CAD, HTN, Prostate CA.
+ 
+Physical Exam:
+ADMISSION:
+
+VS: 98.4 159/94 78 18 95%RA  
+GENERAL: well appearing, comfortable  
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, clear 
+oropharynx  
+NECK: supple, no LAD, JVP at mid-neck at 15 degrees  
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored, 
+no accessory muscle use  
+HEART: III/VI crescendo-decrescendo at ___ with radiation to 
+LLSB and apex, +S3, RRR, nl S1, prominent S2  
+ABDOMEN: normal bowel sounds, soft, non-tender, non-distended, 
+no rebound or guarding, no masses  
+EXTREMITIES: no edema, 2+ pulses radial and dp  
+NEURO: awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout  
+
+DISCHARGE:
+
+VS: 98.4 159/94 78 18 95%RA  
+GENERAL: well appearing, comfortable  
+HEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, punctate 
+hemorrhage in posterior oropharynx. Significant amount of dried 
+blood in posterior left nares and some small areas of fresh 
+blood without significant active bleeding. 
+NECK: supple, no LAD, JVP flat
+LUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored, 
+no accessory muscle use  
+HEART: III/VI crescendo-decrescendo at ___ with radiation to 
+LLSB and apex, +S3, RRR, nl S1, prominent S2  
+ABDOMEN: normal bowel sounds, soft, non-tender, non-distended, 
+no rebound or guarding, no masses  
+EXTREMITIES: no edema, 2+ pulses radial and dp  
+NEURO: awake, A&Ox3, CNs II-XII grossly intact, muscle strength 
+___ throughout, sensation grossly intact throughout  
+
+ 
+Pertinent Results:
+LABS:
+
+___ 02:40PM BLOOD WBC-7.0 RBC-4.36* Hgb-12.6* Hct-40.0 
+MCV-92 MCH-29.0 MCHC-31.5 RDW-13.7 Plt ___
+___ 01:57AM BLOOD Hgb-11.5* Hct-35.3*
+___ 07:40AM BLOOD WBC-7.1 RBC-4.15* Hgb-12.0* Hct-37.7* 
+MCV-91 MCH-28.9 MCHC-31.8 RDW-13.6 Plt ___
+___ 07:40AM BLOOD ___ PTT-29.6 ___
+___ 02:40PM BLOOD Glucose-69* UreaN-29* Creat-1.4* Na-140 
+K-4.8 Cl-102 HCO3-30 AnGap-13
+___ 07:40AM BLOOD Glucose-96 UreaN-23* Creat-1.1 Na-142 
+K-4.5 Cl-107 HCO3-30 AnGap-10
+___ 07:40AM BLOOD Calcium-9.0 Phos-3.1 Mg-2.1
+___ 02:50PM BLOOD Lactate-1.4
+
+IMAGING:
+
+CXR ___:
+IMPRESSION:  Scarring in the left lung at the level of the 
+extensive left rib cage deformity.  Overall, findings are stable 
+and no acute findings to account for patient's complaint 
+hemoptysis. 
+
+CHEST CT ___:
+IMPRESSION:  
+1) No findings to account for the patient's hemoptysis including 
+no evidence 
+of endobronchial lesion. 
+2) Dilated pulmonary arteries suggestive of pulmonary arterial 
+hypertension. 
+3) Small hiatal hernia. 
+4) Multiple, displaced, chronic left sided rib fractures with 
+adjacent 
+atelectasis.   
+5) Moderate aortic valvular calcification. 
+6) Marked atherosclerotic disease involving the ostia of the 
+major mesenteric 
+arteries within the upper abdomen. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year-old non-smoking gentleman with a PMH of 
+CAD s/p CABG (SVG x3 to PDA, OM and LIMA to LAD) in ___ on 
+aspirin and Plavix, HTN, HFpEF, complete heart block s/p PPM, 
+and h/o several episodes of mild epistaxis since starting Plavix 
+admitted for evaluation of single episode of presumed 
+hemoptysis, found to have evidence of recent epistaxis.
+  
+# Epistaxis: Patient was initially admitted for evaluation of 
+presumed hemoptysis. He had a single episode of 
+coughing/spitting up ~3 tablespoons of blood. Upon furthur 
+history, he did note several episodes of epistaxis in the past 
+year since starting Plavix. He also has an exam consistent with 
+aortic stenosis, which can predispose to mucosal AVMs and 
+bleeding. Chest CT was unrevealing. Patient noted that the night 
+prior to episode of "hemoptysis" that he had the sensation of 
+blood dripping in the back of his throat. Physical exam revealed 
+a significant amount of dried blood in the left nares, as well 
+as small amount of fresh blood with no evidence of active 
+bleeding. He had no furthur episodes of hemoptysis or epistaxis 
+during his admission. His history and physical are most 
+consistent with epistaxis causing blood to accumulate in the 
+oropharynx, leading to patient coughing/spitting a small amount 
+of blood. Normal chest CT also makes true hemoptysis less 
+likely. He was discharged in stable condition with presumptive 
+diagnosis of epistaxis, NOT hemoptysis.
+
+# CAD: s/p CABG in ___. Stable, without any chest pain at 
+present. EKG v-paced indeterminate for ischemic changes. 
+continued aspirin, plavix, and rosuvastatin given HD stability 
+and stable HCT. 
+  
+# HFpEF: Likely secondary to ongoing HTN. Last TTE in ___ 
+showed LV EF 60% with mild symmetric LVH. Patient's exam 
+significant for crescendo-decrescendo murmur radiating to b/l 
+carotids, suggestive of aortic stenosis; however, this has yet 
+to be documented by TTE. He did not have any signs or symptoms 
+of heart failure during this admission. 
+
+# Hypothyroidism: Well-controlled. Continued levothyroxine.  
+
+# Depression: With history of catatonic features. continued 
+venlafaxine and ritalin (fractionated per our forumlary)  
+
+# OSA: Has not used CPAP for several years. Declined CPAP.  
+
+# HTN: SBPs were consistently in the 170s during admission. 
+Patient states that this is typical for him and he has not been 
+on any antihypertensive meds. We wanted to start an 
+antihypertensive regimen, but patient declined. He was made 
+aware of the risks of untreated hypertension, including 
+worsening CHF, stroke, and death. He acknowledged these risks 
+and opted to discuss this furthur in close followup with his 
+PCP.
+
+==============================================================
+TRANSITIONAL ISSUES
+#HTN - Untreated with SBPs in the 170s. He was made aware of the 
+risks of untreated hypertension, including worsening CHF, 
+stroke, and death. He acknowledged these risks and opted to 
+discuss this furthur in close followup with his PCP.
+
+#? aortic stenosis on exam: Last TTE was in ___ showing only 
+diastolic dysfunction. Patient may benefit from repeat ECHO to 
+assess for aortic stenosis. Currently asymptomatic, without 
+chest pain, syncope, or DOE.
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Clopidogrel 75 mg PO DAILY 
+2. Levothyroxine Sodium 125 mcg PO DAILY 
+3. Rosuvastatin Calcium 20 mg PO HS 
+4. Furosemide 20 mg PO 1X/WEEK (___) 
+5. Methylphenidate SR 10 mg PO DAILY 
+6. Venlafaxine XR 187.5 mg PO DAILY 
+7. Aspirin EC 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin EC 81 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Furosemide 20 mg PO 1X/WEEK (___) 
+4. Levothyroxine Sodium 125 mcg PO DAILY 
+5. Rosuvastatin Calcium 20 mg PO HS 
+6. Venlafaxine XR 187.5 mg PO DAILY 
+7. Methylphenidate SR 10 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Epistaxis
+
+Secondary:
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ for evaluation of coughing blood. You 
+had a CAT scan of your lungs, which was normal. You had dried 
+blood in your nose. It is likely that you had a nose bleed, 
+which bled into your mouth, causing you to spit out blood. You 
+should follow up with the interventional pulmonologists.
+Also, you had very high blood pressure during this admission. We 
+recommended that you start medication to lower your blood 
+pressure, but you declined. We explained that having 
+uncontrolled blood pressure can lead to heart disease, stroke, 
+and death. You stated that you understood these risks and will 
+followup with your PCP to decided whether or not to start blood 
+pressure medications.
+
+It was a pleasure taking part in your care and we wish you a 
+speedy recovery!
+ 
+Followup Instructions:
+___

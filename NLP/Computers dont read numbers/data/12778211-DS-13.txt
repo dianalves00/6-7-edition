@@ -1,0 +1,305 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Enalapril / lobster/crab / Viagra / ginseng tea / shellfish 
+derived
+ 
+Attending: ___
+ 
+Chief Complaint:
+Seizures and AMS
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Patient is a ___ gentleman with history of multiple 
+myeloma complicated by renal failure status post transplant, 
+history of prostate cancer currently on radiation, hypertension 
+and diabetes who presents as an outside hospital transfer for 
+further management of seizures.  
+
+Briefly, patient was recently admitted to ___ 
+___ for altered mental status which was thought to be 
+due to stroke he was given TPA, 30 minutes into the infusion 
+patient developed a generalized tonic-clonic seizure.  This was 
+reportedly his first time
+lifetime seizure. He was started on keppra 750mg BID (renally 
+dosed). Seizures were thought to be possibly due to known left 
+temporal calcification vs infectious given he is immune 
+suppressed. However, no reported fevers or leukocytosis. The 
+rest of his hospital course was complicated by GI bleed and 
+pneumonia.
+
+He was discharged to rehab facility on ___.  Per family
+he was doing quite well.  On ___, the patient had dinner with 
+his wife at the rehab and was neurologically intact. He was 
+conversant, lucid and able to ambulate with his walker.  On 
+___, the patient went to the chapel to pray, shortly after 
+returning around 6pm, he became tearful and increasingly 
+agitated. He was brought back to ___ for agitation and inability 
+to follow commands. Urine sample in the ED was positive for UTI 
+and the patient was started on ceftriaxone.   
+
+On ___, patient was noted to frequently yell out and groan. He 
+also was incontinent of urine. EEG was ordered and was concerned 
+for left sided discharges. 2mg of IV Ativan was given and the 
+patient became more alert and was opening eyes to verbal 
+command. IV Depakote was then loaded at 12:22pm. His heart rate 
+was persistently elevated to the 130's and patient desaturated 
+down to 89% on 2L. A rapid response was called and patient was 
+transferred to the MICU at ___. After this time, it was decided 
+to transfer the patient to ___ for further monitoring and 
+care.  
+
+ 
+Past Medical History:
+CKD stage V, not on renal replacement therapy, type 2 diabetes,
+hypertension, glomerulosclerosis, monoclonal gammopathy of
+unknown significance, BPH, gout, obesity, erectile dysfunction,
+CVA, apnea, hypercholesterolemia, asthma, asbestosis s/p pleural
+biopsy approximately ___ years ago  
+
+ 
+Social History:
+___
+Family History:
+His mother died at age ___ due to asthma.  His father died at age
+___ without a clear cause of death.  He denies any family history
+of kidney disease. 
+ 
+Physical Exam:
+Admission Exam:
+General:  lying in bed, adentulous, pleasant in NAD
+HEENT:  mucous membranes moist
+Neck:  supple
+CV:  irregularly irregular, tachycardic
+Lungs:  CTAB
+Abdomen:  soft, non distended,  
+Ext: No edema 
+Skin:  no rashes
+
+Neuro:  
+MS- Patient is alert, unable to answer orientation questions. He
+is speaking in unintelligible words. Regards and tracks examiner
+but is unable to follow any commands. Speech is dysarthric. 
+
+CN- PERRLA, appears to have left facial droop however patient 
+has
+no teeth therefore difficult to assess facial symmetry. 
+
+Sensory/Motor- Briskly withdraws lue, lle, rle, right upper
+extremity localizes. 
+Coordination-deferred
+
+*******************
+Discharge Exam:
+Vitals: Tmax 98.0 BP 101-125/70-84, HR ___ RR ___ 0 O2 Sat 
+>93%
+Gen: Lying comfortably in bed. 
+MS: Alert, oriented to self , states he is at "___. 
+Said the year was "___", then stated ___. correctly identifies 
+the month as ___ then quickly states it is ___. Follows 
+simple commands to stick out tongue, close/open eyes and move 
+all extremities.  
+CN: PERRL 3-->2,face symmetric, EOM grossly full, tongue midline
+Motor: Normal tone/bulk. Moving all extremities spontaneously 
+and
+anti-gravity.
+Reflexes: deferred
+Sensory: Intact to Light touch throughout. 
+Coord: deferred
+Gait: Deferred
+ 
+Pertinent Results:
+___ 11:36PM   GLUCOSE-122* UREA N-24* CREAT-1.8* SODIUM-142 
+POTASSIUM-4.3 CHLORIDE-105 TOTAL CO2-25 ANION GAP-16
+___ 11:36PM   estGFR-Using this
+___ 11:36PM   ALT(SGPT)-12 AST(SGOT)-14 CK(CPK)-71 ALK 
+PHOS-67 TOT BILI-0.3
+___ 11:36PM   CK-MB-2 cTropnT-0.03*
+___ 11:36PM   CALCIUM-8.4 PHOSPHATE-3.4 MAGNESIUM-1.6 
+CHOLEST-93
+___ 11:36PM   %HbA1c-6.8* eAG-148*
+___ 11:36PM   TRIGLYCER-128 HDL CHOL-25 CHOL/HDL-3.7 
+LDL(CALC)-42
+___ 11:36PM   TSH-0.85
+___ 11:36PM   VALPROATE-29*
+___ 11:36PM   WBC-8.8# RBC-3.84* HGB-10.3* HCT-35.4* MCV-92 
+MCH-26.8 MCHC-29.1* RDW-13.4 RDWSD-44.5
+___ 11:36PM   PLT COUNT-211
+___ 11:36PM   ___ PTT-28.3 ___
+
+CT head ___
+IMPRESSION: 
+  
+  
+1. No evidence of hemorrhage, infarction, or mass. 
+2. Unchanged 10 x 8 mm calcification in the left temporal lobe 
+since ___. The differential diagnosis includes a calcified cavernous 
+malformation 
+or prior calcification from old injury or infection. 
+  
+
+ 
+Brief Hospital Course:
+___ gentleman with history of multiple myeloma 
+complicated by renal failure status post transplant, history of 
+prostate cancer recently completed radiation, hypertension and 
+diabetes who presented as an outside hospital transfer for 
+further management of AMS and seizures in setting of UTI.
+
+On admission to ___ he was started on cvEEG which showed left 
+sided PLEDS. He received a repeat 500IV Depakote load - received 
+load at OSH- and his scheduled Depakote was increased from 500mg 
+BID to ___ TID. Level noted to be therapeutic. He was 
+maintained on his home keppra 750mg BID (renally dosed). cvEEG 
+improved and came of on ___. He underwent a CT head which showed 
+a calcification in the left basal ganglia, which has been seen 
+on prior CT head several years ago. This was thought to be the 
+seizure trigger. Unfortunately, patient was unable to undergo 
+MRI brain to further assess the calcification as he does have a 
+piece of metal in his eye since ___.
+
+Urine cx at the OSH grew Klebsiella for which he was started on 
+Ceftriaxone on ___. His mental status improved and etiology 
+of his altered mental status was thought be secondary to UTI. He 
+was transferred to the ___ on ___. 
+
+For his afib he was maintained on his home ASA325mg (not on AC 
+___ recent GI bleed) and rate was controlled with Lopressor.
+
+Renal transplant service was notified on admission and followed 
+throughout his hospital stay.  
+
+Neurology Floor ___- ++++)
+He was transferred from the ICU to the ___ on ___.  He 
+remained hypernatremic which was corrected with IVF and free 
+water boluses via NGTube as per Transplant Nephrology's 
+recommendations. 
+
+As per Transplant Nephrology's recommendations, his SBP goal is 
+less than 160. During his hospitalization, we discontinued his 
+Losartan and Chlorothiadone.  His home Metoprolol dose was 
+increased and he was started on Amlodipine.  During this 
+hospitalization, he was noted to have Atrial Fibrillation and 
+Demand NSTEMI.  He completed a 14d course of Ceftriaxone for the 
+Klebsiella UTI (___).
+
+He had no further seizures since being transferred from the ICU. 
+ He is currently on Levetiracetam 750mg BID and Valproic Acid 
+___ TID for seizure control.
+
+He subsequently passed his swallow study.  He was monitored 
+several days with improvement in his clinical status. 
+
+On the day of discharge, his transplant team also reviewed his 
+medications and agreed with the plan to go to rehab. 
+
+______________________
+Transitional Issues:
+1.Holding losartan and HCTZ, maintaining good bP on amlodipine 
+alone
+2.Patient finished his full course of antibiotics for his UTI on 
+day of discharge and does not require further treatment
+3. Renal tx to touch base with patient's outpatient nephrologist 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheeze 
+2. Allopurinol ___ mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Finasteride 5 mg PO DAILY 
+5. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+6. leflunomide 30 mg oral DAILY 
+7. Metoprolol Succinate XL 25 mg PO DAILY 
+8. Chlorthalidone 25 mg PO DAILY 
+9. omeprazole 20 mg oral DAILY 
+10. Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+11. Tacrolimus 4.5 mg PO Q12H 
+12. Tamsulosin 0.4 mg PO QHS 
+13. Aspirin 325 mg PO DAILY 
+14. Multivitamins 1 TAB PO DAILY 
+15. calcium carbonate-vitamin D3 600 mg(1,500mg) -400 unit oral 
+DAILY 
+16. Vitamin D 1000 UNIT PO BID 
+17. Ferrous Sulfate 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY  
+2.  Docusate Sodium 100 mg PO BID  
+3.  LevETIRAcetam 750 mg PO Q12H  
+4.  Metoprolol Tartrate 75 mg PO Q6H  
+5.  ___ ___ UNIT PO Q8H  
+6.  QUEtiapine Fumarate 25 mg PO DAILY:PRN agitation  
+7.  Valproic Acid ___ mg PO TID  
+8.  Tacrolimus 3.5 mg PO Q12H  
+9.  Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheeze  
+10.  Allopurinol ___ mg PO DAILY  
+11.  Aspirin 325 mg PO DAILY  
+12.  Atorvastatin 80 mg PO QPM  
+13.  calcium carbonate-vitamin D3 600 mg(1,500mg) -400 unit oral 
+DAILY  
+14.  Ferrous Sulfate 325 mg PO DAILY  
+15.  Finasteride 5 mg PO DAILY  
+16.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+17.  leflunomide 30 mg oral DAILY  
+18.  Multivitamins 1 TAB PO DAILY  
+19.  omeprazole 20 mg oral DAILY  
+20.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY  
+21.  Tamsulosin 0.4 mg PO QHS  
+22.  Vitamin D 1000 UNIT PO BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Seizure
+Hypernatremia
+Klebsiella Urinary Tract Infection
+Delirium
+New onset Afib
+Demand NSTEMI
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the Neurology Service after you had 
+increased seizure activity in the setting of a urinary tract 
+infection.  Given your history of a kidney transplant, you 
+required 14 days of antibiotics for your Urinary tract 
+infection.  During your hospital stay, you also had electrolyte 
+abnormalities that were corrected with IV fluids and free water 
+boluses via your NG tube.  You required an NG tube until ___ 
+because you were unable to tolerate taking food or drink by 
+mouth due to increased risk of aspiration.  You had a video 
+swallow study on ___ that cleared you to take food by mouth.  
+You were maintained on Keppra and Depakote for seizure control 
+with good effect.
+
+Thank you for allowing us to participate in your care,
+___ Neurology
+ 
+Followup Instructions:
+___

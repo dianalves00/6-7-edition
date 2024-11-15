@@ -1,0 +1,395 @@
+ 
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Lisinopril / Shellfish Derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+Paracentesis, omental biopsy, EGD and stomach tumor biopsy
+
+ 
+History of Present Illness:
+A ___ female with PMH of HTN, A-flutter was recently 
+hospitalized ___ to ___ for abdominal pain, 
+constipation, and large ascites with omental caking on a CT scan 
+of the abdomen.  Her ascites fluid was collected and the 
+preliminary cytology results show MALIGNANT CELLS CONSISTENT 
+WITH ADENOCARCINOMA.  After she improved, she was discharged 
+from the hospital.  However, about ___ hours ago, she had a 
+sudden onset of right side of intermittent abd pain, which was 
+cramps in nature and ___ in intensity.  She could not 
+identify any modifying the factors.  There was no triggers or 
+precipitants either.  She also reported that she has had not 
+moved her bowel s for the past ___ days.  She has even  had not 
+passing gas for the past ___ days. She had significant belching 
+with no N/V.  she also complained of heartburn and reflux with 
+no dysphagia or odynophagia.  She also noticed that her abd was 
+more bloating than before.  Her weight has been stable. 
+
+In ED, pt received Vanco and Zosyn for a possible abd wall 
+cellulitis. 
+
+Review of Systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies blurry vision, diplopia, loss of vision, 
+photophobia. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies chest pain or tightness, palpitations, lower 
+extremity edema. Denies cough, shortness of breath, or wheezes. 
+Denies nausea, vomiting,  melena, hematemesis, hematochezia. 
+Denies dysuria, stool or urine incontinence. Denies arthralgias 
+or myalgias. Denies rashes or skin breakdown. No 
+numbness/tingling in extremities. All other systems negative.
+
+ 
+Past Medical History:
+Hyperlipidemia
+Hypertension
+Atrial flutter
+Ocular hypertension
+ 
+Social History:
+___
+Family History:
+There is no family history of premature coronary artery disease 
+or sudden death.  Granddaughter died of colon cancer last year 
+___ years old)
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+.
+VS:98.8 86 129/61 16 99% 
+GEN: Elderly woman in NAD, awake, alert  
+HEENT: EOMI, sclera anicteric, conjunctivae clear, OP moist and 
+without lesion
+NECK: Supple, no JVD  
+CV: irrgular rate, normal S1, S2. No m/r/g.   
+CHEST: Resp unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABD: mildly distended, there was tenderness on her right side of 
+abd with no rebound tenderness.  There was a possible mass on 
+the RLQ abd.  BS was hyperactive.  + ascites.  
+MSK: normal muscle tone and bulk
+EXT: No c/c/e, 2+ ___ bilaterally
+SKIN: No rash, warm skin
+NEURO: oriented x 3, normal attention, CN II-XII intact, except 
+for ptosis on R (old), ___ strength throughout, intact sensation 
+
+to light touch, not able to ambulate due to pain
+PSYCH: appropriate
+.
+DISCHARGE PHYSICAL EXAM:
+.
+VS:97.3 110/60 61 16 99% RA 
+GEN: Elderly woman in NAD, awake, alert  
+HEENT: EOMI, sclera anicteric, conjunctivae clear, OP moist and 
+without lesion
+NECK: Supple, no JVD  
+CV: RRR, normal S1, S2. No m/r/g.   
+CHEST: Resp unlabored, no accessory muscle use. CTAB, no 
+crackles, wheezes or rhonchi.  
+ABD: Moderately distended but not tense, no tenderness or 
+rebound.  Two ~1cm areas of induration at site of prior 
+paracenteses which are non-erythematous, non-warm, not 
+fluctuant, or particularly tender. Normal BS.  
+MSK: normal muscle tone and bulk
+EXT: No c/c/e, 2+ ___ bilaterally
+SKIN: No rash, warm skin
+NEURO: oriented x 3, normal attention, CN II-XII intact, except 
+for ptosis on R (old), ___ strength throughout, intact sensation 
+
+to light touch, not able to ambulate due to pain
+PSYCH: appropriate
+ 
+Pertinent Results:
+ADMISSION LABS:
+.
+___ 01:11AM   LACTATE-1.0
+___ 12:46AM OTHER BODY FLUID  TOT PROT-4.0
+___ 12:46AM OTHER BODY FLUID  ___ RBC-4175*
+___ 09:10PM   GLUCOSE-105* UREA N-7 CREAT-0.5 SODIUM-126* 
+POTASSIUM-3.1* CHLORIDE-86* TOTAL CO2-30 ANION GAP-13
+___ 09:10PM   estGFR-Using this
+___ 09:10PM URINE  HOURS-RANDOM
+___ 09:10PM URINE  GR HOLD-HOLD
+___ 09:10PM   WBC-8.3# RBC-4.98 HGB-13.7 HCT-39.9 MCV-80* 
+MCH-27.6 MCHC-34.4 RDW-13.8
+___ 09:10PM   NEUTS-77.6* LYMPHS-13.4* MONOS-7.5 EOS-0.9 
+BASOS-0.5
+___ 09:10PM   PLT COUNT-339
+___ 09:10PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+.
+PERTINENT LABS:
+.
+___ 06:50AM BLOOD Glucose-111* UreaN-6 Creat-0.5 Na-125* 
+K-3.0* Cl-86* HCO3-32 AnGap-10
+___ 06:50AM BLOOD TSH-3.6
+___ 06:40AM BLOOD Osmolal-263*
+___ 02:16AM URINE Osmolal-403
+___ 09:10PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM 
+___ 12:46AM OTHER BODY FLUID ___ RBC-4175* Polys-17* 
+Lymphs-25* Monos-0 Eos-5* Mesothe-13* Macro-37* Other-3*
+___ 02:16AM URINE Hours-RANDOM Creat-48 Na-108 K-25 Cl-125
+___ 11:31PM URINE Hours-RANDOM Creat-26 Na-13 K-24 Cl-24
+.
+DISCHARGE LABS:
+.
+___ 07:16AM BLOOD WBC-6.1 RBC-4.16* Hgb-11.8* Hct-34.4* 
+MCV-83 MCH-28.3 MCHC-34.2 RDW-14.0 Plt ___
+___ 07:16AM BLOOD Plt ___
+___ 07:16AM BLOOD Glucose-110* UreaN-5* Creat-0.4 Na-129* 
+K-3.8 Cl-92* HCO3-29 AnGap-12
+___ 07:16AM BLOOD ALT-11 AST-16 LD(LDH)-123 AlkPhos-50 
+TotBili-0.3
+___ 07:16AM BLOOD Albumin-3.0* Calcium-8.4 Phos-3.3 Mg-1.7
+.
+MICRO/PATH:
+.
+Peritoneal Fluid ___:
+GRAM STAIN (Final ___: 
+2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR LEUKOCYTES. 
+NO MICROORGANISMS SEEN. 
+FLUID CULTURE (Final ___:    NO GROWTH. 
+ANAEROBIC CULTURE (Final ___:    NO GROWTH.
+.
+Blood Cultures ___: Negative x 2
+.
+Omental cake, biopsy (A) ___: 
+Metastatic adenocarcinoma, see note. 
+Note:  The tumor is poorly differentiated with signet ring 
+morphology. Tumor cells are negative for ER, PR, WT1 (staining 
+in stroma and mesothelial cells only) and CDX-2.  Likely primary 
+site include gastrointestinal tract or possibly ovary.
+.
+Gastric body mass, biopsies ___: 
+Poorly differentiated adenocarcinoma with signet ring cells.
+.
+IMAGING:
+.
+CT of abd (___):
+Large ascites and omental caking/peritoneal implants raise 
+concern 
+for malignany, possibly due to colonic primary given eccentric 
+wall thickening in the transverse colon. The rectum and sigmoid 
+colon are normal. The uterus is grossly  normal with numerous 
+collaterals and a distended left ovarian vein. There is no 
+pelvic or inguinal lymphadenopathy. The ovaries appear normal 
+with a focal calcification in the right ovary
+.
+CT Abd/Pelv ___:
+IMPRESSION: 
+1. Large volume ascites with omental and peritoneal implants 
+compatible with malignancy. 
+2. New loculated fluid collection within the right anterior 
+abdominal wall with adjacent stranding may relate to recent 
+paracentesis and given the adjacent inflammation, superimposed 
+infection cannot be excluded. 
+3. Focal clot within a left gonadal vein.
+. 
+ 
+Brief Hospital Course:
+___ female with PMH of HTN, A-flutter, with recently  
+diagnosed malignant ascites with adenocarcinoma cells (of 
+unknown primary) with CT demonstrating peritoneal implants and 
+transverse colon thickening. Transvaginal ultrasound unable to 
+identify ovaries due to excess ascitic fluid. She now presents 
+with a sudden onset of right sided abdominal 
+pain/constipation/obstipation, and dx paracentesis suggestive of 
+SBP.  
+.
+Active Diagnoses:
+.
+#Stage IV Poorly Differentiated Gastric Adenocarcinoma with 
+signet ring features: Ms. ___ was admitted with abdominal 
+pain and constipation and found to have evidence of widely 
+metastatic adenocarcinoma of unknown primary throughout her 
+peritoneum. Differential diagnosis included colonic despite 
+negative colonoscopy, ovarian (given poor visualization by 
+vaginal ultrasound), primary peritoneal, or upper GI source. An 
+___ biopsy taken from omental caking was positive for 
+adenocarcinoma (confirming ascitic fluid cytology results). 
+Given the patient's significant history of gastritis, EGD was 
+performed which showed larged gastric tumor which was biopsied 
+with pathology significant for poorly differentiated gastric 
+adenocarcinoma with signet ring features. She was discharged 
+with outpatient follow-up with Dr. ___ futher management 
+of her malignancy.
+.
+#Malignant Ascites/Abdominal Pain/Obstipation: On admission Ms. 
+___ complained of abdominal pain and lack of BM's or flatus 
+for several days which raised concern for SBO despite lack of 
+SBO on CT abdomen performed in ED. She was also found to have 
+tense ascites and underwent diagnostic paracentesis in the ED 
+which showed ascitic fluid which a high white count and >250 
+poly's despite being lymphocyte predominant which raised concern 
+for bacterial peritonitis from paracentesis performed during 
+prior admission. She was also found to have a loculated 
+abdominal wall mass at the site of her prior paracentesis. She 
+was afebrile, alert and oriented, and did not have diffuse 
+abdominal tenderness on exam. Additionally, the site of her 
+loculated fluid collection was not particularly warm, 
+erythematous, tender, or fluctuant. She was started on IV 
+ceftriaxone emprirically pending culture results of her dx para 
+fluid and ceftriaxone was d/c'd when her cultures came back 
+negative. She underwent therapeutic paracentesis which removed 
+~1.5L of fluid and greatly improved her abdominal discomfort and 
+constipation. She was also given an aggressive bowel regimen and 
+was able to pass BM's and flatus frequently.  
+.  
+# Hx of Aflutter: Per Dr. ___ had one known episode of 
+aflutter while previously hospitalized and is not currently in 
+aflutter and probably hasn't been since. As a result, it was 
+determined that she did not require anticoagulation as her risk 
+for bleeding was thought to outweigh her risk for cardioembolic 
+event. Her home warfarin was d/c'd and she was given instruction 
+to follow-up with her outpatient providers for further 
+discussion of this issue.  
+.  
+#Hyponatremia/Hypokalemia: This was a new finding for this 
+patient with a Na of 129. It remained stable after placing her 
+on a 1.2L fluid restriction.  
+.
+Chronic Diagnoses: 
+.
+# Heartburn: Stable, likely related to or contributing to 
+formation of her gastric cancer. She was treated symptomatically 
+with pantoprazole, maalox, and tums  
+.
+Transitional Issues: Ms. ___ was discharged with close 
+follow-up with Dr. ___ continued outpatient management 
+of her newly diagnosed gastric cancer. She was also advised to 
+discuss the discontinuation of her warfarin with her PCP.
+ 
+Medications on Admission:
+Timolol 0.5 % Eye Drops one drop bid ___ per ___, MD here 
+for pt record
+ 
+Pravastatin 40 mg Tab 1 Tablet(s) by mouth daily
+   
+Triamcinolone Acetonide 0.1 % Ointment Apply to affeceted area 
+twice a day
+   
+Hydrochlorothiazide 25 mg Tab 1 Tablet(s) by mouth daily
+   
+omeprazole 20 mg Cap, Delayed Release 1 Capsule(s) by mouth 
+daily
+   
+Warfarin 5 mg Tab 2 Tablet(s) by mouth daily
+
+   
+Amlodipine 10 mg Tab 1 Tablet(s) by mouth daily
+ 
+
+ 
+Discharge Medications:
+1. amlodipine 5 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily).  
+
+2. omeprazole 40 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+3. timolol maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic BID 
+(2 times a day).  
+4. pravastatin 20 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+5. calcium carbonate 200 mg calcium (500 mg) Tablet, Chewable 
+Sig: One (1) Tablet, Chewable PO QID (4 times a day) as needed 
+for heartburn.
+Disp:*1 pack* Refills:*0*
+6. acetaminophen 500 mg Tablet Sig: One (1) Tablet PO every six 
+(6) hours as needed for pain.
+Disp:*1 bottle* Refills:*0*
+7. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*1 bottle* Refills:*0*
+8. senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day) as needed for constipation.
+Disp:*1 bottle* Refills:*0*
+9. alum-mag hydroxide-simeth 200-200-20 mg/5 mL Suspension Sig: 
+___ MLs PO QID (4 times a day) as needed for stomach ache.
+Disp:*1 bottle* Refills:*0*
+10. prochlorperazine maleate 5 mg Tablet Sig: ___ Tablets PO 
+every eight (8) hours as needed for nausea.
+Disp:*20 Tablet(s)* Refills:*0*
+11. oxycodone 5 mg Tablet Sig: One (1) Tablet PO every four (4) 
+hours as needed for pain: Hold for sedation or slow breathing.
+Disp:*20 Tablet(s)* Refills:*0*
+12. triamcinolone acetonide 0.1 % Ointment Sig: One (1) 
+application Topical twice a day: Apply to affected areas twice 
+daily.  
+13. hydrochlorothiazide 25 mg Tablet Sig: One (1) Tablet PO once 
+a day.  
+14. Miralax 17 gram Powder in Packet Sig: One (1)  PO once a day 
+as needed for constipation.
+Disp:*1 package* Refills:*0*
+15. Dulcolax 10 mg Suppository Sig: One (1)  Rectal once a day 
+as needed for constipation.
+Disp:*1 package* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Presumptive metastatic stomach cancer
+Recurrent malignant ascites
+Hyponatremia (as a result of malignant ascities)
+
+Seconary:
+Remote hx of atrial flutter (previously on warfarin)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mrs. ___,
+
+___ was a pleasure caring for you. You were admitted with 
+abdominal pain and constipation. We did a paracentesis to drain 
+fluid from your belly and your symptoms improved. You were 
+treated briefly with IV antibiotics for concern of an infection 
+of the fluid in your belly but the cultures of that fluid did 
+not grow bacteria.  We performed an omental biopsy and then an 
+EGD study with biopsies of a stomach tumor. You are being 
+discharged home with a follow-up appointment on ___ with Dr. 
+___ in clinic.  
+.
+We made the following changes to your medications:
+-STOP Warfarin
+-INCREASE Omeprazole to 40mg PO daily
+-START Calcium carbonate 500mg tabs by mouth 4 times a day as 
+needed for heartburn
+-START Maalox ___ by mouth as needed for heartburn
+-START Tylenol ___ by mouth every 6 hours as needed for pain
+-START Oxycodone 5mg by mouth every 4 hours as needed for pain
+-START Compazine 5mg ___ by mouth every 8 hours as needed for 
+nausea
+-START Colace 100mg by mouth twice daily
+-START Senna 2 tabs by mouth twice daily as needed for 
+constipation
+-START Miralax 15ml by mouth daily as needed for constipation
+-START Dulcolax 10mg suppository once daily as needed for 
+conspitation
+.
+Please see below for your upcoming appointments. We hope you 
+have a speedy recovery and enjoy your birthday party. Please 
+discuss with your primary care doctor (___) the issue of 
+your heart and warfarin. 
+ 
+Followup Instructions:
+___

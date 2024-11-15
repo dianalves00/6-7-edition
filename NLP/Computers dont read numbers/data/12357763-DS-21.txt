@@ -1,0 +1,315 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+S/p fall  
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with history of dementia who presents after 
+fall with neck pain. At approximately 10am, the patient was 
+found on the ground after fall from the standing position in the 
+bathroom. It was not known how long she was down. The patient 
+was found to be ambulatory on the scene, but about four hours 
+later began to complain of neck and right hip pain. She had a 
+portable x-ray performed which was concerning for a possible 
+C4-5 fracture. The patient was immobilized and brought in via 
+EMS. The patient denies numbness, tingling or weakness in any of 
+her extremities. She denies saddle anesthesia, bowel/bladder 
+incontinence, and denies pain anywhere.  
+
+In the ED, initial vital signs were 98, 68, 197/75, 16, 100% RA. 
+Labs demonstrated a mild leukocytosis to 15.8k, unremarkable 
+chem-7, and mildly elevated CK 496. A UA had small 
+leukoesterase, 6 WBC, and few bacteria. A CT C-spine 
+demonstrated spinous process fractures of C2 through C6. A CXR, 
+XR hip, and CT head were without acute process.  
+The patient was seen by Spine who recommended immobility and MRI 
+to further assess the fractures; they had no concern for acute 
+neurologic involvement.
+On the floor, the patient denies pain and is in no acute 
+distress.  
+
+Review of Systems:  
+(+) per HPI  
+(-) fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+ 
+Past Medical History:
+-Hypertension  
+-Dementia  
+-GERD  
+-Coronary artery disease (MI ___ yrs ago)  
+-Basal cell carcinoma  
+-Anxiety  
+-Insomnia  
+
+ 
+Social History:
+___
+Family History:
+Unable to ascertain from the patient given dementia.  
+
+ 
+Physical Exam:
+ON ADMISSION:
+============================
+VS: 98.2, 147/66, 71, 20, 97RA  
+GENERAL: lying flat in bed in no acute distress  
+HEENT: MMM, poor dentition  
+NECK: Supple, cervical collar in place  
+CARDIAC: RRR, (+)S1/S2 with SEM greatest at apex, though 
+radiating to left carotids  
+LUNG: Generally CTA on anterior exam  
+ABDOMEN: Soft, non-tender, non-distended  
+EXTREMITIES: Warm, well-perfused, no lower extremity edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact by testing, strength in ___ extremities 
+intact and equal, sensation intact and equal  
+SKIN: Warm, well-perfused, no edema  
+
+ON DISCHARGE:
+============================
+VS: 97.9, 152/74, 61, 18, 96RA 
+I/O: 1000/125+incontinent
+GENERAL: Alert, oriented x 1 (thinks she is at MIT, ___.
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+NECK: ___ J collar in place.
+RESP: Clear to auscultation anteriorly. 
+CV: RRR, Nl S1, S2, ___ systolic murmur loudest at ULSB.
+ABD: +BS, soft, nondistended, nontender to palpation.
+GU: no foley
+EXT: Warm, well perfused, 2+ pulses, no edema  
+NEURO: CNs2-12 intact, motor function grossly normal.
+SKIN: No excoriations or rash.
+ 
+Pertinent Results:
+ON ADMISSION:
+============================
+___ 06:35PM BLOOD WBC-15.8* RBC-5.17 Hgb-14.5 Hct-42.9 
+MCV-83 MCH-28.1 MCHC-33.9 RDW-14.3 Plt ___
+___ 06:35PM BLOOD Glucose-105* UreaN-22* Creat-0.9 Na-141 
+K-4.8 Cl-107 HCO3-20* AnGap-19
+___ 06:35PM BLOOD CK(CPK)-496*
+
+ON DISCHARGE:
+===========================
+___ 06:05AM BLOOD WBC-12.1* RBC-4.92 Hgb-14.1 Hct-41.4 
+MCV-84 MCH-28.7 MCHC-34.1 RDW-13.9 Plt ___
+___ 06:05AM BLOOD Glucose-119* UreaN-26* Creat-0.8 Na-141 
+K-3.9 Cl-109* HCO3-21* AnGap-15
+___ 06:05AM BLOOD Calcium-9.5 Phos-2.5* Mg-2.0
+
+MISCELLANEOUS LABS:
+============================
+___ 06:41AM BLOOD VitB12-418
+___ 06:41AM BLOOD TSH-2.8
+
+MICROBIOLOGY:
+===========================
+URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+STUDIES:
+===========================
+CT C-SPINE (___)
+Spinous process fractures from C2 through C6. Further imaging 
+with MRI is recommended to evaluate for additional ligamentous 
+injury.
+
+CT HEAD W/O CONTRAST (___)
+1. No evidence of acute intracranial abnormality. 
+2. Periapical lucency surrounding a posterior left maxillary 
+tooth. 
+
+PELVIC XR (___)
+No fracture or dislocation. Mild degenerative changes in the 
+hips.
+
+CXR (___)
+No acute intrathoracic process.
+
+ECHO (___)
+The left atrium and right atrium are normal in cavity size. No 
+atrial septal defect is seen by 2D or color Doppler. The 
+estimated right atrial pressure is ___ mmHg. There is mild 
+symmetric left ventricular hypertrophy with normal cavity size 
+and regional/global systolic function (LVEF>65%). Tissue Doppler 
+imaging suggests an increased left ventricular filling pressure 
+(PCWP>18mmHg). Right ventricular chamber size and free wall 
+motion are normal. The aortic valve leaflets are moderately 
+thickened. There is mild aortic valve stenosis. No aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. An eccentric, 
+laterally directed jet of mild to moderate (___) mitral 
+regurgitation is seen. [Due to acoustic shadowing, the severity 
+of mitral regurgitation may be significantly UNDERestimated.] 
+The estimated pulmonary artery systolic pressure is normal. 
+There is no pericardial effusion. 
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved regional and global biventricular systolic function. 
+Mild aortic valve stenosis. Mild-moderate mitral regurgitation. 
+Increased PCWP. 
+
+MRI C-SPINE
+1. Interspinous soft tissue edema in association with the 
+previously described C2 through C6 fractures without evidence of 
+ligamentum flavum disruption. Presumably, the anterior portion 
+of the interspinous ligaments are intact. 
+2. Increased T2/STIR signal within the T1 and T2 vertebral 
+bodies could represent nondisplaced acute or subacute fractures 
+although there is no evidence of retropulsion or spinal canal 
+narrowing. 
+3. No evidence of epidural hematoma or spinal cord compression. 
+4. Multilevel cervical spondylosis, greatest at the C3-C4 and 
+C4-C5 levels, as described. 
+ 
+Brief Hospital Course:
+___ with history of dementia who presents from nursing home 
+after fall from standing, and found to have multiple cervical 
+spinal process fractures, admitted for further evaluation and 
+management.  
+
+# CERVICAL SPINOUS PROCESS FRACTURES: The patient was found to 
+have fractures of multiple spinous processes without loss of 
+vertebral height or displacement. MRI C-spine confirmed 
+fractures without disruption of ligaments. She did not have any 
+neurologic deficits. Ortho-Spine recommended non-surgical 
+management. She will need to wear a ___ J collar at all times 
+for ___ weeks. Her pain was controlled with standing Tylenol and 
+Tramadol PRN. She will follow up with Ortho-Spine in ___ weeks 
+after discharge. 
+ 
+# FALL VERSUS SYNCOPE: The patient reportedly fell from standing 
+position while in the bathroom. As the patient was unable to 
+provide an accurate history, it is unclear if this was a 
+mechanical fall or syncopal episode. Telemetry was notable for 
+sinus bradycardia (HR ___. She also had prolonging P-P 
+intervals, long PR intervals with occasional 2nd degree type 1 
+AV block and intermittent high-grade AV block with pauses as 
+long as 7s. The pauses only occurred in the early morning. These 
+findings are most consistent with increased vagal tone. It was 
+reasoned that these pauses occurred while the patient was 
+sleeping as she had no further pauses during the daytime. Her 
+heart rate increased appropriately when she worked with physical 
+therapy.  She was evaluated by EP and they did NOT recommend PPM 
+placement.  Echocardiogram was notable for mild AS, which is 
+likely insufficient to cause syncope. Due to concerns for 
+hypotension, nifedipine was discontinued. She was started on 
+lisinopril, which may be uptitrated as an outpatient. 
+
+# HYPERTENSION: Nifedipine was held during admission due to 
+concern for hypotension causing syncope. Due to elevated blood 
+pressures, she was started on lisinopril, which may be 
+uptitrated as an outpatient.
+  
+# DEMENTIA:  Per son, the patient has mild cognitive impairment, 
+which worsened 6 months ago. Despite dementia, she is quite 
+functional and lives in an assisted living facility. During this 
+admission she was oriented to name, and occasionally to place. 
+She was continued on donepezil. Delirium precautions were 
+continued. 
+
+# CAD: She was continued on home aspirin.
+
+# GERD: Continued home omeprazole.
+
+# Depression: Continue home paroxetine. 
+
+TRANSITIONAL ISSUES:
+- Follow up with Ortho Spine in ___ weeks after discharge.
+- The patient will be required to wear ___ J collar at all 
+times except for bathing. Expected length of therapy will be ___ 
+weeks.
+- Patient found to have dental caries on head CT.
+- Should patient continue to have AV block causing syncope, 
+consider PPM.
+- Contact information: ___ (___) ___, 
+___ 
+- Code status: Full code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Donepezil 10 mg PO QHS 
+3. Hydrocortisone Cream 2.5% 1 Appl TP BID 
+4. mupirocin calcium 2 % topical Daily 
+5. Nifedical XL (NIFEdipine) 60 mg oral qhs 
+6. Omeprazole 20 mg PO DAILY 
+7. Acetaminophen 500 mg PO Q8H:PRN pain 
+8. Paroxetine 20 mg PO DAILY 
+9. Vitamin D 1000 UNIT PO DAILY 
+10. Zolpidem Tartrate 5 mg PO QHS 
+
+ 
+Discharge Medications:
+1. Acetaminophen 500 mg PO Q8H:PRN pain 
+2. Aspirin 81 mg PO DAILY 
+3. Donepezil 10 mg PO QHS 
+4. Omeprazole 20 mg PO DAILY 
+5. Paroxetine 20 mg PO DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Lisinopril 2.5 mg PO DAILY 
+8. TraMADOL (Ultram) 25 mg PO Q4H:PRN pain 
+9. mupirocin calcium 2 % topical Daily 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+C2-C6 fracture
+Sinus bradycardia with intermittent AV block
+
+SECONDARY DIAGNOSIS:
+Hypertension 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___ 
+___. You were admitted after a fall. You were found 
+to have fractures of several bones in your neck. The orthopedic 
+spine doctors saw ___, and recommend you wear a neck brace for 
+the next ___ weeks. We monitored your heart rhythm during your 
+hospitalization. The cardiac monitor showed pauses, though these 
+occurred while you were sleeping and likely did not contribute 
+to your fall. We are glad you are feeling better and we wish you 
+the best.
+
+Your ___ team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,178 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Invasive adenocarcinoma of mid-ascending colon
+ 
+Major Surgical or Invasive Procedure:
+Larposcopically assisted right colectomy
+ 
+History of Present Illness:
+Mr. ___ reports having heartburn and stools mixed with blood 
+beginning about 1 month ago after a medication change in ___.  
+He presented to PCP who sent him for EGD and colonoscopy.  EGD 
+was unremarkable but colonoscopy revealed an infiltrative and 
+ulcerated 2 cm mass of malignant appearance was found in the 
+mid-ascending colon. Biopsy revealed low-grade invasie 
+adenocarcinoma.  Patient was referred to Dr. ___ office 
+in consultation for hemicolectomy.  
+ 
+Past Medical History:
+Hypertension, hyperlipidemia, Afib on coumadin, invasive 
+adenocarcinoma of mid-ascending colon
+
+ 
+Social History:
+___
+Family History:
+No family history of colon cancer or heart disease.  
+ 
+Physical Exam:
+On Discharge: 
+Vitals: 100.1   97.8   82   142/84   18   94-RA
+GEN: NAD
+HEENT: op clear, mmm
+CV: rrr, s1/s2
+PULM: inspiratory wheezes R>L
+ABD: mild distension, s/nt; incisions without evidence of 
+infection
+EXT: warm/dry
+ 
+Pertinent Results:
+___ 06:55AM BLOOD WBC-11.3*# RBC-3.82* Hgb-10.8* Hct-32.1* 
+MCV-84 MCH-28.3 MCHC-33.7 RDW-13.1 Plt ___
+___ 09:20AM BLOOD WBC-9.3 RBC-3.96* Hgb-11.2* Hct-33.9* 
+MCV-86 MCH-28.3 MCHC-33.0 RDW-13.0 Plt ___
+___ 06:55AM BLOOD Glucose-90 UreaN-14 Creat-1.1 Na-141 
+K-4.2 Cl-105 HCO___-26 AnGap-14
+___ 06:05AM BLOOD Glucose-111* UreaN-12 Creat-0.8 Na-138 
+K-4.2 Cl-104 HCO3-24 AnGap-14
+
+___, Pathology:
+Pending at time of discharge
+ 
+Brief Hospital Course:
+On ___, the patient underwent a laproscopic assisted right 
+colectomy, which went well without complication (reader referred 
+to the Operative Note for details). After a brief, uneventful 
+stay in the PACU, the patient arrived on the floor NPO, on IV 
+fluids, with a foley catheter, and IV dilaudid for pain control. 
+ The patient was hemodynamically stable.
+Neuro: The patient received IV dilaudid and toradol with good 
+effect and adequate pain control.  When tolerating oral intake, 
+the patient was transitioned to oral tylenol and oxycodone.
+CV: The patient remained stable from a cardiovascular 
+standpoint; vital signs were routinely monitored.
+Pulmonary: Patient presented preoperatively with an upper 
+respiratory tract infection.  Patient continued to have coarse 
+crackles post operatively.  Vital signs were routinely 
+monitored. Good pulmonary toilet, early ambulation and incentive 
+spirrometry were encouraged throughout hospitalization.  Patient 
+received albuterol nebulizer with good effect.  
+GI/GU/FEN: Post-operatively, the patient was made NPO with IV 
+fluids. On POD 1 patient's urine output decreaesd and was given 
+500ml bolus.  Urine continued to lag and fell below 30ml over 4 
+hours.  Patient was bolused 1000ml and urine output increased to 
+30 and 35ml over the next 2 hours.  IVF were increased and 
+adequate urine output continued.  Patient's IV was hep locked 
+and urine output continued at adequate rate.  Diet was advanced 
+when appropriate, which was well tolerated.  Patient's intake 
+and output were closely monitored.  Electrolytes were routinely 
+followed, and repleted when necessary.
+ID: The patient's white blood count and fever curves were 
+closely watched for signs of infection.  Incisions remained 
+clean, dry and intact.   
+Endocrine: The patient's blood sugar was monitored throughout 
+his stay; insulin dosing was adjusted accordingly.
+Hematology: The patient's complete blood count was examined 
+routinely; no transfusions were required. Coumadin for a-fib was 
+to be restarted upon discharge.
+Prophylaxis: The patient received subcutaneous heparin and 
+venodyne boots were used during this stay; was encouraged to get 
+up and ambulate as early as possible.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan.
+ 
+Medications on Admission:
+finasteride 5', olmesartan-hcthz 40-12.5', simvastain 20', 
+terazosin 10', warfarin 5'
+ 
+Discharge Medications:
+1. acetaminophen 500 mg Tablet Sig: ___ Tablets PO TID (3 times 
+a day) as needed for fever or pain.
+Disp:*30 Tablet(s)* Refills:*1*
+2. finasteride 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+4. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for pain.
+Disp:*30 Tablet(s)* Refills:*0*
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.
+Disp:*30 Capsule(s)* Refills:*0*
+6. warfarin 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. terazosin 10 mg Capsule Sig: One (1) Capsule PO once a day.  
+8. olmesartan-hydrochlorothiazide 40-12.5 mg Tablet Sig: One (1) 
+Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Invasive adenocarcinoma of mid-ascending colon.  
+Postoperative hypovolemia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Please follow up with your PCP and ___ clinic regarding 
+your coumadin level (your INR).
+
+It was a pleasure to take care of you during your stay at ___. 
+
+Please resume all regular home medications, including coumadin 
+(warfarin).  Also, please take any new medications as 
+prescribed.
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+Avoid driving or operating heavy machinery while taking pain 
+medications.
+Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+Incision Care:
+*Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+*Avoid swimming and baths until your follow-up appointment.
+*You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+*Your steri-strips will fall off on their own.  Please remove 
+any remaining strips ___ days after surgery.
+ 
+Followup Instructions:
+___

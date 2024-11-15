@@ -1,0 +1,386 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Iodine / fluoxetine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea, acute CHF exacerbation
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mrs. ___ is a ___ y/o F with a PMH of ILD, PE on warfarin, 
+and elevated ___, presenting with worsening DOE and ___ edema 
+over the past 3 weeks. The patient originally presented for hip 
+pain to ___. She was found to have respiratory distress 
+which she noted has been worsening over the last few weeks. 
+During a recent visit to her PCP ___ ___ the patient was noted 
+to have mild tachypnea despite her weight being "under her 
+baseline" at 218Lbs. She was switched from torsemide 80mg to 
+Bumex 2mg for her fluid overload ___ to presumed pulmonary 
+hypertension. When she arrived at outside hospital they 
+initially gave 500 cc of fluid, asa 325mg and heparin given 
+elevated troponin and tachypnea for presumed NSTEMI. The patient 
+had an xray and was transferred to ___ for management 
+of a presumed CHF exaccerbation. Prior to leaving ___ it 
+was reported that the patient diuresed approximately 1500cc 
+wihtout active diuresis.  
+ 
+On arrival to the ED in ___ the patient continued to complain 
+of chronic hip pain and remained dyspnic. Patient's initial 
+vitals were 97.9 105 109/70 26 96% bipap. Patient noted to have 
+increased intersitial edema noted on CXR and prominent pulmonary 
+vasculature markings. She was given 40mg of IV Lasix x2 in the 
+ED. The patient also had a full set of labs showing a trop of 
+0.21, WBC of 11.7, INR of 1.5 (patient holding warfarin for 
+procedure for hip pain) and proBNP of 4442. Her lactate notably 
+decreased from 4 to 1.7 after transfer from the OSH. Given 
+continued respiratory distress and signs of fluid overload the 
+patient was evaluated by the at___ cardiology and cardiology 
+fellow for admission to the CCU. 
+
+On arrival to the CCU, the patient reports shortness of breath 
+and pain in her hip. The patient also reported being tired since 
+she has been unable to get any sleep throughout the night.
+ 
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+-diastolic CHF with EF 75%  
+-pulmonary HTN 
+-Interstitial lung disease. No biopsy, but pulmonary notes 
+indicate that imaging is most consistent w/ NSIP, not IPF.
+-Elevated ___ (1:1280) in ___: Patient has declined further 
+work-up in the past
+-HTN 
+-Past TB exposure at ___ (former nurse); negative CXR, 
+INH for one year per protocol
+-Chronic Venous stasis
+-Cataracts: S/p cataract surgery
+-Astigmatism
+-s/p TAH
+-s/p tonsillectomy
+-s/p appendectomy
+
+ 
+Social History:
+___
+Family History:
+- Sister: breast cancer in her ___
+- Niece (sister's daughter): breast cancer in her ___
+- Niece (sister's other daughter): lung cancer in her ___ 
+non-smoker
+- No significant FHx of CAD.
+- No FHx clotting disorders or autoimmune disorders.
+ 
+Physical Exam:
+===============
+ADMISSION EXAM:
+===============
+VS: per metavision
+Weight: 215lbs
+Tele: sinus rhythm
+General: AOX3, NAD
+HEENT: Normocephalic, Atraumatic, MMM
+Lungs: Fine crackles bilaterally to mid lung fields. 
+CV: JVP elevated to jaw, Nl S1/S2, soft systolic ejection murmur 
+heard at right ___ intercostal space 
+Abdomen: soft, non-tender, non-distended
+Ext: 3+ bilateral pitting edema at ankles extending up to sacrum
+Neuro: AOX3; patient sedated but responsive
+
+===============
+DISCHARGE EXAM:
+===============
+
+Vitals: Tm 98.2 BP 100s-130s/60s-80s  P ___ R ___ SatO2 
+95-100/2L
+General: AOX3, NAD, leaning over to the left side dozing off  
+Lungs: coarse crackles bilaterally  
+CV: unable to appreciate JVD, RR, ___ holosystolic murmur
+Abdomen: soft, non-tender, non-distended  
+Ext: 2+ bilateral pitting edema to the knees, trace edema above 
+the knees  
+
+ 
+Pertinent Results:
+===============
+ADMISSION LABS:
+===============
+___ 04:55PM   PTT-150*
+___ 03:30PM   TYPE-ART PO2-70* PCO2-36 PH-7.52* TOTAL 
+CO2-30 BASE XS-5 INTUBATED-NOT INTUBA COMMENTS-NASAL ___
+___ 03:30PM   O2 SAT-94
+___ 03:11PM   GLUCOSE-120* UREA N-13 CREAT-1.0 SODIUM-137 
+POTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-27 ANION GAP-15
+___ 03:11PM   CK(CPK)-65
+___ 03:11PM   CK-MB-2
+___ 03:11PM   CALCIUM-7.8* PHOSPHATE-2.7 MAGNESIUM-1.6
+___ 09:19AM   SODIUM-141 POTASSIUM-3.4 CHLORIDE-100
+___ 06:02AM   ___ TEMP-36.5 RATES-/35 O2-100 PO2-28* 
+PCO2-53* PH-7.40 TOTAL CO2-34* BASE XS-4 AADO2-634 REQ O2-100 
+INTUBATED-NOT INTUBA
+___ 06:02AM   LACTATE-1.9
+___ 05:51AM   GLUCOSE-112* UREA N-12 CREAT-1.2* SODIUM-138 
+POTASSIUM-5.5* CHLORIDE-99 TOTAL CO2-26 ANION GAP-19
+___ 05:51AM   CK(CPK)-101
+___ 05:51AM   CK-MB-3 cTropnT-0.14*
+___ 05:51AM   CALCIUM-7.9* PHOSPHATE-3.5 MAGNESIUM-1.8
+___ 05:51AM   WBC-9.7 RBC-3.40* HGB-10.8* HCT-32.8* MCV-97 
+MCH-31.8 MCHC-32.9 RDW-13.1 RDWSD-46.5*
+___ 05:51AM   PLT COUNT-195
+___ 05:51AM   ___ PTT-26.6 ___
+___ 05:28AM   VoidSpec-QNS NOTIFI
+___ 01:21AM   LACTATE-1.7
+___ 01:15AM   GLUCOSE-130* UREA N-11 CREAT-1.2* SODIUM-139 
+POTASSIUM-3.5 CHLORIDE-99 TOTAL CO2-27 ANION GAP-17
+___ 01:15AM   estGFR-Using this
+___ 01:15AM   cTropnT-0.21*
+___ 01:15AM   proBNP-4442*
+___ 01:15AM   CALCIUM-8.3* PHOSPHATE-3.1 MAGNESIUM-1.7
+___ 01:15AM   WBC-11.7* RBC-3.42* HGB-10.9* HCT-32.7* 
+MCV-96 MCH-31.9 MCHC-33.3 RDW-12.9 RDWSD-44.9
+___ 01:15AM   NEUTS-76.1* LYMPHS-13.8* MONOS-8.6 EOS-0.4* 
+BASOS-0.3 IM ___ AbsNeut-8.91* AbsLymp-1.61 AbsMono-1.01* 
+AbsEos-0.05 AbsBaso-0.03
+___ 01:15AM   PLT COUNT-214
+___ 01:15AM   ___ TO  PTT-UNABLE TO  ___ 
+TO 
+___ 01:14AM   O2 SAT-54
+
+==================
+PERTINENT RESULTS:
+==================
+
+TTE ___:
+Conclusions  
+The left atrium is elongated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. Due to 
+suboptimal technical quality, a focal wall motion abnormality 
+cannot be fully excluded. Left ventricular systolic function is 
+hyperdynamic (EF>75%). The estimated cardiac index is normal 
+(>=2.5L/min/m2). The aortic valve leaflets (3) are mildly 
+thickened. There is a minimally increased gradient consistent 
+with minimal aortic valve stenosis. Mild (1+) aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. There is no mitral valve prolapse. Trivial mitral 
+regurgitation is seen. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with normal chamber size and 
+hyperdynamic systolic function. Right ventricle not well see but 
+systolic function appears normal. Mild aortic regurgitation. 
+Mild to moderate tricuspid regurgitation with mild pulmonary 
+hypertension. 
+Compared with the prior study (images reviewed) of ___ the 
+apical windows on the current study are poor. There is slightly 
+more aortic regurgitation. Pulmonary artery pressures are lower 
+(but there were limited windows for interrogation so the current 
+study could have underestimated). Other findings are not 
+significantly changed.   
+
+CXR ___:
+Mild pulmonary edema superimposed on background interstitial 
+lung disease.
+
+CTA ___: 
+Pulmonary embolism in all 3 main lobar branches of the right 
+pulmonary artery as well as the main lobar branches supplying 
+the lingula and left upper lobe. 
+
+MRI Brain (___):
+1. No acute infarction or hemorrhage. 
+2. No significant abnormalities on MRA of the head although 
+slightly limited 
+by motion. 
+
+CT head (___):
+Mild brain atrophy and small vessel disease are identified.  No 
+hemorrhage 
+mass effect midline shift or hydrocephalus seen.  A tiny chronic 
+right 
+cerebellar infarct noted.  Bone images are unremarkable.  
+Visualized paranasal sinuses are clear. 
+
+===============
+DISCHARGE LABS:
+===============
+
+___ 05:35AM BLOOD WBC-14.3* RBC-3.73* Hgb-11.7 Hct-35.4 
+MCV-95 MCH-31.4 MCHC-33.1 RDW-13.4 RDWSD-46.5* Plt ___
+___ 06:00AM BLOOD Neuts-77.8* Lymphs-13.9* Monos-5.9 
+Eos-0.8* Baso-0.3 Im ___ AbsNeut-14.58*# AbsLymp-2.61 
+AbsMono-1.11* AbsEos-0.15 AbsBaso-0.06
+___ 05:35AM BLOOD Plt ___
+___ 05:35AM BLOOD ___ PTT-86.5* ___
+___ 05:35AM BLOOD Glucose-88 UreaN-35* Creat-1.2* Na-140 
+K-3.8 Cl-94* HCO3-31 AnGap-19
+___ 08:00AM BLOOD ALT-24 AST-27 AlkPhos-114* TotBili-0.4
+___ 05:35AM BLOOD Calcium-9.9 Phos-4.1 Mg-2.0
+___ 07:10PM BLOOD ___ pO2-47* pCO2-59* pH-7.38 
+calTCO2-36* Base XS-7 Comment-GREEN TOP
+ 
+Brief Hospital Course:
+Ms. ___ has a history CHF, PE, ILD presenting with CHF 
+exacerbation after having her home torsemide dose decreased to 
+40 mg. She was treated with a Lasix gtt and improved 
+symptomatically. She had a CTA chest that showed new b/l PEs in 
+the setting of holding her warfarin for an SI injection. She 
+also had episodes of decreased responsiveness and alertness that 
+were initially concerning for stroke. However, a stroke work-up 
+and Neurology evaluation revealed no evidence of stroke or 
+stroke deficits.
+
+ACUTE ISSUES:
+
+#) ACUTE DECOMPENSATED DIASTOLIC HEART FAILURE: 
+LVEF >75%% ___ to ILD and Pulmonary Hypertension. Pt with 
+subacute progression of dyspnea ___ heart failure with 
+underlying ILD and pulmonary HTN. Elevated troponin likely 
+secondary to heart strain from fluid overload. Has now returned 
+to her baseline oxygen requirement of 2 L, remains mildly 
+hypervolemic on examination, and responding appropriately to 
+diuresis with lasix IV, then transitioned to home torsemide 80 
+mg BID.
+
+# PE: 
+Pt with hx of PE. Upon thorough assessment of recent coumadin 
+dosing, she has been subtherapeutic in ___ for a period 
+of time during which she was preparing for a procedure. CTA 
+showed PE in all 3 main lobar branches of the right pulmonary 
+artery as well as the main lobar branches supplying the lingula 
+and left upper lobe.  Patient was on heparin IV gtt, re-dosing 
+warfarin daily for therapeutic INR. On discharge continuing on 
+warfarin at 5 mg on ___, with INR of 2.2.
+
+# Episode of drowsiness/non-responsiveness:
+Resolved: Patient had episode of sudden onset drowsiness and 
+decreased responsiveness concerning for stroke, with CT head and 
+MRI/MRA brain revealing no abnormalities or acute process. At 
+baseline she has left facial droop. ABG showed pH 7.48 and 
+lactate 2.2, with pCO2 39, which indicates that she is not 
+hypercarbic. She currently has no anion gap. It is less likely 
+due to hepatic encephalopathy, given normal AST/ALT, and also 
+less likely infection since she has been afebrile and her 
+leukocytosis is likely due to chronic steroids. Neurology was 
+consulted, did EEG, and it showed no epileptiform activity. On 
+___ had second episode of lethargy, similar to first. 
+Lactate 3.2, no neuro deficits. Touched base w/Neurology on 
+___: based on their exam on ___ and the negative results of 
+CT head and MRI head, they don't recommend further work-up; the 
+EEG from ___ shows no epileptiform activity. ABG (___) pH 
+7.38 pCO2 59  pO2 47  HCO3 36, lactate 2.5. UA large 
+leukesterase and WBC 43 on ___. Per Neurology consult, motor 
+deficits of LUE are consistent with cervical myelopathy, and the 
+etiology of her symptoms could be multifold with general 
+deconditioning from a prolonged hospital course and increased 
+work of breathing prior to admission, in addition to her 
+baseline connective tissue disease. Per Neurology recs, consider 
+C-spine and lumbar-spine MRI as outpatient after rehab to 
+evaluate cervical myelopathy and RLE deficits.
+
+CHRONIC ISSUES:    
+
+# Rheumatalogic disease: 
+The patient has an unclear history of rheumatologic disease, 
+with positive ANAs in the past. During prior admission ___, Ro 
+and Sm antibodies were positive. She was diagnosed with 
+undifferentiated connective tissue disease (CTD). Patient was on 
+steroids as outpatient for concurrent treatment with her ILD. 
+Continued home prednisone 20mg, atovaquone suspension.
+
+# ILD  
+Patient's underlying cause of the ILD is unknown. Her last echo 
+showed an estimated PAPs of 33 giving evidence of PHTN. The 
+patient has had relatively stable symptoms over the past few 
+years; however, her chest xray on admission is worse, possibly 
+___ to overlying edema on ILD. Continued prednisone as above, 
+inhalers.  
+
+TRANSITIONAL ISSUES:
+
+- anticoagulation: pt was found to have b/l PEs on CTA chest 
+after having Coumadin briefly held in preparation for SI 
+injection. She should NOT stop warfarin even for procedures. Her 
+regimen is warfarin 5 mg daily.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN shortness of breath 
+2. Omeprazole 20 mg PO DAILY 
+3. Atovaquone Suspension 1500 mg PO DAILY PCP ___  
+4. Docusate Sodium 100 mg PO BID 
+5. Bumetanide 2 mg PO DAILY 
+6. PredniSONE 10 mg PO DAILY 
+7. Warfarin Dose is Unknown  PO DAILY16 
+8. Cyclobenzaprine 10 mg PO TID:PRN muscle pain/spasm 
+9. calcium carbonate-vitamin D3 500 mg(1,250mg) -125 unit oral 
+BID 
+
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg PO BID 
+2. PredniSONE 10 mg PO DAILY 
+3. Warfarin 5 mg PO DAILY16 
+4. Aspirin 81 mg PO DAILY 
+5. Albuterol Inhaler 2 PUFF IH Q6H:PRN shortness of breath 
+6. Bumetanide 2 mg PO DAILY 
+7. calcium carbonate-vitamin D3 500 mg(1,250mg) -125 unit oral 
+BID 
+8. Cyclobenzaprine 10 mg PO TID:PRN muscle pain/spasm 
+9. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis: 
+CHF exacerbation 
+New pulmonary embolisms 
+
+Secondary diagnosis: 
+H/o PE 
+interstitial lung disease 
+Elevated ___ 
+
+ 
+___ Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted for increased fluid retention after your home 
+dose of Torsemide was changed. You were treated with IV 
+diuretics and improved greatly. You were also found to have new 
+blood clots in your lungs, although they didn't injure your lung 
+tissue. This means that you should NEVER stop taking warfarin, 
+even before procedures. Please follow up with your doctors as 
+___ below. 
+
+It was a pleasure taking care of you and we wish you the best! 
+
+Sincerely,
+Your ___ cardiology team 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,367 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Asymptomatic
+ 
+Major Surgical or Invasive Procedure:
+___ Cardiac cath
+___ Aortic valve replacement with 27 mm ___ 
+___ mechanical heart valve
+
+ 
+History of Present Illness:
+___ year old male with history of aortic stenosis followed by 
+serial echocardiograms. Has denied symptoms of shortness of 
+breath, dyspnea on exertion, chest pain, dizziness or syncope. 
+His most recent echocardiogram showed aggressive progression of 
+his disease to now severe aortic stenosis with significantly 
+elevated gradients. Presents today for planned admission post 
+cardiac cath for pre op studies. Denies any new symptoms.
+ 
+Past Medical History:
+Aortic stenosis
+Hypertension
+Hyperlipidemia
+Osteomyelitis
+Goiter
+Restless leg syndrome
+Neuropathy
+Cellulitis of toe
+Sleep apnea - CPAP
+Deviated septum - Difficulty breathing laying flat
+Past Surgical History:
+s/p Dupuytren's contracture release
+s/p Tonsillectomy
+s/p Vasectomy
+s/p Toe amputation
+ 
+Social History:
+___
+Family History:
+Father, HTN, ___ and liver cancer
+Mother died of amyloidosis at age ___
+ 
+Physical Exam:
+Admission Physical:
+Physical Exam:
+
+___ 1535 Temp: 98.0 PO BP: 159/100 HR: 20 RR: 61 O2 sat: 
+98%
+O2 delivery: RA 
+Height: 6'8"    Weight: 255lb
+
+General: Awake, alert in NAD
+Skin: Warm, Dry and intact
+HEENT: PERRL, sclera anicteric
+Neck: Supple [X] Full ROM 
+Chest: Lungs clear bilaterally [X]
+Heart: RRR, III/VI SEM
+Abdomen: Soft [X] non-distended [X] non-tender [X] bowel sounds 
++ [X]
+Extremities: Warm [X], well-perfused [X] No Edema 
+Varicosities: None [X]
+Neuro: Grossly intact [X]
+Pulses:
+Femoral      Right:2   Left:2
+DP           Right:2   Left:2
+___           Right:2   Left:2
+Radial       Right:Cath site Left:2
+
+Carotid Bruit:        Transmitted vs. bruit
+.
+Discharge Exam:
+123 / 77
+R Sitting 74 16 95 Ra 
+.
+General: NAD [x]  
+Neurological: A/O x3 [x] non-focal [x] 
+HEENT:  PEERL [] 
+Cardiovascular: RRR [x]  Irregular []  Murmur [] Rub [] 
+Respiratory: CTA [x]  No resp distress []
+GI/Abdomen: Bowel sounds present [x] Soft [x] ND [x] NT [x]
+Extremities: 
+Right Upper extremity   Warm []  Edema  
+Left Upper extremity    Warm []  Edema 
+Right Lower extremity   Warm [x]  Edema 1+
+Left Lower extremity    Warm [x]  Edema 1+
+Pulses:
+DP             Right:       Left:
+___             Right:       Left:
+Radial         Right:       Left:
+Skin/Wounds: Dry [] intact []
+Sternal: CDI [x] no erythema or drainage [x]
+                 Sternum stable [x] Prevena []
+
+ 
+Pertinent Results:
+Cardiac Catheterization: Date: ___    Place: ___
+Coronary Description:
+The left main, left anterior descending, circumflex and right
+coronary artery have no angiographically
+significant coronary abnormalities. Left dominant system.
+.
+Cardiac Echocardiogram: Date: ___   Place: Atrius
+Normal LV size with low normal systolic function and an 
+estimated
+ejection fraction of 50-55%. Mild LVH. The RV appears normal.
+Moderate aortic stenosis. Possibly bicuspid valve with 
+thickening
+and calcification, particularly of the more anterior leaflet.
+There is moderately reduced excursion. The peak velocity is ___
+with a peak gradient of 65, a mean gradient of 35 and a
+calculated valve area by continuity equation of 1.5cm2. Mild
+thickening of the mitral valve without stenosis. Mild AR, trace
+MR, TR and PR. The RV systolic pressure is estimated to be
+normal.
+
+Cardiac echocardiogram ___
+Moderate LVH. LVEF 50-55%. LAE. Bicuspid AV with severe AS.
+Peak/mean 102/68mmHg. ___ 0.8cm2. Mild MR. ___ aortic root
+measuring 4.6cm. 
+ 
+Carotid Ultrasound:done - results pending
+
+Chest CT: 
+Final Report 
+EXAMINATION:  CT CHEST W/O CONTRAST 
+  
+INDICATION:  ___ year old man with aortic stenosis and dilated 
+aortic root// 
+pre op AVR, eval aortic root 
+  
+TECHNIQUE:  Noncontrast, non gated CT chest 
+  
+DOSE:  Acquisition sequence: 
+   1) Spiral Acquisition 2.6 s, 41.2 cm; CTDIvol = 19.8 mGy 
+(Body) DLP = 814.1 
+mGy-cm. 
+ Total DLP (Body) = 814 mGy-cm. 
+  
+COMPARISON:  None 
+  
+FINDINGS:  
+  
+NECK, THORACIC INLET, AXILLAE, CHEST WALL: No suspicious thyroid 
+lesions.  No 
+supraclavicular or axillary adenopathy.  No gross breast 
+lesions. 
+  
+UPPER ABDOMEN: 1 cm simple cyst in the anterior cortex of the 
+left kidney 
+(series 2, image 71) is incompletely imaged.  Colon is 
+interposed between the 
+right lobe of the liver and the right hemidiaphragm. 
+  
+MEDIASTINUM: Subcentimeter mediastinal lymph nodes. 
+  
+HILA: No hilar adenopathy. 
+  
+HEART and PERICARDIUM: Normal cardiac configuration.  Mild left 
+atrial 
+enlargement.  Severe aortic valve calcification.  Moderate 
+aortic annular 
+calcification.  Mild coronary artery calcification.  Mild 
+fusiform dilatation 
+of the ascending aorta measuring 45 mm in diameter.  Normal 
+aortic branch 
+pattern.  No pericardial effusion.  Small pericardial recess 
+seen adjacent to 
+the ascending aorta (series 2, image 23). 
+PLEURA: No pleural effusion. 
+LUNG: 
+  
+1. PARENCHYMA:  Mild biapical pleuroparenchymal scarring.  No 
+suspicious 
+pulmonary nodules or masses.  A couple of millimetric 
+intrapulmonary lymph 
+nodes are noted in the right middle lobe (series 302, image 154) 
+and right 
+lower lobe (series 302, image 167).  No airspace consolidation.  
+Ground-glass 
+opacification in the lung bases bilaterally most likely 
+represent 
+microatelectasis in the absence of associated bronchiectasis. 
+2. AIRWAYS:  The major airways are patent.  No bronchiectasis. 
+3. VESSELS:  The pulmonary arteries not enlarged. 
+CHEST CAGE: No suspicious bony lesions. 
+  
+IMPRESSION:  
+  
+Severe aortic valve calcification.  Mild fusiform aneurysmal 
+dilatation of the 
+ascending aorta. 
+  
+No suspicious pulmonary nodules or masses.  No incidental 
+findings of note 
+  
+BY ELECTRONICALLY SIGNING THIS REPORT, I THE ATTENDING PHYSICIAN 
+ATTEST THAT ___ HAVE REVIEWED THE ABOVE IMAGES FOR THE ABOVE 
+EXAMINATION(S) AND AGREE WITH THE FINDINGS AS DOCUMENTED ABOVE. 
+  
+___, MD 
+___, MD electronically signed on WED ___ 
+7:25 ___ 
+.
+
+Nuclear study: Date: ___   Place: Atrius
+Good quality study, no angina symptoms, LVEF 50%, Perfusion
+images normal
+.
+
+___ 05:57AM BLOOD WBC-6.4 RBC-3.34* Hgb-10.2* Hct-30.7* 
+MCV-92 MCH-30.5 MCHC-33.2 RDW-13.8 RDWSD-46.5* Plt ___
+___ 02:34AM BLOOD WBC-10.2* RBC-4.08* Hgb-12.4* Hct-37.6* 
+MCV-92 MCH-30.4 MCHC-33.0 RDW-14.0 RDWSD-47.7* Plt ___
+___ 05:57AM BLOOD ___ PTT-34.8 ___
+___ 04:30AM BLOOD ___ PTT-24.9* ___
+___ 06:06PM BLOOD ___ PTT-25.7 ___
+___ 02:34AM BLOOD ___ PTT-23.4* ___
+___ 05:57AM BLOOD Glucose-101* UreaN-15 Creat-0.9 Na-139 
+K-4.3 Cl-103 HCO3-28 AnGap-8*
+___ 05:10AM BLOOD Glucose-128* UreaN-20 Creat-1.1 Na-137 
+K-4.5 Cl-105 HCO3-25 AnGap-7*
+___ 05:50PM BLOOD ALT-21 AST-21 LD(LDH)-199 AlkPhos-27* 
+TotBili-0.3
+___ 05:57AM BLOOD Mg-2.0
+ 
+Brief Hospital Course:
+Following cardiac cath on ___ he was admitted for surgical 
+work-up. on ___ he was taken to the operating room where he 
+underwent an aortic valve replacement with 27mm ___ 
+mechanical valve with Dr. ___. Please see operative note for 
+surgical details. Following surgery he was transferred to the 
+CVICU for invasive monitoring in stable condition. Later this 
+day he was weaned from sedation, awoke neurologically intact and 
+extubated.
+ Beta blocker was initiated and the patient was gently diuresed 
+toward the preoperative weight.  The patient was transferred to 
+the telemetry floor for further recovery.  Chest tubes and 
+pacing wires were discontinued without complication.  Coumadin 
+initiated for mechanical valve with INR goal ___.  The patient 
+was evaluated by the Physical Therapy service for assistance 
+with strength and mobility.  By the time of discharge on POD 4 
+the patient was ambulating freely, the wound was healing and 
+pain was controlled with oral analgesics.  The patient was 
+discharged home in good condition with appropriate follow up 
+instructions.  Anti-coagulation management arranged with ___ 
+clinic. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. benazepril 40 mg oral DAILY 
+3. Hydrochlorothiazide 25 mg PO DAILY 
+4. Potassium Chloride 10 mEq PO DAILY 
+5. Pramipexole 1 mg PO DAILY 
+6. Pravastatin 40 mg PO QPM 
+7. calcium carbonate 600 mg calcium (1,500 mg) oral DAILY 
+8. Multivitamins 1 TAB PO DAILY
+ 
+Discharge Medications:
+1.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  Lactulose 15 mL PO Q8H:PRN constipation 
+RX *lactulose 10 gram/15 mL 15 ml by mouth every eight (8) hours 
+Refills:*0 
+4.  Metoprolol Tartrate 50 mg PO BID 
+RX *metoprolol tartrate 50 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*1 
+5.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+6.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*60 Tablet Refills:*0 
+7.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+RX *polyethylene glycol 3350 [Purelax] 17 gram 1 packet(s) by 
+mouth once a day Disp #*15 Packet Refills:*0 
+8.  Senna 17.2 mg PO DAILY 
+hold for loose stool 
+RX *sennosides [senna] 8.6 mg 2 tablet(s) by mouth once a day 
+Disp #*60 Tablet Refills:*0 
+9.  Warfarin 2.5 mg PO DAILY16 
+dose to change daily per ___ clinic for goal INR ___, 
+dx: mechanical AVR 
+RX *warfarin 2.5 mg ___ tablet(s) by mouth daily as directed 
+Disp #*90 Tablet Refills:*1 
+10.  amLODIPine 10 mg PO DAILY  
+11.  calcium carbonate 600 mg calcium (1,500 mg) oral DAILY  
+12.  Hydrochlorothiazide 25 mg PO DAILY  
+13.  Multivitamins 1 TAB PO DAILY  
+14.  Potassium Chloride 10 mEq PO DAILY  
+15.  Pramipexole 1 mg PO DAILY  
+16.  Pravastatin 40 mg PO QPM  
+17. HELD- benazepril 40 mg oral DAILY  This medication was held. 
+Do not restart benazepril until directed by PCP or ___
+
+ 
+___ Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Aortic Stenosis s/p aortic valve replacement 
+Past medical history" 
+Hypertension 
+Hyperlipidemia 
+Osteomyelitis 
+Goiter 
+Restless leg syndrome 
+Neuropathy 
+Cellulitis of toe 
+Sleep apnea - CPAP 
+Deviated septum - Difficulty breathing laying flat 
+s/p Dupuytren's contracture release 
+s/p Tonsillectomy 
+s/p Vasectomy 
+s/p Toe amputation 
+
+ 
+Discharge Condition:
+Alert and oriented x3, non-focal
+Ambulating, gait steady
+Sternal pain managed with oral analgesics
+Sternal Incision - healing well, no erythema or drainage
+Edema- none
+
+ 
+Discharge Instructions:
+Please shower daily -wash incisions gently with mild soap, no 
+baths or swimming, look at your incisions daily
+Please - NO lotion, cream, powder or ointment to incisions
+Each morning you should weigh yourself and then in the evening 
+take your temperature, these should be written down on the chart
+No driving for approximately one month and while taking 
+narcotics
+Clearance to drive will be discussed at follow up appointment 
+with surgeon
+No lifting more than 10 pounds for 10 weeks
+Encourage full shoulder range of motion, unless otherwise 
+specified
+**Please call cardiac surgery office with any questions or 
+concerns ___. Answering service will contact on call 
+person during off hours**
+
+ 
+Followup Instructions:
+___

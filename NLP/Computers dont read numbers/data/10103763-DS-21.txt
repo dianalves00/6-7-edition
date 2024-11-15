@@ -1,0 +1,491 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status, Back pain, fever
+ 
+Major Surgical or Invasive Procedure:
+___ Aspiration of back infection
+
+ 
+History of Present Illness:
+___ w hx MSSA bacteremia ___ T4-5 epidural abscess and discitis
+in ___ s/p multiple courses of antibiotic therapy, recent
+NSTEMI, HCV, CKD stage 3, remote IVDU w/ mitral stenosis, mild
+cognitive impairment, who presents with confusion and fluctuant
+mass on the R thoracic spine. Most of history was provided by
+husband at bedside. Husband states that she was confused,
+feverish last night, and vomited after ___ clinic morning
+of ___. He noticed swelling over R thoracic spine at site of
+previous abscess, found temp of 103 at home this am. He reports
+he saw pt drinking juice out of a bowl instead of a cup last
+night and says pt has been increasingly confused. Pt is
+occasionally confused at baseline but this is noticeably
+different. She does not have headache or neck stiffness.
+
+Of note, she was hospitalized with an STEMI last week.  She had 
+a
+nuclear stress test that did not show ischemia and had an echo
+that showed stable mitral stenosis.  Was not started on statin
+due to low ASCVD risk.  
+
+In the ED, initial VS were: T 103, HR 128, BP 125/68, RR 18, O2
+sat 92% on RA
+
+Exam notable for: 
+
+Febrile to 103, HR 128, BP 125/68, RR 19, SaO2 92
+General: mild agitation, moving legs
+CV: RRR, +S1/S2, systolic murmur, ___ popliteal, pt/dp pulses
+Resp: mild crackles at bilateral bases
+GI: soft, NT, ND
+MSK: mild swelling of R knee/thigh without pitting, 2cmx4cm
+fluctuant, erythematous, non tender mass on R thoracic spine
+T5-T6, ___ R lower extremity strength
+
+ECG: Sinus tachycardia at 105, nl axis, left atrial abnormality,
+early repolarization pattern in inferior limb leads, no ST or T
+wave changes
+
+Labs showed:
+- ___ 13, INR 1.2
+- UA with 1 RBC, otherwise WNL
+- Lactate 1.5
+- BUN/Cr 32/1.5
+- AP 138, ALT and AST wnl
+- proBNP 1326
+- CBC 10.2/___
+
+Imaging showed:
+MRI C and thoracic spine:
+1. Postoperative changes after decompression, laminectomy and
+anterior and 
+posterior fusion in the upper thoracic spine. 
+2. No evidence of spinal cord compression or of abnormal fluid
+collection. 
+3. Focal spinal cord atrophy and a small area of abnormal
+increased signal 
+intensity on the T2 weighted images at the surgical level. 
+
+Consults:
+Neurosurgery: No urgent findings on exam. Given extended time
+period since last visit with Dr. ___ need to be
+staffed with on-call ortho spine.
+
+Patient received:
+- Cefepime 2g
+- Vanc 1g
+- Ativan 1mg
+- 500cc NS
+- APAP 1g
+
+Transfer VS were: T 99.7, HR 102, BP 95/59, RR 20, O2 sat 96% on
+2L
+
+On arrival to the floor, patient reports that she is feeling 
+much
+better.  She endorses the above story.  Nausea has improved. 
+Currently she does not have any back pain.
+
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI
+ 
+Past Medical History:
+-MSSA Bacteremia ___ complicated by persistent T5 epidural 
+abscess and discitis s/p T5-T6 corpectomy, T3-T8 posterior 
+fusion (___) for persistent infection/vertebral body 
+destruction
+-Remote IVDU - ___ years ago on methadone
+-HCV (unclear if treated in past)
+-Mild cognitive Impairment
+-Opiate dependence on methadone
+-CKD III (baseline Cr 0.7-1)
+-History of recurrent UTI's on macrobid suppressive therapy
+-Depression/Anxiety
+-Decubitus ulcers
+-Mitral stenosis (per echo at ___ ___
+ 
+Social History:
+___
+Family History:
+No FH of cardiac disease per patient.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS:98.1 91/60 HR 91 RR 18 O2 sat 93 RA 
+GENERAL: NAD, appearing chronically ill
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, II/XI SEM, no gallops or rubs
+PULM: CTAB with bibasilar crackles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: Thoracic kyphosis present. No cyanosis, clubbing, 
+or
+edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: CNII-XII in tact, ___ upper and lower extremity strength
+in upper and lower extremities. No signs of meningismus. Alert
+and oriented to person, place, and time. Able to perform days of
+weeks backwards.
+DERM: Firm, warm, erythematous and fluctuant mass on thoracic
+spine.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+PHYSICAL EXAM:
+VS: ___ @ 614 Tm 98.7, BP: 122/77 (100-122/62-77), HR: 88
+(88-94), RR: 18 (___), O2 sat: 91% (91-96), O2 delivery: RA,
+Wt: 148.81 lb/67.5 kg 
+GENERAL: NAD, alert and oriented, sitting comfortably in bed
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, ___ systolic ejection murmur best heard at RUSB
+PULM: CTAB, no increased WOB
+GI: abdomen soft, ND/NT, no rebound/guarding, +BS
+EXTREMITIES: no cyanosis, clubbing, or edema. RUE with cord at
+previous IV site improved, LUE with healing excoriations
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: Warm and well perfused, no rashes, fluctuant mass R side
+mid thoracic spine. Mildly TTP, no erythema. Bandage over ___ tap
+site
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 09:30AM BLOOD WBC-10.2* RBC-3.79* Hgb-11.1* Hct-34.0 
+MCV-90 MCH-29.3 MCHC-32.6 RDW-14.4 RDWSD-47.2* Plt ___
+___ 09:30AM BLOOD Neuts-82.3* Lymphs-8.3* Monos-7.6 
+Eos-0.7* Baso-0.7 Im ___ AbsNeut-8.42* AbsLymp-0.85* 
+AbsMono-0.78 AbsEos-0.07 AbsBaso-0.07
+___ 09:30AM BLOOD Plt ___
+___ 10:27AM BLOOD ___ PTT-32.7 ___
+___ 09:30AM BLOOD Glucose-133* UreaN-32* Creat-1.5* Na-136 
+K-4.2 Cl-102 HCO3-22 AnGap-12
+___ 09:30AM BLOOD ALT-13 AST-24 AlkPhos-138* TotBili-0.5
+___ 09:30AM BLOOD Lipase-12
+___ 09:30AM BLOOD proBNP-1326*
+___ 09:30AM BLOOD Albumin-3.5
+___ 09:48AM BLOOD Lactate-1.5
+
+DISCHARGE LABS:
+===============
+___ 06:15  CBC
+WBC RBC  HgbHctMCVMCHMCHCRDWRDWSDPlt Ct
+5.5 3.32* 9.7*31.1*9429.231.2*14.449.1*179
+
+___ 06:15 Chem-7
+GlucoseUreaNCreatNaKClHCO3AnGap
+___
+
+___ 06:15  
+CalciumPhosMg
+___
+
+IMAGING:
+========
+___ Chest X-Ray:
+FINDINGS: 
+Spinal fusion hardware is are again noted without substantial 
+interval changes compared to ___.  The lung volume 
+is small, exaggerating bronchovascular markings.  There is 
+bibasilar atelectasis.  Otherwise no focal consolidation.  No 
+pulmonary edema.  No pleural abnormalities.  The 
+cardiomediastinal silhouette is unchanged.  No acute osseous 
+abnormalities.
+IMPRESSION: 
+No focal consolidation to suggest pneumonia.
+
+___ MRI CERVICAL/THORACIC SPINE:
+FINDINGS: 
+Again seen are postoperative changes after laminectomy and 
+posterior and anterior fusion in the upper thoracic spine.  The 
+anterior fusion, involving T5 through T7, appears unchanged.  
+The posterior fusion, involving T2 through CTA also appears 
+unchanged.  There is no encroachment on the spinal canal and 
+ample CSF is seen surrounding the spinal cord.  There is faint 
+hyperintensity within the spinal cord at the T5-6 level on the 
+T2 weighted images.  This is better seen on the current 
+examination than on the comparison MR studies.  There is focal 
+atrophy of the spinal cord at this level.  Deep thoracic 
+kyphosis appears unchanged. There is no evidence of an abnormal 
+fluid collection within or outside of the spinal canal.  There 
+is no evidence of spinal canal or neural foraminal narrowing. 
+There is no evidence of infection or neoplasm.
+IMPRESSION:
+1. Postoperative changes after decompression, laminectomy and 
+anterior and posterior fusion in the upper thoracic spine.
+2. No evidence of spinal cord compression or of abnormal fluid 
+collection.
+3. Focal spinal cord atrophy and a small area of abnormal 
+increased signal intensity on the T2 weighted images at the 
+surgical level.
+
+___ US Upper Back Soft Tissue:
+IMPRESSION: 
+Approximately 4.2 x 4.1 x 1.2 cm area of edematous and 
+hypervascular
+subcutaneous tissue with foci of air in the right mid posterior 
+trunk. 
+Scattered tiny pockets of fluid about ___ cc each could be 
+targeted for
+aspiration if clinically indicated.  However, no large fluid 
+pocket for drain placement.
+
+___ TTE:
+CONCLUSION:
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. There is normal left ventricular wall thickness 
+with a normal cavity size. There is suboptimal image quality to 
+assess regional left ventricular function. Overall left 
+ventricular systolic function is normal. The visually estimated 
+left ventricular ejection fraction is 65%. There is no resting 
+left ventricular outflow tract gradient. Normal right 
+ventricular cavity size with depressed free wall motion. The 
+aortic sinus diameter is normal for gender with normal ascending 
+aorta diameter for gender. The aortic arch diameter is normal. 
+The aortic valve leaflets (?#) are mildly thickened. No masses 
+or vegetations are seen on the aortic valve. No abscess is seen. 
+There is moderate aortic valve stenosis (valve area 1.0-1.5 
+cm2). There is no aortic regurgitation. The mitral valve 
+leaflets are mildly thickened with no mitral valve prolapse. No 
+masses or vegetations are seen on the mitral valve. No abscess 
+is seen. There is mild (MVA 1.5-2.0cm2) mitral valve stenosis. 
+There is trivial mitral regurgitation. The tricuspid
+valve leaflets appear structurally normal. No mass/vegetation 
+are seen on the tricuspid valve. No abscess is seen. There is 
+physiologic tricuspid regurgitation. There is mild pulmonary 
+artery systolic hypertension. There is no pericardial effusion.
+IMPRESSION: Suboptimal image quality. No obvious vegetations.
+Compared with the prior TTE ___, no gross change but the 
+technically suboptimal nature of both studies precludes 
+definitive comparison.
+RECOMMEND: If clinically indicated, a TEE is suggested for 
+further evaluation of endocarditis.
+
+MICROBIOLOGY:
+=============
+___ 6:09 am BLOOD CULTURE      #1. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 7:05 pm BLOOD CULTURE      2 OF 2. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 4:16 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 4:12 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 9:50 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 8:22 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 6:21 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 10:25 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+__________________________________________________________
+___ 10:25 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 10:20 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 9:30 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date.
+ 
+Brief Hospital Course:
+___ w hx MSSA bacteremia ___ T4-5 epidural abscess and discitis 
+in ___ s/p multiple courses of antibiotic therapy, T5-T6 
+corpectomy, T3-T8 posterior fusion, recent NSTEMI, HCV, CKD 
+stage 3, remote IVDU w/ mitral stenosis, mild cognitive 
+impairment, who presents with confusion and fluctuant mass on 
+the R thoracic spine. 
+
+ACUTE ISSUES:
+===============
+
+# Fluctuant thoracic mass
+# Back pain
+# Fever
+Most likely source of fever is soft tissue infection/superficial 
+abscess on her back. MRI showed stable postoperative changes 
+without evidence of spinal cord compression, abnormal fluid 
+collection, or epidural abscess. Neurosurgery reviewed images 
+and thought no neurosurgical interventions needed. TTE ___ 
+without evidence of endocarditis, no pulmonary, abdominal, or 
+urinary symptoms. She may also have developed resistant organism 
+while on doxycycline and or had a recurrence of prior infection. 
+In the ED patient had a fever to 103. She defervesced and then 
+remained afebrile once started on Vanc/Cefepime. Her mental 
+status quickly improved after abx initiation. Infectious disease 
+was consulted and felt that given elevated CRP this could 
+possibly represent a recurrent bacterial infection if her 
+hardware had been seeded during ___ episode MSSA bacteremia. 
+An ultrasound was performed to assess the fluctuant mass on her 
+back for potential fluid pockets for aspiration to further 
+characterize the infection. Interventional radiology performed 
+an aspiration of the site ___ with negative gram stain, and 
+cultures without growth. Vancomycin and Cefepime were 
+discontinued on ___ and she was discharged home on chronic 
+doxycycline suppressive therapy. 
+
+# Acute Encephalopathy: 
+Patient was altered from her baseline on presentation. Her 
+altered mental status resolved after antibiotics. The etiology 
+of her encephalopathy is ___ infection.
+
+# CKD III: 
+Cr was 1.4 in ___, 1.5 on admission. ___ represent new 
+baseline as Cr was 0.7-1.0 throughout ___.
+Medications were renally dosed and nephotoxins avoided as able 
+during this admission. Her Cr remained stable at 1.3. Discharge 
+Cr was 1.3
+
+# Anemia: normocytic, stable and chronic. ___ represent be AoCD 
+from infection.
+
+CHRONIC ISSUES:
+===============
+#h/o IVDU: continue methadone 89 mg daily
+# Recent NSTEMI: Not on statin due to low ASCVD risk per HCA 
+notes. Continue ASA
+# Overactive bladder: oxybutynin ER not on formulary, oxybutynin 
+5mg QID while in hospital. Discharged on home oxybutynin ER. 
+# Pruritus: Pt with a history of pruritus. Continued home 
+doxepin.
+# Anxiety/Depression: Continued outpt wean from sertraline to 
+duloxetine. Continued clonazepam 1 mg qAM and 1.5mg qPM. 
+# Hypothyroidism: Continued home levothyroxine 112 mcg qd. 
+
+TRANSITIONAL ISSUES:
+====================
+[] Continue home PO doxycycline 100 mg PO BID upon discharge. 
+Provide prescription for patient until ID follow-up.
+[] If concerned for hardware infection as outpatient, can repeat 
+CRP. CRP was downtrending from 160 > 90 during admission and 
+patient clinically improved. 
+[] Consider repeat CRP at follow-up to ensure down-trending. 
+[] Discharge Cr: 1.3
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 500 mg PO Q6H:PRN Pain - Mild 
+2. ClonazePAM 1 mg PO QAM Anxiety 
+3. ClonazePAM 1.5 mg PO QPM anxiety 
+4. Docusate Sodium 100 mg PO BID 
+5. Levothyroxine Sodium 112 mcg PO DAILY 
+6. Methadone 89 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. Senna 17.2 mg PO QHS 
+9. Sertraline 100 mg PO DAILY 
+10. calcium carbonate-vitamin D3 600 mg(1,500mg) -800 unit oral 
+DAILY 
+11. Ditropan XL (oxybutynin chloride) 10 mg oral BID 
+12. DULoxetine 20 mg PO DAILY 
+13. Doxycycline Hyclate 100 mg PO Q12H 
+14. Doxepin HCl 10 mg PO HS 
+15. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Sertraline 50 mg PO DAILY  
+2.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild  
+3.  Aspirin 81 mg PO DAILY  
+4.  calcium carbonate-vitamin D3 600 mg(1,500mg) -800 unit oral 
+DAILY  
+5.  ClonazePAM 1.5 mg PO QPM anxiety  
+6.  ClonazePAM 1 mg PO QAM Anxiety  
+7.  Ditropan XL (oxybutynin chloride) 10 mg oral BID  
+8.  Docusate Sodium 100 mg PO BID  
+9.  Doxepin HCl 10 mg PO HS  
+10.  Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*28 Tablet Refills:*0 
+11.  DULoxetine 20 mg PO DAILY  
+12.  Levothyroxine Sodium 112 mcg PO DAILY  
+13.  Methadone 89 mg PO DAILY 
+Consider prescribing naloxone at discharge  
+14.  Multivitamins 1 TAB PO DAILY  
+15.  Senna 17.2 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Superficial Abscess
+#Altered mental status
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+It was a pleasure caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted to the hospital because you were having 
+fevers and you became confused at home.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- We treated you with antibiotics to fight your infection.
+- You had an MRI of your spine to make sure the infection was 
+not affecting your spinal cord or the hardware in your back.
+- We had our infectious disease specialists come to evaluate you 
+to help us determine the most appropriate antibiotics to use and 
+how long you should be on them for.
+- We had our interventional radiologists take a sample from the 
+site of your infection to determine if this could help guide 
+antibiotic therapy.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines as prescribed and keep 
+your appointments.  
+- Please take your antibiotics exactly as prescribed. 
+- Please keep all of your follow up appointments. See the below 
+section for the time and date of your appointments. You should 
+be seen by your primary care doctor and PCP. 
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,413 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Aspirin / gabapentin / Zolpidem
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Diffuse weakness and muscle pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with PMHx Afib on coumadin, severe OA and chronic joint pain 
+(shoulders, hands, hips, knees, elbows), CHF, severe lower 
+extremity lyphedema, and CKD who presented with worsening pain 
+not controlled by PO Dilaudid. At baseline she has severe pain 
+of her lower extremities from arthritis and lymphedema. Last 
+night the pain became slowly more severe. She took one Dilaudid 
+last night and once this morning wihout relief. She has not had 
+recent falls or trauma to any of her extremities. Her legs are 
+not more swollen than normal. No fevers but feels cold here in 
+the ED. She is relatively immobile at baseline, but walks around 
+at home with a walker when she is able.  
+
+In the ED, initial VS were 99.6 138/50 68 16 95/RA. UA was 
+negative. No labs were drawn. The patient received a total of 
+5mg IV hydromorphone with minimal pain relief. She was 
+transferred to the floor for further pain management.
+
+Transfer VS were 98.4 169/65 68 20 93/RA.
+On arrival to the floor, patient reports ongoing pain all over.  
+
+ 
+Past Medical History:
+1. Status post CVA ___ superior cerebellar infarct:  
+residual deficits-slight imbalance, uses cane.  
+2. Hyperparathyroidism; PTH 173 in ___ etiology  
+3. Hypertension.  
+4. Thyroid nodules and multinodular goiter-discovered  
+incidentally on MRI scan at time of her CVA in ___. Never had 
+ 
+work up for these.  
+5. Atrial fibrillation, highly symptomatic. Rate controlled and  
+
+on Coumadin. Two prior failed attempts at direct current  
+cardioversion ___ and ___. Followed by Dr. ___ who is  
+
+considering pulmonary vein isolation procedure.  
+6. Vitamin D deficiency.  
+7. Chronic diastolic heart failure, followed by Dr. ___.  
+9. Anemia  
+10. Hypercholesterolemia  
+11. Obesity  
+12. Insomnia  
+13. Constipation.  
+14. ?Diabetes mellitus, not on therapy; ___ Hgb 1Ac: 6.6,  
+15. Chronic kidney disease stage III - baseline creatinine  2.0- 
+2.1  
+16. Per patient report, GI bleed after aspirin, no EGD.  
+ 
+Social History:
+___
+Family History:
+Mother with HTN and CVA. 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+-------
+VS:98.4 169/65 68 20 93/RA 
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+patent nares, MMM, good dentition, nontender supple neck, no 
+LAD, no JVD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: Unable to assess, patient uncooperative with exam.
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: 3+ bilateral lower extremity edema. Patient 
+uncooperative exam, states the even feather touch causes extreme 
+pain.
+PULSES: Unable to assess. 
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+ 
+DISCHARGE PHYSICAL EXAM: 
+=================
+VS: 98.1 175/61 57 28 9 7% RA
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+patent nares, MMM, good dentition, nontender supple neck, no 
+LAD, no JVD  
+CARDIAC: RRR, prominent IV/VI murmur radiating to the carotids, 
+no murmurs, gallops, or rubs  
+LUNG: Unable to assess, patient uncooperative with exam.
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: Edema in ___ feet, 1+ edema in legs. Pt with 
+tenderness on palpation of ankles bilaterally, knees 
+bilaterally, shoulders bilaterally, but much improved compared 
+to prior. no errthyema of joints.
+PULSES: Unable to assess. 
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+ 
+Pertinent Results:
+ADMISSION LABS:
+-------
+___ 08:45PM BLOOD WBC-11.4* RBC-2.77* Hgb-9.0* Hct-28.2* 
+MCV-102* MCH-32.4* MCHC-31.9 RDW-16.2* Plt ___
+___ 08:45PM BLOOD Neuts-81.9* Lymphs-8.9* Monos-7.3 Eos-1.5 
+Baso-0.4
+___ 08:45PM BLOOD ___ PTT-35.9 ___
+___ 08:45PM BLOOD Glucose-140* UreaN-55* Creat-1.6* Na-144 
+K-3.6 Cl-104 HCO3-30 AnGap-14
+
+*****
+___ 08:45PM BLOOD CK(CPK)-829*
+___ 09:00PM BLOOD CRP-256.0*
+___ 09:00PM BLOOD ESR-112*
+****
+
+___ 08:05AM BLOOD LD(LDH)-219 CK(CPK)-25*
+___ 06:45AM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE
+___ 02:47PM BLOOD ANCA-NEGATIVE B
+___ 08:05AM BLOOD CRP-72.8*
+___ 06:45AM BLOOD ___ * Titer-1:40
+___ 06:45AM BLOOD RheuFac-21* CRP-258.6*
+___ 06:45AM BLOOD PEP-NO SPECIFI IgG-547* IgA-167 IgM-58 
+IFE-NO MONOCLO
+___ 06:45AM BLOOD HCV Ab-NEGATIVE
+___ 08:05AM BLOOD ESR-126*
+___ 08:05AM BLOOD Lupus-NEG
+
+IMAGING:
+------
+PLAIN FILMS OF BILATERAL HANDS ___
+
+Right:
+Mild degenerative changes in the distal interphalangeal joints 
+in the right
+hand are worse in the fourth digit.  There are mild degenerative 
+changes in
+the first carpometacarpal joint with decreasing the 
+intervertebral disc space,
+osteophyte and sclerosis of the joint surfaces at these levels.  
+There is mild
+osteopenia.  
+ 
+Left:
+There is no evidence of fracture or dislocation in the left 
+hand. Mild
+degenerative changes in the distal interphalangeal joints are 
+worse in the
+fourth digit.  There is no evidence of dislocation at these 
+level.  There is
+decrease in the joint spaces and osteophytes.  There is mild 
+osteopenia. 
+There are no blastic lesions.  There is fracture of the styloid 
+of the ulna. 
+There pisiform seems located more superior and laterally in one 
+of the
+projections, but most likely is due to the projection.  Please 
+correlate with
+clinical symptoms.
+
+PLAIN FILMS OF BIALTERAL KNEES ___
+FINDINGS:  In comparison with study of ___, there is little 
+overall change in
+the bilateral tricompartmental hypertrophic spurring, primarily 
+affecting the
+lateral areas with prominent spurring and some generalized 
+narrowing of the
+medial and lateral compartments.  No evidence of appreciable 
+joint effusion.
+
+TTE ___
+The left atrial volume index is moderately increased. No atrial 
+septal defect is seen by 2D or color Doppler. The estimated 
+right atrial pressure is ___ mmHg. Mild symmetric left 
+ventricular hypertrophy with normal wall thickness, cavity size, 
+and global systolic function (biplane LVEF = 60 %). Tissue 
+Doppler imaging suggests an increased left ventricular filling 
+pressure (PCWP>18mmHg). Right ventricular chamber size and free 
+wall motion are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion. There is a 
+minimally increased gradient consistent with minimal aortic 
+valve stenosis. No aortic regurgitation is seen. The mitral 
+valve appears structurally normal with trivial mitral 
+regurgitation. There is moderate pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Minimal aortic valve stenosis. Normal biventricular 
+regional/global systolic function. Elevated left ventricular 
+enddiastolic pressure. Moderate pulmonary hypertension.
+
+Compared with the prior study (images reviewed) of ___, 
+the peak aortic velocity has mildly increased from 1.5 m/s to 
+2.1 m/s however the severity of the aortic stenosis still 
+remains minima
+
+MICROBIOLOGY: 
+==========
+___ Urine Culture: no growth
+
+___ Blood Culture: one out of 4 bottles positive
+Blood Culture, Routine (Preliminary): 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE. 
+         Isolated from only one set in the previous five days. 
+         SENSITIVITIES PERFORMED ON REQUEST..
+
+___ Blood Cultures: Pending
+
+DISCHARGE LABS: 
+===========
+___ 06:50AM BLOOD WBC-11.8* RBC-2.85* Hgb-9.2* Hct-28.6* 
+MCV-100* MCH-32.4* MCHC-32.3 RDW-15.6* Plt ___
+___ 06:50AM BLOOD Plt ___
+___ 06:50AM BLOOD ___ PTT-32.9 ___
+___ 06:50AM BLOOD Glucose-136* UreaN-111* Creat-2.2* Na-138 
+K-3.8 Cl-93* HCO3-32 AnGap-___ with PMHx Afib on coumadin, diastolic heart failure, severe 
+OA and chronic joint pain (shoulders, hands, hips, knees, 
+elbows), CHF, severe lower extremity lyphedema, and CKD who 
+presented with worsening pain of unclear etiology. 
+
+ACTIVE ISSUES:
+---------
+# ACUTE ON CHRONIC BILATERAL LOWER EXTREMITY PAIN: INTERVAL 
+IMPROVED. Likely due to polymyositis, given proximal muscle 
+weakness, diffuse myalgias, and elevated CK. 
+Alternate/additional etiologies include 1)inflammatory 
+arthritis; 2) PMR, which is also possible given exquisite 
+weakness; 3) fibromyalgia.
+- Continue prednisone 15mg DAILY (___) for polymyositis.
+- Trend ESR, CRP, CK.
+- RF weakly positive, 21. 
+- CCP PND.
+- Follow up ___.
+- Follow up bilateral hand X-rays 
+- Increase Allopurinol to 200mg PO daily
+- Hydromorphone PO ___ q6 PRN 
+- Continue standing tylenol 
+- Zofran for nausea  
+
+# AoCKD: baseline Cr 2.1. On last discharge in ___ Cr 1.5.  
+Cr 1.6 on admission, trending up to 2.2 on day of discharge. 
+Likely pre-renal in setting of overdiuresis. Diuretics held on 
+day of discharge, with plans to resume lower dosage of diuretics 
+at home (see below), with follow up of Cr by PCP as outpatient. 
+
+# Atrial fibrillation: Rate controlled with carvedilol and dilt. 
+Asymptomatic.  INR 1.9 on admission. Came in on 2.5mg warfarin 
+daily. Increased to 3mg daily during hospitalization, with INR 
+trending up to 3.1 on day of discharge, up from 2.6 the day 
+before. Discharged on home dosage of 2.5mg daily with plans to 
+follow up with ___ clinic on ___ to repeat INR and adjust 
+warfarin if needed.
+
+# BACTEREMIA: CONTAMINANT. ___ bottles positive for coagulase 
+negative staph aureus.
+
+# AS MURMUR: NO TTE EVIDENCE TO SUPPORT DECREASED ___.
+
+# DIASTOLIC CHF: STABLE. History of diastolic CHF with preserved 
+EF. On admission asymptomatic and no signs suggestion CHF 
+exacerbation, other than lower extremity edema. Diureteic 
+regimen had been uptitrated over past several months due to 
+progressive lower extremity edema; however, after being started 
+on steroids for PS3PE, lower extremity edema significantly 
+improved. Due to ___, likely secondary to overaggresive diuretic 
+regimen, metolazone was stopped and torsemide dosage was 
+decreased to 40mg, with plans for patient to weight self daily 
+and to follow up with PCP for ___ of diuretic dosing as 
+needed.   
+
+___ ISSUES:
+-----------
+#Hyperlipidemia: Continued home dose simvastatin.  
+.  
+#GERD/mild gastritis on EGD: asymptomatic. continued omeprazole 
+40 mg PO Q24H  
+
+#HTN: Continued carvedilol
+
+TRANSITIONAL ISSUES:
+------
+# follow up pending rheumatologic markers, pending blood 
+cultures
+# started on 16mg methylprednisilone, to be followed by 
+rheumatology, blood pressure, blood glucoses to be monitored 
+closely 
+# started on fosamax 70mg qweek for osteoperosis ppx while on 
+steroids, duration of course to be determined by PCP 
+# diuretics reduced due to ___, discharged on 40mg torsemide 
+with a Cr of 2.1; Cr and diuretics dosing to be followed up to 
+PCP
+# warfarin dosing likely needs adjustment, though no changes 
+were made to home regimen; to have repeat INR on ___ and follow 
+up with HCA coag.
+# daily weights, to call MD if > 3lb weight gain
+# CODE: DNR/DNI
+#  EMERGENCY CONTACT HCP: Daughter ___ (healthcare 
+proxy); Phone number: ___  
+Cell phone: ___  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 1000 mg PO TID 
+2. Allopurinol ___ mg PO DAILY 
+3. Amiodarone 200 mg PO DAILY 
+4. Calcitriol 0.25 mcg PO DAILY 
+5. Carvedilol 12.5 mg PO BID 
+6. Diltiazem Extended-Release 240 mg PO DAILY 
+7. Docusate Sodium 100 mg PO BID 
+8. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+9. Multivitamins 1 TAB PO DAILY 
+10. Ranitidine 75 mg PO DAILY 
+11. Simvastatin 10 mg PO DAILY 
+12. Torsemide 80 mg PO DAILY 
+13. Warfarin 2.5 mg PO DAILY16 
+14. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 
+15. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain 
+16. Polyethylene Glycol 17 g PO DAILY:PRN Constipation 
+17. Clobetasol Propionate 0.05% Ointment 1 Appl TP BID 
+18. ferrous sulfate 95  mg Oral Daily 
+19. Metolazone 2.5 mg PO DAILY 
+20. Vitamin D 1000 UNIT PO DAILY 
+21. Calcium Carbonate 1500 mg PO BID 
+
+ 
+Discharge Medications:
+1. Allopurinol ___ mg PO DAILY 
+RX *allopurinol ___ mg 2 tablet(s) by mouth daily Disp #*60 
+Tablet Refills:*0
+2. Acetaminophen 1000 mg PO Q8H 
+3. Amiodarone 200 mg PO DAILY 
+4. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 
+5. Calcitriol 0.25 mcg PO DAILY 
+6. Carvedilol 12.5 mg PO BID 
+7. Diltiazem Extended-Release 240 mg PO DAILY 
+8. Docusate Sodium 200 mg PO DAILY 
+9. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+10. HYDROmorphone (Dilaudid) ___ mg PO Q6H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth q6hrs 
+Disp #*28 Tablet Refills:*0
+11. Polyethylene Glycol 17 g PO DAILY:PRN Constipation 
+12. Methylprednisolone 16 mg PO DAILY 
+RX *methylprednisolone 16 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+13. Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+14. Calcium Carbonate 1500 mg PO BID 
+15. Clobetasol Propionate 0.05% Ointment 1 Appl TP BID 
+16. Ferrous Sulfate 95 mg ORAL DAILY 
+17. Multivitamins 1 TAB PO DAILY 
+18. Vitamin D 1000 UNIT PO DAILY 
+19. Ranitidine 75 mg PO DAILY 
+20. Simvastatin 10 mg PO DAILY 
+21. Torsemide 40 mg PO DAILY 
+22. Alendronate Sodium 70 mg PO QSUN 
+RX *alendronate 70 mg 1 tablet(s) by mouth q weekly Disp #*4 
+Tablet Refills:*0
+23. Warfarin 2.5 mg PO DAILY16 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+-------
+remitting seronegative symmetric synovitis with pitting edema 
+(rs3pe )
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure caring for you at ___. You were admitted for 
+muscle weakness and multiple joint pain. You were diagnosed with 
+RS3PE. You were started on a steroid, methylprednisilone which 
+you will continue as an outpatient. You will have close follow 
+up with your rheumatologist.  
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+Also, do not exceed 4g of tylenol per day. 
+ 
+Followup Instructions:
+___

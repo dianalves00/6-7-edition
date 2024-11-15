@@ -1,0 +1,425 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Vasotec
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of CAD s/p MI and balloon angioplasty ___, s/p 
+PPM/ICD, systolic heart failure (unknown EF), ___ (baseline Cr 
+2.1) who presented to ___ after experiencing ___ 
+chest pain ___ afternoon. She received 1u pRBCs at 9AM that 
+day at ___ for her chronic anemia.  
+At the OSH she was found to have a BNP >30,000, Troponin 0.04, 
+Cr 2.0 and was saturating at 85% on room air. She was 
+transferred to ___ for further management.  
+In the ED, initial vitals were: T 98.9, 92, 124/76, 22, 97% RA  
+- Exam notable for NAD, slight wheezing and crackles in 
+bilateral lower lobes (worse on right).  
+- Labs notable for WBC 3.4k, Hgb 9.0, ___ 38000 (up from 
+prior of ___, Cr 2.1 (stable from baseline), K 3.7, Mg 1.9, 
+Trop 0.05 (from 0.04 at OSH).  
+- Imaging: CXR w/ mild vascular congestion, interstitial edema, 
+moderate layering bilateral effusions, moderate cardiomegaly.  
+Patient was given:  
+- Lasix 40mg IV at 0144 AM  
+On the floor, patient is not complaining of any chest pain or 
+shortness of breath.  She has noted increased lower extremity 
+edema and fatigue. Does not know her "dry weight".  
+ROS:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies palpitations. Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria.  
+ 
+Past Medical History:
+- H/o systolic heart failure (last ___ @ ___ was in ___, 
+followed by Dr. ___ last ___ ___ EF 25% 
+with diastolic dysfunction
+- H/o apical LV aneurysm (previously on Coumadin)  
+- H/o LV rupture secondary to catheterization ___
+- H/o CAD s/p MI and balloon angioplasty ___
+- S/p PPM/ICD ___
+- ___ (baseline creatinine 2.1)  
+- Hypertension  
+- Hyperlipidemia  
+- Chronic anemia newly transfusion dependent
+- GERD  
+- H/o herpes zoster  
+- S/p total hip replacement x 2
+ 
+Social History:
+___
+Family History:
+Non-contributory.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vital Signs: T 98.2, 142/64, 68, 22, 97% on 2L NC  
+Weight: 43.0 kg (94.8 lbs) standing weight on admission.  
+General: Alert, oriented, elderly female in no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+Neck: JVP to earlobe at 90 degrees  
+CV: Regular rate and rhythm, normal S1 + S2, + systolic murmur
+Lungs: Diffusely rhonchorous and wheezy, crackles at bilateral 
+bases. 
+GU: No foley  
+Ext: Warm, well perfused, 2+ lower extremity edema up to level 
+of sacrum.  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities.  
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: AF T97.5 BP 110-117/48-53 HR ___ RR ___ 93 on RA
+Weight: 38.7kg
+GENERAL: WDWN elderly female in NAD. Oriented X 3.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink. MMM. 
+NECK: Supple with JVP nadir 9mmg Hg 45 degrees
+CARDIAC: RRR normal S1, S2. Tricuspid regurgitation LLSB; 
+systolic MR murmur at apex. No thrills, lifts. No S3 or S4.  
+LUNGS: Respirations were unlabored, no accessory muscle use. L 
+base inspiratory crackles.
+ABDOMEN: Soft, NTND. +BS
+EXTREMITIES: trace edema to mid shin bilaterally 
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: bilateral 2+ radial 2+ carotid 2+ DP
+NEURO: CNII-XII intact, ___ strength upper/lower extremities.  
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 12:50AM BLOOD WBC-3.4* RBC-3.36* Hgb-9.0* Hct-28.5* 
+MCV-85 MCH-26.8 MCHC-31.6* RDW-15.5 RDWSD-47.0* Plt ___
+___ 12:50AM BLOOD Neuts-68.6 Lymphs-16.6* Monos-9.0 Eos-4.9 
+Baso-0.6 Im ___ AbsNeut-2.36 AbsLymp-0.57* AbsMono-0.31 
+AbsEos-0.17 AbsBaso-0.02
+___ 12:50AM BLOOD ___ PTT-28.0 ___
+___ 12:50AM BLOOD Glucose-92 UreaN-68* Creat-2.1* Na-139 
+K-3.7 Cl-103 HCO3-20* AnGap-20
+___ 12:50AM BLOOD CK(CPK)-171
+___ 12:50AM BLOOD CK-MB-3 ___
+___ 12:50AM BLOOD cTropnT-0.05*
+___ 07:15AM BLOOD CK-MB-3 cTropnT-0.05*
+___ 12:50AM BLOOD Calcium-8.9 Phos-2.9 Mg-1.9
+
+INTERVAL LABS:
+=============
+___ 07:15AM BLOOD WBC-4.5 RBC-3.20* Hgb-8.8* Hct-27.2* 
+MCV-85 MCH-27.5 MCHC-32.4 RDW-15.6* RDWSD-46.9* Plt ___
+___ 07:38AM BLOOD WBC-5.4 RBC-2.92* Hgb-7.9* Hct-25.2* 
+MCV-86 MCH-27.1 MCHC-31.3* RDW-15.9* RDWSD-48.6* Plt ___
+___ 06:40AM BLOOD WBC-4.2 RBC-2.84* Hgb-7.9* Hct-25.5* 
+MCV-90 MCH-27.8 MCHC-31.0* RDW-17.4* RDWSD-51.6* Plt ___
+___ 06:50AM BLOOD Neuts-72.7* Lymphs-9.6* Monos-9.8 
+Eos-7.1* Baso-0.4 Im ___ AbsNeut-3.78 AbsLymp-0.50* 
+AbsMono-0.51 AbsEos-0.37 AbsBaso-0.02
+___ 06:44PM BLOOD Glucose-161* UreaN-69* Creat-2.3* Na-141 
+K-3.8 Cl-102 HCO3-21* AnGap-22*
+___ 07:38AM BLOOD Glucose-85 UreaN-64* Creat-2.0* Na-142 
+K-4.0 Cl-103 HCO3-25 AnGap-18
+___ 01:35PM BLOOD Glucose-127* UreaN-57* Creat-2.0* Na-141 
+K-3.8 Cl-97 HCO3-30 AnGap-18
+___ 03:02PM BLOOD Glucose-134* UreaN-63* Creat-1.9* Na-139 
+K-4.0 Cl-96 HCO3-31 AnGap-16
+___ 06:40AM BLOOD Glucose-75 UreaN-63* Creat-1.9* Na-142 
+K-4.1 Cl-95* HCO3-32 AnGap-19
+___ 07:15AM BLOOD ALT-61* AST-67* CK(CPK)-161 AlkPhos-129* 
+TotBili-0.8
+___ 02:51PM BLOOD ALT-39 AST-21 LD(LDH)-280* AlkPhos-104 
+TotBili-0.8
+___ 02:51PM BLOOD Albumin-3.1* Calcium-8.4 Phos-3.3 Mg-2.3
+___ 06:45AM BLOOD Calcium-8.6 Phos-2.6* Mg-2.1 
+UricAcd-13.2*
+___ 07:15AM BLOOD Calcium-8.9 Phos-2.8 Mg-1.8 Iron-78
+___ 07:15AM BLOOD calTIBC-407 VitB12-300 Ferritn-56 TRF-313
+___ 07:15AM BLOOD TSH-7.6*
+___ 07:15AM BLOOD Free T4-1.4
+
+DISCHARGE LABS:
+==============
+___ 06:40AM BLOOD WBC-4.6 RBC-2.88* Hgb-8.2* Hct-26.3* 
+MCV-91 MCH-28.5 MCHC-31.2* RDW-17.9* RDWSD-54.1* Plt ___
+___ 06:40AM BLOOD Glucose-81 UreaN-60* Creat-1.9* Na-141 
+K-4.4 Cl-95* HCO3-28 AnGap-22*
+___ 06:40AM BLOOD Calcium-8.5 Phos-3.1 Mg-2.0
+
+STUDIES/REPORTS:
+===============
+___ CXR
+Comparison to ___.  Newly appeared mild to moderate 
+left pleural effusion.  No overt pulmonary edema.  Left basilar 
+atelectasis.  Mild cardiomegaly.  Stable position of the left 
+pectoral pacemaker. 
+
+___ CXR
+1. Mild pulmonary vascular congestion with mild associated 
+interstitial edema. 
+2. Moderate layering pleural effusions, likely bilateral. 
+3. Retrocardiac airspace opacity may represent atelectasis or 
+consolidation, depending upon the clinical circumstances. 
+4. Moderate cardiomegaly. 
+  
+___ ___ Dr. ___
+LVEF 25, glogal hypokinesis, suggestion of diastolic 
+dysfunction, 2+ MR, severely elevated PASP at 68 mmHg, estimated 
+RAP > 15 mmHg, 3+ TR, IVC 2.5 cm.
+
+___ CORONARY ANGIOGRAM
+1. Coronary angiography revealed patent sites of PTCA in the LAD 
+and D1. The mid LAD had a 40% lesion and the origin of D2 had a 
+70% stenosis with slightly delayed flow in the LAD system. There 
+was no significant epicardial disease in the LCx or RCA.  
+2. Right heart catheterization revealed equalization and 
+elevation of all filling pressures consistent with tamponade 
+physiology. RA was 29 mmHg, PA 44/31 mmHg, PCWP 32 mmHg, LVEDP 
+30 mmHg. Emergent echocardiogram in the catheterization 
+laboratory was consistent with tamponade.  
+3. Left ventriculography revealed severe hypokinesis of the 
+anterobasal and anterolateral walls with dyskinesis of the apex. 
+There was 2+ mitral regurgitation and no evidence of dye 
+extravasation into the pericardium. The LVEF was 25%.  
+4. Emergent surgical consultation was obtained, and the patient 
+was taken emergently to the O.R. for repair of presumed LV 
+perforation.  
+
+MICRO:
+=====
+___ 12:20 pm SPUTUM      Source: Expectorated. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      <10 PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+
+___ 4:40 pm THROAT FOR STREP
+
+                            **FINAL REPORT ___
+
+   R/O Beta Strep Group A (Final ___: 
+      NO BETA STREPTOCOCCUS GROUP A FOUND. 
+
+ 
+Brief Hospital Course:
+___ with PMHx of CAD s/p MI and balloon angioplasty c/b LV 
+rupture ___, s/p PPM/ICD ___, hx of systolic heart failure 
+(EF 25% ___ outside ___ with diastolic dysfunction, 
+history of apical aneurysm previously on AC, ___ (baseline Cr 
+2), chronic anemia newly transfusion dependent, who presented to 
+___ ED with chest pain hypoxic with elevated BNP found to 
+have acute on chronic systolic heart failure exacerbation in the 
+setting of a blood transfusion at ___ earlier in the day. 
+Patient was diuresed with lasix boluses and transitioned to oral 
+diuretic 20mg torsemide daily with discharge weight 38.7kg.
+
+HOSPITAL COURSE BY PROBLEM LIST:
+===============================
+# Acute on Chronic Systolic Heart Failure: Most likely worsened 
+acutely by 1u pRBC transfusion for chronic anemia on day of 
+admission. In reviewing her outpatient records, it does appear 
+that her diuretic dosing has been changing/increasing over the 
+past several weeks. She is currently on torsemide 10mg PO daily, 
+and Entresto dose was increased a few weeks ago. Troponins flat 
+at 0.05/0.05 and chest pain was minor, completely resolved on 
+admission. TSH slightly elevated at 7.6, but no obvious signs of 
+hypothyroidism, ft4 normal likely subclinical hypothyroidism. 
+Unlikely dietary indiscretion (sister cooks all meals without 
+any added salt, strictly adheres to 1600mg sodium/day). On 
+admission with significant lower extremity edema, elevated JVP, 
+with BNP at highest level ever. She was diuresed with lasix 
+boluses with marked improvement in volume status, transitioned 
+to PO torsemide 20mg daily for her oral diuretic with dry weight 
+of 38.7kg. Discharged on Sacubitril-Valsartan (49mg-51mg) 1 TAB 
+PO BID and Carvedilol 12.5mg PO BID.  Spironolactone was 
+discontinued given hypotension. 
+
+# Cough/Sore throat: Patient with cough and sore throat, likely 
+secondary to atelectasis and heart failure exacerbation. 
+Improved with diuresis, incentive spirotomy, and mobilization. 
+Given sore throat, rapid strep culture ordered and was negative. 
+Patient without signs or symptoms of acute infection. 
+
+# Left First Toe Gout: Patient received .6mg colchicine x1 dose 
+for left toe gout with resolution during admission. Uric acid 
+level 13.2.
+
+# H/o CAD s/p MI and balloon angioplasty ___: continued on 
+aspirin 81mg daily, but held fluvastatin in house given non 
+formulary. 
+
+# ___ Stage IV: (baseline creatinine ~2) At baseline this 
+admission, likely cardiorenal in origin.
+
+# Hypertension: Dose reduced sacubutril/valsartan and carvedilol 
+during diuresis; BP at goal prior to discharge on inpatient 
+regimen. Did not give spironolactone this admission given 
+concern for hypotension during diuresis.
+
+# Chronic anemia: Felt to be secondary to anemia of chronic 
+disease and ___. Received 1U pRBCs on ___ morning of 
+admission, complicated by acute decompensation of heart failure. 
+Recommend increasing home diuretics (double PO dose) around the 
+time of transfusion when/if she has pRBCs transfused as 
+outpatient. Patient received 3 days of IV iron in house. 
+
+=================================
+TRANSITIONAL ISSUES
+=================================
+Discharge Weight: 38.7kg
+Discharge Cr: 1.9
+Discharge Hbg: 8.2
+CHANGED MEDICATIONS: Carvedilol 15.625mg BID to Carvedilol 
+12.5mg BID, Torsemide 10mg QD to Torsemide 20mg QD, 
+Sacubitril-Valsartan (73mg-79mg) BID to Sacubitril-Valsartan 
+(49mg-51mg) BID.
+DISCONTINUED MEDICATIONS: Valtessa, spirinolactone
+HELD MEDICATIONS: Fluvastatin Sodium 80 mg QPM as non formulary 
+- Patient to be seen by cardiology on ___, please recheck 
+CBC, chem-10 and recheck weight; up or downtitrate torsemide as 
+needed (discharged with 20 mg daily). Of note we stopped 
+patient's spironolactone due to hypotension; patient also had 
+her entresto dose decreased to Sacubitril-Valsartan (49mg-51mg) 
+BID. 
+- Per patient and family request, they wish to defer epo 
+injections due to stroke risk in future for anemia; however 
+patient reports she is amenable to talking to renal in future to 
+discuss risk/benefit of epo for anemia in ___
+- Patient's nephrologist switched from Dr. ___, only 
+seen once) to Dr. ___ at ___ due to 
+transportation considerations of family
+- Patient discharged with home telehealth monitoring, physical 
+therapy, patient advised to call cardiologist or PCP if weight 
+increases > 3 lbs in a day. 
+- During admission, had baseline MOCA performed score ___ with 
+deficits in memory and visual/spatial categories. PCP to 
+___ MOCA if patient and/or family concerned for memory 
+loss.
+- Recommend increasing home diuretics (doubling oral dose) 
+around the time of transfusion when/if she has pRBCs transfused 
+as outpatient.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sacubitril-Valsartan (24mg-26mg) 1 TAB PO BID 
+2. Carvedilol 15.625 mg PO BID 
+3. Aspirin EC 81 mg PO DAILY 
+4. Torsemide 10 mg PO DAILY 
+5. Ezetimibe 10 mg PO QOD 
+6. Fluvastatin Sodium 80 mg oral QPM 
+7. nizatidine 150 mg oral BID 
+8. Spironolactone 12.5 mg PO 3X/WEEK (___) 
+9. Sacubitril-Valsartan (49mg-51mg) 1 TAB PO BID 
+10. Veltassa (patiromer calcium sorbitex) 8.4 gram oral DAILY 
+11. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN CHEST PAIN 
+12. pseudoephedrine-guaifenesin 60-600 mg oral BID:PRN 
+13. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Carvedilol 12.5 mg PO BID 
+RX *carvedilol 12.5 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*0 
+2.  Torsemide 20 mg PO DAILY 
+RX *torsemide 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Aspirin EC 81 mg PO DAILY  
+4.  Ezetimibe 10 mg PO QOD  
+5.  Fluvastatin Sodium 80 mg oral QPM  
+6.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN CHEST PAIN  
+7.  nizatidine 150 mg oral BID  
+8.  pseudoephedrine-guaifenesin 60-600 mg oral BID:PRN  
+9.  Sacubitril-Valsartan (49mg-51mg) 1 TAB PO BID 
+RX *sacubitril-valsartan [Entresto] 49 mg-51 mg 1 tablet(s) by 
+mouth twice daily Disp #*60 Tablet Refills:*0 
+10.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Acute on Chronic Systolic Heart Failure 
+
+Secondary Diagnosis:
+L toe gout flare
+___
+Anemia of Chronic Disease
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+___ were admitted to the cardiology service because ___ felt 
+some chest discomfort after getting your blood transfusion.  ___ 
+had an acute worsening of your heart failure.  We gave ___ 
+diuretics through your IV initially to help ___ get rid of extra 
+fluid.  We then transitioned ___ an oral pill diuretic 
+(torsemide) to maintain your weight and fluid balance.  
+
+At discharge ___ weighed 83.5 pounds.  This is your new "dry" 
+weight.  Please weight yourself daily after urinating in the 
+morning in light weight clothing and call your Cardiologist's 
+office (Dr. ___ if your weight increases by more than 3 pounds 
+in one day or 5 pounds in 3 days.  Please limit your salt intake 
+to <2g per day and limit your fluid intake to 2L per day.
+
+Dr. ___ will call ___ after discharge to schedule 
+a follow up appointment.
+
+___ have an appointment on ___ at 1pm with Dr. 
+___ have an appointment on ___ at 1pm with Dr. 
+___ doctor at ___
+
+YOUR DISCHARGE DAILY MEDICATION LIST:
+Carvedilol 12.5mg daily
+Torsemide 20mg daily
+Sacubitril-Valsartan (49mg-51mg) twice per day 
+Fluvastatin Sodium 80 mg at night (as ___ were taking before)
+Aspirin 81mg daily (as ___ were taking before)
+Ezitimibe 10mg every other day (as ___ were taking before)
+Vitamin D daily (as ___ were taking before)
+Nizatidine 150 mg twice daily (as ___ were taking before)
+
+It was a pleasure taking care of ___,
+
+Your ___ Cardiac Care Team
+
+ 
+Followup Instructions:
+___

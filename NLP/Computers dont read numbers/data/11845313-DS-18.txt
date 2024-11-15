@@ -1,0 +1,290 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Anemia - Blood Transfusion 
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ male with h/o HCV cirrhosis, HCC s/p liver 
+transplant ___ (on tacrolimus), complicated by severe early 
+recurrence of hepatitis C and advanced fibrosis. Now undergoing 
+treatment with interferon/ribavirin since ___ and telaprevir 
+since ___. Routine labs revealed worsening anemia, 
+leukopenia, and thrombocytopenia. He was called by ___ 
+and asked to come into the hospital for transfusion.  
+.  
+Patient states he has been well. Denies 
+fever/chills/cough/shortness of breath. Denies 
+bleeding/bruising. States he was fatigued over the weekend after 
+interferon however felt well today and went to work without 
+problem.  
+.  
+Review of Systems: Negative despite what mentioned in HPI.  
+
+ 
+Past Medical History:
+Liver Transplant Hx:  
+-___ HCV cirrhosis dx  
+- ___ trial of interferon, and ___ trial of 
+peg-interferon/ribavirin in ___, but no response  
+-___ HCC dx 1.1x0.9cm segment V lesion and 2x1.5cm segment 
+VII  
+lesion s/p RFA for VI and VII segment lesions  
+-___ liver tx  
+-Post tx course c/b recurrent HCV cirrhosis confirmed by bx and 
+positive HBV serologies  
+-___ started PEG-interferon/ribavirin and lamivudine/HBIg, had 
+good response with decrease in viral load from 32 million to <2 
+million.  
+-Post-tx course also c/b cholestatic hepatitis with elevated 
+bilirubin. Ultrasound, MRCP, ERCP have shown normal biliary 
+anastomosis and no stricturing, and normal hepatic arterial 
+anatomy with no hepatic artery thrombosis or stenosis.  
+-___: transjugular bx showed >stage II fibrosis in 
+transplanted liver ___ HCV recurrence  
+-___: grade I esophageal varices on EGD, grade I rectal 
+varices seen on c-scope  
+.  
+Other PMH:  
+-Basal cell carcinomas, removed  
+-Appendectomy  
+ 
+Social History:
+___
+Family History:
+His brother has melanoma. His mother had breast cancer. Father 
+had a TIA, and his paternal grandfather died of a CVA.
+ 
+Physical Exam:
+Admission Physical Exam:  
+Vitals: 98, 105/61, 79, 18, 99% RA  
+General: NAD, Pleasant  
+HEENT: No erythema  
+Neck: supple  
+Heart: regular, no m/r/g  
+Lungs: CTA B  
+Abdomen: liver transplant scar, soft, mild RUQ tenderness, NABs  
+
+Extremities: No Edema  
+Neurological: AOX3, Strength and Sensation grossly intact  
+.
+Discharge Physical Exam:
+Vitals: T 98.4 , 90-100/50-60, 70-80, 18, 96% RA  
+General: NAD, Pleasant, resting comfortably  
+HEENT: No erythema  
+Neck: supple  
+Heart: regular, no m/r/g  
+Lungs: CTA B  
+Abdomen: liver transplant scar healing well, soft, ND, mild RUQ 
+tenderness, NABs  
+Extremities: No Edema  
+Neurological: AOX3, Strength and Sensation grossly intact  
+
+ 
+Pertinent Results:
+Labs on Admission:
+___ 08:30AM BLOOD WBC-1.1*# RBC-2.24* Hgb-7.7* Hct-24.6* 
+MCV-110* MCH-34.4* MCHC-31.3 RDW-15.3 Plt Ct-38*
+___ 08:30AM BLOOD Neuts-62 Bands-0 ___ Monos-7 Eos-1 
+Baso-0 ___ Myelos-0
+___ 08:30AM BLOOD UreaN-31* Creat-1.1 Na-142 K-3.8 Cl-111* 
+HCO3-25 AnGap-10
+___ 08:30AM BLOOD ALT-37 AST-39 AlkPhos-107 TotBili-0.6
+___ 08:30AM BLOOD Albumin-3.6 Calcium-8.3* Phos-3.1 Mg-1.9
+___ 08:30AM BLOOD tacroFK-4.9*
+
+Pertinent Labs:
+___ 06:33AM BLOOD WBC-3.4*# RBC-2.45* Hgb-8.2* Hct-24.9* 
+MCV-102*# MCH-33.6* MCHC-33.0 RDW-17.9* Plt Ct-35*
+___ 06:25AM BLOOD WBC-5.4# RBC-2.65* Hgb-8.9* Hct-26.4* 
+MCV-100* MCH-33.5* MCHC-33.6 RDW-18.5* Plt Ct-38*
+___ 06:25AM BLOOD Neuts-87.0* Lymphs-10.0* Monos-2.2 
+Eos-0.7 Baso-0.1
+___ 06:33AM BLOOD Glucose-130* UreaN-29* Creat-1.1 Na-140 
+K-3.6 Cl-111* HCO3-25 AnGap-8
+___ 06:25AM BLOOD Glucose-120* UreaN-28* Creat-1.1 Na-143 
+K-3.9 Cl-112* HCO3-25 AnGap-10
+___ 06:33AM BLOOD ALT-34 AST-40 AlkPhos-107 TotBili-1.1
+___ 06:25AM BLOOD ALT-30 AST-35 AlkPhos-116 TotBili-1.2
+___ 06:33AM BLOOD tacroFK-11.2
+___ 06:25AM BLOOD tacroFK-8.7
+
+Serology:
+ **FINAL REPORT ___
+
+   HCV VIRAL LOAD (Final ___: 
+      HCV RNA detected, less than 43 IU/mL. 
+
+**FINAL REPORT ___
+
+   CMV Viral Load (Final ___: 
+      CMV DNA not detected. 
+
+ 
+Brief Hospital Course:
+___ male with h/o HCV cirrhosis, ___ s/p liver 
+transplant ___ (on tacrolimus), complicated by severe early 
+recurrence of hepatitis C and advanced fibrosis. Now undergoing 
+treatment with interferon/Ribavirin since ___ and telaprevir 
+since ___. Routine labs revealed worsening anemia, 
+leukopenia, and thrombocytopenia.  
+.  
+# Anemia/Thrombocytopenia/Leukopenia: Likely all secondary to 
+patient's current treatment regiment for hepatitis C - 
+interferon/Ribavirin/telaprevir. We decreased Ribavirin to 400 
+mg in am and 200 mg in pm. CellCept was stopped on admission. 
+Tacrolimus was increased to 1mg two times per week. We continued 
+Interferon and Telaprevir. On admission the pt was transfused 2 
+units of PRBCs. Daily CBCs were obtained and his pancytopenia 
+improved with the dosage changes. A CMV viral load was obtained 
+and levels were not detected. 
+.
+# Hepatitic C Cirrhosis s/p Transplant: We continued treatment 
+with Interferon and Telaprevir. We decreased the dose of 
+Ribavirin as stated above. No evidence of liver decompensation 
+was noted on exam or history. Liver function tests remained 
+normal. We continued Furosemide at his home dose.  
+.
+#Transitional: The pt was given a follow up appointment with Dr. 
+___ discharge with a script for repeat lab work to 
+be performed prior to that time. 
+ 
+Medications on Admission:
+EPOETIN ALFA [EPOGEN] - 20,000 unit/mL Solution - SQ Q week  
+FAMOTIDINE - (Prescribed upon d/c ) - 20 mg Tablet - 1 Tablet(s) 
+ 
+by mouth every twelve (12) hours  
+FILGRASTIM [NEUPOGEN] - (Dose adjustment - no new Rx; Changed  
+upon d/c from hospital) - 480 mcg/1.6 mL Solution - 1 
+Solution(s)  
+Q week Every ___  
+FUROSEMIDE - (Dose adjustment - no new Rx) - 20 mg Tablet - 1  
+Tablet(s) by mouth DAILY (Daily)  
+HYDROCORTISONE ACETATE - (Prescribed upon d/c) - 25 mg  
+Suppository - 1 Suppository(s) rectally at bedtime  
+LAMIVUDINE [EPIVIR HBV] - 100 mg Tablet - 1 Tablet(s) by mouth  
+once a day  
+LIDOCAINE HCL - (Prescreibed upon d/c ) - 5 % Ointment - 1  
+Ointment(s) every eight (8) hours as needed for rectal 
+discomfort  
+MYCOPHENOLATE MOFETIL - (Prescribed upon d/c) - 500 mg Tablet -  
+
+1 Tablet(s) by mouth twice a day  
+PEGINTERFERON ALFA-2A [PEGASYS] - 180 mcg/mL Solution - inject  
+90mcg Q week taken on ___  
+RIBAVIRIN - 200 mg Tablet - 2 Tablet(s) by mouth twice a day  
+SULFAMETHOXAZOLE-TRIMETHOPRIM - (pt will take ongoing) - 400  
+mg-80 mg Tablet - 1 Tablet(s) by mouth once a day  
+TACROLIMUS - (Dose adjustment - no new Rx) - 0.5 mg Capsule - 3  
+
+Capsule(s) by mouth as driected  
+TELAPREVIR [INCIVEK] - 375 mg Tablet - 2 Tablet(s) by mouth 
+three  
+times a day  
+.  
+Medications - OTC  
+CALCIUM CARBONATE - (OTC) - 600 mg (1,500 mg) Tablet - 1  
+Tablet(s) by mouth once a day  
+CHOLECALCIFEROL (VITAMIN D3) [VITAMIN D] - (OTC) - 1,000 unit  
+Capsule - 1 Capsule(s) by mouth once a day  
+FSH-FLX-PRM-BLKBOR-OM 3,6,9 #5 [OMEGA ___ FATTY ACIDS] - (OTC) 
+ 
+- 400 mg-400 mg-200 mg Capsule - 1 Capsule(s) by mouth once a 
+day  
+LACTOBACILLUS ACIDOPHILUS - (OTC) - Capsule - 1 Capsule(s) by  
+mouth twice a day  
+MULTIVITAMIN - (OTC) - Capsule - 1 Capsule(s) by mouth once a  
+day  
+
+ 
+Discharge Medications:
+1. epoetin alfa 20,000 unit/mL Solution Sig: One (1)  Injection 
+once a week: On ___.  
+2. famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 
+hours).  
+3. filgrastim 480 mcg/1.6 mL Solution Sig: One (1)  Injection 
+1X/WEEK (MO).  
+4. furosemide 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+5. hydrocortisone acetate 25 mg Suppository Sig: One (1)  Rectal 
+at bedtime as needed for hemorrhoids.  
+6. lamivudine 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. lidocaine HCl 5 % Ointment Sig: One (1)  Topical every eight 
+(8) hours as needed for rectal pain.  
+8. Pegasys 180 mcg/mL Solution Sig: inject 90mcg Q week on 
+___  Subcutaneous once a week.  
+9. ribavirin 200 mg Capsule Sig: Two (2) Capsule PO QAM (once a 
+day (in the morning)).  
+10. ribavirin 200 mg Capsule Sig: One (1) Capsule PO QPM (once a 
+day (in the evening)).  
+11. sulfamethoxazole-trimethoprim 400-80 mg Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+12. telaprevir 375 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 
+hours).  
+13. tacrolimus 1 mg Capsule Sig: One (1) Capsule PO 2X/WEEK 
+(MO,TH).  
+14. multivitamin     Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+15. calcium carbonate 600 mg (1,500 mg) Tablet Sig: One (1) 
+Tablet PO once a day.  
+16. cholecalciferol (vitamin D3) 1,000 unit Capsule Sig: One (1) 
+Capsule PO once a day.  
+17. fsh-flx-prm-blkbor-om 3,6,9 #5 ___ mg Capsule Sig: 
+One (1) Capsule PO once a day.  
+18. lactobacillus acidophilus     Capsule Sig: One (1) Capsule 
+PO twice a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+- Hepatitis C Infection
+- Hepatitis C Cirrhosis with Fibrosis
+- Status Post Liver Transplant
+- Pancytopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___ while you were admitted with low blood cell 
+counts. It was felt that your low blood cell counts were 
+secondary to your immunosuppresion and hepatitis C treatment. 
+You were given two blood transfusions and several changes were 
+made to your medications. 
+
+The following changes were made to your medications: 
+-- CHANGE Ribavirin to 400mg in the morning and 200mg in the 
+evening
+-- STOP Cellcept
+-- CHANGE Tacrolimus to 1mg twice weekly
+
+Please follow up with Dr. ___ at the ___ on ___ for repeat lab testing and follow up. 
+ 
+Followup Instructions:
+___

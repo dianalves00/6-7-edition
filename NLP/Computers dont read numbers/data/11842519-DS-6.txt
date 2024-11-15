@@ -1,0 +1,351 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Demerol / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Lower extremity swelling
+ 
+Major Surgical or Invasive Procedure:
+Right Heart Catheterization ___
+
+ 
+History of Present Illness:
+This is a ___ F w PMHx HTN, DM, HLD, morbid obesity, ___ 
+previously being treated w torsemide and metolazine, but stopped 
+metalazone 1mo ago after bump in creatinine (1.9 to 2.4), 
+presenting now with c/o orthopnea and SOB on exertion at rest.  
+No CP.  
+.
+Patient reports over the summer she had diuresed off >20lbs of 
+fluid on torsemide and metolazone.  At office visit 1mo ago w 
+Dr. ___ was noted to have worsening renal isufficiency.  
+Her metolazone was stopped at that time.  Patient reports that 
+since that time, she has gained 11lbs and has developed 
+increasing shortness of breath.  Patient was recently seen by 
+her PCP, who noted these findings.  At that time, patients Cr 
+had decreased to 2.1.  She was instructed to restart metolazone 
+2.5mg three times per week.  
+.
+Patient felt that symptoms did not improve after 24hrs of 
+medication, and was instructed to presented to the ED for 
+inpatient management of dCHF.  
+.
+In the ED, patient's initial vital signs were 97.6 77 120/73 20 
+99%2L (baseline).  Her EKG was wnl, and was given lasix 40mg IV. 
+ Her labs were significant for a Cr 3.7, HCT 24.8(baseline), WCC 
+9.5, clean UA.  CXR demonstrated small pleural effusions, mild 
+pulm congestions.  
+.
+On transfer, VS were 98.0 70 133/61 16 100%2LNC.  
+.
+On review of systems, she denies any myalgias, joint pains, 
+hemoptysis, black stools or red stools. She denies recent 
+fevers, chills or rigors. She denies chest pain, paroxysmal 
+nocturnal dyspnea, orthopnea, palpitations, syncope or 
+presyncope.  
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. CARDIAC RISK FACTORS: +Diabetes +Dyslipidemia, +Hypertension  
+
+2. CARDIAC HISTORY:  
+-Diastolic dysfunction
+3. OTHER PAST MEDICAL HISTORY:  
+-OSA on CPAP
+-Obesity
+-Diabetes c/b retinopathy and neuropathy
+-Fibromyalgia
+-Hypothyroidism
+-Osteoarthritis
+-CRI 
+-Hypothyroidism,
+-Chronic fatigue syndrome
+-___ esophagus
+-Iron deficiency Anemia
+-Diverticulosis
+-Fatty liver with some nodularity noted intraoperative in ___
+-MVA c/b 1mo hospital stay for R ankle malleolar fracture, 
+thoracic vertebral fracture requiring T4-8 fusion, gram-negative 
+multilobar PNA, CNS bacteremia
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION
+VS: 97.7 159/74 86 22 97%2L (118.7kg)
+GENERAL: NAD, AOxx3. Mood, affect appropriate.  
+HEENT: PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis 
+of the oral mucosa. No xanthalesma.  
+NECK: Supple with JVD to ear.
+CARDIAC: RRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 
+or S4.  
+LUNGS: Resp were unlabored, no accessory muscle use. Bibasilar 
+crackles, no wheezes, rales, rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: 2+ tight edema to knees bilaterally.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES:  
+Right: Carotid 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ DP 2+ ___ 2+  
+
+DISCHARGE
+VS: 98.2 126/63 67 18 92%CPAP 116.8kg
+I/O 32/1200 (8hr) ___ (24hr)  
+GENERAL: NAD, AOx3, Comfortable  
+HEENT: PERRL, EOMI, Conjunctiva were pink, no pallor or cyanosis 
+of the oral mucosa.  
+NECK: Supple with JVD to anlge of mandible.  
+CARDIAC: RRR, nlS1/S2. No m/r/g. No thrills, lifts. No S3 or S4. 
+ 
+LUNGS: Resp were unlabored, no accessory muscle use. Crackles 
+___ up stable from prior exam, no wheezes, rales, rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not 
+enlarged by palpation. No abdominial bruits.  
+EXTREMITIES: 2+ edema to mid-calf, improved from prior  
+SKIN: No stasis dermatitis, ulcers, scars  
+PULSES:  
+Right: Carotid 2+ DP 2+ ___ 2+  
+Left: Carotid 2+ DP 2+ ___ 2+  
+
+ 
+Pertinent Results:
+Blood Counts: 
+___ 01:06PM BLOOD WBC-10.1 RBC-2.71* Hgb-8.2* Hct-24.2* 
+MCV-89 MCH-30.4 MCHC-34.1 RDW-13.3 Plt ___
+___ 06:45AM BLOOD WBC-9.3 RBC-2.66* Hgb-7.6* Hct-23.5* 
+MCV-88 MCH-28.8 MCHC-32.5 RDW-13.7 Plt ___
+___ 06:30AM BLOOD WBC-6.4 RBC-2.60* Hgb-7.8* Hct-23.2* 
+MCV-89 MCH-29.8 MCHC-33.5 RDW-14.0 Plt ___
+
+Coags:
+___ 10:30AM BLOOD ___ PTT-24.1 ___
+
+Chemistry
+___ 10:30AM BLOOD Glucose-110* UreaN-97* Creat-3.7* Na-134 
+K-4.6 Cl-98 HCO3-20* AnGap-21*
+___ 03:35PM BLOOD Glucose-192* UreaN-114* Creat-3.2* Na-138 
+K-5.1 Cl-99 HCO3-26 AnGap-18
+___ 06:30AM BLOOD Glucose-75 UreaN-108* Creat-2.6* Na-142 
+K-4.2 Cl-101 HCO3-34* AnGap-11
+
+Heart
+___ 10:30AM BLOOD proBNP-1873*
+
+Diabetes
+___ 01:06PM BLOOD %HbA1c-7.9* eAG-180*
+
+CCath ___
+1. Resting hemodynamics revealed markedly elevated right and 
+left heart 
+filling pressures with RVEDP 30 mmHg and PCWP 32 mmHg. There was 
+severe 
+pulmonary arterial hypertension with PASP 68 mmHg. The cardiac 
+index was 
+preserved at 3.4 L/min/m2. The pulmonary vascular resistance was 
+mildly 
+elevated at 144 dyn-sec/cm5. 
+FINAL DIAGNOSIS:     
+1. Markedly elevated biventricular filling pressures. 
+2. Severe pulmonary hypertension. 
+3. Recommend increased diuresis. 
+
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+___ female w ___ p/w increasing ___, SOB, rising creatinine in 
+setting of diuresis, R heart cath demonstrating elevated wedge, 
+RA, PA pressures, found to have likely interstitial nephritis as 
+a result of lasix (sulfa- allergy) switched to ethacrynic acid 
+with improvement in symptoms and kidney function.
+.  
+ACTIVE
+# ARF: Pt a/w rising Cr to 3.4 in setting of outpatient and 
+inpatient diuresis with lasix and metolazone.  Her ACE was held 
+and she was originally treated with aggressive lasix and 
+metolazone for suspected etiology of poor forward flow.  On 
+consultation with renal service, white cell casts were noted in 
+the urine with positive urine eos as well, suggesting possible 
+AIN etiology ___ to sulfa allergy (lasix/metolazone).  Patient 
+lasix, metolazone, omeprazole (all sulfa containing drugs) were 
+discontinued and patient was started on ethacrynic acid with 
+good effect. Her CaCO3 was increased to TID w meals.  Cr trended 
+down to 2.5 and patient was discharged with close outpatient 
+follow up with primary care doctor.  
+.  
+#Chronic Diastolic Heart Failure: Pt w known ___, who presented 
+with wt gain, SOB, cath findings c/w worsening failure and 
+pulmonary hypertension, c/b ARF.  Patient was started on revatio 
+(sildenafil) for treatment of worsening pHTN.  As above patient 
+was treated with ethacrynic acid with symptomatic improvement.
+.
+#Tremor: During this hospitalization, patient developed new 
+onset intentional tremor w/o focal neurologic signs in setting 
+of rising BUN to 115.  On review of the case, it was thought 
+this was a result of worsening uremia, and that there were not 
+other possible medication or medical etiologies.  The tremor 
+began to resolve w trending down of BUN.  
+.  
+# Chronic Anemia: Patient's HCT remained stable at 23.2 and 
+patient was asymptomatic.  Renal consult did not believe epo was 
+necessary at this time.  Her home Fe was increased to BID from 
+daily. 
+.  
+# CORONARIES:  Patient was continued on home ASA, metoprolol, 
+lipitor.  As discussed above, lisinopril was held ___ ARF.  
+.
+# DM c/b neuropathy: Patient was continued on Lantus 50 units 
+qHS, sliding scale insulin.  She was continued on home 
+amitriptyline 75 mg qHS.  Her gabapentin was decreased to daily 
+dosing given her worsening renal function. 
+.
+# GERD: As discussed above, patient's omeprazole was 
+discontinued as a result of sulfa allergy and AIN concerns.  She 
+was started on ranitidine.  
+.
+# HTN: Patient was continued on home amlodipine, clonidine, 
+hydralazine, and metoprolol succinate.  
+.
+# Hypothyroid: Patient was continued on Synthroid 88 mcg daily
+.
+TRANSITIONAL
+1. Code status: Patient remained full code
+2. Pending labs: No labs were pending at time of discharge
+3. Transition of Care: Patient was made follow-up appointments 
+with her PCP and Dr. ___ with instructions to have her BUN/Cr 
+checked within 1wk.  She was also arranged for outpatient renal 
+follow-up.  PCP Dr ___ was updated via email on the events of 
+this admission. 
+ 
+Medications on Admission:
+amitriptyline 75 mg qHS
+amlodipine 10 mg daily
+Lipitor 40 mg daily
+clonidine 0.2 mg three times a day
+gabapentin 200 mg twice a day
+heparin subcutaneous every eight hours
+hydralazine 25 mg TID day, 
+Lantus insulin 50 units at bedtime
+Synthroid 88 mcg daily
+Lisinopril 20 mg BID
+Metolazone 2.5 mg TID
+torsemide 60 mg daily
+omeprazole 20mg daily
+metoprolol succinate 300 mg daily
+oxycodone as needed for pain
+aspirin 81mg daily
+calcium daily
+iron daily
+multivitamin daily
+ 
+Discharge Medications:
+1. ethacrynic acid 25 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day).
+Disp:*120 Tablet(s)* Refills:*0*
+2. amitriptyline 25 mg Tablet Sig: Three (3) Tablet PO HS (at 
+bedtime).  
+3. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. levothyroxine 88 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+6. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+7. Toprol XL 100 mg Tablet Sustained Release 24 hr Sig: Three 
+(3) Tablet Sustained Release 24 hr PO once a day.  
+8. hydralazine 25 mg Tablet Sig: One (1) Tablet PO TID (3 times 
+a day).  
+9. clonidine 0.2 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+10. amlodipine 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+11. gabapentin 300 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).
+Disp:*30 Capsule(s)* Refills:*0*
+12. calcium carbonate 200 mg (500 mg) Tablet, Chewable Sig: One 
+(1) Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).
+Disp:*90 Tablet, Chewable(s)* Refills:*2*
+13. ferrous sulfate 300  mg (60 mg Iron) Tablet Sig: One (1) 
+Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*2*
+14. Lantus 100 unit/mL Cartridge Sig: Fifty (50) units 
+Subcutaneous at bedtime.  
+15. heparin (porcine) 5,000 unit/mL Cartridge Sig: One (1) mL 
+Injection every eight (8) hours.  
+16. Insulin Sliding Scale
+Insulin Sliding Scale
+As directed by your primary care doctor
+17. Outpatient Lab Work
+At your Primary Care Appoinment on ___, please have the 
+following labs checked:
+Na, K, HCO3, Cl, BUN, Cr, Mg
+18. Revatio 20 mg Tablet Sig: Two (2) Tablet PO three times a 
+day.
+Disp:*180 Tablet(s)* Refills:*0*
+19. ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+PRIMARY
+Diastolic Heart Failure
+
+SECONDARY
+Interstitial Nephritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___.  You were admitted with shortness of breath and 
+swelling of your legs.  This is likely due to a combination of 
+heart failure (less effective pumping of blood by your heart) 
+and a reaction of your kidneys to lasix.  You were treated with 
+a different kind of diuretic called ethacrynic acid.  You 
+improved and were ready for discharge.  
+
+During this hospitalization, the following changes were made to 
+your medications:
+-STOPPED lasix
+-STOPPED metolazone
+-STOPPED omeprazole
+-STARTED ethacrynic acid
+-STARTED ranitidine
+-INCREASED iron (to twice a day)
+-INCREASED calcium (to three times a day with meals)
+-DECREASED gabapentin/neurontin (to one time a day, because of 
+your changing kidney function)
+-STOPPED LISINOPRIL
+-STARTED REVATIO
+ 
+Followup Instructions:
+___

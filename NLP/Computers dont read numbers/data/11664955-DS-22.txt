@@ -1,0 +1,304 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ w SLE on low dose pred/hydroxychloroquine, recent B
+breast reduction who presents with fever. Patient had
+uncomplicated B breast reduction surgery for dorsalgia on ___
+(___) and had been healing from that. She has been taking APAP
+daily for pain and over the last few days has had worsening
+erythema around both breasts without discharge but with
+increasing pain and warmth in that area. Day prior to admission
+was feeling well but suddenly began having HA (frontal/temporal)
+without photophobia or significant neck stiffness. This is
+similar to her usual HAs but much more prominent. She took APAP
+and ibuprofen and cool pack but still felt HA and temp was 99.6
+after the meds. She also tried increasing her home pred to 4mg.
+She also had an episode of nausea and vomiting in the car on 
+ride
+to hospital, though she thinks that could have been motion
+sickness (non bloody, threw up her banana). 
+She denies confusion, vision changes, mouth pain, tooth pain,
+rhinorrhea (beyond baseline), cough, wheeze, chest pain, abd
+pain, diarrhea, dysuria, joint pain (beyond slight worsening of
+baseline hip and back pain), joint swelling, other rash. 
+She endorses worsening of her back pain when she had the HA but
+without ___ weakness/numbness. She also reports worsening of her
+baseline hip pain (which is in her greater trochnateric bursa).
+She does not feel like she is having a lupus flare. 
+
+In ED, initial vitals 96.7 109 115/77 16 99%RA. Temp rose to 101
+(with HR 77). Vitals remained AVSS otherwise. Noted to be tired
+appearing. CXR, BCx, labs, LP (0 WBCs, 0 RBCs), breast
+ultrasound. Put on vanc/CTX empirically for meningitis. Plastics
+consulted. Admitted to medicine.
+
+She reports that since being in the ED the erythema on her 
+breast
+is less prominent and she has clearance of her HA and feeling
+better. 
+
+ROS: positive or negative as above, otherwise negative in 12
+systems
+
+ 
+Past Medical History:
+SLE (diagnosed ___, ___ positive, DSDNA, ___, RNP positive w
+abnl complements; previously treated with
+ritux/cellcept/Cytoxan/MTX/Imuran/cyclosporine/plaquenil);
+currently on slow pred taper
+sicca syndrome
+an episode of steroid induced mania
+depression
+GERD
+nasal surgery
+cataracts and glaucoma
+rhinitis
+trochanteric bursitis, last injection about a year ago
+B breast reduction ___
+
+ 
+Social History:
+___
+Family History:
+mother DM/HTN
+father gout
+otherwise reviewed and non-contributory to current presentation
+
+ 
+Physical Exam:
+ADMISSION EXAM
+
+Constitutional: VS reviewed, NAD, well nourished
+HEENT: eyes anicteric, normal hearing, nose unremarkable, MMM
+without exudate
+CV: RRR no mrg
+Resp: CTAB
+GI: sntnd, NABS
+GU: no foley, neg CVAT
+MSK: no synovitis, B tenderness over trochanteric bursae without
+erythema/warmth, no spinal tenderness, no swollen joints
+Ext: wwp, neg edema in BLEs
+Skin: B breasts with erythema (see my OMR photo), no nipple
+discharge, some peeling of red breast skin, approx. 5.5x7.5cm on
+R and 5x7 on L, incisions are healing without discharge but
+erythema includes area around incisions, erythema in sharp in
+some places and not in others, some streaking type redness too
+Neuro: A&O grossly, MAEE, no facial droop, neck supple
+Psych: normal affect, pleasant
+
+Discharge Physical Exam:
+========================
+Constitutional: VS reviewed, NAD
+HEENT: eyes anicteric, normal hearing, nose unremarkable, MMM
+without exudate
+CV: RRR no mrg
+Resp: CTAB
+GI: sntnd, NABS
+GU: no foley, neg CVAT
+MSK: no synovitis
+Ext: wwp, neg edema in BLEs
+Skin: breasts with mostly resolved erythema
+Neuro: A&O grossly, MAEE, no facial droop
+Psych: normal affect, pleasant
+
+ 
+Pertinent Results:
+ADMISSION RESULTS
+
+___ 10:09PM BLOOD WBC-15.1* RBC-4.45 Hgb-12.2 Hct-38.9 
+MCV-87 MCH-27.4 MCHC-31.4* RDW-12.9 RDWSD-40.8 Plt ___
+___ 10:09PM BLOOD Neuts-88.1* Lymphs-8.1* Monos-3.1* 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-13.30* AbsLymp-1.22 
+AbsMono-0.47 AbsEos-0.02* AbsBaso-0.04
+___ 09:10AM BLOOD ___ PTT-29.0 ___
+___ 09:10AM BLOOD ___ 10:09PM BLOOD Glucose-100 UreaN-8 Creat-0.7 Na-138 
+K-4.0 Cl-102 HCO3-25 AnGap-11
+___ 12:45AM BLOOD ALT-32 AST-61* AlkPhos-37 TotBili-0.4
+___ 06:00AM BLOOD Calcium-9.1 Phos-3.8 Mg-2.0
+___ 12:45AM BLOOD CRP-37.7*
+___ 09:10AM BLOOD C3-126 C4-23
+___ 08:43PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 08:43PM URINE UCG-NEGATIVE
+___ 02:06AM CEREBROSPINAL FLUID (CSF) TNC-0 RBC-0 Polys-2 
+___ ___ 02:06AM CEREBROSPINAL FLUID (CSF) TotProt-14* 
+Glucose-64
+___ 12:44AM OTHER BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+
+___ CSF;SPINAL FLUID Enterovirus 
+Culture-PRELIMINARY EMERGENCY WARD 
+___ CSF;SPINAL FLUID GRAM STAIN-FINAL; FLUID 
+CULTURE-PRELIMINARY EMERGENCY WARD 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+
+CXR PA/LAT:
+IMPRESSION:  
+  
+No acute intrathoracic process. 
+
+B BREAST US:
+IMPRESSION:  
+Bilateral fluid collections in the breasts near the surgical 
+incision sites, may represent postsurgical seromas, however 
+cannot exclude superinfection in the correct clinical setting.  
+Please correlate clinically. 
+
+Discharge Labs:
+===============
+___ 05:37AM BLOOD WBC-9.0 RBC-4.25 Hgb-11.5 Hct-37.0 MCV-87 
+MCH-27.1 MCHC-31.1* RDW-12.8 RDWSD-40.4 Plt ___
+___ 05:49AM BLOOD Glucose-66* UreaN-8 Creat-0.6 Na-140 
+K-4.0 Cl-103 HCO3-24 AnGap-13
+___ 06:00AM BLOOD ALT-37 AST-33 AlkPhos-42 TotBili-0.2
+___ 06:00AM BLOOD Calcium-9.1 Phos-3.8 Mg-2.___ w SLE on pred/hydroxychloroquine, B breast reduction 
+___, ___, trochanteric bursitis p/w sepsis, presumed ___ 
+cellulitis.
+
+ACUTE/ACTIVE PROBLEMS:
+# Sepsis
+# Cellulitis
+Presented with fever and leukocytosis along with breast erythema 
+and warmth consistent with cellulitis after recent breast 
+reduction surgery. Had some back pain and trochanteric bursae 
+pain but these were minor and thought to be secondary to fever 
+rather than primary. CXR and UA were unremarkable. She was 
+reporting severe headache in the ED and as a result underwent an 
+LP which was negative for pleocytosis.
+She was started on vancomycin and ceftriaxone. US of the breasts 
+revealed bilateral fluid collections. She was followed by 
+plastic surgery during the hospital stay who felt that the fluid 
+collections represented post-op seromas with no concern for 
+abscess at this time.
+Her fevers and leukocytosis resolved on IV antibiotics and she 
+was transitioned to Bactrim and Keflex to complete a 10 day 
+course finishing on ___.
+
+# SLE: c/b sicca syndrome, not apparently flaring and otherwise 
+in remission. Increased home prednisone 2mg po qd to 6mg daily 
+for three days while ill. She was restarted on home dose of 2mg 
+at discharge
+
+# GERD: continued home PPI (note is BID, can consider decreasing 
+as an outpatient)
+
+# Rhinitis, glaucoma, cataracts, allergies: continued home eye 
+drops and allergy meds and held home azelastine as non-formulary
+
+# Depression
+Continued home duloxetine
+
+> 30 minutes spent on discharge coordination and planning
+
+Transitional Issues:
+====================
+- discharged on Bactrim and Keflex for a 10 day course finishing 
+on ___
+- note that patient is taking pilocarpine BID rather than QID as 
+prescribed due to hot flashes/sweating with the medicine. 
+Advised pt to resumed QID but to discuss with her outpatient 
+providers to see if BID is reasonable
+- note that patient is on BID PPI, can consider decreasing to QD 
+or weaning if able given risks
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 2 mg PO DAILY 
+2. azelastine 0.15 % (205.5 mcg) nasal QPM 
+3. Hydroxychloroquine Sulfate 400 mg PO DAILY 
+4. LORazepam 0.5-1 mg PO QHS:PRN insomnia 
+5. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+6. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+7. Betamethasone Dipro 0.05% Cream 1 Appl TP 2X/WEEK (MO,FR) 
+8. Montelukast 10 mg PO DAILY 
+9. flaxseed oil 1,000 mg oral DAILY 
+10. pilocarpine HCl 5 mg oral BID 
+11. Pantoprazole 40 mg PO Q12H 
+12. Calcium 600 with Vitamin D3 (calcium carbonate-vitamin D3) 
+600 mg(1,500mg) -400 unit oral BID 
+13. Cetirizine 10 mg PO DAILY 
+14. DULoxetine ___ 100 mg PO DAILY 
+15. Bisacodyl 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Cephalexin 500 mg PO QID 
+RX *cephalexin 500 mg 1 tablet(s) by mouth four times a day Disp 
+#*28 Tablet Refills:*0 
+3.  Sulfameth/Trimethoprim DS 2 TAB PO BID 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 2 tab-cap by 
+mouth twice a day Disp #*28 Tablet Refills:*0 
+4.  pilocarpine HCl 5 mg oral QID 
+Please discuss with your eye doctor to see whether twice a day 
+is reasonable  
+5.  azelastine 0.15 % (205.5 mcg) nasal QPM  
+6.  Betamethasone Dipro 0.05% Cream 1 Appl TP 2X/WEEK (MO,FR)  
+7.  Bisacodyl 10 mg PO DAILY  
+8.  Calcium 600 with Vitamin D3 (calcium carbonate-vitamin D3) 
+600 mg(1,500mg) -400 unit oral BID  
+9.  Cetirizine 10 mg PO DAILY  
+10.  DULoxetine ___ 100 mg PO DAILY  
+11.  flaxseed oil 1,000 mg oral DAILY  
+12.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+13.  Hydroxychloroquine Sulfate 400 mg PO DAILY  
+14.  LORazepam 0.5-1 mg PO QHS:PRN insomnia  
+15.  Montelukast 10 mg PO DAILY  
+16.  Pantoprazole 40 mg PO Q12H  
+17.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+18.  PredniSONE 2 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+sepsis
+cellulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you. You were admitted for fever. 
+We think this is from a skin infection after your breast surgery 
+(cellulitis) for which you were treated with antibiotics. 
+Please complete the course of antibiotics as prescribed.
+
+If you notice that the redness is returning or getting worse, 
+please call your primary doctor or return to the ED.
+
+It was a pleasure taking care of you, and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

@@ -1,0 +1,424 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+aphasia, right arm weakness
+ 
+Major Surgical or Invasive Procedure:
+received tpa prior to transfer
+ 
+History of Present Illness:
+___ is a ___ year old left handed male who presents 
+as
+transfer from ___ after presenting there with aphasia and right
+arm weakness found to have left ICA occlusion now status post 
+tPA
+and transferred to ___ for further management. 
+
+Patient reports he has overall been feeling well recently. He
+recently went ___ for the last week and a half on
+vacation with his family. He was very active, riding jet skis,
+etc. He came back early this week and helped his son move into
+his dorm in ___. He went back to work yesterday which
+was stressful as he his ___ owner of a ___. Over 
+the
+past 2 days he has had some slight left frontal pressure-like
+headache which he has been treating with intermittent ibuprofen
+and essentially had resolved.
+
+He woke up this morning around 6A and he again had the slight
+left frontal pressure-like headache. He started to answer emails
+at his computer and drank some coffee. He talked to his wife
+around ___. He poured some cereal in a bowel because he was
+going to eat and then realized he had to go to the bathroom so 
+he
+did not pour the milk. He went into the bathroom and had a bowel
+movement. He did not strain with this. When he tried to get up
+off the toilet he remembers thinking "this feels weird". He went
+to pull up his pants and his right arm would not move to pull up
+his pants. He then slowly collapsed to the floor. He felt
+somewhat confused per him and couldn't grasp what was happening.
+He was able to say, "I need some help in here". He could hear 
+his
+cat scratching at the door trying to get into the bathroom.
+
+His wife came in the bathroom and said his face looked droopy
+(unclear which side). He felt like he understood everything she
+said to him but he was having trouble getting out words at 
+times.
+He told her she should call EMS. He also asked her for water but
+stayed on the ground. When he grabbed the water cup from her he
+ended up dropping it from his right hand and his right hand felt
+weak. He also thought his left face and left arm felt numb like
+after getting novicaine. He had no changes in his vision,
+dizziness, slurred speech. He was unable to walk so stayed on 
+the
+ground.
+
+EMS arrived and took him to ___ by 8:10. His NIHSS was 4 there
+for -2 LOC, -1 left sensory, -1 aphasia. He had CT which showed
+no hemorrhage and CTA which showed L ICA occlusion. He was given
+tPA (total 73.6 mg) with bolus beginning at 8:47. He reportedly
+worsened about 45 minutes later with right arm and face 
+weakness.
+It is unclear what his blood pressure was at that time. However,
+after being flat with fluids he improved to NIHSS 3. He was
+transferred to ___.
+
+On arrival to ___ he just reports mild left frontal headache.
+He is still having resolving numbness of left face and left arm.
+He does not feel weak at all and notices only mild issue with
+naming. 
+
+ROS: 
+
+On neurological review of systems, the patient denies difficulty
+comprehending speech, loss of vision, blurred vision, diplopia,
+dysarthria, dysphagia, lightheadedness, vertigo, tinnitus or
+hearing difficulty. No bowel or bladder incontinence or 
+
+On general review of systems, the patient denies recent fever, 
+chills, night sweats, or recent weight changes. Denies cough,
+shortness of breath, chest pain or tightness, palpitations. 
+Denies nausea, vomiting, diarrhea, constipation or abdominal
+pain.  Denies dysuria, or recent change in bowel or bladder
+habits.  Denies arthralgias, myalgias, or rash.
+ 
+Past Medical History:
+HLD
+ 
+Social History:
+___
+Family History:
+No strokes, seizures, blood clots
+Father - had dementia
+Brother- has porcine heart valve (this brother is a neuro___)
+Other brother- ?afib
+ 
+Physical ___:
+ON ADMISSION
+Vitals: T: 98 BP: 161/82 HR: 90  RR: 18  SaO2: 100%
+General: Awake, cooperative
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented to ___ (took him
+several seconds to get this, ___ (off by 2 days).
+Able to relate history without difficulty. Attentive, able to
+name ___ backward without difficulty. Language is mostly fluent.
+There were 2 occasions of decreased fluency with pausing, "um"..
+but these resolved. There were several paraphasic errors. He
+could name most items on stroke card except for feather (said,
+"it's on a bird"... I know what it is but can't say it).   Able
+to read without difficulty. No dysarthria. Able to follow both
+midline and appendicular commands. There was no evidence of
+apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.  Fundoscopic
+exam revealed no papilledema, exudates, or hemorrhages.
+
+V: Facial sensation decreased on left cheek.
+
+VII: Slight right NLFF, symmetric activation  
+
+IX, X: Palate elevates symmetrically.
+
+XI: ___ strength in trapezii bilaterally.
+
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: No deficits to light touch, proprioception throughout.
+There is dec pin (95%) on left face and left arm. No extinction
+to DSS. 
+
+-Reflexes:
+  [___] [Pat] [Ach]
+L   2     2      3     2
+R   2    2      3     2 
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF or HKS bilaterally.
+
+-Gait: did not test given perfusion dependent
+
+Discharge neurological exam:
+Neurologic:
+-Mental Status: Alert, oriented to ___, date, self. Intact 
+naming to high and low frequency objects, with no decreased 
+fluency noted. Able to read without difficulty. Ability to 
+text/write fluently improving. No dysarthria. Able to follow 
+both midline and appendicular commands. There was no evidence of
+apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. 
+V: Facial sensation decreased on left cheek.
+VII: Subtle right NLFF with symmetric activation on smile, 
+symmetric forehead raise  
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions 
+bilaterally.
+ 
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: Intact to light touch bilaterally with no extinction 
+to DSS. 
+
+-Reflexes:
+deferred
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF or HKS bilaterally.
+
+-Gait: narrow based gait, ambulating independently without 
+unsteadiness
+
+ 
+Pertinent Results:
+___ 11:45AM BLOOD WBC-9.6 RBC-4.45* Hgb-13.8 Hct-40.2 
+MCV-90 MCH-31.0 MCHC-34.3 RDW-11.7 RDWSD-38.3 Plt ___
+___ 11:45AM BLOOD Neuts-86.3* Lymphs-7.9* Monos-4.8* 
+Eos-0.3* Baso-0.4 Im ___ AbsNeut-8.26* AbsLymp-0.76* 
+AbsMono-0.46 AbsEos-0.03* AbsBaso-0.04
+___ 11:45AM BLOOD ___ PTT-24.5* ___
+___ 11:45AM BLOOD Glucose-101* UreaN-14 Creat-0.9 Na-140 
+K-4.6 Cl-105 HCO3-23 AnGap-12
+___ 11:45AM BLOOD ALT-35 AST-31 AlkPhos-61 TotBili-1.1
+___ 11:45AM BLOOD Lipase-12
+___ 11:45AM BLOOD cTropnT-<0.01
+___ 01:20AM BLOOD Calcium-9.3 Phos-3.9 Mg-2.1 Cholest-211*
+___ 12:07PM BLOOD %HbA1c-5.6 eAG-114
+___ 01:20AM BLOOD Triglyc-122 HDL-68 CHOL/HD-3.1 
+LDLcalc-119
+___ 01:20AM BLOOD TSH-7.6*
+___ 01:20AM BLOOD Free T4-1.1
+___ 11:45AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 12:43PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+
+___ Imaging CAROTID SERIES COMPLETE
+Right ICA no  stenosis.
+Left ICA dissection as noted on recent MRI from ___  There 
+is markedly
+diminished flow within the visualized portions of the ICA in the 
+site of the
+dissection.
+
+___ Imaging CT HEAD W/O CONTRAST
+ 
+1. Evolving acute left MCA territory infarct, similar in size in 
+size compared
+to prior with stable sulcal effacement.  No evidence of acute 
+intracranial
+hemorrhage.  Previously seen hyperdense punctate focus in the 
+left insula is
+no longer seen.
+
+___ Imaging MRA NECK W&W/O CONTRAST
+1. Narrowing and diminished flow enhancement involving the left 
+C1 ICA with
+associated T1 eccentric mural hyperintense signal compatible 
+with mural
+thrombus and dissection.
+2. Asymmetric small caliber of the petrous and cavernous segment 
+of the left
+ICA.
+
+ 
+Brief Hospital Course:
+___ w/ hx of HLD who presents as a transfer from ___ after 
+presenting with aphasia and right arm weakness.
+
+#acute ischemic stroke:
+#ICA dissection
+CTA head and neck at ___ demonstrated a left frontotemporal lobe 
+infarct and right ICA occlusion. He received TPA at 08:47 on 
+___, and then was transferred to ___ for further management. 
+He was initially admitted to the neuro ICU for observation, then 
+transferred to ___ after 24 hours of clinical stability. MRA of 
+the neck with fat sat showed left ICA dissection, which is the 
+likely source of embolism underlying his stroke. Carotid 
+ultrasound corroborated this finding. The patient reported that 
+he had recently been in a jetski trip, during which he sustained 
+a whiplash injury which was thought to be the mechanism of 
+dissection. The patient's aphasia and right arm arm weakness 
+gradually improved. The patient's hospitalization was 
+complicated by episodes of right gaze deviation with right 
+facial numbness, which was thought to be secondary to seizure 
+versus flow-dependent phenomenon, as the patient complained of 
+the symptoms upon sitting up or standing. The patient was 
+monitored on continuous continuous video EEG, which did not show 
+any epileptiform discharges. His activity was liberalized, with 
+no progression of symptoms with increased activity. The patient 
+was eventually started on apixaban 5mg PO BID prior to 
+discharge, with a plan for continuation for at least 3 months, 
+and determination of therapy duration to be decided at stroke 
+follow up appointment with Dr. ___. Transitioned home 
+simvastatin 10 mg to atorvastatin 40 mg QHS given elevated LDL 
+at 117, though atherosclerosis was not thought to be the 
+causative mechanism of stroke in this case.
+
+MEDICATION CHANGES
+- Started apixaban 5 mg BID
+- Transitioned home simvastatin 10 mg to atorvastatin 40 mg QHS.
+
+Transitional issues
+[] Continue apixaban for at least 3 months. Final duration of 
+therapy to determined on follow up.
+[] Please continue to monitor patient's cholesterol.
+[] Please continue to evaluate any further episodes of right 
+gaze deviation with associated right facial numbness. If these 
+episodes continue and do not appear to be positional, then 
+consider repeat outpatient EEG and/or empiric AED therapy for 
+possible seizures.
+
+=====
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No. If no, reason why:
+2. DVT Prophylaxis administered? (x) Yes - () No. If no, why not 
+(I.e. bleeding risk, hemorrhage, etc.)
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No. If not, why not? (I.e. bleeding risk, 
+hemorrhage, etc.)
+4. LDL documented? (x) Yes (LDL = 119) - () No
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form? (x) Yes - () No
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No. If no, why not? (I.e. patient at baseline 
+functional status)
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+10. Discharged on antithrombotic therapy? (x) Yes [Type: () 
+Antiplatelet - (x) Anticoagulation] - () No
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - If no, why not (I.e. 
+bleeding risk, etc.) (x) N/A
+ 
+Medications on Admission:
+Propecia- unknown dose
+simvastatin 10 mg daily
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO/NG BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth Nightly Disp #*30 
+Tablet Refills:*0 
+3.  Finasteride 5 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute ischemic stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were hospitalized due to symptoms of right arm weakness and 
+speech difficulty resulting from an ACUTE ISCHEMIC STROKE, a 
+condition where a blood vessel providing oxygen and nutrients to 
+the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+
+-High cholesterol
+
+We are changing your medications as follows:
+- Starting apixaban 5 mg twice daily 
+- Switched simvastatin 10 mg to atorvastatin 40 mg daily 
+
+Please take your other medications as prescribed.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

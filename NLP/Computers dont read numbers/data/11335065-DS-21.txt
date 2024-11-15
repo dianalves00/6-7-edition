@@ -1,0 +1,621 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back pain
+
+ 
+Major Surgical or Invasive Procedure:
+___: T9-T10 laminectomy, T6-T12 Fusion
+___: Trach & PEG
+___: Bronchoscopy
+___: Bronchoscopy
+
+ 
+History of Present Illness:
+___ is a ___ year old male with a history of prostate cancer and 
+post-polio syndrome who presented to ___ after a 
+fall today. He walks with a walker at baseline and was trying to 
+get into a chair when he fell and landed on his back. He did 
+strike his head but denies loss of consciousness. He had 
+immediate pain ___ his back. He denies leg pain, numbness, 
+tingling, or weakness. He states he has occasional urinary 
+incontinence at baseline. Workup at the outside hospital 
+included a CT chest that showed a T10 chance fracture so the 
+patient was transferred to ___ for further evaluation and 
+treatment. 
+
+ 
+Past Medical History:
+High cholesterol, BPH, depression, pneumonia 
+ 
+Social History:
+___
+Family History:
+non-contributory 
+ 
+Physical Exam:
+==============
+ON ADMISSION: 
+==============
+O: T: 97.8  BP: 167/78 HR: 81 R 16 O2Sats 97% RA
+Gen: WD/WN, comfortable, NAD.
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Motor:
+      D    B     T    WE   WF    IP    Q  H     AT    ___    G
+R     5    5     5     5    5    3     3  5     5     5      5
+L     5    5     5     5    5    3     3  5     3     5      5
+Bilateral lower extremity exam is somewhat limited due to pain.
+He endorses back pain with any movement of his lower 
+extremities.
+He has left foot drop at baseline.
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+Reflexes: B  T  Br  Pa  Ac
+Right     2+ 2+ 2+  2+  2+
+Left      2+ 2+ 2+  2+  2+
+
+Propioception intact
+
+==============
+AT DISCHARGE:
+==============
+GENERAL: Alert, oriented, no acute distress. Unable to speak but 
+mouths words, writes to communicate
+HEENT: Sclera anicteric, MMM, oropharynx clear
+NECK: supple, JVP not elevated, no LAD
+LUNGS: Rhonchorous breath sounds throughout, diminished breath 
+sounds at bases
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops 
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly 
+GU: No foley
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+SKIN: No lesions.
+NEURO: A&O x3. CN II-XII intact. Sensation, strength intact. 
+ACCESS: PIVs
+
+ 
+Pertinent Results:
+=================
+LABS ON ADMISSION 
+=================
+___ 06:45PM BLOOD WBC-15.9* RBC-5.43 Hgb-15.4 Hct-46.9 
+MCV-86 MCH-28.4 MCHC-32.8 RDW-15.7* RDWSD-48.7* Plt ___
+___ 06:45PM BLOOD Neuts-88.8* Lymphs-5.5* Monos-4.8* 
+Eos-0.2* Baso-0.1 Im ___ AbsNeut-14.15* AbsLymp-0.88* 
+AbsMono-0.77 AbsEos-0.03* AbsBaso-0.02
+___ 06:45PM BLOOD ___ PTT-30.2 ___
+___ 06:45PM BLOOD Glucose-109* UreaN-17 Creat-0.8 Na-137 
+K-5.5* Cl-101 HCO3-23 AnGap-19
+___ 08:00AM BLOOD Calcium-9.3 Phos-3.5 Mg-1.9
+
+===================
+LABS ON DISCHARGE 
+===================
+___ 03:35AM BLOOD WBC-17.2* RBC-3.13* Hgb-8.4* Hct-27.9* 
+MCV-89 MCH-26.8 MCHC-30.1* RDW-17.0* RDWSD-55.7* Plt ___
+___ 04:08AM BLOOD Neuts-81.0* Lymphs-8.0* Monos-7.3 Eos-2.7 
+Baso-0.2 Im ___ AbsNeut-15.52* AbsLymp-1.54 AbsMono-1.40* 
+AbsEos-0.51 AbsBaso-0.04
+___ 03:35AM BLOOD ___ PTT-33.9 ___
+___ 03:35AM BLOOD Glucose-111* UreaN-36* Creat-0.6 Na-136 
+K-5.3* Cl-101 HCO3-24 AnGap-16
+___ 03:35AM BLOOD Calcium-8.4 Phos-3.3 Mg-2.2
+
+===============
+PERTINENT LABS 
+===============
+___ ALT-14 AST-22 LD(LDH)-263* AlkPhos-114 TotBili-0.3
+___ CK-MB-<1 cTropnT-<0.01 proBNP-689
+___ CK-MB-2 cTropnT-<0.01
+___ TSH-3.4
+
+=============
+MICRO
+==============
+___ 10:44 am BRONCHOALVEOLAR LAVAGE
+GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+
+RESPIRATORY CULTURE (Final ___: 
+>100,000 CFU/mL Commensal Respiratory Flora. 
+
+___ 7:01 am MRSA SCREEN      Source: Nasal swab. 
+MRSA SCREEN (Final ___:    No MRSA isolated.
+
+___ 8:46 am URINE      Source: Catheter. 
+URINE CULTURE (Final ___: ___.    
+>100,000 CFU/mL. 
+       
+___ BLOOD CULTURE No growth final  
+___ BLOOD CULTURE No growth final 
+
+___ 6:45 pm URINE
+URINE CULTURE (Final ___: 
+___.    >100,000 CFU/mL. 
+GRAM POSITIVE COCCUS(COCCI).    >100,000 CFU/mL. 
+
+SESITIVITIES: MIC expressed ___ MCG/ML
+________________________________________________________
+                             ___ ___
+                             |   
+AMIKACIN--------------   <=2 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------     4 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------   128 R
+PIPERACILLIN/TAZO-----   <=4 S
+TRIMETHOPRIM/SULFA----     2 S
+
+___ 4:49 pm SPUTUM      Source: Endotracheal. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+   RESPIRATORY CULTURE (Final ___: 
+      RARE GROWTH Commensal Respiratory Flora. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+URINE CULTURE (Final ___: 
+      PSEUDOMONAS AERUGINOSA.    >100,000 CFU/mL. 
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     8 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------     8 I
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+============
+CARDIOLOGY 
+============
++ ___ EKG
+Atrial fibrillation, mean ventricular rate 78. Low QRS voltage 
+___ the limb leads. Right bundle-branch block. Diffuse 
+non-diagnostic repolarization abnormalities. Compared to the 
+previous tracing of ___ cardiac rhythm is now atrial 
+fibrillation. 
+Intervals                      Axes 
+Rate PR  QRS QT QTc (___)   P QRS T 
+78   ___               0 72 63 
+ 
++ ___ TTE 
+The left atrium is normal ___ size. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and global 
+systolic function (LVEF >55%). Due to suboptimal image quality, 
+regional function could not be fully assessed. The right 
+ventricular cavity is mildly diated with borderline normal free 
+wall function. The aortic valve leaflets (3) are mildly 
+thickened but aortic stenosis is not present. No aortic 
+regurgitation is seen. The mitral valve leaflets are grossly 
+normal with trivial mitral regurgitation There is mild pulmonary 
+artery systolic hypertension. There is no pericardial effusion. 
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with normal global systolic function. 
+Mildly right ventricular cavity dilation with low normal free 
+wall motion. Mild pulmonary hypertension.  
+
+============
+IMAGING
+============
+CT Chest completed at an outside hospital is significant for T10 
+
+fracture.
+
+___ CHEST (PORTABLE AP) Study Date of ___ 7:11 AM 
+Heart size is prominent but stable.  There is a new moderate 
+size left pleural effusion and left retrocardiac opacity. Right 
+lung is clear. There are no pneumothoraces.  Known fracture at 
+the level of the lower thoracic spine is better seen on the 
+prior CT scan. 
+  
+CHEST (PORTABLE AP) Study Date of ___ 5:58 ___ Feeding 
+tube tip is ___ the right lower lobe, it should pulled out. 
+
+CHEST (PORTABLE AP) Study Date of ___ 4:02 ___ 
+___ comparison with the study of ___, the malpositioned 
+Dobhoff tube s been removed.  A new nasogastric tube is now ___ 
+place with the tip ___ the mid to upper stomach.  The side-port 
+is close to the esophagogastric junction, and the tube should be 
+pushed forward about 5-8 cm if clinically possible. Continued 
+opacification at the left base silhouetting the hemidiaphragm, 
+consistent with moderate left pleural effusion and underlying 
+compressive atelectasis.  Cardiac silhouette is enlarged and 
+there is probably mild elevation of pulmonary venous pressure. 
+
+CTA CHEST  Study Date of ___ 2:34 AM 
+1. No pulmonary embolus. 
+2. Extensive mucous plugging ___ the left mainstem bronchus, 
+resulting ___ 
+near-complete collapse of the left lung, new from ___. 
+3. Small bilateral pleural effusions are increased from ___. 
+4. Known T10 Chance fracture.  Mildly displaced T10 and T11 
+spinous process fractures. 
+
+CHEST (PORTABLE AP) Study Date of ___ 10:09 AM 
+IMPRESSION:  
+Compared to chest radiographs ___ through ___ and 
+chest CTA 02:51 today.  
+  
+Chest CTA showed complete collapse of the left lung and moderate 
+left leural effusion.  Left upper lobe has re-expanded.  Lower 
+lobe is still ollapsed and small bilateral pleural effusions 
+remain.  Substantial telectasis and the right lower lobe is 
+worse today than it was on ___.  No pneumothorax.  Heart 
+size normal. ET tube ___ standard placement.  Nasogastric 
+drainage tube passes into the stomach and out of view. 
+
+CHEST (PORTABLE AP) Study Date of ___ 7:52 ___ 
+No new airspace consolidation to suggest pneumonia. Suspected 
+recurrence of partial left upper lobe atelectasis, but layering 
+effusion should be considered ___ the differential. Interval 
+improvement ___ the bilateral lower lobe atelectasis. Persistent 
+small left-sided pleural effusion. 
+
+CHEST (PORTABLE AP) Study Date of ___ 12:28 AM 
+IMPRESSION:  
+___ comparison with the study of ___, there is now 
+substantial opacification of the left hemithorax with shift of 
+the mediastinum to this side, consistent with mucous plug 
+causing collapse of the left lower lobe. 
+Subsequent study shows re-expansion of the left lung. 
+Endotracheal tube tip lies approximately 3 cm above the carina.  
+Right lung is clear. 
+
+CHEST (PORTABLE AP) Study Date of ___ 4:57 AM 
+___ comparison with the earlier study of this date, there has 
+been some 
+re-expansion of the left lower lobe with reduction ___ the shift 
+of the mediastinum to the left.  This presumably represents 
+expectoration of a mucous plug ___ or interval interventional 
+procedure. The tip of the endotracheal tube now lies 
+approximately 6 cm above the carina. Otherwise little change. 
+
+MR CERVICAL SPINE W/O CONTRAST Study Date of ___ 10:27 AM 
+
+IMPRESSION: 
+1. Acute transverse fracture extending along the inferior 
+endplate of the T10 vertebral level extending to all 3 columns 
+with associated edema and concern for anterior and posterior 
+ligamentous injury. 
+2. Moderate multilevel degenerative changes, most notable at the 
+C5-C6 vertebral level with deformation remodeling of the spinal 
+cord and moderate-to-severe neural foraminal stenosis. However 
+there is no acute cord signal abnormality ___ the visualized 
+cord. 
+3. Bilateral pleural effusions, right greater than left. 
+
+SPINAL FLUORO WITHOUT RADIOLOGIST Study Date of ___ 1:09 
+___ 
+Multiple fluoroscopic images show steps ___ a posterior T7-T12 
+fusion.  Further information can be gathered from the operative 
+report. 
+
+T-SPINE ___ O.R. Study Date of ___ 1:09 ___ 
+Multiple fluoroscopic images show steps ___ a posterior T7-T12 
+fusion.  Further information can be gathered from the operative 
+report. 
+
+CT OF THE NECK W CONTRAST: ___
+IMPRESSION: 
+1. Midline tracheostomy with minimal nonspecific subcutaneous 
+emphysema along left margin. 
+2. Paraseptal and centrilobular emphysema within the lung apices 
+with nonhemorrhagic pleural effusions partially imaged, left 
+greater than right. Pleural effusions appear to have been 
+present on examination dated ___. 
+
+CHEST (PORTABLE AP) Study Date of ___ 
+Tracheostomy tube, spinal hardware is again seen.  There has 
+been worsening of the consolidation and opacification of the 
+left lung since the prior study. This may be due to a 
+combination of large pleural effusion and consolidation. There 
+is some volume loss on the left.  There is mild pulmonary edema 
+within the visualized right lung.  No pneumothoraces are seen.
+
+CHEST (PORTABLE AP) Study Date of ___
+Severe left lower lobe atelectasis has not improved.  Only a 
+small portion of the left upper lobe is partially aerated.  New 
+consolidation has developed at the right lung base company by 
+least small right pleural effusion. 
+Heart size is indeterminate, severely shifted to the left.  No 
+pneumothorax. 
+Tracheostomy tube midline.  Right PIC line passes at at least as 
+far as the mid SVC, but the tip is partially obscured by spinal 
+hardware. 
+
+ 
+Brief Hospital Course:
+Mr. ___ was transferred from to ___ ED after  sustaining a 
+T10 fracture s/p fall. He was admitted to the neurosurgery 
+service under Dr. ___. 
+
+# T10 fracture
+He was maintained on flat bed rest with logroll precautions and 
+pain regimen was optimized. He underwent pre-op work up and was 
+taken to the OR on ___ with Dr. ___ Dr. ___. His 
+case was uncomplicated and a JP drain was left ___ place 
+postoperatively. Post operatively his care was transferred to 
+Dr. ___. He remained intubated and was transferred back to 
+the trauma SICU for further care.  JP drain was removed on 
+___ without difficulty. He should follow up with 
+neurosurgery week of ___, should have CT of T/L spine prior to 
+appointment
+
+# Respiratory
+The patient was evaluated by Speech & Swallow given his recent 
+hospitalization for aspiration pneumonia.  On ___, the patient 
+required increased O2 to maintain saturation of >92%.  He was 
+given nebulizers and respiratory therapy assisted with 
+suctioning and chest ___.  The patient endorsed bilateral flank 
+pain at the level of T9/T10; he was given lidocaine patches and 
+started on gabapentin for pain.  He was transferred to the ___ 
+for closer monitoring of his respiratory status. His respiratory 
+status improved and he was weaned to O2 via nasal cannula. On 
+___ his respiratory status began to decline for a second time 
+therefore he was intubated on and a bronchoscopy was performed 
+to remove a large mucus plug. He remained intubated until his 
+scheduled OR case on ___. Postoperatively, the patient did 
+not tolerate extubation and remained intubated. He underwent 
+bronchoscopy on ___. 
+Tracheostomy was placed on ___ however post-procedure the 
+patient had elevated trach pressures. Over the weekend on 
+___ the patient remained stable, remains on ventilator, but 
+trach pressures normalized. From ___ the patient underwent 
+daily chest radiographs to evaluate pulmonary status which 
+showed stable moderate left pleural effusion with subsequent 
+retrocardiac atelectasis, persistent pulmonary edema.  On 
+arrival to the medical ICU on ___ he was weaned from vent and 
+placed on trach mask.  He generally tolerated this well, but CXR 
+on ___ showed near collapse of the left lung. He was 
+reconnected to ventilator. Bronchoscopy was performed on both 
+___ and ___ with significant of mucous removed and rapid 
+improvement ___ his respiratory function. He was placed back on 
+the trach mask after bronchoscopy, and he remained stable from a 
+respiratory perspective. 
+ 
+# Infection
+The patient had an elevated WBC count to 23.2 on ___.  He 
+was pancultured; urinalysis was concerning for UTI. He was 
+started empirically on levaquin for UTI as well as presumed 
+pneumonia.  His WBC count trended down on ___ & ___. 
+Urine culture resulted with providencia Stuartii; he continued 
+on cefepime and vancomycin. Antibiotics ended on ___. Patient 
+remained stable. His white count was noted to rise again over 
+___ to as high as 19. Urine culture grew Pseudomonas. Given 
+his x-ray findings as above, there was also a concern for 
+ventilator associated pneumonia. He was initiated on an 8 day 
+course of vancomycin and cefepime on ___, which should finish 
+on ___.
+
+# Dysphagia
+The patient reports a history of recurrent aspiration pneumonia 
+with recent prolonged hospitalization.  He was evaluated by 
+Speech & Swallow who recommended the patient remain NPO.  NGT 
+was placed on ___ and he continued on tube feedings.  PEG was 
+placed on ___.  He tolerated tube feeds well. 
+
+#Thrombocytosis
+Of note, patient had thrombocytosis, which increased over the 
+course of his hospitalization. This was felt to be 
+multifactorial, with baseline thrombocytosis related to 
+underlying asplenia, and increasing thrombocytosis reactive to 
+infection and recent surgery. At the time of discharge, 
+platelets were 792. If they continue to increase despite 
+antibiotics, patient should follow up with hematology.
+
+#Afib: ___ noted to be ___ AFib so cardiology was consulted for 
+management recs. CCU c/s called, suspect drive ___ post-op 
+state, ongoing resp failure, ongoing infections, or chronic lung 
+disease. TTE obtained, showing Mild LVH. Normal LV function. 
+Mildly dilated RV, borderline normal RV systolic function. Mild 
+PA systolic hypertension. Per cardiology, decisison made to 
+continue anticoagulation ___ acute setting given going to ___, 
+not very mobile, at increased risk for DVT. He is at lower 
+bleeding risk (HASBLED 1). Will require titration of warfarin 
+for INR at rehab. INR on ___ was 2.0.  He was ___ sinus rhythm 
+for most of the MICU stay.  He will need cardiology and PCP 
+follow up regarding decision about need for long term 
+anticoagulation.
+
+#Urinary Retention: 
+Hx of prostate cancer, and earlier had urinary retention. 
+Urology was consulted, and felt that he still had prostate 
+cancer that was compressing foley. Coude ___ place and now doing 
+better and follow-up as outpatient with urology.
+
+ACCESS: PICC R ARM PLACED ___
+Interval placement of a right PICC line whose tip projects over 
+the cavoatrial junction.  The tip of the endotracheal tube 
+projects over the mid thoracic trachea.  A gastric tube extends 
+below the level the diaphragms but beyond the field of view of 
+this radiograph.  Partially evaluated thoracic spinal hardware 
+is present.  
+
+ANTIBIOTICS RECIEVED: 
+Levofloxicin (___)  
+Vanc ___, and ___
+Cefepime ___ and ___  
+Flagyl (___)
+
+TRANSITIONAL ISSUES:
+====================
+MEDS: 
+- Started warfarin for anticoagulation; please uptitrate 
+warfarin for INR goal ___.
+- Will complete an 8 day course of Vancomycin and Cefepime on 
+___ for pneumonia/UTI
+- Seroquel ___ mg BID for agitation, anxiety 
+- Albuterol/Ipratropium for resp distress 
+GENERAL CARE: 
+- Chest ___ TID, focused on left side
+- NOTE! if urinary retention, please place coude catheter 
+- MRSA Screen ___ negative 
+- Access with PICC placed ___
+OUTPATIENT FOLLOW UP 
+- f/u platelets as an outpatient
+- f/u with NSGY week of ___, should have CT of T/L spine prior 
+to appointment
+- f/u with urology
+- Consider hematology consultation for thrombocytosis if this 
+does not improve after treatment of infection.
+- Continue monitoring on telemetry
+- f/u with cardiology regarding need for long term 
+anticoagulation
+- Please check labwork ___ day after discharge to monitor for 
+hyperkalemia, INR. K on discharge was 4.4. INR on discharge was 
+2.0
+
+CODE STATUS: Full code
+CONTACT/HCP: Daughter, ___ (___)
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pantoprazole 40 mg PO Q24H 
+2. ALPRAZolam 0.25 mg PO TID:PRN anxiety and sleep 
+3. Citalopram 20 mg PO DAILY 
+4. Lovastatin 20 mg oral DAILY 
+5. Tamsulosin 0.4 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen (Liquid) 1000 mg PO Q6H:PRN Pain - Moderate  
+2.  Albuterol Inhaler ___ PUFF IH Q6H wheeze  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 40 mg PO QPM  
+5.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation 
+titrate one BM daily; hold if loose stools  
+6.  CefePIME 2 g IV Q12H 
+Last day ___  
+7.  Docusate Sodium 100 mg PO BID  
+8.  Ipratropium Bromide MDI 6 PUFF IH Q6H  
+9.  Lidocaine 5% Patch 1 PTCH TD QAM  
+10.  Lidocaine 5% Patch 1 PTCH TD DAILY:PRN chest wall pain  
+11.  LORazepam 0.5 mg PO BID  
+12.  LORazepam 0.5 mg PO Q4H:PRN agitation  
+13.  Miconazole Powder 2% 1 Appl TP TID:PRN Rash  
+14.  Ondansetron 4 mg IV Q8H:PRN nausea/vomiting  
+15.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate  
+16.  Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+titrate one BM daily; hold if loose stools  
+17.  QUEtiapine Fumarate 25 mg PO QAM 
+Hold for sedation, RR<12  
+18.  QUEtiapine Fumarate 50 mg PO QHS  
+19.  Senna 17.2 mg PO HS 
+titrate one BM daily; hold if loose stools  
+20.  Vancomycin 1250 mg IV Q 12H 
+Last day ___  
+21.  ___  MD to order daily dose PO DAILY16 
+Dose 2.5 mg on ___ and ___ then recheck INR   
+22.  Citalopram 20 mg PO DAILY  
+23.  Pantoprazole 40 mg PO Q24H  
+24.  Tamsulosin 0.4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+=======
+T10 fracture
+Hypoxic respiratory failure
+Healthcare associated pneumonia
+Urinary tract infection
+Atrial fibrillation
+Dysphagia
+Left lobar collapse
+Post-polio syndrome
+Prostate cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ On ___ for a fracture ___ your 
+spine. You had a back procedure called a laminectomy and fusion 
+on ___. After the procedure, you were having difficulty 
+breathing, therefore you remained on the breath machine and had 
+a procedure called a tracheostomy to held you breath and a PEG 
+tube to be able to provide nutrition. You also had a pneumonia 
+and UTI and were treated with antibiotics.  
+
+FROM YOUR NEUROSURGERY TEAM: 
+Your incision is closed with staples or sutures. Your staples 
+were removed. 
+* Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+*  We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+*  You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+*  No driving while taking any narcotic or sedating medication. 
+*  No contact sports until cleared by your neurosurgeon. 
+*  Do  NOT smoke. Smoking can affect your healing and fusion.
+ 
+When to Call Your Doctor at ___ for:
+* Severe pain, swelling, redness or drainage from the incision 
+site. 
+* Fever greater than 101.5 degrees Fahrenheit
+* New weakness or changes ___ sensation ___ your arms or legs.
+
+ 
+Followup Instructions:
+___

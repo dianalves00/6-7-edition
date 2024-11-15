@@ -1,0 +1,556 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Rash
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+Colonoscopy ___
+
+ 
+History of Present Illness:
+___ is a ___ yo woman with PMH significant for
+orthotopic liver transplant (on tacrolimus) and multi-drug
+resistant UTI who presented to the ED with bilateral ___ rash.
+
+Patient reports a history of eczema since childhood that was
+well-controlled, typically presenting with occasional lesions on
+the medial aspect of her elbow. One month prior to admission, 
+she
+developed a self-reported "eczema flare" on her bilateral lower
+extremities, particularly on her ankles and dorsal aspect of
+knees. She described this rash as clustered, erythematous, 
+raised
+bumps associated with significant pruritus. Despite
+hydrocortisone cream and PO antibiotics prescribed by her PCP,
+the rash continued to spread to her entire ___, as well as
+stomach, back, and arms, prompting her to present to the ED. She
+endorses some chills and night sweats, but denies fever.
+
+She also described an unrelated episode of burning with 
+urination
+2 days prior to admission, but reports that this has since
+resolved and denies any current dysuria or urinary frequency. 
+She
+reports a history of intermittent perineal pain and dysuria.
+
+In the ED, initial vital signs were notable for 98.5 | 60 |
+131/66 | 16 | 95% RA. Exam notable for erythematous, warm,
+slightly swollen ___ with flakey patches and associated
+excoriation. Abdominal exam notable for suprapubic tenderness.
+Labs were notable for low albumin 3.3, elevated lipase 65. Trace
+leukocytes, 10 WBC, and few bacteria on UA. Patient was given 
+NS,
+PO oxycodone, and IV vanc.
+
+Consults: Derm, Transplant Hepatology. Dermatology recommended
+Cefazolin given concern for SSTI and clobatesol. Likelihood of
+secondary syphilis was felt to be low.
+ 
+Vitals on transfer: 98.1 | 136/72 | 60 | 16 | 95% RA  
+
+Upon arrival to the floor, the patient was laying in bed and
+pleasantly conversant. She continues to endorse ___ pain
+bilaterally.
+
+Review of Systems:
+Complete ROS obtained and is otherwise negative.
+ 
+Past Medical History:
+ - in ___ she has a heart attack in ___ s/p cath with no 
+intervention.  
+ - Alcoholic cirrhosis s/p Liver transplant (___) on tacrolimus 
+ 
+ - H/o MDR UTI  
+ - Osteoporosis ___ steroid use, s/p humerus fx ___  
+ - h/o RUE and RLE Thrombophlebitis  
+ - RLE DVT ___ on coumadin until s/p IVC filter ___, now off 
+warfarin  
+ - h/o left foot cellulitis  
+ - Chronic low back pain  
+ - Hypertension  
+ - Asthma/COPD  
+ - Hyperlipidemia  
+ - GERD  
+ - Depression  
+ - vertebral compression fractures  
+ - Orthotopic cadaver liver transplant ___ ___  
+ - Right unipolar hemiarthroplasty for right femoral neck fx  
+ ___  
+ - ORIF of left hip intertrochanteric hip fracture ___  
+ ___  
+ - Removal of prominent screw and replacement with shorter screw 
+ 
+ and bursectomy ___ ___  
+ - Ventral hernia repair with mesh ___ ___  
+ - ___ DVT  
+
+ 
+Social History:
+___
+Family History:
+Mother with hx of CVA and seizure, sister with breast cancer,  
+Father died of lung cancer.  
+No family history of kidney disease.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL
+==================
+VITALS: Afebrile, Stable
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: Normocephalic, atraumatic. Pupils equal, round, and
+reactive bilaterally; gaze conjugate. Sclera anicteric and
+without injection. Moist mucous membranes. 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally w/ end-expiratory
+wheezes. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended. Mildly tender to
+deep palpation in suprapubic region. 
+EXTREMITIES: Mild 1+ edema in RLE. No clubbing, cyanosis. Pulses
+DP/Radial 2+ bilaterally.
+SKIN: Large brown scaly plaques on anterior and medial surface 
+of
+both RLE and LLE. TTP. Erythematous papules on bilateral arms,
+abdomen, and left lateral thigh. No palmar/plantar lesions. 
+NEUROLOGIC: No gross deficits. AOx3.
+
+DISCHARGE PHYSICAL
+==================
+VITALS: 24 HR Data (last updated ___ @ 740)
+    Temp: 98.1 (Tm 100), BP: 134/69 (134-163/60-76), HR: 69
+(51-69), RR: 18, O2 sat: 98% (94-98), O2 delivery: Ra, Wt: 132.2
+lb/59.97 kg    
+GENERAL: NAD
+HEENT: NC/AT, anicteric sclerae, MMM, poor dentition
+CARDIAC: RRR, no M/R/G
+LUNGS: CTAB, no IWOB
+ABDOMEN: soft, NTND, +BS
+EXTREMITIES: Mild 1+ edema in RLE. No clubbing, cyanosis. Pulses
+DP/Radial 2+ bilaterally.
+SKIN: Large brown scaly plaques on anterior and medial surface 
+of
+both RLE and LLE -markedly improved.  Erythematous papules on
+bilateral arms, abdomen, and left lateral thigh - improved.
+NEUROLOGIC: No gross deficits. AOx3.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:38PM BLOOD WBC-5.9 RBC-3.97 Hgb-11.8 Hct-36.3 MCV-91 
+MCH-29.7 MCHC-32.5 RDW-14.4 RDWSD-48.5* Plt ___
+___ 08:38PM BLOOD Neuts-48.3 ___ Monos-11.9 
+Eos-12.6* Baso-0.5 Im ___ AbsNeut-2.84 AbsLymp-1.55 
+AbsMono-0.70 AbsEos-0.74* AbsBaso-0.03
+___ 08:38PM BLOOD Plt ___
+___ 08:38PM BLOOD Glucose-97 UreaN-21* Creat-1.1 Na-145 
+K-4.6 Cl-107 HCO3-26 AnGap-12
+___ 08:38PM BLOOD ALT-8 AST-15 AlkPhos-79 TotBili-0.3
+___ 08:38PM BLOOD Lipase-65*
+___ 08:38PM BLOOD Albumin-3.3* Calcium-9.5 Phos-3.1 Mg-1.7
+___ 04:57AM BLOOD tacroFK-5.0
+___ 10:45PM BLOOD Lactate-1.0
+
+___ 11:30PM URINE Color-Straw Appear-Clear Sp ___
+___ 11:30PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-TR*
+___ 11:30PM URINE RBC-2 WBC-10* Bacteri-FEW* Yeast-NONE 
+Epi-1
+___ 11:30PM URINE Mucous-RARE*
+
+MICRO/PERTINENT RESULTS
+=======================
+
+WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+         This isolate is presumed to be resistant to clindamycin 
+based on
+         the detection of inducible resistance . 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------       R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------<=0.25 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+RPR ___: Non-Reactive
+
+Blood Cultures ___: Pending - No Growth to Date
+
+STUDIES
+=======
+Right Lower Extremity Doppler Ultrasound ___
+No evidence of deep venous thrombosis in the right lower 
+extremity veins.
+
+EGD ___
+
+Esophagus: 
+Mucosa: A salmon colored island was seen and biopsied at 33 cm. 
+A regular Z line was seen at 35 cm.  
+
+Stomach: 
+Mucosa: Normal mucosa was noted. Two cold forceps biopsies were 
+performed for histology at the stomach body. Two cold forceps 
+biopsies were performed for histology at the stomach antrum. 
+
+Duodenum: 
+Mucosa: Normal mucosa was noted. Two cold forceps biopsies were 
+performed for histology at the duodenal bulb. Four cold forceps 
+biopsies were performed for histology at the D2. 
+
+Impression: 
+A salmon colored island was seen and biopsied at 33 cm.
+A regular Z line was seen at 35 cm.
+Normal mucosa in the stomach. Two cold forceps biopsies were 
+performed for histology at the stomach body. Two cold forceps 
+biopsies were performed for histology at the stomach antrum. 
+Normal mucosa in the duodenum. Two cold forceps biopsies were 
+performed for histology at the duodenal bulb. Four cold forceps 
+biopsies were performed for histology at the D2. 
+
+Colonoscopy ___
+Findings: 
+Mucosa: Quality of preparation: ___ 2 + 3 + 2. DRE: Normal. 
+The colonoscope inserted through the anus and under direct 
+visualization advanced to the terminal ileum. The appendiceal 
+orifice was identified. Color, texture, mucosa and anatomy of 
+the colon were carefully examined. Terminal ileum: Normal. 
+Cecum: A small polyp was seen and removed (see below). Ascending 
+colon: Normal. Transverse colon: Normal. Descending colon: 
+Normal. Sigmoid colon: A small polyp was seen and removed (see 
+below). Multiple diverticula were seen. Rectum: Normal. TI and 
+random colon biopsies were taken.  Cold forceps biopsies were 
+performed for histology throughout the whole colon. Four cold 
+forceps biopsies were performed for histology at the terminal 
+ileum. 
+
+Protruding Lesions: A single sessile 1 mm polyp of benign 
+appearance was found in the cecum. A single-piece polypectomy 
+was performed using a cold forceps. The polyp was completely 
+removed. A single sessile 10 mm polyp of benign appearance was 
+found in the sigmoid colon. A single-piece polypectomy was 
+performed using a hot snare. The polyp was completely removed. 
+Impression: 
+Quality of preparation: ___ 2 + 3 + 2. DRE: Normal. The 
+colonoscope inserted through the anus and under direct 
+visualization advanced to the terminal ileum. The appendiceal 
+orifice was identified. Color, texture, mucosa and anatomy of 
+the colon were carefully examined.
+Terminal ileum: Normal.
+Cecum: A single sessile 1 mm polyp of benign appearance was 
+found in the cecum. A single-piece polypectomy was performed 
+using a cold forceps. The polyp was completely removed. 
+Ascending colon: Normal.
+Transverse colon: Normal.
+Descending colon: Normal.
+Sigmoid colon: A single sessile 10 mm polyp of benign appearance 
+was found in the sigmoid colon. A single-piece polypectomy was 
+performed using a hot snare. The polyp was completely removed. 
+Multiple diverticula were seen.
+Rectum: Normal.
+Cold forceps biopsies were performed for histology throughout 
+the whole colon. Four cold forceps biopsies were performed for 
+histology at the terminal ileum
+
+DISCHARGE LABS
+==============
+___ 04:46AM BLOOD WBC-10.5* RBC-3.97 Hgb-11.8 Hct-35.1 
+MCV-88 MCH-29.7 MCHC-33.6 RDW-14.0 RDWSD-45.2 Plt ___
+___ 04:46AM BLOOD ___ PTT-28.7 ___
+___ 04:46AM BLOOD Glucose-106* UreaN-21* Creat-0.9 Na-141 
+K-4.7 Cl-104 HCO3-24 AnGap-13
+___ 04:46AM BLOOD ALT-10 AST-19 AlkPhos-86 TotBili-0.4
+___ 04:46AM BLOOD Calcium-9.0 Phos-3.1 Mg-1.6
+___ 04:46AM BLOOD tacroFK-3.8*
+ 
+Brief Hospital Course:
+___ female with a history of alcoholic cirrhosis status 
+post OLT in ___ on tacrolimus, eczema, hypertension, 
+depression, hyperlipidemia, asthma, chronic pain syndrome, and 
+MDR UTI who presented with one month history of b/l ___ rash 
+concerning for eczematous eruption with superimposed cellulitis.
+
+ACTIVE ISSUES:
+# Eczematous eruption complicated by right lower extremity 
+cellulitis
+The patient had a self-reported history of eczema and is 
+followed in ___ clinic who presented with a history of 
+pruritic skin rash and widespread scaly plaques most consistent 
+with a pruritic eczematous eruption. Given erythema, edema, and 
+TTP of R>L ___, eczema flare was also likely complicated by 
+superimposed cellulitis. Dermatology was consulted and 
+recommended topical steroids (clobetasol 0.05% ointment twice 
+daily), aggressive emollient use and cefazolin for 10 days. The 
+patient's wound culture later grew coagulase-positive staph and 
+she was transitioned to cephalexin as she remained stable 
+without other infectious signs or symptoms. Secondary syphilis 
+was considered but thought to be unlikely and an RPR was 
+nonreactive. Given her asymmetric right > left lower extremity 
+swelling, a lower extremity doppler ultrasound was ordered but 
+was negative for DVT.
+
+# Alcoholic Cirrohosis s/p OLT (___)
+The patient's LFTs were baseline admission and continued to 
+remain so. She was continued on her home dose of tacrolimus 0.5 
+mg twice daily and her Keppra levels were trended daily. As she 
+was admitted as an inpatient, she underwent screening EGD and 
+colonoscopy on ___ to avoid loss of follow-up.
+
+# H/o MDR E. Coli UTI
+Patient had history of MDR-E coli UTI sensitive only to 
+meropenem, gentamicin, nitrofurantoin, and zosyn. Although she 
+was found to have WBC and bacteria on UA and initially had mild 
+suprapubic tenderness to palpation, she was afebrile with normal 
+WBC and did not endorse any current urinary symptoms such as 
+dysuria, increased frequency, increased urgency, or back pain. 
+She had been previously evaluated as an outpatient and 
+infectious disease clinic for this finding but was due to have 
+further workup of persistent perineal pain thought to be related 
+to postmenopausal atrophic vaginitis and complex pain syndrome 
+with OB/GYN. Given lack of symptoms, broad-spectrum antibiotics 
+were deferred during her hospitalization. She was closely 
+monitored for signs of infection and urinary symptoms.
+
+CHRONIC ISSUES:
+
+# Chronic Pain
+The patient was continued on oxycodone 5 mg twice daily as 
+needed and gabapentin 300 mg twice daily.
+
+# HTN
+The patient remained normotensive since admission. She was 
+continued on home lisinopril 2.5 mg daily and furosemide 20 mg 
+daily.
+
+# Asthma
+Her O2 sats stable were on admission and she denied any recent 
+asthma flares. The patient was continued on albuterol every 4 
+hours as needed and fluticasone twice daily.
+
+# Depression
+The patient was continued on citalopram 40 mg daily.
+
+# HLD
+The patient was continued on atorvastatin 80 mg nightly.
+
+# Insomnia
+The patient was continued on trazodone 100 mg nightly as needed.
+
+# Hx MI s/p cath
+The patient was continued on aspirin 81 mg daily and metoprolol 
+XL 50 mg daily.
+
+TRANSITIONAL ISSUES
+===================
+[]Tamiflu: Continue taking Tamiflu 75 mg once daily for 10 days 
+(last day ___
+[]Cephalexin: Continue taking 500 mg every 6 hours for 10 total 
+days of treatment (last day ___
+[]Clobetasol: continue using twice daily until ___. Patient to 
+followup in ___ clinic on ___.
+[]Tacrolimus: NO changes, continue 0.5mg very 12 hours
+[]Esophagus, Stomach, Colon Biopsies: Please followup with GI 
+office for pathology results, patient will be notified by GI 
+office
+[]History of MDR E. Coli UTI: deferred treatment give lack of 
+symptoms, patient should follow-up with OB/GYN to rule out 
+chronic pain component
+
+#CODE: Full (presumed)
+#CONTACT: ___ (son) Phone: ___
+ 
+___ on Admission:
+1. Lisinopril 2.5 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Citalopram 40 mg PO DAILY 
+5. Furosemide 20 mg PO DAILY 
+6. Gabapentin 300 mg PO BID 
+7. HydrOXYzine 25 mg PO Q6H:PRN itching 
+8. Multivitamins 1 TAB PO DAILY 
+9. Omeprazole 40 mg PO BID 
+10. OxyCODONE (Immediate Release) 5 mg PO BID:PRN Pain - 
+Moderate 
+11. Polyethylene Glycol 17 g PO DAILY 
+12. TraZODone 50 mg PO QHS:PRN insomnia 
+13. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID:PRN itching 
+rash 
+14. Vitamin D 800 UNIT PO DAILY 
+15. Calcium Carbonate 500 mg PO TID 
+16. Clobetasol Propionate 0.05% Ointment 1 Appl TP BID:PRN 
+itching rash 
+17. Ferrous Sulfate 325 mg PO DAILY 
+18. Fluticasone Propionate 110mcg 1 PUFF IH BID 
+19. Metoprolol Succinate XL 50 mg PO DAILY 
+20. Tacrolimus 0.5 mg PO Q12H 
+21. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob/wheeze 
+
+ 
+Discharge Medications:
+1.  Cephalexin 500 mg PO Q6H 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*12 Capsule Refills:*0
+RX *cephalexin 500 mg 1 capsule(s) by mouth four times a day 
+Disp #*8 Capsule Refills:*0 
+2.  OSELTAMivir 75 mg PO DAILY 
+RX *oseltamivir 75 mg 1 capsule(s) by mouth daily Disp #*5 
+Capsule Refills:*0
+RX *oseltamivir 75 mg 1 capsule(s) by mouth daily Disp #*2 
+Capsule Refills:*0 
+3.  Clobetasol Propionate 0.05% Ointment 1 Appl TP BID 
+RX *clobetasol 0.05 % affected area on both legs twice daily 
+Refills:*0 
+4.  TraZODone 100 mg PO QHS:PRN insomnia  
+5.  Albuterol Inhaler 2 PUFF IH Q4H:PRN sob/wheeze  
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 80 mg PO QPM  
+8.  Calcium Carbonate 500 mg PO TID  
+9.  Citalopram 40 mg PO DAILY  
+10.  Ferrous Sulfate 325 mg PO DAILY  
+11.  Fluticasone Propionate 110mcg 1 PUFF IH BID  
+12.  Furosemide 20 mg PO DAILY  
+13.  Gabapentin 300 mg PO BID  
+14.  HydrOXYzine 25 mg PO Q6H:PRN itching 
+RX *hydroxyzine HCl 25 mg 1 by mouth every six (6) hours Disp 
+#*30 Tablet Refills:*0 
+15.  Lisinopril 2.5 mg PO DAILY  
+16.  Metoprolol Succinate XL 50 mg PO DAILY  
+17.  Multivitamins 1 TAB PO DAILY  
+18.  Omeprazole 40 mg PO BID  
+19.  OxyCODONE (Immediate Release) 5 mg PO BID:PRN Pain - 
+Moderate  
+20.  Polyethylene Glycol 17 g PO DAILY  
+21.  Tacrolimus 0.5 mg PO Q12H 
+RX *tacrolimus [Prograf] 0.5 mg 1 capsule(s) by mouth every 
+twelve (12) hours Disp #*60 Capsule Refills:*0 
+22.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID:PRN 
+itching rash  
+23.  Vitamin D 800 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnoses
+=================
+Eczema flare complicated by right lower extremity cellulitis
+Influenza exposure
+Chronic pain syndrome
+Alcoholic cirrhosis status post orthotopic liver transplant 
+(___)
+
+Secondary Diagnoses
+===================
+Hypertension
+Asthma
+Depression
+Hyperlipidemia
+Insomnia
+History of MI status post cath
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you in the hospital!
+
+Why was I admitted to the hospital?
+-You came to the hospital because you had an eczema flareup and 
+a superficial infection in your right leg
+
+What happened while I was admitted to the hospital?
+-You were seen by the dermatologists who recommended steroid 
+creams as well as an antibiotic for 10 days because of possible 
+infection in your right leg
+-Your infection workup showed a bacterial infection in your 
+right leg that was treated with an antibiotic
+An ultrasound of your right leg did not show any signs of a 
+blood clot
+Your IV antibiotic was converted to an oral antibiotic that you 
+can take after you leave the hospital
+-During a social group meeting, a visitor was found to have the 
+flu and so you were given a medication to prevent you from 
+developing the flu
+-You also underwent a screening EGD and colonoscopy as you were 
+due for both
+-Your lab numbers were closely monitored and you were continued 
+on your home medications
+
+What should I do after I leave the hospital?
+-Please continue taking all of your medications as prescribed, 
+details below
+-Keep all of your appointments as scheduled 
+
+We wish you the very best! 
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,315 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lower extremity weakness and incontinence 
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture
+
+ 
+History of Present Illness:
+Mr. ___ is an ___ year old gentleman with a significant history 
+of peripheral vascular disease including a AAA repair ___ years 
+ago and a bilateral femoral endarterectomy ___ years ago, on 
+plavix, who presents with acute onset of bilateral lower 
+extremity numbness, weakness, and incontinence. He reports 
+transient intermittent loss of motor and sentory function in his 
+L leg for the past few months which has become more frequent in 
+the last two weeks. Yesterday while standing at work he felt 
+acute onset bilateral lower extremity numbness, tingling and 
+weakness. All previous episodes were only in his left leg. He 
+also noticed that he briefly lost continence of his bowels 
+(without diarrhea). No urinary incontinence. He went home from 
+work and called his physician who told him to come in for urgent 
+evaluation. No further bowel incontinence since. [Please note 
+that in the ED dashboard the call in says: ___ year old male 
+cheif complaint of abd pain x 1month may have a pancreatic 
+mass...??" however this appears to be for a different patient.]
+.
+On arrival in the ED his initial vital signs were 97.9 120/90 72 
+18 100/ra. He was noted to have decreased reflexes in his left 
+knee and decreased but present rectal tone. Vascular was 
+consulted with concern for spinal cord compromise in the setting 
+of a AAA repair. An MRI showed known disc disease at C5-C7 but 
+no acute compromise of his spinal cord. Spine was notified (not 
+formerly consulted) and said that given his imaging he could be 
+admitted to medicine and followed by vascular and neurology. He 
+received 2x 1mg IV dilaudid and 1.5 mg IV ativan as well as his 
+evening coreg and gabapentin. Vital signs at the time of 
+transfer were 97 63 100/ra 127/75.
+.
+On the floor he appeared a bit anxious and reporting significant 
+lower back pain although he appeared relatively comfortable. He 
+was ambulating up and down the halls with his IV. He reports no 
+further episodes of incontinance and his lower extremity 
+strength and numbness have resolved.
+. 
+ 
+Past Medical History:
+CAD s/p MI (___) with stent (unclear type) on plavix
+peripheral vascular disease s/p AAA repair and s/p ileofemoral 
+bypass
+carotid artery stenosis (~80% per patient)
+h/o bilateral claudication
+hyperlipidemia
+chronic low back pain
+h/o left hip surgery
+h/o gastrojejunostomy 
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+VS: 97.2 120/67 58 18 100/ra
+Gen: NAD
+HEENT: NCAT PERRL EOMI
+Neck: no JVP
+CV: RRR S1 S2 No R/G/M
+Lungs: sparse faint crackles but otherwise clear
+Abd: Soft, NTND, +BS
+Ext: no edema, warm and perfused, faint but palpable DP pulses 
+bilaterally, no cyanosis
+Skin: no rash appreciated
+Neuro: CNII-XII intact, strength and sensation intact throughout 
+including across saddle region, R patellar 2+, L patellar 
+absent, rectal tone WNL 
+.
+Exam at discharge: Same as above except:
+Neurologic examination: 
+Mental status: 
+General:  alert, awake, normal affect
+Orientation:  oriented to person, place, date, situation.
+
+Speech/Language: fluent w/o phonemic or semantic paraphasic
+errors; comprehension was normal. 
+
+Cranial Nerves:  
+II: Pupils equally round and reactive to light, 4 to 2 mm
+bilaterally. Visual fields are full to confrontation. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus. 
+V1-3: Sensation intact V1-V3. 
+VII: Facial movement symmetric. 
+VIII: Hearing intact to finger rub bilaterally. 
+IX & X: Palate elevation symmetric. Uvula is midline. Gives a
+good cough.
+XI: Sternocleidomastoid and trapezius full strength bilaterally. 
+
+XII: Good bulk. No fasciculations. Tongue midline, movements
+intact.
+
+Motor: 
+Decreased bulk in adductors bilaterally in ___. Tone normal. No
+observed myoclonus or tremor
+No pronator drift
+        Delt; C5 bic:C6 Tri:C7 Wr ext:C6 Fing ext:C7
+Left     5         5       5       5          5
+Right    5         5       5       5          5
+.
+        IP: Quad:  Hamst: Dorsiflex: ___
+Left    5      5      5    5          5     5
+Right   4      5      5    5          5     5
+.
+Deep tendon Reflexes:
+.
+          Biceps: Tric: Brachial: Patellar:  Achilles   Toes:
+Right       1       1        1          2      mute      mute
+Left        1       1        1       mute      mute      mute
+
+Sensation: Intact to light touch.  Pinprick diminished in
+distribution of L2 in the right leg, and L2, L3, and L4 on the
+left side.
+ 
+Coordination: finger-nose-finger slowed but normal, RAMs normal.
+ 
+Pertinent Results:
+Admission Labs:
+___ 03:07PM BLOOD WBC-7.0 RBC-4.23* Hgb-13.5* Hct-39.6* 
+MCV-94 MCH-31.9 MCHC-34.1 RDW-13.6 Plt ___
+___ 03:07PM BLOOD Neuts-71.0* ___ Monos-3.2 Eos-3.2 
+Baso-1.2
+___ 06:30AM BLOOD ___ PTT-28.3 ___
+___ 03:07PM BLOOD ESR-11
+___ 03:07PM BLOOD Glucose-88 UreaN-14 Creat-0.9 Na-138 
+K-4.7 Cl-105 HCO3-24 AnGap-14
+___ 03:07PM BLOOD Cholest-277*
+___ 03:07PM BLOOD Triglyc-441* HDL-39 CHOL/HD-7.1 
+LDLmeas-164*
+___ 03:07PM BLOOD CRP-1.6
+___ 06:30AM BLOOD Calcium-8.9 Phos-3.7 Mg-2.2
+Discharge labs:
+___ 06:40AM BLOOD WBC-5.3 RBC-3.76* Hgb-11.9* Hct-34.7* 
+MCV-93 MCH-31.6 MCHC-34.2 RDW-13.3 Plt ___
+___ 06:40AM BLOOD Glucose-107* UreaN-21* Creat-1.0 Na-137 
+K-4.4 Cl-108 HCO3-22 AnGap-11
+.
+CSF:
+___ 01:42PM CEREBROSPINAL FLUID (CSF) WBC-2 RBC-1* Polys-0 
+___ ___ 01:42PM CEREBROSPINAL FLUID (CSF) TotProt-58*
+___ 01:42PM CEREBROSPINAL FLUID (CSF) VARICELLA DNA 
+(PCR)-PND
+___ 01:42PM CEREBROSPINAL FLUID (CSF) CYTOMEGALOVIRUS - 
+PCR-PND
+___ 01:42PM CEREBROSPINAL FLUID (CSF) HERPES SIMPLEX VIRUS 
+PCR-PND
+___ 1:42 pm CSF;SPINAL FLUID      Source: LP. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN.
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   VIRAL CULTURE (Preliminary): 
+
+ 
+Brief Hospital Course:
+___ vasculopath s/p AAA repair presenting with acute onset 
+bilateral ___ numbness and weakness along with bowel incontinence 
+x1 that continued to have pain and paresthesia/numbness 
+intermittently but patient ambulatory.
+.
+.
+# Lower Extremity Weakness/Numbness + Incontinence: Presentation 
+was initially very concerning for cord compression but there was 
+no evidence of cord compression on MRI of C, T, L spine. These 
+images were reviewed with the staff radiologist by the medical 
+team in person. Vascular, neurosurgery, neurology were 
+consulted. Vascular surgery felt this to be unlikely to be 
+related to AAA repair. Neurosurgery felt the exam was 
+non-localizing and that no spinal pathology appeared present and 
+no surgical intervention was needed. Neurology performed LP 
+given concern for viral or carcinomatous meningitis but studies 
+were pending at time of discharge. They also raised the 
+possibility of an inflammatory cauda equine. He was seen to be 
+ambulating throughout admission though he reported continued 
+pain and intermittent paresthesias and numbness in his buttock 
+and lower extremities. His gabapentin was increased to Q8h 
+dosing and he was treated prn with dilaudid IV. He was 
+discharged on his home dose of vicodin. He underwent CTA of the 
+iliac/femoral/lower ext which showed on preliminary read 
+extensive plaque and circumferential clot seen throughout aorta 
+extending through iliacs and branches throughout the legs, focal 
+aneurysmal dilation of right external iliac up to 2.5 cm, SFA 
+narrowed bilaterally with multiple areas of constriction, focal 
+narrowing of the left popliteal but no obstruction and three 
+vessel run-off present bilaterally. He should also have EMG and 
+nerve conduction studies to evaluate for polyradiculopathy. 
+.
+# Peripheral Vascular Disease: The patient has an extensive 
+history of atherosclerotic vasculopathy. He underwent AAA repair 
+___ years ago, followed by Dr. ___. He was continued on 
+aspirin and plavix and he was discharged on a nicotine patch. He 
+was counselled on the importance of smoking cessation with his 
+PVD.
+.
+# Carotid Artery Stenosis: Vascular surgery recommended carotid 
+ultrasound which showed Right ICA stenosis <40%, Left ICA 
+stenosis 70-79%. This result should be followed with either his 
+existing vascular surgeon or Dr. ___ at ___ if patient 
+desires. Plavix and aspirin were continued and nicotine patch 
+was given.
+.
+# CAD: The patient has a history of MI in ___ with stent. He 
+did not report any chest pain or shortness of breath or other 
+signs or symptoms of ACS. He was put on rosuvastatin 10mg during 
+admission as home dose was not known. He was discharged on this 
+dose.
+.
+# Hyperlipidemia: His triglycerides were markedly elevated to 
+441, total cholesterol 277, HDL 39, LDL 164. He was started on 
+rosuvastatin 10mg as his home dose was unknown. 
+.
+# Primary Care: The patient was scheduled to follow up with 
+___ MD at ___ on ___. 
+-f/u CSF viral studies, cytology
+-f/u final read CTA aorto-iliacs
+-neurology f/u ___
+-pt. should be scheduled for f/u with vascular surgery for f/u 
+for carotid stenosis
+-may need uptitration of rosuvastatin
+ 
+Medications on Admission:
+iscussed with patient
+plavix 75mg daily
+lisinopril 10mg daily
+aspirin 81mg daily
+gabapentin 300mg QHS
+xanax 0.5mg QID prn
+vicodin 1mg QID prn
+carvedilol 6.25mg BID
+crestor (unsure of dose) 
+ 
+Discharge Medications:
+1. Clopidogrel 75 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+4. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO every eight 
+(8) hours.
+Disp:*90 Capsule(s)* Refills:*0*
+5. Xanax 0.5 mg Tablet Sig: One (1) Tablet PO four times a day 
+as needed for anxiety.  
+6. Hydrocodone-Acetaminophen ___ mg Tablet Sig: One (1) Tablet 
+PO Q6H (every 6 hours) as needed for pain.  
+7. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+8. Rosuvastatin 10 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+
+9. Nicotine 14 mg/24 hr Patch 24 hr Sig: One (1) Patch 24 hr 
+Transdermal DAILY (Daily).
+Disp:*30 Patch 24 hr(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Bilateral lower extremity weakness, paresthesia, numbness of 
+unclear etiology
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for symptoms of leg weakness, 
+pain and numbness. You had an MRI of your spine which showed 
+some disc buldging although no evidence of spinal cord 
+compromise. You also had a lumbar puncture which was 
+unrevealing. You also had a CT scan of your blood vessels which 
+did not provide an explanation for your symptoms. You were 
+evaluated by neurosurgery and vascular surgery who felt there 
+was no need for surgery at this time. You were evaluated by 
+neurology as well. 
+.
+Some of your medications were changed during this admission:
+INCREASE gabapentin to 300mg by mouth every 8 hours
+START nicotine patch daily
+.
+You should continue to take all of your other medications as 
+prescribed.
+ 
+Followup Instructions:
+___

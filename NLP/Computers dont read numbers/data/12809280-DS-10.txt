@@ -1,0 +1,272 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+heparin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Febrile in clinic, fatigue, bacteremia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old M diagnosed with AML with 
+unfavorable prognosis. Underwent MUD allogenic stem cell 
+transplant on ___. Unfortunately on 
+day +100 had cytogenetic relapse. There was no improvement in 
+his counts after withdrawal of immunosuppression, bone marrow 
+biopsy revealed morphologic relapse on ___. His course was 
+c/b graft failure/necrotic marrow and now relapse. Allo 
+admission ___ notable for HIT, stomatitis, CMV/EBV viremia, RUE 
+basilic vein thrombosis ___ PICC (not anticoagulated due to low 
+plts), tacrolimus-induced HTN, febrile neutropenia, IJ site 
+cellulitis.  Bone marrow aspirate ___ neg for blasts on 
+aspirate but bone marrow ___ w/ 4% blasts. Bone marrow 
+chimerism down to 90%. New peripheral blasts detected as of 
+___, c/w recurrence. 
+
+Recent events notable for: tacrolimus has been weaned off w/o 
+e/o GVHD. Has been CMV/EBV viremic in the past, s/p 
+valgancyclovir and Rituxan, both since resolved. 
+
+He received one cycle of decitabine and is now C1D24. Yesterday 
+he presented to clinic for planned DLI. His temperature was 
+101.3 in the clinic, he denied any symptoms and said he felt 
+fine and did not want to be admitted even though he was 
+counseled about the risks of refusing admission. Blood cultures 
+were drawn and vanc 1 gram and cefepime 2 grams were given as 
+one time dosages. The following day, ___, his blood culture 
+returned positive for Gram positive cocci in pairs and chains. 
+He was notified of these results and returned to ___ Emergency 
+Department for further medical evaluation and treatment.
+
+Mr. ___ remains transfusion dependent, requires PLT three 
+times per week, PRBC once a week, and he is profoundly 
+neutropenic.
+
+Of note, the pt has outpt providers from multiple institutions. 
+His psychiatrist is Dr. ___ at ___, ___. He is 
+unsure of the name of his ___ clinic. Per his PCP's 
+office, their records have him receiving methadone as of last 
+fall from Dr. ___, ___ Substance 
+Abuse ___, ___. Both of the above providers were 
+called and messages left.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+He was diagnosed in ___ with acute leukemia. At diagnosis, 
+he was transferred from an outside facility to ___ 
+___ with severe pancytopenia, night sweats and bone
+pain.  He had extensive workup including diagnostic imaging,
+multiple bone marrow biopsies and ultimately a splenectomy.  He
+was found to have extensive bone marrow necrosis, reactive
+histiocytic infiltration with scattered blasts.  However, upon
+cytogenetic testing, he was found to have a complex karyotype.
+This being most consistent with acute myeloid leukemia with
+unfavorable prognosis.  He received standard induction
+chemotherapy of 7 & 3 on ___.  Repeat bone marrow 
+biopsies
+did not show any evidence of leukemia by FISH as well as
+karyotype was now normal. He was discharged from the hospital on
+___.
+At that point discussion with the patient and family members and
+among the ___ team it was decided to proceed with a 
+myeloablative
+matched unrelated donor allogeneic stem cell transplant as this
+would give him best possible treatment option for prolonged
+remission given his poor prognostic features at diagnosis - 
+occurred ___.
+Bone marrow aspirate ___ neg for blasts on aspirate but bone 
+marrow ___ w/ 4% blasts. Bone marrow chimerism down to 90% 
+(from 99%). New peripheral blasts detected as of ___, c/w 
+recurrence.
+
+PAST MEDICAL/SURGICAL HISTORY:  
+AML with poor prognostic factors as above
+Depression/anxiety 
+PTSD 
+Back pain  
+Polysubstance abuse with Methadone maintenance
+CMV/EBV viremia
+HIT
+H/o RUE basilic vein thrombosis in the setting of ___
+
+ 
+Social History:
+___
+Family History:
+No blood disorders or malignancies in the family. Mother with 
+depression.
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VITALS: 98, 155/95, 110, 16, 96 on RA.
+HEENT: no thrush, moist mucous membranes, no lesions
+Lungs: Clear to AP, normal excursion
+Cor: S1S2 no MRG
+Abdomen: Soft Non-tender, No HSM, NABS, well healed midline 
+scar,
+minimal induration in epigastric area
+LN: No AC, PC, Submandibular, submental axillary, inguinal. 
+Neuro: AAOx3 , normal affect, strength ___ all extremities.
+Intact to LT. 
+Skin: No lesions, tunneled line left anterior chest, no 
+erythema,
+no tenderness. bilateral lower extremity pitting edema, no calf
+tenderness, petechia on both shins
+
+DISCHARGE EXAM
+==============
+Patient expired
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:13PM BLOOD WBC-1.2* RBC-2.40* Hgb-7.6* Hct-23.0* 
+MCV-96 MCH-31.6 MCHC-32.9 RDW-17.3* Plt Ct-6*#
+___ 12:13PM BLOOD Neuts-9* Bands-1 Lymphs-59* Monos-23* 
+Eos-2 Baso-0 Atyps-3* ___ Myelos-1* Promyel-2* NRBC-3*
+___ 12:13PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL 
+Macrocy-1+ Microcy-NORMAL Polychr-NORMAL
+___ 12:13PM BLOOD Plt Smr-RARE Plt Ct-6*#
+___ 11:05AM BLOOD ___ PTT-26.5 ___
+___ 11:05AM BLOOD ___
+___ 12:13PM BLOOD Glucose-92 UreaN-24* Creat-0.8 Na-129* 
+K-4.9 Cl-92* HCO3-23 AnGap-19
+___ 12:13PM BLOOD ALT-16 AST-26 LD(LDH)-271* AlkPhos-93 
+TotBili-0.6
+___ 12:13PM BLOOD TotProt-4.5* Albumin-2.5* Globuln-2.0 
+Calcium-8.3* Phos-3.7 Mg-1.5*
+
+DISCHARGE LABS
+==============
+Patient expired
+
+ 
+Brief Hospital Course:
+___ M with AML with complex cytogenetics, MUD allotransplant with 
+FLU/BU4 conditioning D0 ___, cytogenetic relapse on ___ 
+with confirmation on ___ ___ admitted with febrile 
+neutropenia, ultimately persistent VRE bacteremia. 
+Mr. ___ AML progressed during his protracted hospital 
+stay with steady deterioration in his state of health throughout 
+in spite of aggressive treatment. As his blast count reached 
+20%, his mental and metabolic status deteriorated together with 
+his pain. In setting of agitated delirium patient underwent fall 
+with head strike resulting in subdural hematoma. Goals of care 
+evolved towards comfort measures only in the following days. 
+Patient passed comfortably next to his family. 
+
+# Neutropenic fever without localizing symptoms - He returned to 
+___ on ___ when he was notified that ___ in pairs. Speciation 
+and sensitivity revealed VRE, ultimately patient received 
+daptomycin and ampicillin. Continued to spike and having 
+positive blood cultures since the first positive culture in 
+spite of appropriate dosed therapy based on microbial 
+sensitivities. TEE no longer part of plan given aggressive 
+terminal stage illness.  
+
+#Subdural hematoma: Secondary to fall in setting of delirium and 
+thrombocytopenia. Received seizure prophylaxis palliatively.
+
+#Persistent hypoglycemia: Likely due to poor po intake and liver 
+metabolic failure. Refractory to D10W gtt at 200mL/h. This also 
+worsens his hyponatremia and volume status. Getting D50 amps 
+intermittently.
+
+#Anion gap metabolic acidosis: Likely secondary to intravascular 
+depletion in the setting of overall fluid overload. Reflecting 
+acutely decompensated inflammatory state due perhaps to 
+infection and malignancy. 
+
+# Relapsed AML with complex cytogenetics, s/p induction
+with 7+3, post allogeneic transplant MUD (___), Flu/Bu
+conditioning, currently has persistent malignant clone and
+circulating blasts. He is clinical trial ___. As per the 
+protocol he continues to be on study, only second transplant 
+will require for him to come off. Severe pancytopenia with ANC 
+100, PLT 6 , HCT 23.0 PLT transfusion ___. He has no evidence 
+of GVHD off immunosuppression since ___. On ___ concern 
+for rising peripheral blast count to 14% out of leukocyte count 
+of 500. Blast count continued to rise, reaching 20% on ___.  
+Disease considered refractory and terminal, patient ultimately 
+made comfort measures only. 
+
+# Pain syndrome/ bone marrow infarction - Chronic, continue home 
+medications. Diffuse but mentions legs and left arm more than 
+other body parts. Patient's pain continued worsening during the 
+admission in spite of high dose narcotics including methadone, 
+fentanyl patch and oxycodone. Pain likely in close correlation 
+with progression of primary disease. Ultimately patient could 
+not tolerate POs and his mental status was not appropriate for 
+PCA. Placed on hydromorphone drip at narcotic equivalent dose. 
+Patient was comfortable when he passed. 
+
+# Depression/Anxiety - Chronic. Was continued on  quetiapine, 
+lithium and bupropion 
+
+# PUD - Severe epigastric pain clinically suggestive of PUD, was 
+kept on  H2 blocker and PPI.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atovaquone Suspension 1500 mg PO DAILY 
+2. BuPROPion 100 mg PO BID 
+3. Docusate Sodium 100 mg PO BID constipation 
+4. Fluconazole 400 mg PO Q24H 
+5. Gabapentin 900 mg PO Q8H 
+6. Lithium Carbonate 150 mg PO HS 
+7. Senna 8.6 mg PO BID 
+8. Simethicone 80 mg PO TID:PRN gas 
+9. Ursodiol 300 mg PO BID 
+10. Polyethylene Glycol 17 g PO BID 
+11. Magnesium Oxide 800 mg PO DAILY 
+12. Methadone 115 mg PO DAILY 
+13. Ranitidine 300 mg PO DAILY 
+14. Multivitamins W/minerals 1 TAB PO DAILY 
+15. Pantoprazole 40 mg PO Q12H 
+16. ValGANCIclovir 450 mg PO BID 
+17. Fentanyl Patch 100 mcg/h TD Q72H 
+18. Fentanyl Patch 25 mcg/h TD Q72H 
+19. OxycoDONE (Immediate Release)  20 mg PO Q4H:PRN pain 
+20. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+21. ClonazePAM 0.5 mg PO DAILY:PRN anxiety 
+22. Ondansetron 4 mg PO Q8H:PRN nausea 
+23. Dexamethasone 2 mg PO QAM 
+24. Ciprofloxacin HCl 500 mg PO Q12H 
+25. Allopurinol ___ mg PO DAILY 
+
+ 
+Discharge Medications:
+Patient expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+#Vancomycin Resistant Enterococcus Bacteremia
+#Refractory hypoglycemia
+#Subdural Hematoma
+#Relapsed and refractory Acute Myelogenous Leukemia 
+
+ 
+Discharge Condition:
+Patient expired
+
+ 
+Discharge Instructions:
+Patient expired
+ 
+Followup Instructions:
+___

@@ -1,0 +1,323 @@
+ 
+Name:  ___.       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+erythromycin (bulk) / Ampicillin / Bactrim DS
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hyperglycemia 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is ___ with history of HTN, HLD, DM2, 
+schizoaffective disorder who is being sent in from PCP office 
+with hyperglycemia. The patient has poorly controlled DM and, as 
+per PCP, ___, and therapist notes, there has been 
+concern that the patient in unable to take care of herself at 
+home. As per Dr. ___ patient's psychiatrist, the patient 
+has been more and more disorganized lately, and they are 
+concerned that this could be due to her underlying 
+schizoaffective disorder.  
+
+The patient reports that she stopped taking her insulin since 
+___ because she ran out of her needles. She has been too 
+"scared" to check her sugars at home, but reports that they have 
+been routinely higher than 500 over the last ___ months.  She 
+was seen in the ED on ___ for high sugars.  Per follow up note 
+from her PCP, she was subsequently seen at ___ and metformin 
+was added to her daily regimen.  
+
+She reports she has home nursing x3 week to help with sugars. In 
+terms of precipitating factors that could be contributing to her 
+hyperglycemia, she reports that she was having burning with 
+urination over the weekend with increased frequency and having 
+to get up at night to go to the bathroom. Has had these symptoms 
+twice over the past month.  Was prescribed a course of Macrobid 
+in early ___, and ___ called HCA and was prescribed cipro 
+last ___.  Did not pick up cipro from pharmacy, said symptoms 
+have now gone away. 
+
+ROS is positive for dizziness, (but reports that it is much 
+improved compared to previous admissions) and unintentional 
+weight loss.  Per past records she weighed 189 pounds in ___ 
+and is currently 153.  She also reports some pain around her 
+neck ___ diagnosed neurpathy and numbness around her feet which 
+has been on-going.  She denies any recent fevers or chills, 
+chest pain or palpitations, shortness of breath, abdominal pain, 
+changes in her BMs, early satiety or abdominal distention. She 
+does not know why she has been losing weight.
+  
+In the ED, initial vs were: T97 160/65 88 18 96RA. Labs were 
+notable for sugars >500, sodium of 126, without any anion gap. 
+She was given multiple doses of IV insulin and glucose on 
+transfer ~300s.  
+
+ 
+Past Medical History:
+PMH:
+- Schizoaffective disorder
+- Colon cancer - T4N0M1 (mesenteric nodules), completely 
+resected ___ w/out chemo or radiation      
+- DM Type 2 - poorly controlled w/ last A1c > 10
+- Diabetic retinopathy
+- Osteoarthritis - cervical spine, bilateral hands  
+- Hypertension 
+- Hypercholesterolemia
+- Benign ovarian mass s/p hyserectomy and bilateral 
+salpingo-oophorectomy in ___
+
+ 
+Social History:
+___
+Family History:
+Father died at ___ of an MI.
+Mother died of dementia.
+One brother with liver cancer, one brother with diabetes.  
+
+ 
+Physical Exam:
+PHYSICAL EXAM
+VS: 96.7 110/56 68 18 99RA  
+General: pleasant woman, NAD, sitting up comfortably at the edge 
+of the bed, alert and oriented, slightly tangential, but able to 
+answer my questions  
+HEENT: sclera anicteric, dry mucous membranes  
+neck: supple  
+CV: ___ SEM heard loudest at ___, otherwise RRR S1 S2  
+lungs: clear to auscultation b/l  
+abdomen: soft, nontender, nondistended, +BS, no suprapubic 
+tenderness noted  
+back: no flank pain  
+extremities: no ___ edema noted, warm and wellperfused, 2+ DP 
+pulses  
+Neuro: CN ___ grossly intact, intact ___ muscle strength   
+
+PHYSICAL EXAM ON DISCHARGE:
+General: pleasant woman, NAD
+HEENT: sclera anicteric, dry mucous membranes  
+neck: supple  
+CV: ___ SEM heard loudest at RUSB, otherwise RRR S1 S2  
+lungs: clear to auscultation b/l  
+abdomen: soft, nontender, nondistended, +BS, no suprapubic 
+tenderness noted  
+back: no flank pain  
+extremities: no ___ edema noted, warm and wellperfused, 2+ DP 
+pulses  
+Neuro: CN ___ grossly intact, intact ___ muscle strength   
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 04:26PM BLOOD Glucose-527* UreaN-20 Creat-0.8 Na-126* 
+K-4.2 Cl-88* HCO3-28 AnGap-14
+___ 04:25PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 04:25PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 11:58PM   GLUCOSE-295* K+-3.9
+
+DISCHARGE LABS
+___ 08:45AM BLOOD Glucose-197* UreaN-15 Creat-0.6 Na-134 
+K-3.7 Cl-100 HCO3-22 AnGap-16
+___ 08:45AM BLOOD Calcium-9.1 Phos-3.6 Mg-1.7 Iron-49
+___ 08:45AM BLOOD calTIBC-309 VitB12-720 Folate-19.2 
+Ferritn-223* TRF-238
+___ 08:45AM BLOOD %HbA1c-13.5* eAG-341*
+___ 08:45AM BLOOD TSH-1.0
+___ 08:45AM BLOOD WBC-8.1 RBC-4.05* Hgb-12.0 Hct-33.9* 
+MCV-84 MCH-29.7 MCHC-35.5* RDW-12.5 Plt ___
+
+FINDINGS:  The imaged lung bases are clear.  The heart and 
+pericardium are unremarkable. The liver enhances homogeneously, 
+and there are no focal hepatic lesions.  The gallbladder is 
+normal.  The pancreas is normal.  The spleen is normal.  The 
+adrenal glands are normal.  The kidneys are normal.  There is no 
+hydronephrosis.  There is a tiny hiatal hernia.  Otherwise, the 
+stomach is unremarkable.  The small bowel is normal.  There is 
+no evidence of obstruction.  There is a large ventral hernia 
+containing small and large bowel without evidence of 
+obstruction.  There is suture seen in the colon, the remaining 
+colon is normal.  No free air.  No free fluid.  There is no 
+retroperitoneal or mesenteric lymphadenopathy. 
+PELVIS:  The bladder is normal.  The rectum is normal.  The 
+uterus contains dystrophic calcification from likely a 
+dystrophic fibroid.  The adnexa are not well seen.  There is no 
+free fluid in the pelvis.  There is no pelvic or inguinal 
+lymphadenopathy. The aorta is normal in caliber, and there are 
+moderate atherosclerotic 
+calcifications. 
+BONES:  There are moderate degenerative changes of the lower 
+thoracic and lumbar spine.  There is no acute bony abnormality. 
+IMPRESSION: 
+1.  No evidence of metastatic disease. 
+2.  Large ventral hernia containing fat, small and large bowel 
+is unchanged.  No evidence of obstruction. 
+3.  Tiny hiatal hernia. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with PMH significant 
+for HTN, HLD, DM2, schizoaffective disorder who is being sent in 
+from PCP office with hyperglycemia and inability to take care of 
+herself at home. 
+ 
+# DM2/hyperglycemia: The patient's sugars have been very 
+uncontrolled, mostly in the setting of her not taking her 
+insulin because she ran out of needles. However, will need to 
+exclude underlying infection, as well. The patient had dysuria 
+and increased frequency this past weekend, but UA from this 
+admission bland, urine culture pending. Patient's home insulin 
+regimen was continued with good result.  Her blood sugars 
+dropped from >500 on admission to the 100's on discharge.  A 
+follow up appointment was established with both ___ and ___ 
+PCP to further discuss her insulin regimen and whether it can be 
+simplified.  She is currently on 3 different insulins, and while 
+she understands her medications accurately, it may be 
+overwhelming for her.  
+  
+# Weight loss/failure to thrive: The patient's providers are 
+concerned about weight loss. Documented to weigh 183 pounds in 
+___, and down to 159 this month. She has reported significant 
+barriers to getting adequate food given that there is no one 
+aournd to help her and she is totally dependent on the Ride to 
+get to the grocery store and the pharmacy for her medications. 
+Her schizoafective disorder may also be worsening as of late per 
+her last social work note, and is possibly contributing to 
+disorganization and inability to care for herself.  She is also 
+a little unsure about what she should eat given her diabetes, 
+and frequently feels unwell, likely due to persistant 
+hyperglycemia/low insulin.  However, given history of colon 
+cancer as well as benign ovarian mass, we obtained a CT abdomen 
+and pelvis to rule out new malignancy as an etiology for weight 
+loss.  CT scan did not show obstruction or mass. Patient should 
+follow up with her regular oncologist as planned going forward. 
+
+# Schizoaffective disorder: likely contributing to weight loss, 
+failure to thrive and inability to take medications reliably as 
+above.  Social worker, psychiatrist and PCP all agree the 
+patient would do better in assisted living.  On presentation to 
+the hospital the patient was alert, oriented x3, somewhat 
+tangential and distracted but easy to redirect.  She could 
+answer questions apprpriately.  No depression or thoughts of 
+self harm. No frank delusions or hallicinations, although she is 
+somewhat preoccupied with the idea that her neighbors are 
+loitering outside her apartment and trying to eavesdrop on her.  
+Per conversation with PCP she ___ does not live in that 
+safe of a location, and for this reason as well may do better in 
+assisted living. Her home psychiatric medications were continued 
+during this admission. 
+ 
+# Hyponatremia: The patient was noted to be hyponatremia today 
+to 126, but after correcting for her glucose, sodium 136.  
+ 
+# HTN: Home atenolol and lisinopril were continued, blood 
+pressure was stable. 
+
+# HLD: Home statin was continued.  
+ 
+TRANSITIONAL ISSUES
+- Patient's safety and ability to care for herself at home is 
+questionable.  Per SW, a friend is helping her look into 
+assisted living facilities. 
+-please ensure f/u CT scan read with oncologist and f/u 
+colonscopy
+-please monitor patient's weight given recent weight loss
+-please ensure psychiatry f/u
+-please consider toxoplasmosis screen if patient becomes acutely 
+confused given history of cat litter exposure consistently
+-please ensure blood glucose monitoring given persistently high 
+blood sugars in 500s and poor compliance
+-please ensure ___ f/u with HbA1c value of 13.5%
+-please f/u iron studies with regards to patient's anemia
+-please f/u TSH results
+-please ensure daily ___ services continue as patient unable to 
+take her own medications
+  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 75 mg PO DAILY 
+2. Gabapentin 600 mg PO HS 
+3. Lisinopril 30 mg PO DAILY 
+4. Omeprazole 20 mg PO BID 
+5. QUEtiapine Fumarate 400 mg PO QHS 
+6. QUEtiapine Fumarate 25 mg PO DAILY:PRN anxiety 
+7. Rosuvastatin Calcium 20 mg PO DAILY 
+8. Sertraline 200 mg PO DAILY 
+9. pramipexole 0.5 mg Oral DAILY  
+10. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+11. Novalog 70/30 110 Units Breakfast
+12. 
+13. Glargine 100 Units Bedtime Max Dose Override Reason: home 
+dose per pharmacy
+14. Calcium Citrate + D (calcium citrate-vitamin D3) 315-200 
+mg-unit Oral DAILY  
+
+ 
+Discharge Medications:
+1. Atenolol 75 mg PO DAILY 
+2. Gabapentin 600 mg PO HS 
+3. Lisinopril 30 mg PO DAILY 
+4. Omeprazole 20 mg PO BID 
+5. QUEtiapine Fumarate 400 mg PO QHS 
+6. QUEtiapine Fumarate 25 mg PO DAILY:PRN anxiety 
+7. Rosuvastatin Calcium 20 mg PO DAILY 
+8. Sertraline 200 mg PO DAILY 
+9. Calcium Citrate + D (calcium citrate-vitamin D3) 315-200 
+mg-unit Oral DAILY  
+10. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+11. pramipexole 0.5 mg ORAL DAILY  
+12. U-500 115 Units Breakfast
+U-500 115 Units DinnerMax Dose Override Reason: severe insulin 
+resistance requires >200 units/day
+
+RX *insulin syringe-needle U-100 [BD Insulin Syringe Ult-Fine 
+II] 31 gauge x ___ use for insulin up to 22 mark twice daily 
+Disp #*60 Syringe Refills:*3
+RX *insulin regular hum U-500 conc [Humulin R U-500 
+"Concentrated"] 500 unit/mL (Concentrated) 110 units SC twice a 
+day Disp #*1 Vial Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+Primary:Hyperglycemia
+
+Secondary: Type II diabetes, hypertension, hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+It was a pleasure having you here at the ___ 
+___.  You were admitted after you were found to have 
+high blood sugars.  You were managed here with your home insulin 
+regimen and intravenous fluids.  Please keep your appointments 
+below
+ 
+Followup Instructions:
+___

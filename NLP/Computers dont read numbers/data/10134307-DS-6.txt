@@ -1,0 +1,277 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cough, fever
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ with h/o asthma, presents with fever, cough, left sided 
+chest pain, and shortness of breath.  Pt was in USOH until 8d 
+PTA, when he returned from a trip to ___.  He notes 1d 
+of sore throat which resolved without intervention. 
+. 
+6d PTA, he developed acute onset of left side chest discomfort, 
+productive cough, n/dry heaves x 1, and intermittent wheezing, 
+which he treated with albuterol inhaler, with some releif.  He 
+was seen at ___ and diagnosed with viral URI, without specific 
+treatment.  His symptoms persisted, prompting him to present to 
+___.  He notes no specific sick contacts, and has not been 
+hospitalized recently.  He has not received a flu shot this 
+season.
+. 
+In ED, VS= 100.8  140/57  107  18  97%RA.  Labs notable for 
+leukocytosis, and mild renal insufficiency.  CXR with LLL 
+opacification.   DFA and blood cultures sent.  He received 
+levaquin 750mg iv x1, tamiflu x 1.  No documented fluids given, 
+but 1L hanging on arrival to floor.  ECG with sinus tachycadria. 
+ 
+.
+ROS negative for headache, neck stiffness, myalgias, 
+arthralgias, abdominal pain, diarrhea, constipation, dysuria, 
+rash.  otherwise positive as above. 
+ 
+Past Medical History:
+- asthma, dx ~age ___, baseline PF unknown, no prior intubation, 
+managed with albuterol inhaler prn only. 
+- h/o spontaneous pneumothorax, left base, ___ ago, managed 
+conservatively, without chest tube.  
+. 
+denies cad, cva, dm, pe, ckd, malignancy. 
+ 
+Social History:
+___
+Family History:
+father with premature CAD. 
+ 
+Physical Exam:
+VS:  97.3  130/60  99  18  97%RA  
+GEN: ___ male, NAD, breathing comfortably. 
+HEENT: PERRL, EOMI, oropharynx without erythema or exudate.  no 
+cervical LAD. 
+CV: tachy, regular, normal S1, S2, no m/r/g. 
+PUL: decreased/coarse breath sounds at left base, otherwise, CTA 
+bilaterally, good air movement, no wheezing.  
+ABD: soft, NTND, +BS, no rebound/gaurding. 
+EXT: no edema. 
+SKIN: no rash. 
+PSYCH: pleasant. 
+ 
+Pertinent Results:
+___ 11:22AM BLOOD WBC-18.2* RBC-5.13 Hgb-13.9* Hct-40.8 
+MCV-80* MCH-27.0 MCHC-33.9 RDW-13.1 Plt ___
+___ 11:22AM BLOOD Neuts-80* Bands-0 Lymphs-5* Monos-4 
+Eos-10* Baso-0 Atyps-1* ___ Myelos-0
+___ 11:22AM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL 
+Macrocy-NORMAL Microcy-1+ Polychr-OCCASIONAL
+___ 11:22AM BLOOD Plt Smr-NORMAL Plt ___
+___ 11:22AM BLOOD Glucose-123* UreaN-10 Creat-1.3* Na-135 
+K-4.9 Cl-96 HCO3-25 AnGap-19
+___ 11:25AM BLOOD Lactate-1.5 K-3.8
+.
+.
+STUDIES: 
+___ CXR (AP): (my read) ?LLL opacification. 
+.
+___ ECG 11:02:  sinus tachycardia, 109 bpm, NA, RBBB 
+morphology, borderline LVH using V1, V5-6, no STE, TWI in V1-2, 
+III, avF. 
+. 
+___ CXR PA/Lat/Decub: PA, lateral, and decubitus views were 
+reviewed. 
+Cardiomediastinal contours are normal. Moderate layering pleural 
+effusion is on the left. Left lower lobe retrocardiac opacity is 
+best seen in the 
+decubitus view. This suggests the presence of a consolidation in 
+the left 
+lower lobe medially. There is no pneumothorax. 
+.
+___ CXR PA/Lat: Small-to-moderately large left pleural 
+effusion with left perihilar consolidation. 
+.
+___ Ultrasound guided thoracentesis: Successful 
+ultrasound-guided left pleural thoracentesis with removal of 280 
+mL of cloudy, straw-colored fluid. Fluid was sent for laboratory 
+analysis per ordering clinical team. 
+Upright radiograph should be obtained in approximately ___ hours 
+with a repeat radiograph in an additional 2 hours to evaluate 
+for any ___ pneumothorax. These findings were 
+communicated to the ordering physician, ___ on date 
+of exam at 10:45 a.m. 
+.
+___ CXR (2 hours after procedure): Followup of the patient 
+after ultrasound-guided thoracocentesis for the presence of 
+pneumothorax.  
+PA and lateral upright chest radiograph were reviewed in 
+comparison to 
+___. There is slight interval decrease in the 
+amount of left pleural effusion which is still present, 
+small-to-moderate and also seen along the major fissure. There 
+is no evidence of pneumothorax as seen on the current study. The 
+left basal consolidation is unchanged. The right lung is clear. 
+There is no evidence of right pleural effusion. 
+.
+___ CXR (5 hours after procedure): Pending
+
+___ 10:40AM PLEURAL ___ RBC-9800* Polys-93* 
+Lymphs-3* Monos-2* Eos-1* Baso-1*
+___ 10:40AM PLEURAL TotProt-5.1 Glucose-56 LD(LDH)-1548
+.
+___ 9:29 am PLEURAL FLUID
+
+   GRAM STAIN (Final ___: 
+      4+   (>10 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Preliminary): 
+
+   ANAEROBIC CULTURE (Preliminary): 
+
+___ 06:30AM BLOOD WBC-11.0 RBC-4.42* Hgb-11.8* Hct-36.0* 
+MCV-82 MCH-26.7* MCHC-32.8 RDW-12.7 Plt ___
+___ 07:05AM BLOOD WBC-13.4* RBC-4.87 Hgb-13.0* Hct-39.8* 
+MCV-82 MCH-26.7* MCHC-32.7 RDW-12.8 Plt ___
+___ 06:15AM BLOOD WBC-14.5* RBC-4.86 Hgb-13.1* Hct-39.8* 
+MCV-82 MCH-26.8* MCHC-32.8 RDW-12.6 Plt ___
+___ 11:22AM BLOOD WBC-18.2* RBC-5.13 Hgb-13.9* Hct-40.8 
+MCV-80* MCH-27.0 MCHC-33.9 RDW-13.1 Plt ___
+___ 06:30AM BLOOD Neuts-69.1 Lymphs-12.1* Monos-6.5 
+Eos-11.9* Baso-0.3
+___ 07:05AM BLOOD Neuts-69.9 Lymphs-10.5* Monos-5.3 
+Eos-14.0* Baso-0.2
+___ 06:15AM BLOOD Neuts-71* Bands-3 Lymphs-5* Monos-8 
+Eos-13* Baso-0 ___ Myelos-0
+___ 11:22AM BLOOD Neuts-80* Bands-0 Lymphs-5* Monos-4 
+Eos-10* Baso-0 Atyps-1* ___ Myelos-0
+___ 10:30AM BLOOD ___ PTT-26.1 ___
+ 
+Brief Hospital Course:
+___ with h/o asthma, history of spontaneous PTX, admitted with 6 
+days of subjective fever, productive cough, left side chest 
+discomfort, and CXR with ?LLL pneumonia.  
+
+# Pneumonia, likely caused by aspiration. Further history 
+revealed that his pain and symptoms started the day after 
+episodes of dry heaves and vomiting. The diagnosis of aspiration 
+pneumonia is supported by leukocytosis, fever, productive cough, 
+and LLL opacification on film. DFA to evaluate for flu was 
+performed x 2; the first showed insufficient columnar cells, and 
+the second showed too many polymononuclear cells; viral culture 
+was negative at the time of discharge, so Tamiflu and droplet 
+precautions were discontinued. CXR revealed no pneumothorax, but 
+a parapneumonic effusion in the left lower lobe (see below). He 
+was started on levofloxacin on ___, and clindamycin was added 
+on ___. He will continue both antibiotics until ___. At the 
+time of discharge, his white blood cell count had trended down 
+and he felt clinically much improved. He never required oxygen 
+during this hospitalization.
+
+# Parapneumonic effusion. PA/Lat/Decub film on ___ 
+demonstrated a layering free-flowing pleural effusion. However, 
+the patient had persistent fevers during his hospital course, so 
+sampling of the effusion was indicated. The gram stain of his 
+pleural fluid was negative (although was exudative, consistent 
+with a parapneumonic effusion). He will require serial chest 
+x-rays to ensure resolution of the effusion. If his effusion 
+persists at his next follow up appointment, he may need 
+readmission for further procedures to address the pleural 
+effusion.  
+
+# Eosinophilia. Had persistent eosinophilia noted on CBC/diff. 
+Unclear what baseline is. Not thought to be contributing to 
+current clinical picture (and present on admission prior to the 
+administration of antibiotics). ___ be related to atopy given 
+history of asthma. He will require further outpatient evaluation 
+of the eosinophilia. 
+
+# Asthma. No sigificant wheezing on exam.  He was continued on 
+home regimen of albuterol inhaler PRN and discharged with a 
+prescription. 
+
+# Acute renal failure. Mild rise in creatinine to 1.3 on 
+admission, likely ___ poor po intake. Resolved with 1L IV fluid. 
+
+
+# Liver lesion. Noted on informal ultrasound ___. Needs 
+outpatient formal liver ultrasound to better characterize. 
+Deferred to outpatient providers.
+
+Given the upcoming holiday weekend, he was discharged home on 
+___ oral antibiotics. At the time of discharge, he was 
+afebrile (but had had a temperature of 101.6F within 24 hours), 
+ambulatory, and satting well. He was specifically instructed to 
+return to the ED if he felt worse, had worsened pain, shortness 
+of breath, or worsening fevers. He has an appointment in the 
+___ clinic on ___ for repeat CXR, repeat CBC (to 
+evaluate white blood cell count), and general assessment of his 
+clinical status. 
+ 
+Medications on Admission:
+- albuterol inhaler prn. 
+ 
+Discharge Medications:
+1. Albuterol Sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: 
+___ Puffs Inhalation Q4H (every 4 hours) as needed for wheezing.
+Disp:*1 inhaler* Refills:*3*
+2. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily) for 7 days.
+Disp:*7 Tablet(s)* Refills:*0*
+3. Clindamycin HCl 300 mg Capsule Sig: One (1) Capsule PO Q6H 
+(every 6 hours) for 7 days.
+Disp:*28 Capsule(s)* Refills:*0*
+4. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H 
+(Every 8 Hours) as needed for pain.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+- Bacterial pneumonia, likely aspiration
+- Eosinophilia
+
+Secondary:
+- Asthma
+
+ 
+Discharge Condition:
+Stable, ambulatory, on room air
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with fever, cough, and left 
+chest pain. You were found to have pneumonia, with a small fluid 
+collection in the left lower lung. We were able to take a small 
+sample of the fluid collection, which showed many inflammatory 
+cells, but no bacteria. 
+
+The following changes were made to your medications:
+1. You were started on a course of the antibiotics levofloxacin 
+and clindamycin, which you will take for another 7 days. 
+ 
+If you have symptoms of worsening chest pain, shortness of 
+breath, fevers, or other worrisome symptoms please contact your 
+primary care physician, or return to the emergency department. 
+You have follow up scheduled on ___, for a 
+repeat chest x-ray and blood work.
+ 
+Followup Instructions:
+___

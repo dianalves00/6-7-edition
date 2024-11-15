@@ -1,0 +1,307 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+"Otitis Media/Externa, Acute Sinusitis, Acute Renal Failure."
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ year old Male with Type 2 Diabetes, Benign Hypertension, 
+Ventral Hernia who presents with several days of severe ear 
+pain, purulent drainage and tinitus. The patient notes that 8 
+days prior to admission he developed a URI with cough and 
+rhinorhea. 7 days prior to admission he developed tinitus and 
+the following morning developed severe Right ear pain. He tried 
+ibuprofen and tylenol without relief. He states the pain was so 
+severe he couldn't sleep. He contacted his PCP, ___ at 
+___ who was concerned given his diabetes and exam, and sent 
+him to the ED. In the ED he was given azithromycin. By this 
+point he had developed bilateral zygomatic pain and now his left 
+ear was painful as well. He also now was producing green sputum.
+.
+The following day he developed right ear drainage, and the pain 
+was now ___ with continued tinitus. His PCP again sent him to 
+the ED. In the ED he was given IV ciprofloxacin and IV fluids. 
+On arrival to the floor he was seen by the ENT consult. They 
+noted a perforated right ear drum along with purulent drainage, 
+acute sinusitis and right otitis externa and left otitis media. 
+They also noted an abnormality on his vocal chords which will 
+need follow up in ___ clinic.
+
+Of note, he reports highly labile blood glucose.
+ 
+Past Medical History:
+-Type 2 Diabetes
+-Benign Hypertension
+-Stab Wound & Industrial accident in abdomen with ex-laps
+-CKD Stage II (baseline creatine 1.3 to 1.5)
+ 
+Social History:
+___
+Family History:
+Mother: in her ___ insulin dependent DM
+Father: Died (unknown causes)
+ 
+Physical Exam:
+ROS:
+GEN: - fevers, - Chills, - Weight Loss
+EYES: - Photophobia, - Visual Changes
+HEENT: - Oral/Gum bleeding, Severe ear pain, tinittus, purulent 
+drainage
+CARDIAC: - Chest Pain, - Palpitations, - Edema
+GI: - Nausea, - Vomitting, - Diarhea, - Abdominal Pain, - 
+Constipation, - Hematochezia
+PULM: - Dyspnea, + productive Cough, - Hemoptysis
+HEME: - Bleeding, - Lymphadenopathy
+GU: - Dysuria, - hematuria, - Incontinence
+SKIN: - Rash
+ENDO: - Heat/Cold Intolerance
+MSK: - Myalgia, - Arthralgia, - Back Pain
+NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+.
+Admission PE 
+PHYSICAL EXAM:
+VSS: 97.4, 142/95, 112, 18, 93%RA
+GEN: moderate discomfort, Obese
+Pain: ___ (was ___ prior to opiates)
+HEENT: EOMI, MMM, - OP Lesions, purulent drainage R ear with 
+otitis, R TM perforation, otitis externa, Left otitis media, b/l 
+zygomatic tenderness, left mastoid tenderness
+PUL: CTA B/L
+COR: RRR, S1/S2, - MRG
+ABD: NT/ND, +BS, - CVAT, massive vetral hernia
+EXT: - CCE
+NEURO: CAOx3, Non-Focal
+.
+Discharge PE
+VS:  
+Tm: 98.7 Tc: 98.1 BP: 148/98 HR: 95 RR: 18 O2 Sats 97 on RA  
+.  
+pain: per above  
+GEN: AAOX3, in NAD  
+HEENT: CN ___ grossly intact, MMM, no TTP in left maxilla, 
+minimally TTP in a band like pattern on posterior portion of 
+neck in C5-C7 area, no mastoid tenderness, no pain when 
+manipulating tragus or pinna  
+CV: RRR, no rmg  
+RESP: posterior end expiratory wheeze  
+ABD: massive abdominal wall hernia, no TTP, soft, no hsm, active 
+bs  
+EXTR: WWP, trace ble edema, 2+ pulses  
+DERM: no obvious rashes  
+neuro: CN and MS wnl, strength and sensation wnl  
+PSYCH: mood and affect wnl  
+
+ 
+Pertinent Results:
+___ 02:20PM BLOOD WBC-8.4 RBC-3.68* Hgb-11.4* Hct-34.1* 
+MCV-93 MCH-31.0 MCHC-33.5 RDW-13.4 Plt ___
+___ 02:20PM BLOOD Neuts-67.3 ___ Monos-8.6 Eos-1.1 
+Baso-0.8
+___ 02:20PM BLOOD Glucose-135* UreaN-37* Creat-2.6*# Na-136 
+K-4.6 Cl-104 HCO3-21* AnGap-16
+___ 03:42PM BLOOD Lactate-1.8
+.
+___ 3:40 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+.
+CXR ___ 
+Heart is moderately enlarged, and although the pulmonary 
+vascular circulation 
+is not engorged, there is mild distension of mediastinal veins. 
+Tiny 
+bilateral pleural effusion may be present. There is no pulmonary 
+edema.  
+Lungs are clear. Lateral view also raises the possibility of 
+pericardial 
+effusion best evaluated either clinically in combination with 
+EKG or by 
+ultrasound. Dr. ___ was paged at the time of dictation. 
+.
+___ 7:01 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+.
+
+ 
+Brief Hospital Course:
+This is a ___ yo M with a PMHx of CKD (baseline creatine of 
+1.3-1.5) DM-2 who presents to ___ with a prodrome of upper 
+respiratory symptoms and purulent discharge from ears, tinnitus 
+and occipital and neck pain, found to have right otitis media 
+and otitis externa, a perforated right TM and acute on chronic 
+renal failure 
+.
+#Acute Renal Failure on Stage 2 CKD
+The patient p/w acute illness and ARF which is likely due to 
+hypovolemia.  His urine lytes were drawn and they indicated a 
+FENA well below 1 (0.3), indicating a pre-renal cause to his 
+ARF.  As a result he was aggressively hydrated with IV fluids 
+and his creatine returned to his baseline of 1.5 on the day or 
+discharge.  Due to the patient receiving multiple antibiotics, 
+we also checked urine eosinophils, which were negative.  The 
+patient UA showed some pyuria without evidence of bacteria.  His 
+urine culture also returned negative so no further work up was 
+done.  He should have a follow up BUN and creatine prior to his 
+visit with his PCP ___ ___ weeks. 
+.
+# Acute Sinusitis causing Otitis Media and Otitis Externa
+The patient likely had a prodromal viral vs. bacteria infection 
+causing swelling and decreased draining from the inner ear.  As 
+a result, otitis media, TM perforation and subsequent otitis 
+externa resulted.  The patient is at increased risk due to his 
+DM.  Cultures of his purulent fluid from his ear were never sent 
+in the ED.  The patient was seen by the ENT service who 
+recommended cipro/dex ear drops, systemic treatment with 
+Augmentin, nasal flushes and follow up with them in ___ weeks.  
+The patient was initially started on Unasyn and narrowed down to 
+Augmentin with continued clinical improvement.  The patient did 
+not show consistent pain in the mastoid area and the clinical 
+suspicion for mastoiditis was low.  The patient was sent home on 
+a short course of morphine ___ (40 tabs dispensed) for pain 
+control and a bowel regimen.  An exhaustive effort was made by 
+myself and the nursing staff to secure the patients 
+prescriptions.  Mass health does not cover cipro ear drops, the 
+only fluoroquinolone they cover is ofloxacin (which does is not 
+anti-pseudomonal).  As a result, the patient was dispensed 
+enough Cipro and dexamethasone ear drops to last until his 
+follow up with ENT.  The patient should also follow dry ear 
+precautions, per ENT's instructions.       
+.
+#Vocal cord abnormality
+This was noted on ENT's physical exam, and the patient should 
+follow up with them for further assessment of this
+.
+# Type 2 Diabetes controlled with complications
+The patient metformin was held until the patients renal function 
+improved and it was then re-started prior to d/c.
+.
+# Transitional Issues:
+-The patient has pending blood cultures from ___ which need 
+follow up
+-The patient should follow up with ENT in ___ weeks for routine 
+follow up following hospitalization for AOM, OE and acute 
+sinusitis and the vocal cord abnormality
+-The patient should follow up with his PCP ___ ___ weeks with a 
+repeat BUN/Creatine and blood pressure check as his blood 
+pressure was borderline high and with DM may merit starting a 
+anti hypertensive medication.
+.
+.
+4. Benign Hypertension
+- will defer antihypertensives to his PCP unless it becomes very 
+uncontrolled
+
+ 
+Medications on Admission:
+metformin 500 BID
+Z-Pack (partially completed)
+ 
+Discharge Medications:
+1. senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed for Constipation.
+Disp:*30 Tablet(s)* Refills:*0*
+2. docusate sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).
+Disp:*60 Capsule(s)* Refills:*0*
+3. acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q4H (every 4 
+hours) as needed for Pain: do not take more then 4 g per day.
+Disp:*60 Tablet(s)* Refills:*0*
+4. CIPRODEX 0.3-0.1 % Drops, Suspension Sig: Three (3) drops 
+Otic three times a day for 9 days: please place 3 drops in right 
+ear (AD)TID until ___.
+Disp:*QS for 9 days * Refills:*0*
+5. morphine 15 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours as needed for ear/sinus pain for 10 days: take as needed 
+for moderate to severe pain.
+Disp:*40 Tablet(s)* Refills:*0*
+6. sodium chloride 0.65 % Aerosol, Spray Sig: ___ Sprays Nasal 
+Q6H (every 6 hours).
+Disp:*2 bottles* Refills:*2*
+7. ipratropium-albuterol ___ mcg/actuation Aerosol Sig: ___ 
+Puffs Inhalation BID (2 times a day).
+Disp:*4 inhalers* Refills:*0*
+8. amoxicillin-pot clavulanate 875-125 mg Tablet Sig: One (1) 
+Tablet PO Q12H (every 12 hours) for 8 days: please take until 
+___.
+Disp:*16 Tablet(s)* Refills:*0*
+9. Outpatient Lab Work
+Please draw a basic metabolic panel (including BUN/Creat) in 1 
+week and fax to PCP ___. ___
+10. Neilmed Sinus Rinse Bottle     Packet Sig: One (1) flush 
+Nasal twice a day for 14 days: please continue irrigation until 
+follow up with ENT.
+Disp:*QS for above course * Refills:*0*
+11. metformin 500 mg Tablet Sig: One (1) Tablet PO twice a day.
+Disp:*60 Tablet(s)* Refills:*0*
+12. tramadol 50 mg Tablet Sig: One (1) Tablet PO every six (6) 
+hours for 14 days: please take for moderate pain and headaches.
+Disp:*30 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+acute sinusitis
+right otitis media
+right otitis externa
+left serous otitis media
+presumed right TM perforation
+acute renal failure with history of CKD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came to ___ with complaints of ringing in your ears and 
+drainage coming from your ears.  You were also found to have 
+acute kidney injury and a sinus infection.  You were placed on 
+IV antibiotics for an ear infection of your inner and outer ear 
+and you improved.  You were transitioned to po antibiotics and 
+remained afebrile.  Your kidney injury resolved with IV fluids 
+an encouraging po intake.  You should continue your antibiotics 
+for a totla of 14 days.
+
+Medication changes:
+1) augmentin 875 Q12H, last dose is ___
+2) Ciprodex 3gtts AD TID x 10 days, last dose is ___ 
+3) Nasal saline irrigation with OTC NeilMed saline BID
+4) morphine sulfate ___ 15 mg Q6H prn severe pain
+5) docusate 100 BID to be taken until off pain medications
+6) miralax 17 g QD prn for constipation
+
+Other instructions
+- Dry ear precautions: (Do not swim, Place a cotton ball in the
+ear and thin layer of vaseline on top prior to showering)
+- No q-tips in EAC
+- Nasal saline irrigation with OTC NeilMed saline BID
+- Return to ED if worsening pain, swelling, ear swells
+shut, facial weakness, vertigo, fevers, chills.
+- Follow up in ___ in ___ weeks for
+re-evaluation
+-Follow up with PCP ___ ___ weeks
+ 
+Followup Instructions:
+___

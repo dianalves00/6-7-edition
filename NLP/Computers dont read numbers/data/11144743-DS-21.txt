@@ -1,0 +1,230 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p arrest
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ y.o F with mild dementia, CAD, DM on insulin, and HTN, who 
+initially presented to ___ for lethargy and hypoxia and 
+was found to have and RSV infection and who is now s/p cardiac 
+arrest this AM with suggestion of cardiac etiology. 
+
+Patient is a poor historian at baseline and is intubated on 
+arrival History obtained from chart. Patient presented to 
+___ with cough and lethargy and was noted to be hypoxic. 
+She tested positive for RSV and was admitted for symptomatic 
+treatment with supplemental O2 and nebs. A CXR was notably 
+negative on admission for PNA or signs of volume overload. This 
+morning at 8 AM immediately after phlebotomy she was noted to be 
+unresponsive, cyanotic and pulseless and so a code blue was 
+called. Rhythm was reportedly PEA (no strips sent with patient). 
+She was intubated in this setting. She underwent 5 rounds of 
+CPR, 3 rounds of epinephrine, 2 amps of bicarb. She had an 
+emergent left femoral groin line placed. ROSC was achieved and 
+she was transferred to ICU. 
+
+EKG showed Irregular narrow complex tachycardia with STD in II, 
+III, AVF, V3-V6 and 1mm STE in AVL, sub MM STE in AVR
+
+Labs post arrest were notable for: 
+Chemistries: K of 3.9, Bicarb of 21 GLU 557 Cr 1.6 from 1.1 on 
+admission 
+Cardiac chemistries with Trop of .29 from .02 on presentation, 
+and CKMB of 10.4 (CK 1374). 
+Arterial gas: 7.22/42/359
+Lactate: 8.3
+ 
+BNP on admission was ___
+
+Echocardiogram showed distal septal, apical, anterior akinesis.  
+Global ejection fraction 35%.  Mild mitral, tricuspid, and 
+aortic insufficiency. She was started on aspirin, plavix and 
+heparin gtt for MI management. She was started on norepinephrine 
+and phenylephrine for hypotension. She was given vancomycin and 
+zosyn. She was given 2L of NS. She was also given 40mg of 
+solumedrol (***unclear why).Family meeting was held and it was 
+decided that patient would want further aggressive therapy. She 
+was started on cooling protocol and transferred to ___ for 
+further care. 
+
+Of note, patient has a history of CAD s/p angioplasty and stent 
+in ___ and stents in RCA and LAD in ___ (per 
+chart review). 
+
+REVIEW OF SYSTEMS:  Unable to obtain ___ patient being intubated
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: Diabetes, HTN, Dyslipidemia
+
+2. CARDIAC HISTORY  
+- CAD s/p stents to RCA and LAD most recently in ___ per 
+chart. No clear  
+
+3. OTHER PAST MEDICAL HISTORY:
+Hypothyroidism 
+Breast cancer
+Myelodysplastic syndrome 
+Dementia
+
+ 
+Social History:
+___
+Family History:
+Unable to obtain
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS:  37 149/85 ___ in sinus, 100% on 60% FiO2
+GENERAL: Intubated and sedated  
+HEENT: Blood in the OP and nasopharynx. Atraumatic 
+NECK: Supple. JVP of 10cm  
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.  
+LUNGS: Intubated. Crackles anteriorly. No wheezes 
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+Neuro: RAS <5. Pupils 1mm bilaterally and non-reactive. Does not 
+withdraw to pain, no gag reflex, no corneal reflex bilaterally, 
+Babinski downgoing. reflexes 1+ throughout. 
+PULSES: Distal pulses palpable and symmetric.
+
+PHYSICAL EXAM - EXPIRED
+GENERAL: Not responsive to painful stimuli
+HEENT: Pupils fixed bilaterally
+CARDIAC: No heart sounds
+LUNGS: No lung sounds
+VASCULAR: No palpable radial or carotid pulses
+
+ 
+Pertinent Results:
+ADMISSION LABS
+---------------
+___ 02:15PM BLOOD WBC-10.5* RBC-3.67* Hgb-10.9* Hct-34.8 
+MCV-95 MCH-29.7 MCHC-31.3* RDW-13.6 RDWSD-46.9* Plt ___
+___ 02:15PM BLOOD Neuts-86* Bands-6* Lymphs-6* Monos-1* 
+Eos-0 Baso-1 ___ Myelos-0 AbsNeut-9.66* 
+AbsLymp-0.63* AbsMono-0.11* AbsEos-0.00* AbsBaso-0.11*
+___ 02:15PM BLOOD ___ PTT-39.2* ___
+___ 02:15PM BLOOD Glucose-476* UreaN-31* Creat-1.6* Na-140 
+K-3.5 Cl-103 HCO3-20* AnGap-21*
+___ 02:15PM BLOOD ALT-278* AST-588* CK(CPK)-1497* 
+AlkPhos-146* TotBili-0.7
+___ 02:15PM BLOOD CK-MB-58* MB Indx-3.9 cTropnT-2.11*
+___ 02:15PM BLOOD Calcium-7.2* Phos-3.0 Mg-1.7
+___ 02:22PM BLOOD ___ pO2-60* pCO2-43 pH-7.27* 
+calTCO2-21 Base XS--6 Comment-GREEN TOP
+___ 02:22PM BLOOD Lactate-6.4*
+___ 02:22PM BLOOD freeCa-0.96*
+
+IMAGING
+--------
+___ TTE: The left atrium is normal in size. Left ventricular 
+wall thicknesses and cavity size are normal. There is moderate 
+to severe regional left ventricular systolic dysfunction with 
+severe hypokinesis to akinesis of the septum, anterior wall, 
+distal inferior wall and apex. The remaining segments contract 
+normally. Quantitative (biplane) LVEF = 31 %. The estimated 
+cardiac index is borderline low (2.0-2.5L/min/m2). Doppler 
+parameters are indeterminate for left ventricular diastolic 
+function. The right ventricular cavity is mildly dilated with 
+mild global free wall hypokinesis. The aortic valve leaflets (3) 
+are mildly thickened but aortic stenosis is not present. Mild to 
+moderate (___) aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. Mild (1+) mitral regurgitation is seen. The estimated 
+pulmonary artery systolic pressure is normal. There is an 
+anterior space which most likely represents a prominent fat pad. 
+
+
+IMPRESSION: Moderate to severe regional left ventricular 
+dysfunction c/w CAD (LAD distribution). Mildly dilated right 
+ventricle with mild free wall hypokinesis. Mild to moderate 
+aortic regurgitation. Mild mitral regurgitation.  
+
+___ CXR: ET tube tip is 4 cm above the carinal.  NG tube tip 
+is in the stomach.  Heart size and mediastinum are overall 
+unremarkable.  Interstitial opacities left more than right are 
+concerning with mild interstitial pulmonary edema.  Some all via 
+lower component might be there as well.  There is no 
+pneumothorax. 
+
+ 
+Brief Hospital Course:
+___ y.o F with mild dementia, CAD, DM on insulin, and HTN, who 
+initially presented to ___ for lethargy and hypoxia and 
+was found to have and RSV infection and who is now s/p cardiac 
+arrest this AM with suggestion of cardiac etiology. Patient is a 
+poor historian at baseline and was intubated on arrival. History 
+obtained from chart. Patient presented to ___ with cough 
+and lethargy and was noted to be hypoxic. She tested positive 
+for RSV and was admitted for symptomatic treatment with 
+supplemental O2 and nebs. A CXR was notably negative on 
+admission for PNA or signs of volume overload. The following 
+morning, immediately after phlebotomy she was noted to be 
+unresponsive, cyanotic and pulseless and so a code blue was 
+called. Rhythm was reportedly PEA (no strips sent with patient). 
+She was intubated in this setting. She underwent 5 rounds of 
+CPR, 3 rounds of epinephrine, 2 amps of bicarb. She had an 
+emergent left femoral groin line placed. ROSC was achieved and 
+she was transferred to ICU for further management. She was 
+initially started on post-arrest protocol but after discussions 
+with her family, decision to transition care to CMO was made. 
+Patient subsequently passed away.  
+
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Memantine 28 mg PO DAILY 
+2. detemir 22 Units Bedtime
+3. linagliptin 5 mg oral DAILY 
+4. Repaglinide 1 mg PO TIDAC 
+5. Levothyroxine Sodium 100 mcg PO DAILY 
+6. Metoprolol Succinate XL 25 mg PO DAILY 
+7. Atorvastatin 40 mg PO QPM 
+8. Aspirin 81 mg PO DAILY 
+9. TraZODone 25 mg PO QHS 
+10. Vitamin D 1000 UNIT PO DAILY 
+11. Cyanocobalamin 100 mcg PO DAILY 
+12. SITagliptin 50 mg oral DAILY 
+13. Ezetimibe 10 mg PO DAILY 
+14. Sertraline 75 mg PO DAILY 
+15. Clopidogrel 75 mg PO DAILY 
+
+ 
+Discharge Medications:
+Expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Expired
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+Expired
+ 
+Followup Instructions:
+___

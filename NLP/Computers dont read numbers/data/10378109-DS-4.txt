@@ -1,0 +1,261 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Aspirin / Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+headache
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ F with hx of HTN, IBS, impaired fasting glucose, arthritis 
+p/w headaches X 1 week with blurred vision intermittently.  Pt 
+reports symptoms began 1 week ago with sinus congestion, 
+viral-like illness, general malaise and weakness, headaches.  
+Nasal congestion improved but headaches persisted and pt 
+experiences blurred vision occasionally with headaches.  Also 
+describes some chest pressure associated with "gas" type feeling 
+in epigastric area, no precipitating factors and relieved with 
+burping.  She continued to have headaches and today had BP 
+checked in hospital (works in ___ lab here) and was 182/90 so 
+called PCP who sent her to ED. 
+.
+In the ED, initial vs were: T P BP R O2 sat. Patient got a head 
+CT which showed a sellar mass.  She was evaluated by 
+neurosurgery who recommended endocrine consult, visual field 
+testing and admission to medicine.
+.
+On the floor, pt describes mild headache over front of forehead 
+and behind eyes, improved from previously.  No blurred vision 
+and otherwise feels well.
+.
+On ROS, pt describes +palpitations X 2 over past week, no fevers 
+or chills, + morning sweats, no weight changes, no N/V, + acid 
+reflux, no current SOB, +loose stools, no constipation, no 
+melena or hematochezia, no galactorhea, no menstrual bleeding.  
+Pt is post-menopausal, had episode of vaginal bleeding last year 
+with evaluation by GYN and endometrial biopsy per patient which 
+was normal.
+ 
+Past Medical History:
+-HTN
+-Irritable bowel syndrome, last episode ___ this year 
+with diarrhea and abdominal pain
+-Hyperlipidemia
+-OA
+-H/o shingles
+-S/p cholecystectomy in ___
+-Fibroids
+- impaired fasting glucose
+ 
+Social History:
+___
+Family History:
+mother healthy, father with prostate cancer
+3 of 7 siblings with diabetes
+no hx of thyroid disorders or other cancers
+ 
+Physical Exam:
+Physical Exam on Admission:
+Vitals: T: 97.7 BP: 144/89 P: 68 R: 16 O2: 99% RA
+General: appears well, alert, oriented, no acute distress 
+HEENT: Sclera anicteric, MMM, oropharynx clear
+Neck: supple, JVP not elevated, no LAD, no thyromegaly or 
+thyroid nodules
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Abdomen:  soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: Alert and oriented X 3, Pupils equal, 4mm and reactive to 
+direct and consensual light bilaterally, visual fields tested in 
+each eye separately and normal, extra-ocular movements intact, 
+CN II-XI intact, motor strength ___ in upper and lower 
+extremities bilaterally, sensation intact, cerebellar function 
+intact, gait intact, reflexes 2+ throughout
+.
+On discharge, exam was unchanged.
+ 
+Pertinent Results:
+___ 12:35PM BLOOD WBC-5.9 RBC-4.67 Hgb-13.3 Hct-38.7 MCV-83 
+MCH-28.5 MCHC-34.4 RDW-14.5 Plt ___
+___ 12:35PM BLOOD Neuts-70.7* ___ Monos-2.9 Eos-0.9 
+Baso-0.6
+___ 12:35PM BLOOD ___ PTT-27.6 ___
+___ 12:35PM BLOOD Glucose-106* UreaN-14 Creat-0.6 Na-140 
+K-4.1 Cl-104 HCO3-26 AnGap-14
+___ 12:35PM BLOOD CK(CPK)-196*
+___ 12:35PM BLOOD CK-MB-3 cTropnT-<0.01
+___ 06:40AM BLOOD Calcium-9.3 Phos-3.6 Mg-2.5
+___ 06:40AM BLOOD FSH-3.4 LH-<1.0* Prolact-44* TSH-1.0
+___ 06:40AM BLOOD Free T4-0.91*
+___ 06:40AM BLOOD Cortsol-24.5*\
+.
+ECG ___: Normal sinus rhythm, rate 74. No diagnostic 
+abnormality. Compared to the previous tracing of ___ no 
+significant change. 
+.
+CXR ___: There is minimal atelectasis in the left lower 
+zone. The cardiomediastinal silhouette is unremarkable. The 
+right lung is clear. There are no focal pulmonary consolidations 
+or pleural effusions. 
+.
+Head CT ___:
+FINDINGS: 
+There is an approximately 31 x 20 mm expansile lesion in the 
+pituitary fossa. The midline structures are central. There is no 
+mass effect or edema. There are no skull fractures. 
+Polyp vs retention cyst is noted in the sphenoid sinus. 
+CONCLUSION: 
+Approximately 31 x 20 mm expansile soft tissue lesion appears to 
+be arising from the pituitary fossa. The possibility of a 
+pituitary macroadenoma should be considered, however, other 
+possibilities like a craniopharyngioma, meningioma and aneurysm 
+cannot be entirely excluded. MRI of the brain is recommended. 
+.
+Pituitary MRI ___:
+FINDINGS: There is a 2 cm x 2.5 x 2.5 cm sellar mass extending 
+into the 
+suprasellar region as well as the sphenoid sinus. There is 
+extension lateral to the right carotid artery. There appears to 
+be a cleavage plane separating the left carotid artery. The mass 
+is minimally heterogeneous with enhancement diffusely. There is 
+mass effect on the optic chiasm, with more mass effect on the 
+left optic nerve. There is question of enhancement of the right 
+optic nerve, but the t2 signal is normal. No other enhancing 
+lesions seen in the visualized brain. There is no 
+lymphadenopathy in the visualized neck. 
+IMPRESSION: 2.5 x 2.5 x 2 cm pituitary mass most likely a 
+pituitary 
+macroadenoma with encasement of the right ICA and extension into 
+the sphenoid sinus. 
+.
+Sinus CT ___:
+FINDINGS: An approximately 28 x 21 mm expansile lesion in the 
+pituitary fossa extends into the suprasellar cistern as noted on 
+the recent MRI. Thinning and caudal displacement of the 
+tuberculum sella into the sphenoid sinus is again observed. 
+Aside from mild ethmoid air cell mucosal thickening, the 
+paranasal sinuses and mastoid air cells appear well aerated. The 
+orbits appear unremarkable. No other mass lesion is identified. 
+IMPRESSION: Expansile mass arising from the pituitary fossa most 
+likely 
+represents a pituitary macroadenoma. 
+.
+PENDING STUDIES AT TIME OF DISCHARGE:
+IGF-1
+alpha subunit
+TFTs
+ 
+Brief Hospital Course:
+1. HEADACHE, BLURRED VISION
+Symptoms may be secondary to sellar mass found on CT or may be 
+due to resolving viral illness.  Pt complained of headache 
+intermittently during hospitalization, releived with Tylenol.  
+Head CT did not show ICH or other etiology for headaches.  
+Unlikely to be migraines as pt has not had these symptoms 
+before.
+.
+2. SELLAR MASS
+Based on imaging and hormone levels, this is most likely to be 
+pituitary macroadenoma.  The patient had decreased FSH and LH 
+levels, mildly decreased free T4 levels, normal cortisol and 
+slightly elevated prolactin.  Visual field testing was done and 
+was normal.  Endocrine was consulted and recommended no 
+supplemental hormone treatments.  She was not clinically 
+hypothyroid.  Pituitary MRI and sinus CT were done to further 
+evaluate sellar mass and plan for surgery.  Neurosurgery 
+recommended f/u as outpatient with surgery in 2 weeks.  IGF-1 
+and alpha subunit tests were ordered and were pending at the 
+time of discharge.
+.
+3. CHEST PAIN: 
+Patient was admited for chest pain and rule out MI.  ECG showed 
+no changes and cardiac enzymes were negative X 2.  Chest pain 
+did not seem cardiac in nature, as patient stated it had been 
+happening for years and was associated with gaseoius burping.  
+The patient was put on telemetry and did not have any cardiac 
+arrhythmias.  She was given Omeprazole and Simethicone for GI 
+symptoms. 
+.
+4. IMPAIRED FASTING GLUCOSE: 
+The patient was admitted with impaired fasting glucose without 
+any medications for diabetes.  She was put on fingersticks QID 
+and a Humalog sliding scale.  Blood sugars were elevated up to 
+200 at times but ranged between 100-200.  The patient was 
+instructed to follow-up with her PCP regarding diabetes 
+management.
+.
+5. HYPERTENSION:
+The patient was kept on Metoprolol 50mg PO BID.  Blood pressures 
+ranged from 130s-150s systolic.
+.
+PENDING STUDIES AT TIME OF DISCHARGE:
+IGF-1
+alpha subunit
+TFTs
+ 
+Medications on Admission:
+Metoprolol 50mg PO BID
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+2. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+1. Sellar Mass
+
+Secondary Diagnoses:
+2. Hypertension
+3. Atypical Chest Pain
+
+ 
+Discharge Condition:
+afebrile, hemodynamically stable
+
+ 
+Discharge Instructions:
+You were admitted with headaches and were found to have a 
+pituitary mass on head CT and MRI.  You were evaluated by 
+neurosurgery and endocrinology.  You should call Dr. ___ to 
+arrange for surgery in the next 2 weeks to remove this.
+
+You were evaluated for chest pain and were found not to have any 
+damage to you heart by an ECG and blood levels of cardiac 
+enzymes.
+
+No changes were made to your medications.  You should continue 
+to take them as prescribed.
+
+Please call your doctor or come to the emergency room with any 
+fevers > 101, chills, night sweats, nausea and vomiting, 
+abdominal pain, persistant chest pain which is not your typical 
+symptoms, worsening headaches, changes in your vision such as 
+blurred vision, loss of peripheral vision, vision loss, double 
+vision, spots in front of your eyes, or any other symptoms that 
+concern you.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,555 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Latex, Natural Rubber
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Increased wound drainage
+ 
+Major Surgical or Invasive Procedure:
+___: Debridement right calcaneal wound of skin, 
+subcutaneous tissue and bone (Plastic surgery)
+___: Angiogram of right lower extremity
+___: Right BK popliteal to plantar bypass
+___: Bone washout and debridement (Orthopedics)
+
+ 
+History of Present Illness:
+___ yo M T1DM with right heel fracture complicated by surgical 
+site infection and chronic open wound presents due to ___ 
+concern of wound infection. Patient had right heel fracture on 
+___ which has been complicated by site infection requiring 
+___ weeks of IV antibiotics until ___ and has been on 
+ciprofloxacin since then. He was at ___ inpatient on 
+___ and was discharged to ___ for a total of 
+2 months. He has home health aides three times per week for 
+dressing changes and wound checks. On day of admission and two 
+days prior, nurses noted there was drainage from one of the open 
+wounds. She noticed staining of his sock, malodorous discharge, 
+increased slough, and a new pinkish tone to skin. She reported 
+this to orthopedics Dr. ___ requested ___ evaluation 
+and bloodwork. Patient was scheduled for angiography on ___ 
+to evaluate for PAD. His FSBGs have been <200 at home and he has 
+been 50% weight bearing on right and has not been doing much 
+activity. Wound has pain ___ but this has not changed recently 
+and is always worst with dressing changes.  
+Vitals ___ the ___: T 98.6, HR 100, BP 153/80, RR 16, SpO2 100% on 
+RA.  
+Labs notable for: WBC 7.2 (73.9%N), lactate 1.5.  
+Patient given: 1gm vancomycin and 50mg trazodone.  
+Vitals prior to transfer: 98.5, 94, 147/77, 16, 97% on RA.  
+On the floor, pt. reports feeling well with only mild heel 
+discomfort. He is dissapointed to be ___ the hospital again.  
+ROS: Per HPI. ___ addition, neuropathy ___ feet bilaterally. URI 1 
+week ago completely resolved. Chronic left eye blindness. Edema 
+___ right foot unchanged since surgery. No fever/chills, 
+appetite/weight changes, cough/dyspnea/CP/palpitations, 
+nausea/vomiting, diarrhea/constipation, urinary symptoms, or 
+FND.
+ 
+Past Medical History:
+T1DM on insulin pump complicated by retinopathy and neuropathy  
+Left retinal detachment secondary to diabetic retinopathy
+?TIA ___ ___
+Right calcaneal fracture s/p repair  
+Chronic right calcaneal heal wounds  
+Anxiety
+ 
+Social History:
+___
+Family History:
+Father died of prostate cancer. Mother with dementia. Sister DM 
+and many family members with DM. Son had CF and passed away.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals - 98.0, 107, ___, 97% on RA, FSG 281  
+GENERAL: NAD, pleasant, comfortable, A and Ox3  
+HEENT: MMDry  
+NECK: supple  
+CARDIAC: regular, tachy, no murmurs  
+LUNG: CTAB, breathing comfortably without use of accessory 
+muscles  
+ABDOMEN: nondistended, +BS, nontender ___ all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: three wounds on right heel with largest wound open 
+to the bone, two wounds with mild erythema and drainage, and 
+sloughed skin; no extending erythema or warmth; right leg 1+ 
+pitting edema to mid-tibia  
+
+DISCHARGE PHYSICAL EXAM:
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 06:27PM   WBC-7.2 RBC-3.84* HGB-11.5* HCT-33.5* MCV-87 
+MCH-30.0 MCHC-34.5 RDW-14.1
+___ 06:27PM   NEUTS-73.9* LYMPHS-17.2* MONOS-6.0 EOS-2.7 
+BASOS-0.3
+___ 06:27PM   PLT COUNT-269
+___ 06:27PM   CRP-11.7*
+___ 06:27PM   GLUCOSE-187* UREA N-30* CREAT-1.1 SODIUM-141 
+POTASSIUM-4.4 CHLORIDE-102 TOTAL CO2-27 ANION GAP-16
+___ 06:48PM   LACTATE-1.5
+
+DISCHARGE LABS
+==============
+
+PERTINENT LABS
+==============
+___ 05:21AM BLOOD %HbA1c-6.7* eAG-146*
+___ 06:27PM BLOOD CRP-11.7*
+___ 04:32PM BLOOD CK(CPK)-41*
+
+MICROBIOLOGY
+============
+___ 11:45 am TISSUE      LATERAL CALCANEOUS. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------   =>8 R
+ERYTHROMYCIN----------   =>8 R
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------     2 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+================================================================
+___ 11:45 am TISSUE      SINUS TRACT LATERAL CALCANEOUS. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+================================================================
+___ 11:45 am TISSUE      BONE MEDIAL . 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+================================================================
+___ 11:45 am TISSUE      RIGHT HEEL. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED.
+
+================================================================
+___ 11:45 am TISSUE      DEEP RIGHT HEEL. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    RARE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+================================================================
+___ 8:24 am TISSUE      RIGHT HEEL TISSUE #1. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+
+   TISSUE (Final ___: 
+      MIXED BACTERIAL FLORA. 
+         This culture contains mixed bacterial types (>=3) so an
+         abbreviated workup is performed. Any growth of 
+P.aeruginosa,
+         S.aureus and beta hemolytic streptococci will be 
+reported. IF
+         THESE BACTERIA ARE NOT REPORTED BELOW, THEY ARE NOT 
+PRESENT ___
+         this culture.. 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ___. 
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+================================================================
+___ 8:24 am TISSUE      RIGHT HEEL # 2. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+
+   TISSUE (Final ___: 
+      STAPH AUREUS COAG +.    RARE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # 40___ ___. 
+      ENTEROCOCCUS SP..    RARE GROWTH. 
+         Daptomycin SENSITIVITIES REQUESTED BY ___ ___ 
+___. 
+         Daptomycin 2MCG/ML Sensitivity testing performed by 
+Etest. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |   
+AMPICILLIN------------  =>32 R
+DAPTOMYCIN------------       S
+LINEZOLID-------------     2 S
+PENICILLIN G----------  =>64 R
+VANCOMYCIN------------  =>32 R
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+
+RADIOLOGY
+=========
+Radiology ReportVEN DUP EXTEXT BIL (MAP/DVT)Study Date of 
+___ 2:24 ___
+
+FINDINGS: 
+ 
+Bilateral lower extremity has saphenous vein mapping was 
+performed.
+ 
+Right:
+Because of of lower leg bandage at the small saphenous and 
+lowest portion of the greater saphenous were not imaged.  The 
+greater saphenous vein from upper calf to the knee he measures 
+2.7, 3.2, 3.2 mm.  The knee to groin diameters are 3.9, 4.3, 
+4.3, 4.6, 3.5 mm.
+ 
+Left:
+The left greater saphenous vein is patent with small diameters 
+below the knee and an area of thickening ___ the calf. These 
+diameters range from 1.1- 2.4 mm. The need to groin diameters 
+with the vein quality is better are 3.2, 3.6, 3.7, 3.8 mm. The 
+small saphenous vein on the left is of small diameter and has 
+vein wall calcifications making it not usable for conduit.
+
+================================================================
+Radiology ReportCHEST PORT. LINE PLACEMENTStudy Date of 
+___ 2:59 ___
+
+REASON FOR THIS EXAMINATION:
+   47cm left SL Power PICC ___ Basilic ___ ___
+
+ 
+IMPRESSION:  
+1. Left PICC tip within deep right atrium. Recommend withdrawing 
+4 cm for
+better positioning.
+2. Hypoinflated lungs with bibasilar atelectasis.
+
+PATHOLOGY
+=========
+SURGICAL PATHOLOGY REPORT - Final  Date Specimen(s) Received: 
+___ 
+1. Bone, medial calcaneus right foot, debridement:
+- Acute osteomyelitis.
+2. Bone and soft tissue, lateral calcaneus right foot, 
+debridement:
+- Fibroconnective tissue with acute inflammation, granulation 
+tissue formation, and inflammatory fibrinous exudate.
+- Scant fragments of bone.
+3. Bone, post-debridement calcaneus right foot, excision:
+- Acute osteomyelitis.
+- Fibroconnective tissue with acute and chronic inflammation and 
+degenerative changes.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with T1DM and chronic non-healing right foot 
+wounds presented with increased drainage from right heel wound, 
+concerning for wound infection and osteomyelitis with exposed 
+bone. He was initially admitted to the medical service, then 
+transferred to the VICU following a debridement on ___ and 
+angiogram on ___.
+
+# Osteomyelitis of Right Heel
+Presumed osteomyelitis initially given exposed bone with 
+drainage on physical exam. Patient was take to the OR on ___ by 
+Plastics Surgery for debridement with tissues sent for biopsy 
+and pathology. Microbiology eventually showed growth of MRSA. He 
+was started on vancomycin, cefepime, and metronidazole after for 
+empiric treatment of a diabetic foot wound ___ preparation for a 
+bypass procedure. He was subsequently narrowed to vancomycin and 
+PO ciprofloxacin for a planned ___y ID. Repeat bone 
+cultures taken from his washout and debridement on ___ grew 
+VRE, so his vancomycin was discontinued and switched to 
+daptomycin. A baseline CK level was checked ___ preparation for 
+weekly monitoring. 
+
+#Peripheral vascular disease
+___ addition, patient had been previously planned for an 
+angiogram on ___, which was performed. Given his distal disease, 
+it was felt he would benefit from a bypass, so vein mapping was 
+performed, and he underwent a below-knee popliteal to plantar 
+artery bypass on ___. He was then transferred to the VICU 
+where he stayed for the remainder of his hospitalization. He was 
+started on plavix post-operatively on POD#1.
+
+#Right heel wound
+Plastic surgery was consulted for his right heel wound, which 
+was debrided on ___, and OR planning was started for a 
+coverage procedure following revascularization. His initial bone 
+biopsies returned positive for MRSA, so he was taken back to the 
+OR on ___ with Orthopedics for further calcaneal I&D.
+
+#Delirium post-op
+Following his bypass, the patient was mildly delirious, so his 
+insulin pump was held. By POD#___nd POD#3 after 
+his second bone debridement he appeared to be mentating at his 
+baseline level.
+
+# Type 1 Diabetes Mellitus
+Last HbA1c 7.4% ___ ___. Complicated by neuropathy, 
+retinopathy, and PVD. Uses an insulin pump. He continued his 
+insulin pump with ___ Diabetes consult for co-management 
+while inpatient. The pump was discontinued pre-operatively and 
+restarted on POD#5 following his bypass, with Lantus and a 
+Humalog sliding scale given while the pump was off. On 
+restarting, however, throughout the day he was inappropriately 
+dosing himself and had incorrectly attached his insulin pump. He 
+was asymptomatic, however his blood glucose levels rose to the 
+400s, he had (+) ketones ___ his urine his anion gap widened to 
+24. Labs were rechecked periodically overnight and his gap had 
+closed by morning with SC insulin only. ___ conjunction with 
+___, the decision was made to maintain him on Lantus and a 
+sliding scale for the time being, with plans to re-evaluate him 
+as a pump candidate as an outpatient.
+
+___
+He was evaluated by physical therapy, who felt he would benefit 
+from discharge to acute rehab.
+
+Following surgery, he did well with no hemodynamic instability 
+and no evidence of loss of patency of his graft. At the time of 
+discharge, he was doing well, afebrile with stable vital signs. 
+He was tolerating a regular diet, out of bed as tolerated with 
+___, voiding without assistance, and his pain was well controlled 
+on oral medications. He was deemed ready for discharge, and was 
+given the appropriate discharge and follow-up instructions. Mr. 
+___ was discharged to rehab on ___ ___ good condition.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Insulin  Pump SC (Self Administering Medication)Insulin 
+Aspart (Novolog) (non-formulary)
+Target glucose: 80-180
+2. Ciprofloxacin HCl 500 mg PO Q12H 
+3. Valsartan 80 mg PO DAILY 
+4. ClonazePAM 0.5 mg PO QAM 
+5. ClonazePAM 1 mg PO QHS 
+6. Gabapentin 300 mg PO QHS 
+7. Vitamin D 1000 UNIT PO DAILY 
+8. Vitamin E 400 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth every 12 hours 
+Disp #*80 Tablet Refills:*0
+2. ClonazePAM 0.5 mg PO QAM 
+RX *clonazepam 0.5 mg 1 tablet(s) by mouth QAM Disp #*20 Tablet 
+Refills:*0
+3. Gabapentin 300 mg PO QHS 
+4. Glargine 21 Units Dinner
+novolog 7 Units Breakfast
+novolog 7 Units Lunch
+novolog 7 Units Dinner
+Insulin SC Sliding Scale using novolog Insulin
+RX *insulin glargine [Lantus] 100 unit/mL 21 units SC 21 Units 
+before DINNER Disp #*1 Vial Refills:*1
+RX *insulin aspart [Novolog] 100 unit/mL ___ units SC Up to 6 
+Units QID per sliding scale; 7 Units before BREAKFAST, LUNCH, 
+DINNER Disp #*1 Vial Refills:*1
+5. Valsartan 80 mg PO DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Vitamin E 400 UNIT PO DAILY 
+8. Acetaminophen 650 mg PO Q6H:PRN pain/headache 
+9. Aspirin EC 81 mg PO DAILY 
+10. Atorvastatin 20 mg PO DAILY 
+11. Clopidogrel 75 mg PO DAILY 
+12. Daptomycin 400 mg IV Q24H 
+RX *daptomycin [Cubicin] 500 mg 400 mg IV q24h Disp #*40 Vial 
+Refills:*0
+13. Docusate Sodium 100 mg PO BID 
+14. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*30 Tablet Refills:*0
+15. Senna 8.6 mg PO BID:PRN constipation 
+16. TraMADOL (Ultram) 50 mg PO Q4H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every 4 hours Disp #*30 
+Tablet Refills:*0
+17. ClonazePAM 1 mg PO QHS 
+RX *clonazepam 1 mg 1 tablet(s) by mouth at bedtime Disp #*20 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Peripheral vascular disease, non-healing ulcer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the Vascular Surgery service after your 
+angiogram and bypass. Your procedures went well without 
+complications and you are recovering well. At this time, you are 
+eating normally, able to use the restroom without difficulty and 
+have been restarted on all of your home medications. You are now 
+ready to continue your recovery at rehab, with the following 
+instructions.
+
+WHAT TO EXPECT:
+1. It is normal to feel tired, this will last for ___ weeks
+ You should get up out of bed every day and gradually increase 
+your activity each day
+ Unless you were told not to bear any weight on operative foot: 
+you may walk and you may go up and down stairs
+ Increase your activities as you can tolerate- do not do too 
+much right away!
+2. It is normal to have swelling of the leg you were operated 
+on:
+ Elevate your leg above the level of your heart (use ___ 
+pillows or a recliner) every ___ hours throughout the day and at 
+night
+ Avoid prolonged periods of standing or sitting without your 
+legs elevated
+3. It is normal to have a decreased appetite, your appetite will 
+return with time
+ You will probably lose your taste for food and lose some 
+weight
+ Eat small frequent meals
+ It is important to eat nutritious food options (high fiber, 
+lean meats, vegetables/fruits, low fat, low cholesterol) to 
+maintain your strength and assist ___ wound healing
+ To avoid constipation: eat a high fiber diet and use stool 
+softener while taking pain medication
+
+MEDICATION:
+ Take aspirin as instructed
+ Follow your discharge medication instructions
+
+ACTIVITIES:
+ No driving until post-op visit and you are no longer taking 
+pain medications
+ Unless you were told not to bear any weight on operative foot:
+ You should get up every day, get dressed and walk
+ You should gradually increase your activity
+ You may up and down stairs, go outside and/or ride ___ a car
+ Increase your activities as you can tolerate- do not do too 
+much right away!
+ No heavy lifting, pushing or pulling (greater than 5 pounds) 
+until your post op visit
+ You may shower (unless you have stitches or foot incisions) no 
+direct spray on incision, let the soapy water run over incision, 
+rinse and pat dry
+ Your incision may be left uncovered, unless you have small 
+amounts of drainage from the wound, then place a dry dressing 
+over the area that is draining, as needed
+
+CALL THE OFFICE at ___ FOR:
+ Redness that extends away from your incision
+ A sudden increase ___ pain that is not controlled with pain 
+medication
+ A sudden change ___ the ability to move or use your leg or the 
+ability to feel your leg
+ Temperature greater than 100.5F for 24 hours
+ Bleeding, new or increased drainage from incision or white, 
+yellow or green drainage from incisions
+ 
+Followup Instructions:
+___

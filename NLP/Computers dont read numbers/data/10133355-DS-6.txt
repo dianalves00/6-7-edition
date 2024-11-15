@@ -1,0 +1,83 @@
+ 
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+sensation of tongue swelling and L facial sensory changes
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+Brief Hospital Course:
+Assessment:  ___ yo F with vascular risk factors and h/o 
+headaches admitted with complicated migraine vs TIA.  Episode 
+was sensation of L tongue swelling and L facial sensory changes. 
+ 
+
+Neurology - Complicated migraine vs TIA.  MRI/A negative.  
+Hemoglobin A1C 5.7.  Chol 187, LDL 120, HDL 40, Trig 135.  TSH 
+in ___ was 1.0. She was taking a statin, which was continued.  
+She was started on aspirin 81mg po qday for stroke prevention.  
+She can take ibuprofen prn for headaches, will f/u in neurology 
+clinic.  
+
+Cardiology - Monitored on telemetry, had PVCs but otherwise no 
+arrythmias.  Echocardiogram showed EF >55%, positive for PFO vs 
+small ASD.  PMD notified of this finding, as she did not have a 
+stroke no intervention at this time.
+
+FEN/GI - Electrolytes within normal limits.  
+
+ 
+Medications on Admission:
+-lisinopril 20mg
+-lovastatin 40mg
+
+ 
+Discharge Medications:
+1. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. Lovastatin 40 mg Tablet Sig: One (1) Tablet PO once a day.  
+3. Aspirin 81 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*1 mo supply* Refills:*2*
+4. Ibuprofen 200 mg Tablet Sig: Two (2) Tablet PO every six (6) 
+hours as needed for headache.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+atypical migraine vs TIA
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with transient episode of 
+sensetion of tongue swelling and abnormal sensation of the L 
+face.  This was likley an atypical migraine.  Also possibly a 
+TIA or ministroke.  Your MRI did not show a stroke.  You were 
+started on asirin 81mg daily for stroke prevention.  
+.
+Your echocardiogram showed a small connection between the two 
+top chamber of your heart, a PFO.  We will notify your primary 
+care physician of this finding, and you should discuss this with 
+them.  This is a common finding, and no interventions are 
+required at this time.  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,325 @@
+ 
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+atorvastatin / hydrocodone / Bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization ___
+
+ 
+History of Present Illness:
+Mr. ___ is an ___ year old man with a history of CAD
+(CABG ___, NSTEMI ___ with med management), chronic stable
+angina, moderate AS, bladder cancer s/p resection, CKD, RCC s/p
+nephrectomy, anxiety and IBS who presented to ___ emergency
+department with chest pain. 
+
+Mr. ___ has a history of stable angina. He had an NSTEMI in
+___ and a coronary angiography showed complete occlusion
+multiple native vessels, but three widely patent grafts. The
+decision was made to medically manage given the complexity of
+possible PCI. 
+
+Since that time he has had angina with exertion. Lately he has
+had increased exertion as his wife is in a ___ for rehab about
+hip fracture, and he has been more active in traveling to see
+her. He has also been partaking in cardiac rehab. 
+
+After returning from a pizza restaurant with his family on ___ 
+he
+was lying in bed an had substernal chest pain. He took 
+sublingual
+nitroglycerin with minimal improvement in his pain. Ended up
+taking 3 SLNG and because of this, he decided to come to the
+emergency department. 
+
+No recent nausea, vomiting, headaches, palpitations, dizziness,
+syncope, lower extremity edema, orthopnea, PND, dysuria. Chronic
+constipation and diarrhea is stable, no melena or hematochezia
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+- Coronary artery disease s/p 3v CABG in ___, in ___, 
+no
+PCI/stents
+- Moderate AS, mild to moderate MR, mild TR on TTE ___ 
+(normal
+EF)  
+- Hypertension 
+- Chronic kidney disease, stage III
+- Renal cell carcinoma s/p left nephrectomy in ___
+- Bladder CA s/p transurethral resection in ___, no
+chemo/XRT, thought to be in remission
+- BPH with right hydronephrosis 
+- Polymyalgia rheumatica 
+- Diverticulosis
+- IBS 
+- GERD with small sliding hiatal hernia 
+- Esophageal dysmotility 
+- Right exophytic renal cyst 
+- Melanoma  
+- Metabolic acidosis
+- Anxiety/panic attacks
+- Seasonal allergies
+- Bradycardia with anesthesia
+
+PAST SURGICAL HISTORY 
+-CABG in ___ at ___ in ___
+-PCI (unclear when/where)
+-Left nephrectomy/adrenalectomy  
+-Transurethral resection of prostate 
+-Transurethral resection of bladder tumor 
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.  
+ 
+Physical Exam:
+Admission PE
+VS: T:98.3, BP: 160 / 57, HR77, RR18 O2 98 RA
+
+GENERAL: Comfortable appearing man lying in bed and speaking to
+me in no distress. 
+HEENT: Pupils equal, no scleral icterus or injection. Moist
+mucous membranes.  
+NECK: Patient lying flat at 90 degrees, unable to assess JVP. 
+CARDIAC: S1/S2 regular, ___ systolic murmur. 
+LUNGS: Clear anteriorly. 
+ABDOMEN: Soft, non-tender, non-distended.   
+EXTREMITIES: Warm extremities. No edema. 
+PULSES: R DP pulse 3+, L 2+. 
+GROIN: Dry covering. Palpable pulse. No hematoma. No bruit. 
+ 
+Discharge PE
+___ 2347 Temp: 98.2 PO BP: 134/60 R Lying HR: 73 RR: 17 O2
+sat: 97% O2 delivery: Ra 
+___ Total Intake: 910ml PO Amt: 910ml 
+___ Total Output: 1825ml Urine Amt: 1825ml 
+
+GENERAL: Comfortable, NAD. 
+HEENT: PERRL, MMM.  
+NECK: no elevated JVP. 
+CARDIAC: RRR, S1/S2 regular, II/VI systolic murmur.
+LUNGS: CTAB.
+ABDOMEN: Soft, non-tender, non-distended.   
+EXTREMITIES: Warm extremities. No edema.  
+NEURO: AOx3
+
+ 
+Pertinent Results:
+___ 11:07PM BLOOD WBC-4.3 RBC-3.34* Hgb-10.0* Hct-29.8* 
+MCV-89 MCH-29.9 MCHC-33.6 RDW-13.3 RDWSD-43.4 Plt ___
+___ 07:55AM BLOOD WBC-5.0 RBC-3.22* Hgb-9.7* Hct-28.2* 
+MCV-88 MCH-30.1 MCHC-34.4 RDW-13.2 RDWSD-41.9 Plt ___
+
+___ 11:41PM BLOOD ___ PTT-29.9 ___
+___ 06:50AM BLOOD ___ PTT-28.2 ___
+
+___ 11:07PM BLOOD Glucose-138* UreaN-32* Creat-2.3* Na-145 
+K-4.4 Cl-112* HCO3-16* AnGap-17
+___ 07:55AM BLOOD Glucose-91 UreaN-33* Creat-2.5* Na-141 
+K-4.6 Cl-109* HCO3-19* AnGap-13
+
+___ 06:59AM BLOOD cTropnT-0.33*
+___ 06:45AM BLOOD cTropnT-0.60* proBNP-1245*
+
+___ 08:20AM BLOOD Calcium-8.9 Phos-3.3 Mg-1.7
+___ 07:55AM BLOOD Calcium-9.0 Phos-3.6 Mg-1.7
+ 
+Brief Hospital Course:
+Mr. ___ is an ___ year old man with a history of CAD
+(CABG ___, NSTEMI ___ with med management), chronic stable
+angina, moderate AS, bladder cancer s/p resection, CKD, RCC s/p
+nephrectomy, anxiety and IBS who presented to ___ emergency
+department with chest pain and found to have an NSTEMI. Cath 
+showed effective , decision was made to manage medically due to 
+no clear culprit lesion, and technical difficulty of attempting 
+PCI. His course was complicated by ___ on CKD due to
+postrenal ureteral stenosis, now s/p ureteral stent, with
+resolving ___ 
+
+# NSTEMI  
+# CAD s/p CABG  
+Known history of stable angina, with NSTEMI in ___ that
+showed patent grafts and severe native vessel disease. Given the
+complexity of a possible PCI, he has been medically managed 
+since
+that time with stable to slightly worsening symptoms. On the day
+prior to admission, developed angina and found to have NSTEMI
+with troponin-T 0.09 -> 0.20 -> 0.33 prior to angiography. 
+Angiography did not demonstrate significant change from ___
+study, so will plan to medically manage. His TTE was also not
+significantly changed from prior.  Patient has remained chest
+pain-free on medical therapy since that time. He will be 
+discharged on aspirin, rosuvastatin, metoprolol, IMDUR, and 
+ranolazine. His Plavix was d/c-ed.
+
+# Post Renal ___ on CKD stage III
+# S/p Ureteral stent (on ___
+Cr 1.6 at baseline. 2.3 on admission and 1.8 prior to 
+angiography
+with pre-hydration. Unclear what precipitated ___ prior to
+admission, but good initial response to hydration so pre-renal 
+etiology
+is likely. Subsequently developed recurrent ___, and found to 
+have hydronephrosis. Renal and urology consulted with ureteral 
+stent placed on ___ for treatment of hydronephrosis. Post stent 
+placement has seen improvement in Cr. Likely suffered from ATN, 
+now in diuresis phase. 4.5L of urine on ___, 2 L or urine on 
+___. Cr downtrended from 3.4 to 2.8 on
+___ and ___, and 2.5 on ___. Also had hyperkalemia on ___, 
+which resolved prior to discharge. Patient will keep R ureteral 
+stent in place for ___ weeks, will follow up
+with Dr. ___ in ___ clinic
+
+#Bradycardia with beta blockade 
+Patient has history of intolerance beta blocker with development 
+of symptomatic bradycardia. As his angina has been refractory to 
+medical therapy, decision was made to place PPM in order to 
+uptitrate metoprolol for control of angina.
+
+#Anemia 
+Chronic normocytic anemia with a baseline Hgb ~10. Dropped to 
+around
+8.5 after cath. Pt vitals stable and no back pain, femoral bruit
+or decreased distal pulse and Hgb was stable. CBC stable with 
+Hgb
+in the ___. S/P 1 unit blood ___ for aninga and upcoming
+procedure.  Hemoglobin has been stable around 8 since this time.
+
+#Aortic Stenosis
+History of moderate AS. Almost severe on TTE compared to 
+___.
+
+#Thrombocytopenia: pt came in with plts of 150 with down 
+trending
+plt's. HIT score is low. Will monitor for ongoing plt 
+dysfunction
+or signs of bleeding. Platelets have been stable at 100-120. 
+
+CHRONIC ISSUES:
+=================
+# Bladder CA s/p resection:  
+Followed by Dr. ___ in urology at ___. Path from
+___ showing papillary urothelial carcinoma, low grade, non
+invasive. Underwent ureteral stent placement, as above.
+
+# GERD: home ranitidine
+# Anxiety: continue sertraline  
+# HTN: continue amlodipine  
+# Polymyalgia rheumatica: Diagnosed ___. Currently off 
+steroids, followed by ___ at ___ rheumatology.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Terazosin 10 mg PO QHS 
+2. Sertraline 50 mg PO DAILY 
+3. Rosuvastatin Calcium 40 mg PO QPM 
+4. Ranolazine ER 500 mg PO BID 
+5. Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY 
+6. Finasteride 5 mg PO DAILY 
+7. Clopidogrel 75 mg PO DAILY 
+8. amLODIPine 5 mg PO BID 
+9. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+10. Aspirin 81 mg PO DAILY 
+11. Sodium Bicarbonate 650 mg PO BID 
+12. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+13. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+14. DICYCLOMine 10 mg PO QID:PRN Abdominal cramp 
+15. Ranitidine 150 mg PO BID 
+16. Feosol (ferrous sulfate;<br>iron, carbonyl) 325 mg (65 mg 
+iron) oral BID 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*12 
+2.  Ranitidine 150 mg PO DAILY  
+3.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+4.  amLODIPine 5 mg PO BID  
+5.  Aspirin 81 mg PO DAILY  
+6.  DICYCLOMine 10 mg PO QID:PRN Abdominal cramp  
+7.  Feosol (ferrous sulfate;<br>iron, carbonyl) 325 mg (65 mg 
+iron) oral BID  
+8.  Finasteride 5 mg PO DAILY  
+9.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+10.  Isosorbide Mononitrate (Extended Release) 120 mg PO DAILY  
+11.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+12.  Ranolazine ER 500 mg PO BID  
+13.  Rosuvastatin Calcium 40 mg PO QPM  
+14.  Sertraline 50 mg PO DAILY  
+15.  Sodium Bicarbonate 650 mg PO BID  
+16.  Terazosin 10 mg PO QHS  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+PRIMARY DIAGNOSIS:
+Non-ST elevation myocardial infarction
+
+SECONDARY DIAGNOSIS:
+Postrenal acute kidney injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ Dear Mr ___
+
+ It was a pleasure caring for you at ___.  
+
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+ - You were admitted because you had a heart attack  
+ 
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+  - You were admitted to the hospital because you had chest 
+pain. You were found to have had a heart attack. Your heart 
+arteries were examined (cardiac catheterization) which showed a 
+blockage of one of the arteries. This was treated by 
+medications.
+  -Your kidney function decreased.  This was believed to be due 
+to a blockage in the tube leading from the kidney to the 
+bladder.  This was treated by our urology team placing a stent 
+to open the blockage.
+
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+ - It is very important to take your normal aspirin, statin, 
+metoprolol, isosorbide mononitrate, ranolazine to help manage 
+your chest pain
+ - It is important to follow up with all of your appointment 
+scheduled, which you can find listed on this discharge sheet
+ 
+
+ Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+ Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

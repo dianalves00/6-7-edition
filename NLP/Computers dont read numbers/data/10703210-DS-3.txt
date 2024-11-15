@@ -1,0 +1,85 @@
+ 
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Transferred to ___ to be closer to NICU, delivered at 35 weeks 
+at outside hospital
+ 
+Major Surgical or Invasive Procedure:
+cesarean section
+
+ 
+History of Present Illness:
+No current complaints.  Uncomplicated RLTCS and BTL for PTL at 
+35 weeks.
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+VS: T-98.9  HR-97  BP-96/58  RR-18
+Gen: NAD
+Abd: firm fundus 1 cm below umbilicus
+Pad: minimal lochia
+GU: foley in place 
+Ext: nontender
+ 
+Pertinent Results:
+Prenatal labs: B neg, Ab neg, HIV neg, RPR NR, Hep B neg, 
+Rubella 26
+ 
+Brief Hospital Course:
+The patient was transferred to be closer to her baby, who was 
+transferred to the ___ NICU.  She had an uncomplicated 
+post-partum course and went home on POD#4.
+ 
+Medications on Admission:
+PNV
+ 
+Discharge Medications:
+1. Docusate Sodium 100 mg PO BID:PRN Constipation 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0
+2. Ibuprofen 600 mg PO Q6H:PRN pain 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*40 Tablet Refills:*0
+3. Oxycodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN Pain 
+RX *oxycodone-acetaminophen 5 mg-325 mg ___ tablet(s) by mouth 
+every ___ hours Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+postpartum from cesarean delivery at 35 weeks, transfer to be 
+closer to baby in neonatal intensive care
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+pelvic rest 6 weeks, no heavy lifting 6 weeks, no driving while 
+taking narcotics
+ 
+Followup Instructions:
+___

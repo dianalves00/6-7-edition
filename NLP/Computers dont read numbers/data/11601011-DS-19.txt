@@ -1,0 +1,391 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / vancomycin / Penicillins / morphine / ampicillin / 
+Flagyl
+ 
+Attending: ___
+ 
+Chief Complaint:
+Flank ___, hypotension
+ 
+Major Surgical or Invasive Procedure:
+midline placement
+
+ 
+History of Present Illness:
+___ year old gentleman history of spina bifida, chronic 
+nephrolithiasis (with intermittent obstruction), chronic UTI's, 
+chronic hydronephrosis, s/p neobladder with ileal conduit, 
+numerous hospitalizations (admitted ___, 
+upper extremity DVT's in setting of midline in ___ 
+currently on coumadin, presenting with 1 day of fever, n/v; 
+chronic right flank ___ chronic L posterior knee wound 
+secondary to friction against wheelchair.
+
+Of note, the patient was recently admitted in ___ for 
+persistent flank ___ which resolved and was not thought to have 
+pyelonephritis at that time. Previously, he has had multiple (>3 
+in the past 6 months) admissions for UTI as well as 
+non-infectious right flank ___ ever since getting his urostomy 
+a few years ago. His cultures have grown MDR E. coli, 
+Klebsiella, Staph aureus, Enterococcus, and Proteus.
+ 
+In the ED, initial vitals:  
+T100.0 (Tmax 101.8)  ___  BP ___   RR18  O2Sat 100% RA
+Labs were significant for  UA with >182 WBC drawn from urostomy 
+bag, lactate 1.5, WBC 12.6. 
+Imaging revealed: CT abdomen with striated nephrogram on the 
+left is concerning for pyelonephritis, Several punctate 
+nonobstructing stones are seen in the right kidney.ECG 
+significant for sinus tachycardia
+The patient was given CefePIME 2 g, Dilaudid 1 mg, ondansetron 4 
+mg, 2 L NS, Clindamycin 600 mg, Acetaminophen 1000 mg IV 
+Meropenem 1000 mg  
+ 
+ 
+On transfer, vitals were: T99.5 ___ BP113/54  RR16  O2 Sat 97% 
+RA  
+On arrival to the MICU, patient was comfortable-appearing and 
+complaining of mild right flank ___.
+
+ 
+Past Medical History:
+# Spina bifida, wheelchair-bound, cognitively intact  
+# Nephrolithiasis  
+# recurrent UTI  (pt has had 10 CT scans abd/pelvis in ___ so 
+far)
+# Ileal conduit for neurogenic bladder    
+# Ileal loop stomatitis  
+# chronic right Flank ___ of undetermined etiology, ultimately 
+attributed to neuropathy   
+# VP shunt  
+# Cellulitis of left lower extremity (___)  
+# DVT's upper extremity (in setting of midline) currently on 
+coumadin
+# hypertension
+ 
+Social History:
+___
+Family History:
+Mother ___ Comment: CAD, MI and CHF 
+Father: ___ cancer at age ___
+Sister with kidney stones  
+ 
+Physical Exam:
+GENERAL: AOx3, conversant and appropriate.  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-distended, bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly. Urostomy pink, 
+protuberant, productive of clear yellow urine. +R CVA 
+tenderness.  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: Large pressure ulcer over left popliteal fossa without 
+erythema or induration or purulence.
+ 
+Pertinent Results:
+ADMISSION LABS
+====================================
+___ 05:30PM BLOOD WBC-12.6*# RBC-4.44* Hgb-12.4* Hct-37.6* 
+MCV-85 MCH-27.9 MCHC-33.0 RDW-13.7 RDWSD-42.2 Plt ___
+___ 05:30PM BLOOD Neuts-82.9* Lymphs-8.2* Monos-8.2 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-10.47* AbsLymp-1.03* 
+AbsMono-1.04* AbsEos-0.01* AbsBaso-0.04
+___ 05:30PM BLOOD Plt ___
+___ 05:30PM BLOOD Glucose-116* UreaN-19 Creat-0.9 Na-134 
+K-4.4 Cl-99 HCO3-20* AnGap-19
+___ 05:30PM BLOOD estGFR-Using this
+___ 05:30PM BLOOD LtGrnHD-HOLD
+___ 05:47PM BLOOD Lactate-1.5
+___ 06:00PM URINE Color-Yellow Appear-Cloudy Sp ___
+___ 06:00PM URINE Blood-SM  Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-2* pH-7.5 Leuks-LG
+___ 06:00PM URINE RBC-24* WBC->182* Bacteri-MANY Yeast-NONE 
+Epi-0
+___ 06:00PM URINE WBC Clm-MOD
+
+MICRO:
+
+___ 6:00 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH FECAL
+      CONTAMINATION. 
+
+___ 5:20 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+IMAGING:
+
+CT ABD & PELVIS W & W/O CONTRA Clip # ___  
+Reason: eval for obstructing kidney stone
+Contrast: OMNIPAQUE Amt: 130
+UNDERLYING MEDICAL CONDITION:
+   History: ___ with hx of obstructing stones here with fever, 
+flank ___
+REASON FOR THIS EXAMINATION:
+   eval for obstructing kidney stone
+CONTRAINDICATIONS FOR IV CONTRAST:
+   None.
+Final Report
+INDICATION:  History: ___ with hx of obstructing stones here 
+with fever, flank
+___  // eval for obstructing kidney stone
+ 
+TECHNIQUE:  Pre and post contrast with split bolus: MDCT axial 
+images were
+acquired through the abdomen and pelvis prior to and following 
+intravenous
+contrast administration with split bolus technique. IV Contrast: 
+ 130 mL
+Omnipaque.
+Coronal and sagittal reformations were performed and reviewed on 
+PACS.
+Oral contrast was not administered.
+ 
+DOSE:  DLP= 2250.14 mGy-cm
+ 
+COMPARISON:  CT of the abdomen and pelvis dated ___ 
+and ___.
+ 
+FINDINGS: 
+ 
+LOWER CHEST: Visualized lung fields are within normal limits. 
+There is no
+evidence of pleural or pericardial effusion.
+ 
+ABDOMEN:
+ 
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout. 
+There is no evidence of focal lesions.  There is no evidence of 
+intrahepatic
+or extrahepatic biliary dilatation.  The gallbladder is within 
+normal limits.
+ 
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of
+focal lesions or pancreatic ductal dilatation.  There is no 
+peripancreatic
+stranding.
+ 
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without
+evidence of focal lesions.
+ 
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape.
+ 
+URINARY: The patient is status post cystectomy, with right lower 
+quadrant
+ileal conduit.  There is an unchanged degree of ureteral 
+fullness bilaterally,
+consistent with chronic reflux.  The right kidney appears 
+shrunken and
+atrophic, and demonstrates a delayed nephrogram, similar to 
+prior. 
+Heterogeneous enhancement of the left kidney has the appearance 
+of a striated
+nephrogram, which is concerning for pyelonephritis.  
+Furthermore, there is
+mild left perinephric stranding.  Several punctate 
+nonobstructing stones are
+seen in the right kidney.  There is mild stranding is seen 
+surrounding the
+right ureter, similar to prior.
+ 
+GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate
+normal caliber, wall thickness, and enhancement throughout.  The 
+colon and
+rectum are within normal limits.  The appendix is normal.
+ 
+PELVIS:  Status post cystectomy.  Coarse calcifications are seen 
+within the
+prostate gland.  There is no free fluid in the pelvis.
+ 
+REPRODUCTIVE ORGANS: The reproductive organs are unremarkable.
+ 
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There
+is no pelvic or inguinal lymphadenopathy.
+ 
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease
+is noted.
+ 
+BONES:  The pelvis appears dysmorphic, with spina bifida and 
+meningomyelocele.
+ 
+SOFT TISSUES: Note is made of right parastomal hernia that 
+contains the ileal
+conduit.
+ 
+IMPRESSION:
+ 
+1. Striated nephrogram and mild perirenal stranding on the left 
+is concerning
+for pyelonephritis.
+2. Status post cystectomy with right lower quadrant ileal 
+conduit.  Unchanged
+degree of ureteral fullness bilaterally, consistent with chronic 
+reflux.  Mild
+stranding is seen surrounding the right ureter, unchanged.
+3.  Several punctate nonobstructing stones are seen in the right 
+kidney.
+ 
+ 
+Brief Hospital Course:
+___ M h/o spina bifida, neurogenic bladder s/p ileal conduit 
+urostomy with chronic hydronephrosis and recurrent UTI sometimes 
+with pyelonephritis, presenting with fever, nausea, and chronic 
+right flank ___ in the setting of severe sepsis with left 
+pyelonephritis.
+
+#Severe sepsis and left hydronephrosis: 
+Febrile, tachycardic, and intermittently hypotensive, with 
+normal lactate. The most likely source is his urine as his CT 
+abd is indicative of pyelo. UA is difficult to analyze due to 
+urostomy bag. Other possible sources of sepsis include LLE 
+lesion and coccygeal ulcer. Blood cultures were negative and 
+urine cx grew mixed flora, however given his clinical 
+presentation, CT findings and micro history including resistant 
+pathogens, opted to treat empirically with meropenem. He was 
+stabilized and transferred to medical floor on the night of 
+___. He was febrile that night but subsequently defervesced and 
+remained hemodynamically stable. HIs antihypertensives were held 
+as he remained normotensive. 
+
+# acute on chronic right flank ___:
+He continued to report severe right flank ___, acute on 
+chronic, on the opposite side of his known pyelonephritis. He 
+has had this ___ for ___ years, and he reports acute exacerbation 
+whenever he is hospitalized with a UTI. He appears very 
+comfortable, working on his mobile phone, eating, talking to his 
+wife at bedside, and still reports severe ___. There is no 
+clear etiology for this ___, which I have discussed with him at 
+length during prior admissions, and I explained this is likely 
+neuropathic ___. Neuropathic ___ has been associated with 
+spina bifida. He is on high doses of narcotics, and he reports 
+"they don't even touch the ___ As such, there is no reason to 
+continue these narcotics, and narcotics have been shown to be 
+ineffective in the management of neuropathic ___. Ultimately he 
+should be weaned off them, but this is deferred to his 
+outpatient physician in the ___ Clinic Dr ___. In 
+addition, there is no indication for IV narcotics, which he 
+requested. I started Mr ___ on gabapentin during a prior 
+admission, and I asked if this helped. He said he doesnt recall, 
+nor does he recall if he had any adverse effect which led to 
+their discontinuation. OMR was reviewed including notes from 
+___ Svc, and there is no documented reason why gabapentin was 
+discontinued. There was documented good response to ultram. I 
+paged Dr ___ to discuss, and pt agreed to try gabapentin and 
+ultram again. Gabapentin was slowly titrated up, with further 
+titration deferred to the outpatient setting. On the day of 
+discharge, he continued to report uncontrolled ___, but he was 
+stable to continue ___ mgmt in the outpt setting.
+
+# bilateral upper extremity DVT, dx ___: 
+Pt was maintained on warfarin with close monitoring INR while on 
+abx. Standard of care is three mos anticoagulation, as the 
+source of thrombus was removed. Howevere, since a midline was 
+placed for another course abx, the decision was made to extend 
+anticoagulation for another two weeks until midline is removed. 
+Warfarin can be discontinued at that point. Discussed with pt, 
+who expressed understanding and agreement. 
+
+#Spina bifida:
+- Continue baclofen
+
+# hypertension:
+As noted above, antihypertensives were held since he presented 
+with severe sepsis and hypotension. He remained normotensive on 
+the medical floor, and antihypertensives were not restarted at 
+the time of discharge. He is to f/u with PCP to address 
+when/whether these should be restarted. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+2. Lisinopril 20 mg PO DAILY 
+3. OxycoDONE (Immediate Release)  10 mg PO Q4H:PRN ___ 
+4. Warfarin 5 mg PO DAILY16 
+5. Baclofen 15 mg PO TID 
+
+ 
+Discharge Medications:
+1. Baclofen 15 mg PO TID 
+2. OxycoDONE (Immediate Release)  10 mg PO Q4H:PRN ___ 
+RX *oxycodone 10 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0
+3. Warfarin 6 mg PO DAILY16 
+4. Ertapenem Sodium 1 g IV ONCE Duration: 1 Dose 
+RX *ertapenem [Invanz] 1 gram 1 g IV daily Disp #*10 Vial 
+Refills:*0
+5. TraMADOL (Ultram) 100 mg PO QID 
+RX *tramadol 50 mg 2 tablet(s) by mouth every six (6) hours Disp 
+#*120 Tablet Refills:*0
+6. Gabapentin 600 mg PO TID 
+RX *gabapentin 600 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# sepsis
+# left UTI/pyelonephritis, organism unspecified
+# acute on chronic right flank ___, attributed to neuropathy
+
+SECONDARY:
+# spina bifida
+# neurogenic bladder
+# hypertension
+
+# sepsis
+# left UTI/pyelonephritis, organism unspecified
+# acute on chronic right flank ___, attributed to neuropathy
+
+SECONDARY:
+# spina bifida
+# neurogenic bladder
+# hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+please see below
+
+ 
+Followup Instructions:
+___

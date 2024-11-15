@@ -1,0 +1,327 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ Mr. ___ is a ___ male with DM, ESRD on HD (TThSa) who is 
+being admitted for management of a R AC cellulitis/abcess. His 
+symptoms started approximately 1 week ago; he thinks it occurred 
+___ an IV that was recently placed. He actually presented to the 
+ED on ___ and had minimal pus expressed. He was discharged home 
+on a 10 day course of Cipro and Bactrim. He states that he went 
+to HD on ___ and may have received additional IV 
+antiobiotics at the time. He presents today with worsening 
+redness of the area as well as pain.
+.
+In the ED, initial vitals were T 98.6 BP 184/137 AR 75 RR 16 O2 
+sat 100% RA. He received Vancomycin 1gm IV x1. He also received 
+Lisinopril 40mg PO, Nifedipine 20mg PO, Metoprolol 100mg PO.
+.
+Review of systems is negative for fevers, chills, headaches, 
+chest pain, SOB, abdominal pain, N/V, or worsening ___ edema. 
+ 
+Major Surgical or Invasive Procedure:
+Incision and drainage of abscess.
+
+ 
+History of Present Illness:
+Reason for admission: Cellulitis
+.
+History of Present Illness: Mr. ___ is a ___ male with DM, 
+ESRD on HD (TThSa) who is being admitted for management of a R 
+AC cellulitis/abcess. His symptoms started approximately 1 week 
+ago; he thinks it occurred ___ an IV that was recently placed. 
+He actually presented to the ED on ___ and had minimal pus 
+expressed. He was discharged home on a 10 day course of Cipro 
+and Bactrim. He states that he went to HD on ___ and may 
+have received additional IV antiobiotics at the time. He 
+presents today with worsening redness of the area as well as 
+pain.
+.
+In the ED, initial vitals were T 98.6 BP 184/137 AR 75 RR 16 O2 
+sat 100% RA. He received Vancomycin 1gm IV x1. He also received 
+Lisinopril 40mg PO, Nifedipine 20mg PO, Metoprolol 100mg PO.
+.
+Review of systems is negative for fevers, chills, headaches, 
+chest pain, SOB, abdominal pain, N/V, or worsening ___ edema. 
+ 
+Past Medical History:
+-DM2 (reported in past d/c summary) for > ___ years
+-ESRD, on HD ___ at ___ Dialysis
+-HTN, poorly controlled
+-R foot operation - bone excision
+-R foot ulcer
+-Depression with h/o SA and psych hospitalizations
+-Esophagitis on EGD ___ with negative H. Pylori
+-h/o L flank pain since ___ with multiple admissions and 
+extensive work-up, possibly due to diabetic thoracic 
+polyneuropathy
+-Diastolic CHF: LVEF >55% by echo
+-Mod-severe cognitive deficits per neuropsych testing in ___ 
+ 
+Social History:
+___
+Family History:
+Diabetes in multiple relatives on both sides.  
+ 
+Physical Exam:
+Gen: No acute distress, appears tired
+HEENT: MMM
+Heart: RRR, no m,r,g
+Lungs: CTAB
+Abdomen: Soft, NT/ND, +BS
+Extremities: Mild 1+ bilateral edema, area of erythema and mild 
+warmth of the anterior shin of L leg; R AC-erythematous, warm to 
+touch. ___ in place. Tender to touch.
+ 
+Pertinent Results:
+___ 11:13PM BLOOD WBC-5.9 RBC-4.33* Hgb-11.3* Hct-36.7* 
+MCV-85 MCH-26.1* MCHC-30.8* RDW-16.9* Plt ___
+___ 05:45AM BLOOD WBC-5.1 RBC-3.70* Hgb-10.0* Hct-30.8* 
+MCV-83 MCH-27.1 MCHC-32.6 RDW-17.0* Plt ___
+___ 11:13PM BLOOD Glucose-209* UreaN-14 Creat-3.8*# Na-137 
+K-4.1 Cl-97 HCO3-26 AnGap-18
+___ 07:05AM BLOOD Glucose-165* UreaN-24* Creat-5.8*# Na-139 
+K-4.4 Cl-95* HCO3-31 AnGap-17
+___ 05:45AM BLOOD Calcium-9.0 Phos-2.7# Mg-1.6
+___ 07:05AM BLOOD Calcium-9.2 Phos-3.7 Mg-1.9 UricAcd-3.8
+___ 07:05AM BLOOD Vanco-28.1*
+___ 11:18PM BLOOD Lactate-1.1
+.
+___ 11:13 pm BLOOD CULTURE
+**FINAL REPORT ___
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+.
+___ 2:33 pm SWAB
+      Source: right antecubital abscess/cellulitis. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +. 
+SENSITIVITIES: MIC expressed in MCG/ML                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Final ___:    NO ANAEROBES ISOLATED. 
+
+.
+___ 7:10 pm BLOOD CULTURE
+**FINAL REPORT ___
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+.
+___ 5:35 pm BLOOD CULTURE
+**FINAL REPORT ___
+Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+ 
+Brief Hospital Course:
+A/P: Mr. ___ is a ___ with ESRD, DM, and HTN who presents 
+with an abscess of the right antecubital.
+.
+1)Right antecubital abscess: The abscess was thought to be 
+secondary to an IV he had placed during his previous admission 
+at ___. He presented with worsening erythema of the R AC but had 
+not taken oral antibiotics prescribed to him.  He received IV 
+antibiotics at outpatient dialysis the day prior to admission.  
+During his admission he was placed on vancomycin and cefepime 
+with dosing at dialysis. These medications were continued for 7 
+days after discharge for a total of a 10 day course. Swabs from 
+his antecubital grew coag + staph.  His blood cultures showed no 
+growth. 
+.
+2)Hypertension: His blood pressure was poorly controlled on 
+arrival.  He obtained better control when started on his home 
+regimen of lisinopril, valsartan, metoprolol, and nifedipine.
+.
+3)ESRD on HD: He received dialysis while in the hospital and was 
+continued on sevelamer and calcium acetate.
+.
+4)DM: His blood sugars were elevated on admission which was 
+likely due to his infection.  He was continued on 70/30 insulin 
+and an ISS.  His blood sugars were under good control on 
+discharge.
+.
+5)Depression: He was restarted on celexa and methylphenidate as 
+he was not taking this medication at home.  
+.
+6)Social issues/med non compliance: He has many financial 
+burdens. He states that he did not fill his new prescriptions 
+since his last discharge due to lack of funds.  He also did not 
+follow up with his out-patient depression program.  Social work 
+picked up his new medications for him at the time of discharge 
+and he went home with his new medications in hand.
+.
+7)Prophylaxis: Heparin SQ for DVT prophylaxis
+ 
+Medications on Admission:
+1.Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6
+hours) as needed for pain.
+___ 5 mg Tablet Sig: One (1) Tablet PO Q AM AND Q
+NOON ().
+Disp:*60 Tablet(s)* Refills:*0*
+3.Citalopram 10 mg Tablet Sig: Three (3) Tablet PO once a day.
+Disp:*90 Tablet(s)* Refills:*0*
+4.Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+5.Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+6.Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+7.Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+8.Glycopyrrolate 1 mg Tablet Sig: One (1) Tablet PO TID (3
+times a day).
+9.Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical once a day.
+10.Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).
+___ 10 mg Tablet Sig: 0.5 Tablet PO qachs.
+Disp:*15 Tablet(s)* Refills:*0*
+12.Sevelamer Carbonate 800 mg Tablet Sig: Two (2) Tablet PO TID
+W/MEALS (3 TIMES A DAY WITH MEALS).
+___ Tartrate 25 mg Tablet Sig: Five (5) Tablet PO
+twice a day.
+14.Nifedipine 60 mg Tablet Sustained Release Sig: One (1)
+Tablet Sustained Release PO BID (2 times a day).
+15.Insulin 70/30 4 units QAM, 6 units QPM 
+ 
+Discharge Medications:
+1. Lisinopril 20 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. Valsartan 160 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+3. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+5. Methylphenidate 5 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day): qam and noon.  
+6. Calcium Acetate 667 mg Capsule Sig: One (1) Capsule PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+7. Sevelamer Carbonate 800 mg Tablet Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+8. Metoprolol Tartrate 25 mg Tablet Sig: Five (5) Tablet PO 
+twice a day.  
+9. Nifedipine 60 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO BID (2 times a day).  
+10. Insulin
+Please continue previous home dosing of insulin.
+11. Glycopyrrolate 1 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day).  
+12. Oxycodone 5 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed for pain.  
+13. Vancomycin in Dextrose 500 mg/100 mL Piggyback Sig: 1.5 for 
+a total of 750mg  Intravenous dose with dialysis for 7 days: 
+last dose ___ at HD.
+Disp:*qs * Refills:*0*
+14. Ceftazidime 2 gram Recon Soln Sig: One (1) dose Intravenous 
+with HD for 7 days: Pls give 2 grams on ___ and ___, and 3grams 
+on ___.
+Disp:*qs * Refills:*0*
+15. vanco trough
+pls have vancomycin trough check at HD goal ___. Citalopram 10 mg Tablet Sig: Three (3) Tablet PO once a day. 
+ 
+17. Metoclopramide 5 mg Tablet Sig: One (1) Tablet PO qachs.  
+18. Physical therapy
+Out patient physical therapy for adhesive capsilitis
+19. Wound care
+Wound care: 
+Site: Right antecubital site 
+Comment: Clean with wound cleanser and use stream setting. Fill 
+site with piece of aquacel ag rope. Wrap site with Kling/Kerlex. 
+
+Change daily
+.
+Wound care: 
+Site: left leg dry brown abrasion with mild erythema 
+Cleansing agent: Other
+Comment: clean site with wound cleanser on spray setting and 
+then pat dry. Use ___ aquacel ag sheet and mositen slightly with 
+NS cover with dry gauze can discontinue after erythema resolves 
+and use adaptic daily. Then wrap area with kling/kerlix. Change 
+daily. 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Discharge Diagnosis  
+Primary Diagnosis:
+-Right antecubital cellulitis and abscess
+.
+Secondary Diagnosis
+-Depression
+-Fibromyalgia
+-Diabetes
+-Likely gastroparesis not confirmed
+-End stage renal disease
+-Hypertension
+-Adhesive capsilitis
+
+ 
+
+ 
+Discharge Condition:
+Stable. Receeding erythema from border drawn.
+
+ 
+Discharge Instructions:
+You were admitted with a cellulitis and abscess on your right 
+arm.  You had incision and drainage in the emergency department
+and you were started on vancomycin and ciprofloxacin.  At 
+dialysis you were changed from ciprofloxacin as an antibiotic to 
+ceftazidime.  You did not need an additional dose of vancomycin 
+because your blood levels of vancomycin were high.  You will get 
+vancomycin and ceftazidime at dialysis for a total of a 10 day 
+course with the last dose next ___.  You were having 
+trouble getting your prescriptions filled so the new 
+prescriptions from your last hoapitalization were picked up for 
+you.  It is extremely important you take all of your prescribed 
+medications. If you have any trouble getting any of your 
+medication please call your primary care doctor Dr. ___ 
+___ or call the ___ floor at ___ and ask to 
+talk to Dr. ___.
+.
+Weigh yourself every morning, call MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+.
+You have had a lot of medication changes in the last few weeks. 
+Please take only those medications on the attached sheets.
+.
+Please seek medical attention if you experience worsening of 
+redness of your cellulitis, increased pus at the site of your 
+cellulitis, your cellulitis does not continue to improve, 
+headaches, blurry vision, blood in your urine, blood in your 
+stool, chest pain, shortness of breath or any new concerning 
+symptom.
+.
+A side effect of citalopram can include decreased orgasm, 
+impotence, and fatigue. Please contact Dr. ___ you 
+experience these symptoms or if you have any thoughts of hurting 
+yourself or anyone else.
+ 
+Followup Instructions:
+___

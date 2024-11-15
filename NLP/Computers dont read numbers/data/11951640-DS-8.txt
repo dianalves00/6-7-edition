@@ -1,0 +1,158 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+liver biopsy ___
+
+ 
+History of Present Illness:
+___ yo presents with RUQ pain. Pain has been present for 1 month, 
+constant, non-radiating, not related to food. Associated with 
+nausea, no emesis, generalized weakness and DOE. Pt reports poor 
+PO intake due to nausea with weight loss of a few pounds in the 
+past month. Had outpatient work up which revealed elevated LFTs, 
+a possible mass on RUQ ultrasund and MRCP showing likely 
+obstructing cholangiocarcinoma with mets in liver.
+
+In ED pt given Unasyn and CTA chest to rule out PE given 
+worsening DOE and potential malginancy which was negative. 
+Hepatology and ERCP both consulted.
+On arrival to floor pt reports very mild pain and no SOB at 
+rest.
+
+ROS: +as above, otherwise reviewed and negative
+ 
+Past Medical History:
+HTN
+ 
+Social History:
+___
+Family History:
+Mother- died of lung ca, skin ca, colon ca (smoker)
+muncle died of colon ca
+Father- died of brain tumor age ___
+
+ 
+Physical Exam:
+Vitals: T:97.8 BP:125/82 P:74 R:18 O2:97%ra  
+PAIN: 0
+General: nad
+Lungs: clear
+CV: rrr no m/r/g
+Abdomen: bowel sounds present, soft, mildly tender RUQ
+Ext: no e/c/c
+Skin: no rash
+Neuro: alert, follows commands
+ 
+
+ 
+Pertinent Results:
+___ 01:20PM   GLUCOSE-128* UREA N-21* CREAT-1.0 SODIUM-141 
+POTASSIUM-4.5 CHLORIDE-101 TOTAL CO2-27 ANION GAP-18
+___ 01:20PM   ALT(SGPT)-60* AST(SGOT)-184* LD(LDH)-802* 
+CK(CPK)-36 ALK PHOS-304* TOT BILI-0.7
+___ 01:20PM   ALT(SGPT)-60* AST(SGOT)-184* LD(LDH)-802* 
+CK(CPK)-36 ALK PHOS-304* TOT BILI-0.7
+___ 01:20PM   LIPASE-34
+___ 01:20PM   CK-MB-1 cTropnT-<0.01 proBNP-165
+___ 01:20PM   WBC-16.3* RBC-5.29 HGB-15.2 HCT-47.4 MCV-90 
+MCH-28.7 MCHC-32.0 RDW-13.0
+___ 01:20PM   PLT COUNT-289
+
+CTA Chest ___ Preliminary Report IMPRESSION: 
+1. No evidence of pulmonary embolism. 
+2. Hypodense mass centered in segment 8 of the liver which was 
+better 
+characterized on recent MRI. No intrahepatic biliary dilatation 
+in the 
+visualized portion of the liver.  
+3. 2 mm right middle lobe pulmonary nodule for which followup in 
+___ year is recommended if no other imaging is performed for 
+another reason 
+
+MRCP ___ IMPRESSION: 
+1.  A dominant segment VIII hepatic mass, highly worrisome for 
+intrahepatic cholangiocarcinoma.  Numerous additional lesions 
+throughout the liver worrisome for hepatic metastasis.  Diffuse 
+abnormality in the right hepatic lobe is thought to not be from 
+infiltrative tumor but likely from edema, possibly related to 
+portal vein hypoperfusion as the right vein is narrowed 
+severely. 
+2.  No evidence of intra-abdominal metastasis 
+
+ 
+Brief Hospital Course:
+___ presents with RUQ abdominal pain and dyspnea on exertion.
+
+The patient had bee undergoing an evaluation for a right sided 
+liver mass when she presented with DOE.  The pt reported that 
+she has intermittent DOE and an increase in RUQ pain with 
+breathing.  She noted fatigue with activity more than usual. 
+She underwent a CT chest to eval for PE.  This was negative.  Pt 
+also had no sign of pneumonia or pulmonary edema.  The liver 
+mass was reviewed.  It is directly adjacent to the right 
+diaphragm.  It may be that the pt's symptoms are related to the 
+liver mass. 
+
+Pt's films were evaluated by the ERCP team.  Based on the 
+location of the mass, they recommended to fist pursue ___ guided 
+biopsy.  Ir was able to schedule the biopsy on the following 
+day.  Pt underwent liver biopsy without event and was discharged 
+to home.  SHe had a AFP and CAE levels drawn, but there were not 
+back yet at the time of the biopsy.  As the pt was ambulatory 
+and generally feeling well it appeared to be more sensible to 
+discharge the patient to home and have her follow up with her 
+PCP on the liver biopsy results and where the next steps may be. 
+ Pt was d/ced to home in stable condition. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Potassium Chloride 20 mEq PO DAILY 
+
+ 
+Discharge Medications:
+1. Potassium Chloride 20 mEq PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+liver mass
+
+ 
+Discharge Condition:
+alert, interactive, ambulatory
+
+ 
+Discharge Instructions:
+You were evaluated for your shortness of breath and the right 
+sided discomfort. 
+A CT of the chest did not show any signs of infection, clots in 
+the lungs, or fluid in the lungs
+The MRI shows that the liver mass is close to the diaphragm and 
+may be irritating it and causing this sensation. 
+You have a biopsy of the mass on ___ and 2 blood tests to 
+help determine what it is from: AFP and CEA. 
+You may return to home and continue to work with your physician 
+to determine what is causing your symptoms
+ 
+Followup Instructions:
+___

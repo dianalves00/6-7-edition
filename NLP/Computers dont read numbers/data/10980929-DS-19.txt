@@ -1,0 +1,360 @@
+ 
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L foot infection
+ 
+Major Surgical or Invasive Procedure:
+___: L foot I&D packed open
+___: L debridement and closure 
+
+ 
+History of Present Illness:
+This is a ___ with PMHx DM, well controlled with last HbA1c 6.2 
+in ___ who presents to the ED with Right foot 
+cellulitis. Patient states Symptoms began on ___, had bandage 
+on for a day, and when took off the bandage his foot worsened.  
+He saw his PCP, ___ who is in the Atrius system today who 
+took a culture of wound and sent the patient to ___ for 
+evaluation and admission for IV antibiotics. Patient previously 
+seen by Dr. ___ at ___, last seen >8 months 
+ago. Patient c/o fevers to 101 with advancing redness. Denies 
+chills, nausea, vomiting, shortness of breath, chest pain.
+
+ 
+Past Medical History:
+Diabetes Mellitus, Glaucoma
+
+ 
+Social History:
+___
+Family History:
+non contributory
+ 
+Physical Exam:
+Admission Physical Exam: 
+Gen: A+Ox3, NAD
+Abd: Soft, NT, ND
+CV: RRR
+Resp: No respiratory distress
+Focused lower extremity exam: DP and ___ pulses palpable. CRT <3 
+seconds to all digits. Protective sensation diminished b/l.  
+Ulcer plantar aspect Left foot with surrounding erythema and 
+edema to ___ toe, and entire forefoot and midfoot. probing 
+present deeply to bone and through foot to dorsal ulceration 
+with significant necrotic tissue. + purulence, malodor. No 
+crepitus. Ulcer to Right lateral foot with significant overlying 
+callus. Fibrous tissue base without surrounding signs of 
+infection. 
+
+Discharge Physical Exam: 
+Vitals : 98.6 167/83   78  18  98 RA
+I/O ___ yesterday 1275 this AM  
+General- Alert, oriented, no acute distress  
+HEENT- Sclera anicteric, MMM, oropharynx clear, PERRLA 
+Neck- supple, JVP not elevated, no LAD  
+Lungs- Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen- soft, non-tender, non-distended, active bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly  
+GU- foley draining very clear urine.  
+Ext- warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. Left foot wrapped in bandage with sensation and motor 
+function intact to toes.
+Neuro- CNs2-12 intact, motor function grossly normal  
+ 
+Pertinent Results:
+Admission Labs: 
+___ 05:15PM BLOOD WBC-14.4* RBC-4.10* Hgb-11.8* Hct-37.4* 
+MCV-91 MCH-28.8 MCHC-31.6* RDW-12.8 RDWSD-42.2 Plt ___
+___ 05:15PM BLOOD Neuts-82.9* Lymphs-6.5* Monos-9.9 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-11.92* AbsLymp-0.94* 
+AbsMono-1.42* AbsEos-0.00* AbsBaso-0.04
+___ 05:15PM BLOOD Plt ___
+___ 06:18PM BLOOD ___ PTT-33.2 ___
+___ 05:15PM BLOOD Glucose-296* UreaN-19 Creat-1.1 Na-135 
+K-4.6 Cl-100 HCO3-22 AnGap-18
+___ 05:15PM BLOOD ALT-12 AST-16 AlkPhos-55 TotBili-0.5
+___ 05:15PM BLOOD Albumin-4.0
+___ 05:15PM BLOOD CRP-146.9*
+___ 05:32PM BLOOD Lactate-1.6
+
+Imaging: 
+FINDINGS:  
+FXR:  
+AP, lateral, oblique views of the left foot provided.  There is 
+soft tissue swelling and irregularity at the lateral aspect of 
+the left forefoot at the level of the MTP joint.  Though no 
+definite signs of osteomyelitis.  A spur is seen at the base of 
+the fifth metatarsal and heel spurs are also present. Dorsal 
+soft tissue swelling along the left foot is noted without soft 
+tissue gas or radiopaque foreign body.  No fracture or 
+dislocation is seen. 
+IMPRESSION:  
+As above.  No signs of osteomyelitis or soft tissue gas. 
+
+CXR: 
+FINDINGS:  
+No focal consolidation, pleural effusion or pneumothorax 
+identified.  The size the cardiomediastinal silhouette is within 
+normal limits. 
+IMPRESSION:  
+No radiographic evidence of acute cardiopulmonary disease. 
+
+Discharge Labs:
+___ 07:15AM BLOOD WBC-8.4 RBC-3.31* Hgb-9.5* Hct-29.6* 
+MCV-89 MCH-28.7 MCHC-32.1 RDW-13.8 RDWSD-44.8 Plt ___
+___ 07:10AM BLOOD Glucose-153* UreaN-31* Creat-2.5* Na-140 
+K-4.2 Cl-105 HCO3-20* AnGap-19
+___ 03:45PM BLOOD Glucose-199* UreaN-32* Creat-2.4* Na-138 
+K-4.2 Cl-106 HCO3-19* AnGap-17
+___ 07:15AM BLOOD Glucose-167* UreaN-32* Creat-2.3* Na-140 
+K-4.0 Cl-108 HCO3-19* AnGap-17
+___ 07:15AM BLOOD Calcium-8.1* Phos-3.8 Mg-2.___ with PMHx DM, well controlled with last HbA1c 6.2 in ___ who presented to the ED with left foot cellulitis who 
+underwent two surgeries (incision and drainage, then debridement 
+and closre) who developed ___ after initiation vancomycin in 
+the setting of urinary retention and his second operation. A 
+foley was placed, he was given fluids, and his antibiotics were 
+changed to ciprofloxacin and metronidazole. He was discharged on 
+oral antibiotics with a foley after his creatinine stabilized 
+and began to trend downward.
+
+# Right foot cellulitis
+The patient presented to the emergency department and was 
+evaluated by the podiatric surgery team. The patient was found 
+to have a L foot infection and was admitted to the podiatric 
+surgery service. The patient was taken to the operating room on 
+___ for a L foot I&D and was packed open, which the patient 
+tolerated well. For full details of the procedure please see the 
+separately dictated operative report. The patient was taken from 
+the OR to the PACU in stable condition and after satisfactory 
+recovery from anesthesia was transferred to the floor. The 
+patient was taken to the operating room on ___ for a L foot 
+debridement and closure, which the patient tolerated well. For 
+full details of the procedure please see the separately dictated 
+operative report. The patient was taken from the OR to the PACU 
+in stable condition and after satisfactory recovery from 
+anesthesia was transferred to the floor. His vancomycin was 
+discontinued, in the setting of ___ and ___ was switched to 
+ciprofloxacin and metronidazole. 
+
+At the time of discharge the patient's pain was well controlled 
+with oral medications, incisions were clean/dry/intact, and the 
+patient was voiding/moving bowels spontaneously. The patient is 
+PWB to the heel in the left lower extremity. The patient will 
+follow up with Dr. ___ per routine. A thorough 
+discussion was had with the patient regarding the diagnosis and 
+expected post-discharge course including reasons to call the 
+office or return to the hospital, and all questions were 
+answered. The patient was also given written instructions 
+concerning precautionary instructions and the appropriate 
+follow-up care. The patient expressed readiness for discharge
+
+___ urinary retention
+On ___ his day of surgery his Cr trended up to 1.8 from baseline 
+of 0.9 and then to 2.2 on ___. Vanc trough on ___ was 32, FeNA 
+was 1.3%, and pt was fluid challenged with 2L on ___ with no 
+improvement in Cr. Lisinopril and Vanc held on ___. He was found 
+to have elevated PVR of 480 and was started on tamsulosin 
+without much effect and he continued to need catheterizations. A 
+foley was placed and his creatinine stabilized with continued 
+fluids. He remained stable for several days, though his 
+creatinine rose to 2.5 when fluids were discontinued on the 
+night of ___. He was again started on 200mL/hr ___ and his 
+creatinine stabilized at 2.4 and was downtrending at 2.3 on 
+discharge after 14 hours of only oral fluids. Likely 
+multifactorial with initial insult likely obstructive 
+nephropathy versus vancomycin toxicity followed by improvement 
+after Foley placement. ___ worsened again after large 
+post-obstructive diuresis and prerenal injury which improved 
+with IVF and oral fluids. He was discharged with his foley and 
+plans for close urology/PCP follow up.
+
+#DM II well controlled
+In the hospital he was switched to an insulin sliding scale from 
+his home oral regiment of glipizide and metformin. He needed 
+only minimal amounts to keep his blood sugar well controlled. In 
+the setting of antibiotic use and ___ he was discharged 
+without any medication. His PCP was aware and agreed with the 
+plan to follow up shortly after discharge to develop a new 
+regimen.
+
+TRANSITIONAL ISSUES
+===================
+[] He has been started on metronidazole and ciprofloxacin for 10 
+days to treat his cellulitis. Anticipated treatment completion 
+will be on ___.
+[] Mr. ___ developed ___ in the hospital which was 
+resolving, his electrolytes and creatinine will need to be 
+monitored until he reaches his baseline creatinine (1.0). Cr on 
+discharge was 2.3.
+[] He has been discharged with a foley catheter because of acute 
+urinary retention secondary to obstruction. This will need to be 
+discontinued with urology and he may need additional treatment 
+if retention persists. He has been started on tamsulosin to help 
+with voiding.
+[] Patient was hypertensive while in the hospital and needs to 
+be evaluated as an outpatient.
+[] Given his enlarged prostate, the patient may consider an 
+outpatient discussion with his PCP regarding PSA testing (0.6 in 
+___
+[] He had abscess drainage and debridement with closure 
+surgeries as an inpatient and has been discharged with 
+restrictions to walk on his heel in a surgical shoe. He will 
+need to see his surgeons to advance his level of activity.
+[] Will need dressing changes every other day.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN XR (Glucophage XR) 750 mg PO DAILY 
+2. GlipiZIDE 10 mg PO QAM and 5mg QPM 
+3. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID 
+4. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+5. Brimonidine Tartrate 0.15% Ophth. 1 DROP RIGHT EYE BID 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*20 Tablet Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*30 Tablet Refills:*0 
+3.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation  
+4.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth at bedtime Disp #*10 
+Capsule Refills:*0 
+5.  Brimonidine Tartrate 0.15% Ophth. 1 DROP RIGHT EYE BID  
+6.  Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP BOTH EYES BID  
+7.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+8.  Simvastatin 20 mg PO QPM  
+9. HELD- GlipiZIDE 10 mg PO QAM  This medication was held. Do 
+not restart GlipiZIDE until you have been seen by your primary 
+care physician and they have restarted this medication.
+10. HELD- MetFORMIN XR (Glucophage XR) 750 mg PO DAILY  This 
+medication was held. Do not restart MetFORMIN XR (Glucophage XR) 
+until you have been seen by your primary care physician and they 
+have restarted this medication.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+- Left Foot Infection
+- Acute Kidney Injury
+- Acute Urinary retention
+Secondary
+- Enlarged Prostate
+- Diabetes Mellitus
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+It was a pleasure taking care of you at ___. You were admitted 
+to the Podiatric Surgery service for treatment of your left foot 
+infection. You were taken to the OR twice during your 
+hospitalization for treatment of the infection. You were given 
+IV antibiotics while here and transitioned to oral medications.
+
+You developed a kidney injury likely caused by an obstruction to 
+urinary flow that was relieved by placing a foley catheter. You 
+received IV fluids and your kidney function has improved. You 
+should continue to use a foley catheter until you are able to 
+follow up with your urologist on ___. Please continue to 
+drink plenty of water as your urine output is still elevated.
+
+You are being discharged home with the following instructions: 
+
+ACTIVITY:
+There are restrictions on activity. Please remain weight bearing 
+to the heel on your L foot with a surgical shoe until your 
+follow up appointment. You should keep this site elevated when 
+ever possible (above the level of the heart!) 
+
+No driving until cleared by your Surgeon.
+PLEASE CALL US IMMEDIATELY FOR ANY OF THE FOLLOWING PROBLEMS:
+Redness in or drainage from your leg wound(s).
+New pain, numbness or discoloration of your foot or toes.
+Watch for signs and symptoms of infection. These are: a fever 
+greater than 101 degrees, chills, increased redness, or pus 
+draining from the incision site. If you experience any of these 
+or bleeding at the incision site, CALL THE DOCTOR.
+
+Exercise:
+Limit strenuous activity for 6 weeks.
+No heavy lifting greater than 20 pounds for the next ___ days.
+Try to keep leg elevated when able.
+
+BATHING/SHOWERING:
+You may shower immediately upon coming home, but you must keep 
+your dressing CLEAN, DRY and INTACT. You can use a shower bag 
+taped around your ankle/leg or hang your foot/leg outside of the 
+bathtub. 
+
+Avoid taking a tub bath, swimming, or soaking in a hot tub for 4 
+weeks after surgery or until cleared by your physician.
+
+MEDICATIONS:
+Unless told otherwise you should resume taking all of the 
+medications you were taking before surgery. You should also 
+complete your antibiotics as directed.
+Remember that narcotic pain meds can be constipating and you 
+should increase the fluid and bulk foods in your diet. (Check 
+with your physician if you have fluid restrictions.) If you feel 
+that you are constipated, do not strain at the toilet. You may 
+use over the counter Metamucil or Milk of Magnesia. Appetite 
+suppression may occur; this will improve with time. Eat small 
+balanced meals throughout the day. 
+
+DIET:
+Please drink plenty of water as you are still producing quite a 
+bit of urine. There are no other special restrictions on your 
+diet postoperatively. Poor appetite is not unusual for several 
+weeks and small, frequent meals may be preferred.
+
+FOLLOW-UP APPOINTMENT:
+Be sure to keep your medical appointments. 
+If a follow up appointment was not made prior to your discharge, 
+please call the office on the first working day after your 
+discharge from the hospital to schedule a follow-up visit. This 
+should be scheduled on the calendar for seven to fourteen days 
+after discharge. Normal office hours are ___ 
+through ___.
+PLEASE FEEL FREE TO CALL THE OFFICE WITH ANY OTHER CONCERNS OR 
+QUESTIONS THAT MIGHT ARISE.
+
+Please follow up with your primary care doctor regarding this 
+admission within 1 week as you were started on a new blood 
+pressure medication while in the hospital.
+
+It was a pleasure working with you, and happy birthday!
+
+Sincerely,
+
+Your ___ Healthcare Team
+ 
+Followup Instructions:
+___

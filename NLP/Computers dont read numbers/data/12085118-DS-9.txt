@@ -1,0 +1,268 @@
+ 
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Planned ERCP
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with the history of
+hemorrhagic CVA (___) s/p frontal craniotomy with residual
+left-sided paralysis and dysphagia on Eliquis (held since 
+___
+discharge), HTN, DMII, CKD presenting for ERCP for stent 
+removal.
+
+She recently presented to ___ in ___ with acute 
+cholangitis and gallstone pancreatitis. She underwent ERCP at
+___ with sphincterotomy and biliary stenting (___). She was 
+discharged on Augmentin with plans for elective cholecystectomy 
+in ___ weeks. 
+
+At the end of ___, she re-presented to ___ with worsening
+epigastric pain and was found to have acute cholecystitis. She
+was intubated for airway protection and transferred to ___. At
+___ she underwent percutaneous cholecystostomy with ___ and was
+treated with 14 days of antibiotics for multi-drug resistant
+Klebsiella. The ___ team was consulted for consideration of
+repeat ERCP, but it was determined to perform it as an 
+outpatient
+after the patient's clinical status improves. 
+
+Regarding her intubation (at ___ ___, it was challenging to
+extubate her at ___, and she was extubated and then
+re-intubated, thought to be due to upper airway narrowing and
+edema. Tracheostomy tube was placed on ___ and then she was
+weaned to trach mask. This hospitalization was also complicated
+by septic shock requiring pressor support, ___ on CKD and
+diarrhea. ___ was held since discharge given increased
+bleeding risk; also the indication for apixaban felt to be
+unclear.
+
+ERCP today:
+"stent pull, cholangiogram, sphincterotomy, removal of sludge,
+mild ooze s/p epi with hemostasis"
+
+On my exam, the patient is sleeping, arousable but doesn't
+respond to my questions. Her husband ___ at bedside says that
+she has denied any pain or discomfort. She had asked him about
+food and he told her she could eat tomorrow. 
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+- hemorrhagic CVA (___) c/b left-sided paralysis and dysphagia
+- HTN
+- CKD III (baseline Cr 1.8)
+- T2DM
+-ongoing use of
+apixaban 2.5 mg BID for ONLY the purpose of DVT prophylaxis at
+home
+ 
+Social History:
+___
+Family History:
+Not pertinent to presenting problem.
+ 
+Physical Exam:
+98.0
+PO 151 / 89 78 18 99 35%TM 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, eyes open
+ENT: Ears and nose without visible erythema, masses, or trauma.  
+
+CV: Heart regular, no murmur
+RESP: Lungs diminished throughout
+GI: Abdomen soft, non-distended, non-tender to palpation. Perc
+chole tube and drain is in place (clear yellowish fluid in bag),
+with PEG c/d/i.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple. 
+NEUROLOGIC:
+MENTATION: awake, but not alert, and not cooperative. RUE with
+full range of motion spontaneously. 
+
+ 
+Pertinent Results:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW RDWSD Plt 
+Ct 
+___ 05:11    6.9 3.48* 10.6* 32.6* 94 30.5 32.5 14.2 
+47.8* 326 
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+___ 05:11    911 26* 1.4* 1452 4.23 ___ 
+ENZYMES & BILIRUBIN ALT AST LD(___) CK(CPK) AlkPhos Amylase 
+TotBili DirBili 
+___ 05:11    83* 50*     175*   0.3  
+ 
+C diff PCR stool ___ check was negative
+
+ERCP on ___ 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with
+history of hemorrhagic CVA (___) s/p frontal craniotomy with
+residual left-sided paralysis and dysphagia, ongoing use of
+apixaban 2.5 mg BID for ONLY the purpose of DVT prophylaxis at
+home, HTN, CKD stage 3, ___ cholangitis s/p percutaneous
+cholecystostomy tube who was admitted for pre-planned ERCP.
+
+___ recent cholangitis s/p percutaneous cholecystostomy tube 
+
+#Biliary stent removal (had ___ ERCP that had stent 
+placement)
+-Had planned ___ ERCP for stent pull, cholangiogram,
+sphincterotomy, removal of sludge, though did have mild ooze s/p 
+epi
+with hemostasis.  Patient post procedure was hemodynamically 
+stable,
+comfortable-appearing, not in pain on day of discharge.
+- Patient tolerated TF post procedure.
+- She can resume her DVT prophylactic indicated apixaban at home 
+in 3 days from discharge.
+- No antibiotics needed per ERCP
+- Surgery team evaluated her on cholecystectomy timing. It is 
+acceptable to perform it while outpatient, or as inpatient but 
+the earliest would be possibly ___. The husband preferred to 
+take her home to see Dr. ___ in the clinic for a definite 
+procedure time instead.
+- The percutaneous cholecystostomy tube must remain in place
+until the future cholecystectomy.
+
+#Recent ___ ICU stay requiring intubation and failure to wean
+resulting in a percutaneous tracheostomy
+Placed during last hospitalization. 
+She will need follow up with thoracic surgery regarding 
+tracheostomy follow up.
+
+#History of hemorrhagic CVA with residual left hemiparesis and
+s/p PEG tube 
+-No change to her home TF regimen on discharge.
+-Continue home Keppra
+
+#HTN - continued home labetalol, amlodipine
+
+#CKD stage 3
+-Stable BUN/Cr trend while in the hospital.
+
+Greater than 30 minutes was spent on discharge planning and 
+coordination.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY 
+2. LOPERamide 2 mg PO QID:PRN diarrhea 
+3. amLODIPine 2.5 mg PO DAILY 
+4. Labetalol 400 mg PO TID 
+5. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+6. LevETIRAcetam 500 mg PO BID 
+7. polyvinyl alcohol 1.4 % ophthalmic (eye) QID:PRN 
+8. Apixaban 2.5 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  amLODIPine 2.5 mg PO DAILY  
+3.  Labetalol 400 mg PO TID  
+4.  Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY  
+5.  LevETIRAcetam 500 mg PO BID  
+6.  LOPERamide 2 mg PO QID:PRN diarrhea  
+7.  polyvinyl alcohol 1.4 % ophthalmic (eye) QID:PRN  
+8. HELD- Apixaban 2.5 mg PO BID  This medication was held. Do 
+not restart Apixaban until ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Biliary obstruction
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Instructions: Dear Ms. ___, 
+
+It was a pleasure to be a part of your care team at ___ 
+___.
+
+====================================
+Why did you come to the hospital? 
+====================================
+
+-You had a planned ERCP procedure on ___.
+
+====================================
+What happened at the hospital? 
+====================================
+
+-This procedure was successful in opening up your bile ducts 
+further (called sphincterotomy) to reduce the risk of blockages. 
+It also removed a temporary stent placed there in ___ 
+from the last ERCP you had.
+-Your gallbladder drain, the cholecystostomy tube, must remain 
+in place until you have a cholecystectomy procedure (surgery to 
+remove the entire gallbladder) in the future.
+-The surgery team saw you to evaluate when you can have the 
+gallbladder removed. It was determined that it is okay for you 
+to return home today and have this operation scheduled in the 
+clinic with Dr. ___ the near future.
+
+==================================================
+What needs to happen when you leave the hospital? 
+==================================================
+
+-You must call Dr. ___ if you do not hear from 
+anyone in their office by 12:00PM on ___, to schedule an 
+appointment to be seen within 1 week for the operation planning.
+
+-There were no changes to your medications that you came into 
+the hospital with. HOWEVER, you must not take any apixaban UNTIL 
+3 more days from now (___).
+
+-There is no new medication you need to take on discharge today.
+-Your tube feed directions are unchanged on discharge today.
+-Please notify our staff if you are running low on any dressing 
+supplies before you leave today.
+
+-If there are any questions about the ERCP procedure you had, 
+then at any time call ___ and ask the operator to page 
+the ERCP fellow on call (the pager number is ___ for ANY 
+procedure-related questions or problems. Specific signs to watch 
+for are abdominal pain or tenderness, new vomiting or nausea, 
+jaundice (yellow skin or eyes), black stools or red blood in 
+stool, or fever.
+
+It was a pleasure taking care of you during your stay! 
+
+Sincerely, 
+
+Your ___ team  
+
+ 
+Followup Instructions:
+___

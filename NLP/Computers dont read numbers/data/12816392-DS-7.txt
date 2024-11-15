@@ -1,0 +1,201 @@
+ 
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Vomiting, diarrhea
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with a history of CAD and MI ___ 
+s/p 3x stents, DM, and recent choledocholithiasis s/p stent 
+placement in ___ in ___ who presents with nausea and 
+vomiting.
+
+2 weeks ago the patient experienced abdominal pain while on 
+vacation in ___. He was found to have 2x CBD stones causing 
+cholestasis and underwent ERCP. One stone was extracted, but the 
+other could not be removed. A stent was therefore placed. The 
+patient felt fine for a about a week after the procedure. Then 
+about a week ago he started to experience vomiting and diarrhea. 
+This has persisted, and he is having several watery bowel 
+movements per day. His nausea is usually better in the morning, 
+but by the evening he is unable to keep food and drink down. He 
+last vomited last night, nonbilious and non-bloody. No blood in 
+stool, no melena. He has never experienced this before. He has 
+not tried anything specific to help with his symptoms.
+
+He initially presented to ___ where he was found to 
+have ___. RUQ showed persistent of the CBD stone, but his liver 
+enzymes and Tbili are within normal limits. His gallbladder was 
+previously surgically removed. IVF were administered with 
+improvement in his Cr by the time he came to our ED. He is 
+hemodynamically stable and afebrile.
+
+He reports eating chicken and shrimp at restaurants in ___. 
+His wife did not get sick. 
+
+ 
+Past Medical History:
+CAD, HTN, DM. Prior coronary artery stenting, cholecystectomy  
+ 
+Social History:
+___
+Family History:
+Father and brother had CAD and DM  
+ 
+Physical Exam:
+___: Alert and in no apparent distress
+EYES: Anicteric sclera
+ENT: Ears and nose without visible erythema, masses, or trauma.  
+
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended. No longer tender to palpation
+MSK: Neck supple, moves all extremities
+SKIN: No new rashes
+NEURO: Alert, oriented, speech fluent
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 06:51AM BLOOD WBC-8.4 RBC-4.00* Hgb-12.2* Hct-37.3* 
+MCV-93 MCH-30.5 MCHC-32.7 RDW-12.9 RDWSD-43.9 Plt ___
+___ 06:15AM BLOOD WBC-8.4 RBC-4.10* Hgb-12.6* Hct-37.1* 
+MCV-91 MCH-30.7 MCHC-34.0 RDW-12.4 RDWSD-41.4 Plt ___
+___ 06:51AM BLOOD Glucose-125* UreaN-39* Creat-1.9* Na-139 
+K-5.3 Cl-112* HCO3-15* AnGap-12
+___ 06:15AM BLOOD Glucose-111* UreaN-22* Creat-1.6* Na-141 
+K-4.8 Cl-107 HCO3-21* AnGap-13
+___ 06:15AM BLOOD Phos-2.6* Mg-1.8
+___ 06:15AM BLOOD ALT-10 AST-13 AlkPhos-81 TotBili-0.5
+___ 06:57AM BLOOD Lactate-0.9
+
+CT Abd:
+No acute abdominopelvic process within limitations of this non 
+IV contrast 
+study. 
+  
+
+ 
+Brief Hospital Course:
+___ male with a history of CAD and MI ___ s/p 3x stents, 
+DM, and recent choledocholithiasis s/p stent placement in ___ 
+in ___ who presents with nausea and vomiting.
+
+ACUTE/ACTIVE PROBLEMS:
+# Gastroenteritis: Presented with symptoms of vomiting and 
+diarrhea and no pain more consistent with viral or possibly 
+bacterial food-borne illness rather than a CBD problem. US at 
+___ showed persistence of the known stone but not 
+ductal dilatation, and his normal Tbili, alk phos, and 
+transaminases suggest the CBD stent is patent. He had risk 
+factors for food-borne illness from his vacation to ___. CT 
+with oral contrast did not reveal pathology, and C. diff testing 
+was negative. He was supported with IVF, and his symptoms 
+improved to the point where he was able to tolerate food and 
+liquid. Return precautions were discussed, and he will follow up 
+with his PCP. Stenting for choledocholithiasis was performed in 
+___ 2 weeks ago, so he will need repeat ERCP for stent 
+removal in 4 weeks. He wanted to pursue this closer to home, but 
+we provided our Advanced Endoscopy team's contact info.
+
+___ on likely CKD: Initial Cr was 1.9, likely prerenal from 
+vomiting and diarrhea. IVF were administered, and his Cr 
+plateaued at 1.6. He was making urine. This may be his baseline 
+kidney function. 
+- Hold home lisinopril, recheck BMP with PCP before restarting
+
+CHRONIC/STABLE PROBLEMS:
+# CAD: Continued home simvastatin
+- Unclear why he is not on ASA for secondary prevention
+- Hold home Lisinopril 
+
+# HTN: Continued home amlodipine
+
+#GERD: Continue home protonix
+
+#BPH: Continue home Flomax
+
+***Transitional Issues***
+[ ] Holding home lisinopril, recheck BMP (Cr) at follow up 
+appointment
+[ ] Discuss ASA for secondary prevention
+[ ] Repeat ERCP in 4 weeks for stent removal (original performed 
+in ___
+
+Mr. ___ was seen and examined on the day of discharge and is 
+clinically stable for discharge today. The total time spent 
+today on discharge planning, counseling and coordination of care 
+was greater than 30 minutes.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pantoprazole 40 mg PO Q24H 
+2. amLODIPine 10 mg PO DAILY 
+3. Donepezil 10 mg PO QHS 
+4. Lisinopril 20 mg PO DAILY 
+5. LORazepam 1 mg PO Q12H:PRN anxiety 
+6. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+7. Tamsulosin 0.4 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Ondansetron ODT 8 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+
+RX *ondansetron 8 mg 1 tablet(s) by mouth every 8 hours as 
+needed for nausea Disp #*12 Tablet Refills:*0 
+2.  amLODIPine 10 mg PO DAILY  
+3.  Donepezil 10 mg PO QHS  
+4.  LORazepam 1 mg PO Q12H:PRN anxiety  
+5.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+6.  Pantoprazole 40 mg PO Q24H  
+7.  Tamsulosin 0.4 mg PO QHS  
+8. HELD- Lisinopril 20 mg PO DAILY  This medication was held. Do 
+not restart Lisinopril until your PCP says it's okay
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Gastroenteritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to ___ with vomiting and diarrhea. This has 
+most likely been from a condition called "gastroenteritis" 
+caused by a virus or bacteria making the gut angry. We did not 
+see signs of problems with your bile duct stent or other 
+problems in your gut using ultrasound and a CT scan to take 
+pictures. Your symptoms may take a few more days to completely 
+resolve. Stick to bland foods for now to avoid making the 
+diarrhea worse.
+
+Please work with your PCP to set up an ERCP for stent removal in 
+4 weeks close to home. Otherwise, out team here would be happy 
+to perform the procedure if you call ___. 
+ 
+Followup Instructions:
+___

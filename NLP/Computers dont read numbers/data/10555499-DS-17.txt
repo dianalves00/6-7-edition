@@ -1,0 +1,387 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+stroke
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Stroke
+  
+HPI: ___ is an ___ year-old woman with PMH of Alzheimer's
+disease, Afib, CAD, HTN and DM who presented with left sided
+weakness and eyes deviation to the right side. Last night 
+patient
+presented transient left sided weakness. The home assistant
+contact the doctor who advice for neuro checks. This morning
+patient was last seen in her usual state of health at 11am, and
+when she was seen again around 4:45pm, she was noted to have
+right eye deviation and left sided hemiparesis. 911 was 
+contacted
+and patient arrived to ___ in code stroke.
+  
+ROS:  
+No history for recent fever or chills. Denied cough, shortness 
+of
+breath. Denied chest pain or tightness, palpitations. Denied
+nausea, vomiting, diarrhea, constipation or abdominal pain. No
+recent change in bowel or bladder habits. No dysuria. 
+
+ 
+Past Medical History:
+1. Alzheimer's Disease  
+2. Coronary artery disease  
+3. Hypertension  
+4. Diabetes  
+5. Atrial fibrillation  
+ 
+Social History:
+___
+Family History:
+None stated
+ 
+Physical Exam:
+General: Awake, NAD.  
+HEENT: mucous membrane is moist  
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity  
+
+Pulmonary: Lungs CTA bilaterally without R/R/W  
+Cardiac: irregular rhythm, nl. S1S2, no M/R/G noted  
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.  
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses
+bilaterally.  
+Neurologic:  
+-Mental Status: Dysarthric speech. Able to follow both midline
+and appendicular commands. Clear evidence of apraxia and 
+neglect.
+
+CN  
+I: not tested  
+II,III: left visual field cut, pupils 4mm->2mm bilaterally, 
+III,IV,VI: eyes deviation to the right side, not crossing
+midline, no ptosis. No nystagmus  
+V: not tested
+VII: left facial weakness
+VIII: mot tested
+IX,X: palate elevates symmetrically, uvula midline  
+XI: SCM/trapezeii ___ bilaterally  
+XII: tongue protrudes midline, no dysarthria  
+Motor: mild increased tone in the left arm. Dense left
+hemiplegia.  
+Delt Bi Tri WE FE Grip IO  
+C5 C6 C7 C6 C7 C8/T1 T1  
+L 0 0 0 0 0 0 0  
+R ___ 5  
+ 
+IP Quad ___ PF  
+L2 L3 L4-S1 L4 L5 S1/S2  
+L ___  
+R ___  
+
+-Sensory: No clear deficits to light touch. 
+ 
+-Gait: not tested.  
+
+ 
+Pertinent Results:
+___ 05:35AM BLOOD WBC-7.8 RBC-4.20 Hgb-12.3 Hct-37.8 MCV-90 
+MCH-29.2 MCHC-32.4 RDW-16.9* Plt ___
+___ 05:30AM BLOOD WBC-10.2 RBC-4.74 Hgb-13.6 Hct-42.0 
+MCV-89 MCH-28.6 MCHC-32.3 RDW-16.3* Plt ___
+___ 09:00AM BLOOD Neuts-72.9* ___ Monos-4.5 Eos-2.3 
+Baso-0.4
+___ 05:35AM BLOOD Plt ___
+___ 05:35AM BLOOD ___ PTT-61.8* ___
+___ 05:35AM BLOOD Glucose-120* UreaN-13 Creat-0.8 Na-141 
+K-3.4 Cl-108 HCO3-22 AnGap-14
+___ 05:30AM BLOOD Glucose-123* UreaN-12 Creat-0.7 Na-141 
+K-3.2* Cl-104 HCO3-24 AnGap-16
+___ 09:00AM BLOOD ALT-21 AST-34 CK(CPK)-326* AlkPhos-88 
+TotBili-0.4
+___ 05:30PM BLOOD cTropnT-<0.01
+___ 05:35AM BLOOD Calcium-8.4 Mg-1.9
+___ 09:00AM BLOOD %HbA1c-6.6* eAG-143*
+___ 09:00AM BLOOD Triglyc-87 HDL-67 CHOL/HD-2.6 LDLcalc-92
+___ 09:00AM BLOOD TSH-2.6
+
+LAST INR 1.2
+
+Imaging:
+
+CTA/P:
+CTA OF THE HEAD AND NECK: There is abrupt cutoff of the mid M1 
+segment of the 
+right middle cerebral artery. Distal branches are decreased in 
+number but are 
+still seen, and may reflect some pial collateral flow. In 
+addition there is a 
+filling defect at the takeoff of the right posterior 
+communicating artery, but 
+the posterior communicating artery remains well opacified. 
+  
+There is atherosclerotic calcification with small ulcerating 
+plaques along the 
+aortic arch. The great vessels are free of hemodynamically 
+significant 
+stenosis as they arise off of the arch. The origin of the right 
+common 
+carotid artery and the course of the right common carotid artery 
+are 
+unremarkable without hemodynamically significant stenosis, 
+occlusion, 
+aneurysm. At the level of the right carotid bulb there is some 
+atherosclerotic calcification that does not appear to be 
+hemodynamically 
+significant. The right internal carotid artery is normal in 
+caliber and 
+demonstrates no hemodynamically significant stenosis, occlusion 
+or aneurysm.  
+There is calcification of the cavernous right internal carotid 
+artery. 
+  
+The left common and internal carotid arteries are normal in 
+caliber without 
+hemodynamically significant stenosis, occlusion or aneurysm. 
+There is mild 
+atherosclerotic calcification at the left carotid bulb. 
+  
+The left vertebral artery is normal in caliber throughout its 
+course without 
+hemodynamically significant stenosis, occlusion, or aneurysm. 
+The right 
+vertebral artery also appears unremarkable. 
+  
+Apart from the thrombus described above, the remainder of the 
+intracranial 
+vessels of the anterior and the posterior circulation are normal 
+in caliber 
+and opacify normally and are free of hemodynamically significant 
+stenosis or 
+aneurysm. 
+  
+There is no cervical lymphadenopathy. There may be a small 
+subcentimeter 
+thyroid hypodensity in the right lobe, in an area which is 
+somewhat obscured 
+by artifacts. The salivary gland appears unremarkable. The 
+nasopharynx, 
+oropharynx, hypopharynx and larynx are symmetric. Within the 
+lung apices 
+along the right major fissure there is a 7-mm nodular opacity 
+(5:31).  
+Incompletely imaged are median sternotomy wires and clips in the 
+upper 
+mediastinum likely from prior CABG. The patient is edentulous. 
+The paranasal 
+sinuses are clear. There are bilateral frontal sinus osteomas. 
+  
+In the right breast there is a 2.2 x 1.6-cm mass. There may be 
+associated 
+skin thickening. There appears to be an enlarged axillary lymph 
+node which is 
+incompletely imaged but at least measures 2.3 x 1.6 cm. 
+  
+CT PERFUSION: There is an increase in the mean transit time in 
+the area of 
+the right middle cerebral artery territory. The cerebral blood 
+volume appears 
+more focally low along the anterior sylvian fissure and 
+anterolateral right 
+frontal lobe, and the areas of new hypodensity seen on CT. This 
+suggests a 
+large penumbra around an infarct core. 
+  
+At the bifurcation of the left middle cerebral artery there 
+appears to be an 
+appearance of an outpouching on the coronal (601b:18), but on 
+the axials there 
+are some tortuous vessels in this region, which may explain the 
+finding. 
+  
+IMPRESSION: 
+1. Abrupt cutoff of the right middle cerebral artery, mid M1 
+segment and 
+non-occlusive thrombus at the origin of the right posterior 
+communicating 
+artery. Associated ischemia involving the right MCA territory 
+diffusely with 
+infarcts in the more anterior right MCA distribution as 
+described above, 
+suggesting a large penumbra. 
+2. Spiculated right breast mass with one partially imaged 
+enlarged right 
+axillary lymph node. Correlation with mammogram and further 
+workup is needed, 
+if not already performed elsewhere. 
+3. Atherosclerotic change of the cervical vessels as described 
+above without 
+hemodynamically significant stenosis. 
+4. Extensive underlying small vessel ischemic disease and 
+chronic infarct 
+involving the right basal ganglia. Stable enlarged ventricles 
+likely reflect 
+atrophy. 
+
+ 
+Brief Hospital Course:
+The patient was admitted to the neurology service as a "code 
+stroke" for evaluation of left-sided weakness. On examination, 
+pulse was irregular.  She had a right hemispheric syndrome with 
+eye deviation to the right and complete right hemiplegia.  Her 
+Coumadin was recently discontinued and that she was last seen in 
+her USOH at ~ 11:00 AM, i.e. > 6 hours and she appear by history 
+to have had an episodes of transient weakness the night before.  
+A stat head CT, CTP, and CTA showed an old right frontal 
+subcortical hypo density and a new cortical area of hypodensity 
+(not seen in ___ in its vicinity in right MCA territory on 
+plain CT and a
+hyperdense right MCA sign. CTA showed embolic cutoff of the 
+right MCA. CTP showed a large right hemispheric area of 
+prolonged MTT and an area of decreased blood volume in the right 
+frontal region corresponding to the CT hypodensity.  She was 
+presumed to have an embolic infarct secondary to her a.fib. She 
+was not a candidate for tPA.
+
+She was admitted to the neuro ICU for close observation.  While 
+in the unit she was started on a heparin drip for her a.fib.  
+She also initially failed her swallow evaluation and an NGT was 
+placed and she was started on tube feeds.  There was discussion 
+about goal of care and it was determined that the patient was 
+DNR/ DNI and would not want a PEG feeding tube even if she 
+required it for additional nutrition.  The patient remained 
+stable in the ICU and was transferred out to the floor.
+
+-Neuro
+-On the floor the patient did well and passed her speech and 
+swallow evaluation.  She was able to take meds by mouth.  She 
+was started on Coumadin and her heparin drip was replaced with 
+Lovenox injections.  She will need to continue on the Lovenox 
+until she reaches an therapeutic INR of ___
+-she will follow up with Dr. ___ as an outpatient.
+
+ID
+- on admission the patient had a UA showing 50 WBC and she was 
+placed on ceftriaxone for a total of 6 days.  she grew out 
+e.coli and which was sensitive to Cipro
+
+CV
+- the patient will remain on her atenolol for rate control, she 
+was not restarted back on her diltiazem but this can be added 
+back if she is tachycardic and she needs increased rate control
+- her BP were controlled with atenolol but this can be titrate 
+up if needed
+- her Lasix (which she got for ___ edema was held) but this may 
+be restarted if she develops ___ edema.
+
+___
+- the patient was seen by ___, she may continue to work with ___ 
+as she tolerates
+
+ 
+Medications on Admission:
+1. Diltiazem HCl 180 mg Capsule, Sustained Release PO DAILY
+(Daily).  
+2. Nystatin 100,000 unit/g Powder Sig: One (1) application 
+Topical once a day.  
+3. Aspirin 81 mg Tablet PO DAILY 
+4. Senna 8.6 mg Tablet PO BID 
+5. Calcium Carbonate 500 mg Tablet PO TID 
+6. Actos 15 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Ditropan XL 5 mg Tab,Sust Rel Osmotic Push 24hr Sig: ___ 
+Tab,Sust Rel Osmotic Push 24hr PO twice a day.  
+8. Memantine 5 mg Tablet Sig: One (1) Tablet PO bid ().  
+9. Remeron 15 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+10. Wellbutrin SR 100 mg Tablet Sustained Release PO once a day. 
+
+
+11. Simvastatin 20 mg Tablet PO once a day.  
+12. Atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+13. Furosemide 20 mg Tablet Sig: One (1) Tablet PO ___, 
+___.  
+14. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a 
+
+week.  
+15. Tylenol ___ mg Tablet Sig: ___ Tablets PO four times a day 
+as needed for pain. 
+
+ 
+Discharge Medications:
+1. Enoxaparin 80 mg/0.8 mL Syringe Sig: One (1)  Subcutaneous 
+Q12 (): 70mg SC q12 until INR is between ___ on coumadin.  
+2. Famotidine 20 mg Tablet Sig: One (1) Tablet PO Q12H (every 12 
+hours).  
+3. Warfarin 5 mg Tablet Sig: One (1) Tablet PO Once Daily at 4 
+___: for INR of ___.  
+4. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed for pain, fever.  
+6. Bupropion HCl 100 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+7. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+8. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+11. Vitamin D 50,000 unit Capsule Sig: One (1) Capsule PO once a 
+week.  
+12. Memantine 5 mg Tablet Sig: One (1) Tablet PO twice a day.  
+13. Actos 15 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Right MCA infarct
+
+ 
+Discharge Condition:
+awake, perseverative, inattentive, alertness waxes and wanes.  
+follow simple midline and appendicular commands, cannot do 2 
+step or more complex commands
+CN: left field cut, eyes move in all directions although prefer 
+right, other nerves intact
+Motor: increased tone on the left, she has dense left 
+hemiparesis
+___: no obvious deficits
+
+ 
+Discharge Instructions:
+You were admitted with left sided weakness and eye deviation to 
+the right.  You were ound to have a sizable right MCA stroke.  
+You were on coumadin for your a.fib but had a subtherapeutic 
+level.  You had a brief say in the ICU.  You had an feding tube 
+placed in your nose initially.  You were cleared by speech and 
+swallow to have a dysphagia diet.  We discussed options with our 
+family should you not take in enough food but they have decided 
+not to pursue a PEG feeding tube.  You are being discharged back 
+to your skilled nursing facility
+
+Please take all medications as prescribed. Please make all 
+follow up appointments.  If you have any worsening of your 
+symptoms or any of the symptoms listed below call your doctor or 
+return to the nearest emergency room.
+ 
+Followup Instructions:
+___

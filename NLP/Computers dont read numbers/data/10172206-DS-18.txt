@@ -1,0 +1,554 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cardiac arrest
+ 
+Major Surgical or Invasive Procedure:
+s/p ICD generator change ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yoM with hx of DM2, COPD, non-ischemic 
+cardiomyopathy with EF ___ s/p dual chamber ICD, CAD s/p MI 
+___ ___ and 3V CABG (LIMA-LAD and separate SVGs to fist diag and 
+right PLVB), and hx of cocaine use who presented to ___ 
+___ ___ the setting of multiple ICD shocks.  
+
+___ the ___, he was noted to be ___ a wide complex 
+tachycardia but was initially awake and was receiving shocks 
+from his device. It is unclear when he became pulseless but he 
+received CPR intermittently (reportedly 8 minutes) during which 
+time he was receiving internal shocks from his device ___ per 
+report) as well as multiple external shocks ___ per report) 
+and he was intubated. He was also reportedly treated for "PEA 
+arrest" during this time as well as lidocaine (~300 mg) and was 
+then started on amiodarone gtt at 1 mg/min and lidocaine gtt at 
+2 mg/min.  He also received epi x 5. He was given rectal aspirin 
+and received a bolus of heparin, and 5L IVF. Labs at ___ 
+___ notable for CK 124, Cr 1.5, Hct 49, pts 158, WBC 11.1.  
+
+
+He was medflighted to ___ during which time he had additional 
+wide complex tachycardia during transport and became pulseless 
+requiring CPR. Since arrival to ___ he has had no further wide 
+complex tachycardia. He has remained hemodynamically stable with 
+sBP 100-110s since transport but has been persistently hypoxic 
+despite high PEEP (up to 20) and 100% FiO2. Bedside TTE upon 
+arrival to ___ demonstrated an EF of ___. Pacemaker 
+interrogated and showed clsoe to 60 shocks beginning 3 days ago 
+(2 shocks 3 days ago, an episode of VT that he was ATP'd out of, 
+followed by multiple shocks over the last day). His CXR showed 
+patchy infiltrates bilaterally and cardiomegaly.  CT head was 
+negative for acute process. Urine tox screen was positive for 
+cocaine. Labs notable for WBC of 14.2, pts 118, Cr 1.8, Ca 7.3, 
+TnT 0.47, Lactate 6.2, BNP ___.  
+
+REVIEW OF SYSTEMS:
+Unable to obtain
+ 
+Past Medical History:
+- Non-ischemic cardiomyopathy with EF ___ s/p dual chamber 
+ICD
+- CAD s/p MI ___ ___ and 3V CABG (LIMA-LAD and separate SVGs to 
+fist diag and right PLVB)
+- IDDM
+- COPD
+- Chronic Back Pain
+- CKD ___ Bright's disease
+- Anxiety
+- HLD
+ 
+Social History:
+___
+Family History:
+Early CAD ___ brother, father
+ 
+Physical ___:
+Admission exam:
+===============
+General: Intubated, sedated
+HEENT: Pupils 1-2mm minimally reactive
+Neck: ET tube ___ place, no masses
+CV: RRR, difficult to appreciate
+Lungs: Rhonchorous
+Abdomen: Soft
+GU: Foley ___ place
+Ext: Cool to touch, dopplerable DP 2+ (only appreciate L radial 
+pulse), no edema
+Neuro: Moving L extremity purposelessly, withdrew to pain for 
+A-line placement
+
+Discharge exam:
+===============
+VS: 97.6, 115-125/71, 52-70, 20, 100% RA
+I/O's: 24hr: not recorded, 8hr: 180-975
+Wt: 81.1 (80.5 ___
+
+Neuro: Oriented to location but not to year (___), poor short 
+term memory.  Follows commands. MAE against gravity  (L > R) . 
+___ strength LUE, LLE, RLE. 4+ strength RUE.
+General: Awake, alert, interactive. 
+HEENT: PERRL 
+Neck: supple, no JVD
+CV: RRR S1S2, no murmurs
+Lungs: CTAB
+Abdomen: Soft, nontender, nondistended. Bowel sounds present
+Ext: Warm, no edema. DP 2+, black eschars on great toes 
+bilaterally
+Skin: Blanching erythematous patch with mild scale over right 
+scapula.  Erythematous, lichenified patch on left elbow and 
+bilateral calfs.
+ 
+Pertinent Results:
+Admission:
+===============
+___ 03:51AM BLOOD WBC-14.7* RBC-5.12 Hgb-15.4 Hct-49.0 
+MCV-96 MCH-30.0 MCHC-31.4 RDW-13.0 Plt ___
+___ 08:55AM BLOOD Neuts-86.2* Lymphs-6.4* Monos-6.7 Eos-0.2 
+Baso-0.6
+___ 03:51AM BLOOD ___ PTT-105.6* ___
+___ 08:55AM BLOOD Glucose-388* UreaN-24* Creat-2.0* Na-136 
+K-5.3* Cl-106 HCO3-20* AnGap-15
+___ 08:55AM BLOOD ALT-127* AST-231* CK(CPK)-633* AlkPhos-66 
+TotBili-0.7
+___ 03:51AM BLOOD proBNP-___*
+___ 03:51AM BLOOD cTropnT-0.47*
+___ 03:51AM BLOOD Calcium-7.3* Phos-4.8* Mg-2.1
+___ 03:51AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 06:28AM BLOOD Type-ART Temp-36.3 Rates-/14 PEEP-12 
+FiO2-100 pO2-112* pCO2-69* pH-7.11* calTCO2-23 Base XS--9 
+AADO2-543 REQ O2-89 Intubat-INTUBATED Vent-CONTROLLED
+
+Pertinent labs:
+===============
+___ 03:51AM BLOOD proBNP-___*
+___ 03:51AM BLOOD cTropnT-0.47*
+___ 08:55AM BLOOD CK-MB-58* MB Indx-9.2* cTropnT-0.91*
+___ 08:58PM BLOOD CK-MB-72* MB Indx-7.1* cTropnT-1.27*
+___ 04:09AM BLOOD CK-MB-13* MB Indx-1.1 cTropnT-1.81*
+
+MICROBIOLOGY:
+Blood cultures ___ and ___ negative
+Urine culture ___ negative
+Sputum culture ___
+GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      4+   (>10 per 1000X FIELD):   MULTIPLE ORGANISMS 
+CONSISTENT WITH     
+                                    OROPHARYNGEAL FLORA. 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      MODERATE GROWTH Commensal Respiratory Flora. 
+      STREPTOCOCCUS PNEUMONIAE.    MODERATE GROWTH. 
+         Note: For treatment of meningitis, penicillin G MIC 
+breakpoints
+         are <=0.06 ug/ml (S) and >=0.12 ug/ml (R) Note: For 
+treatment of
+         meningitis, ceftriaxone MIC breakpoints are <=0.5 ug/ml 
+(S), 1.0
+         ug/ml (I), and >=2.0 ug/ml (R) For treatment with oral 
+penicillin,
+         the MIC break points are <=0.06 ug/ml (S), 0.12-1.0 (I) 
+and >=2
+         ug/ml (R).  CEFTRIAXONE (0.25 MCG/ML). 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         Rifampin should not be used alone for therapy. 
+      HAEMOPHILUS INFLUENZAE, BETA-LACTAMASE NEGATIVE.    
+MODERATE GROWTH. 
+         Beta-lactamse negative: presumptively sensitive to 
+ampicillin. 
+         Confirmation should be requested ___ cases of treatment 
+failure ___
+         life-threatening infections.. 
+      MORAXELLA CATARRHALIS.    MODERATE GROWTH. 
+
+Sputum culture ___
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      4+   (>10 per 1000X FIELD):   PLEOMORPHIC GRAM NEGATIVE 
+ROD(S). 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND ___ SHORT 
+CHAINS. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE DIPLOCOCCI. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      Commensal Respiratory Flora Absent. 
+      STREPTOCOCCUS PNEUMONIAE.    MODERATE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # 38___ ON 
+___. 
+      HAEMOPHILUS INFLUENZAE, BETA-LACTAMASE NEGATIVE.    
+MODERATE GROWTH. 
+         Beta-lactamse negative: presumptively sensitive to 
+ampicillin. 
+         Confirmation should be requested ___ cases of treatment 
+failure ___
+         life-threatening infections.. 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         SENSITIVITIES PERFORMED ON CULTURE # ___ ON 
+___. 
+      MORAXELLA CATARRHALIS.    MODERATE GROWTH. 
+
+Discharge:
+===============
+___ 06:46AM BLOOD WBC-6.8 RBC-4.90 Hgb-14.2 Hct-44.4 MCV-91 
+MCH-29.0 MCHC-31.9 RDW-13.3 Plt ___
+___ 06:46AM BLOOD Plt ___
+___ 06:46AM BLOOD ___
+___ 06:46AM BLOOD Glucose-146* UreaN-24* Creat-1.4* Na-134 
+K-5.2* Cl-97 HCO3-28 AnGap-14
+___ 06:46AM BLOOD Calcium-9.5 Phos-3.5 Mg-1.9
+
+Imaging:
+===============
+___ Echo
+Conclusions   
+ The left atrial volume is severely increased. There is mild 
+symmetric left ventricular hypertrophy. The left ventricular 
+cavity is moderately dilated. There is severe regional left 
+ventricular systolic dysfunction with akinesis of the inferior 
+wall and distal ___ of the septum and inferolateral walls, 
+and distal anterior and lateral walls. The apex is aneurysmal 
+and dyskinetic. The remaining segments are hypokinetic (LVEF 
+20%). Left ventricular cardiac index is depressed 
+(<2.0L/min/m2). No masses or thrombi are seen ___ the left 
+ventricle. Doppler parameters are most consistent with Grade 
+III/IV (severe) left ventricular diastolic dysfunction. Right 
+ventricular chamber size is normal. with mild global free wall 
+hypokinesis. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The mitral valve leaflets are mildly 
+thickened. Mild to moderate (___) mitral regurgitation is seen. 
+There is borderline pulmonary artery systolic hypertension. 
+There is no pericardial effusion. 
+
+ IMPRESSION: Symmetric left ventricular hypertrophy with marked 
+cavity dilation and extensive regional systolic dysfunction c/w 
+multivessel CAD or other diffuse process. Moderate to severe 
+mitral regurgitation. 
+
+ CLINICAL IMPLICATIONS: 
+ The left ventricular ejection fraction is <40%, a threshold for 
+which the patient may benefit from a beta blocker and an ACE 
+inhibitor or ___.  
+
+___ CXR
+IMPRESSION:  Moderate to severe cardiomegaly. 
+
+___ CT head
+IMPRESSION:  No acute intracranial process.
+
+___ EEG:
+IMPRESSION: This is an abnormal 24 hour video EEG recording due 
+to the very low voltage theta frequency background slowing seen 
+___ the initial portion of the recording which improves as the 
+study progresses and becomes more continuous by the evening, 
+reaching up to ___ Hz with bursts of generalized ___ Hz delta 
+frequency slowing. These findings are consistent with a severe 
+encephalopathy which is etiologically non-specific. No 
+epileptiform discharges or electrographic seizures are seen. 
+
+___ CT head
+IMPRESSION: 
+1.  Interval development of hypodensities ___ the left occipital 
+and parietal lobes ___ a watershed distribution, concerning for 
+infarction. 
+2.  Hypodensities ___ the left medial temporal lobe may represent 
+partial 
+volume averaging with the choroidal fissure, or areas of 
+infarction.  If they are areas of infarction, they would be 
+usual for a watershed distribution. 
+3.  No hemorrhage is identified. 
+
+___ CXR 
+Moderate-to-severe cardiomegaly is stable.  Pacer leads are ___ a 
+standard 
+position.  Right IJ catheter tip is ___ the upper right atrium.  
+There is no pneumothorax.  There is mild vascular congestion.  
+There are no large pleural effusions.  Sternal wires are 
+aligned. 
+
+___ Echo
+The left atrium is moderately dilated. No atrial septal defect 
+is seen by 2D or color Doppler. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity is 
+moderately dilated. There is moderate to severe regional left 
+ventricular systolic dysfunction with akinesis of the 
+inferior/infero-lateral, distal/apical segments. No masses or 
+thrombi are seen ___ the left ventricle. There is no ventricular 
+septal defect. with depressed free wall contractility. The 
+ascending aorta is mildly dilated. The aortic valve is not well 
+seen. There is no aortic valve stenosis. No aortic regurgitation 
+is seen. The mitral valve leaflets are mildly thickened. An 
+eccentric, posteriorly directed jet of moderate (2+) mitral 
+regurgitation is seen. The tricuspid valve leaflets are mildly 
+thickened. There is mild pulmonary artery systolic hypertension. 
+There is no pericardial effusion. 
+
+Compared with the prior study (images reviewed) of ___, 
+the LVEF has improved (___)
+
+___  CTA Head and neck
+IMPRESSION: 
+Sequela from old left parietal occipital infarcts and 
+age-related involutional with chronic microangiopathic changes 
+without acute hemorrhage or mass effect. 
+  
+Moderate narrowing of the proximal left cavernous ICA just 
+beyond it's exit of the petrous segment. Otherwise unremarkable 
+CTA of the head and neck without evidence of significant 
+stenosis, aneurysm, pseudoaneurysm, or dissection.   
+  
+Enlarged main pulmonary artery which may reflect pulmonary 
+hypertension.   
+  
+Asymmetric soft tissue fullness about the right piriform sinus 
+to above the true vocal cords; further evaluation as clinically 
+warranted. 
+
+ 
+Brief Hospital Course:
+___ with DM2, COPD, non-ischemic cardiomyopathy with EF ___ 
+s/p dual chamber ICD, CAD s/p MI ___ ___ and 3V CABG (LIMA-LAD 
+and separate SVGs to fist diag and right PLVB), and hx of 
+cocaine use who presents s/p cardiac arrest ___ the setting of VT 
+storm, now found to have L occipital/parietal watershed infarct. 
+
+
+# Cardiac arrest: Patient presented to OSH with VT storm s/p 
+close to 60 total ICD shocks, multiple rounds of CPR with 
+unclear down/pulseless time. Differential for VT could be 
+cocaine abuse, hypokalemia, new or worsened heart failure, and 
+acute myocardial ischemia. Initial antiarrythmics included IV 
+Amiodarone and IV Lidocaine. Per EP recommendations, lidocaine 
+was weaned off and amiodarone was continued. Patient treated 
+with cooling protocol given comatose state after ROSC. He was 
+successfully extubated on ___ and was switched to PO Amiodarone, 
+now on maintenance dose. Metoprolol and Lisinopril were titrated 
+during admission. He had a few episodes of NSVT but no further 
+significant arrhythmias with optimization of fluid and 
+electrolyte status. He underwent an ICD generator change on 
+___. He was started on Vancomycin IV s/p generator change for a 
+10d course and transitioned to PO Clindamycin given concern for 
+possible rash/itchiness - pt w/ hx of MRSA. Will need follow up 
+with EP for consideration of VT ablation. 
+
+# Heart failure: Patient has severe biventricular heart failure 
+(EF ___ with BiV/ICD. He is on medical management with 
+lisinopril and metoprolol. Following aggressive diuresis of 
+pulmonary edema, he is being continued on PO lasix 20mg daily. 
+Continued on aspirin and statin for history of CAD s/p MI and 
+now stroke. Repeat TTE ___ 3 months to eval ventricular function.
+
+# Hypoxemic respiratory failure: ABG 7.___/112/23 on 
+admission. Patient with bilateral infiltrates on CXR with P:F 
+92. Likely due to pulmonary edema and significantly improved 
+with aggressive diuresis. There was an interval concern for 
+pneumonia and he was treated on a 7d course of Vancomycin and 
+Cefepime. Sputum cultures grew only commensal flora. He was 
+successfully extubated on ___ and had no further respiratory 
+issues. 
+
+#Stroke/AMS: With weaning of sedation, patient was found to have 
+preferential movement of left side without significant right 
+side movement. Found to have interval development of L 
+occipital/parietal watershed infarction on CT (___). Deficits 
+predominantly of right side neglect and NOT right hemiparesis as 
+originally thought (exam confounded by right side neglect). CTA 
+of head/neck showed moderate narrowing of proximal L cavernous 
+ICA. EEG was abnormal with non-specific encephalopathy and focal 
+dysfunction ___ L temporal region, but no epileptiform 
+discharges. He showed interval improvement ___ neurological 
+status and was able to sit unassisted, feed himself with his 
+left hand and stand/walk with minimal assistance. He will need 
+ongoing ___ rehabilitation. He was medically managed 
+with aspirin, statin and permissive hypertension. He was 
+maintained on quetiapine BID and lorazepam PRN for agitation. He 
+should have follow up with Neurology for ongoing management. 
+
+# Acute kidney injury: Cr 1.8 on admission (unknown baseline) ___ 
+a patient with assumed baseline renal insufficiency likely due 
+to DM. Initial acute increase ___ creatinine (peak Cr 3.9) likely 
+due to poor forward flow ___ setting of EF of 20% and hypotension 
+related to cooling process with contribution from distributive 
+shock/sepsis. Resolved with improvement ___ clinical status and 
+now below admission value at 0.9-1.1.
+
+# DM: Glucose 400s on admission, patient managed with ISS and 
+normoglycemic throughout stay. 
+
+# Aneurysmal LV: Was initially on heparin gtt, switched to 
+Lovenox and bridged to warfarin. Will need Warfarin x 3months.
+
+TRANSITIONAL ISSUES:
+# The patient was deemed to not currently have capacity for 
+medical decision making, as he is not consistently oriented to 
+place or situation, cannot articulate his condition or decisions 
+that are being asked of him.  His brother ___ (___) 
+has been appointed his Health Care Proxy. 
+# Full Code per discussion with HCP and pt, as patient recovers 
+cognitive function.
+# Clindamycin 300mg TID for total of 1 week of antibiotics at 
+time of DC, first day ___. 
+# Continue titration of warfarin for INR goal 2.0-3.0 x3 months.
+# Repeat LFTs ___ 1 month s/p initiation of statin given slight 
+LFT elevations during admission (ALT 50, AST 44).
+# Amiodarone: Will need PFTs as outpt, TSH during admission wnl.
+# TTE should be ordered ___ 3 month to eval ventricular function.
+# Follow up with EP Dr ___ ___ ___ for device management 
+and consideration for VT ablation
+# Follow up with Neurology for post-stroke management. 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Albuterol-Ipratropium ___ PUFF IH Q6H:PRN dyspnea 
+2. Lorazepam 0.5 mg PO HS:PRN sleep 
+3. Aspirin 325 mg PO DAILY 
+4. Furosemide 40 mg PO DAILY 
+5. Lisinopril 10 mg PO DAILY 
+6. Metoprolol Tartrate 100 mg PO TID 
+7. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+8. Oxycodone-Acetaminophen (5mg-325mg) 1 TAB PO Q4H:PRN pain 
+9. Ezetimibe 10 mg PO BID 
+10. Simvastatin 80 mg PO DAILY 
+11. Glargine 90 Units Bedtime
+Humalog 6 Units Breakfast
+Humalog 6 Units Lunch
+Humalog 6 Units DinnerMax Dose Override Reason: home dose
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY 
+3. Lisinopril 5 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. Atorvastatin 40 mg PO DAILY 
+6. Spironolactone 25 mg PO DAILY 
+7. Sarna Lotion 1 Appl TP TID 
+8. Insulin SC 
+      Sliding Scale
+
+Fingerstick QACHS
+Insulin SC Sliding Scale using REG Insulin
+9. Amiodarone 200 mg PO DAILY 
+10. DiphenhydrAMINE 25 mg PO Q6H:PRN itching 
+11. Thiamine 100 mg PO DAILY 
+12. Triamcinolone Acetonide 0.1% Ointment 1 Appl TP BID 
+13. Warfarin 5 mg PO DAILY 
+dose for INR goal 2.0-3.0 
+14. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+15. Albuterol-Ipratropium ___ PUFF IH Q6H:PRN dyspnea 
+16. Clindamycin 300 mg PO Q8H 
+Stop after 3rd dose on ___ 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Non-ischemic cardiomyopathy EF ___ s/p ___ generator 
+change ___
+s/p VT cardiac arrest from cocaine use
+s/p Stroke, left occipital/parietal watershead infarct on 
+___
+Aneurysmal LV 
+
+Secondary:
+Coronary artery disease s/p CABG ___
+Diabetes type II
+COPD
+Pneumonia
+s/p MI ___ ___
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent, 1 assist out of bed
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure taking care of you at ___. You were admitted 
+for treatment of your arrhythmia (an irregular heart beat). ___ 
+this setting you suffered a cardiac arrest and required CPR and 
+medications to restore your heart beat and blood pressure. You 
+remained ___ a medical coma and and required a breathing tube 
+until your respiratory status improved. We treated your 
+arrhythmia with medications. We also performed a battery change 
+for your internal defibrillator. 
+
+It is also very important that you avoid illegal drugs at they 
+can cause changes ___ your heart rhythm which can lead to another 
+episode of your heart stopping.  Please take all your 
+medications as prescribed.
+
+You were also treated for heart failure with medications. Heart 
+failure is the inability for the heart to meet the needs of the 
+body. We have changed your medicaitons and your heart failure 
+symtpoms have continued to improve along with careful monitoring 
+of your diet and fluid intake. 
+
+You were also diagnosed and treated for pneumonia with a course 
+of antibiotics which has resolved. 
+
+You also suffered from a stroke. Your funcitoning has continued 
+to improve and you will be followed by a nueurologist as an 
+outpatient.
+
+You were found to have an anurysm ___ the left ventricle of your 
+heart which puts you at increased risk for another stroke so you 
+have been placed on Coumadin. It is very important that you take 
+your Coumadin exactly as directed (every evening, dose will be 
+adjusted by Dr. ___ and take blood tests to ensure 
+that it is working appropriately.  The rehab facility will 
+manage your Coumadin levels.
+
+For your diagnosis of heart failure it is important that you 
+weigh yourself every morning, call Dr. ___ your weight 
+goes up more than 3 lbs ___ 2 days.
+
+Please continue to take your medications as prescribed on 
+discharge. You will have close follow up with Dr. ___ Dr. 
+___ ensure that you keep these appointments. It is 
+very important that you follow up with cardiology at regular 
+intervals so that your defibrillator can be tuned up.
+
+ 
+Followup Instructions:
+___

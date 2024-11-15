@@ -1,0 +1,270 @@
+ 
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Back pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ with a history of HTN, HLD, and aortic
+valve endocarditis c/b multiple embolizations (resulting in R 
+eye
+blindness) s/p mechanical aortic valve (___) on aspirin and
+warfarin who presents from ___ with R renal infarct. He
+initially presented to ___ with severe back pain associated
+with nausea and vomiting. A CTA revealed R renal infarct. He was
+supposed to be transferred to ___ for further management but 
+he
+left AMA so that he could drive himself. On arrival to ___, 
+his
+pain had subsided. He was started on a heparin gtt (of note, had
+a subtherapeutic INR). Cardiology, nephrology, and vascular were
+consulted in the ED with ultimate plan to repeat CTA which was
+consistent with prior. 
+ 
+Past Medical History:
+- HTN
+- HLD
+- History of endocarditis of the aortic valve causing multiple
+embolizations, ultimately resulting in a mechanical AVR in ___.
+- Heart palpitations, found to have VPBs on Holter monitor.
+ 
+Social History:
+___
+Family History:
+Unknown, patient is adopted.
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS: 98.8 155/81 60 18 96 RA   
+GENERAL: NAD  
+HEENT: AT/NC, R eye closed, anicteric L sclera, MMM    
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no CVA tenderness
+EXTREMITIES: no cyanosis, clubbing, or edema    
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no rashes 
+
+DISCHARGE EXAM:
+VS: T 98.5 BP 128/90 HR 53 RR 18 O2 96% RA 
+GENERAL: Well-nourished, well-appearing gentleman, resting
+comfortably in bed in NAD 
+HEENT: AT/NC, R eye closed, anicteric L sclera, patent ear
+canals, ___ clear without erythema or exudate, MMM    
+HEART: RRR, normal S1, prominent/mechanical S2, no murmurs,
+gallops, or rubs   
+LUNGS: CTAB, no wheezes/rhonci, breathing comfortably without 
+use
+of accessory muscles  
+ABDOMEN: Soft, non-distended, non-tender in all quadrants, no
+rebound/guarding, no CVA tenderness
+EXTREMITIES: No cyanosis, clubbing, or edema    
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: Warm and well perfused, no rashes 
+ 
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:49PM   PTT-51.8*
+___ 07:40AM   GLUCOSE-104* UREA N-8 CREAT-0.7 SODIUM-143 
+POTASSIUM-3.7 CHLORIDE-105 TOTAL CO2-25 ANION GAP-13
+___ 07:40AM   ALT(SGPT)-52* AST(SGOT)-41* LD(LDH)-495* ALK 
+PHOS-110 TOT BILI-0.8
+___ 07:40AM   ALBUMIN-4.3 CALCIUM-9.3 PHOSPHATE-2.8 
+MAGNESIUM-1.8
+___ 07:40AM   WBC-14.7* RBC-5.26 HGB-15.8 HCT-46.2 MCV-88 
+MCH-30.0 MCHC-34.2 RDW-12.7 RDWSD-40.4
+___ 07:40AM   PLT COUNT-133*
+___ 07:40AM   ___ PTT-54.4* ___
+___ 10:13PM   LACTATE-1.2
+___ 10:00PM   GLUCOSE-94 UREA N-7 CREAT-0.7 SODIUM-141 
+POTASSIUM-3.8 CHLORIDE-102 TOTAL CO2-24 ANION GAP-15
+___ 10:00PM   estGFR-Using this
+___ 10:00PM URINE  HOURS-RANDOM
+___ 10:00PM URINE  UHOLD-HOLD
+___ 10:00PM   WBC-17.2*# RBC-4.98 HGB-14.9 HCT-43.1 MCV-87 
+MCH-29.9 MCHC-34.6 RDW-12.7 RDWSD-39.8
+___ 10:00PM   NEUTS-65.9 ___ MONOS-10.5 EOS-0.1* 
+BASOS-0.4 IM ___ AbsNeut-11.34*# AbsLymp-3.93* 
+AbsMono-1.81* AbsEos-0.02* AbsBaso-0.07
+___ 10:00PM   PLT COUNT-129*
+___ 10:00PM   ___ PTT-31.9 ___
+___ 10:00PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 10:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+
+DISCHARGE LABS:
+___ 07:50AM BLOOD WBC-10.7* RBC-5.22 Hgb-15.3 Hct-46.1 
+MCV-88 MCH-29.3 MCHC-33.2 RDW-12.6 RDWSD-40.4 Plt ___
+___ 07:30AM BLOOD ___
+___ 07:50AM BLOOD Glucose-90 UreaN-15 Creat-0.8 Na-142 
+K-3.8 Cl-104 HCO3-24 AnGap-14
+
+MICROBIOLOGY:
+___ Blood cx: pending
+___ Urine cx: Negative
+
+IMAGING/DIAGNOSTICS
+___ CTA ABD AND PELVIS:
+IMPRESSION: 
+1. Stable appearance of wedge shaped hypodensity in the 
+interpolar region of the right kidney concerning for renal 
+infarct. 
+2. Patent abdominal vasculature without evidence of thrombus 
+within the right renal artery.
+
+___ ECHO
+IMPRESSION: No definite valvular vegetations or pathologic 
+valvular flow identified. Mild symmetric left ventricular 
+hypertrophy with normal cavity size, and regional/global 
+systolic function. Normal right ventricular cavity size and 
+systolic function. Well seated bileaflet AVR with normal leaflet 
+motion and higher than expected gradients. Mild central aortic 
+regurgitation. 
+
+If clinically suggested, the absence of a vegetation by 2D 
+echocardiography does not exclude endocarditis. If clinically 
+warranted, a transesophageal echocardiogram is recommended.
+
+Compared with the prior study (images reviewed) of ___, 
+there has been an increase in the transvalvular gradients. Other 
+findings appear similar.  
+ 
+Brief Hospital Course:
+___ with a history of hypertension, hyperlipidemia, and aortic 
+valve endocarditis complicated by multiple embolizations 
+(resulting in R eye blindness), status post mechanical aortic 
+valve (___) on aspirin and warfarin who presents from ___ 
+___ with subtherapeutic INR and R renal infarct, now on 
+heparin drip. 
+
+ACTIVE ISSUES:
+==============
+# R renal infarct:
+Patient presented with acute back pain and was found to have R 
+renal infarct on CTA. Reportedly has intermittent compliance 
+with Coumadin and difficulty getting INR checks regularly. 
+Presented with subtherapeutic INR which likely led to aortic 
+valve thrombus and R renal infarct. Patient was started on a 
+heparin drip and was treated with warfarin 10mg. He had a 
+transthoracic echo on ___ which was negative for vegetations 
+or thrombus, normal mechanical leaflet motion, and showed a 
+normal ejection fracition but higher than expected gradients in 
+the setting of hyperdynamic LV. He was continued on his home 
+aspirin. On ___, INR was 2.4. Patient was switched back to his 
+home dose of warfarin 7mg. 
+
+CHRONIC/STABLE ISSUES:
+======================
+# Mechanical AVR: 
+Patient was treated with a heparin drip (see above) and warfarin 
+10mg. He should continue taking his home dose of warfarin (7mg) 
+when he goes home. 
+
+# HTN:
+Continued home amlodipine
+
+# HLD:
+Continued home rosuvastatin
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Patient should have his INR checked at ___ Lab on 
+___. The results should be sent to his PCP. His goal INR 
+should be 2.5-3.5 given his clotting history. 
+[ ] Patient had TTE which showed well seated bileaflet AVR with 
+normal leaflet motion and higher than expected gradients. He 
+should have a repeat-TTE in ___ months to re-assess the 
+gradients.
+
+Discharge time 25 min
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Rosuvastatin Calcium 20 mg PO QPM 
+3. Warfarin 7 mg PO DAILY16 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  amLODIPine 10 mg PO DAILY  
+3.  Rosuvastatin Calcium 20 mg PO QPM  
+4.  Warfarin 7 mg PO DAILY16  
+5.Outpatient Lab Work
+INR, ICD code: ___.2
+Please send results to: ___, Fax: ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+- Renal infarct 
+- Aortic valve endocarditis s/p mechanical aortic valve 
+replacement 
+
+SECONDARY DIAGNOSIS
+- HTN
+- HLD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+WHY WERE YOU ADMITTED?
+- You were admitted because you were having back pain and 
+imaging showed you had a clot in your renal artery. 
+
+WHAT WAS DONE FOR YOU IN THE HOSPITAL?
+- You were started on a medicine called heparin, which was given 
+to your through your vein to help thin out your blood.
+- You had an ultrasound of your heart which showed that there 
+were no bacterial clots on your heart valves! This is a good 
+thing! 
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE?
+- You should follow up with your primary care doctor
+- You should continue taking your medications as prescribed. 
+Specifically, you should take your Coumadin every day and have 
+your INR monitored regularly to ensure your blood is 
+appropriately thinned out. This will help prevent further clots 
+from developing. 
+- Your primary care doctor ___ write you a standing order to 
+have your blood drawn at ___, and she can follow your INR 
+through the PatientPortal. 
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

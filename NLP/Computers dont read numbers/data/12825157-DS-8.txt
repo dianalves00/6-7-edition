@@ -1,0 +1,186 @@
+ 
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+___ Flexible bronchoscopy with radial endobronchial 
+ultrasound and transbronchial biopsy, brush fine needle 
+aspiration, and bronchial lavage
+___ Placement of right-sided pigtail catheter
+___ Removal of right-sided pigtail catheter 
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+- None
+
+DISCHARGE LABS:
+==================
+___ 06:24AM BLOOD WBC-3.2* RBC-4.01* Hgb-12.2* Hct-37.1* 
+MCV-93 MCH-30.4 MCHC-32.9 RDW-12.9 RDWSD-43.6 Plt ___
+___ 06:24AM BLOOD ___ PTT-30.6 ___
+___ 06:24AM BLOOD Glucose-80 UreaN-13 Creat-1.1 Na-143 
+K-3.7 Cl-106 HCO3-25 AnGap-12
+___ 06:24AM BLOOD Calcium-8.7 Phos-3.2 Mg-1.9
+
+MICROBIOLOGY:
+================
+___ 10:37 am BRONCHOALVEOLAR LAVAGE     Site: MIDDLE LOBE
+      RML. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count, if 
+applicable. 
+
+   RESPIRATORY CULTURE (Preliminary):    RESULTS PENDING. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+      PATIENT CREDITED. 
+      This is a low yield procedure based on our in-house 
+studies. 
+      if pulmonary Histoplasmosis, Coccidioidomycosis, 
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected, 
+contact the
+      Microbiology Laboratory (___). 
+
+IMAGING:
+==========
+- ___ CXR
+1.  Right chest tube, with interval expansion of the right lung. 
+ No new
+pneumothorax.
+2.  Mildly enlarged cardiac silhouette, unchanged.
+
+- ___ CXR
+Comparison to ___.  Stable correct position of the 
+right pigtail catheter.  No evidence of pneumothorax on the 
+right.  Stable appearance of the left lung.
+ 
+Brief Hospital Course:
+Mr. ___ is an ___ year-old ___ speaking man with 
+history of meningioma s/p near-total resection and radiation and 
+pulmonary nodules, who was admitted for monitoring after 
+undergoing ___ biopsy, procedure complicated by R 
+pneumothorax requiring chest tube placement, ultimately with 
+resolution of pneumothorax and discontinuation of chest tube 
+prior to discharge.  
+ 
+ACUTE ISSUES  
+============  
+# Right-sided pneumothorax  
+Developed as complication of lung nodule biopsy. Underwent chest 
+tube placement in PACU then admitted to medicine for monitoring. 
+Serial CXRs with resolution of pneumothorax, and chest tube 
+removed by interventional pulmonary prior to discharge. Pain 
+controlled with Tylenol alone.
+
+CHRONIC ISSUES:  
+============-==  
+# HTN: Continued home Losartan 25mg daily  
+
+# BPH: Continued home Finasteride 5mg qhs
+
+# Cataracts s/p Surgery: Continued home Latanoprost, Timlolol 
+eye drops. Home Lumify NF so held and resumed on discharge. 
+ 
+TRANSITIONAL ISSUES:
+====================
+[] BAL with 1+ GPRs on gram stain (culture pending) - patient 
+asymptomatic without hypoxia or active pulmonary symptoms, so 
+treatment deferred, but please follow-up pending culture results 
+
+[] Follow-up pending biopsy results
+
+# Code Status: Full, presumed  
+# Emergency Contact: Daughter, ___ (___)  
+
+>30 minutes spent on discharge planning and coordination of care
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Finasteride 5 mg PO QHS 
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+3. Losartan Potassium 25 mg PO DAILY 
+4. Timolol Maleate 0.25% 1 DROP BOTH EYES DAILY 
+5. brimonidine 0.025 % ophthalmic (eye) BID 
+
+ 
+Discharge Medications:
+1.  brimonidine 0.025 % ophthalmic (eye) BID  
+2.  Finasteride 5 mg PO QHS  
+3.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+4.  Losartan Potassium 25 mg PO DAILY  
+5.  Timolol Maleate 0.25% 1 DROP BOTH EYES DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+===================
+Right pneumothorax
+
+SECONDARY DIAGNOSIS:
+=====================
+Pulmonary nodule
+Meningioma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to the hospital for monitoring after getting a 
+nodule in your lung biopsied.
+
+As a complication of your lung biopsy, you developed air around 
+your lung (called a pneumothorax) that required a tube to be 
+placed in your chest to help get the air out. You had chest 
+x-rays that showed the air resolved, and the chest tube was 
+removed. 
+
+When you leave the hospital, please continue taking all your 
+medications as prescribed and follow-up with your doctors ___ 
+below for appointment information). 
+
+It was a privilege caring for you, and we wish you well!
+
+Sincerely,
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

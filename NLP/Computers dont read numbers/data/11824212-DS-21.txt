@@ -1,0 +1,518 @@
+ 
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin / Blue Dyes / clindamycin / lidocaine / prednisone / 
+Tamiflu / Lincocin
+ 
+Attending: ___
+ 
+Chief Complaint:
+gastric obstruction 
+ 
+Major Surgical or Invasive Procedure:
+___ - EGD with biopsies
+___ - J-tube replacement
+___ - EUS with biopsies
+
+ 
+History of Present Illness:
+Patient is a ___ with mental retardation (non-verbal) and a 
+history of quadraplegia, hypothyroidism, and GI dysmotility with 
+a recent history of C. diff who presented to an OSH with 
+recurrent aspiration pneumonia that may be ___ large duodenal 
+polyp causing gastric outlet obstruction or pseudo-obstruction.
+
+Regarding his GI history: he had history of an EGD ___ 
+and ___. He is followed by the Southcoast GI (Dr. ___ and 
+General Surgery (Dr. ___ services. In ___, it was decided that 
+the polyp was not amenable to endoscopic resection and the 
+location would likely require a tertiary care referral for 
+likely surgical resection. He had a laproscopic tube jejunostomy 
+___ and an exploratory laparotomy, segmental sigmoidectomy for 
+redundant sigmoid (probable chronic volvulus) and replacement 
+tube jejunostomy ___. He had a jejunostomy change again on 
+___. He was subsequently admitted multiple times to ___
+with nausae and vomiting, ileus/CIPO and C. Diff Colitis. 
+
+More recently, he had a previously hospitalization at ___ 
+___ from ___ with aspiration pneumonia, sepsis, 
+intubation for respiratory failure, prolonged ICU stay and C. 
+Diff colitis. He was re-admitted to ___ from his 
+group home with an aspiration pneumonia after he was found to
+have vomited, desaturated to the ___ and was febrile to ___. He 
+was initially treated with meropenem x 3 days then switched to 
+flagyl to complete an empiric 10 day course (___). He is 
+s/p 21 day course of PO vancomycin for C. diff. He had a CT that 
+showed questionable mesenteric volvulus or internal hernia, as
+well as diffuse colonic distention which was likely ileus. He 
+stabilized from a respiratory standpoint, was weaned off oxygen 
+and restarted on his home medications. J-tube feedings were 
+successfully restarted. The patient was transferred to ___ for 
+advanced endoscopy vs surgical evaluation for polyp resection. 
+
+REVIEW OF SYSTEMS: Patient non-verbal at baseline
+ 
+Past Medical History:
+- Hypothyroidism
+- Recent C. diff s/p treatment (apparently recurrent)
+- HCC 
+- HTN
+- Pulmonary Nodule 
+- Aspiration pneumonia due to recurrent gastric outlet 
+obstruction
+- developmental delay (non-verbal at baseline)
+- reported paraplegia
+- GI dysmotility 
+- gastric outlet obstruction or pseudo-obstruction thought to be 
+due to duodenal hyperplasia
+
+PAST SURGICAL HISTORY:
+- Exlap ___
+- J-tube ___
+- Gastrostomy ___
+- TURP 
+- ORIF R Hip
+ 
+Social History:
+___
+Family History:
+Unknown. Patient has guardian, no known family.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: 24 HR Data (last updated ___ @ 2313)
+    Temp: 97.5 (Tm 97.5), BP: 91/55, HR: 57, RR: 16, O2 sat: 
+95%,
+O2 delivery: Ra, Wt: 125.22 lb/56.8 kg  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: rrr, no murmurs/rubs/gallops.
+LUNGS: No increased work of breathing, bilateral crackles 
+present, no wheeze
+BACK: No spinous process tenderness. No sacral ulcer.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep 
+palpation in all four quadrants. G-tube and J-tube w/ dressing 
+c/d/i. He has a J tube (nutrition) and a chronic PEG tube 
+(medication). 
+EXTREMITIES: Pulses DP/Radial 2+ bilaterally. No edema.
+SKIN: Warm. Cap refill <2s. No rash. Minimal skin breakdown over
+the elbows b/l. Minimal skin changes over the sacrum with some
+erythema. 
+NEUROLOGIC: Recoils to pain. Does not track. 
+
+DISCHARGE PHYSICAL EXAM
+========================
+VITALS: 24 HR Data (last updated ___ @ 1125)
+    Temp: 97.6 (Tm 98.7), BP: 94/54 (94-148/54-89), HR: 59
+(57-115), RR: 18 (___), O2 sat: 89% (66-100), O2 delivery: Ra
+(1L-6L), Wt: 120.37 lb/54.6 kg  
+GENERAL: awake and alert; frail and cachectic but nontoxic and
+NAD. 
+HEENT: Dry, peeling lips
+LUNGS: No increased work of breathing, lung CTAB on anterior 
+exam
+ABDOMEN: G-tube (medication) and J-tube (nutrition) w/ dressing
+c/d/i. Nontender, nondistended, no r/g
+EXTREMITIES: No edema.
+NEUROLOGIC: Does not follow specific commands. Face grossly
+symmetric. Moving upper extremities against gravity.
+
+ 
+Pertinent Results:
+ADMISSION, PERTINENT INTERVAL, DISCHARGE LABS
+==============================================
+___ 05:57AM BLOOD WBC-6.5 RBC-3.85* Hgb-11.5* Hct-35.1* 
+MCV-91 MCH-29.9 MCHC-32.8 RDW-17.5* RDWSD-56.6* Plt ___
+___ 11:59PM BLOOD Glucose-89 UreaN-21* Creat-0.7 Na-133* 
+K-5.1 Cl-95* HCO3-27 AnGap-11
+___ 05:57AM BLOOD ALT-16 AST-23 AlkPhos-126 TotBili-0.3
+___ 08:14AM BLOOD Calcium-9.1 Phos-4.1 Mg-2.2
+___ 05:57AM BLOOD Iron-55
+___ 05:57AM BLOOD calTIBC-315 Ferritn-185 TRF-242
+___ 08:14AM BLOOD WBC-7.1 RBC-3.55* Hgb-10.6* Hct-32.7* 
+MCV-92 MCH-29.9 MCHC-32.4 RDW-17.5* RDWSD-58.4* Plt ___
+___ 08:14AM BLOOD Glucose-75 UreaN-16 Creat-0.8 Na-139 
+K-4.6 Cl-100 HCO3-25 AnGap-14
+___ 08:00AM BLOOD WBC-3.9* RBC-3.63* Hgb-10.9* Hct-34.3* 
+MCV-95 MCH-30.0 MCHC-31.8* RDW-17.9* RDWSD-63.0* Plt ___
+___ 08:00AM BLOOD Glucose-119* UreaN-10 Creat-0.7 Na-139 
+K-4.3 Cl-99 HCO3-27 AnGap-13
+___ 08:14AM BLOOD CEA-4.1*
+___ 08:14 CA ___: 16 (Reference:  <34 U/mL)
+
+IMAGING
+======================================
+___ EGD: Irregular z-line in the GEJ. Previously placed 
+gastrostomy tube is noted in the stomach antrum. Mass (3 cm) in 
+the proximal first part of duodenum and just distal to the 
+antrum (biopsy). Recommendations: f/up biopsy results (see 
+below), mass is not amenable to endoscopic removal. If felt to 
+be etiology of patients intermittent obstruction and w/in ___, 
+patient would need surgical evaluation for possible resection.
+
+___ IMPRESSION:
+1. 2.4 x 2.1 cm luminal lesion in the first/second portion of 
+the duodenum, without evidence of gastric outlet obstruction on 
+the current study. 
+2. Diffuse distension of colonic loops with fluid and gas, 
+minimally changed 
+compared to prior.  This likely reflects a degree of underlying 
+ileus, but 
+there is no evidence of bowel obstruction. 
+3. Interval improvement in bibasilar airspace opacities compared 
+to ___. 
+
+___ PERC G/J TUBE CHECK/REPOSITION: 
+IMPRESSION:
+1. Successful exchange of a jejunostomy tubes for a new 14 
+___ mic 
+jejunostomy 2. 
+2. Appropriately positioned indwelling G-tube that is ready for 
+use. 
+  
+RECOMMENDATION(S):  Both tubes are ready for use. 
+
+___ EUS:
+1. Normal esophagus
+2. A previously placed gastrostomy tube is noted in the stomach 
+antrum. J-shaped stomach. Passage of EUS scope was difficult and 
+required passage of the scope over a jagwire through esophagus 
+and to pylorus.
+3. Benign appearing polypoid tissue was noted in the duodenum 
+consistent with known gastric heterotopia. Additional 
+bite-on-bite cold forceps biopsies were obtained. EUS was 
+performed using a linear echoendoscope at a frequency of ___ MHz 
+and 10 mHz. Because of the very J-shaped stomach, the EUS scope 
+could not be advanced fully into the duodenal bulb even with the 
+presence of a wire. Transpyloric EUS views showed some mild 
+mucosal thickening but no evidence of mass. 
+
+___ CXR:
+Interstitial abnormality is unchanged.  Cardiomediastinal 
+silhouette is 
+stable.  There is no pleural effusion.  No pneumothorax is seen. 
+There is 
+diffuse dilatation of the bowel loops.  No pneumothorax. 
+
+___ CT A/P WITHOUT CONTRAST:
+1. Persistent mildly worsened ileus with no definite evidence 
+bowel 
+obstruction.  Contrast has passed through the whole large bowel. 
+ The terminal ileum is relatively collapsed with the smooth 
+transition between it and more proximal dilated bowel.  In this 
+area bowel seem somewhat stretched so there may be adhesions.  
+Mild partial or intermittent obstruction is hard to entirely 
+exclude accordingly but overall findings are most suggestive of 
+ileus.  Follow-up radiographs could be pursued if there is any 
+persistent clinical concern for developing or intermittent 
+obstruction. 
+2. Interval worsening of diffuse bilateral centrilobular nodular 
+opacities 
+with new peripheral consolidations/atelectasis since the prior 
+CT.  Sequela of aspiration should be considered. 
+  
+___ KUB:
+Dilated loops of small and large bowel, most consistent with 
+ileus.
+
+MICROBIOLOGY
+======================================
+
+___ 1:22 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 CFU/mL. 
+         Piperacillin/Tazobactam test result performed by ___ 
+___. 
+      ENTEROCOCCUS SP..    10,000-100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |          ENTEROCOCCUS SP.
+                             |          |   
+AMPICILLIN------------             =>32 R
+CEFEPIME--------------     4 S
+CEFTAZIDIME-----------    16 I
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+LINEZOLID-------------                2 S
+MEROPENEM-------------     1 S
+NITROFURANTOIN--------              128 R
+PIPERACILLIN/TAZO-----       I
+TETRACYCLINE----------              <=1 S
+TOBRAMYCIN------------   <=1 S
+VANCOMYCIN------------             =>32 R
+
+___ 9:30 am STOOL     CONSISTENCY: FORMED      Source: 
+Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile PCR (Final ___: 
+      Reported to and read back by ___ ON ___ 
+AT 2:20PM. 
+      POSITIVE.              (Reference Range-Negative). 
+         The C. difficile PCR is highly sensitive for toxigenic 
+strains of
+         C. difficile and detects both C. difficile infection 
+(CDI) and
+         asymptomatic carriage. Therefore, positive C. diff PCR 
+tests
+         trigger reflex C. difficile toxin testing, which is 
+highly
+         specific for CDI. 
+
+   C. difficile Toxin antigen assay (Final ___: 
+      NEGATIVE.              (Reference Range-Negative).  
+PERFORMED BY EIA. 
+         This result indicates a low likelihood of C. difficile 
+infection
+         (CDI). 
+
+___ 10:05 am MRSA SCREEN      Source: Nasal swab. 
+
+                            **FINAL REPORT ___
+
+   MRSA SCREEN (Final ___: 
+      POSITIVE FOR METHICILLIN RESISTANT STAPH AUREUS. 
+
+PATHOLOGY
+======================================
+___: Duodenum, mass, biopsy:
+-Gastric heterotopia.
+-Negative for malignancy or dysplasia.
+
+___: Duodenum, mass, biopsy:
+Unremarkable corpus type gastric mucosa consistent with gastric
+heterotopia. Benign
+
+DISCHARGE/INTERVAL LABS
+=========================
+___ 05:44AM BLOOD WBC-4.4 RBC-3.95* Hgb-11.8* Hct-36.2* 
+MCV-92 MCH-29.9 MCHC-32.6 RDW-16.6* RDWSD-56.2* Plt ___
+___ 05:44AM BLOOD Glucose-110* UreaN-14 Creat-0.8 Na-137 
+K-4.4 Cl-96 HCO3-31 AnGap-10
+___ 05:44AM BLOOD Calcium-9.4 Phos-3.0 Mg-2.___ with mental retardation, CP with quadriplegia, recent C. 
+diff treatment, history of recurrent aspiration pneumonia, s/p 
+PEG (medications) s/p J-tube (nutrition) with chronic GI 
+dysmotility and a large duodenal polyp who presents as a 
+transfer with intermittent gastric outlet obstruction from 
+___. EGD and biopsies of duodenal mass 
+were taken which showed gastric heterotopia, negative for 
+malignancy or dysplasia. 
+
+ACUTE ISSUES
+=============
+#Large duodenal polyp with intermittent gastric outlet 
+obstruction
+#J tube dysfunction.
+#Chronic ileus. Patient underwent EGD on ___ showing 
+post-pyloric polyp. Biopsies were taken of the duodenal mass 
+showing gastric heterotopia, negative for malignancy or 
+dysplasia. He also underwent EUS on ___ with repeat benign 
+biopsies. Patient was seen by the hepatobiliary surgical team 
+for his duodenal mass and discussed in the multidisciplinary 
+conference extensively. Essentially, he would require a gastric 
+antrectomy with reconstruction to remove this polyp, which would 
+also predispose him to an even higher risk of reflux and 
+aspiration.  Given the benign pathology of the polyp, available 
+surgical options, and his overall functional status, the 
+benefits of this operation are thought to be prohibitively low 
+in this patient and such an extensive operation is therefore not 
+indicated. Furthermore, the polyp was not felt to be amenable to 
+endoscopic removal. Additionally, patient has a G-tube through 
+which he was receiving medications but would develop subsequent 
+aspiration events with medications. Given development of 
+recurrent aspiration pneumonia as below, patient was made strict 
+NPO. His J-tube was initially replaced at the beginning of his 
+hospitalization by ___ given concern for leaking; he had 
+previously received TFs via J-tube but given development of 
+recurrent aspiration pneumonia as below, tube feeds were held 
+and J-tube was subsequently hooked up to intermittent suction. 
+CT A/P obtained demonstrated ileus without obvious obstruction. 
+Given recurrent aspirations with tube feeds and frequent holding 
+of tube feeds during these events, patient was started on TPN. 
+Given ___ talk with transition to CMO in the setting of multiple 
+hospitalizations for recurrent aspirations, TPN was subsequently 
+discontinued. 
+
+#Goals of care. Meeting held between palliative care, legal 
+guardian ___, and members of DDS and patient's group 
+home to discuss goals of care moving forward. In review, patient 
+has had 15 admissions for recurrent aspiration events over the 
+past calendar year, and over 20 in the past ___ years. He has had 
+significant declines in his functional and clinical status. 
+Despite patient's extensive workup there has not been a 
+reversible cause found for his recurrent aspiration events and 
+he is likely to suffer aspiration events in the future that can 
+be fatal. In discussion between medical team members and 
+patient's representatives, it was felt to be appropriate to 
+focus on his quality of life going forward rather than on 
+further life prolonging treatments, with transition to CMO. TPN 
+will be discontinued and he will return to having medications 
+related to comfort slowly administered through G-tube.
+
+#Aspiration pneumonia. ___ hospital course was c/b 
+intermittent desaturations thought to be due to aspiration from 
+increased secretions and GJ tube dysfunction (with medications 
+and tube feeds). He initially improved with suctioning and 
+leaving the G tube to gravity but then required a brief stay in 
+the ICU for desaturation to SpO2 60___s with altered mental 
+status. He was felt to have developed a recurrent aspiration 
+pneumonia given CT chest with worsening bilateral opacities, 
+leukocytosis, and fevers. He was treated for HAP with IV 
+vanco/IV cefepime/IV flagyl for a 7 day course. His respiratory 
+status improved and he was weaned to RA upon transfer from MICU. 
+
+
+___. Likely pre-renal azotemia in the setting of TFs being 
+intermittently held (given aspirations). Cr downtrended with 
+IVF.
+
+CHRONIC ISSUES:
+===============
+#Seizure disorder. Transition back to po Ativan via G-tube. 
+
+#Anxiety. Discontinued Paroxetine and Gabapentin given 
+transition to CMO
+
+#Hypothyroidism. Discontinued Synthroid given transition to CMO
+
+#GERD: Discontinued Lansoprazole given transition to CMO
+
+TRANSITIONAL ISSUES
+===================
+[ ] Per discussion with group home, will administer medications 
+related to comfort slowly through G-tube.
+#CODE: DNR/DNI
+#CONTACT: ___, ___ (Legal Guardian)
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Milk of Magnesia 30 mL PO QHS - administer via G-tube
+2. Milk of Magnesia 30 mL PO PRN Constipation - First Line - 
+administer via G-tube
+3. Albuterol 0.083% Neb Soln 1 NEB IH Q6H 
+4. Lansoprazole Oral Disintegrating Tab 30 mg PO DAILY - 
+administer via G-tube
+5. Levothyroxine Sodium 100 mcg PO 3X/WEEK (___) - 
+administer via G-tube
+6. Levothyroxine Sodium 75 mcg PO 4X/WEEK (___) - 
+administer via G-tube
+7. LORazepam 1 mg PO Q8H:PRN anxiety - administer via G-tube
+8. Gabapentin 1200 mg PO QHS - administer via G-tube
+9. OXcarbazepine 150 mg PO TID - administer via G-tube
+10. PARoxetine 30 mg PO DAILY - administer via G-tube
+11. nystatin 100,000 unit/gram topical BID 
+12. Calmoseptine (menthol-zinc oxide) 0.44-20.6 % topical TID 
+13. Ondansetron 4 mg PO Q6H:PRN Nausea/Vomiting - First Line - 
+administer via G-tube
+14. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever - 
+administer via G-tube
+15. Fleet Enema (Mineral Oil) 1 Enema PR ONCE:PRN if no BM in 3 
+days 
+16. Lactulose 30 mL PO DAILY:PRN if no BM in 2 days - administer 
+via G-tube
+17. Bisacodyl 10 mg PR ONCE:PRN Constipation - Second Line - 
+administer via G-tube
+18. Creon 12 1 CAP PO ONCE:PRN if G tube is clogged - administer 
+via G-tube
+19. budesonide 0.5 mg/2 mL inhalation BID 
+20. Artificial Tear Ointment 1 Appl BOTH EYES QID apply both 
+eyes 
+
+ 
+Discharge Medications:
+1.  Morphine Sulfate (Oral Solution) 2 mg/mL 2 mg PO Q1H:PRN 
+pain and/or breathing issues 
+RX *morphine 10 mg/5 mL 1 cc by mouth q1 Refills:*0 
+2.  Nystatin Cream 1 Appl TP BID 
+RX *nystatin 100,000 unit/gram apply to affected areas on 
+buttocks twice a day Refills:*3 
+3.  LORazepam 0.5 mg PO BID 
+RX *lorazepam 0.5 mg 1 tab by mouth twice a day Disp #*60 Tablet 
+Refills:*0 
+4.  LORazepam 0.5 mg PO Q8H:PRN anxiety 
+RX *lorazepam 0.5 mg 1 tab by mouth every six (6) hours Disp 
+#*60 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+==================
+#DUODENAL HYPERPLASIA/POLYP
+#DEVELOPMENTAL DELAY
+#SEVERE PROTEIN-CALROIE MALNUTRITION
+#J TUBE LEAK
+#ASPIRATION PNEUMONIA
+
+SECONDARY DIAGNOSES
+===================
+#SEIZURE DISORDER
+#ANXIETY
+#HYPOTHYROIDISM
+#ASTHMA
+#GERD
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Activity Status: Bedbound.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear ___,
+ 
+It was a pleasure caring for you at ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You have had obstructive symptoms with imaging concerning for 
+a mass in the duodenum that could have been the source of your 
+obstruction
+- You developed recurrent aspiration events, which has been 
+happening quite frequently this year.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You received an endoscopy and biopsies of the mass which shows 
+that it is benign and without concern for cancer
+- The risks of removal outweigh its benefits so surgery is not 
+an option
+- You developed recurrent aspiration events and an aspiration 
+pneumonia
+- Given lack of intervenable options to fix the source of your 
+aspirations, your care has been transitioned towards comfort 
+focused and symptom based treatment
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take your medicines as prescribed.
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___
