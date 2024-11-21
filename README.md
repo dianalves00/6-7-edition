@@ -41,3 +41,4 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 ## NLP 
 # Text Modeling
 - [tfidf vectorizer](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/NLP/text%20modeling/tf_idf_classifier.ipynb)
+- [embeddings](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/NLP%20-%20Embeddings%20and%20Search/exercises_notebook.ipynb)
