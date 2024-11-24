@@ -39,7 +39,15 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - [Double (Multi) Index - Exercises Notebook](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/Data%20Wrangling/Timeseries%20%26%20DoubleIndex/Double%20Index/Exercise%20notebook.ipynb)
 
 ## NLP 
-# Text Modeling
+### Text Modeling
 - [tfidf vectorizer](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/NLP/text%20modeling/tf_idf_classifier.ipynb)
+### Search
 - [embeddings](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/NLP%20-%20Embeddings%20and%20Search/exercises_notebook.ipynb)
 - [search](https://colab.research.google.com/github/samsung-ai-course/6-7-edition/blob/main/NLP%20-%20Embeddings%20and%20Search/exercises_notebook_search.ipynb)
+
+## Supervised Learning
+### Intro, Recap and a bit more
+- [slides](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Intro%20to%20Supervised%20Learning.pdf)
+- [classification](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/classification.ipynb)
+- [regression](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/regression.ipynb)
+  
