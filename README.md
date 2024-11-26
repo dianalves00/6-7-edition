@@ -51,7 +51,9 @@ Course materials for editions 6th and 7th of this course at Nova FCT which start
 - [classification](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/classification.ipynb)
 - [regression](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/regression.ipynb)
 ### Cross-validation, hyperparameter search and..
+- [slides](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Cross%20Validation%20and%20Hyperameter%20Search.pdf)
 - [cross-validation example](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/Cross_Validation_Iris_Example.ipynb)
 - [wine quality](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/SVM_Hyperparameter_Tuning_WineQuality.ipynb)
 - [bayesian optimization example](https://github.com/bayesian-optimization/BayesianOptimization/blob/master/examples/visualization.ipynb)
+- [auto ml](https://github.com/samsung-ai-course/6-7-edition/blob/main/Supervised%20Learning/wine_auto_ml.ipynb)
   
